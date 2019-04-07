@@ -1,0 +1,66 @@
+{
+  "id": 1326465329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49842,50.35304,14.49842,50.35304",
+    "geom:latitude":50.35304,
+    "geom:longitude":14.49842,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Blata",
+    "gn:country_code":"CZ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079267,
+    "gn:latitude":50.35304,
+    "gn:longitude":14.49842,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Blata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079267
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"df56d0e49e28d23a5c6639932ba4d926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326465329,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1326465329,
+    "wof:lastmodified":1537077213,
+    "wof:name":"Blata",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49842,
+    50.35304,
+    14.49842,
+    50.35304
+],
+  "geometry": {"coordinates":[14.49842,50.35304],"type":"Point"}
+}

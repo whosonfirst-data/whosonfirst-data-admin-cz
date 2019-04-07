@@ -1,0 +1,147 @@
+{
+  "id": 1125923035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96134,49.2479,17.96134,49.2479",
+    "geom:latitude":49.2479,
+    "geom:longitude":17.96134,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":526,
+    "gn:population":526,
+    "iso:country":"CZ",
+    "lbl:latitude":49.2479,
+    "lbl:longitude":17.96134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u043b\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Prlov"
+    ],
+    "name:dut_x_preferred":[
+        "Prlov"
+    ],
+    "name:eng_x_preferred":[
+        "Prlov"
+    ],
+    "name:epo_x_preferred":[
+        "Prlov"
+    ],
+    "name:fre_x_preferred":[
+        "Prlov"
+    ],
+    "name:ger_x_preferred":[
+        "Prlov"
+    ],
+    "name:hun_x_preferred":[
+        "Prlov"
+    ],
+    "name:ita_x_preferred":[
+        "Prlov"
+    ],
+    "name:may_x_preferred":[
+        "Prlov"
+    ],
+    "name:nan_x_preferred":[
+        "Prlov"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u0644\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Prlov"
+    ],
+    "name:por_x_preferred":[
+        "Prlov"
+    ],
+    "name:rup_x_preferred":[
+        "Prlov"
+    ],
+    "name:slo_x_preferred":[
+        "Prlov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u043b\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Prlov"
+    ],
+    "name:unk_x_variant":[
+        "Prlow"
+    ],
+    "name:vie_x_preferred":[
+        "Prlov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067464,
+    "qs_pg:gn_pop":526,
+    "qs_pg:name":"Prlov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1267758,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796807,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067464,
+        "gp:id":796807,
+        "qs_pg:id":1267758,
+        "wd:id":"Q836621"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296548,
+    "wof:geomhash":"10731318cf2f10c81ab3b8c54c8c8e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125923035,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125923035,
+    "wof:lastmodified":1513945590,
+    "wof:name":"Prlov",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":526,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96134,
+    49.2479,
+    17.96134,
+    49.2479
+],
+  "geometry": {"coordinates":[17.96134,49.2479],"type":"Point"}
+}

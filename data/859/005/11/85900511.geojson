@@ -1,0 +1,109 @@
+{
+  "id": 85900511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000304,
+    "geom:area_square_m":2410716.209292,
+    "geom:bbox":"14.5349121094,50.0959171641,14.5568847656,50.1149607892",
+    "geom:latitude":50.10535,
+    "geom:longitude":14.54732,
+    "gn:latitude":50.10098,
+    "gn:longitude":14.54616,
+    "iso:country":"CZ",
+    "lbl:latitude":50.100415,
+    "lbl:longitude":14.545265,
+    "mps:latitude":50.105777,
+    "mps:longitude":14.547529,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cze_x_preferred":[
+        "Aloisov"
+    ],
+    "name:unk_x_variant":[
+        "Aloisov"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Aloisov",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Aloisov",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":84,
+    "qs:photo_sum":123,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079807,
+        "gp:id":785830,
+        "qs:id":1159045,
+        "qs_pg:id":1159045
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d75f7e15b5c4e1cba1cd508be5106398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900511,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900511,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1497308215,
+    "wof:name":"Aloisov",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53491210937506,
+    50.09591716407529,
+    14.55688476562511,
+    50.11496078917908
+],
+  "geometry": {"coordinates":[[[14.54864501952511,50.11496078917908],[14.55139160157506,50.1135331072005],[14.55688476562511,50.1135331072005],[14.5568847656138,50.11001070900006],[14.5568847656146,50.10648772770007],[14.55688476562091,50.10648766290042],[14.55575488644121,50.10472597787528],[14.55688472407513,50.10296448719812],[14.55688476560005,50.1029644872],[14.5568847656146,50.1029644224255],[14.55688476560829,50.09944098760009],[14.55688476562091,50.09944092282534],[14.55575455400214,50.09767897865022],[14.55252181319804,50.09767897865022],[14.55139164316046,50.09591722890006],[14.55139160157506,50.09591716407529],[14.54686764632476,50.09591716407529],[14.54686763246366,50.09591722890006],[14.5458984375,50.09591722890006],[14.5458984375,50.09767912895161],[14.54315185548109,50.09767913443822],[14.54315185548535,50.09944098760009],[14.54040527340004,50.09944098760009],[14.54040527340004,50.10095186690451],[14.53943710522225,50.10145498495741],[14.53905938285942,50.10120260785011],[14.53604215476452,50.10120260785011],[14.53491210937926,50.1029644224255],[14.53491210938546,50.1029644872],[14.53491210938705,50.10648772770007],[14.53491210937506,50.10734991546578],[14.54040527342511,50.11102064437621],[14.54088686606553,50.11177155175035],[14.54250954795253,50.11177155175035],[14.54864501952511,50.11496078917908]]],"type":"Polygon"}
+}

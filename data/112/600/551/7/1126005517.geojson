@@ -1,0 +1,143 @@
+{
+  "id": 1126005517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.74874,48.83147,16.74874,48.83147",
+    "geom:latitude":48.83147,
+    "geom:longitude":16.74874,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":791,
+    "gn:population":791,
+    "iso:country":"CZ",
+    "lbl:latitude":48.83147,
+    "lbl:longitude":16.74874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043b\u0445\u0430\u0440\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Bulhary"
+    ],
+    "name:dut_x_preferred":[
+        "Bulhary"
+    ],
+    "name:eng_x_preferred":[
+        "Bulhary"
+    ],
+    "name:fre_x_preferred":[
+        "Bulhary"
+    ],
+    "name:ger_x_preferred":[
+        "Bulhary"
+    ],
+    "name:hun_x_preferred":[
+        "Bulhary"
+    ],
+    "name:ita_x_preferred":[
+        "Bulhary"
+    ],
+    "name:may_x_preferred":[
+        "Bulhary"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0644\u0647\u0627\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Bulhary"
+    ],
+    "name:por_x_preferred":[
+        "Bulhary"
+    ],
+    "name:rup_x_preferred":[
+        "Bulhary"
+    ],
+    "name:slo_x_preferred":[
+        "Bulhary"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043b\u0445\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bulhary"
+    ],
+    "name:unk_x_variant":[
+        "Pulgram"
+    ],
+    "name:vie_x_preferred":[
+        "Bulhary"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078379,
+    "qs_pg:gn_pop":791,
+    "qs_pg:name":"Bulhary",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":297109,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787069,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078379,
+        "gp:id":787069,
+        "qs_pg:id":297109,
+        "wd:id":"Q1004104"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299921,
+    "wof:geomhash":"b2bb257a1f817464b3dd49fe1d1fc3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126005517,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1126005517,
+    "wof:lastmodified":1553816693,
+    "wof:name":"Bulhary",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":791,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.74874,
+    48.83147,
+    16.74874,
+    48.83147
+],
+  "geometry": {"coordinates":[16.74874,48.83147],"type":"Point"}
+}

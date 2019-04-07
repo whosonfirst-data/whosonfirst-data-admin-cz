@@ -1,0 +1,91 @@
+{
+  "id": 85900731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25617,49.596002,17.25617,49.596002",
+    "geom:latitude":49.596002,
+    "geom:longitude":17.25617,
+    "gn:latitude":49.60448,
+    "gn:longitude":17.25163,
+    "iso:country":"CZ",
+    "lbl:latitude":49.596002,
+    "lbl:longitude":17.25617,
+    "mps:latitude":49.605854,
+    "mps:longitude":17.257431,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:cze_x_preferred":[
+        "Lazce"
+    ],
+    "name:eng_x_preferred":[
+        "Lazce"
+    ],
+    "name:fre_x_preferred":[
+        "Lazce"
+    ],
+    "name:ger_x_preferred":[
+        "Lazce"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748129,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6694362,
+        "gp:id":792461,
+        "qs:id":1075172,
+        "qs_pg:id":1075172,
+        "wd:id":"Q1809527"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"89a5ec3135479c3dfbb04b197dcc1b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748129,
+            "neighbourhood_id":85900731,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":85900731,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1553814913,
+    "wof:name":"Lazce",
+    "wof:parent_id":101748129,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25617,
+    49.596002,
+    17.25617,
+    49.596002
+],
+  "geometry": {"coordinates":[17.25617,49.596002],"type":"Point"}
+}

@@ -1,0 +1,138 @@
+{
+  "id": 1125988753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01967,49.64456,17.01967,49.64456",
+    "geom:latitude":49.64456,
+    "geom:longitude":17.01967,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":210,
+    "gn:population":210,
+    "iso:country":"CZ",
+    "lbl:latitude":49.64456,
+    "lbl:longitude":17.01967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:ger_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:may_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:nan_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0644\u0633\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:por_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:rup_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:slo_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043b\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00edlsko"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079330,
+    "qs_pg:gn_pop":210,
+    "qs_pg:name":"B\u00edlsko",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1157548,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786226,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079330,
+        "gp:id":786226,
+        "qs_pg:id":1157548,
+        "wd:id":"Q519382"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298940,
+    "wof:geomhash":"28c0e2d9fb77696d97d092537bec2a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125988753,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125988753,
+    "wof:lastmodified":1553816681,
+    "wof:name":"B\u00edlsko",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01967,
+    49.64456,
+    17.01967,
+    49.64456
+],
+  "geometry": {"coordinates":[17.01967,49.64456],"type":"Point"}
+}

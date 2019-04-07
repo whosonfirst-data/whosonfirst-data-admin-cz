@@ -1,0 +1,142 @@
+{
+  "id": 1125876985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54364,48.90296,16.54364,48.90296",
+    "geom:latitude":48.90296,
+    "geom:longitude":16.54364,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":735,
+    "gn:population":735,
+    "iso:country":"CZ",
+    "lbl:latitude":48.90296,
+    "lbl:longitude":16.54364,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:dut_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:eng_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:fre_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:ger_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:hun_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:ita_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:may_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:nan_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u0633\u0648\u0647\u0644\u0627\u0648\u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:por_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:rup_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:slo_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:swe_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "name:unk_x_variant":[
+        "Weisst\u00e4tten"
+    ],
+    "name:vie_x_preferred":[
+        "Pasohl\u00e1vky"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3068545,
+    "qs_pg:gn_pop":735,
+    "qs_pg:name":"Pasohl\u00e1vky",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":271818,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795827,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068545,
+        "gp:id":795827,
+        "qs_pg:id":271818,
+        "wd:id":"Q965616"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294590,
+    "wof:geomhash":"e3811d13ee8cde76743441b47099ea6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125876985,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125876985,
+    "wof:lastmodified":1513945519,
+    "wof:name":"Pasohl\u00e1vky",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":735,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54364,
+    48.90296,
+    16.54364,
+    48.90296
+],
+  "geometry": {"coordinates":[16.54364,48.90296],"type":"Point"}
+}

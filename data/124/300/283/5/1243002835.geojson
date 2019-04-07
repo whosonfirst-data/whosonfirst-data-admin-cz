@@ -1,0 +1,70 @@
+{
+  "id": 1243002835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69747,50.68935,13.69747,50.68935",
+    "geom:latitude":50.68935,
+    "geom:longitude":13.69747,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0426",
+    "gn:asciiname":"Nove Mesto",
+    "gn:country_code":"CZ",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069468,
+    "gn:latitude":50.68935,
+    "gn:longitude":13.69747,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Nov\u00e9 M\u011bsto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nenstadt",
+        "Nov\u00e9 M\u011bsto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069468
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0f6ab2e8ee72d8678230e8d7e5d0c63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243002835,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1243002835,
+    "wof:lastmodified":1537619340,
+    "wof:name":"Nove Mesto",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69747,
+    50.68935,
+    13.69747,
+    50.68935
+],
+  "geometry": {"coordinates":[13.69747,50.68935],"type":"Point"}
+}

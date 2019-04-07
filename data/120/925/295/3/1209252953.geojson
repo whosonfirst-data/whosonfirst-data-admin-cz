@@ -1,0 +1,66 @@
+{
+  "id": 1209252953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02185,50.31916,17.02185,50.31916",
+    "geom:latitude":50.31916,
+    "geom:longitude":17.02185,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Nova Veska",
+    "gn:country_code":"CZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069561,
+    "gn:latitude":50.31916,
+    "gn:longitude":17.02185,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Nov\u00e1 V\u00e9ska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neud\u00f6rfel",
+        "Nov\u00e1 V\u00e9ska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069561
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"61cf1a96e58f9f4074898c1c59d7cd1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209252953
+        }
+    ],
+    "wof:id":1209252953,
+    "wof:lastmodified":1537619343,
+    "wof:name":"Nova Veska",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02185,
+    50.31916,
+    17.02185,
+    50.31916
+],
+  "geometry": {"coordinates":[17.02185,50.31916],"type":"Point"}
+}

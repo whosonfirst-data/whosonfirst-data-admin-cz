@@ -1,0 +1,66 @@
+{
+  "id": 1276366427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24237,50.1439,15.24237,50.1439",
+    "geom:latitude":50.1439,
+    "geom:longitude":15.24237,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Oskobrh",
+    "gn:country_code":"CZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068835,
+    "gn:latitude":50.1439,
+    "gn:longitude":15.24237,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"O\u0161kobrh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068835
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1acac70373b77a18c94f76cab0a3ef64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276366427,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276366427,
+    "wof:lastmodified":1536734447,
+    "wof:name":"Oskobrh",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24237,
+    50.1439,
+    15.24237,
+    50.1439
+],
+  "geometry": {"coordinates":[15.24237,50.1439],"type":"Point"}
+}

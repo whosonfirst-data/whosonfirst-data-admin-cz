@@ -1,0 +1,66 @@
+{
+  "id": 1276795633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56439,48.87619,14.56439,48.87619",
+    "geom:latitude":48.87619,
+    "geom:longitude":14.56439,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Jedovary",
+    "gn:country_code":"CZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074361,
+    "gn:latitude":48.87619,
+    "gn:longitude":14.56439,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Jedovary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074361
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c1186bbea4891b9d1f063629f5cb430b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276795633,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276795633,
+    "wof:lastmodified":1536656692,
+    "wof:name":"Jedovary",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56439,
+    48.87619,
+    14.56439,
+    48.87619
+],
+  "geometry": {"coordinates":[14.56439,48.87619],"type":"Point"}
+}

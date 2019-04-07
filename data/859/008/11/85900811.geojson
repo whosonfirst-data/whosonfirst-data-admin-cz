@@ -1,0 +1,149 @@
+{
+  "id": 85900811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":23250472.995223,
+    "geom:bbox":"14.12913,50.79764,14.12913,50.79764",
+    "geom:latitude":50.79764,
+    "geom:longitude":14.12913,
+    "gn:latitude":50.78786,
+    "gn:longitude":14.15292,
+    "iso:country":"CZ",
+    "lbl:latitude":50.79764,
+    "lbl:longitude":14.12913,
+    "mps:latitude":50.796971,
+    "mps:longitude":14.110932,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ces_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:cze_x_colloquial":[
+        "Decin XX-Nova Ves",
+        "Nova Ves",
+        "Nova Ves-Decin XX"
+    ],
+    "name:cze_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:cze_x_variant":[
+        "Decin XX-Nov\u00e1 Ves",
+        "Neudorf",
+        "Nov\u00e1 Ves-Decin XX"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:dsb_x_preferred":[
+        "Nowa Wjas"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:fra_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:hun_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:nld_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:slk_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:unk_x_variant":[
+        "Neudorf",
+        "Nov\u00e1 Ves"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3077244,
+    "qs:gn_nam_loc":"D\u011b\u010d\u00edn, D\u011b\u010d\u00edn, D\u011b\u010d\u00edn, \u00dasteck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Nov\u00e1 Ves",
+    "qs:local_max":595,
+    "qs:local_sum":645,
+    "qs:localhoods":3,
+    "qs:name":"Nov\u00e1 Ves",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs:name_adm2":"D\u011b\u010d\u00edn",
+    "qs:name_lau":"D\u011b\u010d\u00edn",
+    "qs:name_local":"D\u011b\u010d\u00edn",
+    "qs:photo_max":4,
+    "qs:photo_sum":27,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070499,
+    "qs:woe_adm2":12582562,
+    "qs:woe_lau":12606602,
+    "qs:woe_local":788060,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069565,
+        "gp:id":794848,
+        "qs:id":39133,
+        "qs_pg:id":39133
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"543c01ba541d8d9b7163cc0fc460fe41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900811,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":85900811,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932388,
+    "wof:name":"Nov\u00e1 Ves",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12913,
+    50.79764,
+    14.12913,
+    50.79764
+],
+  "geometry": {"coordinates":[14.12913,50.79764],"type":"Point"}
+}

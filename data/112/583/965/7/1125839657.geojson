@@ -1,0 +1,134 @@
+{
+  "id": 1125839657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29871,49.70779,14.29871,49.70779",
+    "geom:latitude":49.70779,
+    "geom:longitude":14.29871,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":83,
+    "gn:population":83,
+    "iso:country":"CZ",
+    "lbl:latitude":49.70779,
+    "lbl:longitude":14.29871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:dut_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:eng_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:epo_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:fre_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:hun_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:ita_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:may_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:nan_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0698\u0648\u067e\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:rup_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:slo_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0443\u043f\u0430\u043d\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "\u017dupanovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061316,
+    "qs_pg:gn_pop":83,
+    "qs_pg:name":"\u017dupanovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":344843,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":802246,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061316,
+        "gp:id":802246,
+        "qs_pg:id":344843,
+        "wd:id":"Q766877"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292876,
+    "wof:geomhash":"dfd714c4652db6766d6d6d9b6a563caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125839657,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125839657,
+    "wof:lastmodified":1553816563,
+    "wof:name":"\u017dupanovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29871,
+    49.70779,
+    14.29871,
+    49.70779
+],
+  "geometry": {"coordinates":[14.29871,49.70779],"type":"Point"}
+}

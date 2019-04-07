@@ -1,0 +1,138 @@
+{
+  "id": 1125956945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.73891,49.60934,17.73891,49.60934",
+    "geom:latitude":49.60934,
+    "geom:longitude":17.73891,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":853,
+    "gn:population":853,
+    "iso:country":"CZ",
+    "lbl:latitude":49.60934,
+    "lbl:longitude":17.73891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:deu_x_preferred":[
+        "Ohrnsdorf"
+    ],
+    "name:dut_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:eng_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:fre_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:ger_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:hun_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:ita_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:may_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0631\u06cc\u062a\u0698 \u0646\u0627\u062f \u0644\u0648\u062f\u06cc\u0646\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:por_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:rup_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:slo_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0438\u0442\u0435\u0436 \u043d\u0430 \u041b\u0443\u0434\u0438\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "name:vie_x_preferred":[
+        "St\u0159\u00edte\u017e nad Ludinou"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064898,
+    "qs_pg:gn_pop":853,
+    "qs_pg:name":"St\u0159\u00edte\u017e nad Ludinou",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1247608,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799089,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064898,
+        "gp:id":799089,
+        "qs_pg:id":1247608,
+        "wd:id":"Q1543682"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297650,
+    "wof:geomhash":"725340aed0239ca33b4acf1da8515845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125956945,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125956945,
+    "wof:lastmodified":1513945761,
+    "wof:name":"St\u0159\u00edte\u017e nad Ludinou",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":853,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73891,
+    49.60934,
+    17.73891,
+    49.60934
+],
+  "geometry": {"coordinates":[17.73891,49.60934],"type":"Point"}
+}

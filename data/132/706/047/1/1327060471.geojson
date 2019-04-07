@@ -1,0 +1,71 @@
+{
+  "id": 1327060471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36667,50.61667,13.36667,50.61667",
+    "geom:latitude":50.61667,
+    "geom:longitude":13.36667,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0425",
+    "gn:asciiname":"Gabrielina Hut'",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076114,
+    "gn:latitude":50.61667,
+    "gn:longitude":13.36667,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Gabrielina Hu\u0165",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabrielah\u00fctten",
+        "Gabrielina Hu\u0165"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076114
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d67e780866ceb624dd02e6355aac4bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327060471,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1327060471,
+    "wof:lastmodified":1537619423,
+    "wof:name":"Gabrielina Hut'",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36667,
+    50.61667,
+    13.36667,
+    50.61667
+],
+  "geometry": {"coordinates":[13.36667,50.61667],"type":"Point"}
+}

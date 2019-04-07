@@ -1,0 +1,129 @@
+{
+  "id": 1125928465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.10528,49.45087,13.10528,49.45087",
+    "geom:latitude":49.45087,
+    "geom:longitude":13.10528,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":69,
+    "gn:population":69,
+    "iso:country":"CZ",
+    "lbl:latitude":49.45087,
+    "lbl:longitude":13.10528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:dut_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:eng_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:fre_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:ger_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:hun_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:may_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0634\u067e\u0627\u062f\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:por_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:slo_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0448\u0435\u043f\u0430\u0434\u043b\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "V\u0161epadly"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062355,
+    "qs_pg:gn_pop":69,
+    "qs_pg:name":"V\u0161epadly",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1268822,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801308,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062355,
+        "gp:id":801308,
+        "qs_pg:id":1268822,
+        "wd:id":"Q2435016"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296725,
+    "wof:geomhash":"4aaed890c0dc8d5b7c5bfe24d571c34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125928465,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125928465,
+    "wof:lastmodified":1513945939,
+    "wof:name":"V\u0161epadly",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.10528,
+    49.45087,
+    13.10528,
+    49.45087
+],
+  "geometry": {"coordinates":[13.10528,49.45087],"type":"Point"}
+}

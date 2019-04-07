@@ -1,0 +1,71 @@
+{
+  "id": 1293031811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39012,49.59191,15.39012,49.59191",
+    "geom:latitude":49.59191,
+    "geom:longitude":15.39012,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Jalovci",
+    "gn:country_code":"CZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074562,
+    "gn:latitude":49.59191,
+    "gn:longitude":15.39012,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Jalov\u010d\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mal\u00fd Budikov",
+        "Jalova",
+        "Jalov\u010d\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074562
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0569c6d0616c570a38443294b55196f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293031811,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1293031811,
+    "wof:lastmodified":1537619402,
+    "wof:name":"Jalovci",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39012,
+    49.59191,
+    15.39012,
+    49.59191
+],
+  "geometry": {"coordinates":[15.39012,49.59191],"type":"Point"}
+}

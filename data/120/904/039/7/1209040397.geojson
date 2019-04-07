@@ -1,0 +1,62 @@
+{
+  "id": 1209040397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23712,50.16221,16.23712,50.16221",
+    "geom:latitude":50.16221,
+    "geom:longitude":16.23712,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Novy Lokot",
+    "gn:country_code":"CZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069293,
+    "gn:latitude":50.16221,
+    "gn:longitude":16.23712,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Nov\u00fd Lokot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069293
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"93c91300285eba9ec12b852ff59ba527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209040397
+        }
+    ],
+    "wof:id":1209040397,
+    "wof:lastmodified":1536299564,
+    "wof:name":"Novy Lokot",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23712,
+    50.16221,
+    16.23712,
+    50.16221
+],
+  "geometry": {"coordinates":[16.23712,50.16221],"type":"Point"}
+}

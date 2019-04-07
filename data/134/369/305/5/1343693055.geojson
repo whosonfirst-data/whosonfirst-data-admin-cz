@@ -1,0 +1,70 @@
+{
+  "id": 1343693055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49358,49.7932,13.49358,49.7932",
+    "geom:latitude":49.7932,
+    "geom:longitude":13.49358,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0323",
+    "gn:asciiname":"Chrast",
+    "gn:country_code":"CZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077598,
+    "gn:latitude":49.7932,
+    "gn:longitude":13.49358,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Chr\u00e1st",
+    "gn:population":1700,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077598,
+        "wk:page":"Chr%C3%A1st_%28Plze%C5%88-City_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8a46c1d85d4495b2e388e027bdebdced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343693055,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343693055,
+    "wof:lastmodified":1537504067,
+    "wof:name":"Chrast",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":1700,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49358,
+    49.7932,
+    13.49358,
+    49.7932
+],
+  "geometry": {"coordinates":[13.49358,49.7932],"type":"Point"}
+}

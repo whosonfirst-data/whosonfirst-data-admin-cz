@@ -1,0 +1,70 @@
+{
+  "id": 1293723061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.74654,49.75569,12.74654,49.75569",
+    "geom:latitude":49.75569,
+    "geom:longitude":12.74654,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Hlinne",
+    "gn:country_code":"CZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075773,
+    "gn:latitude":49.75569,
+    "gn:longitude":12.74654,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Hlinn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lihn",
+        "Hlinn\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075773
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bbbe86c3b6d180f5d6471812d13655b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293723061,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293723061,
+    "wof:lastmodified":1537619418,
+    "wof:name":"Hlinne",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.74654,
+    49.75569,
+    12.74654,
+    49.75569
+],
+  "geometry": {"coordinates":[12.74654,49.75569],"type":"Point"}
+}

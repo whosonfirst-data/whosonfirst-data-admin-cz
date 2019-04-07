@@ -1,0 +1,80 @@
+{
+  "id": 1125339747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.406549,49.103221,17.406549,49.103221",
+    "geom:latitude":49.103221,
+    "geom:longitude":17.406549,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":49.103221,
+    "lbl:longitude":17.406549,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Velehrad",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos":11,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":288,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1312761,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12606476,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12606476,
+        "qs_pg:id":1312761
+    },
+    "wof:country":"CZ",
+    "wof:created":1497045588,
+    "wof:geomhash":"eabda7e69feafd8c90fd3eb8a5661df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125339747,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125339747,
+    "wof:lastmodified":1509388622,
+    "wof:name":"Velehrad",
+    "wof:parent_id":85682419,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.406549,
+    49.103221,
+    17.406549,
+    49.103221
+],
+  "geometry": {"coordinates":[17.406549,49.103221],"type":"Point"}
+}

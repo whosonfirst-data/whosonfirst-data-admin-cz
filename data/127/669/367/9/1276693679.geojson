@@ -1,0 +1,66 @@
+{
+  "id": 1276693679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36298,49.37667,16.36298,49.37667",
+    "geom:latitude":49.37667,
+    "geom:longitude":16.36298,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0623",
+    "gn:asciiname":"Zahrada",
+    "gn:country_code":"CZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062007,
+    "gn:latitude":49.37667,
+    "gn:longitude":16.36298,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"Zahrada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062007
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fa62f8e925610c38433ffcc0edb8ed3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276693679,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1276693679,
+    "wof:lastmodified":1536793114,
+    "wof:name":"Zahrada",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36298,
+    49.37667,
+    16.36298,
+    49.37667
+],
+  "geometry": {"coordinates":[16.36298,49.37667],"type":"Point"}
+}

@@ -1,0 +1,146 @@
+{
+  "id": 1125861473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98993,49.48682,15.98993,49.48682",
+    "geom:latitude":49.48682,
+    "geom:longitude":15.98993,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":896,
+    "gn:population":896,
+    "iso:country":"CZ",
+    "lbl:latitude":49.48682,
+    "lbl:longitude":15.98993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5967\u65af\u62c9\u74e6\u6cb3\u7554\u5967\u65af\u7279\u7f85\u592b"
+    ],
+    "name:cze_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:dut_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:eng_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:fre_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:ger_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:hun_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:ita_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:may_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:nan_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0633\u062a\u0631\u0648\u0641 \u0646\u0627\u062f \u0627\u0648\u0633\u0644\u0627\u0648\u0648\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:rup_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:slo_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432 \u043d\u0430 \u041e\u0441\u043b\u0430\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:unk_x_variant":[
+        "Ostrau"
+    ],
+    "name:vie_x_preferred":[
+        "Ostrov nad Oslavou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u65af\u62c9\u74e6\u6cb3\u7554\u5967\u65af\u7279\u7f85\u592b"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3068756,
+    "qs_pg:gn_pop":896,
+    "qs_pg:name":"Ostrov nad Oslavou",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":255273,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795642,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068756,
+        "gp:id":795642,
+        "qs_pg:id":255273,
+        "wd:id":"Q665211"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293846,
+    "wof:geomhash":"4ca72d0ca2784595d5171af0d36db7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125861473,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125861473,
+    "wof:lastmodified":1513945496,
+    "wof:name":"Ostrov nad Oslavou",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":896,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98993,
+    49.48682,
+    15.98993,
+    49.48682
+],
+  "geometry": {"coordinates":[15.98993,49.48682],"type":"Point"}
+}

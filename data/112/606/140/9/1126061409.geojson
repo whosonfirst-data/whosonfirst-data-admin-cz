@@ -1,0 +1,91 @@
+{
+  "id": 1126061409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99143,50.65936,13.99143,50.65936",
+    "geom:latitude":50.65936,
+    "geom:longitude":13.99143,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CZ",
+    "lbl:latitude":50.65936,
+    "lbl:longitude":13.99143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Pr\u00f6dlitz"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067629,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"P\u0159edlice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":270438,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796654,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101748139,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067629,
+        "gp:id":796654,
+        "qs_pg:id":270438
+    },
+    "wof:country":"CZ",
+    "wof:created":1497308193,
+    "wof:geomhash":"257c3edace614ffd982d1366ad371fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748139,
+            "neighbourhood_id":1126061409,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1126061409,
+    "wof:lastmodified":1509410212,
+    "wof:name":"P\u0159edlice",
+    "wof:parent_id":101748139,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99143,
+    50.65936,
+    13.99143,
+    50.65936
+],
+  "geometry": {"coordinates":[13.99143,50.65936],"type":"Point"}
+}

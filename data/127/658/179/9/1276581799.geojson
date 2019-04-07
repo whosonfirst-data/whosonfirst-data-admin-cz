@@ -1,0 +1,66 @@
+{
+  "id": 1276581799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68797,49.45939,14.68797,49.45939",
+    "geom:latitude":49.45939,
+    "geom:longitude":14.68797,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Vrazna",
+    "gn:country_code":"CZ",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062481,
+    "gn:latitude":49.45939,
+    "gn:longitude":14.68797,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Vr\u00e1\u017en\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062481
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5fad06e6685388cab572416df5c22013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276581799,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276581799,
+    "wof:lastmodified":1536943958,
+    "wof:name":"Vrazna",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68797,
+    49.45939,
+    14.68797,
+    49.45939
+],
+  "geometry": {"coordinates":[14.68797,49.45939],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360315865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.776,49.00405,13.776,49.00405",
+    "geom:latitude":49.00405,
+    "geom:longitude":13.776,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Arnostka",
+    "gn:country_code":"CZ",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079761,
+    "gn:latitude":49.00405,
+    "gn:longitude":13.776,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Arno\u0161tka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ernstberg",
+        "Arno\u0161tka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079761
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d1836fbda5d86e156c20be60850b2779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360315865,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1360315865,
+    "wof:lastmodified":1537619465,
+    "wof:name":"Arnostka",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.776,
+    49.00405,
+    13.776,
+    49.00405
+],
+  "geometry": {"coordinates":[13.776,49.00405],"type":"Point"}
+}

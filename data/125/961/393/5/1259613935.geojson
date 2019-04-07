@@ -1,0 +1,66 @@
+{
+  "id": 1259613935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51436,50.53372,15.51436,50.53372",
+    "geom:latitude":50.53372,
+    "geom:longitude":15.51436,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"0514",
+    "gn:asciiname":"Zd'ar",
+    "gn:country_code":"CZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061708,
+    "gn:latitude":50.53372,
+    "gn:longitude":15.51436,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"\u017d\u010f\u00e1r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061708
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4ef572746b599b6200c3bd6a162e984e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259613935,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1259613935,
+    "wof:lastmodified":1536671016,
+    "wof:name":"Zd'ar",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51436,
+    50.53372,
+    15.51436,
+    50.53372
+],
+  "geometry": {"coordinates":[15.51436,50.53372],"type":"Point"}
+}

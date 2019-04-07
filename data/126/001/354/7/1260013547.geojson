@@ -1,0 +1,66 @@
+{
+  "id": 1260013547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57554,49.49169,14.57554,49.49169",
+    "geom:latitude":49.49169,
+    "geom:longitude":14.57554,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Podol",
+    "gn:country_code":"CZ",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068023,
+    "gn:latitude":49.49169,
+    "gn:longitude":14.57554,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Podol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068023
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9a61226d30fd9ad7e92d8d03ac4bac7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260013547,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260013547,
+    "wof:lastmodified":1537085518,
+    "wof:name":"Podol",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57554,
+    49.49169000000001,
+    14.57554,
+    49.49169000000001
+],
+  "geometry": {"coordinates":[14.57554,49.49169000000001],"type":"Point"}
+}

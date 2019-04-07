@@ -1,0 +1,141 @@
+{
+  "id": 1125939791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.44881,50.03629,12.44881,50.03629",
+    "geom:latitude":50.03629,
+    "geom:longitude":12.44881,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":595,
+    "gn:population":595,
+    "iso:country":"CZ",
+    "lbl:latitude":50.03629,
+    "lbl:longitude":12.44881,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Lipov\u00e1 u Chebu"
+    ],
+    "name:hun_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u06cc\u067e\u0648\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:rup_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:slo_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Lindenhau"
+    ],
+    "name:vie_x_preferred":[
+        "Lipov\u00e1"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071775,
+    "qs_pg:gn_pop":595,
+    "qs_pg:name":"Lipov\u00e1",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Karlovarsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399148,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792936,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Karlovarsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071775,
+        "gp:id":792936,
+        "qs_pg:id":399148,
+        "wd:id":"Q649233"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297078,
+    "wof:geomhash":"06b3cac075380c44af43e8e1a4a6bbba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125939791,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1125939791,
+    "wof:lastmodified":1553816646,
+    "wof:name":"Lipov\u00e1",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":595,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.44881,
+    50.03629,
+    12.44881,
+    50.03629
+],
+  "geometry": {"coordinates":[12.44881,50.03629],"type":"Point"}
+}

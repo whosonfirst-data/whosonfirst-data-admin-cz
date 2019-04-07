@@ -1,0 +1,62 @@
+{
+  "id": 1209243211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16667,50.03333,16.16667,50.03333",
+    "geom:latitude":50.03333,
+    "geom:longitude":16.16667,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Plchuvky",
+    "gn:country_code":"CZ",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068210,
+    "gn:latitude":50.03333,
+    "gn:longitude":16.16667,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Plch\u016fvky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068210
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"421845c62deeca5c0d003b9225bae5ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209243211
+        }
+    ],
+    "wof:id":1209243211,
+    "wof:lastmodified":1536293251,
+    "wof:name":"Plchuvky",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16667,
+    50.03333,
+    16.16667,
+    50.03333
+],
+  "geometry": {"coordinates":[16.16667,50.03333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226683189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.71951,49.52186,12.71951,49.52186",
+    "geom:latitude":49.52186,
+    "geom:longitude":12.71951,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Sidlakov",
+    "gn:country_code":"CZ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066141,
+    "gn:latitude":49.52186,
+    "gn:longitude":12.71951,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"\u0160idl\u00e1kov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schilligkau",
+        "\u0160idl\u00e1kov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066141
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5960f020ae4b09269a0eb38d0f2bf453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226683189,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1226683189,
+    "wof:lastmodified":1537619304,
+    "wof:name":"Sidlakov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.71951,
+    49.52186,
+    12.71951,
+    49.52186
+],
+  "geometry": {"coordinates":[12.71951,49.52186],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209350539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.50447,49.03715,17.50447,49.03715",
+    "geom:latitude":49.03715,
+    "geom:longitude":17.50447,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0722",
+    "gn:asciiname":"Mikovice",
+    "gn:country_code":"CZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070728,
+    "gn:latitude":49.03715,
+    "gn:longitude":17.50447,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"M\u00edkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070728
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7ded1f2d5a100798e3284b9481c64c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209350539
+        }
+    ],
+    "wof:id":1209350539,
+    "wof:lastmodified":1536289756,
+    "wof:name":"Mikovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.50447,
+    49.03715,
+    17.50447,
+    49.03715
+],
+  "geometry": {"coordinates":[17.50447,49.03715],"type":"Point"}
+}

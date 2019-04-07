@@ -1,0 +1,71 @@
+{
+  "id": 1344087507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65,50.06667,12.65,50.06667",
+    "geom:latitude":50.06667,
+    "geom:longitude":12.65,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Dolni Lazy",
+    "gn:country_code":"CZ",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076808,
+    "gn:latitude":50.06667,
+    "gn:longitude":12.65,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Doln\u00ed Lazy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unter Perlsberg",
+        "Doln\u00ed Perlsberg",
+        "Doln\u00ed Lazy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076808
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6d1fea7a580a53c3563c6e7911b80263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344087507,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1344087507,
+    "wof:lastmodified":1537619433,
+    "wof:name":"Dolni Lazy",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65,
+    50.06667,
+    12.65,
+    50.06667
+],
+  "geometry": {"coordinates":[12.65,50.06667],"type":"Point"}
+}

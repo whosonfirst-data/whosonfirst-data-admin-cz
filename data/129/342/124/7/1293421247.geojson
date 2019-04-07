@@ -1,0 +1,70 @@
+{
+  "id": 1293421247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2,48.75,14.2,48.75",
+    "geom:latitude":48.75,
+    "geom:longitude":14.2,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Tatry",
+    "gn:country_code":"CZ",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064340,
+    "gn:latitude":48.75,
+    "gn:longitude":14.2,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Tatry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tattern",
+        "Tatry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064340
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a3aff3dd0d029b56f11fe5c6672de1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293421247,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293421247,
+    "wof:lastmodified":1537619283,
+    "wof:name":"Tatry",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2,
+    48.75,
+    14.2,
+    48.75
+],
+  "geometry": {"coordinates":[14.2,48.75],"type":"Point"}
+}

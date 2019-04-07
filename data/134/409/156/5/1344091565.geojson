@@ -1,0 +1,66 @@
+{
+  "id": 1344091565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23775,49.69369,18.23775,49.69369",
+    "geom:latitude":49.69369,
+    "geom:longitude":18.23775,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Borosin",
+    "gn:country_code":"CZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078972,
+    "gn:latitude":49.69369,
+    "gn:longitude":18.23775,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Boro\u0161\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078972
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1efdb18f37e85e1295a45f07582063fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344091565,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1344091565,
+    "wof:lastmodified":1536829771,
+    "wof:name":"Borosin",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23775,
+    49.69369,
+    18.23775,
+    49.69369
+],
+  "geometry": {"coordinates":[18.23775,49.69369],"type":"Point"}
+}

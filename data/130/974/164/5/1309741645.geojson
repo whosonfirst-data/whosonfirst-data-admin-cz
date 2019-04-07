@@ -1,0 +1,66 @@
+{
+  "id": 1309741645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.748,49.70959,15.748,49.70959",
+    "geom:latitude":49.70959,
+    "geom:longitude":15.748,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Malochyne",
+    "gn:country_code":"CZ",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071117,
+    "gn:latitude":49.70959,
+    "gn:longitude":15.748,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Malochyn\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071117
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0970cef228d8764642162481cb9a8574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309741645,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1309741645,
+    "wof:lastmodified":1537022658,
+    "wof:name":"Malochyne",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.748,
+    49.70959000000001,
+    15.748,
+    49.70959000000001
+],
+  "geometry": {"coordinates":[15.748,49.70959000000001],"type":"Point"}
+}

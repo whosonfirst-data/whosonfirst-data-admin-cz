@@ -1,0 +1,141 @@
+{
+  "id": 1125856621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88337,49.2122,17.88337,49.2122",
+    "geom:latitude":49.2122,
+    "geom:longitude":17.88337,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":240,
+    "gn:population":240,
+    "iso:country":"CZ",
+    "lbl:latitude":49.2122,
+    "lbl:longitude":17.88337,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0445\u043e\u0446\u043a\u043e"
+    ],
+    "name:cze_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:dut_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:eng_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:epo_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:fre_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:ger_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:hun_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:ita_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:may_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0647\u0648\u062a\u0633\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:por_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:rup_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:slo_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0445\u043e\u0442\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Lhotsko"
+    ],
+    "name:vie_x_preferred":[
+        "Lhotsko"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072002,
+    "qs_pg:gn_pop":240,
+    "qs_pg:name":"Lhotsko",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1266805,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792729,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072002,
+        "gp:id":792729,
+        "qs_pg:id":1266805,
+        "wd:id":"Q1021694"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293648,
+    "wof:geomhash":"a8865f5833e7ff5dd885697b1e019ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125856621,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125856621,
+    "wof:lastmodified":1513945278,
+    "wof:name":"Lhotsko",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88337,
+    49.2122,
+    17.88337,
+    49.2122
+],
+  "geometry": {"coordinates":[17.88337,49.2122],"type":"Point"}
+}

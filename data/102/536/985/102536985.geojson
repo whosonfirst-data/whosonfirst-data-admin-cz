@@ -1,0 +1,65 @@
+{
+  "id": 102536985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9716639,49.1508306,14.9716639,49.1508306",
+    "geom:latitude":49.150831,
+    "geom:longitude":14.971664,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1667",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582539,
+        "localadmin_id":12604526,
+        "planet_id":1,
+        "state_id":20070502
+    },
+    "wof:belongsto":[
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049710,
+        "icao:code":"LKJH",
+        "oa:id":"29995",
+        "wd:id":"Q25471790"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ecad01a57bad3def0746925c4eafa4aa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536985,
+            "country_id":85633105,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":102536985,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Letiste Jindrichuv Hradec",
+    "wof:parent_id":85682415,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.9716639,
+    49.1508306,
+    14.9716639,
+    49.1508306
+],
+  "geometry": {"coordinates":[14.9716639,49.1508306],"type":"Point"}
+}

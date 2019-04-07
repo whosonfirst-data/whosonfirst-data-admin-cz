@@ -1,0 +1,70 @@
+{
+  "id": 1193167637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83333,49.95,12.83333,49.95",
+    "geom:latitude":49.95,
+    "geom:longitude":12.83333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Svaty Vojtech",
+    "gn:country_code":"CZ",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064538,
+    "gn:latitude":49.95,
+    "gn:longitude":12.83333,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Svat\u00fd Vojt\u011bch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Adalbert",
+        "Svat\u00fd Vojt\u011bch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064538
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4f8b0b9087272cb5a149d914ad2020a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193167637,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1193167637,
+    "wof:lastmodified":1537619285,
+    "wof:name":"Svaty Vojtech",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83333,
+    49.95,
+    12.83333,
+    49.95
+],
+  "geometry": {"coordinates":[12.83333,49.95],"type":"Point"}
+}

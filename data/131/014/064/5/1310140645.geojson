@@ -1,0 +1,66 @@
+{
+  "id": 1310140645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50085,49.55497,15.50085,49.55497",
+    "geom:latitude":49.55497,
+    "geom:longitude":15.50085,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Radnov",
+    "gn:country_code":"CZ",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067171,
+    "gn:latitude":49.55497,
+    "gn:longitude":15.50085,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Rad\u0148ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067171
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"18f9ac8c91c56decca6451b18341f5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310140645,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1310140645,
+    "wof:lastmodified":1536946211,
+    "wof:name":"Radnov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50085,
+    49.55497,
+    15.50085,
+    49.55497
+],
+  "geometry": {"coordinates":[15.50085,49.55497],"type":"Point"}
+}

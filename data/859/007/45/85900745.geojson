@@ -1,0 +1,146 @@
+{
+  "id": 85900745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000501,
+    "geom:area_square_m":3982317.878842,
+    "geom:bbox":"14.4162419789,49.9934215823,14.4547834775,50.0218575751",
+    "geom:latitude":50.007869,
+    "geom:longitude":14.43697,
+    "gn:latitude":50.0143,
+    "gn:longitude":14.45693,
+    "iso:country":"CZ",
+    "lbl:latitude":50.009651,
+    "lbl:longitude":14.461753,
+    "mps:latitude":50.004874,
+    "mps:longitude":14.439891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:arm_x_preferred":[
+        "\u053c\u056b\u0562\u0578\u0582\u0577"
+    ],
+    "name:ces_x_preferred":[
+        "Libu\u0161"
+    ],
+    "name:cze_x_preferred":[
+        "Libu\u0161"
+    ],
+    "name:cze_x_variant":[
+        "Praha-Libu\u00e5\u010d",
+        "Libusch"
+    ],
+    "name:dut_x_preferred":[
+        "Praag-Libu\u0161"
+    ],
+    "name:eng_x_preferred":[
+        "Libu\u0161"
+    ],
+    "name:eng_x_preferred_x_preferred":[
+        "Libusch"
+    ],
+    "name:fre_x_preferred":[
+        "Libu\u0161"
+    ],
+    "name:ger_x_variant":[
+        "Libusch"
+    ],
+    "name:pol_x_preferred":[
+        "Libu\u0161"
+    ],
+    "name:slk_x_preferred":[
+        "Libu\u0161"
+    ],
+    "name:slo_x_preferred":[
+        "Libu\u0161"
+    ],
+    "name:unk_x_variant":[
+        "Libusch",
+        "Libusch"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:gn_name":"Libu\u0161",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Libusch",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":4,
+    "qs:photo_sum":11,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071882,
+        "gp:id":792840,
+        "qs:id":326051,
+        "qs_pg:id":326051,
+        "wd:id":"Q3489926",
+        "wk:page":"Libu\u0161"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3961c62fcb2bc676b6577da0dedc8806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900745,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900745,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1536864509,
+    "wof:name":"Libus",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41624197891241,
+    49.99342158228613,
+    14.45478347750822,
+    50.02185757505033
+],
+  "geometry": {"coordinates":[[[14.42439391617967,50.02185757505033],[14.43125801915528,50.01117524553906],[14.4405711480884,50.01479839205014],[14.44152832032506,50.01479839205014],[14.442484492821,50.01479839205014],[14.44248582576,50.01479891065033],[14.4502463192814,50.01479891065033],[14.4525146067503,50.01126925440003],[14.4525146484001,50.01126925440003],[14.4525146484001,50.0112691895893],[14.45478347750822,50.00773869050032],[14.45251464842522,50.00597363545036],[14.4525146484151,50.00420851560007],[14.4525146484151,50.00067775719994],[14.45251464842522,49.99891211872533],[14.44702148437511,49.99891211872533],[14.43996282709287,49.99342158228613],[14.43996021359624,49.99343019782997],[14.43995658451752,49.99346704448369],[14.43871920001999,49.99412844027701],[14.43720383453837,49.99537206858828],[14.43646003246215,49.99627839404049],[14.43643609201547,49.99628565629574],[14.4349549039764,49.99673496977512],[14.43322603597005,49.997659068977],[14.43171067048843,49.99890269728836],[14.43166742817806,49.99895538819599],[14.43054199220023,50.00420845075008],[14.43054199220023,50.00950400485029],[14.41955566407512,50.00950400485029],[14.41664983883726,50.01176478256839],[14.41624197891241,50.01303411492547],[14.41902370784743,50.02169198435611],[14.41955566407512,50.02185757505033],[14.42439391617967,50.02185757505033]]],"type":"Polygon"}
+}

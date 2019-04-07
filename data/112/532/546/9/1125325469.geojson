@@ -1,0 +1,80 @@
+{
+  "id": 1125325469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22936,50.546742,16.22936,50.546742",
+    "geom:latitude":50.546742,
+    "geom:longitude":16.22936,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":50.546742,
+    "lbl:longitude":16.22936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bukovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos":147,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":147,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1263323,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":24544621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24544621,
+        "qs_pg:id":1263323
+    },
+    "wof:country":"CZ",
+    "wof:created":1497044783,
+    "wof:geomhash":"e2ece44d3ad0f0db5acf2e218881908d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125325469,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125325469,
+    "wof:lastmodified":1509388227,
+    "wof:name":"Bukovice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22936,
+    50.546742,
+    16.22936,
+    50.546742
+],
+  "geometry": {"coordinates":[16.22936,50.546742],"type":"Point"}
+}

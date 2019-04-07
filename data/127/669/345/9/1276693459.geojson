@@ -1,0 +1,66 @@
+{
+  "id": 1276693459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68033,50.41831,14.68033,50.41831",
+    "geom:latitude":50.41831,
+    "geom:longitude":14.68033,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Tajna",
+    "gn:country_code":"CZ",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064366,
+    "gn:latitude":50.41831,
+    "gn:longitude":14.68033,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Tajn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064366
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"10eb3ebf7b5e82f62a71e865907a107f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276693459,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276693459,
+    "wof:lastmodified":1536793421,
+    "wof:name":"Tajna",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68033,
+    50.41831,
+    14.68033,
+    50.41831
+],
+  "geometry": {"coordinates":[14.68033,50.41831],"type":"Point"}
+}

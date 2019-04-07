@@ -1,0 +1,126 @@
+{
+  "id": 101825285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":787381.704646,
+    "geom:bbox":"15.9341393459,49.9953087236,15.9556704601,50.0056941846",
+    "geom:latitude":50.000333,
+    "geom:longitude":15.944496,
+    "gn:population":1706,
+    "iso:country":"CZ",
+    "lbl:latitude":50.000852,
+    "lbl:longitude":15.942865,
+    "mps:latitude":50.000852,
+    "mps:longitude":15.942865,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Moravany"
+    ],
+    "name:dut_x_preferred":[
+        "Moravany"
+    ],
+    "name:eng_x_preferred":[
+        "Moravany"
+    ],
+    "name:epo_x_preferred":[
+        "Moravany"
+    ],
+    "name:fre_x_preferred":[
+        "Moravany"
+    ],
+    "name:hun_x_preferred":[
+        "Moravany"
+    ],
+    "name:ita_x_preferred":[
+        "Moravany"
+    ],
+    "name:may_x_preferred":[
+        "Moravany"
+    ],
+    "name:por_x_preferred":[
+        "Moravany"
+    ],
+    "name:rup_x_preferred":[
+        "Moravany"
+    ],
+    "name:slo_x_preferred":[
+        "Moravany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Moravany"
+    ],
+    "name:unk_x_variant":[
+        "Morawan"
+    ],
+    "name:vie_x_preferred":[
+        "Moravany"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Pardubick\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Moravany",
+    "qs:la_lc":"*CZ0532575399",
+    "qs:level":"locality",
+    "qs:loc":"Moravany",
+    "qs:loc_alt":"Moravany",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070354,
+        "gp:id":794201,
+        "qs:id":1267161,
+        "qs_pg:id":1267161,
+        "wd:id":"Q2521236",
+        "wk:page":"Moravany (Pardubice District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"456a8790564c3f801aedc28c8824b714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825285,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":101825285,
+    "wof:lastmodified":1553815526,
+    "wof:name":"Moravany",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":1706,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9341393459091,
+    49.99530872356735,
+    15.95567046007716,
+    50.00569418464318
+],
+  "geometry": {"coordinates":[[[15.94649209611441,50.00562139890769],[15.94638054219934,50.00472564925991],[15.94777152578456,50.00465284810525],[15.94754838202118,50.00286135074344],[15.94893931013002,50.00278853573803],[15.94882772028529,50.00189278802401],[15.95160951327733,50.00174711019309],[15.95149787706259,50.00085136521466],[15.95567046007716,50.00063272578825],[15.95555875170339,49.99973698511587],[15.95416792037184,49.9998098803398],[15.95383290400309,49.99712265120797],[15.95105138446183,49.99726838129175],[15.951162999774,49.99816412787391],[15.94699061401553,49.99838260032845],[15.94687907608017,49.99748684904341],[15.93853435475364,49.99792332599236],[15.93831160404864,49.99613180342845],[15.93692085520223,49.99620448701421],[15.93680951346073,49.99530872356735],[15.93541878653849,49.99538138860555],[15.93553010248854,49.99627715361675],[15.9341393459091,49.996349803236],[15.93436194185597,49.99814133518532],[15.93714355432166,49.99799601270718],[15.93758901511842,50.00157905928995],[15.93897991873558,50.00150636631548],[15.93931414648347,50.00419364235592],[15.94348706631536,50.00397544742805],[15.94359856340429,50.00487120061007],[15.94498955473864,50.00479843342828],[15.94510108285107,50.00569418464318],[15.94649209611441,50.00562139890769]]],"type":"Polygon"}
+}

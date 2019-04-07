@@ -1,0 +1,154 @@
+{
+  "id": 85900843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":22759501.079036,
+    "geom:bbox":"14.205331,50.775203,14.205331,50.775203",
+    "geom:latitude":50.775203,
+    "geom:longitude":14.205331,
+    "gn:latitude":50.76667,
+    "gn:longitude":14.2,
+    "iso:country":"CZ",
+    "lbl:latitude":50.775203,
+    "lbl:longitude":14.205331,
+    "mps:latitude":50.771206,
+    "mps:longitude":14.203445,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ces_x_preferred":[
+        "Podmokly"
+    ],
+    "name:cze_x_preferred":[
+        "Podmokly"
+    ],
+    "name:cze_x_variant":[
+        "Bodenbach",
+        "D\u011b\u010d\u00edn IV-Podmokly"
+    ],
+    "name:deu_x_historical":[
+        "Bodenbach",
+        "Bodenbach an der Elbe"
+    ],
+    "name:deu_x_preferred":[
+        "Podmokly"
+    ],
+    "name:deu_x_variant":[
+        "Bodenbach",
+        "Bodenbach an der Elbe"
+    ],
+    "name:eng_x_preferred":[
+        "Podmokly"
+    ],
+    "name:fra_x_preferred":[
+        "Podmokly"
+    ],
+    "name:fre_x_preferred":[
+        "D\u011b\u010d\u00edn IV-Podmokly"
+    ],
+    "name:ger_x_preferred":[
+        "Podmokly"
+    ],
+    "name:ita_x_preferred":[
+        "Podmokly"
+    ],
+    "name:nld_x_preferred":[
+        "Podmokly"
+    ],
+    "name:slk_x_preferred":[
+        "Podmokly"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u043c\u043e\u043a\u043b\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Bodenbach",
+        "Podmokly"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3077244,
+    "qs:gn_nam_loc":"D\u011b\u010d\u00edn, D\u011b\u010d\u00edn, D\u011b\u010d\u00edn, \u00dasteck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Podmokly",
+    "qs:local_max":595,
+    "qs:local_sum":645,
+    "qs:localhoods":3,
+    "qs:name":"Podmokly",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs:name_adm2":"D\u011b\u010d\u00edn",
+    "qs:name_lau":"D\u011b\u010d\u00edn",
+    "qs:name_local":"D\u011b\u010d\u00edn",
+    "qs:photo_max":71,
+    "qs:photo_sum":595,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":63,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070499,
+    "qs:woe_adm2":12582562,
+    "qs:woe_lau":12606602,
+    "qs:woe_local":788060,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191581,
+        101748137,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068031,
+        "gp:id":796290,
+        "qs:id":240585,
+        "qs_pg:id":240585,
+        "wd:id":"Q12045917"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"434bb9ca97a181a3a59cb6209304bcbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748137,
+            "neighbourhood_id":85900843,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":85900843,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932392,
+    "wof:name":"Podmokly",
+    "wof:parent_id":101748137,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.205331,
+    50.775203,
+    14.205331,
+    50.775203
+],
+  "geometry": {"coordinates":[14.205331,50.775203],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1277019925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43932,49.55782,15.43932,49.55782",
+    "geom:latitude":49.55782,
+    "geom:longitude":15.43932,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Skala",
+    "gn:country_code":"CZ",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066088,
+    "gn:latitude":49.55782,
+    "gn:longitude":15.43932,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Sk\u00e1la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066088
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"753d1e25988892a0f781cc810a91d512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277019925,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1277019925,
+    "wof:lastmodified":1536852176,
+    "wof:name":"Skala",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43932,
+    49.55782,
+    15.43932,
+    49.55782
+],
+  "geometry": {"coordinates":[15.43932,49.55782],"type":"Point"}
+}

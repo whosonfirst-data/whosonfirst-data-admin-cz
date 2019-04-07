@@ -1,0 +1,130 @@
+{
+  "id": 85900567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":18776084.579581,
+    "geom:bbox":"14.027448,50.58253,14.027448,50.58253",
+    "geom:latitude":50.58253,
+    "geom:longitude":14.027448,
+    "gn:latitude":50.59051,
+    "gn:longitude":14.03779,
+    "iso:country":"CZ",
+    "lbl:latitude":50.58253,
+    "lbl:longitude":14.027448,
+    "mps:latitude":50.582368,
+    "mps:longitude":14.037711,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:ces_x_preferred":[
+        "C\u00edrkvice"
+    ],
+    "name:cze_x_colloquial":[
+        "Cirkvice"
+    ],
+    "name:cze_x_preferred":[
+        "C\u00edrkvice"
+    ],
+    "name:deu_x_preferred":[
+        "C\u00edrkvice"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00edrkvice"
+    ],
+    "name:nld_x_preferred":[
+        "C\u00edrkvice"
+    ],
+    "name:slk_x_preferred":[
+        "C\u00edrkvice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0438\u0440\u043a\u0432\u0438\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "C\u00edrkvice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3063548,
+    "qs:gn_nam_loc":"\u00dast\u00ed nad Labem, \u00dasteck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"C\u00edrkvice",
+    "qs:local_max":552,
+    "qs:local_sum":1115,
+    "qs:localhoods":8,
+    "qs:name":"C\u00edrkvice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs:name_adm2":"\u00dast\u00ed nad Labem",
+    "qs:name_lau":"\u00dast\u00ed nad Labem",
+    "qs:name_local":"\u00dast\u00ed nad Labem",
+    "qs:photo_max":17,
+    "qs:photo_sum":84,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070499,
+    "qs:woe_adm2":12582569,
+    "qs:woe_lau":12606615,
+    "qs:woe_local":800260,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077390,
+        "gp:id":787932,
+        "qs:id":1013971,
+        "qs_pg:id":1013971
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7ae376d37683797a7524e052a457ede4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900567,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":85900567,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932349,
+    "wof:name":"C\u00edrkvice",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.027448,
+    50.58253,
+    14.027448,
+    50.58253
+],
+  "geometry": {"coordinates":[14.027448,50.58253],"type":"Point"}
+}

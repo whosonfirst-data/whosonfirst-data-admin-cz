@@ -1,0 +1,71 @@
+{
+  "id": 1293518697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37529,50.74565,14.37529,50.74565",
+    "geom:latitude":50.74565,
+    "geom:longitude":14.37529,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Mala Bukovina",
+    "gn:country_code":"CZ",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071257,
+    "gn:latitude":50.74565,
+    "gn:longitude":14.37529,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Mal\u00e1 Bukovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klein Bocken",
+        "Klein Boken",
+        "Mal\u00e1 Bukovina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071257
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1ad251bce76846437363b7250e57fbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293518697,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1293518697,
+    "wof:lastmodified":1537619365,
+    "wof:name":"Mala Bukovina",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37529,
+    50.74565,
+    14.37529,
+    50.74565
+],
+  "geometry": {"coordinates":[14.37529,50.74565],"type":"Point"}
+}

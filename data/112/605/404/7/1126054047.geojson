@@ -1,0 +1,132 @@
+{
+  "id": 1126054047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64944,50.06157,15.64944,50.06157",
+    "geom:latitude":50.06157,
+    "geom:longitude":15.64944,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":817,
+    "gn:population":817,
+    "iso:country":"CZ",
+    "lbl:latitude":50.06157,
+    "lbl:longitude":15.64944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:dut_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:eng_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:epo_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:fre_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:hun_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:ita_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:may_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:pol_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:por_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:slo_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0438\u0432\u0430\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u017divanice"
+    ],
+    "name:unk_x_variant":[
+        "\u017diwanitz"
+    ],
+    "name:vie_x_preferred":[
+        "\u017divanice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061425,
+    "qs_pg:gn_pop":817,
+    "qs_pg:name":"\u017divanice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":401618,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":802150,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061425,
+        "gp:id":802150,
+        "qs_pg:id":401618,
+        "wd:id":"Q2691218"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302971,
+    "wof:geomhash":"bb86e8a58fa72c4c6b78402fcc0203a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126054047,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1126054047,
+    "wof:lastmodified":1513946098,
+    "wof:name":"\u017divanice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":817,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64944,
+    50.06157,
+    15.64944,
+    50.06157
+],
+  "geometry": {"coordinates":[15.64944,50.06157],"type":"Point"}
+}

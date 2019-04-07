@@ -1,0 +1,66 @@
+{
+  "id": 1276908641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08333,50.46667,15.08333,50.46667",
+    "geom:latitude":50.46667,
+    "geom:longitude":15.08333,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Drstekryje",
+    "gn:country_code":"CZ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076386,
+    "gn:latitude":50.46667,
+    "gn:longitude":15.08333,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Dr\u0161t\u011bkryje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076386
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"30b20943765c09662fc862de65a57695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276908641,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276908641,
+    "wof:lastmodified":1537002000,
+    "wof:name":"Drstekryje",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08333,
+    50.46667,
+    15.08333,
+    50.46667
+],
+  "geometry": {"coordinates":[15.08333,50.46667],"type":"Point"}
+}

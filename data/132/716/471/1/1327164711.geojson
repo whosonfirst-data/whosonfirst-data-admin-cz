@@ -1,0 +1,70 @@
+{
+  "id": 1327164711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7397,48.81093,14.7397,48.81093",
+    "geom:latitude":48.81093,
+    "geom:longitude":14.7397,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Janovka",
+    "gn:country_code":"CZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074485,
+    "gn:latitude":48.81093,
+    "gn:longitude":14.7397,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Janovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Johannesruh",
+        "Janovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074485
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c6fef2e589bf82e3ae627c3ac7a58547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327164711,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327164711,
+    "wof:lastmodified":1537619401,
+    "wof:name":"Janovka",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7397,
+    48.81093,
+    14.7397,
+    48.81093
+],
+  "geometry": {"coordinates":[14.7397,48.81093],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 85900583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9046054.777431,
+    "geom:bbox":"16.600683,49.134132,16.600683,49.134132",
+    "geom:latitude":49.134132,
+    "geom:longitude":16.600683,
+    "gn:latitude":49.15179,
+    "gn:longitude":16.62283,
+    "iso:country":"CZ",
+    "lbl:latitude":49.134132,
+    "lbl:longitude":16.600683,
+    "mps:latitude":49.131845,
+    "mps:longitude":16.605001,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:cze_x_colloquial":[
+        "Dolni Herpice",
+        "Dolni Herspice",
+        "Dolni Hertpice"
+    ],
+    "name:cze_x_preferred":[
+        "Doln\u00ed Her\u0161pice"
+    ],
+    "name:cze_x_variant":[
+        "Doln\u00ed Herpice"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00ed Her\u0161pice"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00ed Her\u0161pice"
+    ],
+    "name:pol_x_preferred":[
+        "Doln\u00ed Her\u0161pice"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00ed Her\u0161pice"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101754429,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076851,
+        "gp:id":788426,
+        "qs:id":182703,
+        "qs_pg:id":182703,
+        "wd:id":"Q11815824"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"62c63f0335e84f8eb0f17fc8f94b7cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101754429,
+            "neighbourhood_id":85900583,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85900583,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932351,
+    "wof:name":"Doln\u00ed Her\u0161pice",
+    "wof:parent_id":101754429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.600683,
+    49.134132,
+    16.600683,
+    49.134132
+],
+  "geometry": {"coordinates":[16.600683,49.134132],"type":"Point"}
+}

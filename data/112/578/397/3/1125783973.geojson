@@ -1,0 +1,128 @@
+{
+  "id": 1125783973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35697,49.9297,17.35697,49.9297",
+    "geom:latitude":49.9297,
+    "geom:longitude":17.35697,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":337,
+    "gn:population":337,
+    "iso:country":"CZ",
+    "lbl:latitude":49.9297,
+    "lbl:longitude":17.35697,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:dut_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:eng_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:epo_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:fre_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:hun_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:ita_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:may_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u06a9\u0627 \u0634\u062a\u0627\u0647\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:por_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:rup_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:slo_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u043a\u0430 \u0428\u0442\u0430\u0445\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:unk_x_variant":[
+        "Gross-Stohl"
+    ],
+    "name:vie_x_preferred":[
+        "Velk\u00e1 \u0160t\u00e1hle"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063232,
+    "qs_pg:gn_pop":337,
+    "qs_pg:name":"Velk\u00e1 \u0160t\u00e1hle",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":580769,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063232,
+        "qs_pg:id":580769,
+        "wd:id":"Q2354054"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290600,
+    "wof:geomhash":"8d15c7a5446f8a99bed657b5bcebc673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125783973,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125783973,
+    "wof:lastmodified":1513945852,
+    "wof:name":"Velk\u00e1 \u0160t\u00e1hle",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":337,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35697,
+    49.9297,
+    17.35697,
+    49.9297
+],
+  "geometry": {"coordinates":[17.35697,49.9297],"type":"Point"}
+}

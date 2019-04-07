@@ -1,0 +1,66 @@
+{
+  "id": 1226577395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22003,49.20807,16.22003,49.20807",
+    "geom:latitude":49.20807,
+    "geom:longitude":16.22003,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0614",
+    "gn:asciiname":"Horni Lhotice",
+    "gn:country_code":"CZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072045,
+    "gn:latitude":49.20807,
+    "gn:longitude":16.22003,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Horn\u00ed Lhotice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072045
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9758f0ae8430de9bbf05481a46988e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226577395,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1226577395,
+    "wof:lastmodified":1536954040,
+    "wof:name":"Horni Lhotice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22003,
+    49.20807,
+    16.22003,
+    49.20807
+],
+  "geometry": {"coordinates":[16.22003,49.20807],"type":"Point"}
+}

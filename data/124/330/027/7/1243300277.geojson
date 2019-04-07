@@ -1,0 +1,70 @@
+{
+  "id": 1243300277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.92044,49.67523,12.92044,49.67523",
+    "geom:latitude":49.67523,
+    "geom:longitude":12.92044,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Tunechody",
+    "gn:country_code":"CZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063871,
+    "gn:latitude":49.67523,
+    "gn:longitude":12.92044,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Tun\u011bchody",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinchau",
+        "Tun\u011bchody"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063871
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f64c1d1246ca31f318a43a8c33e030e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243300277,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1243300277,
+    "wof:lastmodified":1537619278,
+    "wof:name":"Tunechody",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.92044,
+    49.67523,
+    12.92044,
+    49.67523
+],
+  "geometry": {"coordinates":[12.92044,49.67523],"type":"Point"}
+}

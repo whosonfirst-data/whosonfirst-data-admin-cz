@@ -1,0 +1,66 @@
+{
+  "id": 1209650007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.76667,49.1,17.76667,49.1",
+    "geom:latitude":49.1,
+    "geom:longitude":17.76667,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Lazne Luhacovice",
+    "gn:country_code":"CZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072263,
+    "gn:latitude":49.1,
+    "gn:longitude":17.76667,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"L\u00e1zn\u011b Luha\u010dovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bad Luhatschowitz",
+        "L\u00e1zn\u011b Luha\u010dovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072263
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ed81311d772ebaf682dc0e21211d68e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209650007
+        }
+    ],
+    "wof:id":1209650007,
+    "wof:lastmodified":1537619378,
+    "wof:name":"Lazne Luhacovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76667,
+    49.1,
+    17.76667,
+    49.1
+],
+  "geometry": {"coordinates":[17.76667,49.1],"type":"Point"}
+}

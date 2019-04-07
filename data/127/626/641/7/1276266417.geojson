@@ -1,0 +1,66 @@
+{
+  "id": 1276266417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87262,48.86939,14.87262,48.86939",
+    "geom:latitude":48.86939,
+    "geom:longitude":14.87262,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Hrdlorezy",
+    "gn:country_code":"CZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074861,
+    "gn:latitude":48.86939,
+    "gn:longitude":14.87262,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Hrdlo\u0159ezy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074861
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b4dca0146e273ea10a8b3e41cc2550c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276266417,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276266417,
+    "wof:lastmodified":1536866979,
+    "wof:name":"Hrdlorezy",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87262,
+    48.86939,
+    14.87262,
+    48.86939
+],
+  "geometry": {"coordinates":[14.87262,48.86939],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276159397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43714,50.54594,13.43714,50.54594",
+    "geom:latitude":50.54594,
+    "geom:longitude":13.43714,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Pysna",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067294,
+    "gn:latitude":50.54594,
+    "gn:longitude":13.43714,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Py\u0161n\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stolzenhan",
+        "Stolzenham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067294
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f756e75a4fffee5efb643757ec8892af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276159397,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276159397,
+    "wof:lastmodified":1537619317,
+    "wof:name":"Pysna",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43714,
+    50.54594,
+    13.43714,
+    50.54594
+],
+  "geometry": {"coordinates":[13.43714,50.54594],"type":"Point"}
+}

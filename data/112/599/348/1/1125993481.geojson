@@ -1,0 +1,130 @@
+{
+  "id": 1125993481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88636,50.403079,15.88636,50.403079",
+    "geom:latitude":50.403079,
+    "geom:longitude":15.88636,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":50.403079,
+    "lbl:longitude":15.88636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Kuks"
+    ],
+    "name:dut_x_preferred":[
+        "Kuks"
+    ],
+    "name:eng_x_preferred":[
+        "Kuks"
+    ],
+    "name:fre_x_preferred":[
+        "Kuks"
+    ],
+    "name:ger_x_preferred":[
+        "Kuks"
+    ],
+    "name:hun_x_preferred":[
+        "Kuks"
+    ],
+    "name:ita_x_preferred":[
+        "Kuks"
+    ],
+    "name:may_x_preferred":[
+        "Kuks"
+    ],
+    "name:nan_x_preferred":[
+        "Kuks"
+    ],
+    "name:pol_x_preferred":[
+        "Kuks"
+    ],
+    "name:por_x_preferred":[
+        "Kuks"
+    ],
+    "name:slo_x_preferred":[
+        "Kuks"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043a\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Kuks"
+    ],
+    "name:vie_x_preferred":[
+        "Kuks"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kuks",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos":171,
+    "qs_pg:photos_1k":35,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":171,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239286,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":22656792,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656792,
+        "qs_pg:id":239286,
+        "wd:id":"Q186848"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299175,
+    "wof:geomhash":"4764dcf8c027548a0b4915dba61b2c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125993481,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125993481,
+    "wof:lastmodified":1534379265,
+    "wof:name":"Kuks",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[
+        1125772305
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88636,
+    50.403079,
+    15.88636,
+    50.403079
+],
+  "geometry": {"coordinates":[15.88636,50.403079],"type":"Point"}
+}

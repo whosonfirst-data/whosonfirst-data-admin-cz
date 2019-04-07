@@ -1,0 +1,65 @@
+{
+  "id": 1209163039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88231,49.55361,17.88231,49.55361",
+    "geom:latitude":49.55361,
+    "geom:longitude":17.88231,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Vysoka",
+    "gn:country_code":"CZ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062251,
+    "gn:latitude":49.55361,
+    "gn:longitude":17.88231,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Vysok\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wisoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062251
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"38a8459c73ec6ec682a5926f9f82b8fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209163039
+        }
+    ],
+    "wof:id":1209163039,
+    "wof:lastmodified":1537504013,
+    "wof:name":"Vysoka",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88231,
+    49.55361,
+    17.88231,
+    49.55361
+],
+  "geometry": {"coordinates":[17.88231,49.55361],"type":"Point"}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 1125779905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96834,49.3805,15.96834,49.3805",
+    "geom:latitude":49.3805,
+    "geom:longitude":15.96834,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":436,
+    "gn:population":436,
+    "iso:country":"CZ",
+    "lbl:latitude":49.3805,
+    "lbl:longitude":15.96834,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:dut_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:eng_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:fre_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:ger_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:hun_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:ita_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:may_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627\u0648\u06cc\u062a\u0634\u06a9\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:slo_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:swe_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "name:vie_x_preferred":[
+        "Lavi\u010dky"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072303,
+    "qs_pg:gn_pop":436,
+    "qs_pg:name":"Lavi\u010dky",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":88,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1160402,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792439,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072303,
+        "gp:id":792439,
+        "qs_pg:id":1160402,
+        "wd:id":"Q1808985"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290421,
+    "wof:geomhash":"06dc8f9027d65b6352ab3613be0bad5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125779905,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125779905,
+    "wof:lastmodified":1513945267,
+    "wof:name":"Lavi\u010dky",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":436,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96834,
+    49.3805,
+    15.96834,
+    49.3805
+],
+  "geometry": {"coordinates":[15.96834,49.3805],"type":"Point"}
+}

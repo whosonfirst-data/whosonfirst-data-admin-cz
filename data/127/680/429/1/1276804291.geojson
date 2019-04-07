@@ -1,0 +1,66 @@
+{
+  "id": 1276804291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25366,50.48438,15.25366,50.48438",
+    "geom:latitude":50.48438,
+    "geom:longitude":15.25366,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Strelec",
+    "gn:country_code":"CZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064965,
+    "gn:latitude":50.48438,
+    "gn:longitude":15.25366,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"St\u0159ele\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064965
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"000d9ac3e483c29db6b5167cd8828d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276804291,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1276804291,
+    "wof:lastmodified":1536644129,
+    "wof:name":"Strelec",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25366,
+    50.48438,
+    15.25366,
+    50.48438
+],
+  "geometry": {"coordinates":[15.25366,50.48438],"type":"Point"}
+}

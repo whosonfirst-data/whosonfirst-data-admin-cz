@@ -1,0 +1,71 @@
+{
+  "id": 1259614459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.63333,50.25,12.63333,50.25",
+    "geom:latitude":50.25,
+    "geom:longitude":12.63333,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Stara",
+    "gn:country_code":"CZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065423,
+    "gn:latitude":50.25,
+    "gn:longitude":12.63333,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Star\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Altengr\u00fcn",
+        "Altengruen",
+        "Star\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065423
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fad1690eb1f0df3980718b62e2cfc537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259614459,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1259614459,
+    "wof:lastmodified":1537619296,
+    "wof:name":"Stara",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.63333,
+    50.25,
+    12.63333,
+    50.25
+],
+  "geometry": {"coordinates":[12.63333,50.25],"type":"Point"}
+}

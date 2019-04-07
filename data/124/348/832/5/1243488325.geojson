@@ -1,0 +1,66 @@
+{
+  "id": 1243488325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86137,48.9749,14.86137,48.9749",
+    "geom:latitude":48.9749,
+    "geom:longitude":14.86137,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"U Tikalskych",
+    "gn:country_code":"CZ",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063516,
+    "gn:latitude":48.9749,
+    "gn:longitude":14.86137,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"U T\u00edkalsk\u00fdch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063516
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"00c826a068d135903080e4b4dc428ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243488325,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243488325,
+    "wof:lastmodified":1536744843,
+    "wof:name":"U Tikalskych",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86137,
+    48.9749,
+    14.86137,
+    48.9749
+],
+  "geometry": {"coordinates":[14.86137,48.9749],"type":"Point"}
+}

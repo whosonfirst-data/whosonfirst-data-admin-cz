@@ -1,0 +1,66 @@
+{
+  "id": 1209136389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38643,50.01023,16.38643,50.01023",
+    "geom:latitude":50.01023,
+    "geom:longitude":16.38643,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Prostredni Libchavy",
+    "gn:country_code":"CZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067411,
+    "gn:latitude":50.01023,
+    "gn:longitude":16.38643,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Prost\u0159edn\u00ed Libchavy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mittel Lichwe",
+        "Prost\u0159edn\u00ed Libchavy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067411
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e38a449e873fc352ea44fe4dd6cbb33f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209136389
+        }
+    ],
+    "wof:id":1209136389,
+    "wof:lastmodified":1537619318,
+    "wof:name":"Prostredni Libchavy",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38642999999999,
+    50.01023,
+    16.38642999999999,
+    50.01023
+],
+  "geometry": {"coordinates":[16.38642999999999,50.01023],"type":"Point"}
+}

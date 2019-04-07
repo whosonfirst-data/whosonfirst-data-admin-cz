@@ -1,0 +1,66 @@
+{
+  "id": 1309835345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22146,50.70581,14.22146,50.70581",
+    "geom:latitude":50.70581,
+    "geom:longitude":14.22146,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Babetin",
+    "gn:country_code":"CZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079738,
+    "gn:latitude":50.70581,
+    "gn:longitude":14.22146,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Bab\u011bt\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079738
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"beea1dcf428dd42d107d69c4b759cc62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309835345,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1309835345,
+    "wof:lastmodified":1536888189,
+    "wof:name":"Babetin",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22146,
+    50.70581,
+    14.22146,
+    50.70581
+],
+  "geometry": {"coordinates":[14.22146,50.70581],"type":"Point"}
+}

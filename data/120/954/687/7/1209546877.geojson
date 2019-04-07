@@ -1,0 +1,62 @@
+{
+  "id": 1209546877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99486,50.61479,14.99486,50.61479",
+    "geom:latitude":50.61479,
+    "geom:longitude":14.99486,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0513",
+    "gn:asciiname":"Radvanice",
+    "gn:country_code":"CZ",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067100,
+    "gn:latitude":50.61479,
+    "gn:longitude":14.99486,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Radvanice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067100
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3e19f17f2a24cd4d5c0ef3350940c942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209546877
+        }
+    ],
+    "wof:id":1209546877,
+    "wof:lastmodified":1536283817,
+    "wof:name":"Radvanice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99486,
+    50.61479,
+    14.99486,
+    50.61479
+],
+  "geometry": {"coordinates":[14.99486,50.61479],"type":"Point"}
+}

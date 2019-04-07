@@ -1,0 +1,70 @@
+{
+  "id": 1210052401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06918,50.10941,13.06918,50.10941",
+    "geom:latitude":50.10941,
+    "geom:longitude":13.06918,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Martice",
+    "gn:country_code":"CZ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070975,
+    "gn:latitude":50.10941,
+    "gn:longitude":13.06918,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Martice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maroditz",
+        "Martice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070975
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fe805d6e538db777e7d615a2d146ff4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1210052401,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1210052401,
+    "wof:lastmodified":1537619361,
+    "wof:name":"Martice",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06918,
+    50.10941,
+    13.06918,
+    50.10941
+],
+  "geometry": {"coordinates":[13.06918,50.10941],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226683007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.10188,50.26842,13.10188,50.26842",
+    "geom:latitude":50.26842,
+    "geom:longitude":13.10188,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Viska",
+    "gn:country_code":"CZ",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062846,
+    "gn:latitude":50.26842,
+    "gn:longitude":13.10188,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"V\u00edska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00f6rfles",
+        "V\u00edska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062846
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d35fed46ee741c353ae63cc66e21f18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226683007,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1226683007,
+    "wof:lastmodified":1537619268,
+    "wof:name":"Viska",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.10188,
+    50.26842,
+    13.10188,
+    50.26842
+],
+  "geometry": {"coordinates":[13.10188,50.26842],"type":"Point"}
+}

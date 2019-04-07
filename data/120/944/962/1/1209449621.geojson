@@ -1,0 +1,62 @@
+{
+  "id": 1209449621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19386,49.3257,15.19386,49.3257",
+    "geom:latitude":49.3257,
+    "geom:longitude":15.19386,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Barborka",
+    "gn:country_code":"CZ",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079665,
+    "gn:latitude":49.3257,
+    "gn:longitude":15.19386,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Barborka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079665
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c7722c3b530951ddc216f901084b1dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209449621
+        }
+    ],
+    "wof:id":1209449621,
+    "wof:lastmodified":1536286712,
+    "wof:name":"Barborka",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19386,
+    49.3257,
+    15.19386,
+    49.3257
+],
+  "geometry": {"coordinates":[15.19386,49.3257],"type":"Point"}
+}

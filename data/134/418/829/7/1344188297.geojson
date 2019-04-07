@@ -1,0 +1,70 @@
+{
+  "id": 1344188297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80431,50.58556,14.80431,50.58556",
+    "geom:latitude":50.58556,
+    "geom:longitude":14.80431,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Kurivody",
+    "gn:country_code":"CZ",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072472,
+    "gn:latitude":50.58556,
+    "gn:longitude":14.80431,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Ku\u0159\u00edvody",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00fchnerwasser",
+        "Ku\u0159\u00edvody"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072472
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4849f62ad525fb36f8349a7646ecaf27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344188297,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1344188297,
+    "wof:lastmodified":1537619380,
+    "wof:name":"Kurivody",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80431,
+    50.58556,
+    14.80431,
+    50.58556
+],
+  "geometry": {"coordinates":[14.80431,50.58556],"type":"Point"}
+}

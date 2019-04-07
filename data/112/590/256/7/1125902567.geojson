@@ -1,0 +1,137 @@
+{
+  "id": 1125902567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97018,49.07429,14.97018,49.07429",
+    "geom:latitude":49.07429,
+    "geom:longitude":14.97018,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":502,
+    "gn:population":502,
+    "iso:country":"CZ",
+    "lbl:latitude":49.07429,
+    "lbl:longitude":14.97018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:dut_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:eng_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:fre_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:ger_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:ita_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:may_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627\u0633\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:por_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:slo_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0441\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "name:unk_x_variant":[
+        "Lasenitz"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e1senice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072314,
+    "qs_pg:gn_pop":502,
+    "qs_pg:name":"L\u00e1senice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":188,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":880574,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792430,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072314,
+        "gp:id":792430,
+        "qs_pg:id":880574,
+        "wd:id":"Q1628917"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295867,
+    "wof:geomhash":"f7c6122fab4f664807312b8c71e20290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125902567,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125902567,
+    "wof:lastmodified":1513945333,
+    "wof:name":"L\u00e1senice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":502,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97018,
+    49.07429,
+    14.97018,
+    49.07429
+],
+  "geometry": {"coordinates":[14.97018,49.07429],"type":"Point"}
+}

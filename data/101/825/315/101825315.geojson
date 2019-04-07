@@ -1,0 +1,111 @@
+{
+  "id": 101825315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":1146229.536956,
+    "geom:bbox":"16.106503342,49.7956258661,16.1204693562,49.8149572039",
+    "geom:latitude":49.80511,
+    "geom:longitude":16.113983,
+    "gn:population":2098,
+    "iso:country":"CZ",
+    "lbl:latitude":49.806678,
+    "lbl:longitude":16.115253,
+    "mps:latitude":49.806678,
+    "mps:longitude":16.115253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Prose\u010d"
+    ],
+    "name:ces_x_preferred":[
+        "Prose\u010d"
+    ],
+    "name:deu_x_preferred":[
+        "Prose\u010d u Skut\u010de"
+    ],
+    "name:epo_x_preferred":[
+        "Prose\u010d"
+    ],
+    "name:fra_x_preferred":[
+        "Prose\u010d"
+    ],
+    "name:hun_x_preferred":[
+        "Prose\u010d"
+    ],
+    "name:ita_x_preferred":[
+        "Prose\u010d"
+    ],
+    "name:lav_x_preferred":[
+        "Prose\u010da"
+    ],
+    "name:msa_x_preferred":[
+        "Prose\u010d"
+    ],
+    "name:nld_x_preferred":[
+        "Prose\u010d"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Pardubick\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Bor u Skut\u010de",
+    "qs:la_lc":"*CZ0531547867",
+    "qs:level":"locality",
+    "qs:loc":"Prose\u010d",
+    "qs:loc_alt":"Prosec",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067445,
+        "gp:id":796827,
+        "qs:id":145303,
+        "qs_pg:id":1267767,
+        "wd:id":"Q1416480",
+        "wk:page":"Prose\u010d (Chrudim District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e35dd8ccdbf8d1e2feed86ae674c605f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825315,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":101825315,
+    "wof:lastmodified":1507750718,
+    "wof:name":"Prose\u010d",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":2098,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10650334199045,
+    49.79562586607295,
+    16.1204693562056,
+    49.81495720394651
+],
+  "geometry": {"coordinates":[[[16.1204693562056,49.81152242330688],[16.11955656680385,49.80435754193655],[16.11817157345098,49.8044323960857],[16.1174873577242,49.79905870777964],[16.11887219802406,49.79898386323964],[16.11875815516038,49.7980882486504],[16.11598852163343,49.79823791763022],[16.11576055385808,49.79644668078458],[16.11437578219648,49.79652148672773],[16.11426183177639,49.79562586607295],[16.11287708168186,49.79570065351942],[16.11299100659988,49.79659627577416],[16.10883665620889,49.79682054153301],[16.10963374362348,49.80308991912659],[16.11101870957305,49.8030151695757],[16.11170228741042,49.80838889580946],[16.10893204539366,49.80853839720578],[16.10915984507,49.81032964232196],[16.1077746671192,49.81040437086637],[16.1078885493979,49.8112999943944],[16.10650334199045,49.8113747076352],[16.10695882208358,49.81495720394651],[16.10834413159262,49.81488248430838],[16.10811632987844,49.81309124019072],[16.10950158439948,49.81301650684748],[16.10938766598076,49.8121208857587],[16.1204693562056,49.81152242330688]]],"type":"Polygon"}
+}

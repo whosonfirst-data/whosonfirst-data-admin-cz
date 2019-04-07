@@ -1,0 +1,73 @@
+{
+  "id": 1310439913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72205,49.02858,17.72205,49.02858",
+    "geom:latitude":49.02858,
+    "geom:longitude":17.72205,
+    "gn:admin1_code":"90",
+    "gn:admin2_code":"0722",
+    "gn:asciiname":"Sumice",
+    "gn:country_code":"CZ",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064677,
+    "gn:latitude":49.02858,
+    "gn:longitude":17.72205,
+    "gn:modification_date":"2015-04-23",
+    "gn:name":"\u0160umice",
+    "gn:population":1764,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schumitz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064677,
+        "wk:page":"%C5%A0umice_%28Uhersk%C3%A9_Hradi%C5%A1t%C4%9B_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f108d14ba31756d647d2f181d2f34daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310439913,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1310439913,
+    "wof:lastmodified":1537619286,
+    "wof:name":"Sumice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":1764,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72205,
+    49.02858,
+    17.72205,
+    49.02858
+],
+  "geometry": {"coordinates":[17.72205,49.02858],"type":"Point"}
+}

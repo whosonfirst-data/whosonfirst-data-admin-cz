@@ -1,0 +1,66 @@
+{
+  "id": 1343793073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.52431,50.60507,14.52431,50.60507",
+    "geom:latitude":50.60507,
+    "geom:longitude":14.52431,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Svaby",
+    "gn:country_code":"CZ",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064650,
+    "gn:latitude":50.60507,
+    "gn:longitude":14.52431,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"\u0160v\u00e1by",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064650
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f12b70283235e28227af6d3f6cfd0249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343793073,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1343793073,
+    "wof:lastmodified":1536764331,
+    "wof:name":"Svaby",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52431,
+    50.60507,
+    14.52431,
+    50.60507
+],
+  "geometry": {"coordinates":[14.52431,50.60507],"type":"Point"}
+}

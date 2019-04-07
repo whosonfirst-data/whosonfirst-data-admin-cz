@@ -1,0 +1,140 @@
+{
+  "id": 1125932491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12356,50.97114,15.12356,50.97114",
+    "geom:latitude":50.97114,
+    "geom:longitude":15.12356,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":849,
+    "gn:population":849,
+    "iso:country":"CZ",
+    "lbl:latitude":50.97114,
+    "lbl:longitude":15.12356,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:cze_x_preferred":[
+        "Bulovka"
+    ],
+    "name:dut_x_preferred":[
+        "Bulovka"
+    ],
+    "name:eng_x_preferred":[
+        "Bulovka"
+    ],
+    "name:fre_x_preferred":[
+        "Bulovka"
+    ],
+    "name:ger_x_preferred":[
+        "Bulovka"
+    ],
+    "name:hun_x_preferred":[
+        "Bulovka"
+    ],
+    "name:ita_x_preferred":[
+        "Bulovka"
+    ],
+    "name:may_x_preferred":[
+        "Bulovka"
+    ],
+    "name:pol_x_preferred":[
+        "Bulovka"
+    ],
+    "name:por_x_preferred":[
+        "Bulovka"
+    ],
+    "name:rup_x_preferred":[
+        "Bulovka"
+    ],
+    "name:slo_x_preferred":[
+        "Bulovka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bulovka"
+    ],
+    "name:unk_x_variant":[
+        "Bullendorf"
+    ],
+    "name:vie_x_preferred":[
+        "Bulovka"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078378,
+    "qs_pg:gn_pop":849,
+    "qs_pg:name":"Bulovka",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":182567,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787070,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078378,
+        "gp:id":787070,
+        "qs_pg:id":182567,
+        "wd:id":"Q1004713"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296854,
+    "wof:geomhash":"9697c45ff47d1176903f5f99bd76df39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125932491,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1125932491,
+    "wof:lastmodified":1553816640,
+    "wof:name":"Bulovka",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:population":849,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12356,
+    50.97114,
+    15.12356,
+    50.97114
+],
+  "geometry": {"coordinates":[15.12356,50.97114],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243485209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01914,49.48976,13.01914,49.48976",
+    "geom:latitude":49.48976,
+    "geom:longitude":13.01914,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Malonice",
+    "gn:country_code":"CZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071114,
+    "gn:latitude":49.48976,
+    "gn:longitude":13.01914,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Malonice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071114
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"895ca26f9622ed6158aa6e7e0763f829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243485209,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1243485209,
+    "wof:lastmodified":1536749584,
+    "wof:name":"Malonice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01914,
+    49.48976,
+    13.01914,
+    49.48976
+],
+  "geometry": {"coordinates":[13.01914,49.48976],"type":"Point"}
+}

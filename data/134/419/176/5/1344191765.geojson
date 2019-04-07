@@ -1,0 +1,66 @@
+{
+  "id": 1344191765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82488,49.58244,18.82488,49.58244",
+    "geom:latitude":49.58244,
+    "geom:longitude":18.82488,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Bahenec",
+    "gn:country_code":"CZ",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079692,
+    "gn:latitude":49.58244,
+    "gn:longitude":18.82488,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Bahenec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079692
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a2a9aa0ef7d6f8f26756c8fd0fb3a282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344191765,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1344191765,
+    "wof:lastmodified":1536686195,
+    "wof:name":"Bahenec",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82488,
+    49.58244000000001,
+    18.82488,
+    49.58244000000001
+],
+  "geometry": {"coordinates":[18.82488,49.58244000000001],"type":"Point"}
+}

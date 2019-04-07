@@ -1,0 +1,70 @@
+{
+  "id": 1243588117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04915,49.29597,14.04915,49.29597",
+    "geom:latitude":49.29597,
+    "geom:longitude":14.04915,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Stara Dobev",
+    "gn:country_code":"CZ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065415,
+    "gn:latitude":49.29597,
+    "gn:longitude":14.04915,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Star\u00e1 Dobev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobew"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065415,
+        "wk:page":"Dobev"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"da132d7abb68c645f5e4f3c50fd4e13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243588117,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243588117,
+    "wof:lastmodified":1537619296,
+    "wof:name":"Stara Dobev",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04915,
+    49.29597,
+    14.04915,
+    49.29597
+],
+  "geometry": {"coordinates":[14.04915,49.29597],"type":"Point"}
+}

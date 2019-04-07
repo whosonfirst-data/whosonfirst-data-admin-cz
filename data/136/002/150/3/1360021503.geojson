@@ -1,0 +1,70 @@
+{
+  "id": 1360021503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52863,50.03862,13.52863,50.03862",
+    "geom:latitude":50.03862,
+    "geom:longitude":13.52863,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Kuzova",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072458,
+    "gn:latitude":50.03862,
+    "gn:longitude":13.52863,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"K\u016fzov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wallisgr\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072458
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"352e4bcb46c057cbb01790d93926d3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360021503,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1360021503,
+    "wof:lastmodified":1537619380,
+    "wof:name":"Kuzova",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52863,
+    50.03862,
+    13.52863,
+    50.03862
+],
+  "geometry": {"coordinates":[13.52863,50.03862],"type":"Point"}
+}

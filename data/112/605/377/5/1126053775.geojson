@@ -1,0 +1,132 @@
+{
+  "id": 1126053775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89561,50.13972,14.89561,50.13972",
+    "geom:latitude":50.13972,
+    "geom:longitude":14.89561,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":211,
+    "gn:population":211,
+    "iso:country":"CZ",
+    "lbl:latitude":50.13972,
+    "lbl:longitude":14.89561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043d\u043a\u0430"
+    ],
+    "name:cze_x_preferred":[
+        "Velenka"
+    ],
+    "name:dut_x_preferred":[
+        "Velenka"
+    ],
+    "name:eng_x_preferred":[
+        "Velenka"
+    ],
+    "name:fre_x_preferred":[
+        "Velenka"
+    ],
+    "name:ger_x_preferred":[
+        "Velenka"
+    ],
+    "name:hun_x_preferred":[
+        "Velenka"
+    ],
+    "name:ita_x_preferred":[
+        "Velenka"
+    ],
+    "name:may_x_preferred":[
+        "Velenka"
+    ],
+    "name:pol_x_preferred":[
+        "Velenka"
+    ],
+    "name:por_x_preferred":[
+        "Velenka"
+    ],
+    "name:slo_x_preferred":[
+        "Velenka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Velenka"
+    ],
+    "name:vie_x_preferred":[
+        "Velenka"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063313,
+    "qs_pg:gn_pop":211,
+    "qs_pg:name":"Velenka",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":401111,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800457,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063313,
+        "gp:id":800457,
+        "qs_pg:id":401111,
+        "wd:id":"Q1258920"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302955,
+    "wof:geomhash":"2e31f1f90f655a215463ff5495b93a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126053775,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1126053775,
+    "wof:lastmodified":1513945845,
+    "wof:name":"Velenka",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89561,
+    50.13972,
+    14.89561,
+    50.13972
+],
+  "geometry": {"coordinates":[14.89561,50.13972],"type":"Point"}
+}

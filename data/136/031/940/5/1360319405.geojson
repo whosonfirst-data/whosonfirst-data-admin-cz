@@ -1,0 +1,66 @@
+{
+  "id": 1360319405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22131,49.73547,18.22131,49.73547",
+    "geom:latitude":49.73547,
+    "geom:longitude":18.22131,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Svetlov",
+    "gn:country_code":"CZ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064504,
+    "gn:latitude":49.73547,
+    "gn:longitude":18.22131,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Sv\u011btlov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064504
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3a6a9c2e6ef63a616c1cfd5a12baa573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360319405,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1360319405,
+    "wof:lastmodified":1536604593,
+    "wof:name":"Svetlov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22131,
+    49.73547,
+    18.22131,
+    49.73547
+],
+  "geometry": {"coordinates":[18.22131,49.73547],"type":"Point"}
+}

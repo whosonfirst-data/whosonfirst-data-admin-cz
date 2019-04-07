@@ -1,0 +1,70 @@
+{
+  "id": 1226476995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21785,50.028,14.21785,50.028",
+    "geom:latitude":50.028,
+    "geom:longitude":14.21785,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020A",
+    "gn:asciiname":"Horelice",
+    "gn:country_code":"CZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075511,
+    "gn:latitude":50.028,
+    "gn:longitude":14.21785,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Ho\u0159elice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho\u0159elitz",
+        "Ho\u0159elice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075511
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"678e1f0f188581116ec43a23c357cb8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226476995,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226476995,
+    "wof:lastmodified":1537619416,
+    "wof:name":"Horelice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21785,
+    50.028,
+    14.21785,
+    50.028
+],
+  "geometry": {"coordinates":[14.21785,50.028],"type":"Point"}
+}

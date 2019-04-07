@@ -1,0 +1,66 @@
+{
+  "id": 1327168767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12066,49.4098,14.12066,49.4098",
+    "geom:latitude":49.4098,
+    "geom:longitude":14.12066,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Uverka",
+    "gn:country_code":"CZ",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063501,
+    "gn:latitude":49.4098,
+    "gn:longitude":14.12066,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"\u00dav\u011brka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063501
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"63b7e58fbe8d45bffe73db4f9fc397f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327168767,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327168767,
+    "wof:lastmodified":1537058936,
+    "wof:name":"Uverka",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12066,
+    49.4098,
+    14.12066,
+    49.4098
+],
+  "geometry": {"coordinates":[14.12066,49.4098],"type":"Point"}
+}

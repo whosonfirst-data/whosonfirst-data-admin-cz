@@ -1,0 +1,70 @@
+{
+  "id": 1243491137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00548,50.40619,15.00548,50.40619",
+    "geom:latitude":50.40619,
+    "geom:longitude":15.00548,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Brezno",
+    "gn:country_code":"CZ",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078674,
+    "gn:latitude":50.40619,
+    "gn:longitude":15.00548,
+    "gn:modification_date":"2017-02-13",
+    "gn:name":"B\u0159ezno",
+    "gn:population":627,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078674,
+        "wk:page":"B%C5%99ezno_%28Mlad%C3%A1_Boleslav_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"876365aeed878573a62bbbfce62a01c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243491137,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1243491137,
+    "wof:lastmodified":1537504070,
+    "wof:name":"Brezno",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":627,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00548,
+    50.40619,
+    15.00548,
+    50.40619
+],
+  "geometry": {"coordinates":[15.00548,50.40619],"type":"Point"}
+}

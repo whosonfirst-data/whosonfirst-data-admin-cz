@@ -1,0 +1,132 @@
+{
+  "id": 1126052971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08522,50.3216,14.08522,50.3216",
+    "geom:latitude":50.3216,
+    "geom:longitude":14.08522,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":254,
+    "gn:population":254,
+    "iso:country":"CZ",
+    "lbl:latitude":50.3216,
+    "lbl:longitude":14.08522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Jarpice"
+    ],
+    "name:dut_x_preferred":[
+        "Jarpice"
+    ],
+    "name:eng_x_preferred":[
+        "Jarpice"
+    ],
+    "name:fre_x_preferred":[
+        "Jarpice"
+    ],
+    "name:hun_x_preferred":[
+        "Jarpice"
+    ],
+    "name:ita_x_preferred":[
+        "Jarpice"
+    ],
+    "name:may_x_preferred":[
+        "Jarpice"
+    ],
+    "name:per_x_preferred":[
+        "\u06cc\u0627\u0631\u067e\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Jarpice"
+    ],
+    "name:por_x_preferred":[
+        "Jarpice"
+    ],
+    "name:slo_x_preferred":[
+        "Jarpice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0440\u043f\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Jarpice"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0631\u067e\u06a9\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Jarpice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3074438,
+    "qs_pg:gn_pop":254,
+    "qs_pg:name":"Jarpice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398483,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790603,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074438,
+        "gp:id":790603,
+        "qs_pg:id":398483,
+        "wd:id":"Q2318144"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302899,
+    "wof:geomhash":"271372b27d37d32abed898ebe31cf088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126052971,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1126052971,
+    "wof:lastmodified":1513945093,
+    "wof:name":"Jarpice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":254,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08522,
+    50.3216,
+    14.08522,
+    50.3216
+],
+  "geometry": {"coordinates":[14.08522,50.3216],"type":"Point"}
+}

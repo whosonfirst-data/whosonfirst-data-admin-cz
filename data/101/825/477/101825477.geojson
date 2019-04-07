@@ -1,0 +1,139 @@
+{
+  "id": 101825477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":508315.131838,
+    "geom:bbox":"17.9602093816,49.9532950266,17.9748218353,49.9623231329",
+    "geom:latitude":49.958533,
+    "geom:longitude":17.968017,
+    "gn:population":1068,
+    "iso:country":"CZ",
+    "lbl:latitude":49.95887,
+    "lbl:longitude":17.968017,
+    "mps:latitude":49.95887,
+    "mps:longitude":17.968017,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:ces_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:cze_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:dut_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:eng_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:epo_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:fre_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:hun_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:ita_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:may_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:msa_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:nld_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:pol_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:por_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:slk_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:slo_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043b\u0435\u0431\u0438\u0447\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "name:vie_x_preferred":[
+        "Chlebi\u010dov"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Chlebi\u010dov",
+    "qs:la_lc":"*CZ0805512923",
+    "qs:level":"locality",
+    "qs:loc":"Chlebi\u010dov",
+    "qs:loc_alt":"Chlebicov",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077828,
+        "gp:id":787538,
+        "qs:id":1246360,
+        "qs_pg:id":1246360,
+        "wd:id":"Q2202538",
+        "wk:page":"Chlebi\u010dov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f28dee0a7074c27e0003cd6fe4d92c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825477,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825477,
+    "wof:lastmodified":1527715052,
+    "wof:name":"Chlebi\u010dov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1068,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9602093815634,
+    49.95329502664907,
+    17.97482183527052,
+    49.96232313285316
+],
+  "geometry": {"coordinates":[[[17.96511481036828,49.96133263846764],[17.97066171271479,49.96094276183231],[17.97081095124031,49.96183581883116],[17.97358442232314,49.96164077499407],[17.97343513291617,49.96074772217821],[17.97482183527052,49.96065017701744],[17.97407536548002,49.95618491553296],[17.96575583703537,49.95676987043083],[17.96560671656829,49.95587680401661],[17.96422013587073,49.95597423530324],[17.96377289249045,49.95329502664907],[17.96238638293653,49.95339243478179],[17.96283355001646,49.95607164970232],[17.96144695900625,49.95616904721368],[17.96159600316565,49.95706211989494],[17.9602093815634,49.95715950260694],[17.9603584072363,49.95805257685299],[17.9631316961603,49.95785779036379],[17.96387718319647,49.96232313285316],[17.96526394712595,49.96222570382866],[17.96511481036828,49.96133263846764]]],"type":"Polygon"}
+}

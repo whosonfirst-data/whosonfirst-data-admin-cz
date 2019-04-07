@@ -1,0 +1,66 @@
+{
+  "id": 1226473189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74102,49.63592,15.74102,49.63592",
+    "geom:latitude":49.63592,
+    "geom:longitude":15.74102,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Zelezne Horky",
+    "gn:country_code":"CZ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061565,
+    "gn:latitude":49.63592,
+    "gn:longitude":15.74102,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"\u017delezn\u00e9 Horky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061565
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b494ab51af8199454c353fb4a76525a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226473189,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1226473189,
+    "wof:lastmodified":1536602898,
+    "wof:name":"Zelezne Horky",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74102,
+    49.63592,
+    15.74102,
+    49.63592
+],
+  "geometry": {"coordinates":[15.74102,49.63592],"type":"Point"}
+}

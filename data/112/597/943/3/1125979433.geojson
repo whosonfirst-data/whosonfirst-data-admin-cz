@@ -1,0 +1,135 @@
+{
+  "id": 1125979433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.72403,49.93618,16.72403,49.93618",
+    "geom:latitude":49.93618,
+    "geom:longitude":16.72403,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":435,
+    "gn:population":435,
+    "iso:country":"CZ",
+    "lbl:latitude":49.93618,
+    "lbl:longitude":16.72403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:dut_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:eng_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:epo_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:fre_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:ger_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:hun_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:ita_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:may_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:pol_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:por_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:rup_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:slo_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u043e\u0442\u043a\u0438\u0442\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Cotkytle"
+    ],
+    "name:vie_x_preferred":[
+        "Cotkytle"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077345,
+    "qs_pg:gn_pop":435,
+    "qs_pg:name":"Cotkytle",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1155964,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787974,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077345,
+        "gp:id":787974,
+        "qs_pg:id":1155964,
+        "wd:id":"Q1023458"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298488,
+    "wof:geomhash":"3e524af19fdf9d05122cd325c3a2d299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125979433,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125979433,
+    "wof:lastmodified":1513944896,
+    "wof:name":"Cotkytle",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":435,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72403,
+    49.93618,
+    16.72403,
+    49.93618
+],
+  "geometry": {"coordinates":[16.72403,49.93618],"type":"Point"}
+}

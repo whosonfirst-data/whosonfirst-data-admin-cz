@@ -1,0 +1,66 @@
+{
+  "id": 1326560951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78733,50.2776,13.78733,50.2776",
+    "geom:latitude":50.2776,
+    "geom:longitude":13.78733,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0424",
+    "gn:asciiname":"Brinkov",
+    "gn:country_code":"CZ",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078645,
+    "gn:latitude":50.2776,
+    "gn:longitude":13.78733,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"B\u0159\u00ednkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078645
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3cf6e1b489084b3ba4787128b1c7d774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326560951,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1326560951,
+    "wof:lastmodified":1536943249,
+    "wof:name":"Brinkov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78733,
+    50.2776,
+    13.78733,
+    50.2776
+],
+  "geometry": {"coordinates":[13.78733,50.2776],"type":"Point"}
+}

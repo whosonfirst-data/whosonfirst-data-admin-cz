@@ -1,0 +1,70 @@
+{
+  "id": 1326660641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95855,50.33374,12.95855,50.33374",
+    "geom:latitude":50.33374,
+    "geom:longitude":12.95855,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Vykmanov",
+    "gn:country_code":"CZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062309,
+    "gn:latitude":50.33374,
+    "gn:longitude":12.95855,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Vykmanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weidmesgr\u00fcn",
+        "Vikmanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062309
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cc7433840459726e1db50af8f955a410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326660641,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1326660641,
+    "wof:lastmodified":1537619263,
+    "wof:name":"Vykmanov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95855,
+    50.33374,
+    12.95855,
+    50.33374
+],
+  "geometry": {"coordinates":[12.95855,50.33374],"type":"Point"}
+}

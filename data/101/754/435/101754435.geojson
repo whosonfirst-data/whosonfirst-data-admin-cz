@@ -1,0 +1,129 @@
+{
+  "id": 101754435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000351,
+    "geom:area_square_m":2781046.667392,
+    "geom:bbox":"14.5024061289,50.1405462802,14.5362708105,50.156916319",
+    "geom:latitude":50.149421,
+    "geom:longitude":14.519076,
+    "iso:country":"CZ",
+    "lbl:latitude":50.152045,
+    "lbl:longitude":14.515343,
+    "mps:latitude":50.149303,
+    "mps:longitude":14.517383,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0547\u0561\u056f\u0578\u057e\u056b\u0581\u0565"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:cze_x_colloquial":[
+        "Cakovice",
+        "Praha 9-Aakovice",
+        "Praha 9-Aeakovice",
+        "Praha 9-Cakovice",
+        "Praha-Aakovice",
+        "Praha-Aeakovice"
+    ],
+    "name:cze_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:cze_x_variant":[
+        "Cakowice",
+        "Gross Cakowitz",
+        "Praha 9-\u00c4akovice",
+        "Praha-Cakovice",
+        "Praha-\u00c4akovice"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0634\u0627\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:unk_x_variant":[
+        "Gross Cakowitz"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Hlavn\u00ed mesto Praha",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Praha",
+    "qs:la_lc":"*CZ0100554782",
+    "qs:level":"locality",
+    "qs:loc":"\u010cakovice",
+    "qs:loc_alt":"Cakovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070aaa1a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3078251,
+        "gp:id":787181,
+        "qs:id":3,
+        "wd:id":"Q3489907",
+        "wk:page":"\u010cakovice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e53d084842ae9e1e8c277e0f6babd572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101754435,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":101754435,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1513946015,
+    "wof:name":"\u010cakovice",
+    "wof:parent_id":85682437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50240612885813,
+    50.14054628023996,
+    14.53627081054293,
+    50.15691631899051
+],
+  "geometry": {"coordinates":[[[14.51889381064757,50.1406374721717],[14.51819018060786,50.1416049634762],[14.5117792322838,50.14235919269072],[14.50464709471561,50.14344451797297],[14.50519974784669,50.14928410576198],[14.50240612885813,50.14939445676481],[14.50274565588506,50.15298308600586],[14.50693639388737,50.15281751952836],[14.50702136413031,50.15371467243676],[14.51121215391765,50.15354894856426],[14.51129720666171,50.15444609755684],[14.5140911040001,50.15433552713171],[14.51417621308252,50.15523267340274],[14.5155731834605,50.15517736135729],[14.51565832271683,50.15607450610355],[14.51705531628977,50.15601917576942],[14.51714048572285,50.15691631899051],[14.51853750249001,50.15686097036684],[14.5184523068869,50.15596382834468],[14.52823115767984,50.15557591783897],[14.52831653646729,50.15647305145956],[14.53250750630406,50.15630654414065],[14.53242204901233,50.15540941412615],[14.53521596164211,50.15529832620115],[14.53487396336527,50.15170981249133],[14.53627081054293,50.15165424770743],[14.53618529486948,50.15075711966375],[14.53478847385293,50.15081268324434],[14.53453202944553,50.14812129353641],[14.53173853540943,50.14823236221781],[14.53131147002568,50.14374669412058],[14.52991484930368,50.14380219682164],[14.5300002281927,50.14469933229924],[14.52720692550025,50.14481028884768],[14.52729225609829,50.14570742639933],[14.52170551034305,50.14592913926782],[14.52119421458639,50.14054628023996],[14.51889381064757,50.1406374721717]]],"type":"Polygon"}
+}

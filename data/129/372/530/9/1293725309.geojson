@@ -1,0 +1,66 @@
+{
+  "id": 1293725309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18194,49.72086,15.18194,49.72086",
+    "geom:latitude":49.72086,
+    "geom:longitude":15.18194,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Budcice",
+    "gn:country_code":"CZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078494,
+    "gn:latitude":49.72086,
+    "gn:longitude":15.18194,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Bud\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078494
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f3e64055317fd59875401a347c04b2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293725309,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293725309,
+    "wof:lastmodified":1536942077,
+    "wof:name":"Budcice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18194,
+    49.72086,
+    15.18194,
+    49.72086
+],
+  "geometry": {"coordinates":[15.18194,49.72086],"type":"Point"}
+}

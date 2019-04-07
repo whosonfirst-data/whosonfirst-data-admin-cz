@@ -1,0 +1,66 @@
+{
+  "id": 1293323455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3174,49.45981,13.3174,49.45981",
+    "geom:latitude":49.45981,
+    "geom:longitude":13.3174,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Vosi",
+    "gn:country_code":"CZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062562,
+    "gn:latitude":49.45981,
+    "gn:longitude":13.3174,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Vos\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062562
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7555f7be44b6122db9b77028e54156ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293323455,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293323455,
+    "wof:lastmodified":1537022629,
+    "wof:name":"Vosi",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.3174,
+    49.45981,
+    13.3174,
+    49.45981
+],
+  "geometry": {"coordinates":[13.3174,49.45981],"type":"Point"}
+}

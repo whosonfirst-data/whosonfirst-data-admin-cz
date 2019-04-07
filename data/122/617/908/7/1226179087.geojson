@@ -1,0 +1,70 @@
+{
+  "id": 1226179087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0817,48.83796,16.0817,48.83796",
+    "geom:latitude":48.83796,
+    "geom:longitude":16.0817,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0627",
+    "gn:asciiname":"Bohumilice",
+    "gn:country_code":"CZ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079133,
+    "gn:latitude":48.83796,
+    "gn:longitude":16.0817,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Bohumilice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pumlitz",
+        "Bohumilice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079133
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dab9e8cb001de458a87c978f0b161498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226179087,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1226179087,
+    "wof:lastmodified":1537619458,
+    "wof:name":"Bohumilice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0817,
+    48.83796,
+    16.0817,
+    48.83796
+],
+  "geometry": {"coordinates":[16.0817,48.83796],"type":"Point"}
+}

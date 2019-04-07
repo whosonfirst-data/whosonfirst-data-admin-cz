@@ -1,0 +1,132 @@
+{
+  "id": 1126053337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.39935,50.016,13.39935,50.016",
+    "geom:latitude":50.016,
+    "geom:longitude":13.39935,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":150,
+    "gn:population":150,
+    "iso:country":"CZ",
+    "lbl:latitude":50.016,
+    "lbl:longitude":13.39935,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0442\u0432\u043e\u0440\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Potvorov"
+    ],
+    "name:dut_x_preferred":[
+        "Potvorov"
+    ],
+    "name:eng_x_preferred":[
+        "Potvorov"
+    ],
+    "name:fre_x_preferred":[
+        "Potvorov"
+    ],
+    "name:ger_x_preferred":[
+        "Potvorov"
+    ],
+    "name:hun_x_preferred":[
+        "Potvorov"
+    ],
+    "name:ita_x_preferred":[
+        "Potvorov"
+    ],
+    "name:may_x_preferred":[
+        "Potvorov"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u062a\u0648\u0648\u0631\u0648\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Potvorov"
+    ],
+    "name:slo_x_preferred":[
+        "Potvorov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0442\u0432\u043e\u0440\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Potvorov"
+    ],
+    "name:vie_x_preferred":[
+        "Potvorov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067747,
+    "qs_pg:gn_pop":150,
+    "qs_pg:name":"Potvorov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":400087,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796552,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067747,
+        "gp:id":796552,
+        "qs_pg:id":400087,
+        "wd:id":"Q1842120"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302921,
+    "wof:geomhash":"dd7945b9f19333063198f9b040e9ea98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126053337,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1126053337,
+    "wof:lastmodified":1513945564,
+    "wof:name":"Potvorov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.39935,
+    50.016,
+    13.39935,
+    50.016
+],
+  "geometry": {"coordinates":[13.39935,50.016],"type":"Point"}
+}

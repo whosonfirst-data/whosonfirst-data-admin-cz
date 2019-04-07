@@ -1,0 +1,70 @@
+{
+  "id": 1243104383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41487,50.23943,12.41487,50.23943",
+    "geom:latitude":50.23943,
+    "geom:longitude":12.41487,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Dolni Luby",
+    "gn:country_code":"CZ",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076779,
+    "gn:latitude":50.23943,
+    "gn:longitude":12.41487,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Doln\u00ed Luby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doln\u00ed Sch\u00f6bach",
+        "Doln\u00ed Luby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076779
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"47d6fa9e6b85f5cbf443c6a6625791b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243104383,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1243104383,
+    "wof:lastmodified":1537619432,
+    "wof:name":"Dolni Luby",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41487,
+    50.23943,
+    12.41487,
+    50.23943
+],
+  "geometry": {"coordinates":[12.41487,50.23943],"type":"Point"}
+}

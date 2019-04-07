@@ -1,0 +1,69 @@
+{
+  "id": 1309741321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96667,50.7,13.96667,50.7",
+    "geom:latitude":50.7,
+    "geom:longitude":13.96667,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Auschina",
+    "gn:country_code":"CZ",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063493,
+    "gn:latitude":50.7,
+    "gn:longitude":13.96667,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Auschina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00da\u017e\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063493
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c580660644fc8028058651174aac6f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309741321,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1309741321,
+    "wof:lastmodified":1537619275,
+    "wof:name":"Auschina",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96667,
+    50.7,
+    13.96667,
+    50.7
+],
+  "geometry": {"coordinates":[13.96667,50.7],"type":"Point"}
+}

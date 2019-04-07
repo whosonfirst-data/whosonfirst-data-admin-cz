@@ -1,0 +1,70 @@
+{
+  "id": 1226478499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28647,49.16713,13.28647,49.16713",
+    "geom:latitude":49.16713,
+    "geom:longitude":13.28647,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Gerlova Hut'",
+    "gn:country_code":"CZ",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076104,
+    "gn:latitude":49.16713,
+    "gn:longitude":13.28647,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Gerlova Hu\u0165",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gerlh\u00fctte",
+        "Gerlova Hu\u0165"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076104
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ddecfa2fc04636d4a4f0b3a667bae855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226478499,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1226478499,
+    "wof:lastmodified":1537619423,
+    "wof:name":"Gerlova Hut'",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28647,
+    49.16713,
+    13.28647,
+    49.16713
+],
+  "geometry": {"coordinates":[13.28647,49.16713],"type":"Point"}
+}

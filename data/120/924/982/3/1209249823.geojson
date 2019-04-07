@@ -1,0 +1,62 @@
+{
+  "id": 1209249823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11024,49.77166,18.11024,49.77166",
+    "geom:latitude":49.77166,
+    "geom:longitude":18.11024,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0806",
+    "gn:asciiname":"Josefovice",
+    "gn:country_code":"CZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074057,
+    "gn:latitude":49.77166,
+    "gn:longitude":18.11024,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Josefovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074057
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"86ccd0d18747b3e0d1d836ccdfa7022e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209249823
+        }
+    ],
+    "wof:id":1209249823,
+    "wof:lastmodified":1536293041,
+    "wof:name":"Josefovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11024,
+    49.77166,
+    18.11024,
+    49.77166
+],
+  "geometry": {"coordinates":[18.11024,49.77166],"type":"Point"}
+}

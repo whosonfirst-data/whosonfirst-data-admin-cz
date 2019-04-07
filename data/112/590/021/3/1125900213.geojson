@@ -1,0 +1,132 @@
+{
+  "id": 1125900213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78254,49.20371,16.78254,49.20371",
+    "geom:latitude":49.20371,
+    "geom:longitude":16.78254,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":979,
+    "gn:population":979,
+    "iso:country":"CZ",
+    "lbl:latitude":49.20371,
+    "lbl:longitude":16.78254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Sivice"
+    ],
+    "name:dut_x_preferred":[
+        "Sivice"
+    ],
+    "name:eng_x_preferred":[
+        "Sivice"
+    ],
+    "name:fre_x_preferred":[
+        "Sivice"
+    ],
+    "name:ger_x_preferred":[
+        "Sivice"
+    ],
+    "name:hun_x_preferred":[
+        "Sivice"
+    ],
+    "name:ita_x_preferred":[
+        "Sivice"
+    ],
+    "name:may_x_preferred":[
+        "Sivice"
+    ],
+    "name:nan_x_preferred":[
+        "Sivice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Sivice"
+    ],
+    "name:rup_x_preferred":[
+        "Sivice"
+    ],
+    "name:slo_x_preferred":[
+        "Sivice"
+    ],
+    "name:swe_x_preferred":[
+        "Sivice"
+    ],
+    "name:vie_x_preferred":[
+        "Sivice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066090,
+    "qs_pg:gn_pop":979,
+    "qs_pg:name":"Sivice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":383552,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798036,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066090,
+        "gp:id":798036,
+        "qs_pg:id":383552,
+        "wd:id":"Q366895"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295772,
+    "wof:geomhash":"45d078907de443385b8603b346a7729d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125900213,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125900213,
+    "wof:lastmodified":1513945679,
+    "wof:name":"Sivice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":979,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78254,
+    49.20371,
+    16.78254,
+    49.20371
+],
+  "geometry": {"coordinates":[16.78254,49.20371],"type":"Point"}
+}

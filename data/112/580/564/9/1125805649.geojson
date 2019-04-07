@@ -1,0 +1,143 @@
+{
+  "id": 1125805649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7856,50.51734,13.7856,50.51734",
+    "geom:latitude":50.51734,
+    "geom:longitude":13.7856,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":846,
+    "gn:population":846,
+    "iso:country":"CZ",
+    "lbl:latitude":50.51734,
+    "lbl:longitude":13.7856,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:dut_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:eng_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:fre_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:ger_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:hun_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:ita_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:may_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:nan_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0631\u0648\u0628\u062a\u0634\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:por_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:rup_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:slo_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u043e\u043f\u0447\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "name:unk_x_variant":[
+        "Hrobschitz"
+    ],
+    "name:vie_x_preferred":[
+        "Hrob\u010dice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3074815,
+    "qs_pg:gn_pop":846,
+    "qs_pg:name":"Hrob\u010dice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":208068,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790265,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074815,
+        "gp:id":790265,
+        "qs_pg:id":208068,
+        "wd:id":"Q528368"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497291452,
+    "wof:geomhash":"d20caf18e42f00a973a62901f4d0f588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125805649,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125805649,
+    "wof:lastmodified":1513945068,
+    "wof:name":"Hrob\u010dice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":846,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7856,
+    50.51734,
+    13.7856,
+    50.51734
+],
+  "geometry": {"coordinates":[13.7856,50.51734],"type":"Point"}
+}

@@ -1,0 +1,141 @@
+{
+  "id": 101780987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":558301.987251,
+    "geom:bbox":"16.8645940586,48.8015086213,16.8785272498,48.8089203391",
+    "geom:latitude":48.804742,
+    "geom:longitude":16.87203,
+    "iso:country":"CZ",
+    "lbl:latitude":48.804623,
+    "lbl:longitude":16.872163,
+    "mps:latitude":48.804623,
+    "mps:longitude":16.872163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:cze_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:hsb_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627\u062f\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:sgs_x_preferred":[
+        "Ladn\u0101"
+    ],
+    "name:slo_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0434\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Lan\u0161torf"
+    ],
+    "name:vie_x_preferred":[
+        "Ladn\u00e1"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Ladn\u00e1",
+    "qs:la_lc":"*CZ0624558443",
+    "qs:level":"locality",
+    "qs:loc":"Ladn\u00e1",
+    "qs:loc_alt":"Ladna",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072348,
+        "gp:id":792401,
+        "qs:id":1142927,
+        "wd:id":"Q164021",
+        "wk:page":"Ladn\u00e1"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ac39edfffe673620ee69982b9439062a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101780987,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101780987,
+    "wof:lastmodified":1527715877,
+    "wof:name":"Ladn\u00e1",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86459405855192,
+    48.80150862134042,
+    16.87852724978057,
+    48.80892033907242
+],
+  "geometry": {"coordinates":[[[16.87495589779809,48.80875271233856],[16.8748316583978,48.80785768079761],[16.87618782687349,48.8077738444448],[16.8760635689884,48.80687881412649],[16.87741970914965,48.80679496303048],[16.87717116207233,48.80500490432121],[16.87852724978057,48.80492104022369],[16.87815439918791,48.80223595349685],[16.8754423644192,48.80240365476647],[16.87531814047412,48.80150862134042],[16.86582605637886,48.8020950444311],[16.86595011137126,48.80299009002891],[16.86459405855192,48.80307380056627],[16.8647180950544,48.80396884738411],[16.86607417201213,48.80388513510945],[16.86644638782747,48.806570267246],[16.86780253303959,48.8064865332741],[16.86792664041928,48.80738157454681],[16.87063896662323,48.80721405367501],[16.87076312793988,48.80810909095271],[16.87211930893011,48.80802530405174],[16.87224350004385,48.80892033907242],[16.87495589779809,48.80875271233856]]],"type":"Polygon"}
+}

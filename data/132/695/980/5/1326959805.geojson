@@ -1,0 +1,70 @@
+{
+  "id": 1326959805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2094,49.01164,14.2094,49.01164",
+    "geom:latitude":49.01164,
+    "geom:longitude":14.2094,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Dolni Chrast'any",
+    "gn:country_code":"CZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076893,
+    "gn:latitude":49.01164,
+    "gn:longitude":14.2094,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Doln\u00ed Chr\u00e1\u0161\u0165any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unter Groschum",
+        "Doln\u00ed Chr\u00e1\u0161\u0165any"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076893
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7d6b85f32eb9ec09b72f97a960eec3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326959805,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1326959805,
+    "wof:lastmodified":1537619435,
+    "wof:name":"Dolni Chrast'any",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2094,
+    49.01164,
+    14.2094,
+    49.01164
+],
+  "geometry": {"coordinates":[14.2094,49.01164],"type":"Point"}
+}

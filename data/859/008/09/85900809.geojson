@@ -1,0 +1,130 @@
+{
+  "id": 85900809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3294231.412569,
+    "geom:bbox":"18.225769,49.823218,18.225769,49.823218",
+    "geom:latitude":49.823218,
+    "geom:longitude":18.225769,
+    "gn:latitude":49.82333,
+    "gn:longitude":18.22536,
+    "iso:country":"CZ",
+    "lbl:latitude":49.823218,
+    "lbl:longitude":18.225769,
+    "mps:latitude":49.826265,
+    "mps:longitude":18.227458,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:cze_x_colloquial":[
+        "Nova Ves"
+    ],
+    "name:cze_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:cze_x_variant":[
+        "Neudorf"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:unk_x_variant":[
+        "Neudorf",
+        "Nov\u00e1 Ves"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"85",
+    "qs:gn_name":"Nov\u00e1 Ves",
+    "qs:local_max":2778,
+    "qs:local_sum":9373,
+    "qs:localhoods":17,
+    "qs:name":"Nov\u00e1 Ves",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs:name_adm2":"Ostrava",
+    "qs:name_lau":"Ostrava",
+    "qs:name_local":"Ostrava",
+    "qs:photo_max":11,
+    "qs:photo_sum":15,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070471,
+    "qs:woe_adm2":12582577,
+    "qs:woe_lau":12607114,
+    "qs:woe_local":795610,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101840961,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069563,
+        "gp:id":794846,
+        "qs:id":39179,
+        "qs_pg:id":39179,
+        "wd:id":"Q3509519"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1c0e6402af88aba2988c4b2ce08cd3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101840961,
+            "neighbourhood_id":85900809,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":85900809,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932387,
+    "wof:name":"Nov\u00e1 Ves",
+    "wof:parent_id":101840961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.225769,
+    49.823218,
+    18.225769,
+    49.823218
+],
+  "geometry": {"coordinates":[18.225769,49.823218],"type":"Point"}
+}

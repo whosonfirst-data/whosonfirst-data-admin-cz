@@ -1,0 +1,65 @@
+{
+  "id": 102537057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0658306,48.817775,16.0658306,48.817775",
+    "geom:latitude":48.817775,
+    "geom:longitude":16.065831,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"830",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582558,
+        "localadmin_id":12605512,
+        "planet_id":1,
+        "state_id":20070503
+    },
+    "wof:belongsto":[
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049686,
+        "icao:code":"LKZN",
+        "oa:id":"30584",
+        "wd:id":"Q25471823"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5cefbb1f20a9fc68d015daf72f3a1e89",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537057,
+            "country_id":85633105,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":102537057,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Letiste Znojmo",
+    "wof:parent_id":85682423,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.0658306,
+    48.817775,
+    16.0658306,
+    48.817775
+],
+  "geometry": {"coordinates":[16.0658306,48.817775],"type":"Point"}
+}

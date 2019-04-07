@@ -1,0 +1,66 @@
+{
+  "id": 1343696415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.37493,49.95724,13.37493,49.95724",
+    "geom:latitude":49.95724,
+    "geom:longitude":13.37493,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Horni Hradiste",
+    "gn:country_code":"CZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075369,
+    "gn:latitude":49.95724,
+    "gn:longitude":13.37493,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Horn\u00ed Hradi\u0161t\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075369
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fb8d5639a83b6c3d22549c77c54bb971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343696415,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343696415,
+    "wof:lastmodified":1536903364,
+    "wof:name":"Horni Hradiste",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.37493,
+    49.95724000000001,
+    13.37493,
+    49.95724000000001
+],
+  "geometry": {"coordinates":[13.37493,49.95724000000001],"type":"Point"}
+}

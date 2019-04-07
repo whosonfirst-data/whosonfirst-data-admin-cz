@@ -1,0 +1,72 @@
+{
+  "id": 1243016853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.64952,49.58631,17.64952,49.58631",
+    "geom:latitude":49.58631,
+    "geom:longitude":17.64952,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Uhrinov",
+    "gn:country_code":"CZ",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063706,
+    "gn:latitude":49.58631,
+    "gn:longitude":17.64952,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Uh\u0159\u00ednov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Uhrinov"
+    ],
+    "name:und_x_variant":[
+        "Uh\u0159\u00ednov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063706
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"113bafbbe56fc2f533115cb12da502e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243016853,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1243016853,
+    "wof:lastmodified":1537619276,
+    "wof:name":"Uhrinov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.64952000000001,
+    49.58631,
+    17.64952000000001,
+    49.58631
+],
+  "geometry": {"coordinates":[17.64952000000001,49.58631],"type":"Point"}
+}

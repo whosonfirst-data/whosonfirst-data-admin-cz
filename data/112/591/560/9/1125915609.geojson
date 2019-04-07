@@ -1,0 +1,138 @@
+{
+  "id": 1125915609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47277,49.3693,15.47277,49.3693",
+    "geom:latitude":49.3693,
+    "geom:longitude":15.47277,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":408,
+    "gn:population":408,
+    "iso:country":"CZ",
+    "lbl:latitude":49.3693,
+    "lbl:longitude":15.47277,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Cejle"
+    ],
+    "name:dut_x_preferred":[
+        "Cejle"
+    ],
+    "name:eng_x_preferred":[
+        "Cejle"
+    ],
+    "name:fre_x_preferred":[
+        "Cejle"
+    ],
+    "name:ger_x_preferred":[
+        "Cejle"
+    ],
+    "name:hun_x_preferred":[
+        "Cejle"
+    ],
+    "name:ita_x_preferred":[
+        "Cejle"
+    ],
+    "name:may_x_preferred":[
+        "Cejle"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0633\u06cc\u0644\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Cejle"
+    ],
+    "name:por_x_preferred":[
+        "Cejle"
+    ],
+    "name:rup_x_preferred":[
+        "Cejle"
+    ],
+    "name:slo_x_preferred":[
+        "Cejle"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0458\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Cejle"
+    ],
+    "name:unk_x_variant":[
+        "Zeirn"
+    ],
+    "name:vie_x_preferred":[
+        "Cejle"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078174,
+    "qs_pg:gn_pop":408,
+    "qs_pg:name":"Cejle",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":60433,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":24930751,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078174,
+        "gp:id":24930751,
+        "qs_pg:id":60433,
+        "wd:id":"Q1052732"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296306,
+    "wof:geomhash":"762674e5911d7416a1831ac7e6668883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125915609,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125915609,
+    "wof:lastmodified":1513944861,
+    "wof:name":"Cejle",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47277,
+    49.3693,
+    15.47277,
+    49.3693
+],
+  "geometry": {"coordinates":[15.47277,49.3693],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1260220385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.03925,50.08364,13.03925,50.08364",
+    "geom:latitude":50.08364,
+    "geom:longitude":13.03925,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Lachovice",
+    "gn:country_code":"CZ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072358,
+    "gn:latitude":50.08364,
+    "gn:longitude":13.03925,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Lachovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072358
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b2ea9596710023bba5e93872dfaf3b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260220385,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1260220385,
+    "wof:lastmodified":1536797735,
+    "wof:name":"Lachovice",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03925,
+    50.08364,
+    13.03925,
+    50.08364
+],
+  "geometry": {"coordinates":[13.03925,50.08364],"type":"Point"}
+}

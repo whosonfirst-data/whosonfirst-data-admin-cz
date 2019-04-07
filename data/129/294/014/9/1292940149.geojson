@@ -1,0 +1,66 @@
+{
+  "id": 1292940149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90481,50.29171,15.90481,50.29171",
+    "geom:latitude":50.29171,
+    "geom:longitude":15.90481,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Hubiles",
+    "gn:country_code":"CZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074744,
+    "gn:latitude":50.29171,
+    "gn:longitude":15.90481,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Hub\u00edles",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074744
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"359bb4712e6864dc43414174cfe432dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292940149,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1292940149,
+    "wof:lastmodified":1537076052,
+    "wof:name":"Hubiles",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90481,
+    50.29171,
+    15.90481,
+    50.29171
+],
+  "geometry": {"coordinates":[15.90481,50.29171],"type":"Point"}
+}

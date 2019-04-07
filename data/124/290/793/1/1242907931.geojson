@@ -1,0 +1,66 @@
+{
+  "id": 1242907931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24255,50.56898,15.24255,50.56898",
+    "geom:latitude":50.56898,
+    "geom:longitude":15.24255,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"0514",
+    "gn:asciiname":"Volavec",
+    "gn:country_code":"CZ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062591,
+    "gn:latitude":50.56898,
+    "gn:longitude":15.24255,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Volavec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062591
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5ec0582bb8d6cdae52d1466382551fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242907931,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1242907931,
+    "wof:lastmodified":1537081742,
+    "wof:name":"Volavec",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24255,
+    50.56898,
+    15.24255,
+    50.56898
+],
+  "geometry": {"coordinates":[15.24255,50.56898],"type":"Point"}
+}

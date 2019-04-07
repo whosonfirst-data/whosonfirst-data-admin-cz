@@ -1,0 +1,66 @@
+{
+  "id": 1242608923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85836,50.10082,15.85836,50.10082",
+    "geom:latitude":50.10082,
+    "geom:longitude":15.85836,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0532",
+    "gn:asciiname":"Bohumilec",
+    "gn:country_code":"CZ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079135,
+    "gn:latitude":50.10082,
+    "gn:longitude":15.85836,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Bohumile\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079135
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"65d02a25b2f81b1a0ac485ba9b9f63e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242608923,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1242608923,
+    "wof:lastmodified":1537017860,
+    "wof:name":"Bohumilec",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85836,
+    50.10082,
+    15.85836,
+    50.10082
+],
+  "geometry": {"coordinates":[15.85836,50.10082],"type":"Point"}
+}

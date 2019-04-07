@@ -1,0 +1,62 @@
+{
+  "id": 1209646519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39515,50.24156,15.39515,50.24156",
+    "geom:latitude":50.24156,
+    "geom:longitude":15.39515,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Zantov",
+    "gn:country_code":"CZ",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061865,
+    "gn:latitude":50.24156,
+    "gn:longitude":15.39515,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"\u017dantov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061865
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b412e62a7088090dca70c793e1571e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209646519
+        }
+    ],
+    "wof:id":1209646519,
+    "wof:lastmodified":1536280718,
+    "wof:name":"Zantov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39515,
+    50.24156,
+    15.39515,
+    50.24156
+],
+  "geometry": {"coordinates":[15.39515,50.24156],"type":"Point"}
+}

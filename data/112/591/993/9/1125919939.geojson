@@ -1,0 +1,132 @@
+{
+  "id": 1125919939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32942,49.22438,16.32942,49.22438",
+    "geom:latitude":49.22438,
+    "geom:longitude":16.32942,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":102,
+    "gn:population":102,
+    "iso:country":"CZ",
+    "lbl:latitude":49.22438,
+    "lbl:longitude":16.32942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0442\u043e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Litostrov"
+    ],
+    "name:dut_x_preferred":[
+        "Litostrov"
+    ],
+    "name:eng_x_preferred":[
+        "Litostrov"
+    ],
+    "name:fre_x_preferred":[
+        "Litostrov"
+    ],
+    "name:ger_x_preferred":[
+        "Litostrov"
+    ],
+    "name:hun_x_preferred":[
+        "Litostrov"
+    ],
+    "name:ita_x_preferred":[
+        "Litostrov"
+    ],
+    "name:may_x_preferred":[
+        "Litostrov"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u06cc\u062a\u0648\u0633\u062a\u0631\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Litostrov"
+    ],
+    "name:por_x_preferred":[
+        "Litostrov"
+    ],
+    "name:slo_x_preferred":[
+        "Litostrov"
+    ],
+    "name:swe_x_preferred":[
+        "Litostrov"
+    ],
+    "name:vie_x_preferred":[
+        "Litostrov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071672,
+    "qs_pg:gn_pop":102,
+    "qs_pg:name":"Litostrov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1266879,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793034,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071672,
+        "gp:id":793034,
+        "qs_pg:id":1266879,
+        "wd:id":"Q1865554"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296446,
+    "wof:geomhash":"13625e73556044097d08f2fb4f9f9f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125919939,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125919939,
+    "wof:lastmodified":1513945307,
+    "wof:name":"Litostrov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32942,
+    49.22438,
+    16.32942,
+    49.22438
+],
+  "geometry": {"coordinates":[16.32942,49.22438],"type":"Point"}
+}

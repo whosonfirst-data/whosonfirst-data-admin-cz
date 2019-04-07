@@ -1,0 +1,62 @@
+{
+  "id": 1209035969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25254,50.60628,15.25254,50.60628",
+    "geom:latitude":50.60628,
+    "geom:longitude":15.25254,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0514",
+    "gn:asciiname":"Prackov",
+    "gn:country_code":"CZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067704,
+    "gn:latitude":50.60628,
+    "gn:longitude":15.25254,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Prackov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067704
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f64828195564f7092549c1d5722c99d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209035969
+        }
+    ],
+    "wof:id":1209035969,
+    "wof:lastmodified":1536299699,
+    "wof:name":"Prackov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25254,
+    50.60628,
+    15.25254,
+    50.60628
+],
+  "geometry": {"coordinates":[15.25254,50.60628],"type":"Point"}
+}

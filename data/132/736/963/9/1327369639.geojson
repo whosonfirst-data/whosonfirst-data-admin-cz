@@ -1,0 +1,66 @@
+{
+  "id": 1327369639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96323,49.463,13.96323,49.463",
+    "geom:latitude":49.463,
+    "geom:longitude":13.96323,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Nevzelice",
+    "gn:country_code":"CZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069776,
+    "gn:latitude":49.463,
+    "gn:longitude":13.96323,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Nev\u017eelice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069776
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"071357916bfbe260dbca33e2549b51a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327369639,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327369639,
+    "wof:lastmodified":1536772012,
+    "wof:name":"Nevzelice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96323,
+    49.463,
+    13.96323,
+    49.463
+],
+  "geometry": {"coordinates":[13.96323,49.463],"type":"Point"}
+}

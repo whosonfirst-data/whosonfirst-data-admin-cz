@@ -1,0 +1,129 @@
+{
+  "id": 1125844363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.30233,49.5251,13.30233,49.5251",
+    "geom:latitude":49.5251,
+    "geom:longitude":13.30233,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":234,
+    "gn:population":234,
+    "iso:country":"CZ",
+    "lbl:latitude":49.5251,
+    "lbl:longitude":13.30233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Borovy"
+    ],
+    "name:dut_x_preferred":[
+        "Borovy"
+    ],
+    "name:eng_x_preferred":[
+        "Borovy"
+    ],
+    "name:fre_x_preferred":[
+        "Borovy"
+    ],
+    "name:hun_x_preferred":[
+        "Borovy"
+    ],
+    "name:ita_x_preferred":[
+        "Borovy"
+    ],
+    "name:may_x_preferred":[
+        "Borovy"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0648\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Borovy"
+    ],
+    "name:por_x_preferred":[
+        "Borovy"
+    ],
+    "name:slo_x_preferred":[
+        "Borovy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Borovy"
+    ],
+    "name:vie_x_preferred":[
+        "Borovy"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078936,
+    "qs_pg:gn_pop":234,
+    "qs_pg:name":"Borovy",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":904504,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786580,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078936,
+        "gp:id":786580,
+        "qs_pg:id":904504,
+        "wd:id":"Q2699385"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293082,
+    "wof:geomhash":"064d14979b97462a691254933db9265c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125844363,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125844363,
+    "wof:lastmodified":1553816567,
+    "wof:name":"Borovy",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":234,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.30233,
+    49.5251,
+    13.30233,
+    49.5251
+],
+  "geometry": {"coordinates":[13.30233,49.5251],"type":"Point"}
+}

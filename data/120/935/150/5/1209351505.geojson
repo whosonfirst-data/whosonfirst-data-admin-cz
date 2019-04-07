@@ -1,0 +1,62 @@
+{
+  "id": 1209351505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.81952,49.63435,12.81952,49.63435",
+    "geom:latitude":49.63435,
+    "geom:longitude":12.81952,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Strachovice",
+    "gn:country_code":"CZ",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065082,
+    "gn:latitude":49.63435,
+    "gn:longitude":12.81952,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Strachovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065082
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1a5b80c3a27c7f492ce6772dacd7ed01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209351505
+        }
+    ],
+    "wof:id":1209351505,
+    "wof:lastmodified":1536289726,
+    "wof:name":"Strachovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.81952,
+    49.63435,
+    12.81952,
+    49.63435
+],
+  "geometry": {"coordinates":[12.81952,49.63435],"type":"Point"}
+}

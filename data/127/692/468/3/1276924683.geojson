@@ -1,0 +1,66 @@
+{
+  "id": 1276924683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96993,49.71586,16.96993,49.71586",
+    "geom:latitude":49.71586,
+    "geom:longitude":16.96993,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Cervena Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077976,
+    "gn:latitude":49.71586,
+    "gn:longitude":16.96993,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"\u010cerven\u00e1 Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077976
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b5b8d5f6d7977a3bb4ede891c69db47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276924683,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1276924683,
+    "wof:lastmodified":1536980628,
+    "wof:name":"Cervena Lhota",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96993,
+    49.71586,
+    16.96993,
+    49.71586
+],
+  "geometry": {"coordinates":[16.96993,49.71586],"type":"Point"}
+}

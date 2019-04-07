@@ -1,0 +1,70 @@
+{
+  "id": 1276473379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06787,50.62011,16.06787,50.62011",
+    "geom:latitude":50.62011,
+    "geom:longitude":16.06787,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Krcmov",
+    "gn:country_code":"CZ",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072812,
+    "gn:latitude":50.62011,
+    "gn:longitude":16.06787,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Kr\u010dmov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Feldkretschen",
+        "Kr\u010dmov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072812
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5d0e6fa86c1bef8b1d935ae63e990a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276473379,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1276473379,
+    "wof:lastmodified":1537619383,
+    "wof:name":"Krcmov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06787000000001,
+    50.62011,
+    16.06787000000001,
+    50.62011
+],
+  "geometry": {"coordinates":[16.06787000000001,50.62011],"type":"Point"}
+}

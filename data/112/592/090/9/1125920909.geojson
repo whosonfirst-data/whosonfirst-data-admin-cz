@@ -1,0 +1,138 @@
+{
+  "id": 1125920909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55119,50.05572,16.55119,50.05572",
+    "geom:latitude":50.05572,
+    "geom:longitude":16.55119,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":856,
+    "gn:population":856,
+    "iso:country":"CZ",
+    "lbl:latitude":50.05572,
+    "lbl:longitude":16.55119,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:dut_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:eng_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:epo_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:fre_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:hun_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:ita_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:may_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:nan_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:nob_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:pol_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:por_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:rup_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:slo_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u043a\u043e\u0440\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Neko\u0159"
+    ],
+    "name:vie_x_preferred":[
+        "Neko\u0159"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069930,
+    "qs_pg:gn_pop":856,
+    "qs_pg:name":"Neko\u0159",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1267259,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794571,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069930,
+        "gp:id":794571,
+        "qs_pg:id":1267259,
+        "wd:id":"Q776553"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296477,
+    "wof:geomhash":"cf3563f915fddc0d75d5be37f9d07faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125920909,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125920909,
+    "wof:lastmodified":1513945417,
+    "wof:name":"Neko\u0159",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":856,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55119,
+    50.05572,
+    16.55119,
+    50.05572
+],
+  "geometry": {"coordinates":[16.55119,50.05572],"type":"Point"}
+}

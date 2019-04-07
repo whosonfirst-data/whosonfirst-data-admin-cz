@@ -1,0 +1,70 @@
+{
+  "id": 1309940485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41133,49.73413,15.41133,49.73413",
+    "geom:latitude":49.73413,
+    "geom:longitude":15.41133,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Sazavka",
+    "gn:country_code":"CZ",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8555913,
+    "gn:latitude":49.73413,
+    "gn:longitude":15.41133,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Sazavka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "S\u00e1zavka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8555913,
+        "wk:page":"S%C3%A1zavka"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3c340a175036e0e53ba6d3c3f2893687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309940485,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1309940485,
+    "wof:lastmodified":1537619467,
+    "wof:name":"Sazavka",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41133,
+    49.73413,
+    15.41133,
+    49.73413
+],
+  "geometry": {"coordinates":[15.41133,49.73413],"type":"Point"}
+}

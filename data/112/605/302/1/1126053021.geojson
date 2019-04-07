@@ -1,0 +1,138 @@
+{
+  "id": 1126053021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.60293,49.48367,17.60293,49.48367",
+    "geom:latitude":49.48367,
+    "geom:longitude":17.60293,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":132,
+    "gn:population":132,
+    "iso:country":"CZ",
+    "lbl:latitude":49.48367,
+    "lbl:longitude":17.60293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:dut_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:eng_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:epo_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:fre_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:ger_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:hun_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:ita_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:may_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0644\u0627\u062f\u0646\u06cc\u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:por_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:rup_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:slo_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0430\u0434\u045a\u0438\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "name:vie_x_preferred":[
+        "Kladn\u00edky"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3073701,
+    "qs_pg:gn_pop":132,
+    "qs_pg:name":"Kladn\u00edky",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":398657,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":791228,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073701,
+        "gp:id":791228,
+        "qs_pg:id":398657,
+        "wd:id":"Q1021123"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302901,
+    "wof:geomhash":"26cc5e26a83a6493a22255935c99e9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126053021,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1126053021,
+    "wof:lastmodified":1513945171,
+    "wof:name":"Kladn\u00edky",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.60293,
+    49.48367,
+    17.60293,
+    49.48367
+],
+  "geometry": {"coordinates":[17.60293,49.48367],"type":"Point"}
+}

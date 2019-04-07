@@ -1,0 +1,70 @@
+{
+  "id": 1242809125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.34102,50.28523,13.34102,50.28523",
+    "geom:latitude":50.28523,
+    "geom:longitude":13.34102,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Vitcice",
+    "gn:country_code":"CZ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062828,
+    "gn:latitude":50.28523,
+    "gn:longitude":13.34102,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Vit\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gross Witschitz",
+        "Vit\u010dice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062828
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6a3324d6b6a18c5e822b5969f2f07470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242809125,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1242809125,
+    "wof:lastmodified":1537619268,
+    "wof:name":"Vitcice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.34102,
+    50.28523,
+    13.34102,
+    50.28523
+],
+  "geometry": {"coordinates":[13.34102,50.28523],"type":"Point"}
+}

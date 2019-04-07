@@ -1,0 +1,135 @@
+{
+  "id": 1125839147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0474,49.00921,17.0474,49.00921",
+    "geom:latitude":49.00921,
+    "geom:longitude":17.0474,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":553,
+    "gn:population":553,
+    "iso:country":"CZ",
+    "lbl:latitude":49.00921,
+    "lbl:longitude":17.0474,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:dut_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:eng_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:fre_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:hun_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:ita_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:may_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:nan_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0631\u0627\u0698\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:por_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:rup_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:slo_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "name:vie_x_preferred":[
+        "Str\u00e1\u017eovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064988,
+    "qs_pg:gn_pop":553,
+    "qs_pg:name":"Str\u00e1\u017eovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":344694,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799012,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064988,
+        "gp:id":799012,
+        "qs_pg:id":344694,
+        "wd:id":"Q609790"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292853,
+    "wof:geomhash":"c44ab46b5b554a5dcafa9cf3c5b19a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125839147,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125839147,
+    "wof:lastmodified":1513945737,
+    "wof:name":"Str\u00e1\u017eovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":553,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0474,
+    49.00921,
+    17.0474,
+    49.00921
+],
+  "geometry": {"coordinates":[17.0474,49.00921],"type":"Point"}
+}

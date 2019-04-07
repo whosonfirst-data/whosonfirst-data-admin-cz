@@ -1,0 +1,66 @@
+{
+  "id": 1327267689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96792,49.32723,14.96792,49.32723",
+    "geom:latitude":49.32723,
+    "geom:longitude":14.96792,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Chvalkov",
+    "gn:country_code":"CZ",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077493,
+    "gn:latitude":49.32723,
+    "gn:longitude":14.96792,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Chv\u00e1lkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077493
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dfd287150f1e2695b697ac44372d9f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327267689,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1327267689,
+    "wof:lastmodified":1536919341,
+    "wof:name":"Chvalkov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96792,
+    49.32723,
+    14.96792,
+    49.32723
+],
+  "geometry": {"coordinates":[14.96792,49.32723],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102536773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7519417,50.4038861,13.7519417,50.4038861",
+    "geom:latitude":50.403886,
+    "geom:longitude":13.751942,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"879",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582566,
+        "localadmin_id":12606960,
+        "planet_id":1,
+        "state_id":20070499
+    },
+    "wof:belongsto":[
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512561,
+        "icao:code":"LKRA",
+        "oa:id":"30319",
+        "wd:id":"Q36838667"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"584643a70463311e31fa16cf9f052504",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536773,
+            "country_id":85633105,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":102536773,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Rana Airport",
+    "wof:parent_id":85682469,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.7519417,
+    50.4038861,
+    13.7519417,
+    50.4038861
+],
+  "geometry": {"coordinates":[13.7519417,50.4038861],"type":"Point"}
+}

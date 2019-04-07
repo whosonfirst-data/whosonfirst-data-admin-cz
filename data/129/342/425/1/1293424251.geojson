@@ -1,0 +1,66 @@
+{
+  "id": 1293424251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45774,49.34527,13.45774,49.34527",
+    "geom:latitude":49.34527,
+    "geom:longitude":13.45774,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Planicka",
+    "gn:country_code":"CZ",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068235,
+    "gn:latitude":49.34527,
+    "gn:longitude":13.45774,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pl\u00e1ni\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068235
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fc55f70af006815ba8295e9982e90631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293424251,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293424251,
+    "wof:lastmodified":1536877411,
+    "wof:name":"Planicka",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45774,
+    49.34527,
+    13.45774,
+    49.34527
+],
+  "geometry": {"coordinates":[13.45774,49.34527],"type":"Point"}
+}

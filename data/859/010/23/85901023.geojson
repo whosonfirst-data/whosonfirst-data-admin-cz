@@ -1,0 +1,113 @@
+{
+  "id": 85901023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17210160.976298,
+    "geom:bbox":"15.938806,49.579509,15.938806,49.579509",
+    "geom:latitude":49.579509,
+    "geom:longitude":15.938806,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":49.579509,
+    "lbl:longitude":15.938806,
+    "mps:latitude":49.577304,
+    "mps:longitude":15.93899,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "Zar nad Sazavou II",
+        "Zdar nad Sazavou II"
+    ],
+    "name:cze_x_preferred":[
+        "\u017d\u00e1r nad S\u00e1zavou II"
+    ],
+    "name:cze_x_variant":[
+        "Saar Schloss"
+    ],
+    "name:unk_x_variant":[
+        "\u017d\u00e1r nad S\u00e1zavou II"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3061695,
+    "qs:gn_nam_loc":"\u017d\u010f\u00e1r nad S\u00e1zavou, Kraj Vyso\u010dina, CZ",
+    "qs:gn_namadm1":"80",
+    "qs:local_max":486,
+    "qs:local_sum":486,
+    "qs:localhoods":1,
+    "qs:name":"\u017d\u00e1r nad S\u00e1zavou II",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Kraj Vyso\u010dina",
+    "qs:name_adm2":"\u017dd\u00e1r nad S\u00e1zavou",
+    "qs:name_lau":"\u017d\u010f\u00e1r nad S\u00e1zavou",
+    "qs:name_local":"\u017d\u010f\u00e1r nad S\u00e1zavou",
+    "qs:photo_max":175,
+    "qs:photo_sum":486,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070467,
+    "qs:woe_adm2":12582556,
+    "qs:woe_lau":12605942,
+    "qs:woe_local":801895,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101826391,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":801897,
+        "qs:id":210385,
+        "qs_pg:id":210385
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"955192e770077ac38ca51b9d0793daa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826391,
+            "neighbourhood_id":85901023,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":85901023,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932420,
+    "wof:name":"\u017d\u00e1r nad S\u00e1zavou II",
+    "wof:parent_id":101826391,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.938806,
+    49.579509,
+    15.938806,
+    49.579509
+],
+  "geometry": {"coordinates":[15.938806,49.579509],"type":"Point"}
+}

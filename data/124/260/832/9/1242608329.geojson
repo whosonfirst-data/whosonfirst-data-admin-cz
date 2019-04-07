@@ -1,0 +1,70 @@
+{
+  "id": 1242608329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95666,50.40875,15.95666,50.40875",
+    "geom:latitude":50.40875,
+    "geom:longitude":15.95666,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Strezimerice",
+    "gn:country_code":"CZ",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064940,
+    "gn:latitude":50.40875,
+    "gn:longitude":15.95666,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"St\u0159ezim\u011b\u0159ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ziesmitz",
+        "St\u0159ezim\u011b\u0159ice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064940
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"66de482e2108e8a74462a5aad1182389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242608329,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1242608329,
+    "wof:lastmodified":1537619289,
+    "wof:name":"Strezimerice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95666,
+    50.40875,
+    15.95666,
+    50.40875
+],
+  "geometry": {"coordinates":[15.95666,50.40875],"type":"Point"}
+}

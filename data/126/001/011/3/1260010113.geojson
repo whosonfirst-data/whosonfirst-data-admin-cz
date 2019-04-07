@@ -1,0 +1,70 @@
+{
+  "id": 1260010113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8513,49.59468,12.8513,49.59468",
+    "geom:latitude":49.59468,
+    "geom:longitude":12.8513,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Nasetice",
+    "gn:country_code":"CZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070026,
+    "gn:latitude":49.59468,
+    "gn:longitude":12.8513,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Nasetice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dv\u016dr Nasetice",
+        "Nasetice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070026
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8d7a88e673146a7eb48003baff89aa9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260010113,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1260010113,
+    "wof:lastmodified":1537619349,
+    "wof:name":"Nasetice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8513,
+    49.59468,
+    12.8513,
+    49.59468
+],
+  "geometry": {"coordinates":[12.8513,49.59468],"type":"Point"}
+}

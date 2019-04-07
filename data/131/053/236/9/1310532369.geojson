@@ -1,0 +1,72 @@
+{
+  "id": 1310532369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,48.73333,14.15,48.73333",
+    "geom:latitude":48.73333,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Jamy",
+    "gn:country_code":"CZ",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074540,
+    "gn:latitude":48.73333,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"J\u00e1my",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kohlgruben"
+    ],
+    "name:und_x_variant":[
+        "J\u00e1my"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074540
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1d655d7831dc40d7dcb5598cc579b0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310532369,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1310532369,
+    "wof:lastmodified":1537619402,
+    "wof:name":"Jamy",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    48.73333,
+    14.15,
+    48.73333
+],
+  "geometry": {"coordinates":[14.15,48.73333],"type":"Point"}
+}

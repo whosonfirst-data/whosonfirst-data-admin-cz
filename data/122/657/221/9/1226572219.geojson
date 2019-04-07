@@ -1,0 +1,66 @@
+{
+  "id": 1226572219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61601,50.00189,13.61601,50.00189",
+    "geom:latitude":50.00189,
+    "geom:longitude":13.61601,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Milicov",
+    "gn:country_code":"CZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070670,
+    "gn:latitude":50.00189,
+    "gn:longitude":13.61601,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Mil\u00ed\u010dov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070670
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"98e4b08fa24f0575f707859dfeabc462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226572219,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226572219,
+    "wof:lastmodified":1536960958,
+    "wof:name":"Milicov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61601,
+    50.00189,
+    13.61601,
+    50.00189
+],
+  "geometry": {"coordinates":[13.61601,50.00189],"type":"Point"}
+}

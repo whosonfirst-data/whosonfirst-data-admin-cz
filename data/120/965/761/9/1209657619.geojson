@@ -1,0 +1,66 @@
+{
+  "id": 1209657619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44964,49.79893,17.44964,49.79893",
+    "geom:latitude":49.79893,
+    "geom:longitude":17.44964,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Hajmrlov",
+    "gn:country_code":"CZ",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076008,
+    "gn:latitude":49.79893,
+    "gn:longitude":17.44964,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Hajmrlov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heimerldorf",
+        "Hajmrlov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076008
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2f37925705ab0238e822b6726369b0ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209657619
+        }
+    ],
+    "wof:id":1209657619,
+    "wof:lastmodified":1537619421,
+    "wof:name":"Hajmrlov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44964,
+    49.79893,
+    17.44964,
+    49.79893
+],
+  "geometry": {"coordinates":[17.44964,49.79893],"type":"Point"}
+}

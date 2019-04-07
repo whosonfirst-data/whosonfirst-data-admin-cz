@@ -1,0 +1,80 @@
+{
+  "id": 1125315893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.756521,50.668035,14.756521,50.668035",
+    "geom:latitude":50.668035,
+    "geom:longitude":14.756521,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":50.668035,
+    "lbl:longitude":14.756521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Noviny pod Ralskem",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos":37,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":37,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1210496,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12607003,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12607003,
+        "qs_pg:id":1210496
+    },
+    "wof:country":"CZ",
+    "wof:created":1497044271,
+    "wof:geomhash":"b272fbdc121f4f5c612212d793d2aa4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125315893,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1125315893,
+    "wof:lastmodified":1509388007,
+    "wof:name":"Noviny pod Ralskem",
+    "wof:parent_id":85682473,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.756521,
+    50.668035,
+    14.756521,
+    50.668035
+],
+  "geometry": {"coordinates":[14.756521,50.668035],"type":"Point"}
+}

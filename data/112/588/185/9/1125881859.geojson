@@ -1,0 +1,125 @@
+{
+  "id": 1125881859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98266,50.44557,15.98266,50.44557",
+    "geom:latitude":50.44557,
+    "geom:longitude":15.98266,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CZ",
+    "lbl:latitude":50.44557,
+    "lbl:longitude":15.98266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:dut_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:eng_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:fre_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:ger_x_preferred":[
+        "Chl\u00edstov u Dobru\u0161ky"
+    ],
+    "name:hun_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:ita_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:may_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0644\u06cc\u0633\u062a\u0648\u0641"
+    ],
+    "name:por_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:rup_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:slo_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043b\u0438\u0441\u0442\u043e\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077813,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Chl\u00edstov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381841,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787545,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077813,
+        "gp:id":787545,
+        "qs_pg:id":381841,
+        "wd:id":"Q1075468"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294855,
+    "wof:geomhash":"ef33b186b2d73c17fed7eaf7df267667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125881859,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125881859,
+    "wof:lastmodified":1553816598,
+    "wof:name":"Chl\u00edstov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98266,
+    50.44557,
+    15.98266,
+    50.44557
+],
+  "geometry": {"coordinates":[15.98266,50.44557],"type":"Point"}
+}

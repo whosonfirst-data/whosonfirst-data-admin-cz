@@ -1,0 +1,69 @@
+{
+  "id": 1226276189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.10944,49.87119,13.10944,49.87119",
+    "geom:latitude":49.87119,
+    "geom:longitude":13.10944,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Skupec",
+    "gn:country_code":"CZ",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065927,
+    "gn:latitude":49.87119,
+    "gn:longitude":13.10944,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Skupe\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skupsch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065927
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"538619c8ed8463bd883667e5b9215cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226276189,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1226276189,
+    "wof:lastmodified":1537619302,
+    "wof:name":"Skupec",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.10944,
+    49.87119000000001,
+    13.10944,
+    49.87119000000001
+],
+  "geometry": {"coordinates":[13.10944,49.87119000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243297847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22012,49.4306,18.22012,49.4306",
+    "geom:latitude":49.4306,
+    "geom:longitude":18.22012,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Hutisko",
+    "gn:country_code":"CZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074666,
+    "gn:latitude":49.4306,
+    "gn:longitude":18.22012,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Hutisko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074666
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e05fb20be0c7214a87c638f22a2cc052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243297847,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1243297847,
+    "wof:lastmodified":1537018923,
+    "wof:name":"Hutisko",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22012,
+    49.4306,
+    18.22012,
+    49.4306
+],
+  "geometry": {"coordinates":[18.22012,49.4306],"type":"Point"}
+}

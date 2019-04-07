@@ -1,0 +1,66 @@
+{
+  "id": 1242607709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2919,49.7903,18.2919,49.7903",
+    "geom:latitude":49.7903,
+    "geom:longitude":18.2919,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0806",
+    "gn:asciiname":"Ostrava-Kuncice",
+    "gn:country_code":"CZ",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7838888,
+    "gn:latitude":49.7903,
+    "gn:longitude":18.2919,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Ostrava-Kun\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838888
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6d1a864ae737acd5308ca09c6feadf2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242607709,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1242607709,
+    "wof:lastmodified":1537019542,
+    "wof:name":"Ostrava-Kuncice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2919,
+    49.7903,
+    18.2919,
+    49.7903
+],
+  "geometry": {"coordinates":[18.2919,49.7903],"type":"Point"}
+}

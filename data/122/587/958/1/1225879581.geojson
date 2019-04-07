@@ -1,0 +1,66 @@
+{
+  "id": 1225879581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4331,49.53369,14.4331,49.53369",
+    "geom:latitude":49.53369,
+    "geom:longitude":14.4331,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Nova Ves",
+    "gn:country_code":"CZ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069619,
+    "gn:latitude":49.53369,
+    "gn:longitude":14.4331,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Nov\u00e1 Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069619
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b425f3cbdd03bfb2c416dc4dbbf236c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225879581,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1225879581,
+    "wof:lastmodified":1536964668,
+    "wof:name":"Nova Ves",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4331,
+    49.53369,
+    14.4331,
+    49.53369
+],
+  "geometry": {"coordinates":[14.4331,49.53369],"type":"Point"}
+}

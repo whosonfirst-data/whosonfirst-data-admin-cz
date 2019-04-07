@@ -1,0 +1,66 @@
+{
+  "id": 1226079191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06982,50.46827,16.06982,50.46827",
+    "geom:latitude":50.46827,
+    "geom:longitude":16.06982,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Stolin",
+    "gn:country_code":"CZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065101,
+    "gn:latitude":50.46827,
+    "gn:longitude":16.06982,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Stol\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065101
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b5e1e2d8b1ef6b2900dd17e41b4cb469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226079191,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1226079191,
+    "wof:lastmodified":1536676992,
+    "wof:name":"Stolin",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06982,
+    50.46827,
+    16.06982,
+    50.46827
+],
+  "geometry": {"coordinates":[16.06982,50.46827],"type":"Point"}
+}

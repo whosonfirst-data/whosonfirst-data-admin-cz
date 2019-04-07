@@ -1,0 +1,143 @@
+{
+  "id": 1125873147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99041,49.56541,14.99041,49.56541",
+    "geom:latitude":49.56541,
+    "geom:longitude":14.99041,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1120,
+    "gn:population":1120,
+    "iso:country":"CZ",
+    "lbl:latitude":49.56541,
+    "lbl:longitude":14.99041,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Lukavec"
+    ],
+    "name:dut_x_preferred":[
+        "Lukavec"
+    ],
+    "name:eng_x_preferred":[
+        "Lukavec"
+    ],
+    "name:fre_x_preferred":[
+        "Lukavec"
+    ],
+    "name:ger_x_preferred":[
+        "Lukavec u Pacova"
+    ],
+    "name:hun_x_preferred":[
+        "Lukavec"
+    ],
+    "name:ita_x_preferred":[
+        "Lukavec"
+    ],
+    "name:may_x_preferred":[
+        "Lukavec"
+    ],
+    "name:nan_x_preferred":[
+        "Lukavec"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648\u06a9\u0627\u0648\u062a\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Lukavec"
+    ],
+    "name:por_x_preferred":[
+        "Lukavec"
+    ],
+    "name:rup_x_preferred":[
+        "Lukavec"
+    ],
+    "name:slo_x_preferred":[
+        "Lukavec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u043a\u0430\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Lukavec"
+    ],
+    "name:unk_x_variant":[
+        "Lukawetz"
+    ],
+    "name:vie_x_preferred":[
+        "Lukavec"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071388,
+    "qs_pg:gn_pop":1120,
+    "qs_pg:name":"Lukavec",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1043029,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793281,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071388,
+        "gp:id":793281,
+        "qs_pg:id":1043029,
+        "wd:id":"Q774268"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294402,
+    "wof:geomhash":"b85444e1e5f7e0360ac0128b3278c06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125873147,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125873147,
+    "wof:lastmodified":1553816589,
+    "wof:name":"Lukavec",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":1120,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99041,
+    49.56541,
+    14.99041,
+    49.56541
+],
+  "geometry": {"coordinates":[14.99041,49.56541],"type":"Point"}
+}

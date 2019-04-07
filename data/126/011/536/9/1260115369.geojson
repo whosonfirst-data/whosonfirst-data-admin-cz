@@ -1,0 +1,69 @@
+{
+  "id": 1260115369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.28675,50.08143,12.28675,50.08143",
+    "geom:latitude":50.08143,
+    "geom:longitude":12.28675,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Dolni Hranicna",
+    "gn:country_code":"CZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076843,
+    "gn:latitude":50.08143,
+    "gn:longitude":12.28675,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Doln\u00ed Hrani\u010dn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doln\u00ed Kunreuth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076843
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"53d6c1f78a4bcc2d428527b19bcedbea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260115369,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1260115369,
+    "wof:lastmodified":1537619434,
+    "wof:name":"Dolni Hranicna",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.28675,
+    50.08143,
+    12.28675,
+    50.08143
+],
+  "geometry": {"coordinates":[12.28675,50.08143],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 101825507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":907000.646049,
+    "geom:bbox":"18.1454039529,49.9064582409,18.1612502997,49.918658042",
+    "geom:latitude":49.913143,
+    "geom:longitude":18.153078,
+    "gn:population":1808,
+    "iso:country":"CZ",
+    "lbl:latitude":49.91351,
+    "lbl:longitude":18.154662,
+    "mps:latitude":49.91351,
+    "mps:longitude":18.154662,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Kozmice"
+    ],
+    "name:dut_x_preferred":[
+        "Kozmice"
+    ],
+    "name:eng_x_preferred":[
+        "Kozmice"
+    ],
+    "name:epo_x_preferred":[
+        "Kozmice"
+    ],
+    "name:fre_x_preferred":[
+        "Kozmice"
+    ],
+    "name:hun_x_preferred":[
+        "Kozmice"
+    ],
+    "name:ita_x_preferred":[
+        "Kozmice"
+    ],
+    "name:may_x_preferred":[
+        "Kozmice"
+    ],
+    "name:pol_x_preferred":[
+        "Kozmice"
+    ],
+    "name:por_x_preferred":[
+        "Kozmice"
+    ],
+    "name:rup_x_preferred":[
+        "Kozmice"
+    ],
+    "name:slo_x_preferred":[
+        "Kozmice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0437\u043c\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kozmice"
+    ],
+    "name:unk_x_variant":[
+        "Kosm\u00fctz"
+    ],
+    "name:vie_x_preferred":[
+        "Kozmice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Kozmice",
+    "qs:la_lc":"*CZ0805547182",
+    "qs:level":"locality",
+    "qs:loc":"Kozmice",
+    "qs:loc_alt":"Kozmice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073001,
+        "gp:id":791833,
+        "qs:id":145406,
+        "qs_pg:id":398838,
+        "wd:id":"Q2352033",
+        "wk:page":"Kozmice (Opava District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"68e2aa4559051adf2f7b8da1ae386b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825507,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825507,
+    "wof:lastmodified":1553815527,
+    "wof:name":"Kozmice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1808,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14540395289214,
+    49.90645824094304,
+    18.16125029973489,
+    49.91865804198994
+],
+  "geometry": {"coordinates":[[[18.16125029973489,49.91845844598481],[18.16063999333585,49.91488733704574],[18.15925492507967,49.91498713493195],[18.15864483375077,49.91141600881235],[18.16002980062706,49.91131621947272],[18.15972474689738,49.9095306574477],[18.15280011327513,49.91002941417821],[18.15219059782032,49.90645824094304],[18.14942091024574,49.90665760853835],[18.14957322778906,49.90755040692414],[18.14818835077295,49.90765006756601],[18.14834065006914,49.90854286754632],[18.14695574245354,49.90864251346147],[18.14756490919797,49.9122137165254],[18.14617989494872,49.91231335411248],[18.14678907379511,49.91588455708882],[18.14540395289214,49.91598418634675],[18.14570853417467,49.91776978887015],[18.14847887212659,49.91757050495636],[18.14832652723396,49.91667770823125],[18.15248191863742,49.91637866228558],[18.15263433958472,49.91727145260705],[18.1567897596571,49.91697224848531],[18.15694226375894,49.91786503186057],[18.15832741859987,49.91776526129024],[18.1584799551573,49.91865804198994],[18.16125029973489,49.91845844598481]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243394051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06993,49.91898,16.06993,49.91898",
+    "geom:latitude":49.91898,
+    "geom:longitude":16.06993,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Pesice",
+    "gn:country_code":"CZ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068410,
+    "gn:latitude":49.91898,
+    "gn:longitude":16.06993,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"P\u011b\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068410
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8c121395330d16992c0ba9072ad23913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243394051,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1243394051,
+    "wof:lastmodified":1536880511,
+    "wof:name":"Pesice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06993,
+    49.91898,
+    16.06993,
+    49.91898
+],
+  "geometry": {"coordinates":[16.06993,49.91898],"type":"Point"}
+}

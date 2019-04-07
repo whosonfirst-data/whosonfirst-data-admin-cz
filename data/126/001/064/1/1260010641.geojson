@@ -1,0 +1,66 @@
+{
+  "id": 1260010641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31136,49.99837,16.31136,49.99837",
+    "geom:latitude":49.99837,
+    "geom:longitude":16.31136,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Perna",
+    "gn:country_code":"CZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068427,
+    "gn:latitude":49.99837,
+    "gn:longitude":16.31136,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Pern\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068427
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7464e7d654d83ecd597075a1a666568b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260010641,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1260010641,
+    "wof:lastmodified":1537089718,
+    "wof:name":"Perna",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31136,
+    49.99837,
+    16.31136,
+    49.99837
+],
+  "geometry": {"coordinates":[16.31136,49.99837],"type":"Point"}
+}

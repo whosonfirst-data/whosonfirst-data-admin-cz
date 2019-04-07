@@ -1,0 +1,80 @@
+{
+  "id": 1125316055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.766193,49.531336,18.766193,49.531336",
+    "geom:latitude":49.531336,
+    "geom:longitude":18.766193,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":49.531336,
+    "lbl:longitude":18.766193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mosty u Jablunkova",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos":369,
+    "qs_pg:photos_1k":75,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":386,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1210742,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12607580,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12607580,
+        "qs_pg:id":1210742
+    },
+    "wof:country":"CZ",
+    "wof:created":1497044278,
+    "wof:geomhash":"74a0ae0693cd0f5a4113471df544ad68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125316055,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125316055,
+    "wof:lastmodified":1509388012,
+    "wof:name":"Mosty u Jablunkova",
+    "wof:parent_id":85682451,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.766193,
+    49.531336,
+    18.766193,
+    49.531336
+],
+  "geometry": {"coordinates":[18.766193,49.531336],"type":"Point"}
+}

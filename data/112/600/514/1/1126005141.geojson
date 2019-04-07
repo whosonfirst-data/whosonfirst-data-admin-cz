@@ -1,0 +1,135 @@
+{
+  "id": 1126005141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2089,48.95753,16.2089,48.95753",
+    "geom:latitude":48.95753,
+    "geom:longitude":16.2089,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":230,
+    "gn:population":230,
+    "iso:country":"CZ",
+    "lbl:latitude":48.95753,
+    "lbl:longitude":16.2089,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:dut_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:eng_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:fre_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:ger_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:hun_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:ita_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:may_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u0634\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:por_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:rup_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:slo_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0448\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "name:vie_x_preferred":[
+        "Mora\u0161ice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070364,
+    "qs_pg:gn_pop":230,
+    "qs_pg:name":"Mora\u0161ice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399479,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794197,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070364,
+        "gp:id":794197,
+        "qs_pg:id":399479,
+        "wd:id":"Q1901267"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299899,
+    "wof:geomhash":"7c083f1c9711d361864be8e49930abd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126005141,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1126005141,
+    "wof:lastmodified":1553816693,
+    "wof:name":"Mora\u0161ice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2089,
+    48.95753,
+    16.2089,
+    48.95753
+],
+  "geometry": {"coordinates":[16.2089,48.95753],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1125968405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68127,49.96361,15.68127,49.96361",
+    "geom:latitude":49.96361,
+    "geom:longitude":15.68127,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":304,
+    "gn:population":304,
+    "iso:country":"CZ",
+    "lbl:latitude":49.96361,
+    "lbl:longitude":15.68127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:dut_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:eng_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:epo_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:fre_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:hun_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:ita_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:may_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:pol_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:por_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:slo_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0435\u0448\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "name:vie_x_preferred":[
+        "Kle\u0161ice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3073620,
+    "qs_pg:gn_pop":304,
+    "qs_pg:name":"Kle\u0161ice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398671,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":791295,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073620,
+        "gp:id":791295,
+        "qs_pg:id":398671,
+        "wd:id":"Q2521705"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298064,
+    "wof:geomhash":"0e7afc9eb483b72cf3c81800c268278b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125968405,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125968405,
+    "wof:lastmodified":1513945175,
+    "wof:name":"Kle\u0161ice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68127,
+    49.96361,
+    15.68127,
+    49.96361
+],
+  "geometry": {"coordinates":[15.68127,49.96361],"type":"Point"}
+}

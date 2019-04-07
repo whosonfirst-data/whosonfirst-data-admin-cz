@@ -1,0 +1,66 @@
+{
+  "id": 1310240015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0009,50.49312,16.0009,50.49312",
+    "geom:latitude":50.49312,
+    "geom:longitude":16.0009,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Svobodne",
+    "gn:country_code":"CZ",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064441,
+    "gn:latitude":50.49312,
+    "gn:longitude":16.0009,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Svobodn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064441
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"213e20bae270b9cd32d10b97c4b743b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310240015,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1310240015,
+    "wof:lastmodified":1536802377,
+    "wof:name":"Svobodne",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0009,
+    50.49312000000001,
+    16.0009,
+    50.49312000000001
+],
+  "geometry": {"coordinates":[16.0009,50.49312000000001],"type":"Point"}
+}

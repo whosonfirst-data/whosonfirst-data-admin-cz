@@ -1,0 +1,70 @@
+{
+  "id": 1293826399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41595,49.45476,17.41595,49.45476",
+    "geom:latitude":49.45476,
+    "geom:longitude":17.41595,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Dluhonice",
+    "gn:country_code":"CZ",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077095,
+    "gn:latitude":49.45476,
+    "gn:longitude":17.41595,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Dluhonice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dluhonitz",
+        "Dluhonice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077095
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"da63ad0ad7311a16e64115e4b1b50a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293826399,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1293826399,
+    "wof:lastmodified":1537619438,
+    "wof:name":"Dluhonice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41595,
+    49.45476,
+    17.41595,
+    49.45476
+],
+  "geometry": {"coordinates":[17.41595,49.45476],"type":"Point"}
+}

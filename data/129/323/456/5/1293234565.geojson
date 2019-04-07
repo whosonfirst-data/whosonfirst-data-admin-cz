@@ -1,0 +1,66 @@
+{
+  "id": 1293234565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36088,49.40299,15.36088,49.40299",
+    "geom:latitude":49.40299,
+    "geom:longitude":15.36088,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Mocary",
+    "gn:country_code":"CZ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070444,
+    "gn:latitude":49.40299,
+    "gn:longitude":15.36088,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Mo\u010d\u00e1ry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070444
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"416ff0e5f91065df555d202b9b0ffa11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293234565,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1293234565,
+    "wof:lastmodified":1536654782,
+    "wof:name":"Mocary",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36088,
+    49.40299,
+    15.36088,
+    49.40299
+],
+  "geometry": {"coordinates":[15.36088,49.40299],"type":"Point"}
+}

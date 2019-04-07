@@ -1,0 +1,112 @@
+{
+  "id": 85900751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:area_square_m":1047179.299125,
+    "geom:bbox":"14.4909667969,50.0289164987,14.5074462891,50.0412656611",
+    "geom:latitude":50.035751,
+    "geom:longitude":14.498599,
+    "gn:latitude":50.03333,
+    "gn:longitude":14.5,
+    "iso:country":"CZ",
+    "lbl:latitude":50.035406,
+    "lbl:longitude":14.496693,
+    "mps:latitude":50.036033,
+    "mps:longitude":14.498756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:ces_x_preferred":[
+        "Litochleby"
+    ],
+    "name:cze_x_preferred":[
+        "Litochleby"
+    ],
+    "name:unk_x_variant":[
+        "Litochleby"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"88",
+    "qs:gn_name":"Litochleby",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Litochleby",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":20,
+    "qs:photo_sum":56,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071686,
+        "gp:id":793021,
+        "qs:id":1080923,
+        "qs_pg:id":1080923
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"804eb6c3886e3408ec9264d786f0877e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900751,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900751,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1497313470,
+    "wof:name":"Litochleby",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49096679688336,
+    50.02891649870021,
+    14.50744628910013,
+    50.04126566107512
+],
+  "geometry": {"coordinates":[[[14.50195316664036,50.03244524750004],[14.50195312500011,50.03244518267546],[14.50195312500011,50.02891656350012],[14.50195312500011,50.02891649870021],[14.49742998096559,50.02891649870021],[14.49742994766615,50.0289165592818],[14.49645996089998,50.02891656350012],[14.49645996089998,50.03244524749995],[14.4958168763614,50.03244524749995],[14.49460419812107,50.03206767553674],[14.49387660721681,50.03244524750004],[14.49096679690012,50.03244524749995],[14.49096679688546,50.03395524823746],[14.49096679688336,50.03597360737514],[14.49096679688336,50.03597367220009],[14.49096679688341,50.03950177280002],[14.49096679690012,50.03950183759993],[14.49645996089998,50.03950183759993],[14.49646000254347,50.03950183759993],[14.49759283460691,50.04126566107512],[14.50179009651401,50.04126566107512],[14.50195312500011,50.04084260897351],[14.50453654119963,50.03950183760126],[14.50744628910013,50.03950183759993],[14.50744628908689,50.03799170281879],[14.50744628908546,50.03617397857435],[14.50744628910013,50.03597367220009],[14.50680299625094,50.03597367220009],[14.50276139969287,50.03471521331757],[14.50259893891018,50.03345056942432],[14.50195316664036,50.03244524750004]]],"type":"Polygon"}
+}

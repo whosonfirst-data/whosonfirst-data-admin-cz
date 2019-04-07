@@ -1,0 +1,62 @@
+{
+  "id": 1209549451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59439,50.46763,15.59439,50.46763",
+    "geom:latitude":50.46763,
+    "geom:longitude":15.59439,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Horni Javori",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075364,
+    "gn:latitude":50.46763,
+    "gn:longitude":15.59439,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Horn\u00ed Javo\u0159\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075364
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"296bd702bb552f96e67510786a02150a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209549451
+        }
+    ],
+    "wof:id":1209549451,
+    "wof:lastmodified":1536283740,
+    "wof:name":"Horni Javori",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59439,
+    50.46763,
+    15.59439,
+    50.46763
+],
+  "geometry": {"coordinates":[15.59439,50.46763],"type":"Point"}
+}

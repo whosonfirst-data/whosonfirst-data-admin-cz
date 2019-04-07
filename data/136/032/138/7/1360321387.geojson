@@ -1,0 +1,66 @@
+{
+  "id": 1360321387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94917,49.25794,13.94917,49.25794",
+    "geom:latitude":49.25794,
+    "geom:longitude":13.94917,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Hajska",
+    "gn:country_code":"CZ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076003,
+    "gn:latitude":49.25794,
+    "gn:longitude":13.94917,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"H\u00e1jsk\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076003
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"200aa0412ffca9925875ae7db54b2394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360321387,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1360321387,
+    "wof:lastmodified":1536601533,
+    "wof:name":"Hajska",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94917,
+    49.25794000000001,
+    13.94917,
+    49.25794000000001
+],
+  "geometry": {"coordinates":[13.94917,49.25794000000001],"type":"Point"}
+}

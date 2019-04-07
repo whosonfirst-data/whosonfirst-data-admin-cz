@@ -1,0 +1,66 @@
+{
+  "id": 1260219217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16917,49.60595,18.16917,49.60595",
+    "geom:latitude":49.60595,
+    "geom:longitude":18.16917,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0804",
+    "gn:asciiname":"Sykorec",
+    "gn:country_code":"CZ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064396,
+    "gn:latitude":49.60595,
+    "gn:longitude":18.16917,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"S\u00fdkorec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064396
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8b54143a8fd02575e7a8e2ac6c92a27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260219217,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1260219217,
+    "wof:lastmodified":1536799244,
+    "wof:name":"Sykorec",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16917,
+    49.60595,
+    18.16917,
+    49.60595
+],
+  "geometry": {"coordinates":[18.16917,49.60595],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260110797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98241,50.14468,12.98241,50.14468",
+    "geom:latitude":50.14468,
+    "geom:longitude":12.98241,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Nemecky Chloumek",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069892,
+    "gn:latitude":50.14468,
+    "gn:longitude":12.98241,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"N\u011bmeck\u00fd Chloumek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deutsch Killmes",
+        "Deutsch Kilmes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069892
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"035b9317c6b3d30d1a859f4fbe71407a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260110797,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1260110797,
+    "wof:lastmodified":1537619347,
+    "wof:name":"Nemecky Chloumek",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98241,
+    50.14468,
+    12.98241,
+    50.14468
+],
+  "geometry": {"coordinates":[12.98241,50.14468],"type":"Point"}
+}

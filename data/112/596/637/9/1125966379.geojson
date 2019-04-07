@@ -1,0 +1,135 @@
+{
+  "id": 1125966379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73776,50.01761,14.73776,50.01761",
+    "geom:latitude":50.01761,
+    "geom:longitude":14.73776,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":159,
+    "gn:population":159,
+    "iso:country":"CZ",
+    "lbl:latitude":50.01761,
+    "lbl:longitude":14.73776,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0443\u0431\u0435\u043a"
+    ],
+    "name:cze_x_preferred":[
+        "Doubek"
+    ],
+    "name:dut_x_preferred":[
+        "Doubek"
+    ],
+    "name:eng_x_preferred":[
+        "Doubek"
+    ],
+    "name:est_x_preferred":[
+        "Doubek"
+    ],
+    "name:fre_x_preferred":[
+        "Doubek"
+    ],
+    "name:hun_x_preferred":[
+        "Doubek"
+    ],
+    "name:ita_x_preferred":[
+        "Doubek"
+    ],
+    "name:may_x_preferred":[
+        "Doubek"
+    ],
+    "name:pol_x_preferred":[
+        "Doubek"
+    ],
+    "name:por_x_preferred":[
+        "Doubek"
+    ],
+    "name:rup_x_preferred":[
+        "Doubek"
+    ],
+    "name:slo_x_preferred":[
+        "Doubek"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0443\u0431\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Doubek"
+    ],
+    "name:vie_x_preferred":[
+        "Doubek"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076567,
+    "qs_pg:gn_pop":159,
+    "qs_pg:name":"Doubek",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1151521,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788700,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076567,
+        "gp:id":788700,
+        "qs_pg:id":1151521,
+        "wd:id":"Q2220471"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297992,
+    "wof:geomhash":"22144a59a510dbbab9fbaf8e4dc96023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125966379,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125966379,
+    "wof:lastmodified":1513944937,
+    "wof:name":"Doubek",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73776,
+    50.01761,
+    14.73776,
+    50.01761
+],
+  "geometry": {"coordinates":[14.73776,50.01761],"type":"Point"}
+}

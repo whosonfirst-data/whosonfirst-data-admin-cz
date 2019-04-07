@@ -1,0 +1,66 @@
+{
+  "id": 1260116341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.37967,50.02901,13.37967,50.02901",
+    "geom:latitude":50.02901,
+    "geom:longitude":13.37967,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Prehorov",
+    "gn:country_code":"CZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067600,
+    "gn:latitude":50.02901,
+    "gn:longitude":13.37967,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"P\u0159eho\u0159ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067600
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f133cd729725a4d30e49350120b9cbd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260116341,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1260116341,
+    "wof:lastmodified":1536941343,
+    "wof:name":"Prehorov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.37967,
+    50.02901,
+    13.37967,
+    50.02901
+],
+  "geometry": {"coordinates":[13.37967,50.02901],"type":"Point"}
+}

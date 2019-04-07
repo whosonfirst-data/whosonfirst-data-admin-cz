@@ -1,0 +1,80 @@
+{
+  "id": 1125315757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.131166,50.533878,14.131166,50.533878",
+    "geom:latitude":50.533878,
+    "geom:longitude":14.131166,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":50.533878,
+    "lbl:longitude":14.131166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Litom\u011b\u0159ice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos":83,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":477,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1210295,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12606672,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12606672,
+        "qs_pg:id":1210295
+    },
+    "wof:country":"CZ",
+    "wof:created":1497044265,
+    "wof:geomhash":"2359f5a679094f741411c8e73085831d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125315757,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125315757,
+    "wof:lastmodified":1509388002,
+    "wof:name":"Litom\u011b\u0159ice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.131166,
+    50.533878,
+    14.131166,
+    50.533878
+],
+  "geometry": {"coordinates":[14.131166,50.533878],"type":"Point"}
+}

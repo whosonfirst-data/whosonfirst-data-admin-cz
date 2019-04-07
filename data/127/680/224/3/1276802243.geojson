@@ -1,0 +1,66 @@
+{
+  "id": 1276802243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59713,49.52796,14.59713,49.52796",
+    "geom:latitude":49.52796,
+    "geom:longitude":14.59713,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Bonkovice",
+    "gn:country_code":"CZ",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079048,
+    "gn:latitude":49.52796,
+    "gn:longitude":14.59713,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Bonkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079048
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"edec4ddc51c3b2242b0351ae6419f9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276802243,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276802243,
+    "wof:lastmodified":1536647175,
+    "wof:name":"Bonkovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59713,
+    49.52796,
+    14.59713,
+    49.52796
+],
+  "geometry": {"coordinates":[14.59713,49.52796],"type":"Point"}
+}

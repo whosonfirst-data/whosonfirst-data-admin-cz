@@ -1,0 +1,66 @@
+{
+  "id": 1293726011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23333,49.31667,18.23333,49.31667",
+    "geom:latitude":49.31667,
+    "geom:longitude":18.23333,
+    "gn:admin1_code":"90",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Vaclavce",
+    "gn:country_code":"CZ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063484,
+    "gn:latitude":49.31667,
+    "gn:longitude":18.23333,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"V\u00e1clavce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063484
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"07bc638892df99859a08828fdfc99dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293726011,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1293726011,
+    "wof:lastmodified":1536941083,
+    "wof:name":"Vaclavce",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23333,
+    49.31667,
+    18.23333,
+    49.31667
+],
+  "geometry": {"coordinates":[18.23333,49.31667],"type":"Point"}
+}

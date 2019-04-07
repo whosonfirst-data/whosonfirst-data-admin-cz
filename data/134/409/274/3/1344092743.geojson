@@ -1,0 +1,70 @@
+{
+  "id": 1344092743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11667,50.3,13.11667,50.3",
+    "geom:latitude":50.3,
+    "geom:longitude":13.11667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Tridomi",
+    "gn:country_code":"CZ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064009,
+    "gn:latitude":50.3,
+    "gn:longitude":13.11667,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"T\u0159\u00eddom\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dreih\u00e4user",
+        "T\u0159\u00eddom\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064009
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"62fa2885212cf84c10ae2af32228fdf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344092743,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1344092743,
+    "wof:lastmodified":1537619279,
+    "wof:name":"Tridomi",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11667,
+    50.3,
+    13.11667,
+    50.3
+],
+  "geometry": {"coordinates":[13.11667,50.3],"type":"Point"}
+}

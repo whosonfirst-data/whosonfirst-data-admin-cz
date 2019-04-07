@@ -1,0 +1,143 @@
+{
+  "id": 1126002685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.70661,48.95158,16.70661,48.95158",
+    "geom:latitude":48.95158,
+    "geom:longitude":16.70661,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":761,
+    "gn:population":761,
+    "iso:country":"CZ",
+    "lbl:latitude":48.95158,
+    "lbl:longitude":16.70661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Starovice"
+    ],
+    "name:dut_x_preferred":[
+        "Starovice"
+    ],
+    "name:eng_x_preferred":[
+        "Starovice"
+    ],
+    "name:fre_x_preferred":[
+        "Starovice"
+    ],
+    "name:ger_x_preferred":[
+        "Starovice"
+    ],
+    "name:hun_x_preferred":[
+        "Starovice"
+    ],
+    "name:ita_x_preferred":[
+        "Starovice"
+    ],
+    "name:may_x_preferred":[
+        "Starovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Starovice"
+    ],
+    "name:por_x_preferred":[
+        "Starovice"
+    ],
+    "name:rup_x_preferred":[
+        "Starovice"
+    ],
+    "name:sgs_x_preferred":[
+        "Staruov\u0117c\u0113"
+    ],
+    "name:slo_x_preferred":[
+        "Starovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Starovice"
+    ],
+    "name:unk_x_variant":[
+        "Gross-Steurowitz"
+    ],
+    "name:vie_x_preferred":[
+        "Starovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065285,
+    "qs_pg:gn_pop":761,
+    "qs_pg:name":"Starovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":292521,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798747,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065285,
+        "gp:id":798747,
+        "qs_pg:id":292521,
+        "wd:id":"Q1023849"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299745,
+    "wof:geomhash":"1430c7ab8e5d94d275861eece13579e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126002685,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1126002685,
+    "wof:lastmodified":1513945716,
+    "wof:name":"Starovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":761,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.70661,
+    48.95158,
+    16.70661,
+    48.95158
+],
+  "geometry": {"coordinates":[16.70661,48.95158],"type":"Point"}
+}

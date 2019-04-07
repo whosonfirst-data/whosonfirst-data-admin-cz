@@ -1,0 +1,66 @@
+{
+  "id": 1326564043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.89177,49.46467,12.89177,49.46467",
+    "geom:latitude":49.46467,
+    "geom:longitude":12.89177,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Luzenice",
+    "gn:country_code":"CZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071332,
+    "gn:latitude":49.46467,
+    "gn:longitude":12.89177,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Lu\u017eenice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071332
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ec38f2accffed962966b6fae2ae12e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326564043,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1326564043,
+    "wof:lastmodified":1536938890,
+    "wof:name":"Luzenice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.89177,
+    49.46467,
+    12.89177,
+    49.46467
+],
+  "geometry": {"coordinates":[12.89177,49.46467],"type":"Point"}
+}

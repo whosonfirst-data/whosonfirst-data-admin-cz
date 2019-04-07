@@ -1,0 +1,72 @@
+{
+  "id": 1293717725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.02638,49.6743,13.02638,49.6743",
+    "geom:latitude":49.6743,
+    "geom:longitude":13.02638,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Kostelec",
+    "gn:country_code":"CZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073163,
+    "gn:latitude":49.6743,
+    "gn:longitude":13.02638,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Kostelec",
+    "gn:population":547,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kostelzen"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073163
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cc558e14e4d07d2f3f3fa84fbd5438c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293717725,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293717725,
+    "wof:lastmodified":1537619388,
+    "wof:name":"Kostelec",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":547,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02638,
+    49.6743,
+    13.02638,
+    49.6743
+],
+  "geometry": {"coordinates":[13.02638,49.6743],"type":"Point"}
+}

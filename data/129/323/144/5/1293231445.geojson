@@ -1,0 +1,70 @@
+{
+  "id": 1293231445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47535,49.77675,16.47535,49.77675",
+    "geom:latitude":49.77675,
+    "geom:longitude":16.47535,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Moravsky Lacnov",
+    "gn:country_code":"CZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070309,
+    "gn:latitude":49.77675,
+    "gn:longitude":16.47535,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Moravsk\u00fd La\u010dnov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e4hrisch Lotschnau",
+        "Moravsk\u00fd La\u010dnov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070309
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bea798f32bc88cba3db4aee382e05938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293231445,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1293231445,
+    "wof:lastmodified":1537619353,
+    "wof:name":"Moravsky Lacnov",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47535,
+    49.77675,
+    16.47535,
+    49.77675
+],
+  "geometry": {"coordinates":[16.47535,49.77675],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242908453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.78293,49.73139,12.78293,49.73139",
+    "geom:latitude":49.73139,
+    "geom:longitude":12.78293,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Ceckovice",
+    "gn:country_code":"CZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078193,
+    "gn:latitude":49.73139,
+    "gn:longitude":12.78293,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"\u010ce\u010dkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eschowitz",
+        "\u010ce\u010dkovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078193
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"553a2ff0de4c91136ea9d5ebb31563f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242908453,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1242908453,
+    "wof:lastmodified":1537619448,
+    "wof:name":"Ceckovice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.78293,
+    49.73139000000001,
+    12.78293,
+    49.73139000000001
+],
+  "geometry": {"coordinates":[12.78293,49.73139000000001],"type":"Point"}
+}

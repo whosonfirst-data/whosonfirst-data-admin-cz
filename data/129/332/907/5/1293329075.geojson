@@ -1,0 +1,66 @@
+{
+  "id": 1293329075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65953,49.43561,14.65953,49.43561",
+    "geom:latitude":49.43561,
+    "geom:longitude":14.65953,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Nachod",
+    "gn:country_code":"CZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070123,
+    "gn:latitude":49.43561,
+    "gn:longitude":14.65953,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"N\u00e1chod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070123
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"82a8146e0e78ac6f2229b5649d724c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293329075,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293329075,
+    "wof:lastmodified":1537014666,
+    "wof:name":"Nachod",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65953,
+    49.43561,
+    14.65953,
+    49.43561
+],
+  "geometry": {"coordinates":[14.65953,49.43561],"type":"Point"}
+}

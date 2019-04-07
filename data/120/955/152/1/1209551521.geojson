@@ -1,0 +1,63 @@
+{
+  "id": 1209551521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35864,49.17317,16.35864,49.17317",
+    "geom:latitude":49.17317,
+    "geom:longitude":16.35864,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0623",
+    "gn:asciiname":"Babice u Rosic",
+    "gn:country_code":"CZ",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079731,
+    "gn:latitude":49.17317,
+    "gn:longitude":16.35864,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Babice u Rosic",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079731,
+        "wk:page":"Babice_u_Rosic"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"18f3b448f5fe8ee8a5c27ace9be82104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209551521
+        }
+    ],
+    "wof:id":1209551521,
+    "wof:lastmodified":1537504074,
+    "wof:name":"Babice u Rosic",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35864,
+    49.17317,
+    16.35864,
+    49.17317
+],
+  "geometry": {"coordinates":[16.35864,49.17317],"type":"Point"}
+}

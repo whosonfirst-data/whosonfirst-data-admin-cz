@@ -1,0 +1,66 @@
+{
+  "id": 1309941973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.813,49.03911,14.813,49.03911",
+    "geom:latitude":49.03911,
+    "geom:longitude":14.813,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Stara Hlina",
+    "gn:country_code":"CZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065414,
+    "gn:latitude":49.03911,
+    "gn:longitude":14.813,
+    "gn:modification_date":"2014-05-14",
+    "gn:name":"Star\u00e1 Hl\u00edna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065414
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c8a7ef163c091455f8b6073eecdf95f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309941973,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1309941973,
+    "wof:lastmodified":1536734993,
+    "wof:name":"Stara Hlina",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.813,
+    49.03911,
+    14.813,
+    49.03911
+],
+  "geometry": {"coordinates":[14.813,49.03911],"type":"Point"}
+}

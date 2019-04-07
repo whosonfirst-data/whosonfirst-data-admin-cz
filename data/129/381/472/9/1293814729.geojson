@@ -1,0 +1,66 @@
+{
+  "id": 1293814729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63201,49.47505,14.63201,49.47505",
+    "geom:latitude":49.47505,
+    "geom:longitude":14.63201,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Revnov",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066887,
+    "gn:latitude":49.47505,
+    "gn:longitude":14.63201,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"\u0158evnov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066887
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2ae4cf740e1d7f10278da8021baab664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293814729,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293814729,
+    "wof:lastmodified":1536811938,
+    "wof:name":"Revnov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63201,
+    49.47505,
+    14.63201,
+    49.47505
+],
+  "geometry": {"coordinates":[14.63201,49.47505],"type":"Point"}
+}

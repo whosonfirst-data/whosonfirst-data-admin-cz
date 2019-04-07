@@ -1,0 +1,66 @@
+{
+  "id": 1293913669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99619,49.15821,17.99619,49.15821",
+    "geom:latitude":49.15821,
+    "geom:longitude":17.99619,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Smolina",
+    "gn:country_code":"CZ",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065724,
+    "gn:latitude":49.15821,
+    "gn:longitude":17.99619,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Smolina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065724
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0b16c2b677b11e380deb1f2825c22be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293913669,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1293913669,
+    "wof:lastmodified":1536669935,
+    "wof:name":"Smolina",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99619,
+    49.15821,
+    17.99619,
+    49.15821
+],
+  "geometry": {"coordinates":[17.99619,49.15821],"type":"Point"}
+}

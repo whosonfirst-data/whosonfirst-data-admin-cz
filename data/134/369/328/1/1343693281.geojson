@@ -1,0 +1,70 @@
+{
+  "id": 1343693281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20379,48.8325,14.20379,48.8325",
+    "geom:latitude":48.8325,
+    "geom:longitude":14.20379,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Podvori",
+    "gn:country_code":"CZ",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067974,
+    "gn:latitude":48.8325,
+    "gn:longitude":14.20379,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Podvo\u0159\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podwurst",
+        "Podvo\u0159\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067974
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a3331d8174e8ef8ceeeb8d09a20cf85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343693281,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343693281,
+    "wof:lastmodified":1537619323,
+    "wof:name":"Podvori",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20379,
+    48.8325,
+    14.20379,
+    48.8325
+],
+  "geometry": {"coordinates":[14.20379,48.8325],"type":"Point"}
+}

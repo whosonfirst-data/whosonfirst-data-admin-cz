@@ -1,0 +1,70 @@
+{
+  "id": 1226785675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.89937,49.38259,12.89937,49.38259",
+    "geom:latitude":49.38259,
+    "geom:longitude":12.89937,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Snory",
+    "gn:country_code":"CZ",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065666,
+    "gn:latitude":49.38259,
+    "gn:longitude":12.89937,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"\u0160nory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kohlst\u00e4tten",
+        "\u0160nory"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065666
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"deb1604988fc0534b42ce0f81eeb967d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226785675,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1226785675,
+    "wof:lastmodified":1537619299,
+    "wof:name":"Snory",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.89937,
+    49.38259,
+    12.89937,
+    49.38259
+],
+  "geometry": {"coordinates":[12.89937,49.38259],"type":"Point"}
+}

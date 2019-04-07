@@ -1,0 +1,66 @@
+{
+  "id": 1242811495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40083,49.63797,16.40083,49.63797",
+    "geom:latitude":49.63797,
+    "geom:longitude":16.40083,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Manova Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071041,
+    "gn:latitude":49.63797,
+    "gn:longitude":16.40083,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Manova Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071041
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e1baa2ff1d22fea2e6a65f03d89c99cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242811495,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1242811495,
+    "wof:lastmodified":1536727269,
+    "wof:name":"Manova Lhota",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40083,
+    49.63797,
+    16.40083,
+    49.63797
+],
+  "geometry": {"coordinates":[16.40083,49.63797],"type":"Point"}
+}

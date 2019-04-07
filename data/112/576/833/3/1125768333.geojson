@@ -1,0 +1,135 @@
+{
+  "id": 1125768333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76539,49.14106,16.76539,49.14106",
+    "geom:latitude":49.14106,
+    "geom:longitude":16.76539,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":862,
+    "gn:population":862,
+    "iso:country":"CZ",
+    "lbl:latitude":49.14106,
+    "lbl:longitude":16.76539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Prace"
+    ],
+    "name:deu_x_historical":[
+        "Pratzen"
+    ],
+    "name:deu_x_preferred":[
+        "Prace"
+    ],
+    "name:deu_x_variant":[
+        "Pratzen"
+    ],
+    "name:eng_x_preferred":[
+        "Prace"
+    ],
+    "name:fra_x_preferred":[
+        "Prace"
+    ],
+    "name:hun_x_preferred":[
+        "Prace"
+    ],
+    "name:ita_x_preferred":[
+        "Prace"
+    ],
+    "name:msa_x_preferred":[
+        "Prace"
+    ],
+    "name:nld_x_preferred":[
+        "Prace"
+    ],
+    "name:pol_x_preferred":[
+        "Prace"
+    ],
+    "name:por_x_preferred":[
+        "Prace"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Prace"
+    ],
+    "name:vie_x_preferred":[
+        "Prace"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067716,
+    "qs_pg:gn_pop":862,
+    "qs_pg:name":"Prace",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":979314,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796580,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067716,
+        "gp:id":796580,
+        "qs_pg:id":979314
+    },
+    "wof:country":"CZ",
+    "wof:created":1497289975,
+    "wof:geomhash":"198f9d293e272417aa116ae547edb505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125768333,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125768333,
+    "wof:lastmodified":1509390833,
+    "wof:name":"Prace",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":862,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76539,
+    49.14106,
+    16.76539,
+    49.14106
+],
+  "geometry": {"coordinates":[16.76539,49.14106],"type":"Point"}
+}

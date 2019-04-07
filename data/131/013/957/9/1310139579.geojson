@@ -1,0 +1,69 @@
+{
+  "id": 1310139579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5635,50.02304,14.5635,50.02304",
+    "geom:latitude":50.02304,
+    "geom:longitude":14.5635,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"8378778",
+    "gn:asciiname":"Kreslice",
+    "gn:country_code":"CZ",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072742,
+    "gn:latitude":50.02304,
+    "gn:longitude":14.5635,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"K\u0159eslice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "K\u0159eslice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072742
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"096b3644aaecca03dd8e49a681988249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310139579,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":1310139579,
+    "wof:lastmodified":1537619383,
+    "wof:name":"Kreslice",
+    "wof:parent_id":85682437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5635,
+    50.02304,
+    14.5635,
+    50.02304
+],
+  "geometry": {"coordinates":[14.5635,50.02304],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243587715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64624,48.81144,14.64624,48.81144",
+    "geom:latitude":48.81144,
+    "geom:longitude":14.64624,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Mezilesi u Trhovych Svin",
+    "gn:country_code":"CZ",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070777,
+    "gn:latitude":48.81144,
+    "gn:longitude":14.64624,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Meziles\u00ed u Trhov\u00fdch Svin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trutma\u0148",
+        "Trautmanns",
+        "Meziles\u00ed u Trhov\u00fdch Svin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070777
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d4987d782905733a4e5ea774dabadee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243587715,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243587715,
+    "wof:lastmodified":1537619359,
+    "wof:name":"Mezilesi u Trhovych Svin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64624,
+    48.81144000000001,
+    14.64624,
+    48.81144000000001
+],
+  "geometry": {"coordinates":[14.64624,48.81144000000001],"type":"Point"}
+}

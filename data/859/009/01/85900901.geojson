@@ -1,0 +1,116 @@
+{
+  "id": 85900901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16450079.036675,
+    "geom:bbox":"13.370187,49.742695,13.370187,49.742695",
+    "geom:latitude":49.742695,
+    "geom:longitude":13.370187,
+    "gn:latitude":49.73685,
+    "gn:longitude":13.33088,
+    "iso:country":"CZ",
+    "lbl:latitude":49.742695,
+    "lbl:longitude":13.370187,
+    "mps:latitude":49.730161,
+    "mps:longitude":13.345015,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ces_x_preferred":[
+        "Stanislav \u0160trunc"
+    ],
+    "name:cze_x_colloquial":[
+        "Skvrnany"
+    ],
+    "name:cze_x_preferred":[
+        "Skvr\u0148any"
+    ],
+    "name:deu_x_preferred":[
+        "Stanislav \u0160trunc"
+    ],
+    "name:unk_x_variant":[
+        "Skvr\u0148any"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"87",
+    "qs:gn_name":"Skvr\u0148any",
+    "qs:local_max":1309,
+    "qs:local_sum":4721,
+    "qs:localhoods":13,
+    "qs:name":"Skvr\u0148any",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs:name_adm2":"Plze\u0148-M\u011bsto",
+    "qs:name_lau":"Plze\u0148",
+    "qs:name_local":"Plze\u0148",
+    "qs:photo_max":115,
+    "qs:photo_sum":1283,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":71,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070501,
+    "qs:woe_adm2":12582609,
+    "qs:woe_lau":12610042,
+    "qs:woe_local":12610042,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748111,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065916,
+        "gp:id":798192,
+        "qs:id":1075181,
+        "qs_pg:id":1075181
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0f74e4251cd7968915e4d903c1c40aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748111,
+            "neighbourhood_id":85900901,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":85900901,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932401,
+    "wof:name":"Skvr\u0148any",
+    "wof:parent_id":101748111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.370187,
+    49.742695,
+    13.370187,
+    49.742695
+],
+  "geometry": {"coordinates":[13.370187,49.742695],"type":"Point"}
+}

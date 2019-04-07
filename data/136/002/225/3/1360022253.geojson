@@ -1,0 +1,71 @@
+{
+  "id": 1360022253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56629,50.02838,12.56629,50.02838",
+    "geom:latitude":50.02838,
+    "geom:longitude":12.56629,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Amongsgruen",
+    "gn:country_code":"CZ",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063777,
+    "gn:latitude":50.02838,
+    "gn:longitude":12.56629,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Amongsgruen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amonsgr\u00fcn",
+        "Amongsgruen",
+        "\u00dabo\u010d\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063777
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1bc7b75070d3485d2c1652afbe04ad3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360022253,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1360022253,
+    "wof:lastmodified":1537619277,
+    "wof:name":"Amongsgruen",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56629,
+    50.02838,
+    12.56629,
+    50.02838
+],
+  "geometry": {"coordinates":[12.56629,50.02838],"type":"Point"}
+}

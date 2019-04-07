@@ -1,0 +1,137 @@
+{
+  "id": 85907623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000191,
+    "geom:area_square_m":1519208.292232,
+    "geom:bbox":"14.5503138105,50.0536115828,14.5678710938,50.0702334486",
+    "geom:latitude":50.060459,
+    "geom:longitude":14.559804,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.066691,
+    "lbl:longitude":14.486618,
+    "mps:latitude":50.060194,
+    "mps:longitude":14.560515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cze_x_preferred":[
+        "Praha 10"
+    ],
+    "name:dan_x_preferred":[
+        "Prag 10"
+    ],
+    "name:deu_x_preferred":[
+        "Prag 10"
+    ],
+    "name:eng_x_preferred":[
+        "Prague 10"
+    ],
+    "name:eng_x_variant":[
+        "Prague 10"
+    ],
+    "name:fra_x_preferred":[
+        "Prague 10"
+    ],
+    "name:ita_x_preferred":[
+        "Praga 10"
+    ],
+    "name:nld_x_preferred":[
+        "Praag 10"
+    ],
+    "name:por_x_preferred":[
+        "Praga 10"
+    ],
+    "name:spa_x_preferred":[
+        "Praga 10"
+    ],
+    "name:swe_x_preferred":[
+        "Prag 10"
+    ],
+    "name:unk_x_variant":[
+        "Praha 10"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Praha 10",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_en":"Prague 10",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":3,
+    "qs:photo_sum":4,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23406474,
+        "qs:id":990104,
+        "qs_pg:id":990104
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a50ebd53d59074bbae61caa7f035b37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85907623,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85907623,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1527268819,
+    "wof:name":"Praha 10",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55031381047951,
+    50.05361158275032,
+    14.56787109375011,
+    50.07023344863997
+],
+  "geometry": {"coordinates":[[[14.56787109375011,50.0616758569217],[14.56787109375011,50.06066532112523],[14.56787109375011,50.05646337952585],[14.56237792967522,50.05361158275032],[14.55688476562511,50.05361158275032],[14.5508268929799,50.05675655010292],[14.55031381047951,50.06021966151725],[14.55074293319598,50.06066532112523],[14.55139160157506,50.06167585696086],[14.56237792967522,50.07023344863997],[14.56787109375011,50.0616758569217]]],"type":"Polygon"}
+}

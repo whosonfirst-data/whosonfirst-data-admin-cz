@@ -1,0 +1,66 @@
+{
+  "id": 1360121347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5587,50.64571,15.5587,50.64571",
+    "geom:latitude":50.64571,
+    "geom:longitude":15.5587,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0514",
+    "gn:asciiname":"Mrklov",
+    "gn:country_code":"CZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070241,
+    "gn:latitude":50.64571,
+    "gn:longitude":15.5587,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Mrklov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070241
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"69f507f1021a915a8e6dc83f800415c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360121347,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1360121347,
+    "wof:lastmodified":1536892964,
+    "wof:name":"Mrklov",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5587,
+    50.64571,
+    15.5587,
+    50.64571
+],
+  "geometry": {"coordinates":[15.5587,50.64571],"type":"Point"}
+}

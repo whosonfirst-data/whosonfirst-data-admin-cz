@@ -1,0 +1,139 @@
+{
+  "id": 101825493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":727589.823883,
+    "geom:bbox":"18.2134134399,49.9296280194,18.2300401431,49.9427164249",
+    "geom:latitude":49.936361,
+    "geom:longitude":18.222452,
+    "gn:population":1210,
+    "iso:country":"CZ",
+    "lbl:latitude":49.937038,
+    "lbl:longitude":18.223019,
+    "mps:latitude":49.937038,
+    "mps:longitude":18.223019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Darkovice"
+    ],
+    "name:ces_x_preferred":[
+        "Darkovice"
+    ],
+    "name:cze_x_preferred":[
+        "Darkovice"
+    ],
+    "name:dut_x_preferred":[
+        "Darkovice"
+    ],
+    "name:eng_x_preferred":[
+        "Darkovice"
+    ],
+    "name:epo_x_preferred":[
+        "Darkovice"
+    ],
+    "name:fre_x_preferred":[
+        "Darkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Darkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Darkovice"
+    ],
+    "name:may_x_preferred":[
+        "Darkovice"
+    ],
+    "name:msa_x_preferred":[
+        "Darkovice"
+    ],
+    "name:nld_x_preferred":[
+        "Darkovice"
+    ],
+    "name:pol_x_preferred":[
+        "Darkovice"
+    ],
+    "name:por_x_preferred":[
+        "Darkovice"
+    ],
+    "name:slk_x_preferred":[
+        "Darkovice"
+    ],
+    "name:slo_x_preferred":[
+        "Darkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u0440\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Darkovice"
+    ],
+    "name:vie_x_preferred":[
+        "Darkovice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Darkovice",
+    "qs:la_lc":"*CZ0805568228",
+    "qs:level":"locality",
+    "qs:loc":"Darkovice",
+    "qs:loc_alt":"Darkovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":429,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077268,
+        "gp:id":788040,
+        "qs:id":145481,
+        "qs_pg:id":145481,
+        "wd:id":"Q2248279",
+        "wk:page":"Darkovice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"10d4a562e18cc01daf8ba2e2e8c4b8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825493,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825493,
+    "wof:lastmodified":1527715060,
+    "wof:name":"Darkovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1210,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21341343992901,
+    49.92962801941792,
+    18.23004014307838,
+    49.94271642487672
+],
+  "geometry": {"coordinates":[[[18.22850053425663,49.94251517345532],[18.22819262741632,49.94072984792331],[18.22680693522653,49.94083047775683],[18.22619130909283,49.93725981155234],[18.22757689981427,49.93715919034264],[18.22742298584382,49.9362665245896],[18.22880854588317,49.93616588866763],[18.22865461372101,49.93527322452729],[18.23004014307838,49.93517257389408],[18.22957831354182,49.93249458468108],[18.22680740166908,49.93269585614479],[18.22696128695776,49.93358852407101],[18.22280480319404,49.93389031123377],[18.2226509939851,49.93299763684297],[18.22126551412731,49.93309819667581],[18.22111173744366,49.9322055195878],[18.21972627763228,49.93230606040026],[18.21926506663755,49.92962801941792],[18.21649428322769,49.92982903752494],[18.21695534207356,49.93250709142535],[18.21834081250864,49.9324065843461],[18.21895575933758,49.93597730667011],[18.21341343992901,49.93637926822908],[18.21372075339241,49.93816464335879],[18.21787765311603,49.93786318457518],[18.21818514743353,49.93964854461825],[18.22095648882492,49.93944747913611],[18.22111029746929,49.94034015403599],[18.22388166833719,49.94013901676703],[18.22418940861189,49.94192435631965],[18.22557513681039,49.94182375807009],[18.22572904307464,49.94271642487672],[18.22850053425663,49.94251517345532]]],"type":"Polygon"}
+}

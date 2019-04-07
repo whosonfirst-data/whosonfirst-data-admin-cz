@@ -1,0 +1,70 @@
+{
+  "id": 1260017887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63524,49.60012,17.63524,49.60012",
+    "geom:latitude":49.60012,
+    "geom:longitude":17.63524,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Stredolsei",
+    "gn:country_code":"CZ",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064973,
+    "gn:latitude":49.60012,
+    "gn:longitude":17.63524,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"St\u0159edolse\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mittelwald",
+        "St\u0159edolse\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064973
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c63118717a409feb71b55b4d4a1a57bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260017887,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1260017887,
+    "wof:lastmodified":1537619290,
+    "wof:name":"Stredolsei",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63524,
+    49.60012,
+    17.63524,
+    49.60012
+],
+  "geometry": {"coordinates":[17.63524,49.60012],"type":"Point"}
+}

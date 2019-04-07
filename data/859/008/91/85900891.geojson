@@ -1,0 +1,132 @@
+{
+  "id": 85900891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13017967.912106,
+    "geom:bbox":"15.601808,49.386897,15.601808,49.386897",
+    "geom:latitude":49.386897,
+    "geom:longitude":15.601808,
+    "gn:latitude":49.38333,
+    "gn:longitude":15.6,
+    "iso:country":"CZ",
+    "lbl:latitude":49.386897,
+    "lbl:longitude":15.601808,
+    "mps:latitude":49.387614,
+    "mps:longitude":15.619684,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:cze_x_preferred":[
+        "Sasov"
+    ],
+    "name:cze_x_variant":[
+        "Sachsenthal"
+    ],
+    "name:deu_x_preferred":[
+        "Sassiw"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05e1\u05d5\u05d1"
+    ],
+    "name:pol_x_preferred":[
+        "Sas\u00f3w"
+    ],
+    "name:ron_x_preferred":[
+        "Sasiv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0441\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0441\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Sachsenthal",
+        "Sasov"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3074199,
+    "qs:gn_nam_loc":"Jihlava, Jihlava, Jihlava, Kraj Vyso\u010dina, CZ",
+    "qs:gn_namadm1":"80",
+    "qs:gn_name":"Sasov",
+    "qs:local_max":2286,
+    "qs:local_sum":2296,
+    "qs:localhoods":2,
+    "qs:name":"Sasov",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Kraj Vyso\u010dina",
+    "qs:name_adm2":"Jihlava",
+    "qs:name_lau":"Jihlava",
+    "qs:name_local":"Jihlava",
+    "qs:photo_max":1679,
+    "qs:photo_sum":2286,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070467,
+    "qs:woe_adm2":12582550,
+    "qs:woe_lau":12605130,
+    "qs:woe_local":790803,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1364,
+    "wof:belongsto":[
+        102191581,
+        101826409,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066394,
+        "gp:id":797773,
+        "qs:id":1080922,
+        "qs_pg:id":1080922
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"45f5a3f74a18b4e8f8b5b09469641290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826409,
+            "neighbourhood_id":85900891,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":85900891,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932399,
+    "wof:name":"Sasov",
+    "wof:parent_id":101826409,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.601808,
+    49.386897,
+    15.601808,
+    49.386897
+],
+  "geometry": {"coordinates":[15.601808,49.386897],"type":"Point"}
+}

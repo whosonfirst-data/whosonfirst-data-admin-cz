@@ -1,0 +1,135 @@
+{
+  "id": 1125894475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10692,50.09842,15.10692,50.09842",
+    "geom:latitude":50.09842,
+    "geom:longitude":15.10692,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":788,
+    "gn:population":788,
+    "iso:country":"CZ",
+    "lbl:latitude":50.09842,
+    "lbl:longitude":15.10692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:dut_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:eng_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:fre_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:ger_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:hun_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:ita_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:may_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0644\u062a\u0634"
+    ],
+    "name:pol_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:por_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:slo_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u0435\u0447"
+    ],
+    "name:swe_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "name:unk_x_variant":[
+        "Sokoletsch"
+    ],
+    "name:vie_x_preferred":[
+        "Sokole\u010d"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065621,
+    "qs_pg:gn_pop":788,
+    "qs_pg:name":"Sokole\u010d",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":383586,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798461,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065621,
+        "gp:id":798461,
+        "qs_pg:id":383586,
+        "wd:id":"Q2064011"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295483,
+    "wof:geomhash":"9a8ecd6b8013793aa29068320cf204ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125894475,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125894475,
+    "wof:lastmodified":1513945707,
+    "wof:name":"Sokole\u010d",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":788,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10692,
+    50.09842,
+    15.10692,
+    50.09842
+],
+  "geometry": {"coordinates":[15.10692,50.09842],"type":"Point"}
+}

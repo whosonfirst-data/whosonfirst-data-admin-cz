@@ -1,0 +1,138 @@
+{
+  "id": 1125990817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2484,48.90206,16.2484,48.90206",
+    "geom:latitude":48.90206,
+    "geom:longitude":16.2484,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":689,
+    "gn:population":689,
+    "iso:country":"CZ",
+    "lbl:latitude":48.90206,
+    "lbl:longitude":16.2484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:dut_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:eng_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:fre_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:ger_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:hun_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:ita_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:may_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0644\u06a9\u0633\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:por_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:rup_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:slo_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043b\u0435\u043a\u0441\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Oleksovice"
+    ],
+    "name:unk_x_variant":[
+        "Gross-Olkowitz"
+    ],
+    "name:vie_x_preferred":[
+        "Oleksovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069056,
+    "qs_pg:gn_pop":689,
+    "qs_pg:name":"Oleksovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1157829,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795392,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069056,
+        "gp:id":795392,
+        "qs_pg:id":1157829,
+        "wd:id":"Q2002892"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299046,
+    "wof:geomhash":"26a2c7953f5f76f53d72d3848ea2c835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125990817,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125990817,
+    "wof:lastmodified":1513945464,
+    "wof:name":"Oleksovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":689,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2484,
+    48.90206,
+    16.2484,
+    48.90206
+],
+  "geometry": {"coordinates":[16.2484,48.90206],"type":"Point"}
+}

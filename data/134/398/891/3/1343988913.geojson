@@ -1,0 +1,66 @@
+{
+  "id": 1343988913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59847,49.45326,13.59847,49.45326",
+    "geom:latitude":49.45326,
+    "geom:longitude":13.59847,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0324",
+    "gn:asciiname":"Manovice",
+    "gn:country_code":"CZ",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071039,
+    "gn:latitude":49.45326,
+    "gn:longitude":13.59847,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Ma\u0148ovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071039
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8702a5c0d6ef3200cbe9ff30a5ac2aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343988913,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343988913,
+    "wof:lastmodified":1536978427,
+    "wof:name":"Manovice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59847,
+    49.45326,
+    13.59847,
+    49.45326
+],
+  "geometry": {"coordinates":[13.59847,49.45326],"type":"Point"}
+}

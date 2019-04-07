@@ -1,0 +1,137 @@
+{
+  "id": 1125807167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05563,49.41799,14.05563,49.41799",
+    "geom:latitude":49.41799,
+    "geom:longitude":14.05563,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":134,
+    "gn:population":134,
+    "iso:country":"CZ",
+    "lbl:latitude":49.41799,
+    "lbl:longitude":14.05563,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:dut_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:eng_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:epo_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:fre_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:hun_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:ita_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:may_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0633\u0631\u0647\u0648\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:rup_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0440\u0433\u043e\u043d\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u0445\u043e\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Cerhonice"
+    ],
+    "name:vie_x_preferred":[
+        "Cerhonice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078113,
+    "qs_pg:gn_pop":134,
+    "qs_pg:name":"Cerhonice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":272972,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787306,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078113,
+        "gp:id":787306,
+        "qs_pg:id":272972,
+        "wd:id":"Q2140210"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497291513,
+    "wof:geomhash":"d2608de82a101616e09a324986f3f19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125807167,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125807167,
+    "wof:lastmodified":1513944862,
+    "wof:name":"Cerhonice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05563,
+    49.41799,
+    14.05563,
+    49.41799
+],
+  "geometry": {"coordinates":[14.05563,49.41799],"type":"Point"}
+}

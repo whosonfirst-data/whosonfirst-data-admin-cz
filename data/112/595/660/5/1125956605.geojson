@@ -1,0 +1,85 @@
+{
+  "id": 1125956605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15,49.66667,17.15,49.66667",
+    "geom:latitude":49.66667,
+    "geom:longitude":17.15,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CZ",
+    "lbl:latitude":49.66667,
+    "lbl:longitude":17.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Lhota"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072074,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lhota nad Moravou",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1247472,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792657,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072074,
+        "gp:id":792657,
+        "qs_pg:id":1247472
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297639,
+    "wof:geomhash":"de9c8c0402aa7e35bd9b5accf4e3d2b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125956605,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125956605,
+    "wof:lastmodified":1509403038,
+    "wof:name":"Lhota nad Moravou",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15,
+    49.66667,
+    17.15,
+    49.66667
+],
+  "geometry": {"coordinates":[17.15,49.66667],"type":"Point"}
+}

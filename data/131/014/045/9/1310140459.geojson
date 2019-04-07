@@ -1,0 +1,66 @@
+{
+  "id": 1310140459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24629,50.54925,15.24629,50.54925",
+    "geom:latitude":50.54925,
+    "geom:longitude":15.24629,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0514",
+    "gn:asciiname":"Blatec",
+    "gn:country_code":"CZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079260,
+    "gn:latitude":50.54925,
+    "gn:longitude":15.24629,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Blatec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079260
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a43e0f872d915ad39675e40ec980e12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310140459,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1310140459,
+    "wof:lastmodified":1536946478,
+    "wof:name":"Blatec",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24629,
+    50.54925,
+    15.24629,
+    50.54925
+],
+  "geometry": {"coordinates":[15.24629,50.54925],"type":"Point"}
+}

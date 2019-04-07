@@ -1,0 +1,66 @@
+{
+  "id": 1243589999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07381,49.39726,18.07381,49.39726",
+    "geom:latitude":49.39726,
+    "geom:longitude":18.07381,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Krsle",
+    "gn:country_code":"CZ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072631,
+    "gn:latitude":49.39726,
+    "gn:longitude":18.07381,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Kr\u0161le",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072631
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0a69c7c8bd73041dffbf524c2728225a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243589999,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1243589999,
+    "wof:lastmodified":1537092230,
+    "wof:name":"Krsle",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07381,
+    49.39726,
+    18.07381,
+    49.39726
+],
+  "geometry": {"coordinates":[18.07381,49.39726],"type":"Point"}
+}

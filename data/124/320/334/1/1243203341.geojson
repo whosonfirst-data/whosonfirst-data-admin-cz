@@ -1,0 +1,66 @@
+{
+  "id": 1243203341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30237,49.16844,15.30237,49.16844",
+    "geom:latitude":49.16844,
+    "geom:longitude":15.30237,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Skrychov",
+    "gn:country_code":"CZ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065952,
+    "gn:latitude":49.16844,
+    "gn:longitude":15.30237,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Skr\u00fdchov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065952
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b5512f9b8c1aee5c2d3741343940d28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243203341,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243203341,
+    "wof:lastmodified":1536659222,
+    "wof:name":"Skrychov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30237,
+    49.16844,
+    15.30237,
+    49.16844
+],
+  "geometry": {"coordinates":[15.30237,49.16844],"type":"Point"}
+}

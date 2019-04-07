@@ -1,0 +1,66 @@
+{
+  "id": 1309840871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48333,48.85,14.48333,48.85",
+    "geom:latitude":48.85,
+    "geom:longitude":14.48333,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Dolni Rimov",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076708,
+    "gn:latitude":48.85,
+    "gn:longitude":14.48333,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Doln\u00ed \u0158\u00edmov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076708
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d130f1626ccb83f884da7520e6ba1320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309840871,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1309840871,
+    "wof:lastmodified":1536879791,
+    "wof:name":"Dolni Rimov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48333,
+    48.85,
+    14.48333,
+    48.85
+],
+  "geometry": {"coordinates":[14.48333,48.85],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1193052381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95134,50.61399,13.95134,50.61399",
+    "geom:latitude":50.61399,
+    "geom:longitude":13.95134,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Hlinany",
+    "gn:country_code":"CZ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075786,
+    "gn:latitude":50.61399,
+    "gn:longitude":13.95134,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Hli\u0148any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075786
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d865c4a779635911cc7b4e58e50c88ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193052381,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1193052381,
+    "wof:lastmodified":1536365143,
+    "wof:name":"Hlinany",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95134,
+    50.61399,
+    13.95134,
+    50.61399
+],
+  "geometry": {"coordinates":[13.95134,50.61399],"type":"Point"}
+}

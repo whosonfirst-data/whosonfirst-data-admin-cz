@@ -1,0 +1,70 @@
+{
+  "id": 1310036579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53114,50.61795,14.53114,50.61795",
+    "geom:latitude":50.61795,
+    "geom:longitude":14.53114,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Borek",
+    "gn:country_code":"CZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079004,
+    "gn:latitude":50.61795,
+    "gn:longitude":14.53114,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Borek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Regersdorf",
+        "Borek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079004
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7cd968264d5242b507216a1286fdb729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310036579,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1310036579,
+    "wof:lastmodified":1537619457,
+    "wof:name":"Borek",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53114,
+    50.61795,
+    14.53114,
+    50.61795
+],
+  "geometry": {"coordinates":[14.53114,50.61795],"type":"Point"}
+}

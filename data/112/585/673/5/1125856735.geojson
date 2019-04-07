@@ -1,0 +1,129 @@
+{
+  "id": 1125856735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02379,49.91648,16.02379,49.91648",
+    "geom:latitude":49.91648,
+    "geom:longitude":16.02379,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":165,
+    "gn:population":165,
+    "iso:country":"CZ",
+    "lbl:latitude":49.91648,
+    "lbl:longitude":16.02379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Lozice"
+    ],
+    "name:dut_x_preferred":[
+        "Lozice"
+    ],
+    "name:eng_x_preferred":[
+        "Lozice"
+    ],
+    "name:epo_x_preferred":[
+        "Lozice"
+    ],
+    "name:fre_x_preferred":[
+        "Lozice"
+    ],
+    "name:hun_x_preferred":[
+        "Lozice"
+    ],
+    "name:ita_x_preferred":[
+        "Lozice"
+    ],
+    "name:may_x_preferred":[
+        "Lozice"
+    ],
+    "name:pol_x_preferred":[
+        "Lozice"
+    ],
+    "name:por_x_preferred":[
+        "Lozice"
+    ],
+    "name:slo_x_preferred":[
+        "Lozice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0437\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Lozice"
+    ],
+    "name:vie_x_preferred":[
+        "Lozice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071478,
+    "qs_pg:gn_pop":165,
+    "qs_pg:name":"Lozice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1266919,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793205,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071478,
+        "gp:id":793205,
+        "qs_pg:id":1266919,
+        "wd:id":"Q2521713"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293652,
+    "wof:geomhash":"c7ccad54593cee271062f86c43ecf1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125856735,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125856735,
+    "wof:lastmodified":1553816576,
+    "wof:name":"Lozice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02379,
+    49.91648,
+    16.02379,
+    49.91648
+],
+  "geometry": {"coordinates":[16.02379,49.91648],"type":"Point"}
+}

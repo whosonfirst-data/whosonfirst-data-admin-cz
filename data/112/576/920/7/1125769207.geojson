@@ -1,0 +1,76 @@
+{
+  "id": 1125769207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31084,49.10811,16.31084,49.10811",
+    "geom:latitude":49.10811,
+    "geom:longitude":16.31084,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":712,
+    "gn:population":712,
+    "iso:country":"CZ",
+    "lbl:latitude":49.10811,
+    "lbl:longitude":16.31084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069639,
+    "qs_pg:gn_pop":712,
+    "qs_pg:name":"Nov\u00e1 Ves",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":94473,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069639,
+        "qs_pg:id":94473
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290002,
+    "wof:geomhash":"1d1af741a2e518f615ebae068d969a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125769207,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125769207,
+    "wof:lastmodified":1509390876,
+    "wof:name":"Nov\u00e1 Ves",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":712,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31084,
+    49.10811,
+    16.31084,
+    49.10811
+],
+  "geometry": {"coordinates":[16.31084,49.10811],"type":"Point"}
+}

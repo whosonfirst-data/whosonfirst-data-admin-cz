@@ -1,0 +1,62 @@
+{
+  "id": 1209043029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77138,49.56937,15.77138,49.56937",
+    "geom:latitude":49.56937,
+    "geom:longitude":15.77138,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Ronov",
+    "gn:country_code":"CZ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066767,
+    "gn:latitude":49.56937,
+    "gn:longitude":15.77138,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Ronov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066767
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a0c997f29aaeef5ae9bcd7457da01aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209043029
+        }
+    ],
+    "wof:id":1209043029,
+    "wof:lastmodified":1536299484,
+    "wof:name":"Ronov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77138,
+    49.56937,
+    15.77138,
+    49.56937
+],
+  "geometry": {"coordinates":[15.77138,49.56937],"type":"Point"}
+}

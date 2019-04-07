@@ -1,0 +1,62 @@
+{
+  "id": 1209651553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91667,49.9,14.91667,49.9",
+    "geom:latitude":49.9,
+    "geom:longitude":14.91667,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Melnik",
+    "gn:country_code":"CZ",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070864,
+    "gn:latitude":49.9,
+    "gn:longitude":14.91667,
+    "gn:modification_date":"2017-02-13",
+    "gn:name":"M\u011bln\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070864
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6e15f4277b0f3cab29080a293cbc7453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209651553
+        }
+    ],
+    "wof:id":1209651553,
+    "wof:lastmodified":1536280563,
+    "wof:name":"Melnik",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.916670000000002,
+    49.9,
+    14.916670000000002,
+    49.9
+],
+  "geometry": {"coordinates":[14.91667,49.9],"type":"Point"}
+}

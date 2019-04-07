@@ -1,0 +1,66 @@
+{
+  "id": 1326566739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66451,50.3985,14.66451,50.3985",
+    "geom:latitude":50.3985,
+    "geom:longitude":14.66451,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Chorousky",
+    "gn:country_code":"CZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077675,
+    "gn:latitude":50.3985,
+    "gn:longitude":14.66451,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Chorou\u0161ky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077675
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"38dd29ec52915ce56b2598f2ab234f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326566739,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1326566739,
+    "wof:lastmodified":1536934922,
+    "wof:name":"Chorousky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66451,
+    50.3985,
+    14.66451,
+    50.3985
+],
+  "geometry": {"coordinates":[14.66451,50.3985],"type":"Point"}
+}

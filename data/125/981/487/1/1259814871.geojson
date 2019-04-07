@@ -1,0 +1,66 @@
+{
+  "id": 1259814871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77111,49.03452,15.77111,49.03452",
+    "geom:latitude":49.03452,
+    "geom:longitude":15.77111,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0614",
+    "gn:asciiname":"Jackov",
+    "gn:country_code":"CZ",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074584,
+    "gn:latitude":49.03452,
+    "gn:longitude":15.77111,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Jackov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074584
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"152404cbb5f5541b2e43c54a5a1497f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259814871,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1259814871,
+    "wof:lastmodified":1536877297,
+    "wof:name":"Jackov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77111,
+    49.03452,
+    15.77111,
+    49.03452
+],
+  "geometry": {"coordinates":[15.77111,49.03452],"type":"Point"}
+}

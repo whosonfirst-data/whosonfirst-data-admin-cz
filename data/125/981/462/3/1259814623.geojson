@@ -1,0 +1,69 @@
+{
+  "id": 1259814623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.542,50.15588,14.542,50.15588",
+    "geom:latitude":50.15588,
+    "geom:longitude":14.542,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"8378788",
+    "gn:asciiname":"Miskovice",
+    "gn:country_code":"CZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070565,
+    "gn:latitude":50.15588,
+    "gn:longitude":14.542,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"Mi\u0161kovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Mi\u0161kovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070565
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"adbe0460f97ba60ada62376e3f6db99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259814623,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":1259814623,
+    "wof:lastmodified":1537619356,
+    "wof:name":"Miskovice",
+    "wof:parent_id":85682437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.542,
+    50.15588,
+    14.542,
+    50.15588
+],
+  "geometry": {"coordinates":[14.542,50.15588],"type":"Point"}
+}

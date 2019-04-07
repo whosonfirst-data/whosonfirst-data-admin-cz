@@ -1,0 +1,71 @@
+{
+  "id": 101825241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:bbox":"14.5385547861,50.0080627703,14.5495264987,50.0155738261",
+    "geom:latitude":50.011968,
+    "geom:longitude":14.544315,
+    "iso:country":"CZ",
+    "lbl:latitude":50.011723,
+    "lbl:longitude":14.544968,
+    "mps:latitude":50.011723,
+    "mps:longitude":14.544968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Hlavn\u00ed mesto Praha",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Praha",
+    "qs:la_lc":"*CZ0100554782",
+    "qs:level":"locality",
+    "qs:loc":"\u00dajezd",
+    "qs:loc_alt":"Ujezd",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":251,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":8,
+        "wd:id":"Q330035"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c22fd29e8421f1d5d6e2668863dd5bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825241,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":101825241,
+    "wof:lastmodified":1527715059,
+    "wof:name":"\u00dajezd",
+    "wof:parent_id":85682437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53855478610063,
+    50.00806277026538,
+    14.54952649871353,
+    50.01557382611929
+],
+  "geometry": {"coordinates":[[[14.54952649871353,50.01154002060764],[14.54935572522237,50.00974570686361],[14.54657032526086,50.00985709016015],[14.54639967165014,50.00806277026538],[14.54222170524156,50.00822971028538],[14.54230695214869,50.0091268740008],[14.54091426477953,50.00918248781443],[14.54099948971668,50.01007965239262],[14.53960677341496,50.01013525037519],[14.53969197637997,50.01103241581598],[14.54247745795584,50.01092120042176],[14.54273324665542,50.01361268753033],[14.53855478610063,50.01377949586674],[14.53872517604879,50.01557382611929],[14.54568952188055,50.01529571507166],[14.54560419503451,50.01439855611119],[14.54838986063919,50.01428719486796],[14.54813374828103,50.011595723173],[14.54952649871353,50.01154002060764]]],"type":"Polygon"}
+}

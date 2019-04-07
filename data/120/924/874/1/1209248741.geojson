@@ -1,0 +1,62 @@
+{
+  "id": 1209248741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28068,49.57488,14.28068,49.57488",
+    "geom:latitude":49.57488,
+    "geom:longitude":14.28068,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Mokrice",
+    "gn:country_code":"CZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070382,
+    "gn:latitude":49.57488,
+    "gn:longitude":14.28068,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Mok\u0159ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070382
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f07078fa936864a202a7b408f7cbb060",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209248741
+        }
+    ],
+    "wof:id":1209248741,
+    "wof:lastmodified":1536293074,
+    "wof:name":"Mokrice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.280679999999998,
+    49.57488,
+    14.280679999999998,
+    49.57488
+],
+  "geometry": {"coordinates":[14.28068,49.57488],"type":"Point"}
+}

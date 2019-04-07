@@ -1,0 +1,66 @@
+{
+  "id": 1293718335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01637,49.60346,15.01637,49.60346",
+    "geom:latitude":49.60346,
+    "geom:longitude":15.01637,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Stare Prachnany",
+    "gn:country_code":"CZ",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065317,
+    "gn:latitude":49.60346,
+    "gn:longitude":15.01637,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Star\u00e9 Pr\u00e1ch\u0148any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065317
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5c90a0645d1ea2cc69fba3c9b81ab41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293718335,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293718335,
+    "wof:lastmodified":1536951897,
+    "wof:name":"Stare Prachnany",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01637,
+    49.60346,
+    15.01637,
+    49.60346
+],
+  "geometry": {"coordinates":[15.01637,49.60346],"type":"Point"}
+}

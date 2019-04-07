@@ -1,0 +1,66 @@
+{
+  "id": 1293620335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15829,49.48598,16.15829,49.48598",
+    "geom:latitude":49.48598,
+    "geom:longitude":16.15829,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Olesinky",
+    "gn:country_code":"CZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069053,
+    "gn:latitude":49.48598,
+    "gn:longitude":16.15829,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Ole\u0161\u00ednky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069053
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"28255ec56cf03597b64f77b63f8bd089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293620335,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1293620335,
+    "wof:lastmodified":1537089566,
+    "wof:name":"Olesinky",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15829,
+    49.48598,
+    16.15829,
+    49.48598
+],
+  "geometry": {"coordinates":[16.15829,49.48598],"type":"Point"}
+}

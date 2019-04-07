@@ -1,0 +1,73 @@
+{
+  "id": 1242712171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35558,49.84012,13.35558,49.84012",
+    "geom:latitude":49.84012,
+    "geom:longitude":13.35558,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Horni Briza",
+    "gn:country_code":"CZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075433,
+    "gn:latitude":49.84012,
+    "gn:longitude":13.35558,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Horn\u00ed B\u0159\u00edza",
+    "gn:population":4463,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober B\u0159is"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075433,
+        "wk:page":"Horn%C3%AD_B%C5%99%C3%ADza"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ad518be9a6a1dbac6632d31e24bd0d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242712171,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1242712171,
+    "wof:lastmodified":1537619415,
+    "wof:name":"Horni Briza",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":4463,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35558,
+    49.84012,
+    13.35558,
+    49.84012
+],
+  "geometry": {"coordinates":[13.35558,49.84012],"type":"Point"}
+}

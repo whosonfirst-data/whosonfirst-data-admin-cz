@@ -1,0 +1,66 @@
+{
+  "id": 1259916347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02304,50.43099,16.02304,50.43099",
+    "geom:latitude":50.43099,
+    "geom:longitude":16.02304,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Svetla",
+    "gn:country_code":"CZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064512,
+    "gn:latitude":50.43099,
+    "gn:longitude":16.02304,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Sv\u011btl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064512
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dc9b41feb2a3f896bda53b0db343f53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259916347,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1259916347,
+    "wof:lastmodified":1536732000,
+    "wof:name":"Svetla",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02304,
+    50.43099,
+    16.02304,
+    50.43099
+],
+  "geometry": {"coordinates":[16.02304,50.43099],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209551653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31491,49.31567,13.31491,49.31567",
+    "geom:latitude":49.31567,
+    "geom:longitude":13.31491,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Hubenov",
+    "gn:country_code":"CZ",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074750,
+    "gn:latitude":49.31567,
+    "gn:longitude":13.31491,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Hubenov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074750
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8f7b80c57123c7954e43aecebdff59f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209551653
+        }
+    ],
+    "wof:id":1209551653,
+    "wof:lastmodified":1536283674,
+    "wof:name":"Hubenov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31491,
+    49.31567,
+    13.31491,
+    49.31567
+],
+  "geometry": {"coordinates":[13.31491,49.31567],"type":"Point"}
+}

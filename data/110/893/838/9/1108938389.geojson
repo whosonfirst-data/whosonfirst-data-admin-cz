@@ -1,0 +1,85 @@
+{
+  "id": 1108938389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3535691874,49.9605138846,14.3535691874,49.9605138846",
+    "geom:latitude":49.960514,
+    "geom:longitude":14.353569,
+    "iso:country":"CZ",
+    "lbl:latitude":49.960514,
+    "lbl:longitude":14.353569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:arm_x_preferred":[
+        "\u053c\u056b\u057a\u0565\u0576\u0581\u0565"
+    ],
+    "name:cze_x_preferred":[
+        "Lipence"
+    ],
+    "name:dut_x_preferred":[
+        "Praag-Lipence"
+    ],
+    "name:eng_x_preferred":[
+        "Lipence"
+    ],
+    "name:fre_x_preferred":[
+        "Lipence"
+    ],
+    "name:pol_x_preferred":[
+        "Lipence"
+    ],
+    "name:slo_x_preferred":[
+        "Lipence"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101841983,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3490395"
+    },
+    "wof:country":"CZ",
+    "wof:created":1491360346,
+    "wof:geomhash":"fc83cfaa55b22edc4ce8d134dc804c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101841983,
+            "neighbourhood_id":1108938389,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":1108938389,
+    "wof:lastmodified":1513945300,
+    "wof:name":"Lipence",
+    "wof:parent_id":101841983,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35356918735674,
+    49.96051388462363,
+    14.35356918735674,
+    49.96051388462363
+],
+  "geometry": {"coordinates":[14.35356918735674,49.96051388462363],"type":"Point"}
+}

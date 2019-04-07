@@ -1,0 +1,73 @@
+{
+  "id": 1343796747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1096,49.38858,16.1096,49.38858",
+    "geom:latitude":49.38858,
+    "geom:longitude":16.1096,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Krizanov",
+    "gn:country_code":"CZ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072693,
+    "gn:latitude":49.38858,
+    "gn:longitude":16.1096,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"K\u0159i\u017eanov",
+    "gn:population":1832,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0159i\u017eanau"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072693,
+        "wk:page":"K%C5%99i%C5%BEanov_%28%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ff7c6598851cd0f932eaa6a4072f7812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343796747,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1343796747,
+    "wof:lastmodified":1537619382,
+    "wof:name":"Krizanov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":1832,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1096,
+    49.38858,
+    16.1096,
+    49.38858
+],
+  "geometry": {"coordinates":[16.1096,49.38858],"type":"Point"}
+}

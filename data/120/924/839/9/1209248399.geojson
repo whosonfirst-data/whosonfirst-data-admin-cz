@@ -1,0 +1,65 @@
+{
+  "id": 1209248399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26702,49.5731,16.26702,49.5731",
+    "geom:latitude":49.5731,
+    "geom:longitude":16.26702,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Chudobin",
+    "gn:country_code":"CZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077517,
+    "gn:latitude":49.5731,
+    "gn:longitude":16.26702,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Chudob\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chudob\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077517
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3676c14c75c51331f8e1c55b8c800cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209248399
+        }
+    ],
+    "wof:id":1209248399,
+    "wof:lastmodified":1537619442,
+    "wof:name":"Chudobin",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26702,
+    49.5731,
+    16.26702,
+    49.5731
+],
+  "geometry": {"coordinates":[16.26702,49.5731],"type":"Point"}
+}

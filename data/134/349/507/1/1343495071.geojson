@@ -1,0 +1,66 @@
+{
+  "id": 1343495071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96946,49.61424,14.96946,49.61424",
+    "geom:latitude":49.61424,
+    "geom:longitude":14.96946,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Palcice",
+    "gn:country_code":"CZ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068631,
+    "gn:latitude":49.61424,
+    "gn:longitude":14.96946,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Pal\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068631
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"453ad01ba5cc2bf8eac093e4181530f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343495071,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1343495071,
+    "wof:lastmodified":1536696452,
+    "wof:name":"Palcice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96946,
+    49.61424,
+    14.96946,
+    49.61424
+],
+  "geometry": {"coordinates":[14.96946,49.61424],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1260322687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51776,49.96626,15.51776,49.96626",
+    "geom:latitude":49.96626,
+    "geom:longitude":15.51776,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Vapenka",
+    "gn:country_code":"CZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063388,
+    "gn:latitude":49.96626,
+    "gn:longitude":15.51776,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"V\u00e1penka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063388
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ec6b7b16786faab14f6ebe885cb8d4a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260322687,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1260322687,
+    "wof:lastmodified":1536659361,
+    "wof:name":"Vapenka",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51776,
+    49.96626,
+    15.51776,
+    49.96626
+],
+  "geometry": {"coordinates":[15.51776,49.96626],"type":"Point"}
+}

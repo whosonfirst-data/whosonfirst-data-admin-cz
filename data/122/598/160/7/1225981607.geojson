@@ -1,0 +1,70 @@
+{
+  "id": 1225981607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83309,50.78084,14.83309,50.78084",
+    "geom:latitude":50.78084,
+    "geom:longitude":14.83309,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0513",
+    "gn:asciiname":"Nova Starost",
+    "gn:country_code":"CZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069653,
+    "gn:latitude":50.78084,
+    "gn:longitude":14.83309,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Nov\u00e1 Starost",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neusorge",
+        "Nov\u00e1 Starost"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069653
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"28528d92efb08e133a3789967c4fc5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225981607,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1225981607,
+    "wof:lastmodified":1537619345,
+    "wof:name":"Nova Starost",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83309,
+    50.78084000000001,
+    14.83309,
+    50.78084000000001
+],
+  "geometry": {"coordinates":[14.83309,50.78084000000001],"type":"Point"}
+}

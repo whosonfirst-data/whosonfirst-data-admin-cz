@@ -1,0 +1,66 @@
+{
+  "id": 1193054701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91881,50.35297,14.91881,50.35297",
+    "geom:latitude":50.35297,
+    "geom:longitude":14.91881,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Libichov",
+    "gn:country_code":"CZ",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071945,
+    "gn:latitude":50.35297,
+    "gn:longitude":14.91881,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Libichov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071945
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"be5d1530ceaa5a6afcbfbe2a41f4ef39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193054701,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1193054701,
+    "wof:lastmodified":1536384069,
+    "wof:name":"Libichov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91881,
+    50.35297,
+    14.91881,
+    50.35297
+],
+  "geometry": {"coordinates":[14.91881,50.35297],"type":"Point"}
+}

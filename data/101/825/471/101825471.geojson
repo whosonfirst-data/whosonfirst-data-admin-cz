@@ -1,0 +1,156 @@
+{
+  "id": 101825471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":279078.482645,
+    "geom:bbox":"18.4762910116,49.8527031519,18.4842718974,49.8618333717",
+    "geom:latitude":49.857586,
+    "geom:longitude":18.479858,
+    "gn:population":1744,
+    "iso:country":"CZ",
+    "lbl:latitude":49.85677,
+    "lbl:longitude":18.480191,
+    "mps:latitude":49.85677,
+    "mps:longitude":18.480191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Doubrava"
+    ],
+    "name:ces_x_preferred":[
+        "Doubrava"
+    ],
+    "name:cze_x_preferred":[
+        "Doubrava"
+    ],
+    "name:deu_x_preferred":[
+        "Doubrava u Orlov\u00e9"
+    ],
+    "name:dut_x_preferred":[
+        "Doubrava"
+    ],
+    "name:eng_x_preferred":[
+        "Doubrava"
+    ],
+    "name:epo_x_preferred":[
+        "Doubrava"
+    ],
+    "name:fra_x_preferred":[
+        "Doubrava"
+    ],
+    "name:fre_x_preferred":[
+        "Doubrava"
+    ],
+    "name:ger_x_preferred":[
+        "Doubrava u Orlov\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Doubrava"
+    ],
+    "name:ita_x_preferred":[
+        "Doubrava"
+    ],
+    "name:may_x_preferred":[
+        "Doubrava"
+    ],
+    "name:msa_x_preferred":[
+        "Doubrava"
+    ],
+    "name:nan_x_preferred":[
+        "Doubrava"
+    ],
+    "name:nld_x_preferred":[
+        "Doubrava"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u0648\u0628\u0631\u0627\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "D\u0105browa"
+    ],
+    "name:por_x_preferred":[
+        "Doubrava"
+    ],
+    "name:rup_x_preferred":[
+        "Doubrava"
+    ],
+    "name:slo_x_preferred":[
+        "Doubrava"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0443\u0431\u0440\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Doubrava"
+    ],
+    "name:unk_x_variant":[
+        "Da\u0105browa"
+    ],
+    "name:vie_x_preferred":[
+        "Doubrava"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Doubrava",
+    "qs:la_lc":"*CZ0803568864",
+    "qs:level":"locality",
+    "qs:loc":"Doubrava",
+    "qs:loc_alt":"Doubrava",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076552,
+        "gp:id":788705,
+        "qs:id":210938,
+        "qs_pg:id":1157719,
+        "wd:id":"Q909352",
+        "wk:page":"Doubrava (Karvin\u00e1)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e9feb719b904d40c18c766133f859fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825471,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825471,
+    "wof:lastmodified":1553815527,
+    "wof:name":"Doubrava",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1744,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47629101158526,
+    49.85270315193384,
+    18.48427189735941,
+    49.8618333716945
+],
+  "geometry": {"coordinates":[[[18.48427189735941,49.8576420961071],[18.48411358941274,49.85674981512216],[18.48273075807174,49.85685353898992],[18.4824142146806,49.8550689708913],[18.48103142831002,49.85517267350383],[18.48071496476859,49.85338809871223],[18.47794947651192,49.85359544460732],[18.47779130619313,49.85270315193384],[18.47640857909761,49.85280679743295],[18.47672487666728,49.85459138664305],[18.47810765418393,49.85448773671561],[18.47905687465129,49.85984147749309],[18.47629101158526,49.86004878709758],[18.47660737637352,49.8618333716945],[18.48213928244593,49.86141866746232],[18.48150617879338,49.85784953144997],[18.48427189735941,49.8576420961071]]],"type":"Polygon"}
+}

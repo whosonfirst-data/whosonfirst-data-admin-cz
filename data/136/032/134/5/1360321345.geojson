@@ -1,0 +1,66 @@
+{
+  "id": 1360321345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0569,48.8212,17.0569,48.8212",
+    "geom:latitude":48.8212,
+    "geom:longitude":17.0569,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0625",
+    "gn:asciiname":"Tesice",
+    "gn:country_code":"CZ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064254,
+    "gn:latitude":48.8212,
+    "gn:longitude":17.0569,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"T\u011b\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064254
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2de9772cc2440a9264b374733d6dd712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360321345,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1360321345,
+    "wof:lastmodified":1536601608,
+    "wof:name":"Tesice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0569,
+    48.8212,
+    17.0569,
+    48.8212
+],
+  "geometry": {"coordinates":[17.0569,48.8212],"type":"Point"}
+}

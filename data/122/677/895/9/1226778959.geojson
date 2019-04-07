@@ -1,0 +1,66 @@
+{
+  "id": 1226778959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33753,50.68993,15.33753,50.68993",
+    "geom:latitude":50.68993,
+    "geom:longitude":15.33753,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0512",
+    "gn:asciiname":"Lhotka",
+    "gn:country_code":"CZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072010,
+    "gn:latitude":50.68993,
+    "gn:longitude":15.33753,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Lhotka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072010
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"15fe4e90e10bf47803da81f26b3b8bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226778959,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1226778959,
+    "wof:lastmodified":1536667804,
+    "wof:name":"Lhotka",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33753,
+    50.68993,
+    15.33753,
+    50.68993
+],
+  "geometry": {"coordinates":[15.33753,50.68993],"type":"Point"}
+}

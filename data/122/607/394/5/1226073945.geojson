@@ -1,0 +1,70 @@
+{
+  "id": 1226073945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56667,49.78333,16.56667,49.78333",
+    "geom:latitude":49.78333,
+    "geom:longitude":16.56667,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Jakubovice",
+    "gn:country_code":"CZ",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074566,
+    "gn:latitude":49.78333,
+    "gn:longitude":16.56667,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Jakubovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jokelsdorf",
+        "Jakubovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074566
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c9b4b5374fcc4df22200c4a418ee69bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226073945,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1226073945,
+    "wof:lastmodified":1537619403,
+    "wof:name":"Jakubovice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56667,
+    49.78333,
+    16.56667,
+    49.78333
+],
+  "geometry": {"coordinates":[16.56667,49.78333],"type":"Point"}
+}

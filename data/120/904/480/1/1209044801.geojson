@@ -1,0 +1,66 @@
+{
+  "id": 1209044801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14203,49.77251,17.14203,49.77251",
+    "geom:latitude":49.77251,
+    "geom:longitude":17.14203,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Brnicko",
+    "gn:country_code":"CZ",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078618,
+    "gn:latitude":49.77251,
+    "gn:longitude":17.14203,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Brn\u00ed\u010dko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirnik",
+        "Brn\u00ed\u010dko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078618
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a2dc4438aa67855adc01d501bc938707",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209044801
+        }
+    ],
+    "wof:id":1209044801,
+    "wof:lastmodified":1537619453,
+    "wof:name":"Brnicko",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14203,
+    49.77251,
+    17.14203,
+    49.77251
+],
+  "geometry": {"coordinates":[17.14203,49.77251],"type":"Point"}
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1125946033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25515,50.29769,17.25515,50.29769",
+    "geom:latitude":50.29769,
+    "geom:longitude":17.25515,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":693,
+    "gn:population":693,
+    "iso:country":"CZ",
+    "lbl:latitude":50.29769,
+    "lbl:longitude":17.25515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:dut_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:eng_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:epo_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:fre_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:ger_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:may_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0648\u067e\u06cc\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Lomy"
+    ],
+    "name:por_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:rup_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:slo_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u043f\u0438\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "name:unk_x_variant":[
+        "Saubsdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Sup\u00edkovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064668,
+    "qs_pg:gn_pop":693,
+    "qs_pg:name":"Sup\u00edkovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":400796,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799289,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064668,
+        "gp:id":799289,
+        "qs_pg:id":400796,
+        "wd:id":"Q1019351"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297284,
+    "wof:geomhash":"f485e9971b483b62dc0902726247c8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125946033,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125946033,
+    "wof:lastmodified":1513945767,
+    "wof:name":"Sup\u00edkovice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":693,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25515,
+    50.29769,
+    17.25515,
+    50.29769
+],
+  "geometry": {"coordinates":[17.25515,50.29769],"type":"Point"}
+}

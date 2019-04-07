@@ -1,0 +1,66 @@
+{
+  "id": 1327365241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25757,49.28739,13.25757,49.28739",
+    "geom:latitude":49.28739,
+    "geom:longitude":13.25757,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Viten",
+    "gn:country_code":"CZ",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062825,
+    "gn:latitude":49.28739,
+    "gn:longitude":13.25757,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Vite\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062825
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"da28bc9d95c6d655371928ca84631a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327365241,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1327365241,
+    "wof:lastmodified":1536778387,
+    "wof:name":"Viten",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25757,
+    49.28739,
+    13.25757,
+    49.28739
+],
+  "geometry": {"coordinates":[13.25757,49.28739],"type":"Point"}
+}

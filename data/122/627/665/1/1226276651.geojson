@@ -1,0 +1,70 @@
+{
+  "id": 1226276651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62693,49.40082,13.62693,49.40082",
+    "geom:latitude":49.40082,
+    "geom:longitude":13.62693,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Olsany",
+    "gn:country_code":"CZ",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069001,
+    "gn:latitude":49.40082,
+    "gn:longitude":13.62693,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ol\u0161any",
+    "gn:population":201,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069001,
+        "wk:page":"Ol%C5%A1any_%28Klatovy_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"df0b3414a3671b63f2418f27e2a6249b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226276651,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1226276651,
+    "wof:lastmodified":1537504035,
+    "wof:name":"Olsany",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":201,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62693,
+    49.40082,
+    13.62693,
+    49.40082
+],
+  "geometry": {"coordinates":[13.62693,49.40082],"type":"Point"}
+}

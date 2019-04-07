@@ -1,0 +1,115 @@
+{
+  "id": 101824169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1215899.629859,
+    "geom:bbox":"14.4821248197,50.1830301521,14.5036885296,50.1973845982",
+    "geom:latitude":50.190619,
+    "geom:longitude":14.49398,
+    "gn:population":1290,
+    "iso:country":"CZ",
+    "lbl:latitude":50.19071,
+    "lbl:longitude":14.494716,
+    "mps:latitude":50.19071,
+    "mps:longitude":14.494716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "L\u00edbeznice"
+    ],
+    "name:ces_x_preferred":[
+        "L\u00edbeznice"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00edbeznice"
+    ],
+    "name:ita_x_preferred":[
+        "L\u00edbeznice"
+    ],
+    "name:msa_x_preferred":[
+        "L\u00edbeznice"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00edbeznice"
+    ],
+    "name:pol_x_preferred":[
+        "L\u00edbeznice"
+    ],
+    "name:por_x_preferred":[
+        "L\u00edbeznice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0431\u0435\u0437\u043d\u0438\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "L\u00edbeznice"
+    ],
+    "name:unk_x_variant":[
+        "Libeznitz"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Stredocesk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Bo\u0159anovice",
+    "qs:la_lc":"*CZ0209538086",
+    "qs:level":"locality",
+    "qs:loc":"L\u00edbeznice",
+    "qs:loc_alt":"Libeznice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071951,
+        "gp:id":792777,
+        "qs:id":1255855,
+        "qs_pg:id":1255855,
+        "wd:id":"Q2661912",
+        "wk:page":"L\u00edbeznice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5e6add256cd4df95978aca824630647a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824169,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":101824169,
+    "wof:lastmodified":1527714843,
+    "wof:name":"L\u00edbeznice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":1290,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48212481970853,
+    50.18303015214411,
+    14.50368852962396,
+    50.19738459821184
+],
+  "geometry": {"coordinates":[[[14.50131722685865,50.19716412160346],[14.50089237250677,50.19267839001805],[14.50368852962396,50.19256806102851],[14.50360351831699,50.19167091613167],[14.50080741364104,50.19178124272895],[14.50063750791224,50.18998694717857],[14.49923950355537,50.19004208242785],[14.49881494030859,50.18555633190141],[14.497417064057,50.18561144407118],[14.49733218961353,50.18471429179817],[14.49593433660579,50.18476938567022],[14.49584949236908,50.18387223187881],[14.49445166260551,50.18392730745398],[14.49436684857255,50.18303015214411],[14.49017342012149,50.18319527267403],[14.49025815552488,50.18409243156322],[14.48886031390487,50.18414743872722],[14.48894502708691,50.18504459848469],[14.49034289491834,50.18498959012811],[14.49059713704082,50.18768106387898],[14.48500533337574,50.18790100898929],[14.48492068687278,50.18700384662816],[14.48212481970853,50.18711371417419],[14.48220941377963,50.1880108789174],[14.4836073750572,50.18795595250549],[14.48369199932961,50.18885311573422],[14.48648796544069,50.18874320921424],[14.48657264613428,50.18964036973648],[14.48797065096653,50.1895853896271],[14.48822479563768,50.19227686567569],[14.48682671214408,50.19233184936121],[14.48691140879112,50.19322900858901],[14.48551329611269,50.19328397636036],[14.48559797052434,50.19418113645662],[14.4869961094268,50.19412616749355],[14.48708081405198,50.19502332607453],[14.49127529165736,50.19485831296487],[14.491360078951,50.19575546764412],[14.49415643498094,50.19564537098046],[14.49424127872186,50.19654252294879],[14.495639478513,50.1964874477614],[14.49572435247813,50.19738459821184],[14.50131722685865,50.19716412160346]]],"type":"Polygon"}
+}

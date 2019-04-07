@@ -1,0 +1,71 @@
+{
+  "id": 1225979597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86476,50.65879,14.86476,50.65879",
+    "geom:latitude":50.65879,
+    "geom:longitude":14.86476,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Dolni Novina",
+    "gn:country_code":"CZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076753,
+    "gn:latitude":50.65879,
+    "gn:longitude":14.86476,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Doln\u00ed Novina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noviny",
+        "Neuland",
+        "Doln\u00ed Novina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076753
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f1d64680dab4e616cc177581b1598b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225979597,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1225979597,
+    "wof:lastmodified":1537619432,
+    "wof:name":"Dolni Novina",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86476,
+    50.65879,
+    14.86476,
+    50.65879
+],
+  "geometry": {"coordinates":[14.86476,50.65879],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209746161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85445,49.40047,13.85445,49.40047",
+    "geom:latitude":49.40047,
+    "geom:longitude":13.85445,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Blatenka",
+    "gn:country_code":"CZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079258,
+    "gn:latitude":49.40047,
+    "gn:longitude":13.85445,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Blatenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079258
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"86a5e2173e2212ba43bc11552e5d10d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209746161,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1209746161,
+    "wof:lastmodified":1536394900,
+    "wof:name":"Blatenka",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85445,
+    49.40047,
+    13.85445,
+    49.40047
+],
+  "geometry": {"coordinates":[13.85445,49.40047],"type":"Point"}
+}

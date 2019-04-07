@@ -1,0 +1,79 @@
+{
+  "id": 1209749141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87843,49.87042,17.87843,49.87042",
+    "geom:latitude":49.87042,
+    "geom:longitude":17.87843,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Hradec nad Moravici",
+    "gn:country_code":"CZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074975,
+    "gn:latitude":49.87042,
+    "gn:longitude":17.87843,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Hradec nad Moravici",
+    "gn:population":5255,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Hradec nad Moravici"
+    ],
+    "name:deu_x_preferred":[
+        "Gr\u00e4tz"
+    ],
+    "name:und_x_variant":[
+        "Hradec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074975,
+        "wk:page":"Hradec_nad_Moravic%C3%AD"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d02a5f0149bf8f6fa9be11de4b472c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209749141,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1209749141,
+    "wof:lastmodified":1537619407,
+    "wof:name":"Hradec nad Moravici",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":5255,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87842999999999,
+    49.87042,
+    17.87842999999999,
+    49.87042
+],
+  "geometry": {"coordinates":[17.87842999999999,49.87042],"type":"Point"}
+}

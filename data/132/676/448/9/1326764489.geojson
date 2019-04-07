@@ -1,0 +1,66 @@
+{
+  "id": 1326764489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47016,50.29854,14.47016,50.29854",
+    "geom:latitude":50.29854,
+    "geom:longitude":14.47016,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Dusniky",
+    "gn:country_code":"CZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076294,
+    "gn:latitude":50.29854,
+    "gn:longitude":14.47016,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Du\u0161n\u00edky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076294
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"60f26560e946a5e9ea488b1a57f389c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326764489,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1326764489,
+    "wof:lastmodified":1536648926,
+    "wof:name":"Dusniky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47016,
+    50.29854,
+    14.47016,
+    50.29854
+],
+  "geometry": {"coordinates":[14.47016,50.29854],"type":"Point"}
+}

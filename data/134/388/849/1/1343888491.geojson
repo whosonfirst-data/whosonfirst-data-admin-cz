@@ -1,0 +1,71 @@
+{
+  "id": 1343888491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90143,50.54728,15.90143,50.54728",
+    "geom:latitude":50.54728,
+    "geom:longitude":15.90143,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Bojiste",
+    "gn:country_code":"CZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079083,
+    "gn:latitude":50.54728,
+    "gn:longitude":15.90143,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Boji\u0161t\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Humburky",
+        "Hohenbruck",
+        "Boji\u0161t\u011b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079083
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c0ed0610bce5add1b751fba9445a7130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343888491,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1343888491,
+    "wof:lastmodified":1537619458,
+    "wof:name":"Bojiste",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90143,
+    50.54728,
+    15.90143,
+    50.54728
+],
+  "geometry": {"coordinates":[15.90143,50.54728],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292939835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.667,49.40504,15.667,49.40504",
+    "geom:latitude":49.40504,
+    "geom:longitude":15.667,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Velky Beranov",
+    "gn:country_code":"CZ",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063171,
+    "gn:latitude":49.40504,
+    "gn:longitude":15.667,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Velk\u00fd Beranov",
+    "gn:population":1269,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beranov",
+        "Gross Beranau"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063171,
+        "wk:page":"Velk%C3%BD_Beranov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2311acb0f071242573b3e2d1420102de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292939835,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1292939835,
+    "wof:lastmodified":1537619272,
+    "wof:name":"Velky Beranov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":1269,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.667,
+    49.40504,
+    15.667,
+    49.40504
+],
+  "geometry": {"coordinates":[15.667,49.40504],"type":"Point"}
+}

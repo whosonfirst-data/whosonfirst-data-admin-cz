@@ -1,0 +1,66 @@
+{
+  "id": 1277105477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69394,50.27716,13.69394,50.27716",
+    "geom:latitude":50.27716,
+    "geom:longitude":13.69394,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0424",
+    "gn:asciiname":"Markvarec",
+    "gn:country_code":"CZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071005,
+    "gn:latitude":50.27716,
+    "gn:longitude":13.69394,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Markvarec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071005
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bfcd3dfa34f4686fe9be121a2b5603c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277105477,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1277105477,
+    "wof:lastmodified":1536735114,
+    "wof:name":"Markvarec",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69394,
+    50.27716,
+    13.69394,
+    50.27716
+],
+  "geometry": {"coordinates":[13.69394,50.27716],"type":"Point"}
+}

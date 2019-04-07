@@ -1,0 +1,71 @@
+{
+  "id": 1293820787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.66526,49.58228,12.66526,49.58228",
+    "geom:latitude":49.58228,
+    "geom:longitude":12.66526,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Smolov",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065716,
+    "gn:latitude":49.58228,
+    "gn:longitude":12.66526,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Smolov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solov",
+        "Schmolau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065716
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"995731c65c54114327810d6d0dee841e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293820787,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293820787,
+    "wof:lastmodified":1537619300,
+    "wof:name":"Smolov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.66526,
+    49.58228,
+    12.66526,
+    49.58228
+],
+  "geometry": {"coordinates":[12.66526,49.58228],"type":"Point"}
+}

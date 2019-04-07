@@ -1,0 +1,66 @@
+{
+  "id": 1326867159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87275,50.37268,14.87275,50.37268",
+    "geom:latitude":50.37268,
+    "geom:longitude":14.87275,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Zamosti",
+    "gn:country_code":"CZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061875,
+    "gn:latitude":50.37268,
+    "gn:longitude":14.87275,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Z\u00e1most\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061875
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a8f86534857470ef72c1014ce2ff8131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326867159,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1326867159,
+    "wof:lastmodified":1536997590,
+    "wof:name":"Zamosti",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87275,
+    50.37268,
+    14.87275,
+    50.37268
+],
+  "geometry": {"coordinates":[14.87275,50.37268],"type":"Point"}
+}

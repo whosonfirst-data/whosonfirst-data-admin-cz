@@ -1,0 +1,66 @@
+{
+  "id": 1293724311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8,49.51667,18.8,49.51667",
+    "geom:latitude":49.51667,
+    "geom:longitude":18.8,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Pulgrun",
+    "gn:country_code":"CZ",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067334,
+    "gn:latitude":49.51667,
+    "gn:longitude":18.8,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"P\u016flgrun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067334
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"603a9bfebb856108133add09ba755ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293724311,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1293724311,
+    "wof:lastmodified":1536943538,
+    "wof:name":"Pulgrun",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8,
+    49.51667,
+    18.8,
+    49.51667
+],
+  "geometry": {"coordinates":[18.8,49.51667],"type":"Point"}
+}

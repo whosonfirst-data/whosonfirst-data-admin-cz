@@ -1,0 +1,70 @@
+{
+  "id": 1225981061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9626,50.25287,12.9626,50.25287",
+    "geom:latitude":50.25287,
+    "geom:longitude":12.9626,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Pulovice",
+    "gn:country_code":"CZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067330,
+    "gn:latitude":50.25287,
+    "gn:longitude":12.9626,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Pulovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pullwitz",
+        "Pulovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067330
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"814f7522d01907d93718fb9222047dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225981061,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1225981061,
+    "wof:lastmodified":1537619317,
+    "wof:name":"Pulovice",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9626,
+    50.25287,
+    12.9626,
+    50.25287
+],
+  "geometry": {"coordinates":[12.9626,50.25287],"type":"Point"}
+}

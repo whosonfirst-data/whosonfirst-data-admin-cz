@@ -1,0 +1,135 @@
+{
+  "id": 1125940841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79332,49.87716,17.79332,49.87716",
+    "geom:latitude":49.87716,
+    "geom:longitude":17.79332,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":246,
+    "gn:population":246,
+    "iso:country":"CZ",
+    "lbl:latitude":49.87716,
+    "lbl:longitude":17.79332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:dut_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:eng_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:epo_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:fre_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:hun_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:ita_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:may_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:nan_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:pol_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:por_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:rup_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:slo_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043a\u043e\u043b\u0430\u0458\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mikolajice"
+    ],
+    "name:vie_x_preferred":[
+        "Mikolajice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070730,
+    "qs_pg:gn_pop":246,
+    "qs_pg:name":"Mikolajice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399389,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793862,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070730,
+        "gp:id":793862,
+        "qs_pg:id":399389,
+        "wd:id":"Q302140"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297111,
+    "wof:geomhash":"e4206d6f758876a71d35b51d48337668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125940841,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125940841,
+    "wof:lastmodified":1513945357,
+    "wof:name":"Mikolajice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79332,
+    49.87716,
+    17.79332,
+    49.87716
+],
+  "geometry": {"coordinates":[17.79332,49.87716],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343592631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67083,49.4763,14.67083,49.4763",
+    "geom:latitude":49.4763,
+    "geom:longitude":14.67083,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Cervene Zahori",
+    "gn:country_code":"CZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077966,
+    "gn:latitude":49.4763,
+    "gn:longitude":14.67083,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"\u010cerven\u00e9 Z\u00e1ho\u0159\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077966
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9f1c2c1018b75d866ab38ebffd300f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343592631,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343592631,
+    "wof:lastmodified":1537050874,
+    "wof:name":"Cervene Zahori",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67083,
+    49.4763,
+    14.67083,
+    49.4763
+],
+  "geometry": {"coordinates":[14.67083,49.4763],"type":"Point"}
+}

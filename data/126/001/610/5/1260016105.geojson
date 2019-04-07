@@ -1,0 +1,70 @@
+{
+  "id": 1260016105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34145,49.75455,18.34145,49.75455",
+    "geom:latitude":49.75455,
+    "geom:longitude":18.34145,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0806",
+    "gn:asciiname":"Rakovec",
+    "gn:country_code":"CZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067055,
+    "gn:latitude":49.75455,
+    "gn:longitude":18.34145,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Rakovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rakowetz",
+        "Rakovec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067055
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"31a0188a8b0371bec142360f836c627f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260016105,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1260016105,
+    "wof:lastmodified":1537619315,
+    "wof:name":"Rakovec",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34145,
+    49.75455,
+    18.34145,
+    49.75455
+],
+  "geometry": {"coordinates":[18.34145,49.75455],"type":"Point"}
+}

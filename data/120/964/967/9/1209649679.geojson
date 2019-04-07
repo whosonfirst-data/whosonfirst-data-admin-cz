@@ -1,0 +1,66 @@
+{
+  "id": 1209649679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52741,50.12591,17.52741,50.12591",
+    "geom:latitude":50.12591,
+    "geom:longitude":17.52741,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Stare Purkartice",
+    "gn:country_code":"CZ",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065315,
+    "gn:latitude":50.12591,
+    "gn:longitude":17.52741,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Star\u00e9 Purkartice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt-Burgersdorf",
+        "Star\u00e9 Purkartice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065315
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d383f3caf2201ef29cb573d82d4ed170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209649679
+        }
+    ],
+    "wof:id":1209649679,
+    "wof:lastmodified":1537619294,
+    "wof:name":"Stare Purkartice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52741,
+    50.12591,
+    17.52741,
+    50.12591
+],
+  "geometry": {"coordinates":[17.52741,50.12591],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125349455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76342,48.776329,16.76342,48.776329",
+    "geom:latitude":48.776329,
+    "geom:longitude":16.76342,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":48.776329,
+    "lbl:longitude":16.76342,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hlohovec",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos":75,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":122,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":902801,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12605575,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12605575,
+        "qs_pg:id":902801
+    },
+    "wof:country":"CZ",
+    "wof:created":1497046115,
+    "wof:geomhash":"4c5a144503b8ad7cf28b306ef7e1b072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125349455,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125349455,
+    "wof:lastmodified":1509388822,
+    "wof:name":"Hlohovec",
+    "wof:parent_id":85682423,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76342,
+    48.776329,
+    16.76342,
+    48.776329
+],
+  "geometry": {"coordinates":[16.76342,48.776329],"type":"Point"}
+}

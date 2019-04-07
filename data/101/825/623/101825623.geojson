@@ -1,0 +1,145 @@
+{
+  "id": 101825623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000165,
+    "geom:area_square_m":1315647.894803,
+    "geom:bbox":"15.4586627239,49.915092619,15.4770306902,49.9297011203",
+    "geom:latitude":49.923199,
+    "geom:longitude":15.468997,
+    "gn:population":3062,
+    "iso:country":"CZ",
+    "lbl:latitude":49.924097,
+    "lbl:longitude":15.470091,
+    "mps:latitude":49.924097,
+    "mps:longitude":15.470091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0434\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrdy"
+    ],
+    "name:ces_x_preferred":[
+        "Vrdy"
+    ],
+    "name:cze_x_preferred":[
+        "Vrdy"
+    ],
+    "name:dut_x_preferred":[
+        "Vrdy"
+    ],
+    "name:eng_x_preferred":[
+        "Vrdy"
+    ],
+    "name:fre_x_preferred":[
+        "Vrdy"
+    ],
+    "name:ger_x_preferred":[
+        "Vrdy"
+    ],
+    "name:hun_x_preferred":[
+        "Vrdy"
+    ],
+    "name:ita_x_preferred":[
+        "Vrdy"
+    ],
+    "name:may_x_preferred":[
+        "Vrdy"
+    ],
+    "name:msa_x_preferred":[
+        "Vrdy"
+    ],
+    "name:nld_x_preferred":[
+        "Vrdy"
+    ],
+    "name:pol_x_preferred":[
+        "Vrdy"
+    ],
+    "name:por_x_preferred":[
+        "Vrdy"
+    ],
+    "name:slk_x_preferred":[
+        "Vrdy"
+    ],
+    "name:slo_x_preferred":[
+        "Vrdy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vrdy"
+    ],
+    "name:unk_x_variant":[
+        "Wrdy"
+    ],
+    "name:vie_x_preferred":[
+        "Vrdy"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Stredocesk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Vrdy",
+    "qs:la_lc":"*CZ0205534587",
+    "qs:level":"locality",
+    "qs:loc":"Vrdy",
+    "qs:loc_alt":"Vrdy",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062419,
+        "gp:id":801248,
+        "qs:id":1268804,
+        "qs_pg:id":1268804,
+        "wd:id":"Q2232024",
+        "wk:page":"Vrdy"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a09c760cf7141898ba518ed9ba726d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825623,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":101825623,
+    "wof:lastmodified":1527715060,
+    "wof:name":"Vrdy",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":3062,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45866272393937,
+    49.91509261899256,
+    15.47703069020235,
+    49.92970112025279
+],
+  "geometry": {"coordinates":[[[15.47167820157085,49.92943336277756],[15.4715757884548,49.92853706915281],[15.47296514706056,49.92847008879573],[15.47286271297662,49.92757379622935],[15.47703069020235,49.92737275765461],[15.4769281836418,49.92647646902748],[15.47553888720921,49.92654349741525],[15.47523147354508,49.92385462492155],[15.47662069271877,49.92378760085523],[15.47569847870443,49.91572097571071],[15.47014250755569,49.91598891834269],[15.47004016624442,49.91509261899256],[15.46865119032475,49.91515956079826],[15.46885582624878,49.91695216199304],[15.46746679529844,49.91701908970902],[15.46767139886964,49.9188116922524],[15.46628231288366,49.91887860587747],[15.46658917687461,49.92156751114317],[15.45964330754248,49.92190184631374],[15.46005201145016,49.92548707673348],[15.45866272393937,49.92555389860649],[15.45886705304963,49.92734651440225],[15.46025639207352,49.92727968965704],[15.46035858955332,49.92817599554752],[15.46452666262849,49.92797541517757],[15.46462894216512,49.92887171637602],[15.46601831852166,49.92880482087338],[15.466120628601,49.92970112025279],[15.47167820157085,49.92943336277756]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1225979449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62322,50.48121,15.62322,50.48121",
+    "geom:latitude":50.48121,
+    "geom:longitude":15.62322,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Lhota u Pecky",
+    "gn:country_code":"CZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072054,
+    "gn:latitude":50.48121,
+    "gn:longitude":15.62322,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Lhota u Pecky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072054
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5e546db24c1873281f2724c440a57a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225979449,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1225979449,
+    "wof:lastmodified":1536819798,
+    "wof:name":"Lhota u Pecky",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62322,
+    50.48121,
+    15.62322,
+    50.48121
+],
+  "geometry": {"coordinates":[15.62322,50.48121],"type":"Point"}
+}

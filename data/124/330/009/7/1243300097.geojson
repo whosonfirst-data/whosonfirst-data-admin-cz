@@ -1,0 +1,66 @@
+{
+  "id": 1243300097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63575,50.10373,15.63575,50.10373",
+    "geom:latitude":50.10373,
+    "geom:longitude":15.63575,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0532",
+    "gn:asciiname":"Habrinka",
+    "gn:country_code":"CZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076063,
+    "gn:latitude":50.10373,
+    "gn:longitude":15.63575,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Hab\u0159inka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076063
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"62250bf90f54eccc465bc6384cbcfa9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243300097,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1243300097,
+    "wof:lastmodified":1537015683,
+    "wof:name":"Habrinka",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63575,
+    50.10373,
+    15.63575,
+    50.10373
+],
+  "geometry": {"coordinates":[15.63575,50.10373],"type":"Point"}
+}

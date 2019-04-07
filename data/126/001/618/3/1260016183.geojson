@@ -1,0 +1,70 @@
+{
+  "id": 1260016183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7633,49.06636,13.7633,49.06636",
+    "geom:latitude":49.06636,
+    "geom:longitude":13.7633,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Hrabice",
+    "gn:country_code":"CZ",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075013,
+    "gn:latitude":49.06636,
+    "gn:longitude":13.7633,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Hrabice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rabuz",
+        "Hrabice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075013
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2fb4f1c853c04f2546fa6383c1ff3a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260016183,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260016183,
+    "wof:lastmodified":1537619407,
+    "wof:name":"Hrabice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7633,
+    49.06636,
+    13.7633,
+    49.06636
+],
+  "geometry": {"coordinates":[13.7633,49.06636],"type":"Point"}
+}

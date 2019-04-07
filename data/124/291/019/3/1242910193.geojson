@@ -1,0 +1,70 @@
+{
+  "id": 1242910193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68319,48.79654,14.68319,48.79654",
+    "geom:latitude":48.79654,
+    "geom:longitude":14.68319,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Zumberk",
+    "gn:country_code":"CZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061319,
+    "gn:latitude":48.79654,
+    "gn:longitude":14.68319,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"\u017dumberk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sonnberg",
+        "\u017dumberk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061319
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b44fd195f466de2d72efc7dc85e7a5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242910193,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1242910193,
+    "wof:lastmodified":1537619251,
+    "wof:name":"Zumberk",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68319,
+    48.79654,
+    14.68319,
+    48.79654
+],
+  "geometry": {"coordinates":[14.68319,48.79654],"type":"Point"}
+}

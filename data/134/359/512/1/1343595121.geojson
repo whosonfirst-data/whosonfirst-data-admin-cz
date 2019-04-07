@@ -1,0 +1,66 @@
+{
+  "id": 1343595121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38491,48.98383,17.38491,48.98383",
+    "geom:latitude":48.98383,
+    "geom:longitude":17.38491,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0722",
+    "gn:asciiname":"Ostrozske Predmesti",
+    "gn:country_code":"CZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068749,
+    "gn:latitude":48.98383,
+    "gn:longitude":17.38491,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Ostro\u017esk\u00e9 P\u0159edm\u011bst\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068749
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ee7b3b379671de7d59ecddad37cce155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343595121,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1343595121,
+    "wof:lastmodified":1537047389,
+    "wof:name":"Ostrozske Predmesti",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38491,
+    48.98383,
+    17.38491,
+    48.98383
+],
+  "geometry": {"coordinates":[17.38491,48.98383],"type":"Point"}
+}

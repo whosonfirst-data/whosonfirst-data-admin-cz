@@ -1,0 +1,66 @@
+{
+  "id": 1209035833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.66931,50.39593,12.66931,50.39593",
+    "geom:latitude":50.39593,
+    "geom:longitude":12.66931,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Jeleni",
+    "gn:country_code":"CZ",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074343,
+    "gn:latitude":50.39593,
+    "gn:longitude":12.66931,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Jelen\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hirschenstand",
+        "Jelen\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074343
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9ec9d1bf0f5ba5d4424b6b2c9a304ad3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209035833
+        }
+    ],
+    "wof:id":1209035833,
+    "wof:lastmodified":1537619400,
+    "wof:name":"Jeleni",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.66931,
+    50.39593,
+    12.66931,
+    50.39593
+],
+  "geometry": {"coordinates":[12.66931,50.39593],"type":"Point"}
+}

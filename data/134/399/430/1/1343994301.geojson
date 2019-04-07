@@ -1,0 +1,70 @@
+{
+  "id": 1343994301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7,50.21667,12.7,50.21667",
+    "geom:latitude":50.21667,
+    "geom:longitude":12.7,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Alberov",
+    "gn:country_code":"CZ",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079828,
+    "gn:latitude":50.21667,
+    "gn:longitude":12.7,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Alberov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Albernhof",
+        "Alberov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079828
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ac36af9b54ce2af7c9d738a8062d365b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343994301,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1343994301,
+    "wof:lastmodified":1537619467,
+    "wof:name":"Alberov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7,
+    50.21667,
+    12.7,
+    50.21667
+],
+  "geometry": {"coordinates":[12.7,50.21667],"type":"Point"}
+}

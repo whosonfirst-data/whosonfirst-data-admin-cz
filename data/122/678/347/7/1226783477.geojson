@@ -1,0 +1,70 @@
+{
+  "id": 1226783477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01143,49.07429,18.01143,49.07429",
+    "geom:latitude":49.07429,
+    "geom:longitude":18.01143,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Bylnice",
+    "gn:country_code":"CZ",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078330,
+    "gn:latitude":49.07429,
+    "gn:longitude":18.01143,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Bylnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilnitz",
+        "Bylnice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078330
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e2308949ea63a343a3d7f5096d60e947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226783477,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1226783477,
+    "wof:lastmodified":1537619450,
+    "wof:name":"Bylnice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01142999999999,
+    49.07429000000001,
+    18.01142999999999,
+    49.07429000000001
+],
+  "geometry": {"coordinates":[18.01142999999999,49.07429000000001],"type":"Point"}
+}

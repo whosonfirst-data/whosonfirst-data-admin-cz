@@ -1,0 +1,108 @@
+{
+  "id": 101781041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":538333.734963,
+    "geom:bbox":"16.7151432817,48.9947253664,16.7273982908,49.0070184948",
+    "geom:latitude":49.000136,
+    "geom:longitude":16.720519,
+    "gn:population":1254,
+    "iso:country":"CZ",
+    "lbl:latitude":48.999125,
+    "lbl:longitude":16.720937,
+    "mps:latitude":48.999125,
+    "mps:longitude":16.720937,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "K\u0159epice"
+    ],
+    "name:ces_x_preferred":[
+        "K\u0159epice"
+    ],
+    "name:deu_x_preferred":[
+        "K\u0159epice u Hustope\u010d\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "K\u0159epice"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0159epice"
+    ],
+    "name:ita_x_preferred":[
+        "K\u0159epice"
+    ],
+    "name:msa_x_preferred":[
+        "K\u0159epice"
+    ],
+    "name:nld_x_preferred":[
+        "K\u0159epice"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0159epice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"K\u0159epice",
+    "qs:la_lc":"*CZ0624584592",
+    "qs:level":"locality",
+    "qs:loc":"K\u0159epice",
+    "qs:loc_alt":"Krepice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072761,
+        "gp:id":792047,
+        "qs:id":885658,
+        "qs_pg:id":1140064,
+        "wd:id":"Q636578",
+        "wk:page":"K\u0159epice (B\u0159eclav District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fe6636460c974c614f20e476b6dc46d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101781041,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101781041,
+    "wof:lastmodified":1507750683,
+    "wof:name":"K\u0159epice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1254,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71514328167524,
+    48.99472536638859,
+    16.72739829075158,
+    49.00701849480265
+],
+  "geometry": {"coordinates":[[[16.71996135410745,49.00685454218797],[16.71935047990786,49.00237876215482],[16.72343555614816,49.00213273468279],[16.72331332486391,49.00123758231939],[16.72739829075158,49.00099141091596],[16.72727599185521,49.00009626319428],[16.72455273419286,49.00026039059912],[16.72406378971681,48.99667978101712],[16.72542532302089,48.996597732449],[16.7253030764814,48.99570258051955],[16.72666458126321,48.99562051710342],[16.72654231591974,48.99472536638859],[16.72245786237619,48.99497150181531],[16.72258005453727,48.99586665766896],[16.71849549068196,48.99611264918411],[16.71861761524292,48.99700780967504],[16.71589450326275,48.9971717246338],[16.71601658461293,48.9980668880487],[16.71737816706241,48.99798493713917],[16.71774451781499,49.00067041926116],[16.71638286216523,49.00075237530422],[16.71650496585079,49.00164753672652],[16.71514328167524,49.00172947791759],[16.71538745699218,49.00351980269045],[16.71674918997616,49.00343785807689],[16.71723770525472,49.00701849480265],[16.71996135410745,49.00685454218797]]],"type":"Polygon"}
+}

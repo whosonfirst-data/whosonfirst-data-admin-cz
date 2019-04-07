@@ -1,0 +1,68 @@
+{
+  "id": 1209137429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35006,50.30458,16.35006,50.30458",
+    "geom:latitude":50.30458,
+    "geom:longitude":16.35006,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Destne",
+    "gn:country_code":"CZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077191,
+    "gn:latitude":50.30458,
+    "gn:longitude":16.35006,
+    "gn:modification_date":"2015-11-05",
+    "gn:name":"De\u0161tn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "De\u0161tn\u00e9 v Orlick\u00fdch hor\u00e1ch"
+    ],
+    "name:deu_x_preferred":[
+        "Deschney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077191
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e86cc746bab0c48976c0fa97971c9ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209137429
+        }
+    ],
+    "wof:id":1209137429,
+    "wof:lastmodified":1537619439,
+    "wof:name":"Destne",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35006,
+    50.30458,
+    16.35006,
+    50.30458
+],
+  "geometry": {"coordinates":[16.35006,50.30458],"type":"Point"}
+}

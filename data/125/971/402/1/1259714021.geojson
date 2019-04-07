@@ -1,0 +1,66 @@
+{
+  "id": 1259714021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36677,49.13915,15.36677,49.13915",
+    "geom:latitude":49.13915,
+    "geom:longitude":15.36677,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Recice",
+    "gn:country_code":"CZ",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066973,
+    "gn:latitude":49.13915,
+    "gn:longitude":15.36677,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"\u0158e\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066973
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e890876177f0df073b372388efbc4efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259714021,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259714021,
+    "wof:lastmodified":1537022210,
+    "wof:name":"Recice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36677,
+    49.13915,
+    15.36677,
+    49.13915
+],
+  "geometry": {"coordinates":[15.36677,49.13915],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 1125906103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10899,49.16294,17.10899,49.16294",
+    "geom:latitude":49.16294,
+    "geom:longitude":17.10899,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":215,
+    "gn:population":215,
+    "iso:country":"CZ",
+    "lbl:latitude":49.16294,
+    "lbl:longitude":17.10899,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:dut_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:eng_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:fre_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:ger_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:may_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u062a\u0634\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:rup_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:slo_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0447\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:vie_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077011,
+    "qs_pg:gn_pop":215,
+    "qs_pg:name":"Dobro\u010dkovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":397854,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788269,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077011,
+        "gp:id":788269,
+        "qs_pg:id":397854,
+        "wd:id":"Q1233562"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295992,
+    "wof:geomhash":"c348c3df0dfef5ad148e97fbb4b51bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125906103,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125906103,
+    "wof:lastmodified":1513944911,
+    "wof:name":"Dobro\u010dkovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10899,
+    49.16294,
+    17.10899,
+    49.16294
+],
+  "geometry": {"coordinates":[17.10899,49.16294],"type":"Point"}
+}

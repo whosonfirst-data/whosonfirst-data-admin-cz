@@ -1,0 +1,114 @@
+{
+  "id": 101781023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1096660.17491,
+    "geom:bbox":"16.9615903835,48.7858003342,16.9845093744,48.7990946164",
+    "geom:latitude":48.793007,
+    "geom:longitude":16.972448,
+    "gn:population":1409,
+    "iso:country":"CZ",
+    "lbl:latitude":48.794667,
+    "lbl:longitude":16.970712,
+    "mps:latitude":48.794667,
+    "mps:longitude":16.970712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:ces_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:deu_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:fra_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:hun_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:ita_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:msa_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:nld_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:pol_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:por_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:unk_x_variant":[
+        "Birnbaum"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Hru\u0161ky",
+    "qs:la_lc":"*CZ0624584487",
+    "qs:level":"locality",
+    "qs:loc":"Hru\u0161ky",
+    "qs:loc_alt":"Hrusky",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074772,
+        "gp:id":790304,
+        "qs:id":868655,
+        "qs_pg:id":1266215,
+        "wd:id":"Q1022315",
+        "wk:page":"Hru\u0161ky (B\u0159eclav District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"80f7c80355076257188210a47b6ca03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101781023,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101781023,
+    "wof:lastmodified":1507750683,
+    "wof:name":"Hru\u0161ky",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1409,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96159038354199,
+    48.7858003341837,
+    16.98450937440322,
+    48.79909461638448
+],
+  "geometry": {"coordinates":[[[16.97479876132655,48.79892456453825],[16.97442077182836,48.79623985114125],[16.97577648464289,48.79615480579736],[16.9755244720904,48.79436499777501],[16.97688013244931,48.79427993948502],[16.97675411066393,48.79338503645226],[16.97946537046869,48.79321487397812],[16.97933930619911,48.79231997395146],[16.98069490564529,48.79223486976838],[16.98044274610226,48.79044507167254],[16.98450937440322,48.79018967087654],[16.9841309611798,48.78750498569184],[16.98277549495754,48.78759013046448],[16.98252329637637,48.7858003341837],[16.97710158199192,48.7861407344293],[16.97773163940991,48.79061525650303],[16.97230937527246,48.79095542848074],[16.97218344874778,48.79006051805817],[16.97082789625227,48.79014551810462],[16.97095379866931,48.79104043029076],[16.96282025033349,48.79155009519445],[16.96294601382078,48.79244501743051],[16.96159038354199,48.79252990568216],[16.962219166274,48.79700451781628],[16.96493066375012,48.79683470722227],[16.96505648570371,48.79772962455542],[16.96641225222322,48.79764469278143],[16.96653810402154,48.79853960782856],[16.97196122431302,48.79819970891401],[16.97208717831279,48.79909461638448],[16.97479876132655,48.79892456453825]]],"type":"Polygon"}
+}

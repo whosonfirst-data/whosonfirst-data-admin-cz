@@ -1,0 +1,70 @@
+{
+  "id": 1344205927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27263,49.33042,17.27263,49.33042",
+    "geom:latitude":49.33042,
+    "geom:longitude":17.27263,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Krenovice",
+    "gn:country_code":"CZ",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072770,
+    "gn:latitude":49.33042,
+    "gn:longitude":17.27263,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"K\u0159enovice",
+    "gn:population":420,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072770,
+        "wk:page":"K%C5%99enovice_%28P%C5%99erov_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8548c3453c60da06331df98637fd6ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344205927,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1344205927,
+    "wof:lastmodified":1537504049,
+    "wof:name":"Krenovice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":420,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27263,
+    49.33042,
+    17.27263,
+    49.33042
+],
+  "geometry": {"coordinates":[17.27263,49.33042],"type":"Point"}
+}

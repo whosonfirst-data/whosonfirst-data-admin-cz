@@ -1,0 +1,66 @@
+{
+  "id": 1225875621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67198,50.62979,13.67198,50.62979",
+    "geom:latitude":50.62979,
+    "geom:longitude":13.67198,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0426",
+    "gn:asciiname":"Hrad Osek",
+    "gn:country_code":"CZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074898,
+    "gn:latitude":50.62979,
+    "gn:longitude":13.67198,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Hrad Osek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074898
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ae1e2ed3a925696d40f8944fb2b3e1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225875621,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1225875621,
+    "wof:lastmodified":1536970341,
+    "wof:name":"Hrad Osek",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67198,
+    50.62979,
+    13.67198,
+    50.62979
+],
+  "geometry": {"coordinates":[13.67198,50.62979],"type":"Point"}
+}

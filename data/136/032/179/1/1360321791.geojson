@@ -1,0 +1,70 @@
+{
+  "id": 1360321791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35852,50.77866,14.35852,50.77866",
+    "geom:latitude":50.77866,
+    "geom:longitude":14.35852,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Kamenicka Nova Vika",
+    "gn:country_code":"CZ",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073934,
+    "gn:latitude":50.77866,
+    "gn:longitude":14.35852,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Kamenick\u00e1 Nov\u00e1 V\u00edka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamnitz Neud\u00f6rfel",
+        "Kamenick\u00e1 Nov\u00e1 V\u00edka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073934
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"815d26d73a66c9da8f561631c43d9451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360321791,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1360321791,
+    "wof:lastmodified":1537619396,
+    "wof:name":"Kamenicka Nova Vika",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35852,
+    50.77866,
+    14.35852,
+    50.77866
+],
+  "geometry": {"coordinates":[14.35852,50.77866],"type":"Point"}
+}

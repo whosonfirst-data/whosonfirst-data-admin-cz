@@ -1,0 +1,149 @@
+{
+  "id": 85900705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000396,
+    "geom:area_square_m":3143588.333979,
+    "geom:bbox":"14.3568678583,50.0606653211,14.3865966797,50.081819594",
+    "geom:latitude":50.07038,
+    "geom:longitude":14.37428,
+    "gn:latitude":50.06708,
+    "gn:longitude":14.36328,
+    "iso:country":"CZ",
+    "lbl:latitude":50.066439,
+    "lbl:longitude":14.367137,
+    "mps:latitude":50.069512,
+    "mps:longitude":14.375484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:ces_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:cze_x_colloquial":[
+        "Kosire",
+        "Praha 5-KoAacAAae",
+        "Praha 5-KoAcAAe",
+        "Praha 5-Kosire"
+    ],
+    "name:cze_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:dut_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:eng_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:eng_x_preferred_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:fra_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:fre_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:nld_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:slk_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:slo_x_preferred":[
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "name:unk_x_variant":[
+        "Ko\u0161\u00ed\u0159e",
+        "Ko\u0161\u00ed\u0159e"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"88",
+    "qs:gn_name":"Ko\u0161\u00ed\u0159e",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Ko\u0161\u00ed\u0159e",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":56,
+    "qs:photo_sum":265,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":136,
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073193,
+        "gp:id":791657,
+        "qs:id":1168781,
+        "qs_pg:id":1168781,
+        "wd:id":"Q2403918",
+        "wk:page":"Ko\u0161\u00ed\u0159e"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"efa124cd5b048ac2662a86524e4947e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900705,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900705,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1527638475,
+    "wof:name":"Kosire",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35686785829802,
+    50.06066532112523,
+    14.38659667970006,
+    50.08181959398765
+],
+  "geometry": {"coordinates":[[[14.37924568193989,50.07867213642096],[14.3804572477942,50.07829454740003],[14.38110351560005,50.07829454740003],[14.38659667970006,50.07829454740003],[14.38659667968335,50.0767839042697],[14.38659667968551,50.07627978869739],[14.38659667970006,50.07476923349994],[14.38659667970006,50.07124366040007],[14.38659667968551,50.06973310983678],[14.3865966796904,50.06771782820009],[14.38659667968204,50.06771776337514],[14.38659667968443,50.06419173669998],[14.38659667967511,50.06419167187512],[14.38110351561568,50.06419167187512],[14.38110351560982,50.06066538590009],[14.38110351561807,50.06066532112523],[14.37561035157523,50.06066532112523],[14.37011718750006,50.06066532112523],[14.3701171459162,50.06066538590009],[14.36801540521293,50.06393924692681],[14.36659683701544,50.06373835361531],[14.36591785744332,50.06419167187512],[14.36462402340004,50.06620732386729],[14.36365448199945,50.06771776337514],[14.35913085937523,50.06771776337514],[14.35913081776533,50.06771782820009],[14.35686785829802,50.07124333645022],[14.35686819098072,50.0712435956254],[14.35913085938142,50.07476916870003],[14.35913085940001,50.07476923349994],[14.36462402340004,50.07476923349994],[14.36753252297865,50.07476923350002],[14.36825950976203,50.07514681097713],[14.36947112762795,50.07476923350002],[14.37011718750006,50.07476923349994],[14.37011718750006,50.07829454740003],[14.37286376951477,50.07829454740003],[14.37286376951351,50.08005709766461],[14.37561035158109,50.08005710093816],[14.37561035158626,50.08181959398765],[14.37835693360006,50.08181959308622],[14.37835693360006,50.08005710093816],[14.37924568193989,50.07867213642096]]],"type":"Polygon"}
+}

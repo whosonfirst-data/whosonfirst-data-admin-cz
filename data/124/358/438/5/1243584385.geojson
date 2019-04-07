@@ -1,0 +1,66 @@
+{
+  "id": 1243584385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76544,49.73333,15.76544,49.73333",
+    "geom:latitude":49.73333,
+    "geom:longitude":15.76544,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Stikov",
+    "gn:country_code":"CZ",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065144,
+    "gn:latitude":49.73333,
+    "gn:longitude":15.76544,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"\u0160tikov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065144
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d1d249d5ec35e345889cb913d2b6b6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243584385,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1243584385,
+    "wof:lastmodified":1536603847,
+    "wof:name":"Stikov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76544,
+    49.73333,
+    15.76544,
+    49.73333
+],
+  "geometry": {"coordinates":[15.76544,49.73333],"type":"Point"}
+}

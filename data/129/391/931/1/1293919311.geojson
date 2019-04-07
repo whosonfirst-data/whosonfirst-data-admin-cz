@@ -1,0 +1,66 @@
+{
+  "id": 1293919311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61626,49.82021,15.61626,49.82021",
+    "geom:latitude":49.82021,
+    "geom:longitude":15.61626,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Drhotin",
+    "gn:country_code":"CZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076426,
+    "gn:latitude":49.82021,
+    "gn:longitude":15.61626,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Drhot\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076426
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"38083143719f34413bd916c4fd99f3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293919311,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1293919311,
+    "wof:lastmodified":1536661708,
+    "wof:name":"Drhotin",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61626,
+    49.82021,
+    15.61626,
+    49.82021
+],
+  "geometry": {"coordinates":[15.61626,49.82021],"type":"Point"}
+}

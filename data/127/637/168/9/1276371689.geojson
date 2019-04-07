@@ -1,0 +1,70 @@
+{
+  "id": 1276371689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0406,49.48346,13.0406,49.48346",
+    "geom:latitude":49.48346,
+    "geom:longitude":13.0406,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Lsteni",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071474,
+    "gn:latitude":49.48346,
+    "gn:longitude":13.0406,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"L\u0161t\u011bn\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elstin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071474
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"44c00aab106dd809b9275bac85ddebc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276371689,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1276371689,
+    "wof:lastmodified":1537619368,
+    "wof:name":"Lsteni",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0406,
+    49.48346,
+    13.0406,
+    49.48346
+],
+  "geometry": {"coordinates":[13.0406,49.48346],"type":"Point"}
+}

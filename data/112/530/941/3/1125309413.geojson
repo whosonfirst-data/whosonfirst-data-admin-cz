@@ -1,0 +1,80 @@
+{
+  "id": 1125309413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.577653,49.608106,15.577653,49.608106",
+    "geom:latitude":49.608106,
+    "geom:longitude":15.577653,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":49.608106,
+    "lbl:longitude":15.577653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Havl\u00ed\u010dk\u016fv Brod",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":288,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1106900,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12609479,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12609479,
+        "qs_pg:id":1106900
+    },
+    "wof:country":"CZ",
+    "wof:created":1497043891,
+    "wof:geomhash":"820e2342685b5a28c021b8432d336ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125309413,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125309413,
+    "wof:lastmodified":1509387861,
+    "wof:name":"Havl\u00ed\u010dk\u016fv Brod",
+    "wof:parent_id":85682429,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.577653,
+    49.608106,
+    15.577653,
+    49.608106
+],
+  "geometry": {"coordinates":[15.577653,49.608106],"type":"Point"}
+}

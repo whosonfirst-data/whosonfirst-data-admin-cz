@@ -1,0 +1,138 @@
+{
+  "id": 1125912071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27409,50.61151,15.27409,50.61151",
+    "geom:latitude":50.61151,
+    "geom:longitude":15.27409,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":500,
+    "gn:population":500,
+    "iso:country":"CZ",
+    "lbl:latitude":50.61151,
+    "lbl:longitude":15.27409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:dut_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:ger_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed u Semil"
+    ],
+    "name:hun_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:may_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:nan_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:pol_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:rup_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:slo_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0445\u043e\u0440\u0436\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0627\u06c1\u0648\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062019,
+    "qs_pg:gn_pop":500,
+    "qs_pg:name":"Z\u00e1ho\u0159\u00ed",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":401452,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801595,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062019,
+        "gp:id":801595,
+        "qs_pg:id":401452,
+        "wd:id":"Q246786"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296171,
+    "wof:geomhash":"ca0b27752fe72b2ee66964437f5971ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125912071,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1125912071,
+    "wof:lastmodified":1553816622,
+    "wof:name":"Z\u00e1ho\u0159\u00ed",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27409,
+    50.61151,
+    15.27409,
+    50.61151
+],
+  "geometry": {"coordinates":[15.27409,50.61151],"type":"Point"}
+}

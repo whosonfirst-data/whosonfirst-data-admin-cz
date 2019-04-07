@@ -1,0 +1,66 @@
+{
+  "id": 1344193121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58892,49.72576,14.58892,49.72576",
+    "geom:latitude":49.72576,
+    "geom:longitude":14.58892,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Libec",
+    "gn:country_code":"CZ",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071979,
+    "gn:latitude":49.72576,
+    "gn:longitude":14.58892,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Libe\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071979
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0aa68552031ac1e6be606058d6343438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344193121,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1344193121,
+    "wof:lastmodified":1536684131,
+    "wof:name":"Libec",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58892,
+    49.72576,
+    14.58892,
+    49.72576
+],
+  "geometry": {"coordinates":[14.58892,49.72576],"type":"Point"}
+}

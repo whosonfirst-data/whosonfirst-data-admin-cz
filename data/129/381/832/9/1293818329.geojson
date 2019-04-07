@@ -1,0 +1,70 @@
+{
+  "id": 1293818329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61096,50.176,17.61096,50.176",
+    "geom:latitude":50.176,
+    "geom:longitude":17.61096,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Biskupice",
+    "gn:country_code":"CZ",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079307,
+    "gn:latitude":50.176,
+    "gn:longitude":17.61096,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Biskupice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bischofswalde",
+        "Biskupice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079307
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"82b085cf5c5367e591857145264a573a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293818329,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1293818329,
+    "wof:lastmodified":1537619460,
+    "wof:name":"Biskupice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61096000000001,
+    50.176,
+    17.61096000000001,
+    50.176
+],
+  "geometry": {"coordinates":[17.61096000000001,50.176],"type":"Point"}
+}

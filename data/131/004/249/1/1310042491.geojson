@@ -1,0 +1,66 @@
+{
+  "id": 1310042491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92082,50.58562,14.92082,50.58562",
+    "geom:latitude":50.58562,
+    "geom:longitude":14.92082,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Vicmanov",
+    "gn:country_code":"CZ",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062936,
+    "gn:latitude":50.58562,
+    "gn:longitude":14.92082,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Vicmanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062936
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0991a3fd486de32d19e1dc1c70e2af14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310042491,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1310042491,
+    "wof:lastmodified":1537084077,
+    "wof:name":"Vicmanov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92082,
+    50.58562,
+    14.92082,
+    50.58562
+],
+  "geometry": {"coordinates":[14.92082,50.58562],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360320205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.85673,49.5815,12.85673,49.5815",
+    "geom:latitude":49.5815,
+    "geom:longitude":12.85673,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Chrebrany",
+    "gn:country_code":"CZ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077562,
+    "gn:latitude":49.5815,
+    "gn:longitude":12.85673,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ch\u0159eb\u0159any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kreberscham",
+        "Ch\u0159eb\u0159any"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077562
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"69d7e3e2e61c2c6a7f69d713ad133a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360320205,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1360320205,
+    "wof:lastmodified":1537619443,
+    "wof:name":"Chrebrany",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.85673,
+    49.5815,
+    12.85673,
+    49.5815
+],
+  "geometry": {"coordinates":[12.85673,49.5815],"type":"Point"}
+}

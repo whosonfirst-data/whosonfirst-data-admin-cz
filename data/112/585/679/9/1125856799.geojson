@@ -1,0 +1,89 @@
+{
+  "id": 1125856799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.76442,49.49672,12.76442,49.49672",
+    "geom:latitude":49.49672,
+    "geom:longitude":12.76442,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":227,
+    "gn:population":227,
+    "iso:country":"CZ",
+    "lbl:latitude":49.49672,
+    "lbl:longitude":12.76442,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "M\u00fcnchsdorf"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070461,
+    "qs_pg:gn_pop":227,
+    "qs_pg:name":"Mnichov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1267142,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794113,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070461,
+        "gp:id":794113,
+        "qs_pg:id":1267142
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293655,
+    "wof:geomhash":"f01d0da12ab83d235e4eb3a396ce1dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125856799,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125856799,
+    "wof:lastmodified":1509396272,
+    "wof:name":"Mnichov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76442,
+    49.49672,
+    12.76442,
+    49.49672
+],
+  "geometry": {"coordinates":[12.76442,49.49672],"type":"Point"}
+}

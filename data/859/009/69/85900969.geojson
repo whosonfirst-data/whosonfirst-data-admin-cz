@@ -1,0 +1,112 @@
+{
+  "id": 85900969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6177680.472386,
+    "geom:bbox":"12.83844,50.217336,12.83844,50.217336",
+    "geom:latitude":50.217336,
+    "geom:longitude":12.83844,
+    "gn:latitude":50.21667,
+    "gn:longitude":12.83333,
+    "iso:country":"CZ",
+    "lbl:latitude":50.217336,
+    "lbl:longitude":12.83844,
+    "mps:latitude":50.215204,
+    "mps:longitude":12.83762,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:cze_x_preferred":[
+        "Tuhnice"
+    ],
+    "name:cze_x_variant":[
+        "Donitz"
+    ],
+    "name:unk_x_variant":[
+        "Donitz",
+        "Tuhnice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3073803,
+    "qs:gn_nam_loc":"Karlovy Vary, Karlovy Vary, Karlovy Vary, Karlovarsk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"81",
+    "qs:gn_name":"Tuhnice",
+    "qs:local_max":5100,
+    "qs:local_sum":6070,
+    "qs:localhoods":5,
+    "qs:name":"Tuhnice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Karlovarsk\u00fd kraj",
+    "qs:name_adm2":"Karlovy Vary",
+    "qs:name_lau":"Karlovy Vary",
+    "qs:name_local":"Karlovy Vary",
+    "qs:photo_max":3,
+    "qs:photo_sum":9,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070500,
+    "qs:woe_adm2":12582606,
+    "qs:woe_lau":12609979,
+    "qs:woe_local":791140,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063878,
+        "gp:id":799962,
+        "qs:id":987805,
+        "qs_pg:id":987805
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"05f22d4e2b932d3a31509650aeaeb42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900969,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":85900969,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932412,
+    "wof:name":"Tuhnice",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83844,
+    50.217336,
+    12.83844,
+    50.217336
+],
+  "geometry": {"coordinates":[12.83844,50.217336],"type":"Point"}
+}

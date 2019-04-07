@@ -1,0 +1,70 @@
+{
+  "id": 1344000351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17213,50.32074,17.17213,50.32074",
+    "geom:latitude":50.32074,
+    "geom:longitude":17.17213,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Rokliny",
+    "gn:country_code":"CZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066795,
+    "gn:latitude":50.32074,
+    "gn:longitude":17.17213,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Rokliny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ropengrunt",
+        "Rokliny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066795
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"46396db2df3e4ba6cd05ed9f00021a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344000351,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1344000351,
+    "wof:lastmodified":1537619313,
+    "wof:name":"Rokliny",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17213,
+    50.32074,
+    17.17213,
+    50.32074
+],
+  "geometry": {"coordinates":[17.17213,50.32074],"type":"Point"}
+}

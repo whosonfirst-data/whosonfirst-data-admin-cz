@@ -1,0 +1,66 @@
+{
+  "id": 1326761269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00125,49.62767,15.00125,49.62767",
+    "geom:latitude":49.62767,
+    "geom:longitude":15.00125,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Jenikov",
+    "gn:country_code":"CZ",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074318,
+    "gn:latitude":49.62767,
+    "gn:longitude":15.00125,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Jen\u00edkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074318
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"600e7b2f516e6d267cdcfbf13f10fa30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326761269,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1326761269,
+    "wof:lastmodified":1536653910,
+    "wof:name":"Jenikov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00125,
+    49.62767,
+    15.00125,
+    49.62767
+],
+  "geometry": {"coordinates":[15.00125,49.62767],"type":"Point"}
+}

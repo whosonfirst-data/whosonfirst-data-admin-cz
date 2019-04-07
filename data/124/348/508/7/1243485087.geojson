@@ -1,0 +1,70 @@
+{
+  "id": 1243485087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47902,50.48602,13.47902,50.48602",
+    "geom:latitude":50.48602,
+    "geom:longitude":13.47902,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Zajecice",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061973,
+    "gn:latitude":50.48602,
+    "gn:longitude":13.47902,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Zaje\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sadschitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061973
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"64ada8cd410640cb63c5ae20f88fb3a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243485087,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1243485087,
+    "wof:lastmodified":1537619259,
+    "wof:name":"Zajecice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47902,
+    50.48602,
+    13.47902,
+    50.48602
+],
+  "geometry": {"coordinates":[13.47902,50.48602],"type":"Point"}
+}

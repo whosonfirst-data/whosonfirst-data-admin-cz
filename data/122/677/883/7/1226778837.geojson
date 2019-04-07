@@ -1,0 +1,66 @@
+{
+  "id": 1226778837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83197,49.90313,15.83197,49.90313",
+    "geom:latitude":49.90313,
+    "geom:longitude":15.83197,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Kunci",
+    "gn:country_code":"CZ",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072538,
+    "gn:latitude":49.90313,
+    "gn:longitude":15.83197,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Kun\u010d\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072538
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b479a6ce8bd40838736dcbc63c585f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226778837,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1226778837,
+    "wof:lastmodified":1536667998,
+    "wof:name":"Kunci",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83197,
+    49.90313,
+    15.83197,
+    49.90313
+],
+  "geometry": {"coordinates":[15.83197,49.90313],"type":"Point"}
+}

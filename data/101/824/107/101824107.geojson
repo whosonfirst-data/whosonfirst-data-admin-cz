@@ -1,0 +1,148 @@
+{
+  "id": 101824107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":518238.221248,
+    "geom:bbox":"12.1715621778,50.3001009323,12.1842717008,50.3110177813",
+    "geom:latitude":50.304872,
+    "geom:longitude":12.176929,
+    "gn:population":2268,
+    "iso:country":"CZ",
+    "lbl:latitude":50.304895,
+    "lbl:longitude":12.175869,
+    "mps:latitude":50.304895,
+    "mps:longitude":12.175869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8d6b\u62c9\u5c3c\u91c7"
+    ],
+    "name:cze_x_preferred":[
+        "Hranice"
+    ],
+    "name:dut_x_preferred":[
+        "Hranice"
+    ],
+    "name:eng_x_preferred":[
+        "Hranice"
+    ],
+    "name:fre_x_preferred":[
+        "Hranice"
+    ],
+    "name:ger_x_preferred":[
+        "Hranice u A\u0161e"
+    ],
+    "name:hun_x_preferred":[
+        "Hranice"
+    ],
+    "name:ita_x_preferred":[
+        "Hranice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30cb\u30c4\u30a7\u30fb\u30a6\u30fb\u30a2\u30b7\u30a7"
+    ],
+    "name:may_x_preferred":[
+        "Hranice"
+    ],
+    "name:nan_x_preferred":[
+        "Hranice"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0631\u0627\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Hranice"
+    ],
+    "name:por_x_preferred":[
+        "Hranice"
+    ],
+    "name:rup_x_preferred":[
+        "Hranice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Hranice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hranice"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0440\u0430\u043d\u0438\u0442\u0441\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Rossbach"
+    ],
+    "name:vie_x_preferred":[
+        "Hranice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Karlovarsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la":"Hranice",
+    "qs:la_lc":"*CZ0411554553",
+    "qs:level":"locality",
+    "qs:loc":"Hranice",
+    "qs:loc_alt":"Hranice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074889,
+        "gp:id":790198,
+        "qs:id":1206037,
+        "qs_pg:id":1206037,
+        "wd:id":"Q933400",
+        "wk:page":"Hranice (Cheb District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dc4a9b827477b62eafa92b4fe45b5623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824107,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":101824107,
+    "wof:lastmodified":1553815525,
+    "wof:name":"Hranice",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":2268,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.17156217777017,
+    50.3001009323408,
+    12.18427170081236,
+    50.31101778133711
+],
+  "geometry": {"coordinates":[[[12.17758670068042,50.31096441669126],[12.17742162931796,50.30736997756804],[12.17882476073936,50.3073432717735],[12.17865961440947,50.30374883098739],[12.18427170081236,50.30364184515372],[12.18418892700964,50.30184462792442],[12.18138299288847,50.3018981529018],[12.18130033307915,50.3001009323408],[12.1770915802586,50.30018108734663],[12.17713282956282,50.30107969949808],[12.17572988251504,50.30110638402465],[12.17577110722777,50.30200499650772],[12.17156217777017,50.30208494865593],[12.17160332480069,50.30298356263114],[12.17300632927737,50.3029569285307],[12.17321222635758,50.30744999176278],[12.17180908914207,50.30747662876473],[12.17185024784908,50.30837524124337],[12.17325341161649,50.30834860366093],[12.17333578797803,50.31014582670969],[12.17473900340474,50.31011917076717],[12.17478022106303,50.31101778133711],[12.17758670068042,50.31096441669126]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327463405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12269,49.32248,16.12269,49.32248",
+    "geom:latitude":49.32248,
+    "geom:longitude":16.12269,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Ruda",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066617,
+    "gn:latitude":49.32248,
+    "gn:longitude":16.12269,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Ruda",
+    "gn:population":343,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eisenberg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066617,
+        "wk:page":"Ruda_%28%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ebb75d750e5fee70b62dba978937b4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327463405,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1327463405,
+    "wof:lastmodified":1537619311,
+    "wof:name":"Ruda",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":343,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12269,
+    49.32248,
+    16.12269,
+    49.32248
+],
+  "geometry": {"coordinates":[16.12269,49.32248],"type":"Point"}
+}

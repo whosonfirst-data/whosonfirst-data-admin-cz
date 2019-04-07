@@ -1,0 +1,70 @@
+{
+  "id": 1243397733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.76873,49.21528,17.76873,49.21528",
+    "geom:latitude":49.21528,
+    "geom:longitude":17.76873,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Lipa",
+    "gn:country_code":"CZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071840,
+    "gn:latitude":49.21528,
+    "gn:longitude":17.76873,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"L\u00edpa",
+    "gn:population":659,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071840,
+        "wk:page":"L%C3%ADpa_%28Zl%C3%ADn_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"16c28687f3c44dac7b575a94d0624105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243397733,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1243397733,
+    "wof:lastmodified":1537504046,
+    "wof:name":"Lipa",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":659,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76872999999999,
+    49.21528,
+    17.76872999999999,
+    49.21528
+],
+  "geometry": {"coordinates":[17.76872999999999,49.21528],"type":"Point"}
+}

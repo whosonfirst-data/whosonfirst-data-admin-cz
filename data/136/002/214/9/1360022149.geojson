@@ -1,0 +1,70 @@
+{
+  "id": 1360022149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.80562,50.15629,12.80562,50.15629",
+    "geom:latitude":50.15629,
+    "geom:longitude":12.80562,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Bosirany",
+    "gn:country_code":"CZ",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078912,
+    "gn:latitude":50.15629,
+    "gn:longitude":12.80562,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Bo\u0161\u00ed\u0159any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poschitzau",
+        "Bo\u0161\u00ed\u0159any"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078912
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a3cc49d119aaf245d9259a0432a4d238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360022149,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1360022149,
+    "wof:lastmodified":1537619456,
+    "wof:name":"Bosirany",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.80562,
+    50.15629000000001,
+    12.80562,
+    50.15629000000001
+],
+  "geometry": {"coordinates":[12.80562,50.15629000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243007243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.84142,49.19901,17.84142,49.19901",
+    "geom:latitude":49.19901,
+    "geom:longitude":17.84142,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Na Janove Hore",
+    "gn:country_code":"CZ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070083,
+    "gn:latitude":49.19901,
+    "gn:longitude":17.84142,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Na Janov\u00e9 Ho\u0159e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070083
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"010ddd89af61b9a35ce0e1156c4c9885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243007243,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1243007243,
+    "wof:lastmodified":1536942351,
+    "wof:name":"Na Janove Hore",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.84142,
+    49.19901,
+    17.84142,
+    49.19901
+],
+  "geometry": {"coordinates":[17.84142,49.19901],"type":"Point"}
+}

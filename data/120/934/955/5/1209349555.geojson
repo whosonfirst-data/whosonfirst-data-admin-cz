@@ -1,0 +1,66 @@
+{
+  "id": 1209349555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24365,49.28326,13.24365,49.28326",
+    "geom:latitude":49.28326,
+    "geom:longitude":13.24365,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Splz",
+    "gn:country_code":"CZ",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065516,
+    "gn:latitude":49.28326,
+    "gn:longitude":13.24365,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Spl\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spiels",
+        "Spl\u017e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065516
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4387ac00b6c856442433b411a52d8d19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209349555
+        }
+    ],
+    "wof:id":1209349555,
+    "wof:lastmodified":1537619297,
+    "wof:name":"Splz",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24365,
+    49.28326,
+    13.24365,
+    49.28326
+],
+  "geometry": {"coordinates":[13.24365,49.28326],"type":"Point"}
+}

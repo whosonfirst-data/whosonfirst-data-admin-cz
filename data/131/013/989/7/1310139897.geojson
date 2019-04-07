@@ -1,0 +1,70 @@
+{
+  "id": 1310139897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71405,50.6514,13.71405,50.6514",
+    "geom:latitude":50.6514,
+    "geom:longitude":13.71405,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0426",
+    "gn:asciiname":"Krizanov",
+    "gn:country_code":"CZ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072690,
+    "gn:latitude":50.6514,
+    "gn:longitude":13.71405,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"K\u0159i\u017eanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krinsdorf",
+        "K\u0159i\u017eanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072690
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dc0ee9a7358a98f00f00eced16c5558d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310139897,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1310139897,
+    "wof:lastmodified":1537619382,
+    "wof:name":"Krizanov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71405,
+    50.6514,
+    13.71405,
+    50.6514
+],
+  "geometry": {"coordinates":[13.71405,50.6514],"type":"Point"}
+}

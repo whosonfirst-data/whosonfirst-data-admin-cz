@@ -1,0 +1,70 @@
+{
+  "id": 1343793183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56249,49.65525,16.56249,49.65525",
+    "geom:latitude":49.65525,
+    "geom:longitude":16.56249,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Dolni Rudna",
+    "gn:country_code":"CZ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076696,
+    "gn:latitude":49.65525,
+    "gn:longitude":16.56249,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Doln\u00ed Rudn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nieder Rauden",
+        "Doln\u00ed Rudn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076696
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"627e3ff319327fab7d5e3d16c37ff2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343793183,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1343793183,
+    "wof:lastmodified":1537619431,
+    "wof:name":"Dolni Rudna",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56249,
+    49.65525,
+    16.56249,
+    49.65525
+],
+  "geometry": {"coordinates":[16.56249,49.65525],"type":"Point"}
+}

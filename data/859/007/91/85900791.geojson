@@ -1,0 +1,151 @@
+{
+  "id": 85900791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000393,
+    "geom:area_square_m":3123448.983515,
+    "geom:bbox":"14.4085693359,49.9867497827,14.4316674282,50.0117647826",
+    "geom:latitude":49.999776,
+    "geom:longitude":14.41965,
+    "gn:latitude":50.01116,
+    "gn:longitude":14.4096,
+    "gn:population":31901,
+    "iso:country":"CZ",
+    "lbl:latitude":50.00307,
+    "lbl:longitude":14.420013,
+    "mps:latitude":49.999922,
+    "mps:longitude":14.419431,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Mod\u0159any"
+    ],
+    "name:ces_x_preferred":[
+        "Mod\u0159any"
+    ],
+    "name:cze_x_preferred":[
+        "Modrany"
+    ],
+    "name:cze_x_variant":[
+        "Praha 4-Modrany",
+        "Mod\u0159any"
+    ],
+    "name:eng_x_preferred":[
+        "Mod\u0159any"
+    ],
+    "name:fre_x_preferred":[
+        "Mod\u0159any"
+    ],
+    "name:hun_x_preferred":[
+        "Mod\u0159any"
+    ],
+    "name:pol_x_preferred":[
+        "Mod\u0159any"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0434\u0440\u0436\u0430\u043d\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "Mod\u0159any"
+    ],
+    "name:slo_x_preferred":[
+        "Mod\u0159any"
+    ],
+    "name:swe_x_preferred":[
+        "Mod\u0159any"
+    ],
+    "name:unk_x_variant":[
+        "Mod\u0159an",
+        "Modrany"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:gn_name":"Mod\u0159any",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Modrany",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":64,
+    "qs:photo_sum":95,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "src:population":"geonames",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070420,
+        "gp:id":794147,
+        "qs:id":181686,
+        "qs_pg:id":181686,
+        "wd:id":"Q3490542",
+        "wk:page":"Mod\u0159any"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d7a185b258e6d870b14821e844b06df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900791,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900791,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1536864509,
+    "wof:name":"Modrany",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:population":31901,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4085693359001,
+    49.9867497827213,
+    14.43166742817806,
+    50.01176478256839
+],
+  "geometry": {"coordinates":[[[14.41664983883726,50.01176478256839],[14.41955566407512,50.00950400485029],[14.43054199220023,50.00950400485029],[14.43054199220023,50.00420845075008],[14.43166742817806,49.99895538819599],[14.43165025118856,49.99897631841789],[14.43154104142519,49.99861630207646],[14.43061694222331,49.99688743406973],[14.42937331391204,49.99537206858828],[14.42785794843041,49.99412844027701],[14.42612908042378,49.99320434107516],[14.42464813561185,49.9927551013778],[14.42462423527769,49.99274785129042],[14.42388014986193,49.99184118058817],[14.42236478438031,49.9905975522769],[14.42063591637384,49.98967345307504],[14.41999516767424,49.98947908408196],[14.41997641647532,49.98945623567987],[14.41976027681193,49.98919286873827],[14.41824491133031,49.987949240427],[14.41651604332384,49.98702514122495],[14.41567014262324,49.98676854005292],[14.41566829518746,49.9867497827213],[14.41181007688829,49.99008386135013],[14.40953975594977,49.99361539770017],[14.40921483961262,49.99614250885553],[14.4085693359209,49.99714667472527],[14.40856933591459,49.99714673960004],[14.40856933591664,50.00067769240003],[14.4085693359167,50.00067775719994],[14.40856933591459,50.00400877429668],[14.4085693359001,50.00420851560007],[14.40878330179578,50.00420851560212],[14.41067412458966,50.00597363545036],[14.41292796047986,50.00597363545036],[14.41406250000006,50.00773894980018],[14.41406250000006,50.00773901460006],[14.41406254164593,50.00773901460006],[14.41664983883726,50.01176478256839]]],"type":"Polygon"}
+}

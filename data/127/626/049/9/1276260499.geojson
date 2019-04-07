@@ -1,0 +1,66 @@
+{
+  "id": 1276260499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80552,49.65983,14.80552,49.65983",
+    "geom:latitude":49.65983,
+    "geom:longitude":14.80552,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Sedlecko",
+    "gn:country_code":"CZ",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066307,
+    "gn:latitude":49.65983,
+    "gn:longitude":14.80552,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Sedle\u010dko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066307
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1c093816335acf9d441f9cd31df5e75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276260499,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276260499,
+    "wof:lastmodified":1536875339,
+    "wof:name":"Sedlecko",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80552,
+    49.65983,
+    14.80552,
+    49.65983
+],
+  "geometry": {"coordinates":[14.80552,49.65983],"type":"Point"}
+}

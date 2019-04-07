@@ -1,0 +1,70 @@
+{
+  "id": 1260336637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05662,49.96784,17.05662,49.96784",
+    "geom:latitude":49.96784,
+    "geom:longitude":17.05662,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Krasne",
+    "gn:country_code":"CZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072884,
+    "gn:latitude":49.96784,
+    "gn:longitude":17.05662,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Kr\u00e1sn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sch\u00f6nthal",
+        "\u0160ent\u00e1l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072884
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"56fd89722c3f030266373a52e1cc93fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260336637,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1260336637,
+    "wof:lastmodified":1537619384,
+    "wof:name":"Krasne",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05662,
+    49.96784,
+    17.05662,
+    49.96784
+],
+  "geometry": {"coordinates":[17.05662,49.96784],"type":"Point"}
+}

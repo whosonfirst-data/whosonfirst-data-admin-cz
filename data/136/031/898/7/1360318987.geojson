@@ -1,0 +1,70 @@
+{
+  "id": 1360318987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07554,49.20345,17.07554,49.20345",
+    "geom:latitude":49.20345,
+    "geom:longitude":17.07554,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0626",
+    "gn:asciiname":"Stare Hvezdlice",
+    "gn:country_code":"CZ",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065345,
+    "gn:latitude":49.20345,
+    "gn:longitude":17.07554,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Star\u00e9 Hv\u011bzdlice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt-Hwiezdlitz",
+        "Star\u00e9 Hv\u011bzdlice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065345
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bf57c77ef0637c567954c857f89e1280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360318987,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1360318987,
+    "wof:lastmodified":1537619294,
+    "wof:name":"Stare Hvezdlice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07554,
+    49.20345,
+    17.07554,
+    49.20345
+],
+  "geometry": {"coordinates":[17.07554,49.20345],"type":"Point"}
+}

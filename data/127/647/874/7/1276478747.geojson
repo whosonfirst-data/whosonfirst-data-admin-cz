@@ -1,0 +1,66 @@
+{
+  "id": 1276478747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38782,49.74551,15.38782,49.74551",
+    "geom:latitude":49.74551,
+    "geom:longitude":15.38782,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Vrbice",
+    "gn:country_code":"CZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062466,
+    "gn:latitude":49.74551,
+    "gn:longitude":15.38782,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Vrbice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062466
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2720e0afde6796482902721ccadc9079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276478747,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1276478747,
+    "wof:lastmodified":1537078031,
+    "wof:name":"Vrbice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38782,
+    49.74551,
+    15.38782,
+    49.74551
+],
+  "geometry": {"coordinates":[15.38782,49.74551],"type":"Point"}
+}

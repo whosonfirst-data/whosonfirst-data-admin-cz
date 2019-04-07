@@ -1,0 +1,106 @@
+{
+  "id": 85900899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11435180.314821,
+    "geom:bbox":"13.411519,49.804553,13.411519,49.804553",
+    "geom:latitude":49.804553,
+    "geom:longitude":13.411519,
+    "gn:latitude":49.80031,
+    "gn:longitude":13.4186,
+    "iso:country":"CZ",
+    "lbl:latitude":49.804553,
+    "lbl:longitude":13.411519,
+    "mps:latitude":49.797126,
+    "mps:longitude":13.406029,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:cze_x_preferred":[
+        "Senec"
+    ],
+    "name:unk_x_variant":[
+        "Senec"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"87",
+    "qs:gn_name":"Senec",
+    "qs:local_max":1309,
+    "qs:local_sum":4721,
+    "qs:localhoods":13,
+    "qs:name":"Senec",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs:name_adm2":"Plze\u0148-M\u011bsto",
+    "qs:name_lau":"Plze\u0148",
+    "qs:name_local":"Plze\u0148",
+    "qs:photo_max":175,
+    "qs:photo_sum":228,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070501,
+    "qs:woe_adm2":12582609,
+    "qs:woe_lau":12610042,
+    "qs:woe_local":12610042,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066203,
+        "gp:id":797940,
+        "qs:id":244970,
+        "qs_pg:id":244970
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f3a0fdd0da248621fcc471f13f1d3f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900899,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":85900899,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932400,
+    "wof:name":"Senec",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.411519,
+    49.804553,
+    13.411519,
+    49.804553
+],
+  "geometry": {"coordinates":[13.411519,49.804553],"type":"Point"}
+}

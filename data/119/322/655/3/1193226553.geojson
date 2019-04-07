@@ -1,0 +1,66 @@
+{
+  "id": 1193226553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99404,49.90167,16.99404,49.90167",
+    "geom:latitude":49.90167,
+    "geom:longitude":16.99404,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Medelske",
+    "gn:country_code":"CZ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070898,
+    "gn:latitude":49.90167,
+    "gn:longitude":16.99404,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Medelsk\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070898
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"af299b10042b8123acabf56274672c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193226553,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1193226553,
+    "wof:lastmodified":1536369904,
+    "wof:name":"Medelske",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99404,
+    49.90167,
+    16.99404,
+    49.90167
+],
+  "geometry": {"coordinates":[16.99404,49.90167],"type":"Point"}
+}

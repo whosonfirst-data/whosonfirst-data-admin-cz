@@ -1,0 +1,71 @@
+{
+  "id": 1259519973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21667,48.98333,15.21667,48.98333",
+    "geom:latitude":48.98333,
+    "geom:longitude":15.21667,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Arnolec",
+    "gn:country_code":"CZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079768,
+    "gn:latitude":48.98333,
+    "gn:longitude":15.21667,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Arnolec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dv\u016dr Arnolec",
+        "Arnolzhof",
+        "Arnolec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079768
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"80b7a6beae46513217d71d9ebf9ede62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259519973,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259519973,
+    "wof:lastmodified":1537619465,
+    "wof:name":"Arnolec",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21667,
+    48.98333,
+    15.21667,
+    48.98333
+],
+  "geometry": {"coordinates":[15.21667,48.98333],"type":"Point"}
+}

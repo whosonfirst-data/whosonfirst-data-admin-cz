@@ -1,0 +1,73 @@
+{
+  "id": 1360118755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.15621,50.36356,13.15621,50.36356",
+    "geom:latitude":50.36356,
+    "geom:longitude":13.15621,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Kotvina",
+    "gn:country_code":"CZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073099,
+    "gn:latitude":50.36356,
+    "gn:longitude":13.15621,
+    "gn:modification_date":"2014-11-04",
+    "gn:name":"Kotvina",
+    "gn:population":106,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ketwa",
+        "Kotvina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073099
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e657eb7dad260cd68a06f8e85ec690e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360118755,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1360118755,
+    "wof:lastmodified":1537619387,
+    "wof:name":"Kotvina",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.15621,
+    50.36356,
+    13.15621,
+    50.36356
+],
+  "geometry": {"coordinates":[13.15621,50.36356],"type":"Point"}
+}

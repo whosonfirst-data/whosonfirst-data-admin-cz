@@ -1,0 +1,66 @@
+{
+  "id": 1209446479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,48.9,14.11667,48.9",
+    "geom:latitude":48.9,
+    "geom:longitude":14.11667,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Sadlno",
+    "gn:country_code":"CZ",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066449,
+    "gn:latitude":48.9,
+    "gn:longitude":14.11667,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"S\u00e1dlno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zodl",
+        "S\u00e1dlno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066449
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"eb3535a0b24dc30e6af6a8d7f6aaaedb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209446479
+        }
+    ],
+    "wof:id":1209446479,
+    "wof:lastmodified":1537619308,
+    "wof:name":"Sadlno",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    48.9,
+    14.11667,
+    48.9
+],
+  "geometry": {"coordinates":[14.11667,48.9],"type":"Point"}
+}

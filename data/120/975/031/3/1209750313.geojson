@@ -1,0 +1,70 @@
+{
+  "id": 1209750313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81651,50.64276,15.81651,50.64276",
+    "geom:latitude":50.64276,
+    "geom:longitude":15.81651,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Marsov",
+    "gn:country_code":"CZ",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070985,
+    "gn:latitude":50.64276,
+    "gn:longitude":15.81651,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Mar\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marschendorf",
+        "Mar\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070985
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"69a14b887f8c2a4a21c39777a73513ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209750313,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1209750313,
+    "wof:lastmodified":1537619362,
+    "wof:name":"Marsov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81651,
+    50.64276,
+    15.81651,
+    50.64276
+],
+  "geometry": {"coordinates":[15.81651,50.64276],"type":"Point"}
+}

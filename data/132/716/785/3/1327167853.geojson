@@ -1,0 +1,70 @@
+{
+  "id": 1327167853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02995,49.85338,15.02995,49.85338",
+    "geom:latitude":49.85338,
+    "geom:longitude":15.02995,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Opatovice Druha",
+    "gn:country_code":"CZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068934,
+    "gn:latitude":49.85338,
+    "gn:longitude":15.02995,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Opatovice Druh\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Opatovice II",
+        "Opatovice Druh\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068934
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3447aa8c61f0cdb0caa07c433504efa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327167853,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1327167853,
+    "wof:lastmodified":1537619333,
+    "wof:name":"Opatovice Druha",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02995,
+    49.85338,
+    15.02995,
+    49.85338
+],
+  "geometry": {"coordinates":[15.02995,49.85338],"type":"Point"}
+}

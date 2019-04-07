@@ -1,0 +1,70 @@
+{
+  "id": 1327267441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41524,49.92655,18.41524,49.92655",
+    "geom:latitude":49.92655,
+    "geom:longitude":18.41524,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0803",
+    "gn:asciiname":"Vernovice",
+    "gn:country_code":"CZ",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063085,
+    "gn:latitude":49.92655,
+    "gn:longitude":18.41524,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"V\u011b\u0159\u0148ovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u011b\u0159\u0148ovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063085,
+        "wk:page":"V%C4%9B%C5%99%C5%88ovice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4bc5c2941d5770f0c32da7c7ad00ae8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327267441,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1327267441,
+    "wof:lastmodified":1537619271,
+    "wof:name":"Vernovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41524,
+    49.92655,
+    18.41524,
+    49.92655
+],
+  "geometry": {"coordinates":[18.41524,49.92655],"type":"Point"}
+}

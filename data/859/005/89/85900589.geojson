@@ -1,0 +1,102 @@
+{
+  "id": 85900589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9554583.145136,
+    "geom:bbox":"17.027256,49.46696,17.027256,49.46696",
+    "geom:latitude":49.46696,
+    "geom:longitude":17.027256,
+    "iso:country":"CZ",
+    "lbl:latitude":49.46696,
+    "lbl:longitude":17.027256,
+    "mps:latitude":49.470156,
+    "mps:longitude":17.033478,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:cze_x_preferred":[
+        "Domamyslice"
+    ],
+    "name:unk_x_variant":[
+        "Domamyslice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3067421,
+    "qs:gn_nam_loc":"Prost\u011bjov, Prost\u011bjov, Prost\u011bjov, Olomouck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"84",
+    "qs:id":0,
+    "qs:local_max":141,
+    "qs:local_sum":164,
+    "qs:localhoods":2,
+    "qs:name":"Domamyslice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Olomouck\u00fd kraj",
+    "qs:name_adm2":"Prost\u011bjov",
+    "qs:name_lau":"Prost\u011bjov",
+    "qs:name_local":"Prost\u011bjov",
+    "qs:photo_max":7,
+    "qs:photo_sum":23,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070470,
+    "qs:woe_adm2":12582552,
+    "qs:woe_lau":12605340,
+    "qs:woe_local":796849,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":788662
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"74f260281d5c4ccb0a392cfb8625070a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900589,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":85900589,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932352,
+    "wof:name":"Domamyslice",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.027256,
+    49.46696,
+    17.027256,
+    49.46696
+],
+  "geometry": {"coordinates":[17.027256,49.46696],"type":"Point"}
+}

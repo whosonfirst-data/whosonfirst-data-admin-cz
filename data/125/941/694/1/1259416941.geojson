@@ -1,0 +1,66 @@
+{
+  "id": 1259416941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88464,50.28241,15.88464,50.28241",
+    "geom:latitude":50.28241,
+    "geom:longitude":15.88464,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Cibuz",
+    "gn:country_code":"CZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077444,
+    "gn:latitude":50.28241,
+    "gn:longitude":15.88464,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"\u010c\u00edbuz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077444
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0cd6cb7a4b1ca6d3a53f3cbd80aa81e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259416941,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1259416941,
+    "wof:lastmodified":1536954492,
+    "wof:name":"Cibuz",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88464,
+    50.28241,
+    15.88464,
+    50.28241
+],
+  "geometry": {"coordinates":[15.88464,50.28241],"type":"Point"}
+}

@@ -1,0 +1,145 @@
+{
+  "id": 101826371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1046649.08594,
+    "geom:bbox":"16.5209392735,49.4457544999,16.5483067683,49.4572164247",
+    "geom:latitude":49.451963,
+    "geom:longitude":16.536687,
+    "gn:population":1831,
+    "iso:country":"CZ",
+    "lbl:latitude":49.45331,
+    "lbl:longitude":16.53876,
+    "mps:latitude":49.45331,
+    "mps:longitude":16.53876,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lysice"
+    ],
+    "name:ces_x_preferred":[
+        "Lysice"
+    ],
+    "name:cze_x_preferred":[
+        "Lysice"
+    ],
+    "name:deu_x_preferred":[
+        "Lysice"
+    ],
+    "name:dut_x_preferred":[
+        "Lysice"
+    ],
+    "name:eng_x_preferred":[
+        "Lysice"
+    ],
+    "name:fra_x_preferred":[
+        "Lysice"
+    ],
+    "name:fre_x_preferred":[
+        "Lysice"
+    ],
+    "name:ger_x_preferred":[
+        "Lysice"
+    ],
+    "name:hun_x_preferred":[
+        "Lysice"
+    ],
+    "name:ita_x_preferred":[
+        "Lysice"
+    ],
+    "name:may_x_preferred":[
+        "Lysice"
+    ],
+    "name:msa_x_preferred":[
+        "Lysice"
+    ],
+    "name:nld_x_preferred":[
+        "Lysice"
+    ],
+    "name:por_x_preferred":[
+        "Lysice"
+    ],
+    "name:slk_x_preferred":[
+        "Lysice"
+    ],
+    "name:slo_x_preferred":[
+        "Lysice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0441\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Lysice"
+    ],
+    "name:unk_x_variant":[
+        "Lissitz"
+    ],
+    "name:vie_x_preferred":[
+        "Lysice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Lysice",
+    "qs:la_lc":"*CZ0621582018",
+    "qs:level":"locality",
+    "qs:loc":"Lysice",
+    "qs:loc_alt":"Lysice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071302,
+        "gp:id":793355,
+        "qs:id":240871,
+        "qs_pg:id":240871,
+        "wd:id":"Q1284878",
+        "wk:page":"Lysice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"197b69a918b22fa114db8ca4ac3df0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826371,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101826371,
+    "wof:lastmodified":1527642507,
+    "wof:name":"Lysice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1831,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52093927352894,
+    49.44575449985098,
+    16.54830676829374,
+    49.45721642471409
+],
+  "geometry": {"coordinates":[[[16.54753593621751,49.45381140772463],[16.54741522219223,49.4529161975932],[16.54466631699972,49.45307616558051],[16.5443043583594,49.45039052224769],[16.54567873803313,49.45031055170443],[16.54555807130885,49.4494153380258],[16.54830676829374,49.44925535009355],[16.54818605716162,49.44836013933718],[16.54681173572328,49.44844013998187],[16.54644971075345,49.44575449985098],[16.54507546015748,49.44583447867473],[16.54531675458475,49.44762490927764],[16.53981951105379,49.44794467068289],[16.53969896101358,49.44704944884631],[16.53832466481657,49.4471293456487],[16.53856572048392,49.44891979224042],[16.53719137018351,49.44899967568091],[16.53731188137726,49.44989489997238],[16.52906554312216,49.45037385913025],[16.52894518189453,49.44947862470195],[16.5261964195376,49.44963814042245],[16.52631673077394,49.45053337822685],[16.52219348140335,49.45077253128562],[16.52231372320654,49.45166777368939],[16.52093927352894,49.45174745957235],[16.52105949588935,49.45264270320058],[16.52655736992415,49.45232385244816],[16.52691837034888,49.45500956031248],[16.52966743268632,49.45485002433281],[16.52954704364856,49.45395479221736],[16.53504501891683,49.45363552606057],[16.53552700848047,49.45721642471409],[16.54239988488325,49.45681693141677],[16.54203800933897,49.45413128348929],[16.54753593621751,49.45381140772463]]],"type":"Polygon"}
+}

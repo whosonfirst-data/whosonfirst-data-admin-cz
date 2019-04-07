@@ -1,0 +1,66 @@
+{
+  "id": 1242611297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2485,49.94864,16.2485,49.94864",
+    "geom:latitude":49.94864,
+    "geom:longitude":16.2485,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Orlov",
+    "gn:country_code":"CZ",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068874,
+    "gn:latitude":49.94864,
+    "gn:longitude":16.2485,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Orlov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068874
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e92bdd1e165b17825a86cf8e31653b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242611297,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1242611297,
+    "wof:lastmodified":1537014459,
+    "wof:name":"Orlov",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2485,
+    49.94864000000001,
+    16.2485,
+    49.94864000000001
+],
+  "geometry": {"coordinates":[16.2485,49.94864000000001],"type":"Point"}
+}

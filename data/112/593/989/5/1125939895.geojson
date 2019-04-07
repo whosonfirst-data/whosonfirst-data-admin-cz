@@ -1,0 +1,143 @@
+{
+  "id": 1125939895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85872,50.45366,15.85872,50.45366",
+    "geom:latitude":50.45366,
+    "geom:longitude":15.85872,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":521,
+    "gn:population":521,
+    "iso:country":"CZ",
+    "lbl:latitude":50.45366,
+    "lbl:longitude":15.85872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:dut_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:eng_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:fre_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:ger_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:hun_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:ita_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:may_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:nan_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0648\u062a\u0633\u0628\u0631\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:por_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:rup_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:slo_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0446\u0431\u0435\u0440\u0436\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "name:unk_x_variant":[
+        "Rettendorf"
+    ],
+    "name:vie_x_preferred":[
+        "Kocbe\u0159e"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3073460,
+    "qs_pg:gn_pop":521,
+    "qs_pg:name":"Kocbe\u0159e",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1140061,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":791432,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073460,
+        "gp:id":791432,
+        "qs_pg:id":1140061,
+        "wd:id":"Q586750"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297081,
+    "wof:geomhash":"3af80f0aacfd9419bc2cafe424083b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125939895,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125939895,
+    "wof:lastmodified":1513945187,
+    "wof:name":"Kocbe\u0159e",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":521,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85872,
+    50.45366,
+    15.85872,
+    50.45366
+],
+  "geometry": {"coordinates":[15.85872,50.45366],"type":"Point"}
+}

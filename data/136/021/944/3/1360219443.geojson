@@ -1,0 +1,71 @@
+{
+  "id": 1360219443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85646,50.46076,15.85646,50.46076",
+    "geom:latitude":50.46076,
+    "geom:longitude":15.85646,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Nove Kocbere",
+    "gn:country_code":"CZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069482,
+    "gn:latitude":50.46076,
+    "gn:longitude":15.85646,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Nov\u00e9 Kocb\u00e9\u0159e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nov\u00e1 Ko\u010dbe\u0159",
+        "Neu Rettendorf",
+        "Nov\u00e9 Kocb\u00e9\u0159e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069482
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dd653c91fe9da0371fcf1dcf5ec8626a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360219443,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1360219443,
+    "wof:lastmodified":1537619341,
+    "wof:name":"Nove Kocbere",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85646,
+    50.46076,
+    15.85646,
+    50.46076
+],
+  "geometry": {"coordinates":[15.85646,50.46076],"type":"Point"}
+}

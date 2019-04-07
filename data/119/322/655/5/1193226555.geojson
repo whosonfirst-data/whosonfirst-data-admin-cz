@@ -1,0 +1,71 @@
+{
+  "id": 1193226555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14956,50.29205,17.14956,50.29205",
+    "geom:latitude":50.29205,
+    "geom:longitude":17.14956,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Stare Podhradi",
+    "gn:country_code":"CZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065320,
+    "gn:latitude":50.29205,
+    "gn:longitude":17.14956,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Star\u00e9 Podhrad\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt-Kaltenstein",
+        "Star\u00fd Kalt\u0161tejn",
+        "Star\u00e9 Podhrad\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065320
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cbd48ade7be2813d2a8f942a245666fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193226555,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1193226555,
+    "wof:lastmodified":1537619294,
+    "wof:name":"Stare Podhradi",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14956,
+    50.29205,
+    17.14956,
+    50.29205
+],
+  "geometry": {"coordinates":[17.14956,50.29205],"type":"Point"}
+}

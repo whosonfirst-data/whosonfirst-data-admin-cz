@@ -1,0 +1,135 @@
+{
+  "id": 1125798461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56671,49.89271,15.56671,49.89271",
+    "geom:latitude":49.89271,
+    "geom:longitude":15.56671,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":77,
+    "gn:population":77,
+    "iso:country":"CZ",
+    "lbl:latitude":49.89271,
+    "lbl:longitude":15.56671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:dut_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:eng_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:epo_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:fre_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:ger_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:hun_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:ita_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:may_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0698\u0644\u0628\u0633\u06a9\u0647 \u062e\u0648\u0627\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:por_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:rup_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:slo_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u043b\u0435\u043f\u0441\u043a\u0435 \u0425\u0432\u0430\u043b\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "\u017dlebsk\u00e9 Chvalovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061380,
+    "qs_pg:gn_pop":77,
+    "qs_pg:name":"\u017dlebsk\u00e9 Chvalovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1269014,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":802189,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061380,
+        "gp:id":802189,
+        "qs_pg:id":1269014,
+        "wd:id":"Q2351811"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497291154,
+    "wof:geomhash":"d16069656eeea8e7c47b9d28a54ec29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125798461,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125798461,
+    "wof:lastmodified":1513946099,
+    "wof:name":"\u017dlebsk\u00e9 Chvalovice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56671,
+    49.89271,
+    15.56671,
+    49.89271
+],
+  "geometry": {"coordinates":[15.56671,49.89271],"type":"Point"}
+}

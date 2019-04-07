@@ -1,0 +1,135 @@
+{
+  "id": 1125990249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47701,48.87188,17.47701,48.87188",
+    "geom:latitude":48.87188,
+    "geom:longitude":17.47701,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":698,
+    "gn:population":698,
+    "iso:country":"CZ",
+    "lbl:latitude":48.87188,
+    "lbl:longitude":17.47701,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:dut_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:eng_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:fre_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:hun_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:ita_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:may_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:nan_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0631\u0648\u0628\u0627 \u0648\u0631\u0628\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:por_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:rup_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:slo_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0443\u0431\u0430 \u0412\u0440\u043f\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "name:vie_x_preferred":[
+        "Hrub\u00e1 Vrbka"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3074789,
+    "qs_pg:gn_pop":698,
+    "qs_pg:name":"Hrub\u00e1 Vrbka",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1157747,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790290,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074789,
+        "gp:id":790290,
+        "qs_pg:id":1157747,
+        "wd:id":"Q663980"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299023,
+    "wof:geomhash":"3f852dc81a0e6eda45949a017a0ecaef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125990249,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125990249,
+    "wof:lastmodified":1513945071,
+    "wof:name":"Hrub\u00e1 Vrbka",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":698,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47701,
+    48.87188,
+    17.47701,
+    48.87188
+],
+  "geometry": {"coordinates":[17.47701,48.87188],"type":"Point"}
+}

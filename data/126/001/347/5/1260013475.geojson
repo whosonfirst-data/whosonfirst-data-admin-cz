@@ -1,0 +1,73 @@
+{
+  "id": 1260013475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09331,49.86359,18.09331,49.86359",
+    "geom:latitude":49.86359,
+    "geom:longitude":18.09331,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0806",
+    "gn:asciiname":"Velka Polom",
+    "gn:country_code":"CZ",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063238,
+    "gn:latitude":49.86359,
+    "gn:longitude":18.09331,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Velk\u00e1 Polom",
+    "gn:population":1597,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gross Pohlom"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063238,
+        "wk:page":"Velk%C3%A1_Polom"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"75e79467767aaa0cb0c4832ba8221fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260013475,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1260013475,
+    "wof:lastmodified":1537619273,
+    "wof:name":"Velka Polom",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1597,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09331,
+    49.86359,
+    18.09331,
+    49.86359
+],
+  "geometry": {"coordinates":[18.09331,49.86359],"type":"Point"}
+}

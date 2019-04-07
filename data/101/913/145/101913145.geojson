@@ -1,0 +1,147 @@
+{
+  "id": 101913145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":757315.807027,
+    "geom:bbox":"15.2004703947,50.7182294617,15.235086064,50.7265523056",
+    "geom:latitude":50.723352,
+    "geom:longitude":15.214936,
+    "gn:elevation":9,
+    "iso:country":"CZ",
+    "lbl:latitude":50.720188,
+    "lbl:longitude":15.209429,
+    "mps:latitude":50.720188,
+    "mps:longitude":15.209429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:cze_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:dut_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:eng_x_preferred":[
+        "Shockley Manor"
+    ],
+    "name:eng_x_variant":[
+        "Shockley Mnr",
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:fra_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:ger_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:hun_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:may_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:msa_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:nld_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0648\u0648\u0627 \u0648\u0633 \u0646\u0627\u062f \u0646\u06cc\u0633\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:por_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:rup_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:slk_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0412\u0435\u0441 \u043d\u0430 \u041d\u0438\u0441\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Nov\u00e1 Ves nad Nisou"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Libereck\u00fd",
+    "qs:a1r":"9",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Jablonec nad Nisou",
+    "qs:la_lc":"*CZ0512563510",
+    "qs:level":"locality",
+    "qs:loc":"Nov\u00e1 Ves nad Nisou",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4144693,
+        "gp:id":24930089,
+        "qs:id":1151437,
+        "qs_pg:id":502526,
+        "wd:id":"Q2003155"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5f1013293fe0a417fc83c80689f466e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101913145,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":101913145,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527688562,
+    "wof:name":"Nov\u00e1 Ves nad Nisou",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20047039471677,
+    50.71822946174831,
+    15.23508606399957,
+    50.72655230561452
+],
+  "geometry": {"coordinates":[[[15.20813538013914,50.72655230561452],[15.22791986257477,50.72565584780074],[15.22802021188795,50.72655217199195],[15.22943338943259,50.72648800806343],[15.22933301322973,50.72559168528477],[15.23357244383078,50.72539909388803],[15.23367290070155,50.72629541242583],[15.23508606399957,50.72623117926304],[15.23478462708397,50.72354222692013],[15.23054536849037,50.72373486175815],[15.23044497974752,50.72283853942059],[15.2276188433197,50.72296687328321],[15.22771917829118,50.72386319844645],[15.22347986630581,50.72405557367171],[15.22358012539428,50.72495190274651],[15.21792755208497,50.72520816637973],[15.21782740055079,50.72431183166236],[15.20934859537994,50.72469569940444],[15.20904865337627,50.7220066679559],[15.21187477463468,50.72187878972221],[15.21177474972262,50.72098244807523],[15.21318777814611,50.72091848440584],[15.2128876513521,50.71822946174831],[15.20582287701592,50.71854908591547],[15.20612260056623,50.72123812968357],[15.20179934946583,50.72143348325972],[15.20047039471677,50.72149353437794],[15.20061284568351,50.72277279996405],[15.20067001911912,50.72328623985464],[15.2034962366767,50.72315856650005],[15.20359610978983,50.72405491594344],[15.20500924014533,50.72399105189783],[15.20520905442936,50.72578374700311],[15.20803541207169,50.72565596135968],[15.20813538013914,50.72655230561452]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1193168557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03556,49.56542,15.03556,49.56542",
+    "geom:latitude":49.56542,
+    "geom:longitude":15.03556,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Stary Smrdov",
+    "gn:country_code":"CZ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065234,
+    "gn:latitude":49.56542,
+    "gn:longitude":15.03556,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Star\u00fd Smrdov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065234
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6093190b16d2156d4a8573a149890e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193168557,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1193168557,
+    "wof:lastmodified":1536382997,
+    "wof:name":"Stary Smrdov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03556,
+    49.56542,
+    15.03556,
+    49.56542
+],
+  "geometry": {"coordinates":[15.03556,49.56542],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1125953719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99487,49.98851,17.99487,49.98851",
+    "geom:latitude":49.98851,
+    "geom:longitude":17.99487,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":805,
+    "gn:population":805,
+    "iso:country":"CZ",
+    "lbl:latitude":49.98851,
+    "lbl:longitude":17.99487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:dut_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:eng_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:epo_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:fre_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:hun_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:ita_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:may_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:pol_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:por_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:slo_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0443\u0436\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "name:vie_x_preferred":[
+        "Slu\u017eovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065752,
+    "qs_pg:gn_pop":805,
+    "qs_pg:name":"Slu\u017eovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":383567,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798342,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065752,
+        "gp:id":798342,
+        "qs_pg:id":383567,
+        "wd:id":"Q1855314"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297549,
+    "wof:geomhash":"a732ec51be840d4684b0db8e0c73df4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125953719,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125953719,
+    "wof:lastmodified":1513945696,
+    "wof:name":"Slu\u017eovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":805,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99487,
+    49.98851,
+    17.99487,
+    49.98851
+],
+  "geometry": {"coordinates":[17.99487,49.98851],"type":"Point"}
+}

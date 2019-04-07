@@ -1,0 +1,72 @@
+{
+  "id": 1260214147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44817,50.10572,17.44817,50.10572",
+    "geom:latitude":50.10572,
+    "geom:longitude":17.44817,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Karlovice Predni Ves",
+    "gn:country_code":"CZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073809,
+    "gn:latitude":50.10572,
+    "gn:longitude":17.44817,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Karlovice P\u0159edn\u00ed Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt Karlsthal",
+        "Star\u00e9 Karlovice",
+        "Karlsthal-Vorderdorf",
+        "Karlovice P\u0159edn\u00ed Ves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073809
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c1462c7380eb28feb005928385057af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260214147,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1260214147,
+    "wof:lastmodified":1537619394,
+    "wof:name":"Karlovice Predni Ves",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44817,
+    50.10572,
+    17.44817,
+    50.10572
+],
+  "geometry": {"coordinates":[17.44817,50.10572],"type":"Point"}
+}

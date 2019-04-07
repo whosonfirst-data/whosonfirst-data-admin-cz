@@ -1,0 +1,66 @@
+{
+  "id": 1327167859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45868,49.83975,13.45868,49.83975",
+    "geom:latitude":49.83975,
+    "geom:longitude":13.45868,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Zichlice",
+    "gn:country_code":"CZ",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061481,
+    "gn:latitude":49.83975,
+    "gn:longitude":13.45868,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"\u017dichlice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061481
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4f9d29475b2161775828d4f67ca4b215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327167859,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1327167859,
+    "wof:lastmodified":1537060199,
+    "wof:name":"Zichlice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45868,
+    49.83975,
+    13.45868,
+    49.83975
+],
+  "geometry": {"coordinates":[13.45868,49.83975],"type":"Point"}
+}

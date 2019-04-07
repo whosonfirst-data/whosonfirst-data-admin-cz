@@ -1,0 +1,66 @@
+{
+  "id": 1243293193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76982,50.34418,15.76982,50.34418",
+    "geom:latitude":50.34418,
+    "geom:longitude":15.76982,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Jericky",
+    "gn:country_code":"CZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074299,
+    "gn:latitude":50.34418,
+    "gn:longitude":15.76982,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Je\u0159i\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074299
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2a5d4637c7d7fd0630aae6c2330f0876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243293193,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1243293193,
+    "wof:lastmodified":1537025382,
+    "wof:name":"Jericky",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76982,
+    50.34418,
+    15.76982,
+    50.34418
+],
+  "geometry": {"coordinates":[15.76982,50.34418],"type":"Point"}
+}

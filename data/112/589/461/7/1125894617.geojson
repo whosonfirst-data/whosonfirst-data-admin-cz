@@ -1,0 +1,132 @@
+{
+  "id": 1125894617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73849,49.97142,14.73849,49.97142",
+    "geom:latitude":49.97142,
+    "geom:longitude":14.73849,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":477,
+    "gn:population":477,
+    "iso:country":"CZ",
+    "lbl:latitude":49.97142,
+    "lbl:longitude":14.73849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Svojetice"
+    ],
+    "name:dut_x_preferred":[
+        "Svojetice"
+    ],
+    "name:eng_x_preferred":[
+        "Svojetice"
+    ],
+    "name:fre_x_preferred":[
+        "Svojetice"
+    ],
+    "name:hun_x_preferred":[
+        "Svojetice"
+    ],
+    "name:ita_x_preferred":[
+        "Svojetice"
+    ],
+    "name:may_x_preferred":[
+        "Svojetice"
+    ],
+    "name:pol_x_preferred":[
+        "Svojetice"
+    ],
+    "name:por_x_preferred":[
+        "Svojetice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u043e\u0435\u0442\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Svojetice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u043e\u0458\u0435\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Svojetice"
+    ],
+    "name:unk_x_variant":[
+        "Swojetitz"
+    ],
+    "name:vie_x_preferred":[
+        "Svojetice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064432,
+    "qs_pg:gn_pop":477,
+    "qs_pg:name":"Svojetice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":383617,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799471,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064432,
+        "gp:id":799471,
+        "qs_pg:id":383617,
+        "wd:id":"Q2659875"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295488,
+    "wof:geomhash":"c64bec83d0a93cf513178591de50abe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125894617,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125894617,
+    "wof:lastmodified":1513945774,
+    "wof:name":"Svojetice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":477,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73849,
+    49.97142,
+    14.73849,
+    49.97142
+],
+  "geometry": {"coordinates":[14.73849,49.97142],"type":"Point"}
+}

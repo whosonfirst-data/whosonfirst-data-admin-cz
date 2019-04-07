@@ -1,0 +1,101 @@
+{
+  "id": 101840917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1195980.981433,
+    "geom:bbox":"18.3239275345,49.9070867684,18.3467237772,49.9236627292",
+    "geom:latitude":49.914623,
+    "geom:longitude":18.334326,
+    "gn:population":23034,
+    "iso:country":"CZ",
+    "lbl:latitude":49.915985,
+    "lbl:longitude":18.333549,
+    "mps:latitude":49.915985,
+    "mps:longitude":18.333549,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Star\u00fd Bohum\u00edn"
+    ],
+    "name:ces_x_preferred":[
+        "Star\u00fd Bohum\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "Oderberg"
+    ],
+    "name:epo_x_preferred":[
+        "Star\u00fd Bohum\u00edn"
+    ],
+    "name:pol_x_preferred":[
+        "Stary Bogumin"
+    ],
+    "name:swe_x_preferred":[
+        "Star\u00fd Bohum\u00edn"
+    ],
+    "name:unk_x_variant":[
+        "Bogumin"
+    ],
+    "qs:a0":"Rzeczpospolita Polska",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Rzeczpospolita Polska",
+    "qs:id":0,
+    "qs:la":"Krzy\u017canowice",
+    "qs:la_lc":"*PL2411042",
+    "qs:level":"locality",
+    "qs:loc":"Star\u00fd Bohum\u00edn",
+    "qs:loc_alt":"Stary Bohumin",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":276,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065281,
+        "gp:id":796921,
+        "qs:id":1042981,
+        "wd:id":"Q3487873",
+        "wk:page":"Star\u00fd Bohum\u00edn"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c81b37b328da355e553958a1f3ca9936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101840917,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101840917,
+    "wof:lastmodified":1527715018,
+    "wof:name":"Star\u00fd Bohum\u00edn",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":23034,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32392753449369,
+    49.90708676841098,
+    18.34672377717834,
+    49.92366272921191
+],
+  "geometry": {"coordinates":[[[18.34672377717834,49.91126648761002],[18.34486387363125,49.90743008669909],[18.33737525368207,49.90708676841098],[18.33759116981821,49.90832349964967],[18.33482202565784,49.90852739046124],[18.33497780786524,49.90941989476852],[18.33082397536543,49.90972561114074],[18.33097968889513,49.91061812143931],[18.32544106905965,49.91102551605582],[18.32559668858829,49.91191803452244],[18.32698137692171,49.91181620896822],[18.32713702901043,49.91270872470403],[18.32852173728384,49.91260688011647],[18.32945595393596,49.91796194986841],[18.32807109375437,49.91806380753752],[18.32822679658477,49.9189563194135],[18.32684190570438,49.91905816240711],[18.32699759046176,49.91995067591216],[18.32392753449369,49.92017632963166],[18.32568894337396,49.92366272921191],[18.32623537910939,49.92362256146015],[18.32592400949557,49.92183753394693],[18.33284881687359,49.92132820198492],[18.33269301631429,49.92043569830668],[18.33684776020772,49.92012990339339],[18.33700363673881,49.92102240052452],[18.3383885659286,49.92092043299124],[18.3382326640745,49.9200279380434],[18.33961756255769,49.9199259558369],[18.33883803557609,49.91546348373271],[18.34022280207967,49.91536149558749],[18.34006689314504,49.91446900169342],[18.33868215195679,49.91457098765534],[18.33852627559577,49.91367849102585],[18.33714155434006,49.91378045795125],[18.33667404473709,49.9111029582013],[18.34082796454788,49.91079702651029],[18.34067206659449,49.90990453203699],[18.34482586203757,49.9095984552265],[18.34513781705868,49.91138343051796],[18.34672377717834,49.91126648761002]]],"type":"Polygon"}
+}

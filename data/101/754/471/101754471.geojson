@@ -1,0 +1,119 @@
+{
+  "id": 101754471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:area_square_m":738569.276611,
+    "geom:bbox":"18.473824265,49.7488029262,18.4941866966,49.7568337049",
+    "geom:latitude":49.752681,
+    "geom:longitude":18.48577,
+    "gn:population":4134,
+    "iso:country":"CZ",
+    "lbl:latitude":49.752646,
+    "lbl:longitude":18.48577,
+    "mps:latitude":49.752646,
+    "mps:longitude":18.48577,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "T\u011brlicko"
+    ],
+    "name:ces_x_variant":[
+        "Horn\u00ed T\u011brlicko"
+    ],
+    "name:deu_x_preferred":[
+        "T\u011brlicko"
+    ],
+    "name:deu_x_variant":[
+        "Tierlitzko"
+    ],
+    "name:epo_x_preferred":[
+        "T\u011brlicko"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0644\u06cc\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "T\u011brlicko"
+    ],
+    "name:hun_x_preferred":[
+        "T\u011brlicko"
+    ],
+    "name:ita_x_preferred":[
+        "T\u011brlicko"
+    ],
+    "name:msa_x_preferred":[
+        "T\u011brlicko"
+    ],
+    "name:nld_x_preferred":[
+        "T\u011brlicko"
+    ],
+    "name:pol_x_preferred":[
+        "Cierlicko"
+    ],
+    "name:pol_x_variant":[
+        "G\u00f3rne Cierlicko"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la":"Hav\u00ed\u0159ov",
+    "qs:la_lc":"*CZ0803555088",
+    "qs:level":"locality",
+    "qs:loc":"Horn\u00ed T\u011brlicko",
+    "qs:loc_alt":"Horni Terlicko",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075179,
+        "gp:id":789933,
+        "qs:id":580847,
+        "qs_pg:id":580847
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4308a4fda72d8784daa85c4fc595e865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101754471,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101754471,
+    "wof:lastmodified":1505337744,
+    "wof:name":"Horn\u00ed T\u011brlicko",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":4134,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47382426500673,
+    49.74880292623681,
+    18.49418669655205,
+    49.75683370491424
+],
+  "geometry": {"coordinates":[[[18.47382426500673,49.75173514221689],[18.47390590522343,49.75263318460077],[18.47545892909312,49.75251663071657],[18.47561656217391,49.75340896211128],[18.47699645814686,49.75330535811548],[18.47715412361993,49.75419768673288],[18.48129385426495,49.75388676742375],[18.48145160229399,49.75477908884852],[18.48283152674782,49.75467541330391],[18.48298930717476,49.75556773194972],[18.48850905107759,49.75515285310092],[18.48866693914943,49.75604516233881],[18.49004688664223,49.75594139845759],[18.49020480711948,49.75683370491424],[18.49296473598412,49.7566261223796],[18.49280676534437,49.75573382034452],[18.49418669655205,49.75563000611265],[18.49323887610024,49.7502761951655],[18.49047930917806,49.7504837803171],[18.49032141488914,49.74959147207079],[18.48894164836196,49.74969523726469],[18.48878378646759,49.74880292623681],[18.48602428728589,49.74901040186194],[18.48618209903407,49.74990271730798],[18.47652350560168,49.75062836883939],[18.4766811491383,49.75152069916851],[18.47382426500673,49.75173514221689]]],"type":"Polygon"}
+}

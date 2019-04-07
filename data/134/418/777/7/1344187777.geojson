@@ -1,0 +1,66 @@
+{
+  "id": 1344187777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38333,49.41667,15.38333,49.41667",
+    "geom:latitude":49.41667,
+    "geom:longitude":15.38333,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"U Matejku",
+    "gn:country_code":"CZ",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063619,
+    "gn:latitude":49.41667,
+    "gn:longitude":15.38333,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"U Mat\u011bjk\u016f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063619
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1f14fb9af5eae47b07bc37f1d247ec1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344187777,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1344187777,
+    "wof:lastmodified":1536692157,
+    "wof:name":"U Matejku",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38333,
+    49.41667,
+    15.38333,
+    49.41667
+],
+  "geometry": {"coordinates":[15.38333,49.41667],"type":"Point"}
+}

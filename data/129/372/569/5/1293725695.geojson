@@ -1,0 +1,70 @@
+{
+  "id": 1293725695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33037,49.32022,14.33037,49.32022",
+    "geom:latitude":49.32022,
+    "geom:longitude":14.33037,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Pisecka Smolec",
+    "gn:country_code":"CZ",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068301,
+    "gn:latitude":49.32022,
+    "gn:longitude":14.33037,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"P\u00edseck\u00e1 Smole\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smole\u010d",
+        "P\u00edseck\u00e1 Smole\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068301
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"77fac93be40ccdc8d235266befbbc0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293725695,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293725695,
+    "wof:lastmodified":1537619327,
+    "wof:name":"Pisecka Smolec",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33037,
+    49.32022,
+    14.33037,
+    49.32022
+],
+  "geometry": {"coordinates":[14.33037,49.32022],"type":"Point"}
+}

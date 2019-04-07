@@ -1,0 +1,131 @@
+{
+  "id": 1126018967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98255,50.2114,13.98255,50.2114",
+    "geom:latitude":50.2114,
+    "geom:longitude":13.98255,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":346,
+    "gn:population":346,
+    "iso:country":"CZ",
+    "lbl:latitude":50.2114,
+    "lbl:longitude":13.98255,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:dut_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:may_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0644\u06cc\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:por_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "name:vie_x_preferred":[
+        "Mal\u00edkovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071135,
+    "qs_pg:gn_pop":346,
+    "qs_pg:name":"Mal\u00edkovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":883468,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793499,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071135,
+        "gp:id":793499,
+        "qs_pg:id":883468,
+        "wd:id":"Q2098226"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497300714,
+    "wof:geomhash":"9b1d604485b06ee96e422c659d38be7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126018967,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1126018967,
+    "wof:lastmodified":1513945344,
+    "wof:name":"Mal\u00edkovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":346,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98255,
+    50.2114,
+    13.98255,
+    50.2114
+],
+  "geometry": {"coordinates":[13.98255,50.2114],"type":"Point"}
+}

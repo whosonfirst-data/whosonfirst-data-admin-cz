@@ -1,0 +1,66 @@
+{
+  "id": 1209549757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.75122,49.77033,12.75122,49.77033",
+    "geom:latitude":49.77033,
+    "geom:longitude":12.75122,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Jemnice",
+    "gn:country_code":"CZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074328,
+    "gn:latitude":49.77033,
+    "gn:longitude":12.75122,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Jemnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamnitz",
+        "Jemnice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074328
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4902c6bf8765ecc08aae6d9c8907d011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209549757
+        }
+    ],
+    "wof:id":1209549757,
+    "wof:lastmodified":1537619399,
+    "wof:name":"Jemnice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.75122,
+    49.77033,
+    12.75122,
+    49.77033
+],
+  "geometry": {"coordinates":[12.75122,49.77033],"type":"Point"}
+}

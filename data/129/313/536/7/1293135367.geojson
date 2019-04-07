@@ -1,0 +1,78 @@
+{
+  "id": 1293135367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08333,48.71667,14.08333,48.71667",
+    "geom:latitude":48.71667,
+    "geom:longitude":14.08333,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Radslav",
+    "gn:country_code":"CZ",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067112,
+    "gn:latitude":48.71667,
+    "gn:longitude":14.08333,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Radslav",
+    "gn:population":250,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Radslav"
+    ],
+    "name:deu_x_preferred":[
+        "Rathschlag"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0441\u043b\u0430\u0432"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067112
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cc5fa8e6d9fb0d6e8aa93feed3e49e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293135367,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293135367,
+    "wof:lastmodified":1537619315,
+    "wof:name":"Radslav",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08333,
+    48.71667,
+    14.08333,
+    48.71667
+],
+  "geometry": {"coordinates":[14.08333,48.71667],"type":"Point"}
+}

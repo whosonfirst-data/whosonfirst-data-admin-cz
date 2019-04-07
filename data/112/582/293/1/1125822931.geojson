@@ -1,0 +1,76 @@
+{
+  "id": 1125822931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04735,49.67263,14.04735,49.67263",
+    "geom:latitude":49.67263,
+    "geom:longitude":14.04735,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":242,
+    "gn:population":242,
+    "iso:country":"CZ",
+    "lbl:latitude":49.67263,
+    "lbl:longitude":14.04735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076031,
+    "qs_pg:gn_pop":242,
+    "qs_pg:name":"H\u00e1je",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":580857,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076031,
+        "qs_pg:id":580857
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292152,
+    "wof:geomhash":"7bba828b62d2db9aef593a592fe9fccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125822931,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125822931,
+    "wof:lastmodified":1509394194,
+    "wof:name":"H\u00e1je",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04735,
+    49.67263,
+    14.04735,
+    49.67263
+],
+  "geometry": {"coordinates":[14.04735,49.67263],"type":"Point"}
+}

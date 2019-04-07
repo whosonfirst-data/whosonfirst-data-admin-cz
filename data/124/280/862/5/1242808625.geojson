@@ -1,0 +1,66 @@
+{
+  "id": 1242808625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35558,50.27822,15.35558,50.27822",
+    "geom:latitude":50.27822,
+    "geom:longitude":15.35558,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Dvoriste",
+    "gn:country_code":"CZ",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076260,
+    "gn:latitude":50.27822,
+    "gn:longitude":15.35558,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Dvo\u0159i\u0161t\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076260
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a42b305c258cc6ae4c8be45ba8c8180c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242808625,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1242808625,
+    "wof:lastmodified":1536731319,
+    "wof:name":"Dvoriste",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35558,
+    50.27822000000001,
+    15.35558,
+    50.27822000000001
+],
+  "geometry": {"coordinates":[15.35558,50.27822000000001],"type":"Point"}
+}

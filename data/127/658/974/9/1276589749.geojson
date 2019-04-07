@@ -1,0 +1,66 @@
+{
+  "id": 1276589749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28056,49.28616,15.28056,49.28616",
+    "geom:latitude":49.28616,
+    "geom:longitude":15.28056,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Leskovec",
+    "gn:country_code":"CZ",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072194,
+    "gn:latitude":49.28616,
+    "gn:longitude":15.28056,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"L\u00e9skovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072194
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a5c4e62fa7448e39b952811ba885ce48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276589749,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1276589749,
+    "wof:lastmodified":1536933202,
+    "wof:name":"Leskovec",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28056,
+    49.28616,
+    15.28056,
+    49.28616
+],
+  "geometry": {"coordinates":[15.28056,49.28616],"type":"Point"}
+}

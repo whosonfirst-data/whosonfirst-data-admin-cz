@@ -1,0 +1,70 @@
+{
+  "id": 1260010743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01402,49.87329,13.01402,49.87329",
+    "geom:latitude":49.87329,
+    "geom:longitude":13.01402,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Dlouhe Hradiste",
+    "gn:country_code":"CZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077106,
+    "gn:latitude":49.87329,
+    "gn:longitude":13.01402,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Dlouh\u00e9 Hradi\u0161t\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Langen-Radisch",
+        "Dlouh\u00e9 Hradi\u0161t\u011b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077106
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"19c927c9892795562e7fd9aa78d41962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260010743,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1260010743,
+    "wof:lastmodified":1537619438,
+    "wof:name":"Dlouhe Hradiste",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01402,
+    49.87329,
+    13.01402,
+    49.87329
+],
+  "geometry": {"coordinates":[13.01402,49.87329],"type":"Point"}
+}

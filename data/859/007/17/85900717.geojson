@@ -1,0 +1,127 @@
+{
+  "id": 85900717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":19462616.097522,
+    "geom:bbox":"14.114763,50.146149,14.114763,50.146149",
+    "geom:latitude":50.146149,
+    "geom:longitude":14.114763,
+    "gn:latitude":50.13961,
+    "gn:longitude":14.12011,
+    "iso:country":"CZ",
+    "lbl:latitude":50.146149,
+    "lbl:longitude":14.114763,
+    "mps:latitude":50.13739,
+    "mps:longitude":14.116301,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ces_x_preferred":[
+        "Kro\u010dehlavy"
+    ],
+    "name:cze_x_preferred":[
+        "Krocehlavy"
+    ],
+    "name:eng_x_preferred":[
+        "Kro\u010dehlavy"
+    ],
+    "name:fre_x_preferred":[
+        "Kro\u010dehlavy"
+    ],
+    "name:pol_x_preferred":[
+        "Kro\u010dehlavy"
+    ],
+    "name:unk_x_variant":[
+        "Kro\u010dehlavy",
+        "Krocehlavy"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3073699,
+    "qs:gn_nam_loc":"Kladno, Kladno, Kladno, St\u0159edo\u010desk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"88",
+    "qs:gn_name":"Kro\u010dehlavy",
+    "qs:local_max":341,
+    "qs:local_sum":376,
+    "qs:localhoods":3,
+    "qs:name":"Krocehlavy",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs:name_adm2":"Kladno",
+    "qs:name_lau":"Kladno",
+    "qs:name_local":"Kladno",
+    "qs:photo_max":61,
+    "qs:photo_sum":341,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":43,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070468,
+    "qs:woe_adm2":12582583,
+    "qs:woe_lau":12608143,
+    "qs:woe_local":791229,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":50.133333,
+    "wd:longitude":14.116667,
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191581,
+        101748131,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072653,
+        "gp:id":792140,
+        "qs:id":1168782,
+        "qs_pg:id":1168782,
+        "wd:id":"Q3509224",
+        "wk:page":"Kro\u010dehlavy"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6f0b13878ee835a73e761fa186955328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748131,
+            "neighbourhood_id":85900717,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":85900717,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932373,
+    "wof:name":"Krocehlavy",
+    "wof:parent_id":101748131,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.114763,
+    50.146149,
+    14.114763,
+    50.146149
+],
+  "geometry": {"coordinates":[14.114763,50.146149],"type":"Point"}
+}

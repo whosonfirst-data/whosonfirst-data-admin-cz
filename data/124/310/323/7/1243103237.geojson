@@ -1,0 +1,71 @@
+{
+  "id": 1243103237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88114,50.72233,13.88114,50.72233",
+    "geom:latitude":50.72233,
+    "geom:longitude":13.88114,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0426",
+    "gn:asciiname":"Habartice",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076078,
+    "gn:latitude":50.72233,
+    "gn:longitude":13.88114,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Habartice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ebersdorf",
+        "Habartice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076078
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"427390470ef987e3fae53c0d7a78fcc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243103237,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1243103237,
+    "wof:lastmodified":1537619422,
+    "wof:name":"Habartice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88114,
+    50.72233,
+    13.88114,
+    50.72233
+],
+  "geometry": {"coordinates":[13.88114,50.72233],"type":"Point"}
+}

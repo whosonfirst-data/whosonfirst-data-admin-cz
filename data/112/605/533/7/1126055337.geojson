@@ -1,0 +1,132 @@
+{
+  "id": 1126055337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71814,50.25827,15.71814,50.25827",
+    "geom:latitude":50.25827,
+    "geom:longitude":15.71814,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":294,
+    "gn:population":294,
+    "iso:country":"CZ",
+    "lbl:latitude":50.25827,
+    "lbl:longitude":15.71814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:dut_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:eng_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:fre_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:ger_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:hun_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:ita_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:may_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0631\u0632\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:por_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:slo_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u0437\u0435\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "name:vie_x_preferred":[
+        "St\u0159ezetice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064943,
+    "qs_pg:gn_pop":294,
+    "qs_pg:name":"St\u0159ezetice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1061798,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":24929793,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064943,
+        "gp:id":24929793,
+        "qs_pg:id":1061798,
+        "wd:id":"Q1417034"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497303105,
+    "wof:geomhash":"4b7048d7dfc9bb98792ec35dde97e706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126055337,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1126055337,
+    "wof:lastmodified":1513945759,
+    "wof:name":"St\u0159ezetice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":294,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71814,
+    50.25827,
+    15.71814,
+    50.25827
+],
+  "geometry": {"coordinates":[15.71814,50.25827],"type":"Point"}
+}

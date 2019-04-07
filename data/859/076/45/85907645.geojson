@@ -1,0 +1,97 @@
+{
+  "id": 85907645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1170412.152956,
+    "geom:bbox":"16.567167,49.191856,16.567167,49.191856",
+    "geom:latitude":49.191856,
+    "geom:longitude":16.567167,
+    "gn:latitude":49.19606,
+    "gn:longitude":16.57511,
+    "iso:country":"CZ",
+    "lbl:latitude":49.191856,
+    "lbl:longitude":16.567167,
+    "mps:latitude":49.195166,
+    "mps:longitude":16.563726,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:cze_x_colloquial":[
+        "Pisarky"
+    ],
+    "name:cze_x_preferred":[
+        "Pis\u00e1rky"
+    ],
+    "name:eng_x_preferred":[
+        "Pis\u00e1rky"
+    ],
+    "name:fre_x_preferred":[
+        "Pis\u00e1rky"
+    ],
+    "name:pol_x_preferred":[
+        "Pis\u00e1rky"
+    ],
+    "name:slo_x_preferred":[
+        "Pis\u00e1rky"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748109,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6639902,
+        "gp:id":23407439,
+        "qs:id":1151567,
+        "qs_pg:id":1151567,
+        "wd:id":"Q12045363"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"191c917e3f7749cd8a843139cbd905cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748109,
+            "neighbourhood_id":85907645,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85907645,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531936616,
+    "wof:name":"Pis\u00e1rky",
+    "wof:parent_id":101748109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.567167,
+    49.191856,
+    16.567167,
+    49.191856
+],
+  "geometry": {"coordinates":[16.567167,49.191856],"type":"Point"}
+}

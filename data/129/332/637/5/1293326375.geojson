@@ -1,0 +1,66 @@
+{
+  "id": 1293326375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6341,49.07798,13.6341,49.07798",
+    "geom:latitude":49.07798,
+    "geom:longitude":13.6341,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Zadov",
+    "gn:country_code":"CZ",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062061,
+    "gn:latitude":49.07798,
+    "gn:longitude":13.6341,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Zadov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062061
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"654e21066205fb3888ea2728d8d6323c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293326375,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293326375,
+    "wof:lastmodified":1537018578,
+    "wof:name":"Zadov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6341,
+    49.07798,
+    13.6341,
+    49.07798
+],
+  "geometry": {"coordinates":[13.6341,49.07798],"type":"Point"}
+}

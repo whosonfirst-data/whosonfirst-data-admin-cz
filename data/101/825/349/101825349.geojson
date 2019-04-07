@@ -1,0 +1,114 @@
+{
+  "id": 101825349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":697657.587372,
+    "geom:bbox":"12.6373944261,50.1427395229,12.6532231007,50.1508578699",
+    "geom:latitude":50.146692,
+    "geom:longitude":12.64522,
+    "gn:population":2826,
+    "iso:country":"CZ",
+    "lbl:latitude":50.145953,
+    "lbl:longitude":12.644278,
+    "mps:latitude":50.145953,
+    "mps:longitude":12.644278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "B\u0159ezov\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "B\u0159ezov\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "B\u0159ezov\u00e1 u Sokolova"
+    ],
+    "name:epo_x_preferred":[
+        "B\u0159ezov\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "B\u0159ezov\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "B\u0159ezov\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "B\u0159ezov\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "B\u0159ezov\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "B\u0159ezov\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "B\u0159ezov\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Pr\u00f6sau"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Karlovarsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Doln\u00ed Rychnov",
+    "qs:la_lc":"*CZ0413538591",
+    "qs:level":"locality",
+    "qs:loc":"B\u0159ezov\u00e1",
+    "qs:loc_alt":"Brezova",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078667,
+        "gp:id":786818,
+        "qs:id":876532,
+        "qs_pg:id":1012923,
+        "wd:id":"Q647921",
+        "wk:page":"B\u0159ezov\u00e1 (Sokolov District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"016ec513315ee821f59c956a9c4fea89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825349,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":101825349,
+    "wof:lastmodified":1507750718,
+    "wof:name":"B\u0159ezov\u00e1",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":2826,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.63739442608113,
+    50.14273952290745,
+    12.6532231007327,
+    50.15085786990534
+],
+  "geometry": {"coordinates":[[[12.6532231007327,50.15069551734371],[12.6531730710451,50.14979708671052],[12.651774824602,50.14982959077111],[12.651474853786,50.14443899709016],[12.64728057742656,50.14453639384521],[12.64718076378438,50.14273952290745],[12.63739442608113,50.14296617283298],[12.63749387153746,50.14476305359716],[12.63889197760341,50.14473072500527],[12.63914076375704,50.14922291870334],[12.64333546606235,50.14912581965723],[12.64338530924744,50.15002425548482],[12.6461818213495,50.14995943575195],[12.64623171949876,50.15085786990534],[12.6532231007327,50.15069551734371]]],"type":"Polygon"}
+}

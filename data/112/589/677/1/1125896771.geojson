@@ -1,0 +1,143 @@
+{
+  "id": 1125896771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73409,48.89004,15.73409,48.89004",
+    "geom:latitude":48.89004,
+    "geom:longitude":15.73409,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":250,
+    "gn:population":250,
+    "iso:country":"CZ",
+    "lbl:latitude":48.89004,
+    "lbl:longitude":15.73409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:dut_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:ger_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:hun_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:may_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:nan_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc \u067e\u062a\u0631\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:rup_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:slo_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u041f\u0435\u0442\u0440\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "name:unk_x_variant":[
+        "Alt Petrein"
+    ],
+    "name:vie_x_preferred":[
+        "Star\u00fd Pet\u0159\u00edn"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065251,
+    "qs_pg:gn_pop":250,
+    "qs_pg:name":"Star\u00fd Pet\u0159\u00edn",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":939222,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798777,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065251,
+        "gp:id":798777,
+        "qs_pg:id":939222,
+        "wd:id":"Q654165"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295609,
+    "wof:geomhash":"a51e2f8b806546ef4490e80264005f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125896771,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125896771,
+    "wof:lastmodified":1513945722,
+    "wof:name":"Star\u00fd Pet\u0159\u00edn",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73409,
+    48.89004,
+    15.73409,
+    48.89004
+],
+  "geometry": {"coordinates":[15.73409,48.89004],"type":"Point"}
+}

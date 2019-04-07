@@ -1,0 +1,66 @@
+{
+  "id": 1293619709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39667,49.61215,16.39667,49.61215",
+    "geom:latitude":49.61215,
+    "geom:longitude":16.39667,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Hlasnice",
+    "gn:country_code":"CZ",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075808,
+    "gn:latitude":49.61215,
+    "gn:longitude":16.39667,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Hl\u00e1snice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075808
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"676c74c2f21a6907a3fd836d415dcc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293619709,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1293619709,
+    "wof:lastmodified":1537090505,
+    "wof:name":"Hlasnice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39667,
+    49.61215,
+    16.39667,
+    49.61215
+],
+  "geometry": {"coordinates":[16.39667,49.61215],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343896417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78103,49.61238,17.78103,49.61238",
+    "geom:latitude":49.61238,
+    "geom:longitude":17.78103,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Nejdek",
+    "gn:country_code":"CZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069935,
+    "gn:latitude":49.61238,
+    "gn:longitude":17.78103,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Nejdek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Neudek"
+    ],
+    "name:deu_x_preferred":[
+        "Neudek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069935
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ac8f19faf71cdc92ac25671a324b69ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343896417,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1343896417,
+    "wof:lastmodified":1537619348,
+    "wof:name":"Nejdek",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78102999999999,
+    49.61238,
+    17.78102999999999,
+    49.61238
+],
+  "geometry": {"coordinates":[17.78102999999999,49.61238],"type":"Point"}
+}

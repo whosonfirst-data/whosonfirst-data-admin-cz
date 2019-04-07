@@ -1,0 +1,140 @@
+{
+  "id": 1126017425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84072,49.77435,13.84072,49.77435",
+    "geom:latitude":49.77435,
+    "geom:longitude":13.84072,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1341,
+    "gn:population":1341,
+    "iso:country":"CZ",
+    "lbl:latitude":49.77435,
+    "lbl:longitude":13.84072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:dut_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:eng_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:fre_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:hun_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:ita_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:may_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:nan_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0627\u06cc\u062a\u0634\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:por_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:rup_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:slo_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0458\u0435\u0447\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "name:unk_x_variant":[
+        "Zaj\u00edcov"
+    ],
+    "name:vie_x_preferred":[
+        "Zaje\u010dov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061970,
+    "qs_pg:gn_pop":1341,
+    "qs_pg:name":"Zaje\u010dov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":939355,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801642,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061970,
+        "gp:id":801642,
+        "qs_pg:id":939355,
+        "wd:id":"Q747007"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497300634,
+    "wof:geomhash":"1bbcab200dc62617f90d6de39f37294f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126017425,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1126017425,
+    "wof:lastmodified":1513945944,
+    "wof:name":"Zaje\u010dov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":1341,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84072,
+    49.77435,
+    13.84072,
+    49.77435
+],
+  "geometry": {"coordinates":[13.84072,49.77435],"type":"Point"}
+}

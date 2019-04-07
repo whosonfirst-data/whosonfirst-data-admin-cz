@@ -1,0 +1,153 @@
+{
+  "id": 101781161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":628088.016299,
+    "geom:bbox":"17.0020954953,48.7723756651,17.0184844463,48.7845617161",
+    "geom:latitude":48.778465,
+    "geom:longitude":17.011754,
+    "gn:population":1021,
+    "iso:country":"CZ",
+    "lbl:latitude":48.777942,
+    "lbl:longitude":17.01163,
+    "mps:latitude":48.777942,
+    "mps:longitude":17.01163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:ces_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:cze_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:deu_x_preferred":[
+        "T\u00fdnec na Morav\u011b"
+    ],
+    "name:dut_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:eng_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0646\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:fre_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:ger_x_preferred":[
+        "T\u00fdnec na Morav\u011b"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:ita_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:may_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:msa_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:nld_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u06cc\u0646\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:por_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:rup_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:sgs_x_preferred":[
+        "T\u012bnecos"
+    ],
+    "name:slo_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043d\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00fdnec"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"T\u00fdnec",
+    "qs:la_lc":"*CZ0624584959",
+    "qs:level":"locality",
+    "qs:loc":"T\u00fdnec",
+    "qs:loc_alt":"Tynec",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063814,
+        "gp:id":800028,
+        "qs:id":255322,
+        "qs_pg:id":255322,
+        "wd:id":"Q1023839",
+        "wk:page":"T\u00fdnec (B\u0159eclav District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"852e425b791dafc7c1ec4613e5fbc697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101781161,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101781161,
+    "wof:lastmodified":1553815497,
+    "wof:name":"T\u00fdnec",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1021,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0020954953041,
+    48.7723756651049,
+    17.01848444630679,
+    48.78456171607428
+],
+  "geometry": {"coordinates":[[[17.0178895102448,48.78447616129768],[17.01712925903593,48.77910703913625],[17.01848444630679,48.77902147853763],[17.01823102717935,48.77723177047977],[17.01687588808113,48.77731732753011],[17.01674921124857,48.77642247093559],[17.01403896847279,48.77659353208753],[17.01391234557093,48.77569867141841],[17.01255724189491,48.77578417552104],[17.01230406153678,48.77399444905461],[17.01094900177958,48.7740799331454],[17.01082244431996,48.77318506734861],[17.009467404399,48.77327053320113],[17.00934087677649,48.7723756651049],[17.0079858566919,48.77246111271995],[17.00849190538673,48.7760405890287],[17.00713678472715,48.77612602726424],[17.0072632872039,48.77702089679525],[17.00590813821447,48.77710632033529],[17.00603462235955,48.77800119111083],[17.00332426347592,48.77817199233073],[17.00345070519842,48.7790668661213],[17.0020954953041,48.7791522437999],[17.00234834782702,48.78094199334294],[17.00505885973507,48.78077121443391],[17.00480591085051,48.77898147197442],[17.00887150234399,48.77872519072537],[17.00912459576614,48.78051492255497],[17.01183506522369,48.78034397895937],[17.01208827804135,48.7821337015904],[17.01344355458002,48.78204820154372],[17.01357019372182,48.78294306029545],[17.01628078223462,48.78277200724744],[17.01653417417845,48.78456171607428],[17.0178895102448,48.78447616129768]]],"type":"Polygon"}
+}

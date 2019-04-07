@@ -1,0 +1,66 @@
+{
+  "id": 1243202649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32571,49.36512,16.32571,49.36512",
+    "geom:latitude":49.36512,
+    "geom:longitude":16.32571,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0623",
+    "gn:asciiname":"Ujezd",
+    "gn:country_code":"CZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063692,
+    "gn:latitude":49.36512,
+    "gn:longitude":16.32571,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"\u00dajezd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063692
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ca85fcdd28f93896961a463afe509a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243202649,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1243202649,
+    "wof:lastmodified":1536660260,
+    "wof:name":"Ujezd",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32571,
+    49.36512000000001,
+    16.32571,
+    49.36512000000001
+],
+  "geometry": {"coordinates":[16.32571,49.36512000000001],"type":"Point"}
+}

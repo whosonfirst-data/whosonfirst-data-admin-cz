@@ -1,0 +1,71 @@
+{
+  "id": 1293723147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36034,50.64054,16.36034,50.64054",
+    "geom:latitude":50.64054,
+    "geom:longitude":16.36034,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Janovicky",
+    "gn:country_code":"CZ",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074487,
+    "gn:latitude":50.64054,
+    "gn:longitude":16.36034,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Janovi\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Janovice",
+        "Johannesberg",
+        "Janovi\u010dky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074487
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"37bcb87c2d9e7bac2d580a733d01573e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293723147,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293723147,
+    "wof:lastmodified":1537619401,
+    "wof:name":"Janovicky",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36034,
+    50.64054,
+    16.36034,
+    50.64054
+],
+  "geometry": {"coordinates":[16.36034,50.64054],"type":"Point"}
+}

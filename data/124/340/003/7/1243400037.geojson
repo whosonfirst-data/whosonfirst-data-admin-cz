@@ -1,0 +1,66 @@
+{
+  "id": 1243400037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06667,50.0,13.06667,50.0",
+    "geom:latitude":50.0,
+    "geom:longitude":13.06667,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Nova Sazava",
+    "gn:country_code":"CZ",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069659,
+    "gn:latitude":50.0,
+    "gn:longitude":13.06667,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Nov\u00e1 S\u00e1zava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069659
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e23bbf0ca5b8d026c672bdba91905a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243400037,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1243400037,
+    "wof:lastmodified":1536871382,
+    "wof:name":"Nova Sazava",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06667,
+    50.0,
+    13.06667,
+    50.0
+],
+  "geometry": {"coordinates":[13.06667,50.0],"type":"Point"}
+}

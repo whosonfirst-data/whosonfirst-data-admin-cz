@@ -1,0 +1,70 @@
+{
+  "id": 1226276635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3846,50.28118,13.3846,50.28118",
+    "geom:latitude":50.28118,
+    "geom:longitude":13.3846,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Siroke Trebcice",
+    "gn:country_code":"CZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066101,
+    "gn:latitude":50.28118,
+    "gn:longitude":13.3846,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"\u0160irok\u00e9 T\u0159eb\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weiten T\u0159ebetitsch",
+        "\u0160irok\u00e9 T\u0159eb\u010dice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066101
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9ddf82a68551dcc2e951d47ba5e366ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226276635,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1226276635,
+    "wof:lastmodified":1537619304,
+    "wof:name":"Siroke Trebcice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.3846,
+    50.28118,
+    13.3846,
+    50.28118
+],
+  "geometry": {"coordinates":[13.3846,50.28118],"type":"Point"}
+}

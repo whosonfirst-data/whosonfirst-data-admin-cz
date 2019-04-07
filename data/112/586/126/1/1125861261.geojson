@@ -1,0 +1,146 @@
+{
+  "id": 1125861261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67855,50.8074,14.67855,50.8074",
+    "geom:latitude":50.8074,
+    "geom:longitude":14.67855,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":347,
+    "gn:population":347,
+    "iso:country":"CZ",
+    "lbl:latitude":50.8074,
+    "lbl:longitude":14.67855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:dut_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:eng_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:fre_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:ger_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:hsb_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:hun_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:ita_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:may_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:nan_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0631\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:por_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:rup_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:slo_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0436\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "name:unk_x_variant":[
+        "Gross-Mergthal"
+    ],
+    "name:vie_x_preferred":[
+        "Ma\u0159enice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071032,
+    "qs_pg:gn_pop":347,
+    "qs_pg:name":"Ma\u0159enice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":208220,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793590,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071032,
+        "gp:id":793590,
+        "qs_pg:id":208220,
+        "wd:id":"Q970930"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293839,
+    "wof:geomhash":"021d7cda3a2eda8b0ba7371e4c2e6c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125861261,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1125861261,
+    "wof:lastmodified":1513945351,
+    "wof:name":"Ma\u0159enice",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:population":347,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67855,
+    50.8074,
+    14.67855,
+    50.8074
+],
+  "geometry": {"coordinates":[14.67855,50.8074],"type":"Point"}
+}

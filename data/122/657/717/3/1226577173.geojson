@@ -1,0 +1,71 @@
+{
+  "id": 1226577173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6,48.9,16.6,48.9",
+    "geom:latitude":48.9,
+    "geom:longitude":16.6,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0623",
+    "gn:asciiname":"Musov",
+    "gn:country_code":"CZ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070193,
+    "gn:latitude":48.9,
+    "gn:longitude":16.6,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Mu\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muschau",
+        "Mu\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070193,
+        "wk:page":"Mu%C5%A1ov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8cf159db478f7ba9b4b830a291b34564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226577173,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1226577173,
+    "wof:lastmodified":1537619351,
+    "wof:name":"Musov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6,
+    48.9,
+    16.6,
+    48.9
+],
+  "geometry": {"coordinates":[16.6,48.9],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343390219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6625,49.66012,16.6625,49.66012",
+    "geom:latitude":49.66012,
+    "geom:longitude":16.6625,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Zadni Arnostov",
+    "gn:country_code":"CZ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062095,
+    "gn:latitude":49.66012,
+    "gn:longitude":16.6625,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Zadn\u00ed Arno\u0161tov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hinter Ehrnsdorf",
+        "Zadn\u00ed Arno\u0161tov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062095
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a1a951a92772e0f706ad042ca8154ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343390219,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1343390219,
+    "wof:lastmodified":1537619261,
+    "wof:name":"Zadni Arnostov",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6625,
+    49.66012,
+    16.6625,
+    49.66012
+],
+  "geometry": {"coordinates":[16.6625,49.66012],"type":"Point"}
+}

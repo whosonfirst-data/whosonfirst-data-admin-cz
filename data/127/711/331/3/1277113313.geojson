@@ -1,0 +1,82 @@
+{
+  "id": 1277113313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85315,49.18478,14.85315,49.18478",
+    "geom:latitude":49.18478,
+    "geom:longitude":14.85315,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Kardasova Recice",
+    "gn:country_code":"CZ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073850,
+    "gn:latitude":49.18478,
+    "gn:longitude":14.85315,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Karda\u0161ova \u0158e\u010dice",
+    "gn:population":2071,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0434\u0430\u0448\u043e\u0432\u0430-\u0420\u0436\u0435\u0447\u0438\u0446\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0434\u0430\u0448\u043e\u0432\u0430 \u0420\u0435\u0447\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kardasch \u0158e\u010dice"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u9054\u7d39\u74e6\u71b1\u5947\u91c7"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073850,
+        "wk:page":"Karda%C5%A1ova_%C5%98e%C4%8Dice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b0baa557fdd3554173fa07271d1b94f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277113313,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1277113313,
+    "wof:lastmodified":1537619395,
+    "wof:name":"Kardasova Recice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":2071,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85315,
+    49.18478,
+    14.85315,
+    49.18478
+],
+  "geometry": {"coordinates":[14.85315,49.18478],"type":"Point"}
+}

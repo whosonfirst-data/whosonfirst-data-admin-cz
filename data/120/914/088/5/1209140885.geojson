@@ -1,0 +1,65 @@
+{
+  "id": 1209140885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67492,49.2624,13.67492,49.2624",
+    "geom:latitude":49.2624,
+    "geom:longitude":13.67492,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Nezamyslice",
+    "gn:country_code":"CZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069774,
+    "gn:latitude":49.2624,
+    "gn:longitude":13.67492,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Nezamyslice",
+    "gn:population":195,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069774
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a85971f073c4733a43fbfad7d7223efa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209140885
+        }
+    ],
+    "wof:id":1209140885,
+    "wof:lastmodified":1536296509,
+    "wof:name":"Nezamyslice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:population":195,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.674920000000002,
+    49.2624,
+    13.674920000000002,
+    49.2624
+],
+  "geometry": {"coordinates":[13.67492,49.2624],"type":"Point"}
+}

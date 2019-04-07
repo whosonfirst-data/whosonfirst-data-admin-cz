@@ -1,0 +1,66 @@
+{
+  "id": 1260116585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06858,49.2127,15.06858,49.2127",
+    "geom:latitude":49.2127,
+    "geom:longitude":15.06858,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Pychov",
+    "gn:country_code":"CZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067298,
+    "gn:latitude":49.2127,
+    "gn:longitude":15.06858,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"P\u00fdchov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067298
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8846834dd3f2b48b0fb735208444c4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260116585,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260116585,
+    "wof:lastmodified":1536941005,
+    "wof:name":"Pychov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06858,
+    49.2127,
+    15.06858,
+    49.2127
+],
+  "geometry": {"coordinates":[15.06858,49.2127],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293425857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85229,49.60592,13.85229,49.60592",
+    "geom:latitude":49.60592,
+    "geom:longitude":13.85229,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Stary Rozmital",
+    "gn:country_code":"CZ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065242,
+    "gn:latitude":49.60592,
+    "gn:longitude":13.85229,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Star\u00fd Ro\u017emit\u00e1l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065242
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9d3c987dcca0bd6048de402fc0cdf37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293425857,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293425857,
+    "wof:lastmodified":1536874924,
+    "wof:name":"Stary Rozmital",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85229,
+    49.60592000000001,
+    13.85229,
+    49.60592000000001
+],
+  "geometry": {"coordinates":[13.85229,49.60592000000001],"type":"Point"}
+}

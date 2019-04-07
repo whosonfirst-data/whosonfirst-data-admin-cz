@@ -1,0 +1,70 @@
+{
+  "id": 1225878297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55566,49.75718,14.55566,49.75718",
+    "geom:latitude":49.75718,
+    "geom:longitude":14.55566,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Dubovka",
+    "gn:country_code":"CZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076318,
+    "gn:latitude":49.75718,
+    "gn:longitude":14.55566,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Dubovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dubowka",
+        "Dubovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076318
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"72e6e18f0f7b61d7848aba4a741ed290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225878297,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1225878297,
+    "wof:lastmodified":1537619426,
+    "wof:name":"Dubovka",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55566,
+    49.75718,
+    14.55566,
+    49.75718
+],
+  "geometry": {"coordinates":[14.55566,49.75718],"type":"Point"}
+}

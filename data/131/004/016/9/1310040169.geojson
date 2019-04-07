@@ -1,0 +1,66 @@
+{
+  "id": 1310040169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0,48.83333,16.0,48.83333",
+    "geom:latitude":48.83333,
+    "geom:longitude":16.0,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0627",
+    "gn:asciiname":"Trouznice",
+    "gn:country_code":"CZ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063937,
+    "gn:latitude":48.83333,
+    "gn:longitude":16.0,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Trouznice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063937
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"eb8edc3924ac8cd8333d4e8ff70038a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310040169,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1310040169,
+    "wof:lastmodified":1537087499,
+    "wof:name":"Trouznice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0,
+    48.83333,
+    16.0,
+    48.83333
+],
+  "geometry": {"coordinates":[16.0,48.83333],"type":"Point"}
+}

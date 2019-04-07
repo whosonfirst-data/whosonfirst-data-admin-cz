@@ -1,0 +1,70 @@
+{
+  "id": 1327271029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43333,48.98333,13.43333,48.98333",
+    "geom:latitude":48.98333,
+    "geom:longitude":13.43333,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Rokelska Chalupa",
+    "gn:country_code":"CZ",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066797,
+    "gn:latitude":48.98333,
+    "gn:longitude":13.43333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Rokelsk\u00e1 Chalupa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roklansk\u00e1 Chata",
+        "Rokelsk\u00e1 Chalupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066797
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bae69420bfd154f90c3692d9a9384856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327271029,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1327271029,
+    "wof:lastmodified":1537619313,
+    "wof:name":"Rokelska Chalupa",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43333,
+    48.98333,
+    13.43333,
+    48.98333
+],
+  "geometry": {"coordinates":[13.43333,48.98333],"type":"Point"}
+}

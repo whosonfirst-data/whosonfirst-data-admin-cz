@@ -1,0 +1,149 @@
+{
+  "id": 1126016417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45455,49.16948,13.45455,49.16948",
+    "geom:latitude":49.16948,
+    "geom:longitude":13.45455,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1189,
+    "gn:population":1189,
+    "iso:country":"CZ",
+    "lbl:latitude":49.16948,
+    "lbl:longitude":13.45455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u54c8\u723e\u7279\u99ac\u5c3c\u91c7"
+    ],
+    "name:cze_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:dut_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:eng_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:fre_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:ger_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:hun_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:ita_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:may_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0627\u0631\u062a\u0645\u0627\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:por_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:rup_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0442\u043c\u0430\u043d\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0440\u0442\u043c\u0430\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hartmanice"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0430\u0440\u0442\u043c\u0430\u043d\u0438\u0442\u0441\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Hartmanitz"
+    ],
+    "name:vie_x_preferred":[
+        "Hartmanice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075949,
+    "qs_pg:gn_pop":1189,
+    "qs_pg:name":"Hartmanice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":938697,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":789236,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075949,
+        "gp:id":789236,
+        "qs_pg:id":938697,
+        "wd:id":"Q1501040"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497300576,
+    "wof:geomhash":"b0b5e062f6dac7bcee079833e2b166af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126016417,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1126016417,
+    "wof:lastmodified":1553816703,
+    "wof:name":"Hartmanice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":1189,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45455,
+    49.16948,
+    13.45455,
+    49.16948
+],
+  "geometry": {"coordinates":[13.45455,49.16948],"type":"Point"}
+}

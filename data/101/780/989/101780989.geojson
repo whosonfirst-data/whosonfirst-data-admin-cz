@@ -1,0 +1,145 @@
+{
+  "id": 101780989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":628036.560831,
+    "geom:bbox":"16.6908354025,49.0751424446,16.7046972113,49.0878380734",
+    "geom:latitude":49.082326,
+    "geom:longitude":16.695655,
+    "gn:population":1657,
+    "iso:country":"CZ",
+    "lbl:latitude":49.081491,
+    "lbl:longitude":16.694395,
+    "mps:latitude":49.081491,
+    "mps:longitude":16.694395,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:ces_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:cze_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:dut_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:ger_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:hun_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:may_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:msa_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u0646\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:slo_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "name:unk_x_variant":[
+        "M\u00f6nitz"
+    ],
+    "name:vie_x_preferred":[
+        "M\u011bn\u00edn"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"M\u011bn\u00edn",
+    "qs:la_lc":"*CZ0623583383",
+    "qs:level":"locality",
+    "qs:loc":"M\u011bn\u00edn",
+    "qs:loc_alt":"Menin",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070853,
+        "gp:id":793748,
+        "qs:id":145359,
+        "qs_pg:id":145359,
+        "wd:id":"Q1639245",
+        "wk:page":"M\u011bn\u00edn"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f0d07918fe6c9ac8f9907e65abb8a5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101780989,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101780989,
+    "wof:lastmodified":1527715877,
+    "wof:name":"M\u011bn\u00edn",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1657,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69083540252268,
+    49.07514244456041,
+    16.70469721128876,
+    49.08783807340052
+],
+  "geometry": {"coordinates":[[[16.70469721128876,49.08628883213976],[16.70457500328735,49.08539368768379],[16.70048297787713,49.08563908837465],[16.70023872572278,49.08384878771051],[16.69887475800232,49.08393055132501],[16.69863057724405,49.08214024526751],[16.69726665440572,49.08222198886375],[16.69665642290875,49.07774620654561],[16.69529261845679,49.07782792499398],[16.69492662014818,49.07514244456041],[16.69083540252268,49.07538748495801],[16.69205485743555,49.08433912045609],[16.69341884580831,49.08425743982212],[16.69390688228901,49.08783807340052],[16.70209131404289,49.08734760001062],[16.70196914946325,49.08645245262187],[16.70469721128876,49.08628883213976]]],"type":"Polygon"}
+}

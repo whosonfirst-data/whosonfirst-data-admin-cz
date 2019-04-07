@@ -1,0 +1,96 @@
+{
+  "id": 1310629457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43427,49.05225,14.43427,49.05225",
+    "geom:latitude":49.05225,
+    "geom:longitude":14.43427,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Hluboka nad Vltavou",
+    "gn:country_code":"CZ",
+    "gn:dem":398,
+    "gn:elevation":"394.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075731,
+    "gn:latitude":49.05225,
+    "gn:longitude":14.43427,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Hlubok\u00e1 nad Vltavou",
+    "gn:population":4682,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0413\u043b\u0443\u0431\u043e\u043a\u0430-\u043d\u0430\u0434-\u0412\u043b\u0442\u0430\u0432\u0430\u0439"
+    ],
+    "name:deu_x_preferred":[
+        "Hluboka nad Vltavou"
+    ],
+    "name:rus_x_historical":[
+        "\u0424\u0440\u0430\u0443\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0431\u043e\u043a\u0430-\u043d\u0430\u0434-\u0412\u043b\u0442\u0430\u0432\u043e\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0424\u0440\u0430\u0443\u0435\u043d\u0431\u0435\u0440\u0433",
+        "\u0413\u043b\u0443\u0431\u043e\u043a\u0430-\u043d\u0430\u0434-\u0412\u043b\u0442\u0430\u0432\u043e\u0443"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043b\u0443\u0431\u043e\u043a\u0430 \u043d\u0430 \u0412\u043b\u0442\u0430\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Frauenberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0f\u723e\u5854\u74e6\u6cb3\u7554\u8d6b\u76e7\u535a\u5361"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075731,
+        "wk:page":"Hlubok%C3%A1_nad_Vltavou"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"92d9a2908bbb157daefe2035d1deb7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310629457,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1310629457,
+    "wof:lastmodified":1537619418,
+    "wof:name":"Hluboka nad Vltavou",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":4682,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43427,
+    49.05225,
+    14.43427,
+    49.05225
+],
+  "geometry": {"coordinates":[14.43427,49.05225],"type":"Point"}
+}

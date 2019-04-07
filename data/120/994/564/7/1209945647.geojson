@@ -1,0 +1,66 @@
+{
+  "id": 1209945647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06888,49.37133,13.06888,49.37133",
+    "geom:latitude":49.37133,
+    "geom:longitude":13.06888,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Hluboka",
+    "gn:country_code":"CZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075740,
+    "gn:latitude":49.37133,
+    "gn:longitude":13.06888,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Hlubok\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075740
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d3a45ad8330846e9b7f586a025e97f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209945647,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1209945647,
+    "wof:lastmodified":1536386514,
+    "wof:name":"Hluboka",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06888,
+    49.37133,
+    13.06888,
+    49.37133
+],
+  "geometry": {"coordinates":[13.06888,49.37133],"type":"Point"}
+}

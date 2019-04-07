@@ -1,0 +1,66 @@
+{
+  "id": 1225875747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83694,50.45805,13.83694,50.45805",
+    "geom:latitude":50.45805,
+    "geom:longitude":13.83694,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0424",
+    "gn:asciiname":"Vsechlapy",
+    "gn:country_code":"CZ",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062377,
+    "gn:latitude":50.45805,
+    "gn:longitude":13.83694,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"V\u0161echlapy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062377
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b148b4d10176e692c3e1b0d407596576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225875747,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1225875747,
+    "wof:lastmodified":1536970162,
+    "wof:name":"Vsechlapy",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83694,
+    50.45805,
+    13.83694,
+    50.45805
+],
+  "geometry": {"coordinates":[13.83694,50.45805],"type":"Point"}
+}

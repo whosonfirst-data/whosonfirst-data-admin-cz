@@ -1,0 +1,70 @@
+{
+  "id": 1310532359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70457,49.69245,18.70457,49.69245",
+    "geom:latitude":49.69245,
+    "geom:longitude":18.70457,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Horni Listna",
+    "gn:country_code":"CZ",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075311,
+    "gn:latitude":49.69245,
+    "gn:longitude":18.70457,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Horn\u00ed L\u00ed\u0161tn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horn\u00ed L\u00ed\u0161tn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075311,
+        "wk:page":"Horn%C3%AD_L%C3%AD%C5%A1tn%C3%A1"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"536d3ba917648cdaa85afce00de35c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310532359,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1310532359,
+    "wof:lastmodified":1537619412,
+    "wof:name":"Horni Listna",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70457,
+    49.69245,
+    18.70457,
+    49.69245
+],
+  "geometry": {"coordinates":[18.70457,49.69245],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243009681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28058,49.23257,13.28058,49.23257",
+    "geom:latitude":49.23257,
+    "geom:longitude":13.28058,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Onen Svet",
+    "gn:country_code":"CZ",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068960,
+    "gn:latitude":49.23257,
+    "gn:longitude":13.28058,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Onen Sv\u011bt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jenewelt",
+        "Onen Sv\u011bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068960
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"88063f639c24b3f0aa5abc5b69219849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243009681,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1243009681,
+    "wof:lastmodified":1537619334,
+    "wof:name":"Onen Svet",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28058,
+    49.23257,
+    13.28058,
+    49.23257
+],
+  "geometry": {"coordinates":[13.28058,49.23257],"type":"Point"}
+}

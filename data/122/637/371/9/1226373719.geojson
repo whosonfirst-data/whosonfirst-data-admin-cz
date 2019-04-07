@@ -1,0 +1,70 @@
+{
+  "id": 1226373719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88758,50.61146,13.88758,50.61146",
+    "geom:latitude":50.61146,
+    "geom:longitude":13.88758,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0426",
+    "gn:asciiname":"Velvety",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063108,
+    "gn:latitude":50.61146,
+    "gn:longitude":13.88758,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Velv\u011bty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Welboth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063108
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"820cff348929b642fa57e6a9ed433204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226373719,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1226373719,
+    "wof:lastmodified":1537619271,
+    "wof:name":"Velvety",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88758,
+    50.61146,
+    13.88758,
+    50.61146
+],
+  "geometry": {"coordinates":[13.88758,50.61146],"type":"Point"}
+}

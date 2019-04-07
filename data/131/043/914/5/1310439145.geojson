@@ -1,0 +1,66 @@
+{
+  "id": 1310439145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63296,50.14213,14.63296,50.14213",
+    "geom:latitude":50.14213,
+    "geom:longitude":14.63296,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0209",
+    "gn:asciiname":"Dehtary",
+    "gn:country_code":"CZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077221,
+    "gn:latitude":50.14213,
+    "gn:longitude":14.63296,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Deht\u00e1ry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077221
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6f241d715c2b8993941009c216cabfe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310439145,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1310439145,
+    "wof:lastmodified":1537012075,
+    "wof:name":"Dehtary",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63296,
+    50.14213,
+    14.63296,
+    50.14213
+],
+  "geometry": {"coordinates":[14.63296,50.14213],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101826595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":936991.991074,
+    "geom:bbox":"17.3694262505,49.4603826546,17.400597774,49.4681508689",
+    "geom:latitude":49.464685,
+    "geom:longitude":17.384468,
+    "gn:population":1422,
+    "iso:country":"CZ",
+    "lbl:latitude":49.465046,
+    "lbl:longitude":17.379273,
+    "mps:latitude":49.465046,
+    "mps:longitude":17.379273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:deu_x_preferred":[
+        "Rokytnice u Slavi\u010d\u00edna"
+    ],
+    "name:fra_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:hun_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:ita_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:msa_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:nld_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:pol_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:por_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:slk_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:unk_x_variant":[
+        "Roketnitz"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Olomouck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Rokytnice",
+    "qs:la_lc":"*CZ0714517607",
+    "qs:level":"locality",
+    "qs:loc":"Rokytnice",
+    "qs:loc_alt":"Rokytnice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066788,
+        "gp:id":797422,
+        "qs:id":183264,
+        "qs_pg:id":358171,
+        "wd:id":"Q597389"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7d176cda11587b26e4aa44df8df1df77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826595,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":101826595,
+    "wof:lastmodified":1527642501,
+    "wof:name":"Rokytnice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":1422,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36942625050682,
+    49.46038265461209,
+    17.40059777401751,
+    49.4681508688887
+],
+  "geometry": {"coordinates":[[[17.39798699313712,49.46787981617598],[17.39785057254585,49.46698574529148],[17.40059777401751,49.46680496371579],[17.40046130994369,49.46591089614225],[17.39771415825214,49.46609167389391],[17.39757775025612,49.46519760198373],[17.39620419230943,49.46528796387236],[17.39579508076179,49.46260573933034],[17.39442159281936,49.4626960787694],[17.3941489330299,49.4609079226891],[17.39140204271644,49.4610885437782],[17.39181089252537,49.46377078858939],[17.38356966193356,49.46431228503081],[17.38343352170256,49.46341819248721],[17.38068645740384,49.4635985537484],[17.38055037323414,49.4627044568781],[17.37917685900078,49.46279461052603],[17.37904080600026,49.46190051123699],[17.37766731200742,49.46199064626194],[17.37753129017415,49.46109654455461],[17.37478433802556,49.46127676064253],[17.37464837224348,49.46038265461209],[17.37190145129142,49.46056280002409],[17.37203736729947,49.4614569098643],[17.3706638749718,49.46154695940015],[17.37079977236522,49.46244107063336],[17.36942625050682,49.4625311053565],[17.36956212928351,49.46342521798255],[17.37093567603165,49.46333518135515],[17.37107158597223,49.46422929156557],[17.37244515296891,49.46413923631593],[17.37258109407543,49.46503334411028],[17.37395468132007,49.46494327023765],[17.37409065359549,49.46583737561548],[17.37546426108776,49.46574728311953],[17.37560026453394,49.46664138608008],[17.3769738922739,49.46655127495978],[17.37710992689335,49.46744537550285],[17.38809898059043,49.46672386941975],[17.38823522064291,49.46761795418951],[17.393729735389,49.4672567922708],[17.39386608130383,49.4681508688887],[17.39798699313712,49.46787981617598]]],"type":"Polygon"}
+}

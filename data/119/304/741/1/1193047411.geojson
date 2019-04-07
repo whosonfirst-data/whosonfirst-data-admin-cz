@@ -1,0 +1,71 @@
+{
+  "id": 1193047411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.71718,49.72419,12.71718,49.72419",
+    "geom:latitude":49.72419,
+    "geom:longitude":12.71718,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Mchov",
+    "gn:country_code":"CZ",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070912,
+    "gn:latitude":49.72419,
+    "gn:longitude":12.71718,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Mchov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jnn\u00edchen",
+        "Innichen",
+        "Mchov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070912
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"119be6758cfbaf33a860ea17b76eb327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193047411,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1193047411,
+    "wof:lastmodified":1537619361,
+    "wof:name":"Mchov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.71718,
+    49.72419,
+    12.71718,
+    49.72419
+],
+  "geometry": {"coordinates":[12.71718,49.72419],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193170873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33624,49.1405,15.33624,49.1405",
+    "geom:latitude":49.1405,
+    "geom:longitude":15.33624,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Velka Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063248,
+    "gn:latitude":49.1405,
+    "gn:longitude":15.33624,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Velk\u00e1 Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gross Lhotta",
+        "Velk\u00e1 Lhota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063248
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cccf87d3e5de838084a6c98bfe6e51a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193170873,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1193170873,
+    "wof:lastmodified":1537619273,
+    "wof:name":"Velka Lhota",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33624,
+    49.1405,
+    15.33624,
+    49.1405
+],
+  "geometry": {"coordinates":[15.33624,49.1405],"type":"Point"}
+}

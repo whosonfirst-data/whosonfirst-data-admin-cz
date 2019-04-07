@@ -1,0 +1,62 @@
+{
+  "id": 1209140905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92192,50.23493,13.92192,50.23493",
+    "geom:latitude":50.23493,
+    "geom:longitude":13.92192,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0203",
+    "gn:asciiname":"Hresice",
+    "gn:country_code":"CZ",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074840,
+    "gn:latitude":50.23493,
+    "gn:longitude":13.92192,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"H\u0159e\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074840
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8891ec455abc08dc64c759b8da029555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209140905
+        }
+    ],
+    "wof:id":1209140905,
+    "wof:lastmodified":1536296508,
+    "wof:name":"Hresice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.921920000000002,
+    50.23493,
+    13.921920000000002,
+    50.23493
+],
+  "geometry": {"coordinates":[13.92192,50.23493],"type":"Point"}
+}

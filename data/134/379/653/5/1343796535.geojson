@@ -1,0 +1,73 @@
+{
+  "id": 1343796535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41027,49.50118,16.41027,49.50118",
+    "geom:latitude":49.50118,
+    "geom:longitude":16.41027,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Hodonin",
+    "gn:country_code":"CZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075653,
+    "gn:latitude":49.50118,
+    "gn:longitude":16.41027,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Hodon\u00edn",
+    "gn:population":142,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0434\u043e\u043d\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075653,
+        "wk:page":"Hodon%C3%ADn_%28Blansko_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"53968077a627cee0866dd1960cdb8e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343796535,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1343796535,
+    "wof:lastmodified":1537619417,
+    "wof:name":"Hodonin",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":142,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41027,
+    49.50118,
+    16.41027,
+    49.50118
+],
+  "geometry": {"coordinates":[16.41027,49.50118],"type":"Point"}
+}

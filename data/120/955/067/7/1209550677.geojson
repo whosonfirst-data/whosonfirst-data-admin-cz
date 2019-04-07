@@ -1,0 +1,62 @@
+{
+  "id": 1209550677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74456,49.61556,14.74456,49.61556",
+    "geom:latitude":49.61556,
+    "geom:longitude":14.74456,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Ceckov",
+    "gn:country_code":"CZ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078194,
+    "gn:latitude":49.61556,
+    "gn:longitude":14.74456,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"\u010ce\u010dkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078194
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"473a0bd62a96b29e889661b5c11556a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209550677
+        }
+    ],
+    "wof:id":1209550677,
+    "wof:lastmodified":1536283705,
+    "wof:name":"Ceckov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74456,
+    49.61556,
+    14.74456,
+    49.61556
+],
+  "geometry": {"coordinates":[14.74456,49.61556],"type":"Point"}
+}

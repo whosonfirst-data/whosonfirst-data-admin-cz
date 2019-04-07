@@ -1,0 +1,66 @@
+{
+  "id": 1327065815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16167,49.56798,16.16167,49.56798",
+    "geom:latitude":49.56798,
+    "geom:longitude":16.16167,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Vojtechov",
+    "gn:country_code":"CZ",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062610,
+    "gn:latitude":49.56798,
+    "gn:longitude":16.16167,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Vojt\u011bchov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062610
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b86a4d36516cd912364e1d5686c37a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327065815,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1327065815,
+    "wof:lastmodified":1536712501,
+    "wof:name":"Vojtechov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16167,
+    49.56798,
+    16.16167,
+    49.56798
+],
+  "geometry": {"coordinates":[16.16167,49.56798],"type":"Point"}
+}

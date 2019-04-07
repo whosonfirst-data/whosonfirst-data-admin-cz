@@ -1,0 +1,66 @@
+{
+  "id": 1343592085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41025,48.98984,17.41025,48.98984",
+    "geom:latitude":48.98984,
+    "geom:longitude":17.41025,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0722",
+    "gn:asciiname":"Kvacice",
+    "gn:country_code":"CZ",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072457,
+    "gn:latitude":48.98984,
+    "gn:longitude":17.41025,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Kva\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072457
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5cf1499a0a362d8af09cca9c5abad7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343592085,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1343592085,
+    "wof:lastmodified":1537051679,
+    "wof:name":"Kvacice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41025,
+    48.98984,
+    17.41025,
+    48.98984
+],
+  "geometry": {"coordinates":[17.41025,48.98984],"type":"Point"}
+}

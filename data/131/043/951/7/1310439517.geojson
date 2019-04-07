@@ -1,0 +1,66 @@
+{
+  "id": 1310439517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4731,49.41072,18.4731,49.41072",
+    "geom:latitude":49.41072,
+    "geom:longitude":18.4731,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Vysny Kelcov",
+    "gn:country_code":"CZ",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062264,
+    "gn:latitude":49.41072,
+    "gn:longitude":18.4731,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Vy\u0161n\u00fd Kel\u010dov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062264
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2935138ea1eddb6e6bd24ed9bce12e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310439517,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1310439517,
+    "wof:lastmodified":1537011506,
+    "wof:name":"Vysny Kelcov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4731,
+    49.41072,
+    18.4731,
+    49.41072
+],
+  "geometry": {"coordinates":[18.4731,49.41072],"type":"Point"}
+}

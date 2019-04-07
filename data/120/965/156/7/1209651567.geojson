@@ -1,0 +1,65 @@
+{
+  "id": 1209651567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.24074,49.60114,18.24074,49.60114",
+    "geom:latitude":49.60114,
+    "geom:longitude":18.24074,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Merkovice",
+    "gn:country_code":"CZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070841,
+    "gn:latitude":49.60114,
+    "gn:longitude":18.24074,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"M\u011brkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mierkowitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070841
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ffd377b91fc0a53a1a440282848a1e88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209651567
+        }
+    ],
+    "wof:id":1209651567,
+    "wof:lastmodified":1537504042,
+    "wof:name":"Merkovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.24074,
+    49.60114,
+    18.24074,
+    49.60114
+],
+  "geometry": {"coordinates":[18.24074,49.60114],"type":"Point"}
+}

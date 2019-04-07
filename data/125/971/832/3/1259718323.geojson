@@ -1,0 +1,66 @@
+{
+  "id": 1259718323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61312,49.32978,16.61312,49.32978",
+    "geom:latitude":49.32978,
+    "geom:longitude":16.61312,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Svata Katerina",
+    "gn:country_code":"CZ",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064611,
+    "gn:latitude":49.32978,
+    "gn:longitude":16.61312,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Svat\u00e1 Kate\u0159ina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064611
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"69d6467183b8081fbecb779d01942b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259718323,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1259718323,
+    "wof:lastmodified":1537016164,
+    "wof:name":"Svata Katerina",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61312,
+    49.32978,
+    16.61312,
+    49.32978
+],
+  "geometry": {"coordinates":[16.61312,49.32978],"type":"Point"}
+}

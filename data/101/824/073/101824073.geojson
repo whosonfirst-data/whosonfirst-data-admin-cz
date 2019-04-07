@@ -1,0 +1,110 @@
+{
+  "id": 101824073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000211,
+    "geom:area_square_m":1684514.123384,
+    "geom:bbox":"15.792180475,49.6896043472,15.8206879694,49.7040823945",
+    "geom:latitude":49.696944,
+    "geom:longitude":15.806841,
+    "iso:country":"CZ",
+    "lbl:latitude":49.697265,
+    "lbl:longitude":15.807813,
+    "mps:latitude":49.697265,
+    "mps:longitude":15.807813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "\u017dd\u00edrec nad Doubravou"
+    ],
+    "name:deu_x_preferred":[
+        "\u017dd\u00edrec nad Doubravou"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dd\u00edrec nad Doubravou"
+    ],
+    "name:hun_x_preferred":[
+        "\u017dd\u00edrec nad Doubravou"
+    ],
+    "name:ita_x_preferred":[
+        "\u017dd\u00edrec nad Doubravou"
+    ],
+    "name:lav_x_preferred":[
+        "\u017dd\u012breca pie Doubravas"
+    ],
+    "name:msa_x_preferred":[
+        "\u017dd\u00edrec nad Doubravou"
+    ],
+    "name:nld_x_preferred":[
+        "\u017dd\u00edrec nad Doubravou"
+    ],
+    "name:pol_x_preferred":[
+        "\u017dd\u00edrec nad Doubravou"
+    ],
+    "name:por_x_preferred":[
+        "\u017dd\u00edrec nad Doubravou"
+    ],
+    "name:unk_x_variant":[
+        "\u017dd\u00edrec"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Vysocina",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"\u017dd\u00edrec nad Doubravou",
+    "qs:la_lc":"*CZ0611569780",
+    "qs:level":"locality",
+    "qs:loc":"\u017dd\u00edrec nad Doubravou",
+    "qs:loc_alt":"Zdirec nad Doubravou",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061650,
+        "gp:id":801944,
+        "qs:id":892419,
+        "qs_pg:id":1268965,
+        "wd:id":"Q393457"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b2dcc1338e3b307103ee8aab6e16a1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824073,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":101824073,
+    "wof:lastmodified":1527714851,
+    "wof:name":"\u017dd\u00edrec nad Doubravou",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79218047496295,
+    49.68960434723493,
+    15.82068796940302,
+    49.70408239452206
+],
+  "geometry": {"coordinates":[[[15.81420860763302,49.70054225794081],[15.81410056761951,49.69964626305403],[15.81548294963437,49.69957514660757],[15.81537488923323,49.69867915282691],[15.81675724211306,49.69860802103028],[15.81654108556563,49.69681603527141],[15.82068796940302,49.69660254778842],[15.82025541174096,49.69301858955299],[15.81749102948703,49.69316091926066],[15.81727488243331,49.69136893159947],[15.8089819511892,49.69179549775447],[15.80908986978665,49.69269150089156],[15.80356107298354,49.69297554709129],[15.80377672198546,49.69476756425263],[15.7996299329414,49.69498043089766],[15.79898350337498,49.68960434723493],[15.79621926364564,49.68974615584534],[15.79632693857894,49.69064217384164],[15.79218047496295,49.69085476480888],[15.79228807869026,49.69175078692973],[15.79505244228397,49.69160907345997],[15.79526776637334,49.69340111042322],[15.79803221675502,49.69325932344231],[15.79857086869282,49.69773939354036],[15.79580616421646,49.69788119564873],[15.79612926301718,49.70056924186008],[15.79751169335378,49.7004983447012],[15.79794266355782,49.70408239452206],[15.80347275446002,49.70379861297607],[15.80336490271486,49.70290260719236],[15.80751235561689,49.70268959844498],[15.80740443263539,49.70179359679685],[15.81293421610633,49.70150935503017],[15.81282619648249,49.70061335903705],[15.81420860763302,49.70054225794081]]],"type":"Polygon"}
+}

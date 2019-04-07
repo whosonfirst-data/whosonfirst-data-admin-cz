@@ -1,0 +1,66 @@
+{
+  "id": 1226571937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64774,49.56203,18.64774,49.56203",
+    "geom:latitude":49.56203,
+    "geom:longitude":18.64774,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Kamenity",
+    "gn:country_code":"CZ",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073925,
+    "gn:latitude":49.56203,
+    "gn:longitude":18.64774,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Kamenit\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073925
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9d039c8b57869efde6c61dfb97812367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226571937,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1226571937,
+    "wof:lastmodified":1536961371,
+    "wof:name":"Kamenity",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64774,
+    49.56203,
+    18.64774,
+    49.56203
+],
+  "geometry": {"coordinates":[18.64774,49.56203],"type":"Point"}
+}

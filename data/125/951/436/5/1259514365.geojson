@@ -1,0 +1,66 @@
+{
+  "id": 1259514365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26476,49.86369,15.26476,49.86369",
+    "geom:latitude":49.86369,
+    "geom:longitude":15.26476,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Korotice",
+    "gn:country_code":"CZ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073233,
+    "gn:latitude":49.86369,
+    "gn:longitude":15.26476,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Korotice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073233
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"897b2516370488eda29a1bc89c68c310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259514365,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1259514365,
+    "wof:lastmodified":1536813848,
+    "wof:name":"Korotice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26476,
+    49.86369000000001,
+    15.26476,
+    49.86369000000001
+],
+  "geometry": {"coordinates":[15.26476,49.86369000000001],"type":"Point"}
+}

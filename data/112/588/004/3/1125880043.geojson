@@ -1,0 +1,140 @@
+{
+  "id": 1125880043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33479,49.3298,17.33479,49.3298",
+    "geom:latitude":49.3298,
+    "geom:longitude":17.33479,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":561,
+    "gn:population":561,
+    "iso:country":"CZ",
+    "lbl:latitude":49.3298,
+    "lbl:longitude":17.33479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:dut_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:eng_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:fre_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:ger_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:hun_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:ita_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:may_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:nan_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0632\u0645\u06cc\u0631\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:por_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:rup_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:slo_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0437\u043c\u0458\u0435\u0440\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "name:vie_x_preferred":[
+        "Bezm\u011brov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079398,
+    "qs_pg:gn_pop":561,
+    "qs_pg:name":"Bezm\u011brov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1205935,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786175,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079398,
+        "gp:id":786175,
+        "qs_pg:id":1205935,
+        "wd:id":"Q854438"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294755,
+    "wof:geomhash":"ec46263e2cd0135c267e6f79d90e988b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125880043,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125880043,
+    "wof:lastmodified":1513944785,
+    "wof:name":"Bezm\u011brov",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":561,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33479,
+    49.3298,
+    17.33479,
+    49.3298
+],
+  "geometry": {"coordinates":[17.33479,49.3298],"type":"Point"}
+}

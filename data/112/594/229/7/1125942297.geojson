@@ -1,0 +1,135 @@
+{
+  "id": 1125942297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67802,49.86278,17.67802,49.86278",
+    "geom:latitude":49.86278,
+    "geom:longitude":17.67802,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":204,
+    "gn:population":204,
+    "iso:country":"CZ",
+    "lbl:latitude":49.86278,
+    "lbl:longitude":17.67802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:dut_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:hun_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:may_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:por_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:rup_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0435 \u041b\u0443\u0431\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "name:unk_x_variant":[
+        "Neu-Lublitz"
+    ],
+    "name:vie_x_preferred":[
+        "Nov\u00e9 Lublice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069474,
+    "qs_pg:gn_pop":204,
+    "qs_pg:name":"Nov\u00e9 Lublice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399716,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795018,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069474,
+        "gp:id":795018,
+        "qs_pg:id":399716,
+        "wd:id":"Q2197510"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297160,
+    "wof:geomhash":"de3ace4f9da620f12064cb657090dd66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125942297,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125942297,
+    "wof:lastmodified":1513945439,
+    "wof:name":"Nov\u00e9 Lublice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":204,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67802,
+    49.86278,
+    17.67802,
+    49.86278
+],
+  "geometry": {"coordinates":[17.67802,49.86278],"type":"Point"}
+}

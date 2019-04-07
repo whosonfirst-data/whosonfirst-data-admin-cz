@@ -1,0 +1,71 @@
+{
+  "id": 1193173127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46279,51.02565,14.46279,51.02565",
+    "geom:latitude":51.02565,
+    "geom:longitude":14.46279,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Kralovka",
+    "gn:country_code":"CZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072937,
+    "gn:latitude":51.02565,
+    "gn:longitude":14.46279,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Kr\u00e1lovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koenigshain",
+        "K\u00f6nigshain",
+        "Kr\u00e1lovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072937
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d1d2442d3c3c13c6df3385fb53ad369c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193173127,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1193173127,
+    "wof:lastmodified":1537619385,
+    "wof:name":"Kralovka",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46279,
+    51.02565,
+    14.46279,
+    51.02565
+],
+  "geometry": {"coordinates":[14.46279,51.02565],"type":"Point"}
+}

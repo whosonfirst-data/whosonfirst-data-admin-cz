@@ -1,0 +1,66 @@
+{
+  "id": 1226173143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99718,49.65557,13.99718,49.65557",
+    "geom:latitude":49.65557,
+    "geom:longitude":13.99718,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Zezice",
+    "gn:country_code":"CZ",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061510,
+    "gn:latitude":49.65557,
+    "gn:longitude":13.99718,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"\u017de\u017eice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061510
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a9ea03d2b510d83ae7cce31aebe100c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226173143,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226173143,
+    "wof:lastmodified":1537036704,
+    "wof:name":"Zezice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99718,
+    49.65557,
+    13.99718,
+    49.65557
+],
+  "geometry": {"coordinates":[13.99718,49.65557],"type":"Point"}
+}

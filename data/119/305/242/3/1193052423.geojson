@@ -1,0 +1,66 @@
+{
+  "id": 1193052423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05024,49.35426,14.05024,49.35426",
+    "geom:latitude":49.35426,
+    "geom:longitude":14.05024,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Trebkov",
+    "gn:country_code":"CZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064092,
+    "gn:latitude":49.35426,
+    "gn:longitude":14.05024,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"T\u0159ebkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064092
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6f1e9947a564fd4539aa267f567fbbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193052423,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1193052423,
+    "wof:lastmodified":1536365114,
+    "wof:name":"Trebkov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05024,
+    49.35426,
+    14.05024,
+    49.35426
+],
+  "geometry": {"coordinates":[14.05024,49.35426],"type":"Point"}
+}

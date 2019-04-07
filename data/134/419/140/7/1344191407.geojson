@@ -1,0 +1,66 @@
+{
+  "id": 1344191407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46573,49.48926,14.46573,49.48926",
+    "geom:latitude":49.48926,
+    "geom:longitude":14.46573,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Modlikov",
+    "gn:country_code":"CZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070426,
+    "gn:latitude":49.48926,
+    "gn:longitude":14.46573,
+    "gn:modification_date":"2014-05-14",
+    "gn:name":"Modl\u00edkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070426
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f1a60837e194bab73f5fac530535844b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344191407,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1344191407,
+    "wof:lastmodified":1536686731,
+    "wof:name":"Modlikov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46573,
+    49.48926,
+    14.46573,
+    49.48926
+],
+  "geometry": {"coordinates":[14.46573,49.48926],"type":"Point"}
+}

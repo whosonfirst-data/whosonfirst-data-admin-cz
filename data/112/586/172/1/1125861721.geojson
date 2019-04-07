@@ -1,0 +1,140 @@
+{
+  "id": 1125861721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09478,49.28827,16.09478,49.28827",
+    "geom:latitude":49.28827,
+    "geom:longitude":16.09478,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":590,
+    "gn:population":590,
+    "iso:country":"CZ",
+    "lbl:latitude":49.28827,
+    "lbl:longitude":16.09478,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Tasov"
+    ],
+    "name:dut_x_preferred":[
+        "Tasov"
+    ],
+    "name:eng_x_preferred":[
+        "Tasov"
+    ],
+    "name:fre_x_preferred":[
+        "Tasov"
+    ],
+    "name:ger_x_preferred":[
+        "Tasov"
+    ],
+    "name:hun_x_preferred":[
+        "Tasov"
+    ],
+    "name:ita_x_preferred":[
+        "Tasov"
+    ],
+    "name:may_x_preferred":[
+        "Tasov"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0627\u0633\u0648\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Tasov"
+    ],
+    "name:por_x_preferred":[
+        "Tasov"
+    ],
+    "name:rup_x_preferred":[
+        "Tasov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u043e\u0432"
+    ],
+    "name:slo_x_preferred":[
+        "Tasov"
+    ],
+    "name:swe_x_preferred":[
+        "Tasov"
+    ],
+    "name:unk_x_variant":[
+        "Tassau"
+    ],
+    "name:vie_x_preferred":[
+        "Tasov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064354,
+    "qs_pg:gn_pop":590,
+    "qs_pg:name":"Tasov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":25,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":208332,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799536,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064354,
+        "gp:id":799536,
+        "qs_pg:id":208332,
+        "wd:id":"Q2140471"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293855,
+    "wof:geomhash":"a5d8856d10db6ff376d3bdbdb4f73092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125861721,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125861721,
+    "wof:lastmodified":1553816580,
+    "wof:name":"Tasov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":590,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09478,
+    49.28827,
+    16.09478,
+    49.28827
+],
+  "geometry": {"coordinates":[16.09478,49.28827],"type":"Point"}
+}

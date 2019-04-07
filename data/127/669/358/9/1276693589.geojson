@@ -1,0 +1,66 @@
+{
+  "id": 1276693589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16876,50.64184,14.16876,50.64184",
+    "geom:latitude":50.64184,
+    "geom:longitude":14.16876,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Suletice",
+    "gn:country_code":"CZ",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064691,
+    "gn:latitude":50.64184,
+    "gn:longitude":14.16876,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Suletice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064691
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"42fc83ef2381b89f9eb3773c6a98e18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276693589,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276693589,
+    "wof:lastmodified":1536793247,
+    "wof:name":"Suletice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16876,
+    50.64184,
+    14.16876,
+    50.64184
+],
+  "geometry": {"coordinates":[14.16876,50.64184],"type":"Point"}
+}

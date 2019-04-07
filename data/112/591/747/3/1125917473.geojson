@@ -1,0 +1,138 @@
+{
+  "id": 1125917473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37756,49.26708,17.37756,49.26708",
+    "geom:latitude":49.26708,
+    "geom:longitude":17.37756,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":249,
+    "gn:population":249,
+    "iso:country":"CZ",
+    "lbl:latitude":49.26708,
+    "lbl:longitude":17.37756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:dut_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:eng_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:fre_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:ger_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:hun_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:ita_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:may_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:per_x_preferred":[
+        "\u06cc\u0627\u0631\u0648\u0647\u0646\u06cc\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:por_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:rup_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:slo_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0440\u043e\u0445\u045a\u0435\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0631\u0648\u06c1\u0646\u06cc\u0648\u06a9\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Jarohn\u011bvice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3074464,
+    "qs_pg:gn_pop":249,
+    "qs_pg:name":"Jarohn\u011bvice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1266276,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790580,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074464,
+        "gp:id":790580,
+        "qs_pg:id":1266276,
+        "wd:id":"Q1683566"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296367,
+    "wof:geomhash":"60b276a2b83cf909fb088fdf323f52e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125917473,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125917473,
+    "wof:lastmodified":1513945092,
+    "wof:name":"Jarohn\u011bvice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":249,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37756,
+    49.26708,
+    17.37756,
+    49.26708
+],
+  "geometry": {"coordinates":[17.37756,49.26708],"type":"Point"}
+}

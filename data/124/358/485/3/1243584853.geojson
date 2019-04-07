@@ -1,0 +1,66 @@
+{
+  "id": 1243584853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33546,48.82342,14.33546,48.82342",
+    "geom:latitude":48.82342,
+    "geom:longitude":14.33546,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Domoradice",
+    "gn:country_code":"CZ",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076580,
+    "gn:latitude":48.82342,
+    "gn:longitude":14.33546,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Domoradice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076580
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1553243a2b02431ae89897f7ab870943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243584853,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243584853,
+    "wof:lastmodified":1536603115,
+    "wof:name":"Domoradice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33546,
+    48.82342,
+    14.33546,
+    48.82342
+],
+  "geometry": {"coordinates":[14.33546,48.82342],"type":"Point"}
+}

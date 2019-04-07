@@ -1,0 +1,70 @@
+{
+  "id": 1260218071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03333,49.4,18.03333,49.4",
+    "geom:latitude":49.4,
+    "geom:longitude":18.03333,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Laze u Mrlinu",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072277,
+    "gn:latitude":49.4,
+    "gn:longitude":18.03333,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"L\u00e1ze u Mrlin\u016f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "U Mrlin\u016d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072277
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"98082f135cb8a6188d49306f5aeeb7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260218071,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1260218071,
+    "wof:lastmodified":1537619378,
+    "wof:name":"Laze u Mrlinu",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03333,
+    49.4,
+    18.03333,
+    49.4
+],
+  "geometry": {"coordinates":[18.03333,49.4],"type":"Point"}
+}

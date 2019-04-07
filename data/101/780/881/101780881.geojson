@@ -1,0 +1,120 @@
+{
+  "id": 101780881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000196,
+    "geom:area_square_m":1595097.987247,
+    "geom:bbox":"14.6344913594,48.8870452688,14.6565212863,48.9080830454",
+    "geom:latitude":48.896964,
+    "geom:longitude":14.64379,
+    "gn:population":3739,
+    "iso:country":"CZ",
+    "lbl:latitude":48.896921,
+    "lbl:longitude":14.641203,
+    "mps:latitude":48.896921,
+    "mps:longitude":14.641203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Borovany"
+    ],
+    "name:ces_x_preferred":[
+        "Borovany"
+    ],
+    "name:deu_x_preferred":[
+        "Borovany"
+    ],
+    "name:epo_x_preferred":[
+        "Borovany"
+    ],
+    "name:fra_x_preferred":[
+        "Borovany"
+    ],
+    "name:hun_x_preferred":[
+        "Borovany"
+    ],
+    "name:ita_x_preferred":[
+        "Borovany"
+    ],
+    "name:msa_x_preferred":[
+        "Borovany"
+    ],
+    "name:nld_x_preferred":[
+        "Borovany"
+    ],
+    "name:pol_x_preferred":[
+        "Borovany"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u7f85\u74e6\u5c3c"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihocesk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Borovany",
+    "qs:la_lc":"*CZ0311544281",
+    "qs:level":"locality",
+    "qs:loc":"Borovany",
+    "qs:loc_alt":"Borovany",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078956,
+        "gp:id":786561,
+        "qs:id":145525,
+        "qs_pg:id":1265300,
+        "wd:id":"Q894102",
+        "wk:page":"Borovany (\u010cesk\u00e9 Bud\u011bjovice District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"84a03915e5da0b74074de0b1e4c90c04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101780881,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":101780881,
+    "wof:lastmodified":1505337902,
+    "wof:name":"Borovany",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":3739,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63449135935616,
+    48.88704526879576,
+    14.65652128626459,
+    48.90808304541679
+],
+  "geometry": {"coordinates":[[[14.64681183160178,48.90594821672323],[14.64672756390422,48.90505077994465],[14.64808899900152,48.90499406603431],[14.64766759574309,48.90050688196715],[14.64902890540577,48.90045015738514],[14.64894461180506,48.89955272053635],[14.64486074782758,48.89972284096859],[14.64452390612246,48.8961330753134],[14.64588509891081,48.89607638982119],[14.64563243454779,48.89338406485979],[14.64971577528161,48.89321391951256],[14.64996866021448,48.89590623382571],[14.65132984162619,48.89584948198785],[14.65141416882472,48.89674691809512],[14.65277537189945,48.89669014848641],[14.65269102019158,48.89579271356376],[14.65405219590986,48.89573592855345],[14.65388345505283,48.89394105985656],[14.65524457890859,48.89388426062993],[14.65516018976246,48.89298682685586],[14.65652128626459,48.89293001222893],[14.65643687647383,48.8920325792331],[14.65507580447593,48.89208939267485],[14.65499142304861,48.89119195808689],[14.65226931951759,48.89130553284735],[14.65218499095386,48.89040809548328],[14.64674084775788,48.89063504125619],[14.64640396407106,48.88704526879576],[14.6423211208355,48.8872152898046],[14.64257355731945,48.88990763039897],[14.64121253039241,48.88996427444647],[14.64129665908058,48.89086172167924],[14.63449135935616,48.89114469905411],[14.63465938322349,48.89293960410521],[14.63738160964664,48.89282645818946],[14.63830655499714,48.90269838096629],[14.63694517356396,48.90275497520315],[14.63719743861049,48.9054473127967],[14.63855889360514,48.90539071501689],[14.63881126684851,48.90808304541679],[14.64153431545782,48.90796979299654],[14.64136596468416,48.90617491119565],[14.64681183160178,48.90594821672323]]],"type":"Polygon"}
+}

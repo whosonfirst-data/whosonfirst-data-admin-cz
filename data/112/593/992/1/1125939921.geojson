@@ -1,0 +1,129 @@
+{
+  "id": 1125939921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63301,50.45445,13.63301,50.45445",
+    "geom:latitude":50.45445,
+    "geom:longitude":13.63301,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":182,
+    "gn:population":182,
+    "iso:country":"CZ",
+    "lbl:latitude":50.45445,
+    "lbl:longitude":13.63301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:dut_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:eng_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:fre_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:ger_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:hun_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:ita_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:may_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u06cc\u0634\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:slo_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0448\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "name:vie_x_preferred":[
+        "Li\u0161nice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071713,
+    "qs_pg:gn_pop":182,
+    "qs_pg:name":"Li\u0161nice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":399172,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792999,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071713,
+        "gp:id":792999,
+        "qs_pg:id":399172,
+        "wd:id":"Q1866705"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297082,
+    "wof:geomhash":"c128eb9638b061e131c75fa1a8c504e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125939921,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125939921,
+    "wof:lastmodified":1513945309,
+    "wof:name":"Li\u0161nice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":182,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63301,
+    50.45445,
+    13.63301,
+    50.45445
+],
+  "geometry": {"coordinates":[13.63301,50.45445],"type":"Point"}
+}

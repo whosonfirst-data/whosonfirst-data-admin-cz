@@ -1,0 +1,70 @@
+{
+  "id": 1260114371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39862,48.98244,15.39862,48.98244",
+    "geom:latitude":48.98244,
+    "geom:longitude":15.39862,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Slavetin",
+    "gn:country_code":"CZ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065860,
+    "gn:latitude":48.98244,
+    "gn:longitude":15.39862,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Slav\u011bt\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slawathen",
+        "Slav\u011bt\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065860
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"42685425a6d7d938a228b967aa50a399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260114371,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260114371,
+    "wof:lastmodified":1537619301,
+    "wof:name":"Slavetin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39862,
+    48.98244,
+    15.39862,
+    48.98244
+],
+  "geometry": {"coordinates":[15.39862,48.98244],"type":"Point"}
+}

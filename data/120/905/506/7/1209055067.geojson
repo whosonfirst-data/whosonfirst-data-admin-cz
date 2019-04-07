@@ -1,0 +1,62 @@
+{
+  "id": 1209055067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18596,49.43805,17.18596,49.43805",
+    "geom:latitude":49.43805,
+    "geom:longitude":17.18596,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0713",
+    "gn:asciiname":"Otonovice",
+    "gn:country_code":"CZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068705,
+    "gn:latitude":49.43805,
+    "gn:longitude":17.18596,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Otonovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068705
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ceac76642b28cde284367067f160964a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209055067
+        }
+    ],
+    "wof:id":1209055067,
+    "wof:lastmodified":1536299136,
+    "wof:name":"Otonovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18596,
+    49.43805,
+    17.18596,
+    49.43805
+],
+  "geometry": {"coordinates":[17.18596,49.43805],"type":"Point"}
+}

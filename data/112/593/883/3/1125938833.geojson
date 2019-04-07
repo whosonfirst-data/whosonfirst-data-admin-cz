@@ -1,0 +1,131 @@
+{
+  "id": 1125938833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07602,49.98755,16.07602,49.98755",
+    "geom:latitude":49.98755,
+    "geom:longitude":16.07602,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":162,
+    "gn:population":162,
+    "iso:country":"CZ",
+    "lbl:latitude":49.98755,
+    "lbl:longitude":16.07602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:dut_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:eng_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:epo_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:fre_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:hun_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:ita_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:may_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:por_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:rup_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:slo_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0445\u043e\u0448\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Radho\u0161t"
+    ],
+    "name:vie_x_preferred":[
+        "Radho\u0161\u0165"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067219,
+    "qs_pg:gn_pop":162,
+    "qs_pg:name":"Radho\u0161\u0165",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":183231,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797029,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067219,
+        "gp:id":797029,
+        "qs_pg:id":183231,
+        "wd:id":"Q1976488"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297051,
+    "wof:geomhash":"300f788c46394c2f9bcf651a111d4ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125938833,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125938833,
+    "wof:lastmodified":1513945622,
+    "wof:name":"Radho\u0161\u0165",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07602,
+    49.98755,
+    16.07602,
+    49.98755
+],
+  "geometry": {"coordinates":[16.07602,49.98755],"type":"Point"}
+}

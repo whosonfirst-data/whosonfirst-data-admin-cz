@@ -1,0 +1,70 @@
+{
+  "id": 1242814191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75713,48.77005,14.75713,48.77005",
+    "geom:latitude":48.77005,
+    "geom:longitude":14.75713,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Svetvi",
+    "gn:country_code":"CZ",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064502,
+    "gn:latitude":48.77005,
+    "gn:longitude":14.75713,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Sv\u011btv\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gschwendt",
+        "Sv\u011btv\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064502
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fb59545b0b6f7814cd0d3ad23d5eda37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242814191,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1242814191,
+    "wof:lastmodified":1537619284,
+    "wof:name":"Svetvi",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75713,
+    48.77005,
+    14.75713,
+    48.77005
+],
+  "geometry": {"coordinates":[14.75713,48.77005],"type":"Point"}
+}

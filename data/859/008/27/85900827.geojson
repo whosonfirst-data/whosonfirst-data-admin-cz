@@ -1,0 +1,111 @@
+{
+  "id": 85900827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":19139937.135411,
+    "geom:bbox":"16.643979,49.241579,16.643979,49.241579",
+    "geom:latitude":49.241579,
+    "geom:longitude":16.643979,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":49.241579,
+    "lbl:longitude":16.643979,
+    "mps:latitude":49.249125,
+    "mps:longitude":16.666302,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:cze_x_colloquial":[
+        "Brno-MalomATAice a ObAany",
+        "Brno-MalomAeTAaice a ObAaany",
+        "Brno-Malomerice a Obrany"
+    ],
+    "name:cze_x_preferred":[
+        "Brno-Malom\u00e4\u0167\u00e5ice a Ob\u00e5any"
+    ],
+    "name:cze_x_variant":[
+        "Obrany"
+    ],
+    "name:unk_x_variant":[
+        "Brno-Malom\u00e4\u0167\u00e5ice a Ob\u00e5any"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3078610,
+    "qs:local_max":6134,
+    "qs:local_sum":32721,
+    "qs:localhoods":44,
+    "qs:name":"Brno-Malom\u00e4\u0167\u00e5ice a Ob\u00e5any",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs:name_adm2":"Brno-M\u011bsto",
+    "qs:name_lau":"Brno",
+    "qs:name_local":"Brno",
+    "qs:photo_max":485,
+    "qs:photo_sum":770,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":39,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070503,
+    "qs:woe_adm2":12582547,
+    "qs:woe_lau":12605174,
+    "qs:woe_local":786869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":795274,
+        "qs:id":398766,
+        "qs_pg:id":398766
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ecd229d6d86c60961d2476bdb10761be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900827,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85900827,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932391,
+    "wof:name":"Brno-Malom\u00e4\u0167\u00e5ice a Ob\u00e5any",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.643979,
+    49.241579,
+    16.643979,
+    49.241579
+],
+  "geometry": {"coordinates":[16.643979,49.241579],"type":"Point"}
+}

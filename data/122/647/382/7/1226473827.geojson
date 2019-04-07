@@ -1,0 +1,66 @@
+{
+  "id": 1226473827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69426,49.54919,14.69426,49.54919",
+    "geom:latitude":49.54919,
+    "geom:longitude":14.69426,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Nasavrky",
+    "gn:country_code":"CZ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070032,
+    "gn:latitude":49.54919,
+    "gn:longitude":14.69426,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Nasavrky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070032
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"55fa1332a57afc2a52a5e5a06aca178d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226473827,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226473827,
+    "wof:lastmodified":1536601892,
+    "wof:name":"Nasavrky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69426,
+    49.54919,
+    14.69426,
+    49.54919
+],
+  "geometry": {"coordinates":[14.69426,49.54919],"type":"Point"}
+}

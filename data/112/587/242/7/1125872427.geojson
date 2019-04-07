@@ -1,0 +1,140 @@
+{
+  "id": 1125872427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08591,49.54222,14.08591,49.54222",
+    "geom:latitude":49.54222,
+    "geom:longitude":14.08591,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":330,
+    "gn:population":330,
+    "iso:country":"CZ",
+    "lbl:latitude":49.54222,
+    "lbl:longitude":14.08591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:dut_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:eng_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:fre_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:ger_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05dc\u05d5\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:ita_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:may_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:nan_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0627\u0644\u0648\u0698\u0627\u0646\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:rup_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:slo_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043b\u0443\u0436\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "name:vie_x_preferred":[
+        "Zalu\u017eany"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061913,
+    "qs_pg:gn_pop":330,
+    "qs_pg:name":"Zalu\u017eany",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":261806,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801695,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061913,
+        "gp:id":801695,
+        "qs_pg:id":261806,
+        "wd:id":"Q783526"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294367,
+    "wof:geomhash":"25d9020bdd7818c4b18ff6493f021ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125872427,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125872427,
+    "wof:lastmodified":1513945946,
+    "wof:name":"Zalu\u017eany",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08591,
+    49.54222,
+    14.08591,
+    49.54222
+],
+  "geometry": {"coordinates":[14.08591,49.54222],"type":"Point"}
+}

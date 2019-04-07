@@ -1,0 +1,112 @@
+{
+  "id": 85900699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3878154.609927,
+    "geom:bbox":"14.02601,50.678562,14.02601,50.678562",
+    "geom:latitude":50.678562,
+    "geom:longitude":14.02601,
+    "gn:latitude":50.68047,
+    "gn:longitude":14.03809,
+    "iso:country":"CZ",
+    "lbl:latitude":50.678562,
+    "lbl:longitude":14.02601,
+    "mps:latitude":50.683154,
+    "mps:longitude":14.031642,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "Kockov"
+    ],
+    "name:cze_x_preferred":[
+        "Ko\u010dkov"
+    ],
+    "name:unk_x_variant":[
+        "Ko\u010dkov"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3063548,
+    "qs:gn_nam_loc":"\u00dast\u00ed nad Labem, \u00dasteck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Ko\u010dkov",
+    "qs:local_max":552,
+    "qs:local_sum":1115,
+    "qs:localhoods":8,
+    "qs:name":"Ko\u010dkov",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs:name_adm2":"\u00dast\u00ed nad Labem",
+    "qs:name_lau":"\u00dast\u00ed nad Labem",
+    "qs:name_local":"\u00dast\u00ed nad Labem",
+    "qs:photo_max":23,
+    "qs:photo_sum":35,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070499,
+    "qs:woe_adm2":12582569,
+    "qs:woe_lau":12606615,
+    "qs:woe_local":800260,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748139,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073441,
+        "gp:id":791447,
+        "qs:id":267800,
+        "qs_pg:id":267800
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5cee535eecf5ac371818c2bb64e3681f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748139,
+            "neighbourhood_id":85900699,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":85900699,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932369,
+    "wof:name":"Ko\u010dkov",
+    "wof:parent_id":101748139,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02601,
+    50.678562,
+    14.02601,
+    50.678562
+],
+  "geometry": {"coordinates":[14.02601,50.678562],"type":"Point"}
+}

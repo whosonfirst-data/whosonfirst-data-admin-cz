@@ -1,0 +1,85 @@
+{
+  "id": 1125986065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39393,49.75434,16.39393,49.75434",
+    "geom:latitude":49.75434,
+    "geom:longitude":16.39393,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CZ",
+    "lbl:latitude":49.75434,
+    "lbl:longitude":16.39393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "M\u00e4hrisch Rausenstein"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3068731,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ostr\u00fd K\u00e1men",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":887030,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":24930306,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068731,
+        "gp:id":24930306,
+        "qs_pg:id":887030
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298813,
+    "wof:geomhash":"66c9ebcc16ee0e221fb454d24ee6fbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125986065,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125986065,
+    "wof:lastmodified":1509405074,
+    "wof:name":"Ostr\u00fd K\u00e1men",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39393,
+    49.75434,
+    16.39393,
+    49.75434
+],
+  "geometry": {"coordinates":[16.39393,49.75434],"type":"Point"}
+}

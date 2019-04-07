@@ -1,0 +1,66 @@
+{
+  "id": 1293326681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93891,49.94762,15.93891,49.94762",
+    "geom:latitude":49.94762,
+    "geom:longitude":15.93891,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Blansko",
+    "gn:country_code":"CZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079272,
+    "gn:latitude":49.94762,
+    "gn:longitude":15.93891,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Blansko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079272
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"86a1882c49bdad3740f28da4690a6aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293326681,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1293326681,
+    "wof:lastmodified":1537018164,
+    "wof:name":"Blansko",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93891,
+    49.94762,
+    15.93891,
+    49.94762
+],
+  "geometry": {"coordinates":[15.93891,49.94762],"type":"Point"}
+}

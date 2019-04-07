@@ -1,0 +1,70 @@
+{
+  "id": 1259617507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.72429,49.63089,12.72429,49.63089",
+    "geom:latitude":49.63089,
+    "geom:longitude":12.72429,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Dubec",
+    "gn:country_code":"CZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076356,
+    "gn:latitude":49.63089,
+    "gn:longitude":12.72429,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Dubec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tutz",
+        "Dubec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076356
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"205da387c7d4569a5f56aea0eb45d5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259617507,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1259617507,
+    "wof:lastmodified":1537619427,
+    "wof:name":"Dubec",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.72429,
+    49.63089,
+    12.72429,
+    49.63089
+],
+  "geometry": {"coordinates":[12.72429,49.63089],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259619441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82726,48.88045,13.82726,48.88045",
+    "geom:latitude":48.88045,
+    "geom:longitude":13.82726,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Ceske Zleby",
+    "gn:country_code":"CZ",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077900,
+    "gn:latitude":48.88045,
+    "gn:longitude":13.82726,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"\u010cesk\u00e9 \u017dleby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6hren",
+        "B\u00f6hmisch R\u00f6hren",
+        "\u010cesk\u00e9 \u017dleby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077900
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0c2b6c29957709ce49659d94a2f7c31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259619441,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259619441,
+    "wof:lastmodified":1537619446,
+    "wof:name":"Ceske Zleby",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82726,
+    48.88045,
+    13.82726,
+    48.88045
+],
+  "geometry": {"coordinates":[13.82726,48.88045],"type":"Point"}
+}

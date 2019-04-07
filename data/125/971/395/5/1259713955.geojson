@@ -1,0 +1,70 @@
+{
+  "id": 1259713955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13758,50.57291,16.13758,50.57291",
+    "geom:latitude":50.57291,
+    "geom:longitude":16.13758,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Skaly",
+    "gn:country_code":"CZ",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066034,
+    "gn:latitude":50.57291,
+    "gn:longitude":16.13758,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Sk\u00e1ly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bischofstein",
+        "Sk\u00e1ly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066034
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"121a6951f11e4f724cfa9b6aeb11f438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259713955,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1259713955,
+    "wof:lastmodified":1537619303,
+    "wof:name":"Skaly",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13758,
+    50.57291,
+    16.13758,
+    50.57291
+],
+  "geometry": {"coordinates":[16.13758,50.57291],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209345171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86707,49.48363,13.86707,49.48363",
+    "geom:latitude":49.48363,
+    "geom:longitude":13.86707,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Zavisin",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061803,
+    "gn:latitude":49.48363,
+    "gn:longitude":13.86707,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Z\u00e1vi\u0161\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061803
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"eb7a0deef9fc348c9781ea20426e1e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209345171
+        }
+    ],
+    "wof:id":1209345171,
+    "wof:lastmodified":1536289936,
+    "wof:name":"Zavisin",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.867070000000002,
+    49.48363,
+    13.867070000000002,
+    49.48363
+],
+  "geometry": {"coordinates":[13.86707,49.48363],"type":"Point"}
+}

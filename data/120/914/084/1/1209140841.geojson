@@ -1,0 +1,66 @@
+{
+  "id": 1209140841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94276,50.53699,13.94276,50.53699",
+    "geom:latitude":50.53699,
+    "geom:longitude":13.94276,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Mlynce",
+    "gn:country_code":"CZ",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070489,
+    "gn:latitude":50.53699,
+    "gn:longitude":13.94276,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Ml\u00fdnce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leinitz",
+        "Ml\u00fdnce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070489
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"97701c5bbbdc78a1333de4ae7423767d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209140841
+        }
+    ],
+    "wof:id":1209140841,
+    "wof:lastmodified":1537619355,
+    "wof:name":"Mlynce",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94276,
+    50.53699,
+    13.94276,
+    50.53699
+],
+  "geometry": {"coordinates":[13.94276,50.53699],"type":"Point"}
+}

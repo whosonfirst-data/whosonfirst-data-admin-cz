@@ -1,0 +1,70 @@
+{
+  "id": 1310037227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23431,50.146,12.23431,50.146",
+    "geom:latitude":50.146,
+    "geom:longitude":12.23431,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Podilna",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068069,
+    "gn:latitude":50.146,
+    "gn:longitude":12.23431,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Pod\u00edln\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halbgeb\u00e4u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068069
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"629ef8dfba2b268f9e0943c3bed9e521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310037227,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1310037227,
+    "wof:lastmodified":1537619325,
+    "wof:name":"Podilna",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23431,
+    50.146,
+    12.23431,
+    50.146
+],
+  "geometry": {"coordinates":[12.23431,50.146],"type":"Point"}
+}

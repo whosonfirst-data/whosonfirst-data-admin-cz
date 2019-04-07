@@ -1,0 +1,74 @@
+{
+  "id": 1310036385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.64173,49.49441,12.64173,49.49441",
+    "geom:latitude":49.49441,
+    "geom:longitude":12.64173,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Svarcava",
+    "gn:country_code":"CZ",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064643,
+    "gn:latitude":49.49441,
+    "gn:longitude":12.64173,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"\u0160varcava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schwarzach",
+        "\u0160varcava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682571,
+        102191581,
+        85633111,
+        404227545,
+        102063475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064643
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"abbdd2e157044dde540f88663e971543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063475,
+            "locality_id":1310036385,
+            "macrocounty_id":404227545,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1310036385,
+    "wof:lastmodified":1537619286,
+    "wof:name":"Svarcava",
+    "wof:parent_id":102063475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.64173,
+    49.49441,
+    12.64173,
+    49.49441
+],
+  "geometry": {"coordinates":[12.64173,49.49441],"type":"Point"}
+}

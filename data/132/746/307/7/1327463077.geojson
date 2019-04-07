@@ -1,0 +1,66 @@
+{
+  "id": 1327463077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32491,50.17764,16.32491,50.17764",
+    "geom:latitude":50.17764,
+    "geom:longitude":16.32491,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Drbalov",
+    "gn:country_code":"CZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076449,
+    "gn:latitude":50.17764,
+    "gn:longitude":16.32491,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Drbalov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076449
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bf1b138bade7a83126088536e1c5914b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327463077,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1327463077,
+    "wof:lastmodified":1536635310,
+    "wof:name":"Drbalov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32491,
+    50.17764,
+    16.32491,
+    50.17764
+],
+  "geometry": {"coordinates":[16.32491,50.17764],"type":"Point"}
+}

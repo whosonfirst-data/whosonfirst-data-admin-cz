@@ -1,0 +1,137 @@
+{
+  "id": 1125864259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57572,50.52608,15.57572,50.52608",
+    "geom:latitude":50.52608,
+    "geom:longitude":15.57572,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":264,
+    "gn:population":264,
+    "iso:country":"CZ",
+    "lbl:latitude":50.52608,
+    "lbl:longitude":15.57572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:dut_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:eng_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:fre_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:ger_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:hun_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:ita_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:may_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0648\u0631\u06a9\u0627 \u0648 \u0633\u062a\u0627\u0631\u0647 \u067e\u0627\u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:por_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:rup_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:slo_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u043a\u0430 \u0443 \u0421\u0442\u0430\u0440\u043e\u0458 \u041f\u0430\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "name:vie_x_preferred":[
+        "Horka u Star\u00e9 Paky"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075470,
+    "qs_pg:gn_pop":264,
+    "qs_pg:name":"Horka u Star\u00e9 Paky",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":178557,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":789648,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075470,
+        "gp:id":789648,
+        "qs_pg:id":178557,
+        "wd:id":"Q1628198"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293962,
+    "wof:geomhash":"715b616153097ff9db11b4d531bde8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125864259,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1125864259,
+    "wof:lastmodified":1513945016,
+    "wof:name":"Horka u Star\u00e9 Paky",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57572,
+    50.52608,
+    15.57572,
+    50.52608
+],
+  "geometry": {"coordinates":[15.57572,50.52608],"type":"Point"}
+}

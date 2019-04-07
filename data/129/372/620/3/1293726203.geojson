@@ -1,0 +1,69 @@
+{
+  "id": 1293726203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.47008,50.03283,12.47008,50.03283",
+    "geom:latitude":50.03283,
+    "geom:longitude":12.47008,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Dolni Lazany",
+    "gn:country_code":"CZ",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076809,
+    "gn:latitude":50.03283,
+    "gn:longitude":12.47008,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Doln\u00ed La\u017eany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unter Losau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076809
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c271b1449bdba490bed7038c24d8c256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293726203,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1293726203,
+    "wof:lastmodified":1537619433,
+    "wof:name":"Dolni Lazany",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.47008,
+    50.03283,
+    12.47008,
+    50.03283
+],
+  "geometry": {"coordinates":[12.47008,50.03283],"type":"Point"}
+}

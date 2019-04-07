@@ -1,0 +1,65 @@
+{
+  "id": 1209451773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51331,50.18652,16.51331,50.18652",
+    "geom:latitude":50.18652,
+    "geom:longitude":16.51331,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Hanicka",
+    "gn:country_code":"CZ",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075966,
+    "gn:latitude":50.18652,
+    "gn:longitude":16.51331,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Hani\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hannchen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075966
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"18c2ea06ce352c14e5ef9389dadd6206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209451773
+        }
+    ],
+    "wof:id":1209451773,
+    "wof:lastmodified":1537619421,
+    "wof:name":"Hanicka",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51331,
+    50.18652,
+    16.51331,
+    50.18652
+],
+  "geometry": {"coordinates":[16.51331,50.18652],"type":"Point"}
+}

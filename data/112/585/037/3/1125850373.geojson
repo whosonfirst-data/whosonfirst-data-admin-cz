@@ -1,0 +1,128 @@
+{
+  "id": 1125850373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.34145,49.9514,17.34145,49.9514",
+    "geom:latitude":49.9514,
+    "geom:longitude":17.34145,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":140,
+    "gn:population":140,
+    "iso:country":"CZ",
+    "lbl:latitude":49.9514,
+    "lbl:longitude":17.34145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:dut_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:epo_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:hun_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:may_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0644\u0627 \u0634\u062a\u0627\u0647\u0644\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:por_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:rup_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0428\u0442\u0430\u0445\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "name:unk_x_variant":[
+        "Klein Stohl"
+    ],
+    "name:vie_x_preferred":[
+        "Mal\u00e1 \u0160t\u00e1hle"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071219,
+    "qs_pg:gn_pop":140,
+    "qs_pg:name":"Mal\u00e1 \u0160t\u00e1hle",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":580818,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071219,
+        "qs_pg:id":580818,
+        "wd:id":"Q2353666"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293371,
+    "wof:geomhash":"64977aee7fceaf299aa35b5f0d086b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125850373,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125850373,
+    "wof:lastmodified":1513945343,
+    "wof:name":"Mal\u00e1 \u0160t\u00e1hle",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34145,
+    49.9514,
+    17.34145,
+    49.9514
+],
+  "geometry": {"coordinates":[17.34145,49.9514],"type":"Point"}
+}

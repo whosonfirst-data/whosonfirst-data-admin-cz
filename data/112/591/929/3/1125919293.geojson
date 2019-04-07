@@ -1,0 +1,129 @@
+{
+  "id": 1125919293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96813,49.2039,13.96813,49.2039",
+    "geom:latitude":49.2039,
+    "geom:longitude":13.96813,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":25,
+    "gn:population":25,
+    "iso:country":"CZ",
+    "lbl:latitude":49.2039,
+    "lbl:longitude":13.96813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:dut_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:eng_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:fre_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:ger_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:hun_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:ita_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:may_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0648\u0631\u06cc\u0645\u0627\u0646\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:rup_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:slo_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0440\u0436\u0438\u043c\u0430\u043d\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Ku\u0159imany"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072475,
+    "qs_pg:gn_pop":25,
+    "qs_pg:name":"Ku\u0159imany",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1266709,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792291,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072475,
+        "gp:id":792291,
+        "qs_pg:id":1266709,
+        "wd:id":"Q1122548"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296424,
+    "wof:geomhash":"181f88b1cba3cae082019e7190a5f70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125919293,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125919293,
+    "wof:lastmodified":1513945249,
+    "wof:name":"Ku\u0159imany",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96813,
+    49.2039,
+    13.96813,
+    49.2039
+],
+  "geometry": {"coordinates":[13.96813,49.2039],"type":"Point"}
+}

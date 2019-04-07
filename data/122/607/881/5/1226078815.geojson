@@ -1,0 +1,66 @@
+{
+  "id": 1226078815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1,50.38333,16.1,50.38333",
+    "geom:latitude":50.38333,
+    "geom:longitude":16.1,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Domkov",
+    "gn:country_code":"CZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076581,
+    "gn:latitude":50.38333,
+    "gn:longitude":16.1,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Domkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076581
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6013d73bfdb1e5f752b592bf9ec29249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226078815,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1226078815,
+    "wof:lastmodified":1536677563,
+    "wof:name":"Domkov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1,
+    50.38333,
+    16.1,
+    50.38333
+],
+  "geometry": {"coordinates":[16.1,50.38333],"type":"Point"}
+}

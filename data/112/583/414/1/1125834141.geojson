@@ -1,0 +1,132 @@
+{
+  "id": 1125834141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24437,49.59975,13.24437,49.59975",
+    "geom:latitude":49.59975,
+    "geom:longitude":13.24437,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":201,
+    "gn:population":201,
+    "iso:country":"CZ",
+    "lbl:latitude":49.59975,
+    "lbl:longitude":13.24437,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "name:dut_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "name:eng_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "name:ger_x_preferred":[
+        "P\u0159estavlky u Dne\u0161ic"
+    ],
+    "name:hun_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "name:ita_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "name:may_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u0633\u062a\u0627\u0648\u0644\u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "name:por_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "name:rup_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "name:slo_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0442\u0430\u0432\u043b\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Prestavlky"
+    ],
+    "name:vie_x_preferred":[
+        "P\u0159estavlky"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067561,
+    "qs_pg:gn_pop":201,
+    "qs_pg:name":"P\u0159estavlky",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1267736,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796719,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067561,
+        "gp:id":796719,
+        "qs_pg:id":1267736,
+        "wd:id":"Q2121135"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292636,
+    "wof:geomhash":"46216483d764ba199ca451d4bcbbebdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125834141,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125834141,
+    "wof:lastmodified":1553816560,
+    "wof:name":"P\u0159estavlky",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":201,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24437,
+    49.59975,
+    13.24437,
+    49.59975
+],
+  "geometry": {"coordinates":[13.24437,49.59975],"type":"Point"}
+}

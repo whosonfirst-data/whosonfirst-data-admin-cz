@@ -1,0 +1,89 @@
+{
+  "id": 1126005747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88941,50.47578,14.88941,50.47578",
+    "geom:latitude":50.47578,
+    "geom:longitude":14.88941,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":289,
+    "gn:population":289,
+    "iso:country":"CZ",
+    "lbl:latitude":50.47578,
+    "lbl:longitude":14.88941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Velk\u00fd B\u00edtouchov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079303,
+    "qs_pg:gn_pop":289,
+    "qs_pg:name":"B\u00edtouchov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":244323,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786251,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079303,
+        "gp:id":786251,
+        "qs_pg:id":244323
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299936,
+    "wof:geomhash":"fb0782138fc1a59079d6295139a3e81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126005747,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1126005747,
+    "wof:lastmodified":1509406401,
+    "wof:name":"B\u00edtouchov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88941,
+    50.47578,
+    14.88941,
+    50.47578
+],
+  "geometry": {"coordinates":[14.88941,50.47578],"type":"Point"}
+}

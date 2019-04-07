@@ -1,0 +1,66 @@
+{
+  "id": 1344090421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56146,49.53674,16.56146,49.53674",
+    "geom:latitude":49.53674,
+    "geom:longitude":16.56146,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Lhota u Letovic",
+    "gn:country_code":"CZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072057,
+    "gn:latitude":49.53674,
+    "gn:longitude":16.56146,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Lhota u Letovic",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072057
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1298844cc587c792768ed6972344dc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344090421,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1344090421,
+    "wof:lastmodified":1536831478,
+    "wof:name":"Lhota u Letovic",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56146,
+    49.53674,
+    16.56146,
+    49.53674
+],
+  "geometry": {"coordinates":[16.56146,49.53674],"type":"Point"}
+}

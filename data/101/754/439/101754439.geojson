@@ -1,0 +1,115 @@
+{
+  "id": 101754439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000149,
+    "geom:area_square_m":1182287.968902,
+    "geom:bbox":"14.5609439515,50.1194780528,14.5868416532,50.1296262408",
+    "geom:latitude":50.124251,
+    "geom:longitude":14.572837,
+    "gn:population":2069,
+    "iso:country":"CZ",
+    "lbl:latitude":50.126442,
+    "lbl:longitude":14.562447,
+    "mps:latitude":50.12444,
+    "mps:longitude":14.571562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u057f\u0561\u056c\u056b\u0581\u0565"
+    ],
+    "name:cze_x_preferred":[
+        "Praha-Satalice"
+    ],
+    "name:cze_x_variant":[
+        "Praha 9-Satalice",
+        "Praha-Satalice",
+        "Satalic",
+        "Satalice",
+        "Satalitz"
+    ],
+    "name:eng_x_preferred":[
+        "Satalice"
+    ],
+    "name:fre_x_preferred":[
+        "Satalice"
+    ],
+    "name:hun_x_preferred":[
+        "Satalice"
+    ],
+    "name:pol_x_preferred":[
+        "Satalice"
+    ],
+    "name:slo_x_preferred":[
+        "Satalice"
+    ],
+    "name:swe_x_preferred":[
+        "Satalice"
+    ],
+    "name:unk_x_variant":[
+        "Satalitz"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Hlavn\u00ed mesto Praha",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Praha",
+    "qs:la_lc":"*CZ0100554782",
+    "qs:level":"locality",
+    "qs:loc":"Satalice",
+    "qs:loc_alt":"Satalice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"070b0988-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3066392,
+        "gp:id":797775,
+        "qs:id":8,
+        "wd:id":"Q3509354"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e376c802f48c4c5c02e83ce693fc6584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101754439,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":101754439,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1513945667,
+    "wof:name":"Satalice",
+    "wof:parent_id":85682437,
+    "wof:placetype":"locality",
+    "wof:population":2069,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56094395153389,
+    50.11947805278209,
+    14.58684165321711,
+    50.12962624075095
+],
+  "geometry": {"coordinates":[[[14.56094395153389,50.12545455584308],[14.56099387120582,50.12635310993625],[14.56328157494568,50.12626155161814],[14.56345349864193,50.12805577381636],[14.56903799144669,50.12783202955802],[14.56921014033168,50.12962624075095],[14.57200247321765,50.12951426130923],[14.57191634449663,50.12861715830104],[14.57331248030289,50.12856114417485],[14.57322632950581,50.12766404204825],[14.57462243617908,50.12760801205656],[14.57453626330829,50.12671091081171],[14.58012055541559,50.12648662492478],[14.58020683278221,50.12738372131611],[14.58160292440601,50.12732760593781],[14.58168923195359,50.12822470078402],[14.58308534668942,50.1281685671139],[14.58282635785054,50.12547728522588],[14.58422239120324,50.12542113812327],[14.58404970003221,50.12362695097136],[14.58684165321711,50.12351461039879],[14.58666887381531,50.12172042678213],[14.58248109622019,50.12188890473732],[14.58239479095789,50.1209918087867],[14.58099888518291,50.12104793274108],[14.58108516432958,50.12194502990599],[14.57550140666342,50.12216935983042],[14.57524289477345,50.11947805278209],[14.57245115458528,50.11959010802025],[14.5725372689347,50.12048721312527],[14.5683495577702,50.12065517155946],[14.56826352176591,50.11975806282072],[14.56547175153884,50.11986994731598],[14.56555773531164,50.12076705847517],[14.5627659008494,50.1208788770914],[14.56319561916047,50.12536444002336],[14.56094395153389,50.12545455584308]]],"type":"Polygon"}
+}

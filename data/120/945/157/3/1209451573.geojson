@@ -1,0 +1,62 @@
+{
+  "id": 1209451573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89588,49.90772,14.89588,49.90772",
+    "geom:latitude":49.90772,
+    "geom:longitude":14.89588,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0209",
+    "gn:asciiname":"Drletin",
+    "gn:country_code":"CZ",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076412,
+    "gn:latitude":49.90772,
+    "gn:longitude":14.89588,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Drlet\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076412
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"39c0f9580d3c32f13db7e6364bb0e0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209451573
+        }
+    ],
+    "wof:id":1209451573,
+    "wof:lastmodified":1536286656,
+    "wof:name":"Drletin",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.895879999999998,
+    49.90772,
+    14.895879999999998,
+    49.90772
+],
+  "geometry": {"coordinates":[14.89588,49.90772],"type":"Point"}
+}

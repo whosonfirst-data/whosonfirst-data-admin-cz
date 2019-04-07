@@ -1,0 +1,70 @@
+{
+  "id": 1226783357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.67114,49.85102,12.67114,49.85102",
+    "geom:latitude":49.85102,
+    "geom:longitude":12.67114,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Neblazov",
+    "gn:country_code":"CZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069998,
+    "gn:latitude":49.85102,
+    "gn:longitude":12.67114,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Nebla\u017eov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glasau",
+        "Nebla\u017eov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069998
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4804af425e2d4269d545694d1f36bae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226783357,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1226783357,
+    "wof:lastmodified":1537619349,
+    "wof:name":"Neblazov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.67114,
+    49.85102,
+    12.67114,
+    49.85102
+],
+  "geometry": {"coordinates":[12.67114,49.85102],"type":"Point"}
+}

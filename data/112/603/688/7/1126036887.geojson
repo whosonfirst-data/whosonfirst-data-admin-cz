@@ -1,0 +1,137 @@
+{
+  "id": 1126036887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50129,49.02359,16.50129,49.02359",
+    "geom:latitude":49.02359,
+    "geom:longitude":16.50129,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":390,
+    "gn:population":390,
+    "iso:country":"CZ",
+    "lbl:latitude":49.02359,
+    "lbl:longitude":16.50129,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:dut_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:eng_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:fre_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:ger_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:hun_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:ita_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:may_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0644\u0634\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:por_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:rup_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:slo_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:swe_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "name:unk_x_variant":[
+        "Malspitz"
+    ],
+    "name:vie_x_preferred":[
+        "Male\u0161ovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071151,
+    "qs_pg:gn_pop":390,
+    "qs_pg:name":"Male\u0161ovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":966007,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793491,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071151,
+        "gp:id":793491,
+        "qs_pg:id":966007,
+        "wd:id":"Q1300055"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497301842,
+    "wof:geomhash":"bbaa882491ecf0a4bb5802f781c204a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126036887,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1126036887,
+    "wof:lastmodified":1513945339,
+    "wof:name":"Male\u0161ovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":390,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50129,
+    49.02359,
+    16.50129,
+    49.02359
+],
+  "geometry": {"coordinates":[16.50129,49.02359],"type":"Point"}
+}

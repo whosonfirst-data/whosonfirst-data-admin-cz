@@ -1,0 +1,139 @@
+{
+  "id": 1126045465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2985,50.49816,15.2985,50.49816",
+    "geom:latitude":50.49816,
+    "geom:longitude":15.2985,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":730,
+    "gn:population":730,
+    "iso:country":"CZ",
+    "lbl:latitude":50.49816,
+    "lbl:longitude":15.2985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053c\u056b\u0562\u0578\u0582\u0576"
+    ],
+    "name:cze_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:dut_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:eng_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:fre_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:ger_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:hun_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:ita_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:may_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:pol_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:por_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:slo_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0431\u0443\u045a"
+    ],
+    "name:swe_x_preferred":[
+        "Libu\u0148"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0431\u0443\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Libu\u0148"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071884,
+    "qs_pg:gn_pop":730,
+    "qs_pg:name":"Libu\u0148",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":326050,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792837,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071884,
+        "gp:id":792837,
+        "qs_pg:id":326050,
+        "wd:id":"Q1823175"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302406,
+    "wof:geomhash":"d53b84699266395a179fa62cbd1a1511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126045465,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1126045465,
+    "wof:lastmodified":1513945295,
+    "wof:name":"Libu\u0148",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":730,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2985,
+    50.49816,
+    15.2985,
+    50.49816
+],
+  "geometry": {"coordinates":[15.2985,50.49816],"type":"Point"}
+}

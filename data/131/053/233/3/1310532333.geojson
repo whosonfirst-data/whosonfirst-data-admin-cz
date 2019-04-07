@@ -1,0 +1,66 @@
+{
+  "id": 1310532333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78333,49.56667,18.78333,49.56667",
+    "geom:latitude":49.56667,
+    "geom:longitude":18.78333,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Nizni Lisky",
+    "gn:country_code":"CZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069728,
+    "gn:latitude":49.56667,
+    "gn:longitude":18.78333,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Ni\u017en\u00ed L\u00edsky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069728
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9d5d8122478a25c46885ee901c5b9899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310532333,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1310532333,
+    "wof:lastmodified":1536877475,
+    "wof:name":"Nizni Lisky",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78333,
+    49.56667,
+    18.78333,
+    49.56667
+],
+  "geometry": {"coordinates":[18.78333,49.56667],"type":"Point"}
+}

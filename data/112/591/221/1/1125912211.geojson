@@ -1,0 +1,89 @@
+{
+  "id": 1125912211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59919,49.21792,14.59919,49.21792",
+    "geom:latitude":49.21792,
+    "geom:longitude":14.59919,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":258,
+    "gn:population":258,
+    "iso:country":"CZ",
+    "lbl:latitude":49.21792,
+    "lbl:longitude":14.59919,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Zalaschi"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061917,
+    "qs_pg:gn_pop":258,
+    "qs_pg:name":"Z\u00e1l\u0161\u00ed",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":401486,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801693,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061917,
+        "gp:id":801693,
+        "qs_pg:id":401486
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296176,
+    "wof:geomhash":"1f0f06fca45064d96d42c0f54e798c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125912211,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125912211,
+    "wof:lastmodified":1509400256,
+    "wof:name":"Z\u00e1l\u0161\u00ed",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":258,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59919,
+    49.21792,
+    14.59919,
+    49.21792
+],
+  "geometry": {"coordinates":[14.59919,49.21792],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 101840861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":935773.842561,
+    "geom:bbox":"13.4154010596,49.7998492434,13.435495854,49.8132365098",
+    "geom:latitude":49.807132,
+    "geom:longitude":13.426897,
+    "iso:country":"CZ",
+    "lbl:latitude":49.805386,
+    "lbl:longitude":13.424538,
+    "mps:latitude":49.805386,
+    "mps:longitude":13.424538,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Zru\u010d"
+    ],
+    "name:eng_x_preferred":[
+        "Zru\u010d"
+    ],
+    "name:fre_x_preferred":[
+        "Zru\u010d"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Plzensk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Plze\u0148",
+    "qs:la_lc":"*CZ0323554791",
+    "qs:level":"locality",
+    "qs:loc":"Zru\u010d",
+    "qs:loc_alt":"Zruc",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061333,
+        "gp:id":12610596,
+        "qs:id":9,
+        "wd:id":"Q10861477"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d5d0330395768b1bc2a5c3d11076bba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101840861,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":101840861,
+    "wof:lastmodified":1513945972,
+    "wof:name":"Zru\u010d",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41540105964708,
+    49.79984924336884,
+    13.43549585395988,
+    49.8132365097569
+],
+  "geometry": {"coordinates":[[[13.42477218913865,49.79985267565348],[13.41540105964708,49.80913537045336],[13.42691250750829,49.808788091618],[13.42697643373208,49.80968616751125],[13.42836429916071,49.8096442128857],[13.42862013711135,49.8132365097569],[13.43139606768671,49.81315254237933],[13.43133205212143,49.81225447042829],[13.43549585395988,49.81212839475376],[13.43511135910666,49.80673997275784],[13.43372358213492,49.80678200954634],[13.43359549271088,49.80498586459299],[13.42804456895681,49.80515383481543],[13.42778883856562,49.80156152677012],[13.42501356967983,49.80164540285341],[13.4248858255296,49.79984924336884],[13.42477218913865,49.79985267565348]]],"type":"Polygon"}
+}

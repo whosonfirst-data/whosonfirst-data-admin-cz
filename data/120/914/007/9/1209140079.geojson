@@ -1,0 +1,66 @@
+{
+  "id": 1209140079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59305,49.54318,15.59305,49.54318",
+    "geom:latitude":49.54318,
+    "geom:longitude":15.59305,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Kvetnov",
+    "gn:country_code":"CZ",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072435,
+    "gn:latitude":49.54318,
+    "gn:longitude":15.59305,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Kv\u011btnov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blumendorf",
+        "Kv\u011btnov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072435
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"44a83861a7b1ab1a666da4bd8bb88a0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209140079
+        }
+    ],
+    "wof:id":1209140079,
+    "wof:lastmodified":1537619380,
+    "wof:name":"Kvetnov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59305,
+    49.54318,
+    15.59305,
+    49.54318
+],
+  "geometry": {"coordinates":[15.59305,49.54318],"type":"Point"}
+}

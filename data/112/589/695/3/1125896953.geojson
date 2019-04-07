@@ -1,0 +1,95 @@
+{
+  "id": 1125896953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88027,50.18602,12.88027,50.18602",
+    "geom:latitude":50.18602,
+    "geom:longitude":12.88027,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CZ",
+    "lbl:latitude":50.18602,
+    "lbl:longitude":12.88027,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "H\u00e1je"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00e1je"
+    ],
+    "name:ger_x_preferred":[
+        "H\u00e1je"
+    ],
+    "name:unk_x_variant":[
+        "Funk\u0161tejn"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076025,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"H\u00e1je",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Karlovarsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":384762,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":24929703,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Karlovarsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076025,
+        "gp:id":24929703,
+        "qs_pg:id":384762,
+        "wd:id":"Q1110098"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295619,
+    "wof:geomhash":"58fbaf22440deeb0083f383eecbeb468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125896953,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1125896953,
+    "wof:lastmodified":1513945080,
+    "wof:name":"H\u00e1je",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88027,
+    50.18602,
+    12.88027,
+    50.18602
+],
+  "geometry": {"coordinates":[12.88027,50.18602],"type":"Point"}
+}

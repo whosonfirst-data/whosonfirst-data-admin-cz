@@ -1,0 +1,70 @@
+{
+  "id": 1310439203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36526,50.59003,14.36526,50.59003",
+    "geom:latitude":50.59003,
+    "geom:longitude":14.36526,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Svobodna Ves",
+    "gn:country_code":"CZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064443,
+    "gn:latitude":50.59003,
+    "gn:longitude":14.36526,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Svobodn\u00e1 Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Freidorf",
+        "Svobodn\u00e1 Ves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064443
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8fa9a0fdbb5568e22334b6d37031c9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310439203,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1310439203,
+    "wof:lastmodified":1537619283,
+    "wof:name":"Svobodna Ves",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36526,
+    50.59003,
+    14.36526,
+    50.59003
+],
+  "geometry": {"coordinates":[14.36526,50.59003],"type":"Point"}
+}

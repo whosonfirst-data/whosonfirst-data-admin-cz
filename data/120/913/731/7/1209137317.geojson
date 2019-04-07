@@ -1,0 +1,62 @@
+{
+  "id": 1209137317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00363,49.59235,15.00363,49.59235",
+    "geom:latitude":49.59235,
+    "geom:longitude":15.00363,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Caslavko",
+    "gn:country_code":"CZ",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078232,
+    "gn:latitude":49.59235,
+    "gn:longitude":15.00363,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"\u010c\u00e1slavko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078232
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"acf2f9619837bf0884575547bea94991",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209137317
+        }
+    ],
+    "wof:id":1209137317,
+    "wof:lastmodified":1536296619,
+    "wof:name":"Caslavko",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00363,
+    49.59235,
+    15.00363,
+    49.59235
+],
+  "geometry": {"coordinates":[15.00363,49.59235],"type":"Point"}
+}

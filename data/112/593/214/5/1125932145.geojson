@@ -1,0 +1,141 @@
+{
+  "id": 1125932145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28128,49.09769,16.28128,49.09769",
+    "geom:latitude":49.09769,
+    "geom:longitude":16.28128,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":174,
+    "gn:population":174,
+    "iso:country":"CZ",
+    "lbl:latitude":49.09769,
+    "lbl:longitude":16.28128,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0532\u056b\u057d\u056f\u0578\u0578\u0582\u057a\u056f\u056b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0441\u043a\u043e\u0443\u043f\u043a\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:dut_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:eng_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:fre_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:ger_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:hun_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:ita_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:may_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:nan_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0633\u06a9\u0648\u0648\u067e\u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:por_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:rup_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:slo_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:swe_x_preferred":[
+        "Biskoupky"
+    ],
+    "name:vie_x_preferred":[
+        "Biskoupky"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079314,
+    "qs_pg:gn_pop":174,
+    "qs_pg:name":"Biskoupky",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":397317,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786241,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079314,
+        "gp:id":786241,
+        "qs_pg:id":397317,
+        "wd:id":"Q866380"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296841,
+    "wof:geomhash":"db144995e9bf70f07f5080f3ab1385a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125932145,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125932145,
+    "wof:lastmodified":1553816640,
+    "wof:name":"Biskoupky",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28128,
+    49.09769,
+    16.28128,
+    49.09769
+],
+  "geometry": {"coordinates":[16.28128,49.09769],"type":"Point"}
+}

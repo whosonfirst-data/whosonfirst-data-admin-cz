@@ -1,0 +1,66 @@
+{
+  "id": 1343292973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.42126,49.28494,13.42126,49.28494",
+    "geom:latitude":49.28494,
+    "geom:longitude":13.42126,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Ujcin",
+    "gn:country_code":"CZ",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063700,
+    "gn:latitude":49.28494,
+    "gn:longitude":13.42126,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Uj\u010d\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063700
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"932b9de79d8cd008d4e3e1cfd1012594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343292973,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343292973,
+    "wof:lastmodified":1536987247,
+    "wof:name":"Ujcin",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.42126,
+    49.28494,
+    13.42126,
+    49.28494
+],
+  "geometry": {"coordinates":[13.42126,49.28494],"type":"Point"}
+}

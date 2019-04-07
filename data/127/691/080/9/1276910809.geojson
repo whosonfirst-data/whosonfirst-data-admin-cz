@@ -1,0 +1,66 @@
+{
+  "id": 1276910809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47284,50.19844,15.47284,50.19844",
+    "geom:latitude":50.19844,
+    "geom:longitude":15.47284,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Zadrazany",
+    "gn:country_code":"CZ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062059,
+    "gn:latitude":50.19844,
+    "gn:longitude":15.47284,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Zadra\u017eany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062059
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2bf016ebe4fc0d80358eeb173ccc8aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276910809,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1276910809,
+    "wof:lastmodified":1536998960,
+    "wof:name":"Zadrazany",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47284,
+    50.19844000000001,
+    15.47284,
+    50.19844000000001
+],
+  "geometry": {"coordinates":[15.47284,50.19844000000001],"type":"Point"}
+}

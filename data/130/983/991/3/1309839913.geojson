@@ -1,0 +1,66 @@
+{
+  "id": 1309839913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33333,49.46667,18.33333,49.46667",
+    "geom:latitude":49.46667,
+    "geom:longitude":18.33333,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Mohyla",
+    "gn:country_code":"CZ",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070402,
+    "gn:latitude":49.46667,
+    "gn:longitude":18.33333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Mohyla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070402
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b906ea1124218776fe8df7ebd2a65bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309839913,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1309839913,
+    "wof:lastmodified":1536881281,
+    "wof:name":"Mohyla",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33333,
+    49.46667,
+    18.33333,
+    49.46667
+],
+  "geometry": {"coordinates":[18.33333,49.46667],"type":"Point"}
+}

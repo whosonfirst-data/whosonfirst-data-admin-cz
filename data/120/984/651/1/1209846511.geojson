@@ -1,0 +1,66 @@
+{
+  "id": 1209846511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2,49.35,13.2,49.35",
+    "geom:latitude":49.35,
+    "geom:longitude":13.2,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Spule",
+    "gn:country_code":"CZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065503,
+    "gn:latitude":49.35,
+    "gn:longitude":13.2,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Sp\u016fle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065503
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3406897f68fa73948f97a2e268f776b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209846511,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1209846511,
+    "wof:lastmodified":1536390408,
+    "wof:name":"Spule",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2,
+    49.35,
+    13.2,
+    49.35
+],
+  "geometry": {"coordinates":[13.2,49.35],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 1125875207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56367,50.40258,13.56367,50.40258",
+    "geom:latitude":50.40258,
+    "geom:longitude":13.56367,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":292,
+    "gn:population":292,
+    "iso:country":"CZ",
+    "lbl:latitude":50.40258,
+    "lbl:longitude":13.56367,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:dut_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:eng_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:fre_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:ger_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:hun_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:ita_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:may_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u0645\u06cc\u0634\u0644\u0648\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:rup_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:slo_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043c\u0438\u0448\u043b\u0435\u0432\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "name:unk_x_variant":[
+        "Welmschloss"
+    ],
+    "name:vie_x_preferred":[
+        "Velemy\u0161leves"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063317,
+    "qs_pg:gn_pop":292,
+    "qs_pg:name":"Velemy\u0161leves",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":401108,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800453,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063317,
+        "gp:id":800453,
+        "qs_pg:id":401108,
+        "wd:id":"Q1856745"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294504,
+    "wof:geomhash":"51b3562a873d7d70ca66c4ad8996fe34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125875207,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125875207,
+    "wof:lastmodified":1513945845,
+    "wof:name":"Velemy\u0161leves",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56367,
+    50.40258,
+    13.56367,
+    50.40258
+],
+  "geometry": {"coordinates":[13.56367,50.40258],"type":"Point"}
+}

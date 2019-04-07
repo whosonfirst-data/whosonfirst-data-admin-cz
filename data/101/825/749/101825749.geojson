@@ -1,0 +1,114 @@
+{
+  "id": 101825749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":578053.72058,
+    "geom:bbox":"14.0855554878,50.1712549577,14.0993803952,50.1819245834",
+    "geom:latitude":50.176357,
+    "geom:longitude":14.092945,
+    "gn:population":1739,
+    "iso:country":"CZ",
+    "lbl:latitude":50.175833,
+    "lbl:longitude":14.093626,
+    "mps:latitude":50.175833,
+    "mps:longitude":14.093626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vina\u0159ice"
+    ],
+    "name:ces_x_preferred":[
+        "Vina\u0159ice"
+    ],
+    "name:fra_x_preferred":[
+        "Vina\u0159ice"
+    ],
+    "name:hun_x_preferred":[
+        "Vina\u0159ice"
+    ],
+    "name:ita_x_preferred":[
+        "Vina\u0159ice"
+    ],
+    "name:msa_x_preferred":[
+        "Vina\u0159ice"
+    ],
+    "name:nld_x_preferred":[
+        "Vina\u0159ice"
+    ],
+    "name:por_x_preferred":[
+        "Vina\u0159ice"
+    ],
+    "name:slk_x_preferred":[
+        "Vina\u0159ice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043d\u0430\u0440\u0436\u0438\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "W\u00edna\u0159itz"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Stredocesk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Vina\u0159ice",
+    "qs:la_lc":"*CZ0203533050",
+    "qs:level":"locality",
+    "qs:loc":"Vina\u0159ice",
+    "qs:loc_alt":"Vinarice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062885,
+        "gp:id":800836,
+        "qs:id":1232934,
+        "qs_pg:id":903356,
+        "wd:id":"Q2537881",
+        "wk:page":"Vina\u0159ice (Kladno District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"25037ff3cc1fa7833e361d0df2d67688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825749,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":101825749,
+    "wof:lastmodified":1507750719,
+    "wof:name":"Vina\u0159ice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":1739,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08555548782186,
+    50.17125495768039,
+    14.09938039516186,
+    50.18192458343361
+],
+  "geometry": {"coordinates":[[[14.09728034465593,50.18177404844204],[14.09658460247419,50.17369667891342],[14.09938039516186,50.17359625629103],[14.09930305621117,50.17269877141507],[14.0979051874512,50.17274899019179],[14.09782787837366,50.17185150391714],[14.09503218520797,50.17195188797126],[14.09510944182296,50.17284937642177],[14.08951791815718,50.17304994358676],[14.08936361841637,50.17125495768039],[14.08796578321733,50.17130505452951],[14.08835142864956,50.17579252240188],[14.08555548782186,50.17589267563261],[14.0857096664688,50.17768766495658],[14.09130174723879,50.17748728136968],[14.09153335733436,50.180179750001],[14.09293144950243,50.18012960806811],[14.09308592690184,50.18192458343361],[14.09728034465593,50.18177404844204]]],"type":"Polygon"}
+}

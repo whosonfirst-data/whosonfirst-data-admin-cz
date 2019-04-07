@@ -1,0 +1,138 @@
+{
+  "id": 1125969029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66701,49.56259,17.66701,49.56259",
+    "geom:latitude":49.56259,
+    "geom:longitude":17.66701,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":378,
+    "gn:population":378,
+    "iso:country":"CZ",
+    "lbl:latitude":49.56259,
+    "lbl:longitude":17.66701,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u043d\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Milenov"
+    ],
+    "name:dut_x_preferred":[
+        "Milenov"
+    ],
+    "name:eng_x_preferred":[
+        "Milenov"
+    ],
+    "name:epo_x_preferred":[
+        "Milenov"
+    ],
+    "name:fre_x_preferred":[
+        "Milenov"
+    ],
+    "name:ger_x_preferred":[
+        "Milenov"
+    ],
+    "name:hun_x_preferred":[
+        "Milenov"
+    ],
+    "name:ita_x_preferred":[
+        "Milenov"
+    ],
+    "name:may_x_preferred":[
+        "Milenov"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u0644\u0646\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Milenov"
+    ],
+    "name:por_x_preferred":[
+        "Milenov"
+    ],
+    "name:slo_x_preferred":[
+        "Milenov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u043d\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Milenov"
+    ],
+    "name:vie_x_preferred":[
+        "Milenov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070695,
+    "qs_pg:gn_pop":378,
+    "qs_pg:name":"Milenov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399401,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793894,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070695,
+        "gp:id":793894,
+        "qs_pg:id":399401,
+        "wd:id":"Q1934645"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298093,
+    "wof:geomhash":"6cb4fb9fb42f73768ccdbf281cb16d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125969029,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125969029,
+    "wof:lastmodified":1513945360,
+    "wof:name":"Milenov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66701,
+    49.56259,
+    17.66701,
+    49.56259
+],
+  "geometry": {"coordinates":[17.66701,49.56259],"type":"Point"}
+}

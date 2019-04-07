@@ -1,0 +1,146 @@
+{
+  "id": 1125937547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35435,49.09113,14.35435,49.09113",
+    "geom:latitude":49.09113,
+    "geom:longitude":14.35435,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":277,
+    "gn:population":277,
+    "iso:country":"CZ",
+    "lbl:latitude":49.09113,
+    "lbl:longitude":14.35435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0439\u0434\u043b\u043e\u0432\u0430\u0440\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:dut_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:eng_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:fre_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:ger_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:hun_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:ita_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:may_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:nan_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u062f\u0644\u0648\u0648\u0627\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:por_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:rup_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:slo_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0434\u043b\u043e\u0432\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mydlovary"
+    ],
+    "name:unk_x_variant":[
+        "Mydlowar"
+    ],
+    "name:vie_x_preferred":[
+        "Mydlovary"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070178,
+    "qs_pg:gn_pop":277,
+    "qs_pg:name":"Mydlovary",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":183078,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794354,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070178,
+        "gp:id":794354,
+        "qs_pg:id":183078,
+        "wd:id":"Q579760"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297014,
+    "wof:geomhash":"77fcf03ad7da76943fcbd226486d500b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125937547,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125937547,
+    "wof:lastmodified":1513945399,
+    "wof:name":"Mydlovary",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":277,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35435,
+    49.09113,
+    14.35435,
+    49.09113
+],
+  "geometry": {"coordinates":[14.35435,49.09113],"type":"Point"}
+}

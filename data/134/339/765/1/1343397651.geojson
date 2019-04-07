@@ -1,0 +1,70 @@
+{
+  "id": 1343397651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.71932,50.26936,12.71932,50.26936",
+    "geom:latitude":50.26936,
+    "geom:longitude":12.71932,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Nove Chalupy",
+    "gn:country_code":"CZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069533,
+    "gn:latitude":50.26936,
+    "gn:longitude":12.71932,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Nov\u00e9 Chalupy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neuh\u00e4user",
+        "Nov\u00e9 Chalupy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069533
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"33960791203d7eeba03dd84e933c1535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343397651,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1343397651,
+    "wof:lastmodified":1537619342,
+    "wof:name":"Nove Chalupy",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.71932,
+    50.26936,
+    12.71932,
+    50.26936
+],
+  "geometry": {"coordinates":[12.71932,50.26936],"type":"Point"}
+}

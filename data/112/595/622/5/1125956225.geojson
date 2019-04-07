@@ -1,0 +1,141 @@
+{
+  "id": 1125956225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79562,50.36729,14.79562,50.36729",
+    "geom:latitude":50.36729,
+    "geom:longitude":14.79562,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":842,
+    "gn:population":842,
+    "iso:country":"CZ",
+    "lbl:latitude":50.36729,
+    "lbl:longitude":14.79562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0437\u043d\u043e"
+    ],
+    "name:cze_x_preferred":[
+        "Bezno"
+    ],
+    "name:dut_x_preferred":[
+        "Bezno"
+    ],
+    "name:eng_x_preferred":[
+        "Bezno"
+    ],
+    "name:fre_x_preferred":[
+        "Bezno"
+    ],
+    "name:ger_x_preferred":[
+        "Bezno"
+    ],
+    "name:hun_x_preferred":[
+        "Bezno"
+    ],
+    "name:ita_x_preferred":[
+        "Bezno"
+    ],
+    "name:may_x_preferred":[
+        "Bezno"
+    ],
+    "name:nan_x_preferred":[
+        "Bezno"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0632\u0646\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Bezno"
+    ],
+    "name:por_x_preferred":[
+        "Bezno"
+    ],
+    "name:rup_x_preferred":[
+        "Bezno"
+    ],
+    "name:slo_x_preferred":[
+        "Bezno"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0437\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bezno"
+    ],
+    "name:vie_x_preferred":[
+        "Bezno"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079395,
+    "qs_pg:gn_pop":842,
+    "qs_pg:name":"Bezno",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1247305,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786178,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079395,
+        "gp:id":786178,
+        "qs_pg:id":1247305,
+        "wd:id":"Q854433"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297628,
+    "wof:geomhash":"ab6f60af422895b6ed17717f6f637b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125956225,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125956225,
+    "wof:lastmodified":1513944785,
+    "wof:name":"Bezno",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":842,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79562,
+    50.36729,
+    14.79562,
+    50.36729
+],
+  "geometry": {"coordinates":[14.79562,50.36729],"type":"Point"}
+}

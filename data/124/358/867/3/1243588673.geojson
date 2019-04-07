@@ -1,0 +1,66 @@
+{
+  "id": 1243588673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98345,49.05369,17.98345,49.05369",
+    "geom:latitude":49.05369,
+    "geom:longitude":17.98345,
+    "gn:admin1_code":"90",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Zirce",
+    "gn:country_code":"CZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061443,
+    "gn:latitude":49.05369,
+    "gn:longitude":17.98345,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"\u017d\u00edrce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061443
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8bb9501951cb5a8371c559754461262c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243588673,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1243588673,
+    "wof:lastmodified":1537094202,
+    "wof:name":"Zirce",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98345,
+    49.05369,
+    17.98345,
+    49.05369
+],
+  "geometry": {"coordinates":[17.98345,49.05369],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343892585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19104,50.73993,14.19104,50.73993",
+    "geom:latitude":50.73993,
+    "geom:longitude":14.19104,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Nebocady",
+    "gn:country_code":"CZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069997,
+    "gn:latitude":50.73993,
+    "gn:longitude":14.19104,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Nebo\u010dady",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neschwitz",
+        "Nebo\u010dady"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069997
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b02b1d8e1e9dfc248c3eb43f977d1c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343892585,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1343892585,
+    "wof:lastmodified":1537619349,
+    "wof:name":"Nebocady",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19104,
+    50.73993,
+    14.19104,
+    50.73993
+],
+  "geometry": {"coordinates":[14.19104,50.73993],"type":"Point"}
+}

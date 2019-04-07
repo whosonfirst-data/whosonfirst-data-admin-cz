@@ -1,0 +1,129 @@
+{
+  "id": 1125857575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24085,49.31184,17.24085,49.31184",
+    "geom:latitude":49.31184,
+    "geom:longitude":17.24085,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":180,
+    "gn:population":180,
+    "iso:country":"CZ",
+    "lbl:latitude":49.31184,
+    "lbl:longitude":17.24085,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:dut_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:eng_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:fre_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:hun_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:ita_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:may_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u062a\u062a\u0634\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:por_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:slo_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0442\u0447\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "name:vie_x_preferred":[
+        "Vit\u010dice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062829,
+    "qs_pg:gn_pop":180,
+    "qs_pg:name":"Vit\u010dice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1268716,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800882,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062829,
+        "gp:id":800882,
+        "qs_pg:id":1268716,
+        "wd:id":"Q2637767"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293684,
+    "wof:geomhash":"e97bd7353bb7b27d0a488da40f6b0382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125857575,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125857575,
+    "wof:lastmodified":1513945875,
+    "wof:name":"Vit\u010dice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24085,
+    49.31184,
+    17.24085,
+    49.31184
+],
+  "geometry": {"coordinates":[17.24085,49.31184],"type":"Point"}
+}

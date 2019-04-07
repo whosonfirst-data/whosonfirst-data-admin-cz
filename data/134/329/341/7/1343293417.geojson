@@ -1,0 +1,70 @@
+{
+  "id": 1343293417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64742,50.38827,13.64742,50.38827",
+    "geom:latitude":50.38827,
+    "geom:longitude":13.64742,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0424",
+    "gn:asciiname":"Vidovle",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062916,
+    "gn:latitude":50.38827,
+    "gn:longitude":13.64742,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Vidovle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Widobl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062916
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f4ce9b77f6ceaef17c3103d6e0421df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343293417,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1343293417,
+    "wof:lastmodified":1537619268,
+    "wof:name":"Vidovle",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64742,
+    50.38827,
+    13.64742,
+    50.38827
+],
+  "geometry": {"coordinates":[13.64742,50.38827],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 85900747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":33416013.131554,
+    "geom:bbox":"16.699318,49.209279,16.699318,49.209279",
+    "geom:latitude":49.209279,
+    "geom:longitude":16.699318,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":49.209279,
+    "lbl:longitude":16.699318,
+    "mps:latitude":49.208385,
+    "mps:longitude":16.70218,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:cze_x_colloquial":[
+        "Brno-Laaaceaa",
+        "Brno-Lisen"
+    ],
+    "name:cze_x_preferred":[
+        "Brno-Laacea"
+    ],
+    "name:cze_x_variant":[
+        "Lisen",
+        "Losch"
+    ],
+    "name:unk_x_variant":[
+        "Brno-Laacea"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3078610,
+    "qs:local_max":6134,
+    "qs:local_sum":32721,
+    "qs:localhoods":44,
+    "qs:name":"Brno-Laacea",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs:name_adm2":"Brno-M\u011bsto",
+    "qs:name_lau":"Brno",
+    "qs:name_local":"Brno",
+    "qs:photo_max":86,
+    "qs:photo_sum":730,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":89,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070503,
+    "qs:woe_adm2":12582547,
+    "qs:woe_lau":12605174,
+    "qs:woe_local":786869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":792964,
+        "qs:id":1150021,
+        "qs_pg:id":1150021
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"de18d097e1ab4b31bd71ca59f19be58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900747,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85900747,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932375,
+    "wof:name":"Brno-Laacea",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.699318,
+    49.209279,
+    16.699318,
+    49.209279
+],
+  "geometry": {"coordinates":[16.699318,49.209279],"type":"Point"}
+}

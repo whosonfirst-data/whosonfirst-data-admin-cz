@@ -1,0 +1,73 @@
+{
+  "id": 1259520429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6409,49.90816,16.6409,49.90816",
+    "geom:latitude":49.90816,
+    "geom:longitude":16.6409,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Sazava",
+    "gn:country_code":"CZ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066383,
+    "gn:latitude":49.90816,
+    "gn:longitude":16.6409,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"S\u00e1zava",
+    "gn:population":548,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zohsee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066383,
+        "wk:page":"S%C3%A1zava_%28%C3%9Ast%C3%AD_nad_Orlic%C3%AD_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"971e60fabc6df988131e2a1af174e373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259520429,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1259520429,
+    "wof:lastmodified":1537619307,
+    "wof:name":"Sazava",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":548,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6409,
+    49.90816,
+    16.6409,
+    49.90816
+],
+  "geometry": {"coordinates":[16.6409,49.90816],"type":"Point"}
+}

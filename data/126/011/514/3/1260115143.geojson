@@ -1,0 +1,70 @@
+{
+  "id": 1260115143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88571,49.68928,17.88571,49.68928",
+    "geom:latitude":49.68928,
+    "geom:longitude":17.88571,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0804",
+    "gn:asciiname":"Jestrabi",
+    "gn:country_code":"CZ",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074263,
+    "gn:latitude":49.68928,
+    "gn:longitude":17.88571,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Jest\u0159ab\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jastersdorf",
+        "Jest\u0159ab\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074263
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d78642a9fbbf55b506dfa04bd552f332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260115143,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1260115143,
+    "wof:lastmodified":1537619398,
+    "wof:name":"Jestrabi",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88571,
+    49.68928,
+    17.88571,
+    49.68928
+],
+  "geometry": {"coordinates":[17.88571,49.68928],"type":"Point"}
+}

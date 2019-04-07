@@ -1,0 +1,66 @@
+{
+  "id": 1209547079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19607,50.43077,15.19607,50.43077",
+    "geom:latitude":50.43077,
+    "geom:longitude":15.19607,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Markvartice",
+    "gn:country_code":"CZ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070999,
+    "gn:latitude":50.43077,
+    "gn:longitude":15.19607,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Markvartice",
+    "gn:population":458,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070999,
+        "wk:page":"Markvartice_%28Ji%C4%8D%C3%ADn_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"62f5908938255f0a76ca4d458fdddb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209547079
+        }
+    ],
+    "wof:id":1209547079,
+    "wof:lastmodified":1537504043,
+    "wof:name":"Markvartice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:population":458,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19607,
+    50.43077,
+    15.19607,
+    50.43077
+],
+  "geometry": {"coordinates":[15.19607,50.43077],"type":"Point"}
+}

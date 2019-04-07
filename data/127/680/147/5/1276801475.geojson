@@ -1,0 +1,70 @@
+{
+  "id": 1276801475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68073,50.50464,13.68073,50.50464",
+    "geom:latitude":50.50464,
+    "geom:longitude":13.68073,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0425",
+    "gn:asciiname":"Chanov",
+    "gn:country_code":"CZ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077847,
+    "gn:latitude":50.50464,
+    "gn:longitude":13.68073,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Chanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khan",
+        "Chanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077847
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"71b705e87d27c78b89718d7b2aa3963b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276801475,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276801475,
+    "wof:lastmodified":1537619445,
+    "wof:name":"Chanov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68073,
+    50.50464,
+    13.68073,
+    50.50464
+],
+  "geometry": {"coordinates":[13.68073,50.50464],"type":"Point"}
+}

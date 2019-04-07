@@ -1,0 +1,66 @@
+{
+  "id": 1209251233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59169,49.90632,14.59169,49.90632",
+    "geom:latitude":49.90632,
+    "geom:longitude":14.59169,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0209",
+    "gn:asciiname":"Olesovice",
+    "gn:country_code":"CZ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069013,
+    "gn:latitude":49.90632,
+    "gn:longitude":14.59169,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Ole\u0161ovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Woleschowitz",
+        "Ole\u0161ovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069013
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e4ba30a17b988d7a920dfd8fbebd5708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209251233
+        }
+    ],
+    "wof:id":1209251233,
+    "wof:lastmodified":1537619334,
+    "wof:name":"Olesovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59169,
+    49.90632,
+    14.59169,
+    49.90632
+],
+  "geometry": {"coordinates":[14.59169,49.90632],"type":"Point"}
+}

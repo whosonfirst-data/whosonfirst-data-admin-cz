@@ -1,0 +1,66 @@
+{
+  "id": 1344092785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63533,50.03741,14.63533,50.03741",
+    "geom:latitude":50.03741,
+    "geom:longitude":14.63533,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"8378793",
+    "gn:asciiname":"Kralovice",
+    "gn:country_code":"CZ",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072940,
+    "gn:latitude":50.03741,
+    "gn:longitude":14.63533,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"Kr\u00e1lovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072940
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f3322eb9eb0b88e98036cca3e3d28962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344092785,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":1344092785,
+    "wof:lastmodified":1536827999,
+    "wof:name":"Kralovice",
+    "wof:parent_id":85682437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63533,
+    50.03741,
+    14.63533,
+    50.03741
+],
+  "geometry": {"coordinates":[14.63533,50.03741],"type":"Point"}
+}

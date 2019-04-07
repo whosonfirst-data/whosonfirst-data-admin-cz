@@ -1,0 +1,62 @@
+{
+  "id": 1209035633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90162,50.40603,14.90162,50.40603",
+    "geom:latitude":50.40603,
+    "geom:longitude":14.90162,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Cejeticky",
+    "gn:country_code":"CZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078184,
+    "gn:latitude":50.40603,
+    "gn:longitude":14.90162,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"\u010cejeti\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078184
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a6ee776d8879844d62f3b74978a98a18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209035633
+        }
+    ],
+    "wof:id":1209035633,
+    "wof:lastmodified":1536299710,
+    "wof:name":"Cejeticky",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90162,
+    50.40603,
+    14.90162,
+    50.40603
+],
+  "geometry": {"coordinates":[14.90162,50.40603],"type":"Point"}
+}

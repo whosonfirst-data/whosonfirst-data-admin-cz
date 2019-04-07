@@ -1,0 +1,70 @@
+{
+  "id": 1259814923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5472,49.30946,14.5472,49.30946",
+    "geom:latitude":49.30946,
+    "geom:longitude":14.5472,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Bechynska Smolec",
+    "gn:country_code":"CZ",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079615,
+    "gn:latitude":49.30946,
+    "gn:longitude":14.5472,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Bechy\u0148sk\u00e1 Smole\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smole\u010d",
+        "Bechy\u0148sk\u00e1 Smole\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079615
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4a5b1899dba3ad71587f8f5a2c4c0ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259814923,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259814923,
+    "wof:lastmodified":1537619464,
+    "wof:name":"Bechynska Smolec",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5472,
+    49.30946,
+    14.5472,
+    49.30946
+],
+  "geometry": {"coordinates":[14.5472,49.30946],"type":"Point"}
+}

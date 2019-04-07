@@ -1,0 +1,132 @@
+{
+  "id": 1125926877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70224,49.64692,13.70224,49.64692",
+    "geom:latitude":49.64692,
+    "geom:longitude":13.70224,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":102,
+    "gn:population":102,
+    "iso:country":"CZ",
+    "lbl:latitude":49.64692,
+    "lbl:longitude":13.70224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Trokavec"
+    ],
+    "name:dut_x_preferred":[
+        "Trokavec"
+    ],
+    "name:eng_x_preferred":[
+        "Trokavec"
+    ],
+    "name:fre_x_preferred":[
+        "Trokavec"
+    ],
+    "name:hun_x_preferred":[
+        "Trokavec"
+    ],
+    "name:ita_x_preferred":[
+        "Trokavec"
+    ],
+    "name:may_x_preferred":[
+        "Trokavec"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0631\u0648\u06a9\u0627\u0648\u062a\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Trokavec"
+    ],
+    "name:por_x_preferred":[
+        "Trokavec"
+    ],
+    "name:slo_x_preferred":[
+        "Trokavec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u043e\u043a\u0430\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Trokavec"
+    ],
+    "name:szl_x_preferred":[
+        "Trokavec"
+    ],
+    "name:vie_x_preferred":[
+        "Trokavec"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063949,
+    "qs_pg:gn_pop":102,
+    "qs_pg:name":"Trokavec",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1268508,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799898,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063949,
+        "gp:id":799898,
+        "qs_pg:id":1268508,
+        "wd:id":"Q2702666"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296670,
+    "wof:geomhash":"6107174ad4c27fca29f74948b06067b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125926877,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125926877,
+    "wof:lastmodified":1513945801,
+    "wof:name":"Trokavec",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70224,
+    49.64692,
+    13.70224,
+    49.64692
+],
+  "geometry": {"coordinates":[13.70224,49.64692],"type":"Point"}
+}

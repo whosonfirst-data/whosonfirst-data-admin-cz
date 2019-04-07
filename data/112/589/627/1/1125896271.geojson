@@ -1,0 +1,140 @@
+{
+  "id": 1125896271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75195,49.30255,15.75195,49.30255",
+    "geom:latitude":49.30255,
+    "geom:longitude":15.75195,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":273,
+    "gn:population":273,
+    "iso:country":"CZ",
+    "lbl:latitude":49.30255,
+    "lbl:longitude":15.75195,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0441\u043e\u0443\u0437\u0435"
+    ],
+    "name:cze_x_preferred":[
+        "Bransouze"
+    ],
+    "name:dut_x_preferred":[
+        "Bransouze"
+    ],
+    "name:eng_x_preferred":[
+        "Bransouze"
+    ],
+    "name:fre_x_preferred":[
+        "Bransouze"
+    ],
+    "name:ger_x_preferred":[
+        "Bransouze"
+    ],
+    "name:hun_x_preferred":[
+        "Bransouze"
+    ],
+    "name:ita_x_preferred":[
+        "Bransouze"
+    ],
+    "name:may_x_preferred":[
+        "Bransouze"
+    ],
+    "name:nan_x_preferred":[
+        "Bransouze"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0631\u0627\u0646\u0633\u0648\u0648\u0632\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Bransouze"
+    ],
+    "name:por_x_preferred":[
+        "Bransouze"
+    ],
+    "name:rup_x_preferred":[
+        "Bransouze"
+    ],
+    "name:slo_x_preferred":[
+        "Bransouze"
+    ],
+    "name:swe_x_preferred":[
+        "Bransouze"
+    ],
+    "name:vie_x_preferred":[
+        "Bransouze"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078813,
+    "qs_pg:gn_pop":273,
+    "qs_pg:name":"Bransouze",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":938571,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786685,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078813,
+        "gp:id":786685,
+        "qs_pg:id":938571,
+        "wd:id":"Q126541"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295585,
+    "wof:geomhash":"d1e47a9353c1d5233f6b075ad3af015c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125896271,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125896271,
+    "wof:lastmodified":1513944818,
+    "wof:name":"Bransouze",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75195,
+    49.30255,
+    15.75195,
+    49.30255
+],
+  "geometry": {"coordinates":[15.75195,49.30255],"type":"Point"}
+}

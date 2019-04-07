@@ -1,0 +1,132 @@
+{
+  "id": 1125940537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81203,49.34777,13.81203,49.34777",
+    "geom:latitude":49.34777,
+    "geom:longitude":13.81203,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":241,
+    "gn:population":241,
+    "iso:country":"CZ",
+    "lbl:latitude":49.34777,
+    "lbl:longitude":13.81203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:dut_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:eng_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:fre_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:ger_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:hun_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:ita_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:may_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u062a\u0634\u06cc\u062e\u0648\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:rup_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:slo_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0447\u0438\u0445\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "name:vie_x_preferred":[
+        "Me\u010dichov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070903,
+    "qs_pg:gn_pop":241,
+    "qs_pg:name":"Me\u010dichov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399345,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793707,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070903,
+        "gp:id":793707,
+        "qs_pg:id":399345,
+        "wd:id":"Q1176608"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297103,
+    "wof:geomhash":"e53cf92f256b4d6ba51c5d9984616cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125940537,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125940537,
+    "wof:lastmodified":1513945356,
+    "wof:name":"Me\u010dichov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81203,
+    49.34777,
+    13.81203,
+    49.34777
+],
+  "geometry": {"coordinates":[13.81203,49.34777],"type":"Point"}
+}

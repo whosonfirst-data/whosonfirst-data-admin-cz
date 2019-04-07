@@ -1,0 +1,65 @@
+{
+  "id": 102536745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8924972,48.7908306,16.8924972,48.7908306",
+    "geom:latitude":48.790831,
+    "geom:longitude":16.892497,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"531",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582546,
+        "localadmin_id":12605274,
+        "planet_id":1,
+        "state_id":20070503
+    },
+    "wof:belongsto":[
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512506,
+        "icao:code":"LKBA",
+        "oa:id":"29722",
+        "wd:id":"Q25471773"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4704608fc5bf60deadaebec0d92d6dc5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536745,
+            "country_id":85633105,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":102536745,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Breclav Airport",
+    "wof:parent_id":85682423,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.8924972,
+    48.7908306,
+    16.8924972,
+    48.7908306
+],
+  "geometry": {"coordinates":[16.8924972,48.7908306],"type":"Point"}
+}

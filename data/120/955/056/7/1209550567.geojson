@@ -1,0 +1,62 @@
+{
+  "id": 1209550567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52448,49.61334,18.52448,49.61334",
+    "geom:latitude":49.61334,
+    "geom:longitude":18.52448,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Maly Lipovy",
+    "gn:country_code":"CZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071075,
+    "gn:latitude":49.61334,
+    "gn:longitude":18.52448,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Mal\u00fd Lipov\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071075
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1cce70a2359ab56c5581c36824bfaefb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209550567
+        }
+    ],
+    "wof:id":1209550567,
+    "wof:lastmodified":1536283709,
+    "wof:name":"Maly Lipovy",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52448,
+    49.61334,
+    18.52448,
+    49.61334
+],
+  "geometry": {"coordinates":[18.52448,49.61334],"type":"Point"}
+}

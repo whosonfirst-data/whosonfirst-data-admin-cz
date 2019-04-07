@@ -1,0 +1,135 @@
+{
+  "id": 1125979215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.30597,50.5717,16.30597,50.5717",
+    "geom:latitude":50.5717,
+    "geom:longitude":16.30597,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":353,
+    "gn:population":353,
+    "iso:country":"CZ",
+    "lbl:latitude":50.5717,
+    "lbl:longitude":16.30597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:dut_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:eng_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:fre_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:ger_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:ita_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:may_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:por_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:slo_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:spa_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0438\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "K\u0159inice"
+    ],
+    "name:unk_x_variant":[
+        "Weckersdorf"
+    ],
+    "name:vie_x_preferred":[
+        "K\u0159inice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072716,
+    "qs_pg:gn_pop":353,
+    "qs_pg:name":"K\u0159inice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":885652,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792086,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072716,
+        "gp:id":792086,
+        "qs_pg:id":885652,
+        "wd:id":"Q1797663"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298480,
+    "wof:geomhash":"7be0a82b0e1f4ccfe1d00bb55e869564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125979215,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125979215,
+    "wof:lastmodified":1553816676,
+    "wof:name":"K\u0159inice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":353,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30597,
+    50.5717,
+    16.30597,
+    50.5717
+],
+  "geometry": {"coordinates":[16.30597,50.5717],"type":"Point"}
+}

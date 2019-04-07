@@ -1,0 +1,70 @@
+{
+  "id": 1192966903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10428,49.74001,17.10428,49.74001",
+    "geom:latitude":49.74001,
+    "geom:longitude":17.10428,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Renoty",
+    "gn:country_code":"CZ",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066927,
+    "gn:latitude":49.74001,
+    "gn:longitude":17.10428,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Renoty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Einoth",
+        "Renoty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066927
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0a610f6f1b43e95d53ade078e0650a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1192966903,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1192966903,
+    "wof:lastmodified":1537619313,
+    "wof:name":"Renoty",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10428,
+    49.74001,
+    17.10428,
+    49.74001
+],
+  "geometry": {"coordinates":[17.10428,49.74001],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 85907635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1879046.370495,
+    "geom:bbox":"16.6143,49.209231,16.6143,49.209231",
+    "geom:latitude":49.209231,
+    "geom:longitude":16.6143,
+    "gn:latitude":49.20902,
+    "gn:longitude":16.61631,
+    "iso:country":"CZ",
+    "lbl:latitude":49.209231,
+    "lbl:longitude":16.6143,
+    "mps:latitude":49.210312,
+    "mps:longitude":16.616128,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:cze_x_colloquial":[
+        "Cerna Pole",
+        "Eerna Pole"
+    ],
+    "name:cze_x_preferred":[
+        "\u010cern\u00e1 Pole"
+    ],
+    "name:cze_x_variant":[
+        "\u00c8ern\u00e1 Pole"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cern\u00e1 Pole"
+    ],
+    "name:fin_x_preferred":[
+        "\u010cern\u00e1 Pole"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cern\u00e1 Pole"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cern\u00e1 Pole"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cern\u00e1 Pole"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748109,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6639862,
+        "gp:id":23406715,
+        "qs:id":24662,
+        "qs_pg:id":24662,
+        "wd:id":"Q3565523"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9aa14d2287ba932367664105317068ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748109,
+            "neighbourhood_id":85907635,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85907635,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531936613,
+    "wof:name":"\u010cern\u00e1 Pole",
+    "wof:parent_id":101748109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6143,
+    49.209231,
+    16.6143,
+    49.209231
+],
+  "geometry": {"coordinates":[16.6143,49.209231],"type":"Point"}
+}

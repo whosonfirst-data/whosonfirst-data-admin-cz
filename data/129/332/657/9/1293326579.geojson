@@ -1,0 +1,71 @@
+{
+  "id": 1293326579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53338,49.9317,12.53338,49.9317",
+    "geom:latitude":49.9317,
+    "geom:longitude":12.53338,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Slatina",
+    "gn:country_code":"CZ",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065883,
+    "gn:latitude":49.9317,
+    "gn:longitude":12.53338,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Slatina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lohh\u00e4user",
+        "Lohhaeuser",
+        "Slatina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065883
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"44e63df935edba2d0815de27ac6145b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293326579,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1293326579,
+    "wof:lastmodified":1537619302,
+    "wof:name":"Slatina",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53338,
+    49.9317,
+    12.53338,
+    49.9317
+],
+  "geometry": {"coordinates":[12.53338,49.9317],"type":"Point"}
+}

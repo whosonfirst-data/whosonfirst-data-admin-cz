@@ -1,0 +1,66 @@
+{
+  "id": 1209945511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91772,49.8599,15.91772,49.8599",
+    "geom:latitude":49.8599,
+    "geom:longitude":15.91772,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Hlina",
+    "gn:country_code":"CZ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075788,
+    "gn:latitude":49.8599,
+    "gn:longitude":15.91772,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Hl\u00edna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075788
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5b025b7bc2b0d7ec29353eae02fce390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209945511,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1209945511,
+    "wof:lastmodified":1536386575,
+    "wof:name":"Hlina",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91772,
+    49.8599,
+    15.91772,
+    49.8599
+],
+  "geometry": {"coordinates":[15.91772,49.8599],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209140213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43807,49.32067,13.43807,49.32067",
+    "geom:latitude":49.32067,
+    "geom:longitude":13.43807,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Vlckovice",
+    "gn:country_code":"CZ",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062714,
+    "gn:latitude":49.32067,
+    "gn:longitude":13.43807,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Vl\u010dkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062714
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0ea11151207bc97d65f08cc68f3b4cd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209140213
+        }
+    ],
+    "wof:id":1209140213,
+    "wof:lastmodified":1536296529,
+    "wof:name":"Vlckovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.438070000000002,
+    49.32067,
+    13.438070000000002,
+    49.32067
+],
+  "geometry": {"coordinates":[13.43807,49.32067],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310347641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87062,49.71199,16.87062,49.71199",
+    "geom:latitude":49.71199,
+    "geom:longitude":16.87062,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Bezdekov nad Trebuvkou",
+    "gn:country_code":"CZ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079411,
+    "gn:latitude":49.71199,
+    "gn:longitude":16.87062,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Bezd\u011bkov nad T\u0159eb\u016fvkou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079411
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b1725678eaaa5d0533041d97ac4e311d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310347641,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1310347641,
+    "wof:lastmodified":1536646835,
+    "wof:name":"Bezdekov nad Trebuvkou",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87062,
+    49.71199,
+    16.87062,
+    49.71199
+],
+  "geometry": {"coordinates":[16.87062,49.71199],"type":"Point"}
+}

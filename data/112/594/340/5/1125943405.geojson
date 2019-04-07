@@ -1,0 +1,132 @@
+{
+  "id": 1125943405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.994,49.82504,14.994,49.82504",
+    "geom:latitude":49.82504,
+    "geom:longitude":14.994,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":209,
+    "gn:population":209,
+    "iso:country":"CZ",
+    "lbl:latitude":49.82504,
+    "lbl:longitude":14.994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0435\u043a\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Podveky"
+    ],
+    "name:dut_x_preferred":[
+        "Podveky"
+    ],
+    "name:eng_x_preferred":[
+        "Podveky"
+    ],
+    "name:fre_x_preferred":[
+        "Podveky"
+    ],
+    "name:hun_x_preferred":[
+        "Podveky"
+    ],
+    "name:ita_x_preferred":[
+        "Podveky"
+    ],
+    "name:may_x_preferred":[
+        "Podveky"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u062f\u0648\u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Podveky"
+    ],
+    "name:por_x_preferred":[
+        "Podveky"
+    ],
+    "name:slo_x_preferred":[
+        "Podveky"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0435\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Podveky"
+    ],
+    "name:vie_x_preferred":[
+        "Podveky"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067978,
+    "qs_pg:gn_pop":209,
+    "qs_pg:name":"Podveky",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":400029,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796341,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067978,
+        "gp:id":796341,
+        "qs_pg:id":400029,
+        "wd:id":"Q1982510"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297194,
+    "wof:geomhash":"4b19e88aa06575b7e8572661c99e4bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125943405,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125943405,
+    "wof:lastmodified":1513945553,
+    "wof:name":"Podveky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.994,
+    49.82504,
+    14.994,
+    49.82504
+],
+  "geometry": {"coordinates":[14.994,49.82504],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1326958811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.46493,50.07487,13.46493,50.07487",
+    "geom:latitude":50.07487,
+    "geom:longitude":13.46493,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Tlestky",
+    "gn:country_code":"CZ",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064190,
+    "gn:latitude":50.07487,
+    "gn:longitude":13.46493,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Tlestky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064190
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e1dba90ad1d0d1c998a4af9e1658cfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326958811,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1326958811,
+    "wof:lastmodified":1536865344,
+    "wof:name":"Tlestky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46493,
+    50.07487,
+    13.46493,
+    50.07487
+],
+  "geometry": {"coordinates":[13.46493,50.07487],"type":"Point"}
+}

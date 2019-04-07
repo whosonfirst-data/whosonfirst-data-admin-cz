@@ -1,0 +1,113 @@
+{
+  "id": 1126061531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17845,49.85667,18.17845,49.85667",
+    "geom:latitude":49.85667,
+    "geom:longitude":18.17845,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CZ",
+    "lbl:latitude":49.85667,
+    "lbl:longitude":18.17845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Martinov"
+    ],
+    "name:eng_x_preferred":[
+        "Martinov"
+    ],
+    "name:epo_x_preferred":[
+        "Martinov"
+    ],
+    "name:fre_x_preferred":[
+        "Martinov"
+    ],
+    "name:ger_x_preferred":[
+        "Martinov"
+    ],
+    "name:pol_x_preferred":[
+        "Marcin\u00f3w"
+    ],
+    "name:slo_x_preferred":[
+        "Martinov"
+    ],
+    "name:unk_x_variant":[
+        "Martinau"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070956,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Martinov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos":3220,
+    "qs_pg:photos_1k":652,
+    "qs_pg:photos_9k":14,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3220,
+    "qs_pg:photos_sr":20,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159066,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793660,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101840961,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070956,
+        "gp:id":793660,
+        "qs_pg:id":1159066,
+        "wd:id":"Q3489740"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497308218,
+    "wof:geomhash":"597fbb509b04dfb0ba133d9de43fa7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101840961,
+            "neighbourhood_id":1126061531,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1126061531,
+    "wof:lastmodified":1513945348,
+    "wof:name":"Martinov",
+    "wof:parent_id":101840961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17845,
+    49.85667,
+    18.17845,
+    49.85667
+],
+  "geometry": {"coordinates":[18.17845,49.85667],"type":"Point"}
+}

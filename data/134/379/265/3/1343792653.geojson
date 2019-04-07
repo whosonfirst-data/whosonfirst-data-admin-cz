@@ -1,0 +1,70 @@
+{
+  "id": 1343792653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86962,50.67625,14.86962,50.67625",
+    "geom:latitude":50.67625,
+    "geom:longitude":14.86962,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Cerna Novina",
+    "gn:country_code":"CZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078081,
+    "gn:latitude":50.67625,
+    "gn:longitude":14.86962,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"\u010cern\u00e1 Novina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schwarzwald",
+        "\u010cern\u00e1 Novina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078081
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b911a1a0388cc9d83c11990de1d07485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343792653,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1343792653,
+    "wof:lastmodified":1537619447,
+    "wof:name":"Cerna Novina",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86962,
+    50.67625,
+    14.86962,
+    50.67625
+],
+  "geometry": {"coordinates":[14.86962,50.67625],"type":"Point"}
+}

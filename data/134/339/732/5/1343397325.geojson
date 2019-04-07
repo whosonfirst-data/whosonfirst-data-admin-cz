@@ -1,0 +1,70 @@
+{
+  "id": 1343397325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31141,50.45619,14.31141,50.45619",
+    "geom:latitude":50.45619,
+    "geom:longitude":14.31141,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Kozlovice",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073007,
+    "gn:latitude":50.45619,
+    "gn:longitude":14.31141,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Kozlovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kozlowitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073007
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7302d6f5844979ec5f484fb5bd3fe304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343397325,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1343397325,
+    "wof:lastmodified":1537619386,
+    "wof:name":"Kozlovice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31141,
+    50.45619,
+    14.31141,
+    50.45619
+],
+  "geometry": {"coordinates":[14.31141,50.45619],"type":"Point"}
+}

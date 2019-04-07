@@ -1,0 +1,71 @@
+{
+  "id": 1259818087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.43333,49.76667,18.43333,49.76667",
+    "geom:latitude":49.76667,
+    "geom:longitude":18.43333,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0803",
+    "gn:asciiname":"Dolni Bludovice",
+    "gn:country_code":"CZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076927,
+    "gn:latitude":49.76667,
+    "gn:longitude":18.43333,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Doln\u00ed Bludovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolne Bl\u0119dowice",
+        "Doln\u00ed Bludovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076927,
+        "wk:page":"Doln%C3%AD_Bludovice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9cd6a7d29501d6624a538b2577225fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259818087,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1259818087,
+    "wof:lastmodified":1537619436,
+    "wof:name":"Dolni Bludovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43333,
+    49.76667,
+    18.43333,
+    49.76667
+],
+  "geometry": {"coordinates":[18.43333,49.76667],"type":"Point"}
+}

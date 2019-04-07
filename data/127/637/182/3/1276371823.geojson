@@ -1,0 +1,70 @@
+{
+  "id": 1276371823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58333,49.15,13.58333,49.15",
+    "geom:latitude":49.15,
+    "geom:longitude":13.58333,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Zdanov",
+    "gn:country_code":"CZ",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061724,
+    "gn:latitude":49.15,
+    "gn:longitude":13.58333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"\u017dd\u00e1nov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zosum",
+        "\u017dd\u00e1nov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061724
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"80c0565cd6f58167456ee3261af03746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276371823,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1276371823,
+    "wof:lastmodified":1537619256,
+    "wof:name":"Zdanov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58333,
+    49.15,
+    13.58333,
+    49.15
+],
+  "geometry": {"coordinates":[13.58333,49.15],"type":"Point"}
+}

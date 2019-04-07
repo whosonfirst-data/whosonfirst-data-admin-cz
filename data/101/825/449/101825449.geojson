@@ -1,0 +1,73 @@
+{
+  "id": 101825449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:bbox":"17.9825397815,49.8974676984,17.9920437031,49.9082820025",
+    "geom:latitude":49.902589,
+    "geom:longitude":17.987044,
+    "iso:country":"CZ",
+    "lbl:latitude":49.90246,
+    "lbl:longitude":17.986972,
+    "mps:latitude":49.90246,
+    "mps:longitude":17.986972,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Opava",
+    "qs:la_lc":"*CZ0805505927",
+    "qs:level":"locality",
+    "qs:loc":"Such\u00e9 Lazce",
+    "qs:loc_alt":"Suche Lazce",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064740,
+        "gp:id":799229,
+        "qs:id":904992,
+        "qs_pg:id":904992
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e5141f289eb1304e5ee5d2d57d25fe88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825449,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825449,
+    "wof:lastmodified":1497299414,
+    "wof:name":"Such\u00e9 Lazce",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98253978145777,
+    49.89746769844396,
+    17.99204370310247,
+    49.90828200249888
+],
+  "geometry": {"coordinates":[[[17.99204370310247,49.90431894829067],[17.99174497822617,49.9025328605527],[17.98897496486808,49.90272831171376],[17.9886763692532,49.90094221349295],[17.98729140555815,49.90103990959233],[17.98669439918672,49.89746769844396],[17.98253978145777,49.8977606604671],[17.98313648354605,49.9013328967032],[17.98452146270387,49.90123525119765],[17.98496913831121,49.90391441655811],[17.98635418839848,49.90381674791502],[17.98710058026484,49.90828200249888],[17.98987091862284,49.90808659369628],[17.98942291044614,49.90540745508224],[17.99080799579031,49.90530973165767],[17.99065864827963,49.90441668648867],[17.99204370310247,49.90431894829067]]],"type":"Polygon"}
+}

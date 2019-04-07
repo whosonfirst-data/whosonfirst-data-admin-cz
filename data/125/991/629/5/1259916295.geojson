@@ -1,0 +1,66 @@
+{
+  "id": 1259916295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.63929,49.96917,16.63929,49.96917",
+    "geom:latitude":49.96917,
+    "geom:longitude":16.63929,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Halda",
+    "gn:country_code":"CZ",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075998,
+    "gn:latitude":49.96917,
+    "gn:longitude":16.63929,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Halda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075998
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d11c69bc94f9ab09e622eabde0364f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259916295,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1259916295,
+    "wof:lastmodified":1536732076,
+    "wof:name":"Halda",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.63929,
+    49.96917,
+    16.63929,
+    49.96917
+],
+  "geometry": {"coordinates":[16.63929,49.96917],"type":"Point"}
+}

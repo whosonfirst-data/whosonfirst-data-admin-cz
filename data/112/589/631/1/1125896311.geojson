@@ -1,0 +1,137 @@
+{
+  "id": 1125896311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31478,49.86338,14.31478,49.86338",
+    "geom:latitude":49.86338,
+    "geom:longitude":14.31478,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":738,
+    "gn:population":738,
+    "iso:country":"CZ",
+    "lbl:latitude":49.86338,
+    "lbl:longitude":14.31478,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:hun_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:may_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0634\u06cc\u0633\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:por_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0441\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u0441\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cisovice"
+    ],
+    "name:vie_x_preferred":[
+        "\u010cisovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077385,
+    "qs_pg:gn_pop":738,
+    "qs_pg:name":"\u010cisovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":938637,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787936,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077385,
+        "gp:id":787936,
+        "qs_pg:id":938637,
+        "wd:id":"Q2619702"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295586,
+    "wof:geomhash":"47376b3c896033580efe974709dd9af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125896311,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125896311,
+    "wof:lastmodified":1513946048,
+    "wof:name":"\u010cisovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":738,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31478,
+    49.86338,
+    14.31478,
+    49.86338
+],
+  "geometry": {"coordinates":[14.31478,49.86338],"type":"Point"}
+}

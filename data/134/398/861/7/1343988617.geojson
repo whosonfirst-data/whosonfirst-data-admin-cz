@@ -1,0 +1,70 @@
+{
+  "id": 1343988617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60976,50.70792,14.60976,50.70792",
+    "geom:latitude":50.70792,
+    "geom:longitude":14.60976,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Novy Sidlov",
+    "gn:country_code":"CZ",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069272,
+    "gn:latitude":50.70792,
+    "gn:longitude":14.60976,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Nov\u00fd \u0160idlov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neu-Schiedel",
+        "Nov\u00fd \u0160idlov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069272
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a30a51f8830ec68ca179ef84e3177a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343988617,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1343988617,
+    "wof:lastmodified":1537619337,
+    "wof:name":"Novy Sidlov",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60976,
+    50.70792,
+    14.60976,
+    50.70792
+],
+  "geometry": {"coordinates":[14.60976,50.70792],"type":"Point"}
+}

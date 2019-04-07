@@ -1,0 +1,66 @@
+{
+  "id": 1360021821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93333,50.11667,13.93333,50.11667",
+    "geom:latitude":50.11667,
+    "geom:longitude":13.93333,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0203",
+    "gn:asciiname":"Novy Dvur",
+    "gn:country_code":"CZ",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069327,
+    "gn:latitude":50.11667,
+    "gn:longitude":13.93333,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Nov\u00fd Dv\u016fr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069327
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4558c43e162e3f396e616ff85658a6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360021821,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1360021821,
+    "wof:lastmodified":1537035287,
+    "wof:name":"Novy Dvur",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93333,
+    50.11667,
+    13.93333,
+    50.11667
+],
+  "geometry": {"coordinates":[13.93333,50.11667],"type":"Point"}
+}

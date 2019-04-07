@@ -1,0 +1,70 @@
+{
+  "id": 1242614467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.02036,50.3462,13.02036,50.3462",
+    "geom:latitude":50.3462,
+    "geom:longitude":13.02036,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Horni Hrad",
+    "gn:country_code":"CZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075370,
+    "gn:latitude":50.3462,
+    "gn:longitude":13.02036,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Horn\u00ed Hrad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haun\u0161tejn",
+        "Horn\u00ed Hrad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075370
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0d04312fa0ff11a74de48579e14d525d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242614467,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1242614467,
+    "wof:lastmodified":1537619414,
+    "wof:name":"Horni Hrad",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02036,
+    50.3462,
+    13.02036,
+    50.3462
+],
+  "geometry": {"coordinates":[13.02036,50.3462],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1260218513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01748,49.46612,16.01748,49.46612",
+    "geom:latitude":49.46612,
+    "geom:longitude":16.01748,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Last'ovicky",
+    "gn:country_code":"CZ",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072309,
+    "gn:latitude":49.46612,
+    "gn:longitude":16.01748,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"La\u0161\u0165ovi\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072309
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"62cdb1e2e37e61eb1ad1367edd495465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260218513,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1260218513,
+    "wof:lastmodified":1536800188,
+    "wof:name":"Last'ovicky",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01748,
+    49.46612,
+    16.01748,
+    49.46612
+],
+  "geometry": {"coordinates":[16.01748,49.46612],"type":"Point"}
+}

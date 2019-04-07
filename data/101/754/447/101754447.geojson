@@ -1,0 +1,96 @@
+{
+  "id": 101754447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":686126.85973,
+    "geom:bbox":"14.5064344457,50.010125317,14.5270218075,50.0197297948",
+    "geom:latitude":50.014833,
+    "geom:longitude":14.513545,
+    "iso:country":"CZ",
+    "lbl:latitude":50.013424,
+    "lbl:longitude":14.513546,
+    "mps:latitude":50.013424,
+    "mps:longitude":14.513546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u0565\u0562\u0565\u0580\u0578\u057e"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:dut_x_preferred":[
+        "Praag-\u0160eberov"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:ger_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160eberov"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Hlavn\u00ed mesto Praha",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Praha",
+    "qs:la_lc":"*CZ0100554782",
+    "qs:level":"locality",
+    "qs:loc":"\u0160eberov",
+    "qs:loc_alt":"Seberov",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066357,
+        "qs:id":4,
+        "wd:id":"Q3563232"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f29aeab1d6a9ac2af345d0e6ed537970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101754447,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":101754447,
+    "wof:lastmodified":1513946065,
+    "wof:name":"\u0160eberov",
+    "wof:parent_id":85682437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5064344456888,
+    50.01012531703253,
+    14.52702180752135,
+    50.01972979475909
+],
+  "geometry": {"coordinates":[[[14.52702180752135,50.01694070492908],[14.51930945101236,50.01724745307399],[14.51913978044058,50.0154530900009],[14.51774688693871,50.01550842145855],[14.517238126552,50.01012531703253],[14.50888163869138,50.01045690517259],[14.509135533473,50.01314848034758],[14.5077426972631,50.01320368900053],[14.50782731081961,50.01410088124618],[14.5064344456888,50.01415607405687],[14.50685744310601,50.01864203621523],[14.50964343022275,50.01853162165418],[14.50972809357853,50.01942881070005],[14.51112110870082,50.01937357667651],[14.51095173399489,50.0175792006325],[14.51234469420467,50.01752395195751],[14.51225998682912,50.0166267646249],[14.51643877182488,50.01646091997327],[14.51652355714089,50.01735810372884],[14.51791650555259,50.01730278691832],[14.51814595399878,50.01972979475909],[14.52702180752135,50.01694070492908]]],"type":"Polygon"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1125906359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91008,49.6362,16.91008,49.6362",
+    "geom:latitude":49.6362,
+    "geom:longitude":16.91008,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":654,
+    "gn:population":654,
+    "iso:country":"CZ",
+    "lbl:latitude":49.6362,
+    "lbl:longitude":16.91008,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Hvozd"
+    ],
+    "name:dut_x_preferred":[
+        "Hvozd"
+    ],
+    "name:eng_x_preferred":[
+        "Hvozd"
+    ],
+    "name:fre_x_preferred":[
+        "Hvozd"
+    ],
+    "name:hun_x_preferred":[
+        "Hvozd"
+    ],
+    "name:ita_x_preferred":[
+        "Hvozd"
+    ],
+    "name:may_x_preferred":[
+        "Hvozd"
+    ],
+    "name:pol_x_preferred":[
+        "Hvozd"
+    ],
+    "name:por_x_preferred":[
+        "Hvozd"
+    ],
+    "name:rup_x_preferred":[
+        "Hvozd"
+    ],
+    "name:slo_x_preferred":[
+        "Hvozd"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0432\u043e\u0437\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Hvozd"
+    ],
+    "name:vie_x_preferred":[
+        "Hvozd"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3074649,
+    "qs_pg:gn_pop":654,
+    "qs_pg:name":"Hvozd",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398439,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790404,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074649,
+        "gp:id":790404,
+        "qs_pg:id":398439,
+        "wd:id":"Q2519869"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296002,
+    "wof:geomhash":"4bd87d26190161f5c3629bca4e1746a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125906359,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125906359,
+    "wof:lastmodified":1553816616,
+    "wof:name":"Hvozd",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":654,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91008,
+    49.6362,
+    16.91008,
+    49.6362
+],
+  "geometry": {"coordinates":[16.91008,49.6362],"type":"Point"}
+}

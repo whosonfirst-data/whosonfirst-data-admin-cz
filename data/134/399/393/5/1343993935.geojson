@@ -1,0 +1,66 @@
+{
+  "id": 1343993935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2955,49.7455,14.2955,49.7455",
+    "geom:latitude":49.7455,
+    "geom:longitude":14.2955,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Drazetice",
+    "gn:country_code":"CZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076462,
+    "gn:latitude":49.7455,
+    "gn:longitude":14.2955,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Dra\u017eetice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076462
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"aee9c8c4b7174e5a22af413fd34fc12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343993935,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1343993935,
+    "wof:lastmodified":1536971245,
+    "wof:name":"Drazetice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2955,
+    49.7455,
+    14.2955,
+    49.7455
+],
+  "geometry": {"coordinates":[14.2955,49.7455],"type":"Point"}
+}

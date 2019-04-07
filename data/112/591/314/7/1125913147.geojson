@@ -1,0 +1,138 @@
+{
+  "id": 1125913147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96102,49.8958,13.96102,49.8958",
+    "geom:latitude":49.8958,
+    "geom:longitude":13.96102,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":180,
+    "gn:population":180,
+    "iso:country":"CZ",
+    "lbl:latitude":49.8958,
+    "lbl:longitude":13.96102,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:dut_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:eng_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:fre_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:ger_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:hun_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:ita_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:may_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:nan_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0627\u0648\u0648\u0631\u06cc\u0646\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:por_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:rup_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:slo_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0432\u043e\u0440\u0438\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "name:vie_x_preferred":[
+        "Bavoryn\u011b"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079629,
+    "qs_pg:gn_pop":180,
+    "qs_pg:name":"Bavoryn\u011b",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1265139,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":785969,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079629,
+        "gp:id":785969,
+        "qs_pg:id":1265139,
+        "wd:id":"Q812029"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296212,
+    "wof:geomhash":"fb47d3d56d3ea14c65b068ddaf2446ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125913147,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125913147,
+    "wof:lastmodified":1513944776,
+    "wof:name":"Bavoryn\u011b",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96102,
+    49.8958,
+    13.96102,
+    49.8958
+],
+  "geometry": {"coordinates":[13.96102,49.8958],"type":"Point"}
+}

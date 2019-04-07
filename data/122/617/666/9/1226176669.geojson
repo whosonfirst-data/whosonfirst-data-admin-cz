@@ -1,0 +1,70 @@
+{
+  "id": 1226176669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33493,50.53754,14.33493,50.53754",
+    "geom:latitude":50.53754,
+    "geom:longitude":14.33493,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Straziste",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065008,
+    "gn:latitude":50.53754,
+    "gn:longitude":14.33493,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Str\u00e1\u017ei\u0161t\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Straschnitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065008
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"00de9d0553e25a43d3e9923d74f7d8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226176669,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1226176669,
+    "wof:lastmodified":1537619291,
+    "wof:name":"Straziste",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33493,
+    50.53754,
+    14.33493,
+    50.53754
+],
+  "geometry": {"coordinates":[14.33493,50.53754],"type":"Point"}
+}

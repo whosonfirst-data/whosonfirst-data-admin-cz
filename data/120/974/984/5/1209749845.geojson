@@ -1,0 +1,70 @@
+{
+  "id": 1209749845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87528,50.49017,15.87528,50.49017",
+    "geom:latitude":50.49017,
+    "geom:longitude":15.87528,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Horni Zd'ar",
+    "gn:country_code":"CZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075137,
+    "gn:latitude":50.49017,
+    "gn:longitude":15.87528,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Horn\u00ed \u017d\u010f\u00e1r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober-Soor",
+        "Horn\u00ed \u017d\u010f\u00e1r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075137
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"faa67b6d744ed8eb166dd514f509926c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209749845,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1209749845,
+    "wof:lastmodified":1537619409,
+    "wof:name":"Horni Zd'ar",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87528,
+    50.49017,
+    15.87528,
+    50.49017
+],
+  "geometry": {"coordinates":[15.87528,50.49017],"type":"Point"}
+}

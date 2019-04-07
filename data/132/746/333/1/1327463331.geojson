@@ -1,0 +1,66 @@
+{
+  "id": 1327463331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05292,49.28782,15.05292,49.28782",
+    "geom:latitude":49.28782,
+    "geom:longitude":15.05292,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Vodna",
+    "gn:country_code":"CZ",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062645,
+    "gn:latitude":49.28782,
+    "gn:longitude":15.05292,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Vodn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062645
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"858374c22667fe12085a36198ca8c5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327463331,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1327463331,
+    "wof:lastmodified":1536634904,
+    "wof:name":"Vodna",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05292,
+    49.28782,
+    15.05292,
+    49.28782
+],
+  "geometry": {"coordinates":[15.05292,49.28782],"type":"Point"}
+}

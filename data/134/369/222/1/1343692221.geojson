@@ -1,0 +1,69 @@
+{
+  "id": 1343692221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40268,50.34955,13.40268,50.34955",
+    "geom:latitude":50.34955,
+    "geom:longitude":13.40268,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Vikletice",
+    "gn:country_code":"CZ",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062911,
+    "gn:latitude":50.34955,
+    "gn:longitude":13.40268,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Vikletice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wikletitz, Kr. Saaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062911
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d974c2023ece644eeed5220dd287578e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343692221,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1343692221,
+    "wof:lastmodified":1537504015,
+    "wof:name":"Vikletice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40268,
+    50.34955,
+    13.40268,
+    50.34955
+],
+  "geometry": {"coordinates":[13.40268,50.34955],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293625821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15471,50.33237,16.15471,50.33237",
+    "geom:latitude":50.33237,
+    "geom:longitude":16.15471,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Spy",
+    "gn:country_code":"CZ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065501,
+    "gn:latitude":50.33237,
+    "gn:longitude":16.15471,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Spy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065501
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"106c3ffd8cb9d9a26537d61d0dfb2749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293625821,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293625821,
+    "wof:lastmodified":1537081529,
+    "wof:name":"Spy",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15471,
+    50.33237,
+    16.15471,
+    50.33237
+],
+  "geometry": {"coordinates":[16.15471,50.33237],"type":"Point"}
+}

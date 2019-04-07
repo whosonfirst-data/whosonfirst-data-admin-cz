@@ -1,0 +1,70 @@
+{
+  "id": 1226277327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32814,50.74083,15.32814,50.74083",
+    "geom:latitude":50.74083,
+    "geom:longitude":15.32814,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"0512",
+    "gn:asciiname":"Sumburk nad Desnou",
+    "gn:country_code":"CZ",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064679,
+    "gn:latitude":50.74083,
+    "gn:longitude":15.32814,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"\u0160umburk nad Desnou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schumburg",
+        "\u0160umburk nad Desnou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064679
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8c464bd84ebfcb7acd957eca41a0ff72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226277327,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1226277327,
+    "wof:lastmodified":1537619286,
+    "wof:name":"Sumburk nad Desnou",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32814,
+    50.74083,
+    15.32814,
+    50.74083
+],
+  "geometry": {"coordinates":[15.32814,50.74083],"type":"Point"}
+}

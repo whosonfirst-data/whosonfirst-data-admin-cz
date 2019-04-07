@@ -1,0 +1,66 @@
+{
+  "id": 1259819769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97299,49.85231,15.97299,49.85231",
+    "geom:latitude":49.85231,
+    "geom:longitude":15.97299,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Skuticko",
+    "gn:country_code":"CZ",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065920,
+    "gn:latitude":49.85231,
+    "gn:longitude":15.97299,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Skut\u00ed\u010dko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065920
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fb2d5825ff195055f526d07174d62172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259819769,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1259819769,
+    "wof:lastmodified":1536869919,
+    "wof:name":"Skuticko",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97299,
+    49.85231,
+    15.97299,
+    49.85231
+],
+  "geometry": {"coordinates":[15.97299,49.85231],"type":"Point"}
+}

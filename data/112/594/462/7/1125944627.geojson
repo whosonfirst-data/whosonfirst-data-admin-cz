@@ -1,0 +1,129 @@
+{
+  "id": 1125944627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79815,49.33145,14.79815,49.33145",
+    "geom:latitude":49.33145,
+    "geom:longitude":14.79815,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":157,
+    "gn:population":157,
+    "iso:country":"CZ",
+    "lbl:latitude":49.33145,
+    "lbl:longitude":14.79815,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Skopytce"
+    ],
+    "name:dut_x_preferred":[
+        "Skopytce"
+    ],
+    "name:eng_x_preferred":[
+        "Skopytce"
+    ],
+    "name:fre_x_preferred":[
+        "Skopytce"
+    ],
+    "name:hun_x_preferred":[
+        "Skopytce"
+    ],
+    "name:ita_x_preferred":[
+        "Skopytce"
+    ],
+    "name:may_x_preferred":[
+        "Skopytce"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06a9\u0648\u067e\u06cc\u062a\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Skopytce"
+    ],
+    "name:por_x_preferred":[
+        "Skopytce"
+    ],
+    "name:slo_x_preferred":[
+        "Skopytce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u043e\u043f\u0438\u0442\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Skopytce"
+    ],
+    "name:vie_x_preferred":[
+        "Skopytce"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065994,
+    "qs_pg:gn_pop":157,
+    "qs_pg:name":"Skopytce",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":400486,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798116,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065994,
+        "gp:id":798116,
+        "qs_pg:id":400486,
+        "wd:id":"Q1901456"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297234,
+    "wof:geomhash":"455328e7ecfbf6a6b1935792ea42cebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125944627,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125944627,
+    "wof:lastmodified":1513945682,
+    "wof:name":"Skopytce",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79815,
+    49.33145,
+    14.79815,
+    49.33145
+],
+  "geometry": {"coordinates":[14.79815,49.33145],"type":"Point"}
+}

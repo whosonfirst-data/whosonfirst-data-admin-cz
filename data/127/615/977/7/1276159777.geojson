@@ -1,0 +1,66 @@
+{
+  "id": 1276159777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.025,50.60231,14.025,50.60231",
+    "geom:latitude":50.60231,
+    "geom:longitude":14.025,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Moravany",
+    "gn:country_code":"CZ",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070353,
+    "gn:latitude":50.60231,
+    "gn:longitude":14.025,
+    "gn:modification_date":"2016-09-06",
+    "gn:name":"Moravany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070353
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e1a385d628cd6c7a30cbada91c68485a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276159777,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276159777,
+    "wof:lastmodified":1537010627,
+    "wof:name":"Moravany",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.025,
+    50.60231,
+    14.025,
+    50.60231
+],
+  "geometry": {"coordinates":[14.025,50.60231],"type":"Point"}
+}

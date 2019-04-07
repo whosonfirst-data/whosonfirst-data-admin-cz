@@ -1,0 +1,66 @@
+{
+  "id": 1326464437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58333,49.53333,16.58333,49.53333",
+    "geom:latitude":49.53333,
+    "geom:longitude":16.58333,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Klevetov",
+    "gn:country_code":"CZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073610,
+    "gn:latitude":49.53333,
+    "gn:longitude":16.58333,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Klevetov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073610
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a25a86e7ae3a08b31ad93818b4477cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326464437,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1326464437,
+    "wof:lastmodified":1537078552,
+    "wof:name":"Klevetov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58333,
+    49.53333,
+    16.58333,
+    49.53333
+],
+  "geometry": {"coordinates":[16.58333,49.53333],"type":"Point"}
+}

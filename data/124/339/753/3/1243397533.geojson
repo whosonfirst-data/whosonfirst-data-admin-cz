@@ -1,0 +1,69 @@
+{
+  "id": 1243397533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32674,49.85419,16.32674,49.85419",
+    "geom:latitude":49.85419,
+    "geom:longitude":16.32674,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Benatky",
+    "gn:country_code":"CZ",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079518,
+    "gn:latitude":49.85419,
+    "gn:longitude":16.32674,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Ben\u00e1tky",
+    "gn:population":316,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079518
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5ee9168946468c42e58a1bd8658b2c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243397533,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1243397533,
+    "wof:lastmodified":1536875245,
+    "wof:name":"Benatky",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":316,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32674,
+    49.85419,
+    16.32674,
+    49.85419
+],
+  "geometry": {"coordinates":[16.32674,49.85419],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209463483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0761,50.28844,17.0761,50.28844",
+    "geom:latitude":50.28844,
+    "geom:longitude":17.0761,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Nyznerov",
+    "gn:country_code":"CZ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069228,
+    "gn:latitude":50.28844,
+    "gn:longitude":17.0761,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"N\u00fdznerov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niesnersberg",
+        "N\u00fdznerov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069228
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b8cd423d327e31ae31dffa20a42b0a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209463483
+        }
+    ],
+    "wof:id":1209463483,
+    "wof:lastmodified":1537619337,
+    "wof:name":"Nyznerov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0761,
+    50.28844,
+    17.0761,
+    50.28844
+],
+  "geometry": {"coordinates":[17.0761,50.28844],"type":"Point"}
+}

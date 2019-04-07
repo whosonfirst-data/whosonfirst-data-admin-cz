@@ -1,0 +1,134 @@
+{
+  "id": 101840947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":932717.978766,
+    "geom:bbox":"17.8689386742,49.8796039414,17.8870880784,49.8921185345",
+    "geom:latitude":49.886997,
+    "geom:longitude":17.877863,
+    "iso:country":"CZ",
+    "lbl:latitude":49.886391,
+    "lbl:longitude":17.878482,
+    "mps:latitude":49.886391,
+    "mps:longitude":17.878482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:cze_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:dut_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:eng_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:epo_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:fre_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:hun_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:ita_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:may_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:msa_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:nld_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:pol_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:por_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:rup_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:slk_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:slo_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u043a\u0430 \u0443 \u041e\u043f\u0430\u0432\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Jalov\u00fd Dv\u016dr"
+    ],
+    "name:vie_x_preferred":[
+        "Branka u Opavy"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Branka u Opavy",
+    "qs:la_lc":"*CZ0805554197",
+    "qs:level":"locality",
+    "qs:loc":"Branka u Opavy",
+    "qs:loc_alt":"Branka u Opavy",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078821,
+        "gp:id":786678,
+        "qs:id":983063,
+        "qs_pg:id":383280,
+        "wd:id":"Q2353675"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4c51e177d42ae1ef5d27612356f30f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101840947,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101840947,
+    "wof:lastmodified":1527715010,
+    "wof:name":"Branka u Opavy",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.86893867423225,
+    49.87960394144318,
+    17.88708807842619,
+    49.89211853450229
+],
+  "geometry": {"coordinates":[[[17.87867063751872,49.87960394144318],[17.87228663785788,49.8833584913412],[17.87250481696287,49.88468387425553],[17.87388950532812,49.88458758331609],[17.87447786390027,49.88816049882013],[17.86893867423225,49.88854559436618],[17.86952673658999,49.89211853450229],[17.87645121825273,49.89163708168815],[17.87630406556553,49.89074385774126],[17.88184345797345,49.89035840015714],[17.88199071211545,49.89125161585287],[17.88337557287059,49.89115520723067],[17.88352285923503,49.89204842034121],[17.88490774026747,49.89195199278959],[17.88461312367144,49.89016557017476],[17.88599794889149,49.89006912988651],[17.88570330901416,49.88828270931253],[17.88708807842619,49.88818625628846],[17.88694074341976,49.88729304728304],[17.88555599936598,49.88738949824244],[17.88540869657749,49.88649628665013],[17.88263924392771,49.88668913385106],[17.88190308640787,49.88222304742169],[17.88051847922998,49.88231943541206],[17.88022411490954,49.88053299306034],[17.87883955335292,49.88062936006452],[17.87867063751872,49.87960394144318]]],"type":"Polygon"}
+}

@@ -1,0 +1,134 @@
+{
+  "id": 1125864247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0474,49.25085,15.0474,49.25085",
+    "geom:latitude":49.25085,
+    "geom:longitude":15.0474,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":61,
+    "gn:population":61,
+    "iso:country":"CZ",
+    "lbl:latitude":49.25085,
+    "lbl:longitude":15.0474,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:dut_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:eng_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:fre_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:ger_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:ita_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:may_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:nan_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:pol_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:por_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:rup_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:slo_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0434\u0440\u0430\u0432\u043e\u0432\u0430 \u0420\u043e\u0441\u0438\u0447\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Hadravova Rosi\u010dka"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076048,
+    "qs_pg:gn_pop":61,
+    "qs_pg:name":"Hadravova Rosi\u010dka",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":178556,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":789155,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076048,
+        "gp:id":789155,
+        "qs_pg:id":178556,
+        "wd:id":"Q239452"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293962,
+    "wof:geomhash":"f4f3e8397a5e7a6c6acf12398ffd4c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125864247,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125864247,
+    "wof:lastmodified":1513944975,
+    "wof:name":"Hadravova Rosi\u010dka",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0474,
+    49.25085,
+    15.0474,
+    49.25085
+],
+  "geometry": {"coordinates":[15.0474,49.25085],"type":"Point"}
+}

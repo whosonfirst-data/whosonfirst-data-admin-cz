@@ -1,0 +1,146 @@
+{
+  "id": 1125827747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07827,50.38981,17.07827,50.38981",
+    "geom:latitude":50.38981,
+    "geom:longitude":17.07827,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":913,
+    "gn:population":913,
+    "iso:country":"CZ",
+    "lbl:latitude":50.38981,
+    "lbl:longitude":17.07827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Bernartice"
+    ],
+    "name:dut_x_preferred":[
+        "Bernartice"
+    ],
+    "name:eng_x_preferred":[
+        "Bernartice"
+    ],
+    "name:epo_x_preferred":[
+        "Bernartice"
+    ],
+    "name:fre_x_preferred":[
+        "Bernartice"
+    ],
+    "name:ger_x_preferred":[
+        "Bernartice u Javorn\u00edka"
+    ],
+    "name:hun_x_preferred":[
+        "Bernartice"
+    ],
+    "name:ita_x_preferred":[
+        "Bernartice"
+    ],
+    "name:may_x_preferred":[
+        "Bernartice"
+    ],
+    "name:nan_x_preferred":[
+        "Bernartice"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0631\u0646\u0627\u0631\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Bernartice"
+    ],
+    "name:por_x_preferred":[
+        "Bernartice"
+    ],
+    "name:rup_x_preferred":[
+        "Bernartice"
+    ],
+    "name:slo_x_preferred":[
+        "Bernartice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0440\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bernartice"
+    ],
+    "name:unk_x_variant":[
+        "Barzdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Bernartice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079473,
+    "qs_pg:gn_pop":913,
+    "qs_pg:name":"Bernartice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":207842,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786110,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079473,
+        "gp:id":786110,
+        "qs_pg:id":207842,
+        "wd:id":"Q254754"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292355,
+    "wof:geomhash":"1cae957ed6b4f1ac5ba97f18cad9575c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125827747,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125827747,
+    "wof:lastmodified":1553816557,
+    "wof:name":"Bernartice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":913,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07827,
+    50.38981,
+    17.07827,
+    50.38981
+],
+  "geometry": {"coordinates":[17.07827,50.38981],"type":"Point"}
+}

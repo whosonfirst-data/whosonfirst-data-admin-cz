@@ -1,0 +1,141 @@
+{
+  "id": 1125912989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.04148,49.42344,17.04148,49.42344",
+    "geom:latitude":49.42344,
+    "geom:longitude":17.04148,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":222,
+    "gn:population":222,
+    "iso:country":"CZ",
+    "lbl:latitude":49.42344,
+    "lbl:longitude":17.04148,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Alojzov"
+    ],
+    "name:cze_x_preferred":[
+        "Alojzov"
+    ],
+    "name:dut_x_preferred":[
+        "Alojzov"
+    ],
+    "name:eng_x_preferred":[
+        "Alojzov"
+    ],
+    "name:fre_x_preferred":[
+        "Alojzov"
+    ],
+    "name:ger_x_preferred":[
+        "Alojzov"
+    ],
+    "name:hun_x_preferred":[
+        "Alojzov"
+    ],
+    "name:ita_x_preferred":[
+        "Alojzov"
+    ],
+    "name:may_x_preferred":[
+        "Alojzov"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0648\u06cc\u0632\u0627\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Alojzov"
+    ],
+    "name:por_x_preferred":[
+        "Alojzov"
+    ],
+    "name:rup_x_preferred":[
+        "Alojzov"
+    ],
+    "name:slo_x_preferred":[
+        "Alojzov"
+    ],
+    "name:spa_x_preferred":[
+        "Alojzov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u043e\u0458\u0437\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Alojzov"
+    ],
+    "name:vie_x_preferred":[
+        "Alojzov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079806,
+    "qs_pg:gn_pop":222,
+    "qs_pg:name":"Alojzov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265101,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":785831,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079806,
+        "gp:id":785831,
+        "qs_pg:id":1265101,
+        "wd:id":"Q1641688"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296203,
+    "wof:geomhash":"bf772cb3f92124b513f7244bfe1ac254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125912989,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125912989,
+    "wof:lastmodified":1513944769,
+    "wof:name":"Alojzov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.04148,
+    49.42344,
+    17.04148,
+    49.42344
+],
+  "geometry": {"coordinates":[17.04148,49.42344],"type":"Point"}
+}

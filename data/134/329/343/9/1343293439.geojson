@@ -1,0 +1,70 @@
+{
+  "id": 1343293439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44056,48.76326,14.44056,48.76326",
+    "geom:latitude":48.76326,
+    "geom:longitude":14.44056,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Maly Chuchelec",
+    "gn:country_code":"CZ",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071087,
+    "gn:latitude":48.76326,
+    "gn:longitude":14.44056,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Mal\u00fd Chuchelec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klein Kuchlitz",
+        "Mal\u00fd Chuchelec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071087
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"269735af11b34909429fae94dcf17aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343293439,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343293439,
+    "wof:lastmodified":1537619364,
+    "wof:name":"Maly Chuchelec",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44056,
+    48.76326,
+    14.44056,
+    48.76326
+],
+  "geometry": {"coordinates":[14.44056,48.76326],"type":"Point"}
+}

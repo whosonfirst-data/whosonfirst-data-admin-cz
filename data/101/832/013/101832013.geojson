@@ -1,0 +1,142 @@
+{
+  "id": 101832013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":1018503.203062,
+    "geom:bbox":"16.1357274524,48.8309341199,16.1595859589,48.8437431555",
+    "geom:latitude":48.835737,
+    "geom:longitude":16.149955,
+    "gn:population":1221,
+    "iso:country":"CZ",
+    "lbl:latitude":48.836635,
+    "lbl:longitude":16.151943,
+    "mps:latitude":48.836635,
+    "mps:longitude":16.151943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Tasovice"
+    ],
+    "name:cze_x_variant":[
+        "Tasswitz"
+    ],
+    "name:dut_x_preferred":[
+        "Tasovice"
+    ],
+    "name:eng_x_preferred":[
+        "Tasovice"
+    ],
+    "name:fre_x_preferred":[
+        "Tasovice"
+    ],
+    "name:ger_x_preferred":[
+        "Tasovice nad Dyj\u00ed"
+    ],
+    "name:hun_x_preferred":[
+        "Tasovice"
+    ],
+    "name:ita_x_preferred":[
+        "Tasovice"
+    ],
+    "name:may_x_preferred":[
+        "Tasovice"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0627\u0633\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Tasovice nad Dyj\u0105"
+    ],
+    "name:por_x_preferred":[
+        "Tasovice"
+    ],
+    "name:rup_x_preferred":[
+        "Tasovice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Tasovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0441\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Tasovice"
+    ],
+    "name:unk_x_variant":[
+        "Tasswitz"
+    ],
+    "name:vie_x_preferred":[
+        "Tasovice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Tasovice",
+    "qs:la_lc":"*CZ0627594920",
+    "qs:level":"locality",
+    "qs:loc":"Tasovice",
+    "qs:loc_alt":"Tasovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07046326-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3064351,
+        "gp:id":799540,
+        "qs:id":23843,
+        "qs_pg:id":1268415,
+        "wd:id":"Q1853546",
+        "wk:page":"Tasovice (Znojmo District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"eac817c5eff271c417fc2e6bb4944157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101832013,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101832013,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1553815530,
+    "wof:name":"Tasovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1221,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13572745238412,
+    48.83093411987596,
+    16.15958595886394,
+    48.84374315554845
+],
+  "geometry": {"coordinates":[[[16.15958595886394,48.83531009251624],[16.15914471699386,48.83533451434187],[16.15881048702573,48.83264678728443],[16.1547370889084,48.83287206385796],[16.15462576187832,48.83197614919959],[16.15191019294099,48.83212624786859],[16.15202147143691,48.833022165648],[16.14387452920602,48.833472074567],[16.14376339631769,48.83257614743326],[16.14240558379146,48.83265107287866],[16.14229448023877,48.83175514370998],[16.14093668824336,48.83183005107918],[16.14082561402364,48.83093411987596],[16.13811006735824,48.83108388194466],[16.13833212379086,48.83287575010183],[16.13697429631907,48.83295060947137],[16.13708530786039,48.83384654439141],[16.13572745238412,48.83392138879833],[16.13594944211081,48.8357132603208],[16.14409681018668,48.83526392740379],[16.14420795828005,48.83615985310684],[16.14556586414886,48.83608490490911],[16.14567704158412,48.83698082857666],[16.14703496798552,48.83690586230011],[16.14736860353969,48.83959362576468],[16.1500845907654,48.83944363429356],[16.15019586131461,48.84033955137522],[16.15834387877112,48.83988917108979],[16.15882325356768,48.84374315554845],[16.15958595886394,48.83531009251624]]],"type":"Polygon"}
+}

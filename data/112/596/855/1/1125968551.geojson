@@ -1,0 +1,89 @@
+{
+  "id": 1125968551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41987,50.81882,14.41987,50.81882",
+    "geom:latitude":50.81882,
+    "geom:longitude":14.41987,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":251,
+    "gn:population":251,
+    "iso:country":"CZ",
+    "lbl:latitude":50.81882,
+    "lbl:longitude":14.41987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kunnersdorf"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072492,
+    "qs_pg:gn_pop":251,
+    "qs_pg:name":"Kunratice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398952,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792278,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072492,
+        "gp:id":792278,
+        "qs_pg:id":398952
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298070,
+    "wof:geomhash":"8d800fabd1fbadfdd43c2ccc1688dbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125968551,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125968551,
+    "wof:lastmodified":1509403804,
+    "wof:name":"Kunratice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41987,
+    50.81882,
+    14.41987,
+    50.81882
+],
+  "geometry": {"coordinates":[14.41987,50.81882],"type":"Point"}
+}

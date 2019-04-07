@@ -1,0 +1,71 @@
+{
+  "id": 1293135377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.16111,49.21538,13.16111,49.21538",
+    "geom:latitude":49.21538,
+    "geom:longitude":13.16111,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Hamry",
+    "gn:country_code":"CZ",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075978,
+    "gn:latitude":49.21538,
+    "gn:longitude":13.16111,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hamry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hammern",
+        "Hamry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075978,
+        "wk:page":"Hamry_%28Klatovy_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7393eeb3745bee3864db8ab29672637a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293135377,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293135377,
+    "wof:lastmodified":1537619421,
+    "wof:name":"Hamry",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.16111,
+    49.21538,
+    13.16111,
+    49.21538
+],
+  "geometry": {"coordinates":[13.16111,49.21538],"type":"Point"}
+}

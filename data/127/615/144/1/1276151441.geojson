@@ -1,0 +1,72 @@
+{
+  "id": 1276151441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5,49.83333,18.5,49.83333",
+    "geom:latitude":49.83333,
+    "geom:longitude":18.5,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0803",
+    "gn:asciiname":"Jama Frantiska",
+    "gn:country_code":"CZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074553,
+    "gn:latitude":49.83333,
+    "gn:longitude":18.5,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"J\u00e1ma Franti\u0161ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Franti\u0161ka",
+        "Szyb Franciszki",
+        "Szyb Franciska",
+        "J\u00e1ma Franti\u0161ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074553
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c670c3fd748ee88b0ded38d9a5066ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276151441,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1276151441,
+    "wof:lastmodified":1537619402,
+    "wof:name":"Jama Frantiska",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5,
+    49.83333,
+    18.5,
+    49.83333
+],
+  "geometry": {"coordinates":[18.5,49.83333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310342309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20422,50.08986,16.20422,50.08986",
+    "geom:latitude":50.08986,
+    "geom:longitude":16.20422,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Kozodry",
+    "gn:country_code":"CZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072997,
+    "gn:latitude":50.08986,
+    "gn:longitude":16.20422,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Kozodry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072997
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f46f1e6460e11a98860c25aa9197ef55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310342309,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1310342309,
+    "wof:lastmodified":1536654769,
+    "wof:name":"Kozodry",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20422,
+    50.08986,
+    16.20422,
+    50.08986
+],
+  "geometry": {"coordinates":[16.20422,50.08986],"type":"Point"}
+}

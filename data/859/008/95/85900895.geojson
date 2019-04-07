@@ -1,0 +1,149 @@
+{
+  "id": 85900895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000179,
+    "geom:area_square_m":1422238.707811,
+    "geom:bbox":"14.5051782932,50.0075424713,14.5301749995,50.0218584177",
+    "geom:latitude":50.015815,
+    "geom:longitude":14.519692,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.011227,
+    "lbl:longitude":14.514072,
+    "mps:latitude":50.016232,
+    "mps:longitude":14.521582,
+    "mz:categories":[],
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:arm_x_preferred":[
+        "\u054d\u0565\u0562\u0565\u0580\u0578\u057e"
+    ],
+    "name:cze_x_colloquial":[
+        "A eberov",
+        "Aa eberov",
+        "Praha 4-Aaeberov",
+        "Praha 4-Aeberov",
+        "Praha 4-Seberov",
+        "Praha-Aaeberov",
+        "Praha-Aeberov",
+        "Praha-Ieberov",
+        "Praha-Seberov",
+        "Seberov"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:cze_x_variant":[
+        "Praha 4-\u00c5eberov",
+        "Praha-Eberov",
+        "\u00c5 eberov",
+        "Praha-\u00c5eberov"
+    ],
+    "name:dut_x_preferred":[
+        "Praag-\u0160eberov"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:eng_x_preferred_x_preferred":[
+        "Praha-\u00c5eberov"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:ger_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:unk_x_variant":[
+        "Praha-\u00c5eberov"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Praha-\u00c5eberov",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":2,
+    "qs:photo_sum":5,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101754447,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":797802,
+        "qs:id":962772,
+        "qs_pg:id":962772,
+        "wd:id":"Q3563232"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2fb8ee1c69458fb7e0b6c6934c0edaf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101754447,
+            "neighbourhood_id":85900895,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900895,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1527268918,
+    "wof:name":"Seberov",
+    "wof:parent_id":101754447,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.505178293198,
+    50.007542471266,
+    14.530174999493,
+    50.0218584177
+],
+  "geometry": {"coordinates":[[[14.5184326172,50.0218584177],[14.5184326172,50.0218583529],[14.520699946712,50.0218583529],[14.520700279866,50.021858093625],[14.521658285172,50.021858093625],[14.530064074025,50.015316816311],[14.530174999493,50.01479891065],[14.527705045132,50.009033497163],[14.527703944488,50.009044672189],[14.52673490158,50.008249399227],[14.525497301355,50.007587888125],[14.525493887954,50.00755323128],[14.52549062394,50.007542471266],[14.5184326172,50.013034114925],[14.514073659356,50.013034114925],[14.512939453119,50.014799169975],[14.5074462891,50.014799169975],[14.505178293198,50.014799169975],[14.507446289081,50.018328891075],[14.5074462891,50.0183289559],[14.512939453116,50.0183289559],[14.512939453118,50.0218583529],[14.51293945311,50.0218584177],[14.5184326172,50.0218584177]]],"type":"Polygon"}
+}

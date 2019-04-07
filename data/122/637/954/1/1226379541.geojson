@@ -1,0 +1,70 @@
+{
+  "id": 1226379541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35098,48.6206,14.35098,48.6206",
+    "geom:latitude":48.6206,
+    "geom:longitude":14.35098,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Herbertov",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075875,
+    "gn:latitude":48.6206,
+    "gn:longitude":14.35098,
+    "gn:modification_date":"2014-05-13",
+    "gn:name":"Herbertov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gerbetschlag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075875
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cd6107bb313e1f41ebb42074cfca8359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226379541,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1226379541,
+    "wof:lastmodified":1537619420,
+    "wof:name":"Herbertov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35098,
+    48.6206,
+    14.35098,
+    48.6206
+],
+  "geometry": {"coordinates":[14.35098,48.6206],"type":"Point"}
+}

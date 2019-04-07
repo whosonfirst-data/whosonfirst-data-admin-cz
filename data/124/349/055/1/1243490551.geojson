@@ -1,0 +1,66 @@
+{
+  "id": 1243490551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13985,50.51177,15.13985,50.51177",
+    "geom:latitude":50.51177,
+    "geom:longitude":15.13985,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Meziluzi",
+    "gn:country_code":"CZ",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070775,
+    "gn:latitude":50.51177,
+    "gn:longitude":15.13985,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Mezilu\u017e\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070775
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"249d40248f99aeb68e78a341debe0972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243490551,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1243490551,
+    "wof:lastmodified":1536741649,
+    "wof:name":"Meziluzi",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13985,
+    50.51177,
+    15.13985,
+    50.51177
+],
+  "geometry": {"coordinates":[15.13985,50.51177],"type":"Point"}
+}

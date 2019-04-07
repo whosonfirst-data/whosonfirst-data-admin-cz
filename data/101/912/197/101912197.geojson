@@ -1,0 +1,136 @@
+{
+  "id": 101912197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":588144.703107,
+    "geom:bbox":"16.867274178,49.274065243,16.8868188886,49.2835177027",
+    "geom:latitude":49.277657,
+    "geom:longitude":16.876274,
+    "gn:population":7127,
+    "iso:country":"CZ",
+    "lbl:latitude":49.277382,
+    "lbl:longitude":16.872869,
+    "mps:latitude":49.277382,
+    "mps:longitude":16.872869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:dut_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:eng_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:fre_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:ger_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:hun_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:ita_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:may_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0627\u062a\u0634\u06cc\u062a\u0633-\u067e\u06cc\u0633\u062a\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:rup_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:slo_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan Opico"
+    ],
+    "name:spa_x_variant":[
+        "Opico",
+        "S Juan Opico",
+        "S. Juan Opico"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0447\u0438\u0446\u0435-\u041f\u0438\u0441\u0442\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Opico"
+    ],
+    "name:vie_x_preferred":[
+        "Ra\u010dice-P\u00edstovice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Ra\u010dice-P\u00edstovice",
+    "qs:la_lc":"*CZ0626593516",
+    "qs:level":"locality",
+    "qs:loc":"Ra\u010dice-P\u00edstovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583531,
+        "gp:id":796980,
+        "qs:id":266435,
+        "qs_pg:id":1018032,
+        "wd:id":"Q1974403",
+        "wk:page":"Opico"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"26bc9900fc41267a9c1fec2576c3873f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101912197,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101912197,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1513945635,
+    "wof:name":"Ra\u010dice-P\u00edstovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":7127,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8672741780324,
+    49.27406524304354,
+    16.88681888856649,
+    49.28351770273173
+],
+  "geometry": {"coordinates":[[[16.87674903946294,49.28343373764994],[16.87637074369383,49.28074919052915],[16.87500156822233,49.28083315030852],[16.87462339885258,49.2781485934608],[16.88009977825249,49.27781267556423],[16.8802259278213,49.2787075212679],[16.8857023374797,49.27837132966766],[16.88544984633614,49.27658165192037],[16.88681888856649,49.27649756589921],[16.88669262698255,49.27560272805675],[16.88258556158331,49.27585493082142],[16.88233320417368,49.27406524304354],[16.87959523800737,49.27423328782976],[16.87972136436485,49.27512813550146],[16.87013817464486,49.27571577973606],[16.87001222135478,49.27482091969648],[16.8672741780324,49.27498866454596],[16.86765190692836,49.27767325378221],[16.87039009860905,49.2775054983407],[16.87076802801982,49.2801900725612],[16.87213719162173,49.28010616454554],[16.87251524739793,49.28279072904479],[16.87525371013521,49.28262285241539],[16.87537978979287,49.28351770273173],[16.87674903946294,49.28343373764994]]],"type":"Polygon"}
+}

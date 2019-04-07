@@ -1,0 +1,66 @@
+{
+  "id": 1259411425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54054,49.5127,14.54054,49.5127",
+    "geom:latitude":49.5127,
+    "geom:longitude":14.54054,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Struzinec",
+    "gn:country_code":"CZ",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064850,
+    "gn:latitude":49.5127,
+    "gn:longitude":14.54054,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Stru\u017einec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064850
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8c3c4613782ae3d852a0a6268ee18777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259411425,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259411425,
+    "wof:lastmodified":1536962307,
+    "wof:name":"Struzinec",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54054,
+    49.5127,
+    14.54054,
+    49.5127
+],
+  "geometry": {"coordinates":[14.54054,49.5127],"type":"Point"}
+}

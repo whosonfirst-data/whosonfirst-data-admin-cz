@@ -1,0 +1,95 @@
+{
+  "id": 1125783955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15551,50.48093,15.15551,50.48093",
+    "geom:latitude":50.48093,
+    "geom:longitude":15.15551,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":23,
+    "gn:population":23,
+    "iso:country":"CZ",
+    "lbl:latitude":50.48093,
+    "lbl:longitude":15.15551,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vesec"
+    ],
+    "name:cze_x_preferred":[
+        "Liberec XXV-Vesec"
+    ],
+    "name:eng_x_preferred":[
+        "Vesec"
+    ],
+    "name:fre_x_preferred":[
+        "Liberec XXV-Vesec"
+    ],
+    "name:pol_x_preferred":[
+        "Vesec"
+    ],
+    "name:swe_x_preferred":[
+        "Vesec"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063066,
+    "qs_pg:gn_pop":23,
+    "qs_pg:name":"Vesec",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":580767,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063066,
+        "qs_pg:id":580767,
+        "wd:id":"Q10818078"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290599,
+    "wof:geomhash":"ffad6c94bbbeabc881c5c8de525d266d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125783955,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125783955,
+    "wof:lastmodified":1513945864,
+    "wof:name":"Vesec",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15551,
+    50.48093,
+    15.15551,
+    50.48093
+],
+  "geometry": {"coordinates":[15.15551,50.48093],"type":"Point"}
+}

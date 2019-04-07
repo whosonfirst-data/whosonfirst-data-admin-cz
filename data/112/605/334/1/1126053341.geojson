@@ -1,0 +1,89 @@
+{
+  "id": 1126053341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20118,48.87704,16.20118,48.87704",
+    "geom:latitude":48.87704,
+    "geom:longitude":16.20118,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":798,
+    "gn:population":798,
+    "iso:country":"CZ",
+    "lbl:latitude":48.87704,
+    "lbl:longitude":16.20118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Pratsch"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067717,
+    "qs_pg:gn_pop":798,
+    "qs_pg:name":"Pr\u00e1\u010de",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":400096,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796581,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067717,
+        "gp:id":796581,
+        "qs_pg:id":400096
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302922,
+    "wof:geomhash":"1bee72eda1efb783bed591c585610654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126053341,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1126053341,
+    "wof:lastmodified":1509409398,
+    "wof:name":"Pr\u00e1\u010de",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":798,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20118,
+    48.87704,
+    16.20118,
+    48.87704
+],
+  "geometry": {"coordinates":[16.20118,48.87704],"type":"Point"}
+}

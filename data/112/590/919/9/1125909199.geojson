@@ -1,0 +1,132 @@
+{
+  "id": 1125909199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6854,50.03904,14.6854,50.03904",
+    "geom:latitude":50.03904,
+    "geom:longitude":14.6854,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":308,
+    "gn:population":308,
+    "iso:country":"CZ",
+    "lbl:latitude":50.03904,
+    "lbl:longitude":14.6854,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:dut_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:eng_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:fre_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:ger_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:hun_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:ita_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:may_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:pol_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:por_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0443\u0448\u0442\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0443\u0448\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:vie_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065758,
+    "qs_pg:gn_pop":308,
+    "qs_pg:name":"Slu\u0161tice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":400546,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798336,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065758,
+        "gp:id":798336,
+        "qs_pg:id":400546,
+        "wd:id":"Q1471892"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296086,
+    "wof:geomhash":"00dde256328f356682a392bf25723ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125909199,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125909199,
+    "wof:lastmodified":1513945696,
+    "wof:name":"Slu\u0161tice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":308,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6854,
+    50.03904,
+    14.6854,
+    50.03904
+],
+  "geometry": {"coordinates":[14.6854,50.03904],"type":"Point"}
+}

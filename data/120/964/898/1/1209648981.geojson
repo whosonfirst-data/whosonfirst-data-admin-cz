@@ -1,0 +1,62 @@
+{
+  "id": 1209648981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99347,49.40367,15.99347,49.40367",
+    "geom:latitude":49.40367,
+    "geom:longitude":15.99347,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Olsi",
+    "gn:country_code":"CZ",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068993,
+    "gn:latitude":49.40367,
+    "gn:longitude":15.99347,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Ol\u0161\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068993
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0adcce1c68fe449edf3aade9171b2438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209648981
+        }
+    ],
+    "wof:id":1209648981,
+    "wof:lastmodified":1536280642,
+    "wof:name":"Olsi",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99347,
+    49.40367,
+    15.99347,
+    49.40367
+],
+  "geometry": {"coordinates":[15.99347,49.40367],"type":"Point"}
+}

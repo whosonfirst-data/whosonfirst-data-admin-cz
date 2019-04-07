@@ -1,0 +1,71 @@
+{
+  "id": 1310141545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53258,50.087,13.53258,50.087",
+    "geom:latitude":50.087,
+    "geom:longitude":13.53258,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Sosen",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065593,
+    "gn:latitude":50.087,
+    "gn:longitude":13.53258,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Sose\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sussen",
+        "Sossen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065593
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fc80436f61611fde051d0d3bf6d74d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310141545,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1310141545,
+    "wof:lastmodified":1537619298,
+    "wof:name":"Sosen",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53258,
+    50.087,
+    13.53258,
+    50.087
+],
+  "geometry": {"coordinates":[13.53258,50.087],"type":"Point"}
+}

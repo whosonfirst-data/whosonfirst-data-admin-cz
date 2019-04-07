@@ -1,0 +1,144 @@
+{
+  "id": 1125915827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.60007,49.04705,17.60007,49.04705",
+    "geom:latitude":49.04705,
+    "geom:longitude":17.60007,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":498,
+    "gn:population":498,
+    "iso:country":"CZ",
+    "lbl:latitude":49.04705,
+    "lbl:longitude":17.60007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Drslavice"
+    ],
+    "name:dut_x_preferred":[
+        "Drslavice"
+    ],
+    "name:eng_x_preferred":[
+        "Drslavice"
+    ],
+    "name:fre_x_preferred":[
+        "Drslavice"
+    ],
+    "name:ger_x_preferred":[
+        "Drslavice u Uhersk\u00e9ho Brodu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e8\u05e1\u05dc\u05d1\u05d9\u05e6\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Drslavice"
+    ],
+    "name:ita_x_preferred":[
+        "Drslavice"
+    ],
+    "name:kur_x_preferred":[
+        "Drslavice"
+    ],
+    "name:may_x_preferred":[
+        "Drslavice"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0631\u0633\u0644\u0627\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Drslavice"
+    ],
+    "name:por_x_preferred":[
+        "Drslavice"
+    ],
+    "name:rup_x_preferred":[
+        "Drslavice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0441\u043b\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Drslavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0441\u043b\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Drslavice"
+    ],
+    "name:vie_x_preferred":[
+        "Drslavice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076390,
+    "qs_pg:gn_pop":498,
+    "qs_pg:name":"Drslavice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265852,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788859,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076390,
+        "gp:id":788859,
+        "qs_pg:id":1265852,
+        "wd:id":"Q1260707"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296312,
+    "wof:geomhash":"d2ab1fa3ec4ec8642c797a6134e6f429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125915827,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125915827,
+    "wof:lastmodified":1553816626,
+    "wof:name":"Drslavice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":498,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.60007,
+    49.04705,
+    17.60007,
+    49.04705
+],
+  "geometry": {"coordinates":[17.60007,49.04705],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343906473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29053,49.31331,17.29053,49.31331",
+    "geom:latitude":49.31331,
+    "geom:longitude":17.29053,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Kovalovice u Kojetina",
+    "gn:country_code":"CZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073069,
+    "gn:latitude":49.31331,
+    "gn:longitude":17.29053,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Kovalovice u Kojet\u00edna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073069
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"37ba62f0a6ed3bb6118b10f883a907db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343906473,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1343906473,
+    "wof:lastmodified":1537094824,
+    "wof:name":"Kovalovice u Kojetina",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29053,
+    49.31331,
+    17.29053,
+    49.31331
+],
+  "geometry": {"coordinates":[17.29053,49.31331],"type":"Point"}
+}

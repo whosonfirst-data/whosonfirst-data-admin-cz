@@ -1,0 +1,114 @@
+{
+  "id": 101825597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":558158.173474,
+    "geom:bbox":"16.9224210929,49.8652325561,16.938699647,49.8736695543",
+    "geom:latitude":49.869261,
+    "geom:longitude":16.929353,
+    "gn:population":1246,
+    "iso:country":"CZ",
+    "lbl:latitude":49.869124,
+    "lbl:longitude":16.92923,
+    "mps:latitude":49.869124,
+    "mps:longitude":16.92923,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Le\u0161tina"
+    ],
+    "name:ces_x_preferred":[
+        "Le\u0161tina"
+    ],
+    "name:deu_x_preferred":[
+        "Le\u0161tina u Z\u00e1b\u0159eha"
+    ],
+    "name:hun_x_preferred":[
+        "Le\u0161tina"
+    ],
+    "name:ita_x_preferred":[
+        "Le\u0161tina"
+    ],
+    "name:msa_x_preferred":[
+        "Le\u0161tina"
+    ],
+    "name:nld_x_preferred":[
+        "Le\u0161tina"
+    ],
+    "name:pol_x_preferred":[
+        "Le\u0161tina"
+    ],
+    "name:por_x_preferred":[
+        "Le\u0161tina"
+    ],
+    "name:slk_x_preferred":[
+        "Le\u0161tina"
+    ],
+    "name:unk_x_variant":[
+        "Lesche"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Olomouck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Le\u0161tina",
+    "qs:la_lc":"*CZ0715537713",
+    "qs:level":"locality",
+    "qs:loc":"Le\u0161tina",
+    "qs:loc_alt":"Lestina",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072155,
+        "gp:id":792576,
+        "qs:id":965989,
+        "qs_pg:id":965989,
+        "wd:id":"Q1280494",
+        "wk:page":"Le\u0161tina (\u0160umperk District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"09f14b41f2c084c12725789560d243fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825597,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":101825597,
+    "wof:lastmodified":1507750719,
+    "wof:name":"Le\u0161tina",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":1246,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.92242109292249,
+    49.86523255613741,
+    16.93869964703532,
+    49.87366955433311
+],
+  "geometry": {"coordinates":[[[16.93869964703532,49.87260525554217],[16.93857005451548,49.87171069178152],[16.93718426367377,49.87179556434063],[16.93679559881741,49.86911186482803],[16.93402415661632,49.86928154835147],[16.93376517883985,49.8674924057604],[16.93237950199301,49.86757721854508],[16.93225004764031,49.86668264473894],[16.93086439180172,49.86676743881225],[16.93073496896415,49.86587286272737],[16.92657805105875,49.86612713813059],[16.92644871069581,49.86523255613741],[16.92506308793367,49.86531727900081],[16.92519240281553,49.86621186280871],[16.92242109292249,49.8663812614796],[16.92306750290595,49.87085419172752],[16.92445328751359,49.87076949176918],[16.92458261308002,49.87166407461837],[16.92735421986106,49.87149462038127],[16.92748360243593,49.87238919913864],[16.93164105553149,49.87213488560786],[16.93151159649068,49.87124031229803],[16.93566893284907,49.87098585214392],[16.9360575574795,49.87366955433311],[16.93744340377731,49.87358469503522],[16.93731383070536,49.87269012991919],[16.93869964703532,49.87260525554217]]],"type":"Polygon"}
+}

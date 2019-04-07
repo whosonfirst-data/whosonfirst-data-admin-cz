@@ -1,0 +1,66 @@
+{
+  "id": 1209244371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59962,50.57102,14.59962,50.57102",
+    "geom:latitude":50.57102,
+    "geom:longitude":14.59962,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Nova Skalka",
+    "gn:country_code":"CZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069656,
+    "gn:latitude":50.57102,
+    "gn:longitude":14.59962,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Nov\u00e1 Skalka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neu Kalken",
+        "Nov\u00e1 Skalka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069656
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c32d8dc3160709f46343bdcbd01309d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209244371
+        }
+    ],
+    "wof:id":1209244371,
+    "wof:lastmodified":1537619345,
+    "wof:name":"Nova Skalka",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59962,
+    50.57102,
+    14.59962,
+    50.57102
+],
+  "geometry": {"coordinates":[14.59962,50.57102],"type":"Point"}
+}

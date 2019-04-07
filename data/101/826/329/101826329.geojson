@@ -1,0 +1,84 @@
+{
+  "id": 101826329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":717714.16621,
+    "geom:bbox":"13.9315778028,49.3698894258,13.9467049167,49.3826037417",
+    "geom:latitude":49.376626,
+    "geom:longitude":13.939644,
+    "gn:population":1219,
+    "iso:country":"CZ",
+    "lbl:latitude":49.375077,
+    "lbl:longitude":13.94228,
+    "mps:latitude":49.375077,
+    "mps:longitude":13.94228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sedlitz"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihocesk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Sedlice",
+    "qs:la_lc":"*CZ0316551716",
+    "qs:level":"locality",
+    "qs:loc":"Sedlice",
+    "qs:loc_alt":"Sedlice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066298,
+        "gp:id":797861,
+        "qs:id":325257,
+        "qs_pg:id":325257,
+        "wd:id":"Q742108",
+        "wk:page":"Sedlice (Strakonice District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"58598c3c271494c30ecb3f55303f5cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826329,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":101826329,
+    "wof:lastmodified":1507750719,
+    "wof:name":"Sedlice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":1219,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93157780276391,
+    49.36988942580302,
+    13.94670491666642,
+    49.38260374171995
+],
+  "geometry": {"coordinates":[[[13.94019157168179,49.3824593369248],[13.9398289930125,49.37797009088285],[13.94670491666642,49.3777291058891],[13.94626917752316,49.37234202961747],[13.94351911767609,49.3724384617372],[13.94344655659381,49.37154061241569],[13.94207154812244,49.37158880227298],[13.94199901557181,49.37069095157858],[13.93924904153704,49.37078727888928],[13.93917656268991,49.36988942580302],[13.93642662908644,49.36998568392488],[13.93657148943129,49.37178139381962],[13.93794650782343,49.3717332711152],[13.93801896819821,49.37263112451501],[13.93939400928826,49.37258298400332],[13.93961148606047,49.37527653902947],[13.93823636943193,49.37532468259843],[13.93830884321409,49.37622253458795],[13.93693369892372,49.3762706623861],[13.93707860617775,49.37806636734575],[13.93157780276391,49.37825871878169],[13.93186725449266,49.38185014076549],[13.93599316302158,49.38170589015829],[13.93606348673217,49.38257742885423],[13.93606560989463,49.38260374171995],[13.93681742619077,49.38257742885423],[13.94019157168179,49.3824593369248]]],"type":"Polygon"}
+}

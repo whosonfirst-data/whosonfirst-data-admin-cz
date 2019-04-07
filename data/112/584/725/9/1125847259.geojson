@@ -1,0 +1,79 @@
+{
+  "id": 1125847259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87598,49.75584,16.87598,49.75584",
+    "geom:latitude":49.75584,
+    "geom:longitude":16.87598,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":288,
+    "gn:population":288,
+    "iso:country":"CZ",
+    "lbl:latitude":49.75584,
+    "lbl:longitude":16.87598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Lexen"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071716,
+    "qs_pg:gn_pop":288,
+    "qs_pg:name":"L\u00ed\u0161nice",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":94480,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071716,
+        "qs_pg:id":94480
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293225,
+    "wof:geomhash":"efa965b475b16e538de5db2ce524353f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125847259,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125847259,
+    "wof:lastmodified":1509395711,
+    "wof:name":"L\u00ed\u0161nice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":288,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87598,
+    49.75584,
+    16.87598,
+    49.75584
+],
+  "geometry": {"coordinates":[16.87598,49.75584],"type":"Point"}
+}

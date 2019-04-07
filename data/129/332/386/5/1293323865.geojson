@@ -1,0 +1,70 @@
+{
+  "id": 1293323865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1485,50.14421,16.1485,50.14421",
+    "geom:latitude":50.14421,
+    "geom:longitude":16.1485,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Olesnice",
+    "gn:country_code":"CZ",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069025,
+    "gn:latitude":50.14421,
+    "gn:longitude":16.1485,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Ole\u0161nice",
+    "gn:population":405,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069025,
+        "wk:page":"Ole%C5%A1nice_%28Rychnov_nad_Kn%C4%9B%C5%BEnou_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"883d099962a546da3ca1574795928328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293323865,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293323865,
+    "wof:lastmodified":1537504035,
+    "wof:name":"Olesnice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":405,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1485,
+    50.14421,
+    16.1485,
+    50.14421
+],
+  "geometry": {"coordinates":[16.1485,50.14421],"type":"Point"}
+}

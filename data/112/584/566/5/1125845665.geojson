@@ -1,0 +1,138 @@
+{
+  "id": 1125845665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13214,49.89523,17.13214,49.89523",
+    "geom:latitude":49.89523,
+    "geom:longitude":17.13214,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1471,
+    "gn:population":1471,
+    "iso:country":"CZ",
+    "lbl:latitude":49.89523,
+    "lbl:longitude":17.13214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Oskava"
+    ],
+    "name:dut_x_preferred":[
+        "Oskava"
+    ],
+    "name:eng_x_preferred":[
+        "Oskava"
+    ],
+    "name:fre_x_preferred":[
+        "Oskava"
+    ],
+    "name:ger_x_preferred":[
+        "Oskava"
+    ],
+    "name:hun_x_preferred":[
+        "Oskava"
+    ],
+    "name:ita_x_preferred":[
+        "Oskava"
+    ],
+    "name:may_x_preferred":[
+        "Oskava"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0633\u06a9\u0627\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Oskava"
+    ],
+    "name:por_x_preferred":[
+        "Oskava"
+    ],
+    "name:rup_x_preferred":[
+        "Oskava"
+    ],
+    "name:slo_x_preferred":[
+        "Oskava"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u043a\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Oskava"
+    ],
+    "name:unk_x_variant":[
+        "Oskau"
+    ],
+    "name:vie_x_preferred":[
+        "Oskava"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3068837,
+    "qs_pg:gn_pop":1471,
+    "qs_pg:name":"Oskava",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1246404,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795578,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068837,
+        "gp:id":795578,
+        "qs_pg:id":1246404,
+        "wd:id":"Q1810166"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293145,
+    "wof:geomhash":"c1baec98cb33cb0426387e336d15110a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125845665,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125845665,
+    "wof:lastmodified":1553816568,
+    "wof:name":"Oskava",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":1471,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13214,
+    49.89523,
+    17.13214,
+    49.89523
+],
+  "geometry": {"coordinates":[17.13214,49.89523],"type":"Point"}
+}

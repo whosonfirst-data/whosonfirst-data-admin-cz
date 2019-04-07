@@ -1,0 +1,66 @@
+{
+  "id": 1293518811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98105,50.21454,13.98105,50.21454",
+    "geom:latitude":50.21454,
+    "geom:longitude":13.98105,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0203",
+    "gn:asciiname":"Canovice",
+    "gn:country_code":"CZ",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078242,
+    "gn:latitude":50.21454,
+    "gn:longitude":13.98105,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"\u010canovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078242
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bc5a211d8254e0514e24d34d82045b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293518811,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293518811,
+    "wof:lastmodified":1536741744,
+    "wof:name":"Canovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98105,
+    50.21454,
+    13.98105,
+    50.21454
+],
+  "geometry": {"coordinates":[13.98105,50.21454],"type":"Point"}
+}

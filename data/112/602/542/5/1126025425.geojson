@@ -1,0 +1,139 @@
+{
+  "id": 1126025425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0313,50.7845,14.0313,50.7845",
+    "geom:latitude":50.7845,
+    "geom:longitude":14.0313,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":742,
+    "gn:population":742,
+    "iso:country":"CZ",
+    "lbl:latitude":50.7845,
+    "lbl:longitude":14.0313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u06cc\u0633\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Velk\u00e9 B\u0159ezno"
+    ],
+    "name:slo_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "name:vie_x_preferred":[
+        "Tis\u00e1"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064217,
+    "qs_pg:gn_pop":742,
+    "qs_pg:name":"Tis\u00e1",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos":222,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":222,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":316625,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799662,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064217,
+        "gp:id":799662,
+        "qs_pg:id":316625,
+        "wd:id":"Q1982889"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497301110,
+    "wof:geomhash":"df2bffcf3e193d45b77c199dca0fecd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126025425,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1126025425,
+    "wof:lastmodified":1513945793,
+    "wof:name":"Tis\u00e1",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":742,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0313,
+    50.7845,
+    14.0313,
+    50.7845
+],
+  "geometry": {"coordinates":[14.0313,50.7845],"type":"Point"}
+}

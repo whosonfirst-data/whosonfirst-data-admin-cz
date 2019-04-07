@@ -1,0 +1,66 @@
+{
+  "id": 1326861553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14904,50.3944,16.14904,50.3944",
+    "geom:latitude":50.3944,
+    "geom:longitude":16.14904,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Brazec",
+    "gn:country_code":"CZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078785,
+    "gn:latitude":50.3944,
+    "gn:longitude":16.14904,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Bra\u017eec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078785
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f1bd81bbdf6ef128689b6fa0a47c2a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326861553,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1326861553,
+    "wof:lastmodified":1537005809,
+    "wof:name":"Brazec",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14904,
+    50.3944,
+    16.14904,
+    50.3944
+],
+  "geometry": {"coordinates":[16.14904,50.3944],"type":"Point"}
+}

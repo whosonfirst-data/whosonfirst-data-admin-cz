@@ -1,0 +1,135 @@
+{
+  "id": 1125857225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81821,49.50481,15.81821,49.50481",
+    "geom:latitude":49.50481,
+    "geom:longitude":15.81821,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":234,
+    "gn:population":234,
+    "iso:country":"CZ",
+    "lbl:latitude":49.50481,
+    "lbl:longitude":15.81821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:cze_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:dut_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:eng_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:fre_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:ger_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:hun_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:ita_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:may_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:oci_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u0631\u0627\u06a9\u0648\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:rup_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:slo_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:swe_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "name:vie_x_preferred":[
+        "Sir\u00e1kov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066109,
+    "qs_pg:gn_pop":234,
+    "qs_pg:name":"Sir\u00e1kov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1268057,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798017,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066109,
+        "gp:id":798017,
+        "qs_pg:id":1268057,
+        "wd:id":"Q94211"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293670,
+    "wof:geomhash":"83b8e5556ca96c04b0e569afd08b285e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125857225,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125857225,
+    "wof:lastmodified":1513945679,
+    "wof:name":"Sir\u00e1kov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":234,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81821,
+    49.50481,
+    15.81821,
+    49.50481
+],
+  "geometry": {"coordinates":[15.81821,49.50481],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293130111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53524,50.59721,14.53524,50.59721",
+    "geom:latitude":50.59721,
+    "geom:longitude":14.53524,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Pavlovice",
+    "gn:country_code":"CZ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068503,
+    "gn:latitude":50.59721,
+    "gn:longitude":14.53524,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Pavlovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068503
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2bdc2388677c222c10e8e6a192f896ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293130111,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1293130111,
+    "wof:lastmodified":1536805237,
+    "wof:name":"Pavlovice",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53524,
+    50.59721,
+    14.53524,
+    50.59721
+],
+  "geometry": {"coordinates":[14.53524,50.59721],"type":"Point"}
+}

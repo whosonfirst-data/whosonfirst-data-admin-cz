@@ -1,0 +1,89 @@
+{
+  "id": 1125938139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83362,49.82072,16.83362,49.82072",
+    "geom:latitude":49.82072,
+    "geom:longitude":16.83362,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":190,
+    "gn:population":190,
+    "iso:country":"CZ",
+    "lbl:latitude":49.82072,
+    "lbl:longitude":16.83362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Chrnes"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072822,
+    "qs_pg:gn_pop":190,
+    "qs_pg:name":"Krchleby",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":398865,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":791991,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072822,
+        "gp:id":791991,
+        "qs_pg:id":398865
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297032,
+    "wof:geomhash":"a51541e9fa9ab873e3015b6688e9ac7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125938139,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125938139,
+    "wof:lastmodified":1509401905,
+    "wof:name":"Krchleby",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83362,
+    49.82072,
+    16.83362,
+    49.82072
+],
+  "geometry": {"coordinates":[16.83362,49.82072],"type":"Point"}
+}

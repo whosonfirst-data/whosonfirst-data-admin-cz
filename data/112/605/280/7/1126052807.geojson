@@ -1,0 +1,138 @@
+{
+  "id": 1126052807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87828,49.67945,15.87828,49.67945",
+    "geom:latitude":49.67945,
+    "geom:longitude":15.87828,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":720,
+    "gn:population":720,
+    "iso:country":"CZ",
+    "lbl:latitude":49.67945,
+    "lbl:longitude":15.87828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:dut_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:eng_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:fre_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:ger_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:hun_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:ita_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:may_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:nob_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0648\u06cc\u0646\u0648\u0641 \u0645\u06cc\u0633\u062a\u062a\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:rup_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:slo_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0458\u043d\u0443\u0432 \u041c\u0458\u0435\u0441\u0442\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "name:unk_x_variant":[
+        "Wojnowm\u011bstetz"
+    ],
+    "name:vie_x_preferred":[
+        "Vojn\u016fv M\u011bstec"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062616,
+    "qs_pg:gn_pop":720,
+    "qs_pg:name":"Vojn\u016fv M\u011bstec",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1060693,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801071,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062616,
+        "gp:id":801071,
+        "qs_pg:id":1060693,
+        "wd:id":"Q1948479"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302888,
+    "wof:geomhash":"124f6e9635edea8725e87727b7ddd540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126052807,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1126052807,
+    "wof:lastmodified":1513945886,
+    "wof:name":"Vojn\u016fv M\u011bstec",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":720,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87828,
+    49.67945,
+    15.87828,
+    49.67945
+],
+  "geometry": {"coordinates":[15.87828,49.67945],"type":"Point"}
+}

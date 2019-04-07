@@ -1,0 +1,70 @@
+{
+  "id": 1276259641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28345,49.78736,14.28345,49.78736",
+    "geom:latitude":49.78736,
+    "geom:longitude":14.28345,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Stary Knin",
+    "gn:country_code":"CZ",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065260,
+    "gn:latitude":49.78736,
+    "gn:longitude":14.28345,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Star\u00fd Kn\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt Kn\u00edn",
+        "Star\u00fd Kn\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065260
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8b9e31bc6cd5d72c133fa836f600c3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276259641,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276259641,
+    "wof:lastmodified":1537619293,
+    "wof:name":"Stary Knin",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28345,
+    49.78736,
+    14.28345,
+    49.78736
+],
+  "geometry": {"coordinates":[14.28345,49.78736],"type":"Point"}
+}

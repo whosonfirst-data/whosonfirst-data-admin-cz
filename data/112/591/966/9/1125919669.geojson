@@ -1,0 +1,129 @@
+{
+  "id": 1125919669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75631,49.84173,15.75631,49.84173",
+    "geom:latitude":49.84173,
+    "geom:longitude":15.75631,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":97,
+    "gn:population":97,
+    "iso:country":"CZ",
+    "lbl:latitude":49.84173,
+    "lbl:longitude":15.75631,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Libkov"
+    ],
+    "name:dut_x_preferred":[
+        "Libkov"
+    ],
+    "name:eng_x_preferred":[
+        "Libkov"
+    ],
+    "name:epo_x_preferred":[
+        "Libkov"
+    ],
+    "name:fre_x_preferred":[
+        "Libkov"
+    ],
+    "name:hun_x_preferred":[
+        "Libkov"
+    ],
+    "name:ita_x_preferred":[
+        "Libkov"
+    ],
+    "name:may_x_preferred":[
+        "Libkov"
+    ],
+    "name:pol_x_preferred":[
+        "Libkov"
+    ],
+    "name:por_x_preferred":[
+        "Libkov"
+    ],
+    "name:rup_x_preferred":[
+        "Libkov"
+    ],
+    "name:slo_x_preferred":[
+        "Libkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u043a\u043e\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "Libkov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071932,
+    "qs_pg:gn_pop":97,
+    "qs_pg:name":"Libkov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1266822,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792795,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071932,
+        "gp:id":792795,
+        "qs_pg:id":1266822,
+        "wd:id":"Q2298724"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296437,
+    "wof:geomhash":"c11d35a67d5896f430222246585901d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125919669,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125919669,
+    "wof:lastmodified":1513945291,
+    "wof:name":"Libkov",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75631,
+    49.84173,
+    15.75631,
+    49.84173
+],
+  "geometry": {"coordinates":[15.75631,49.84173],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209649665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51215,49.19859,13.51215,49.19859",
+    "geom:latitude":49.19859,
+    "geom:longitude":13.51215,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Stara Dlouha Ves",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065417,
+    "gn:latitude":49.19859,
+    "gn:longitude":13.51215,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Star\u00e1 Dlouh\u00e1 Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt-Langendorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065417
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"18e898101a1638ca4d1653e17d5cc9b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209649665
+        }
+    ],
+    "wof:id":1209649665,
+    "wof:lastmodified":1537619296,
+    "wof:name":"Stara Dlouha Ves",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51215,
+    49.19859,
+    13.51215,
+    49.19859
+],
+  "geometry": {"coordinates":[13.51215,49.19859],"type":"Point"}
+}

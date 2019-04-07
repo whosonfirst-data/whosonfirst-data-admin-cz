@@ -1,0 +1,70 @@
+{
+  "id": 1193047221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21667,50.35,13.21667,50.35",
+    "geom:latitude":50.35,
+    "geom:longitude":13.21667,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Donin",
+    "gn:country_code":"CZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076571,
+    "gn:latitude":50.35,
+    "gn:longitude":13.21667,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Don\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dohnau",
+        "Don\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076571
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"52603e0688ee70fc0d1b44c56a8ccfbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193047221,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1193047221,
+    "wof:lastmodified":1537619429,
+    "wof:name":"Donin",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21667,
+    50.35,
+    13.21667,
+    50.35
+],
+  "geometry": {"coordinates":[13.21667,50.35],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360220531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70925,49.01789,13.70925,49.01789",
+    "geom:latitude":49.01789,
+    "geom:longitude":13.70925,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Michlova Hut'",
+    "gn:country_code":"CZ",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070743,
+    "gn:latitude":49.01789,
+    "gn:longitude":13.70925,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Michlova Hu\u0165",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Helmbach",
+        "Michlova Hu\u0165"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070743
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3d019290f292e8e42185aad02d293b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360220531,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1360220531,
+    "wof:lastmodified":1537619358,
+    "wof:name":"Michlova Hut'",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70925,
+    49.01789,
+    13.70925,
+    49.01789
+],
+  "geometry": {"coordinates":[13.70925,49.01789],"type":"Point"}
+}

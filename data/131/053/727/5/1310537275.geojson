@@ -1,0 +1,66 @@
+{
+  "id": 1310537275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35671,49.22285,17.35671,49.22285",
+    "geom:latitude":49.22285,
+    "geom:longitude":17.35671,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0721",
+    "gn:asciiname":"Milovice",
+    "gn:country_code":"CZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070629,
+    "gn:latitude":49.22285,
+    "gn:longitude":17.35671,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Milovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070629
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5fcad4beb5d6f5479ba336723b3ffe34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310537275,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1310537275,
+    "wof:lastmodified":1536869908,
+    "wof:name":"Milovice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35671,
+    49.22285,
+    17.35671,
+    49.22285
+],
+  "geometry": {"coordinates":[17.35671,49.22285],"type":"Point"}
+}

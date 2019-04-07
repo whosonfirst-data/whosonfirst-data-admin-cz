@@ -1,0 +1,70 @@
+{
+  "id": 1259916031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60447,50.52905,13.60447,50.52905",
+    "geom:latitude":50.52905,
+    "geom:longitude":13.60447,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0425",
+    "gn:asciiname":"Sous",
+    "gn:country_code":"CZ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065584,
+    "gn:latitude":50.52905,
+    "gn:longitude":13.60447,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Sou\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tschausch",
+        "Sou\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065584
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ff754dc4a79ba2edbf4f69bfdab34c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259916031,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1259916031,
+    "wof:lastmodified":1537619298,
+    "wof:name":"Sous",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60447,
+    50.52905,
+    13.60447,
+    50.52905
+],
+  "geometry": {"coordinates":[13.60447,50.52905],"type":"Point"}
+}

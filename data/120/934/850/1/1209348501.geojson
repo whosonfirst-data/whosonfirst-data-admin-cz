@@ -1,0 +1,62 @@
+{
+  "id": 1209348501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49331,49.64098,14.49331,49.64098",
+    "geom:latitude":49.64098,
+    "geom:longitude":14.49331,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Lavicky",
+    "gn:country_code":"CZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072302,
+    "gn:latitude":49.64098,
+    "gn:longitude":14.49331,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Lavi\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072302
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"474dbf866824a338a0a6e59bdd1b7ac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209348501
+        }
+    ],
+    "wof:id":1209348501,
+    "wof:lastmodified":1536289828,
+    "wof:name":"Lavicky",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49331,
+    49.64098,
+    14.49331,
+    49.64098
+],
+  "geometry": {"coordinates":[14.49331,49.64098],"type":"Point"}
+}

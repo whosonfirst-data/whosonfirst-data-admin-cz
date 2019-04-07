@@ -1,0 +1,66 @@
+{
+  "id": 1209446093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.00208,50.70396,14.00208,50.70396",
+    "geom:latitude":50.70396,
+    "geom:longitude":14.00208,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Habrovice",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076056,
+    "gn:latitude":50.70396,
+    "gn:longitude":14.00208,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Habrovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Johnsdorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076056
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1f57b8561f37e9cce57dab7d87d6ef9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209446093
+        }
+    ],
+    "wof:id":1209446093,
+    "wof:lastmodified":1537619422,
+    "wof:name":"Habrovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.00208,
+    50.70396,
+    14.00208,
+    50.70396
+],
+  "geometry": {"coordinates":[14.00208,50.70396],"type":"Point"}
+}

@@ -1,0 +1,131 @@
+{
+  "id": 1126037899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16898,49.56423,18.16898,49.56423",
+    "geom:latitude":49.56423,
+    "geom:longitude":18.16898,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1335,
+    "gn:population":1335,
+    "iso:country":"CZ",
+    "lbl:latitude":49.56423,
+    "lbl:longitude":18.16898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Lichnov"
+    ],
+    "name:deu_x_preferred":[
+        "Lichnau"
+    ],
+    "name:dut_x_preferred":[
+        "Lichnov"
+    ],
+    "name:eng_x_preferred":[
+        "Lichnov"
+    ],
+    "name:epo_x_preferred":[
+        "Lichnov"
+    ],
+    "name:fre_x_preferred":[
+        "Lichnov"
+    ],
+    "name:hun_x_preferred":[
+        "Lichnov"
+    ],
+    "name:ita_x_preferred":[
+        "Lichnov"
+    ],
+    "name:may_x_preferred":[
+        "Lichnov"
+    ],
+    "name:nan_x_preferred":[
+        "Lichnov"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u06cc\u062e\u0646\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Lichnov"
+    ],
+    "name:por_x_preferred":[
+        "Lichnov"
+    ],
+    "name:rup_x_preferred":[
+        "Lichnov"
+    ],
+    "name:slo_x_preferred":[
+        "Lichnov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0445\u043d\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Lichnov"
+    ],
+    "name:vie_x_preferred":[
+        "Lichnov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071875,
+    "qs_pg:gn_pop":1335,
+    "qs_pg:name":"Lichnov (o. Nov\u00fd Ji\u010d\u00edn)",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":94476,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071875,
+        "qs_pg:id":94476,
+        "wd:id":"Q928914"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497301914,
+    "wof:geomhash":"efe7ffff9e9d8af3b07789d77d775086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126037899,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1126037899,
+    "wof:lastmodified":1553816718,
+    "wof:name":"Lichnov (o. Nov\u00fd Ji\u010d\u00edn)",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1335,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16898,
+    49.56423,
+    18.16898,
+    49.56423
+],
+  "geometry": {"coordinates":[18.16898,49.56423],"type":"Point"}
+}

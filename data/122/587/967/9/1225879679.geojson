@@ -1,0 +1,70 @@
+{
+  "id": 1225879679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45921,50.88907,14.45921,50.88907",
+    "geom:latitude":50.88907,
+    "geom:longitude":14.45921,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Stare Doubice",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065361,
+    "gn:latitude":50.88907,
+    "gn:longitude":14.45921,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Star\u00e9 Doubice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt-Daubitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065361
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"550ce524603b71b1ce00502842c68948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225879679,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1225879679,
+    "wof:lastmodified":1537619295,
+    "wof:name":"Stare Doubice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45921,
+    50.88907,
+    14.45921,
+    50.88907
+],
+  "geometry": {"coordinates":[14.45921,50.88907],"type":"Point"}
+}

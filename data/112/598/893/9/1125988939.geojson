@@ -1,0 +1,93 @@
+{
+  "id": 1125988939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11279,50.58293,15.11279,50.58293",
+    "geom:latitude":50.58293,
+    "geom:longitude":15.11279,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":855,
+    "gn:population":855,
+    "iso:country":"CZ",
+    "lbl:latitude":50.58293,
+    "lbl:longitude":15.11279,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "P\u0159epe\u0159"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067583,
+    "qs_pg:gn_pop":855,
+    "qs_pg:name":"P\u0159epe\u0159e",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos":135,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":135,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":279298,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796697,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067583,
+        "gp:id":796697,
+        "qs_pg:id":279298
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298951,
+    "wof:geomhash":"b4ae08f9dbd45dcb1f06cff3c49affb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125988939,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1125988939,
+    "wof:lastmodified":1509405263,
+    "wof:name":"P\u0159epe\u0159e",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:population":855,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11279,
+    50.58293,
+    15.11279,
+    50.58293
+],
+  "geometry": {"coordinates":[15.11279,50.58293],"type":"Point"}
+}

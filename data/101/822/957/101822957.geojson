@@ -1,0 +1,109 @@
+{
+  "id": 101822957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":328855.389833,
+    "geom:bbox":"13.7402091407,50.6634835402,13.7513684173,50.6708945032",
+    "geom:latitude":50.66744,
+    "geom:longitude":13.745653,
+    "iso:country":"CZ",
+    "lbl:latitude":50.667658,
+    "lbl:longitude":13.745568,
+    "mps:latitude":50.667658,
+    "mps:longitude":13.745568,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "St\u0159eln\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "St\u0159eln\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "St\u0159eln\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "St\u0159eln\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "St\u0159eln\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "St\u0159eln\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "St\u0159eln\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "St\u0159eln\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "St\u0159eln\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "St\u0159eln\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Strahl"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*\u00dasteck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Ko\u0161\u0165any",
+    "qs:la_lc":"*CZ0426567621",
+    "qs:level":"locality",
+    "qs:loc":"St\u0159eln\u00e1",
+    "qs:loc_alt":"Strelna",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064958,
+        "gp:id":799032,
+        "qs:id":1160624,
+        "qs_pg:id":183326
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5416e54c2748283ee6e018ef5d93d1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101822957,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":101822957,
+    "wof:lastmodified":1527715073,
+    "wof:name":"St\u0159eln\u00e1",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74020914068325,
+    50.66348354023398,
+    13.75136841734155,
+    50.67089450319588
+],
+  "geometry": {"coordinates":[[[13.74748903518719,50.67080255438589],[13.74734539077264,50.66900730966819],[13.74875829669713,50.66896131130221],[13.74861461205677,50.66716606753596],[13.75002746152086,50.66712005387211],[13.74995559738045,50.66622243259917],[13.75136841734155,50.66617640262609],[13.75115276460679,50.66348354023398],[13.74974002550101,50.66352956716844],[13.74988373666378,50.66532481105747],[13.74423253916166,50.66550875368233],[13.74416078967761,50.6646111278244],[13.74274801089211,50.66465706916546],[13.74281973342346,50.66555469603446],[13.74140692514226,50.66560062106464],[13.74162203237387,50.66829350309399],[13.74020914068325,50.66833941383356],[13.74028082296843,50.66923704165083],[13.74169374161721,50.66919112990087],[13.74176545427736,50.67008875643944],[13.74459133786297,50.66999687894753],[13.7446631078613,50.67089450319588],[13.74748903518719,50.67080255438589]]],"type":"Polygon"}
+}

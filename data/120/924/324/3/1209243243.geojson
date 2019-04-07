@@ -1,0 +1,66 @@
+{
+  "id": 1209243243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94861,50.39517,15.94861,50.39517",
+    "geom:latitude":50.39517,
+    "geom:longitude":15.94861,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Krabcice",
+    "gn:country_code":"CZ",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072977,
+    "gn:latitude":50.39517,
+    "gn:longitude":15.94861,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Krab\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grabsch\u00fctz",
+        "Krab\u010dice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072977
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ffd87806b414e496e6930a55dd8723ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209243243
+        }
+    ],
+    "wof:id":1209243243,
+    "wof:lastmodified":1537619386,
+    "wof:name":"Krabcice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94861,
+    50.39517,
+    15.94861,
+    50.39517
+],
+  "geometry": {"coordinates":[15.94861,50.39517],"type":"Point"}
+}

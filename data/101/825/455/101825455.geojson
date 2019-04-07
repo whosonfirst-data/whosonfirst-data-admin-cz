@@ -1,0 +1,114 @@
+{
+  "id": 101825455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":857204.361024,
+    "geom:bbox":"18.1435342847,49.6991135853,18.1628097624,49.7179594548",
+    "geom:latitude":49.708112,
+    "geom:longitude":18.154198,
+    "gn:population":1735,
+    "iso:country":"CZ",
+    "lbl:latitude":49.705953,
+    "lbl:longitude":18.150328,
+    "mps:latitude":49.705953,
+    "mps:longitude":18.150328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pet\u0159vald"
+    ],
+    "name:ces_x_preferred":[
+        "Pet\u0159vald"
+    ],
+    "name:hun_x_preferred":[
+        "Pet\u0159vald"
+    ],
+    "name:ita_x_preferred":[
+        "Pet\u0159vald"
+    ],
+    "name:msa_x_preferred":[
+        "Pet\u0159vald"
+    ],
+    "name:nld_x_preferred":[
+        "Pet\u0159vald"
+    ],
+    "name:pol_x_preferred":[
+        "Pet\u0159vald"
+    ],
+    "name:por_x_preferred":[
+        "Pet\u0159vald"
+    ],
+    "name:slk_x_preferred":[
+        "Pet\u0159vald"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0432\u0430\u043b\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Gross Peterswald"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Pet\u0159vald",
+    "qs:la_lc":"*CZ0804599743",
+    "qs:level":"locality",
+    "qs:loc":"Pet\u0159vald 1-Pet\u0159vald",
+    "qs:loc_alt":"Petrvald 1-Petrvald",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068330,
+        "gp:id":796028,
+        "qs:id":1267566,
+        "qs_pg:id":1267566,
+        "wd:id":"Q2523826",
+        "wk:page":"Pet\u0159vald (Nov\u00fd Ji\u010d\u00edn District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a977d361faadd34101b7ddc68da516fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825455,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825455,
+    "wof:lastmodified":1505338172,
+    "wof:name":"Pet\u0159vald 1-Pet\u0159vald",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1735,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14353428472043,
+    49.69911358529293,
+    18.16280976244514,
+    49.71795945483268
+],
+  "geometry": {"coordinates":[[[18.1620369794644,49.71775996343382],[18.16143042824785,49.71418858375205],[18.16280976244514,49.71408882137132],[18.16265811713316,49.71319597719901],[18.1612788080202,49.71329573745646],[18.16052081231362,49.70883149772573],[18.16189999602381,49.70873174808355],[18.16159679678157,49.70694605258439],[18.15608023132609,49.70734493349471],[18.15577726079317,49.70555921881834],[18.15439815657197,49.70565889285427],[18.15409526427368,49.70387317173555],[18.15271620499925,49.70397282475119],[18.15256479445276,49.70307996124626],[18.1498067104514,49.70327921270177],[18.14950401069689,49.70149347556264],[18.14812501104268,49.70159307188425],[18.14782238948732,49.6998073283076],[18.14506447487173,49.70000646214271],[18.14491322475067,49.69911358529293],[18.14353428472043,49.69921312492653],[18.14383674183523,49.70099888231221],[18.14521573200386,49.70089933844287],[18.14582083064903,49.70447083814685],[18.14719991591329,49.70437126902573],[18.14795657240563,49.70883562069719],[18.15347336302335,49.70843713402633],[18.1536248156898,49.70932999423167],[18.15500402542142,49.7092303284918],[18.15545850079485,49.71190889944546],[18.15683778056706,49.71180921056009],[18.15744394641041,49.7153806223136],[18.15882332131628,49.71528090815775],[18.15927809474692,49.71795945483268],[18.1620369794644,49.71775996343382]]],"type":"Polygon"}
+}

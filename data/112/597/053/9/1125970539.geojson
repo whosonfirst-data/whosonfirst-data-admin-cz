@@ -1,0 +1,126 @@
+{
+  "id": 1125970539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04226,49.41674,15.04226,49.41674",
+    "geom:latitude":49.41674,
+    "geom:longitude":15.04226,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":23,
+    "gn:population":23,
+    "iso:country":"CZ",
+    "lbl:latitude":49.41674,
+    "lbl:longitude":15.04226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "name:dut_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "name:eng_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "name:fre_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "name:ger_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "name:hun_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "name:ita_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "name:may_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0633\u0648\u06a9\u0627 \u0644\u0647\u0648\u062a\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "name:slo_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430 \u041b\u0445\u043e\u0442\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Vysok\u00e1 Lhota"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062234,
+    "qs_pg:gn_pop":23,
+    "qs_pg:name":"Vysok\u00e1 Lhota",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":401399,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801407,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062234,
+        "gp:id":801407,
+        "qs_pg:id":401399,
+        "wd:id":"Q1387896"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298147,
+    "wof:geomhash":"2603cabe31bcc3bc8a3b4fd18cf1526b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125970539,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125970539,
+    "wof:lastmodified":1513945910,
+    "wof:name":"Vysok\u00e1 Lhota",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04226,
+    49.41674,
+    15.04226,
+    49.41674
+],
+  "geometry": {"coordinates":[15.04226,49.41674],"type":"Point"}
+}

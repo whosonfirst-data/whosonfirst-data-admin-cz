@@ -1,0 +1,132 @@
+{
+  "id": 1125913317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33359,50.18574,15.33359,50.18574",
+    "geom:latitude":50.18574,
+    "geom:longitude":15.33359,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":876,
+    "gn:population":876,
+    "iso:country":"CZ",
+    "lbl:latitude":50.18574,
+    "lbl:longitude":15.33359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:dut_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:eng_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:fre_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:ger_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:hun_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:ita_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:may_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0631\u0648\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:por_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:slo_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0458\u0435\u0440\u0443\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "B\u011brunice"
+    ],
+    "name:vie_x_preferred":[
+        "B\u011brunice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079463,
+    "qs_pg:gn_pop":876,
+    "qs_pg:name":"B\u011brunice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265186,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786117,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079463,
+        "gp:id":786117,
+        "qs_pg:id":1265186,
+        "wd:id":"Q1022070"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296218,
+    "wof:geomhash":"c1eee7daebbd7c14df33154bc39817a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125913317,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125913317,
+    "wof:lastmodified":1513944855,
+    "wof:name":"B\u011brunice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":876,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33359,
+    50.18574,
+    15.33359,
+    50.18574
+],
+  "geometry": {"coordinates":[15.33359,50.18574],"type":"Point"}
+}

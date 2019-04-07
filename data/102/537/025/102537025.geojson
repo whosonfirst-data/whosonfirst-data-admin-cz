@@ -1,0 +1,65 @@
+{
+  "id": 102537025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0555528,49.4861083,17.0555528,49.4861083",
+    "geom:latitude":49.486108,
+    "geom:longitude":17.055553,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"840",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582552,
+        "localadmin_id":12605992,
+        "planet_id":1,
+        "state_id":20070470
+    },
+    "wof:belongsto":[
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049699,
+        "icao:code":"LKSB",
+        "oa:id":"30437",
+        "wd:id":"Q25471815"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5b4bc4928093900079ee6afb3160b8f6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537025,
+            "country_id":85633105,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":102537025,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Letiste Stichovice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.0555528,
+    49.4861083,
+    17.0555528,
+    49.4861083
+],
+  "geometry": {"coordinates":[17.0555528,49.4861083],"type":"Point"}
+}

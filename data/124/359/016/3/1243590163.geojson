@@ -1,0 +1,66 @@
+{
+  "id": 1243590163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37542,49.32432,14.37542,49.32432",
+    "geom:latitude":49.32432,
+    "geom:longitude":14.37542,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Karlov-Nepomuk",
+    "gn:country_code":"CZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073805,
+    "gn:latitude":49.32432,
+    "gn:longitude":14.37542,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Karlov-Nepomuk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073805
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e296118c6442f38038208316f5054262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243590163,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243590163,
+    "wof:lastmodified":1537092000,
+    "wof:name":"Karlov-Nepomuk",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37542,
+    49.32432,
+    14.37542,
+    49.32432
+],
+  "geometry": {"coordinates":[14.37542,49.32432],"type":"Point"}
+}

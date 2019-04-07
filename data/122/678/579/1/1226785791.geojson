@@ -1,0 +1,66 @@
+{
+  "id": 1226785791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88642,49.61319,13.88642,49.61319",
+    "geom:latitude":49.61319,
+    "geom:longitude":13.88642,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Hodemysl",
+    "gn:country_code":"CZ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075674,
+    "gn:latitude":49.61319,
+    "gn:longitude":13.88642,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Hod\u011bmy\u0161l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075674
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"68c900d045c7a1d12ef6e764906d87a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226785791,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226785791,
+    "wof:lastmodified":1536657893,
+    "wof:name":"Hodemysl",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88642,
+    49.61319,
+    13.88642,
+    49.61319
+],
+  "geometry": {"coordinates":[13.88642,49.61319],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343490733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26977,50.28572,13.26977,50.28572",
+    "geom:latitude":50.28572,
+    "geom:longitude":13.26977,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Radechov",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067246,
+    "gn:latitude":50.28572,
+    "gn:longitude":13.26977,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Radechov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Radigau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067246
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5a39a2c101ad3017d2a60742721adfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343490733,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1343490733,
+    "wof:lastmodified":1537619316,
+    "wof:name":"Radechov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26977,
+    50.28572,
+    13.26977,
+    50.28572
+],
+  "geometry": {"coordinates":[13.26977,50.28572],"type":"Point"}
+}

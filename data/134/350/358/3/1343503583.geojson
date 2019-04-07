@@ -1,0 +1,70 @@
+{
+  "id": 1343503583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20236,50.21388,17.20236,50.21388",
+    "geom:latitude":50.21388,
+    "geom:longitude":17.20236,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Bukovice",
+    "gn:country_code":"CZ",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078407,
+    "gn:latitude":50.21388,
+    "gn:longitude":17.20236,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Bukovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buchelsdorf",
+        "Bukovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078407
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"27958f01dafbf482a6fd8318965cd65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343503583,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1343503583,
+    "wof:lastmodified":1537619450,
+    "wof:name":"Bukovice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20236,
+    50.21388,
+    17.20236,
+    50.21388
+],
+  "geometry": {"coordinates":[17.20236,50.21388],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1125944787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34938,50.30881,15.34938,50.30881",
+    "geom:latitude":50.30881,
+    "geom:longitude":15.34938,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":139,
+    "gn:population":139,
+    "iso:country":"CZ",
+    "lbl:latitude":50.30881,
+    "lbl:longitude":15.34938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:dut_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:eng_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:fre_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:hun_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:ita_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:may_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0644\u0627\u0648\u0647\u0648\u0633\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:por_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:slo_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0445\u043e\u0441\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Slavhostice"
+    ],
+    "name:vie_x_preferred":[
+        "Slavhostice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065852,
+    "qs_pg:gn_pop":139,
+    "qs_pg:name":"Slavhostice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":400526,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798250,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065852,
+        "gp:id":798250,
+        "qs_pg:id":400526,
+        "wd:id":"Q2479323"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297242,
+    "wof:geomhash":"7cb6e1acd02ddebc78ded5e959ff4812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125944787,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125944787,
+    "wof:lastmodified":1513945690,
+    "wof:name":"Slavhostice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":139,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34938,
+    50.30881,
+    15.34938,
+    50.30881
+],
+  "geometry": {"coordinates":[15.34938,50.30881],"type":"Point"}
+}

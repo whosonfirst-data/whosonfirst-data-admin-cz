@@ -1,0 +1,66 @@
+{
+  "id": 1293525509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7397,49.40734,14.7397,49.40734",
+    "geom:latitude":49.40734,
+    "geom:longitude":14.7397,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Zarybnicna Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061843,
+    "gn:latitude":49.40734,
+    "gn:longitude":14.7397,
+    "gn:modification_date":"2014-05-14",
+    "gn:name":"Z\u00e1rybni\u010dn\u00e1 Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061843
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c09c5b58db7d6136d7fb5a121c5f563a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293525509,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293525509,
+    "wof:lastmodified":1536732453,
+    "wof:name":"Zarybnicna Lhota",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7397,
+    49.40734000000001,
+    14.7397,
+    49.40734000000001
+],
+  "geometry": {"coordinates":[14.7397,49.40734000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209137353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65198,49.76743,12.65198,49.76743",
+    "geom:latitude":49.76743,
+    "geom:longitude":12.65198,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Velky Rapotin",
+    "gn:country_code":"CZ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063135,
+    "gn:latitude":49.76743,
+    "gn:longitude":12.65198,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Velk\u00fd Rapot\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gross Gropitzreith",
+        "Velk\u00fd Rapot\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063135
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"809f687952181416e94ca5661b29d576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209137353
+        }
+    ],
+    "wof:id":1209137353,
+    "wof:lastmodified":1537619271,
+    "wof:name":"Velky Rapotin",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65198,
+    49.76743,
+    12.65198,
+    49.76743
+],
+  "geometry": {"coordinates":[12.65198,49.76743],"type":"Point"}
+}

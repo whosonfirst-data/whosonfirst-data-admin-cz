@@ -1,0 +1,138 @@
+{
+  "id": 1125959669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27524,49.6438,15.27524,49.6438",
+    "geom:latitude":49.6438,
+    "geom:longitude":15.27524,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":247,
+    "gn:population":247,
+    "iso:country":"CZ",
+    "lbl:latitude":49.6438,
+    "lbl:longitude":15.27524,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:dut_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:eng_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:fre_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:ger_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:hun_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:ita_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:may_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:nan_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0645\u0646\u0646\u0627 \u0644\u0647\u0648\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:por_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:rup_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:slo_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0430 \u041b\u0445\u043e\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "name:vie_x_preferred":[
+        "Kamenn\u00e1 Lhota"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3073909,
+    "qs_pg:gn_pop":247,
+    "qs_pg:name":"Kamenna Lhota",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":70207,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":29396759,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073909,
+        "gp:id":29396759,
+        "qs_pg:id":70207,
+        "wd:id":"Q923810"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297749,
+    "wof:geomhash":"9ba6e57db5f389aaaf97a425a042cbbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125959669,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125959669,
+    "wof:lastmodified":1513945148,
+    "wof:name":"Kamenna Lhota",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":247,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27524,
+    49.6438,
+    15.27524,
+    49.6438
+],
+  "geometry": {"coordinates":[15.27524,49.6438],"type":"Point"}
+}

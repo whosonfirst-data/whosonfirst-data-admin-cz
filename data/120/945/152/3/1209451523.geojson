@@ -1,0 +1,62 @@
+{
+  "id": 1209451523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41107,49.19693,13.41107,49.19693",
+    "geom:latitude":49.19693,
+    "geom:longitude":13.41107,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Javori",
+    "gn:country_code":"CZ",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074423,
+    "gn:latitude":49.19693,
+    "gn:longitude":13.41107,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Javo\u0159\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074423
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bc9cb0690d27e7cad16175c8fc761ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209451523
+        }
+    ],
+    "wof:id":1209451523,
+    "wof:lastmodified":1536286657,
+    "wof:name":"Javori",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41107,
+    49.19693,
+    13.41107,
+    49.19693
+],
+  "geometry": {"coordinates":[13.41107,49.19693],"type":"Point"}
+}

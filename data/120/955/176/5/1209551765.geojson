@@ -1,0 +1,62 @@
+{
+  "id": 1209551765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15919,50.19336,16.15919,50.19336",
+    "geom:latitude":50.19336,
+    "geom:longitude":16.15919,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Uhrinovice",
+    "gn:country_code":"CZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063704,
+    "gn:latitude":50.19336,
+    "gn:longitude":16.15919,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Uh\u0159\u00ednovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063704
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d2317d1349915939812c91fdbc467a1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209551765
+        }
+    ],
+    "wof:id":1209551765,
+    "wof:lastmodified":1536283671,
+    "wof:name":"Uhrinovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15919,
+    50.19336,
+    16.15919,
+    50.19336
+],
+  "geometry": {"coordinates":[16.15919,50.19336],"type":"Point"}
+}

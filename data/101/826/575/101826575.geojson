@@ -1,0 +1,133 @@
+{
+  "id": 101826575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":986809.459513,
+    "geom:bbox":"16.8780159624,49.5848686514,16.899041644,49.5973417353",
+    "geom:latitude":49.590962,
+    "geom:longitude":16.88776,
+    "gn:population":2931,
+    "iso:country":"CZ",
+    "lbl:latitude":49.591044,
+    "lbl:longitude":16.886725,
+    "mps:latitude":49.591044,
+    "mps:longitude":16.886725,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Konice"
+    ],
+    "name:ces_x_preferred":[
+        "Konice"
+    ],
+    "name:deu_x_preferred":[
+        "Konice"
+    ],
+    "name:hun_x_preferred":[
+        "Konice"
+    ],
+    "name:ita_x_preferred":[
+        "Konice"
+    ],
+    "name:lav_x_preferred":[
+        "Konice"
+    ],
+    "name:msa_x_preferred":[
+        "Konice"
+    ],
+    "name:nld_x_preferred":[
+        "Konice"
+    ],
+    "name:pol_x_preferred":[
+        "Konice"
+    ],
+    "name:por_x_preferred":[
+        "Konice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0438\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Konice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Konice"
+    ],
+    "name:unk_x_variant":[
+        "Konitz"
+    ],
+    "name:vie_x_preferred":[
+        "Konice"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5c3c\u91c7"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Olomouck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Konice",
+    "qs:la_lc":"*CZ0713589624",
+    "qs:level":"locality",
+    "qs:loc":"Konice",
+    "qs:loc_alt":"Konice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068706,
+        "gp:id":24929567,
+        "qs:id":1043043,
+        "qs_pg:id":507889,
+        "wd:id":"Q1781657",
+        "wk:page":"Konice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d82956736edd5a26d17788332e9ad2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826575,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":101826575,
+    "wof:lastmodified":1527642507,
+    "wof:name":"Konice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":2931,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87801596236852,
+    49.58486865142368,
+    16.89904164396859,
+    49.59734173527744
+],
+  "geometry": {"coordinates":[[[16.88516093263269,49.59700524072952],[16.88503343917159,49.59611051409274],[16.8864114490371,49.59602635027068],[16.88628393634991,49.59513162494733],[16.88903989269056,49.59496325051435],[16.88891233564743,49.59406852829341],[16.89166822422146,49.5939000902859],[16.89154062282802,49.59300537116826],[16.89291853541971,49.59292112877262],[16.89253569132512,49.59023697393661],[16.89666917668944,49.58998416213842],[16.89641382610893,49.58819473394402],[16.89779159555945,49.58811043335407],[16.89766390401911,49.58721572033392],[16.89904164396859,49.58713140474936],[16.89878622839296,49.58534198086244],[16.89740853868238,49.58542629286478],[16.89753621839327,49.58632100683724],[16.89202531529145,49.58665809416397],[16.89177016273544,49.58486865142368],[16.88901478540578,49.58503708722253],[16.88926983748195,49.58682653711833],[16.8837588293793,49.58716322160535],[16.88388626378844,49.58805795299196],[16.88250847571032,49.58814208393738],[16.88276331198898,49.58993154885923],[16.88138546928985,49.59001566659276],[16.88164027892526,49.59180513318864],[16.88026238160035,49.59188923770881],[16.88064456493277,49.59457343940244],[16.8792665878446,49.59465753249475],[16.87939396896058,49.59555226723012],[16.87801596236852,49.59563634532037],[16.87814332425171,49.59653108136757],[16.87952135597811,49.59644700149101],[16.87964874889855,49.59734173527744],[16.88516093263269,49.59700524072952]]],"type":"Polygon"}
+}

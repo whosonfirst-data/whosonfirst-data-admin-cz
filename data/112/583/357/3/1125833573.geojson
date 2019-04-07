@@ -1,0 +1,135 @@
+{
+  "id": 1125833573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75142,49.90387,17.75142,49.90387",
+    "geom:latitude":49.90387,
+    "geom:longitude":17.75142,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":761,
+    "gn:population":761,
+    "iso:country":"CZ",
+    "lbl:latitude":49.90387,
+    "lbl:longitude":17.75142,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Litultovice"
+    ],
+    "name:dut_x_preferred":[
+        "Litultovice"
+    ],
+    "name:eng_x_preferred":[
+        "Litultovice"
+    ],
+    "name:epo_x_preferred":[
+        "Litultovice"
+    ],
+    "name:fre_x_preferred":[
+        "Litultovice"
+    ],
+    "name:hun_x_preferred":[
+        "Litultovice"
+    ],
+    "name:ita_x_preferred":[
+        "Litultovice"
+    ],
+    "name:may_x_preferred":[
+        "Litultovice"
+    ],
+    "name:pol_x_preferred":[
+        "Litultovice"
+    ],
+    "name:por_x_preferred":[
+        "Litultovice"
+    ],
+    "name:rup_x_preferred":[
+        "Litultovice"
+    ],
+    "name:slo_x_preferred":[
+        "Litultovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0442\u0443\u043b\u0442\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Litultovice"
+    ],
+    "name:unk_x_variant":[
+        "Leitersdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Litultovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071666,
+    "qs_pg:gn_pop":761,
+    "qs_pg:name":"Litultovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1266882,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793039,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071666,
+        "gp:id":793039,
+        "qs_pg:id":1266882,
+        "wd:id":"Q2427141"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292607,
+    "wof:geomhash":"30f89529bdac83965784952980808689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125833573,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125833573,
+    "wof:lastmodified":1513945308,
+    "wof:name":"Litultovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":761,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75142,
+    49.90387,
+    17.75142,
+    49.90387
+],
+  "geometry": {"coordinates":[17.75142,49.90387],"type":"Point"}
+}

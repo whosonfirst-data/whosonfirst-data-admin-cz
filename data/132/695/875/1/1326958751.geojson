@@ -1,0 +1,66 @@
+{
+  "id": 1326958751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55931,49.57766,16.55931,49.57766",
+    "geom:latitude":49.57766,
+    "geom:longitude":16.55931,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Borova",
+    "gn:country_code":"CZ",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078965,
+    "gn:latitude":49.57766,
+    "gn:longitude":16.55931,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Borov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078965
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a8df306e24b7c6509c31f5e5b80286dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326958751,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1326958751,
+    "wof:lastmodified":1536865434,
+    "wof:name":"Borova",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55931,
+    49.57766,
+    16.55931,
+    49.57766
+],
+  "geometry": {"coordinates":[16.55931,49.57766],"type":"Point"}
+}

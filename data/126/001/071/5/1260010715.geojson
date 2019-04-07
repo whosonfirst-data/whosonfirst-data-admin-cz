@@ -1,0 +1,70 @@
+{
+  "id": 1260010715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5395,49.00052,14.5395,49.00052",
+    "geom:latitude":49.00052,
+    "geom:longitude":14.5395,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Adamov",
+    "gn:country_code":"CZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079842,
+    "gn:latitude":49.00052,
+    "gn:longitude":14.5395,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Adamov",
+    "gn:population":509,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079842,
+        "wk:page":"Adamov_%28%C4%8Cesk%C3%A9_Bud%C4%9Bjovice_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cf6caedbbeb9d8b9669c0891e58079e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260010715,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260010715,
+    "wof:lastmodified":1537504075,
+    "wof:name":"Adamov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":509,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5395,
+    49.00052,
+    14.5395,
+    49.00052
+],
+  "geometry": {"coordinates":[14.5395,49.00052],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310439521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82645,49.54897,14.82645,49.54897",
+    "geom:latitude":49.54897,
+    "geom:longitude":14.82645,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Selmberk",
+    "gn:country_code":"CZ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066238,
+    "gn:latitude":49.54897,
+    "gn:longitude":14.82645,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"\u0160elmberk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066238
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f68503e852e7ec283cd5474411604e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310439521,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1310439521,
+    "wof:lastmodified":1537011502,
+    "wof:name":"Selmberk",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82645,
+    49.54897,
+    14.82645,
+    49.54897
+],
+  "geometry": {"coordinates":[14.82645,49.54897],"type":"Point"}
+}

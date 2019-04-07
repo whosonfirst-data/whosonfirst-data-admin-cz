@@ -1,0 +1,138 @@
+{
+  "id": 1126058507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50926,49.19627,13.50926,49.19627",
+    "geom:latitude":49.19627,
+    "geom:longitude":13.50926,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":804,
+    "gn:population":804,
+    "iso:country":"CZ",
+    "lbl:latitude":49.19627,
+    "lbl:longitude":13.50926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:dut_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:eng_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:fre_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:ger_x_preferred":[
+        "Dlouh\u00e1 Ves u Su\u0161ice"
+    ],
+    "name:hun_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:ita_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:may_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:nan_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0644\u0648\u0648\u0647\u0627 \u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:por_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:rup_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:slo_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043b\u043e\u0443\u0445\u0430 \u0412\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "name:vie_x_preferred":[
+        "Dlouh\u00e1 Ves"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077117,
+    "qs_pg:gn_pop":804,
+    "qs_pg:name":"Langendorf",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1070869,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":23406179,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077117,
+        "gp:id":23406179,
+        "qs_pg:id":1070869,
+        "wd:id":"Q534871"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497303649,
+    "wof:geomhash":"9e852972d1182b1bf5fc37876d943e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126058507,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1126058507,
+    "wof:lastmodified":1553816731,
+    "wof:name":"Langendorf",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":804,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50926,
+    49.19627,
+    13.50926,
+    49.19627
+],
+  "geometry": {"coordinates":[13.50926,49.19627],"type":"Point"}
+}

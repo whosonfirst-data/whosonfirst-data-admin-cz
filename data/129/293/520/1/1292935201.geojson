@@ -1,0 +1,66 @@
+{
+  "id": 1292935201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87995,49.4843,14.87995,49.4843",
+    "geom:latitude":49.4843,
+    "geom:longitude":14.87995,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Horni Svetla",
+    "gn:country_code":"CZ",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075184,
+    "gn:latitude":49.4843,
+    "gn:longitude":14.87995,
+    "gn:modification_date":"2014-05-14",
+    "gn:name":"Horn\u00ed Sv\u011btl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075184
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1095982dfac8170d459b1482625bfa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292935201,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1292935201,
+    "wof:lastmodified":1537083218,
+    "wof:name":"Horni Svetla",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87995,
+    49.4843,
+    14.87995,
+    49.4843
+],
+  "geometry": {"coordinates":[14.87995,49.4843],"type":"Point"}
+}

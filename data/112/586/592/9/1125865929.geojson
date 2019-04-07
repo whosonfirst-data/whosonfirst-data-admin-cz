@@ -1,0 +1,132 @@
+{
+  "id": 1125865929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26428,49.99569,14.26428,49.99569",
+    "geom:latitude":49.99569,
+    "geom:longitude":14.26428,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":278,
+    "gn:population":278,
+    "iso:country":"CZ",
+    "lbl:latitude":49.99569,
+    "lbl:longitude":14.26428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:dut_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:eng_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:fre_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:hun_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:ita_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:may_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u06cc\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:por_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043d\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0438\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "name:vie_x_preferred":[
+        "Ch\u00fdnice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077459,
+    "qs_pg:gn_pop":278,
+    "qs_pg:name":"Ch\u00fdnice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":357730,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787871,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077459,
+        "gp:id":787871,
+        "qs_pg:id":357730,
+        "wd:id":"Q2659636"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294038,
+    "wof:geomhash":"6fa7cc3bbe310f82fd1113d1b1621d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125865929,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125865929,
+    "wof:lastmodified":1513944893,
+    "wof:name":"Ch\u00fdnice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26428,
+    49.99569,
+    14.26428,
+    49.99569
+],
+  "geometry": {"coordinates":[14.26428,49.99569],"type":"Point"}
+}

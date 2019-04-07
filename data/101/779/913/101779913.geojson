@@ -1,0 +1,132 @@
+{
+  "id": 101779913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":956987.347055,
+    "geom:bbox":"16.2792548889,49.2134969902,16.3020544403,49.2252934716",
+    "geom:latitude":49.220602,
+    "geom:longitude":16.290008,
+    "gn:population":1211,
+    "iso:country":"CZ",
+    "lbl:latitude":49.222848,
+    "lbl:longitude":16.287331,
+    "mps:latitude":49.222848,
+    "mps:longitude":16.287331,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:dut_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:eng_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:fre_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:ger_x_preferred":[
+        "Zbraslav na Morav\u011b"
+    ],
+    "name:hun_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:ita_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:may_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:nan_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0628\u0631\u0627\u0633\u0644\u0627\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:por_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:rup_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:slo_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:swe_x_preferred":[
+        "Zbraslav"
+    ],
+    "name:unk_x_variant":[
+        "Zbraslau"
+    ],
+    "name:vie_x_preferred":[
+        "Zbraslav"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Zbraslav",
+    "qs:la_lc":"*CZ0623584215",
+    "qs:level":"locality",
+    "qs:loc":"Zbraslav",
+    "qs:loc_alt":"Zbraslav",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061754,
+        "gp:id":801845,
+        "qs:id":1268941,
+        "qs_pg:id":1268941,
+        "wd:id":"Q168285",
+        "wk:page":"Zbraslav (Brno-Country District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4e8822192e0377708389971b8d95cad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779913,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101779913,
+    "wof:lastmodified":1553815495,
+    "wof:name":"Zbraslav",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1211,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27925488894726,
+    49.21349699019424,
+    16.30205444031554,
+    49.22529347155046
+],
+  "geometry": {"coordinates":[[[16.28940873732375,49.22498640693476],[16.28929359419709,49.22409079890969],[16.29339876908301,49.22386033031279],[16.29351398642694,49.22475593349122],[16.29488239496294,49.22467907568046],[16.29465191609779,49.22288787209391],[16.29875696977501,49.22265720837595],[16.29864166408396,49.22176161073884],[16.30137829747127,49.22160775484366],[16.30068627788597,49.21623417870427],[16.30205444031554,49.21615723546955],[16.30182376008969,49.21436604295116],[16.30045564711247,49.21444298295074],[16.30057095984819,49.21533858105931],[16.29920281822689,49.21541550601569],[16.29931811153779,49.21631110527795],[16.2965817670879,49.21646490844176],[16.29669701624249,49.21736051047452],[16.29532881341356,49.21743738868088],[16.29567451848118,49.22012419684955],[16.29430623754212,49.2202010632426],[16.29442145842881,49.22109666665574],[16.29031651791689,49.22132717070377],[16.29020137123285,49.22043156244365],[16.28609646970341,49.22066191167687],[16.2857512840136,49.21797506959047],[16.28711951423605,49.21789830801822],[16.28677430196944,49.21521146661019],[16.28540614593601,49.21528822334079],[16.28517608033121,49.21349699019424],[16.28243985544685,49.21365044721892],[16.28266982214251,49.21544168681811],[16.28403798599334,49.2153649634102],[16.28438304988106,49.21805181450043],[16.28301481183905,49.21812854274799],[16.28312981898011,49.21902416046612],[16.28176155229704,49.21910087366422],[16.28187653999248,49.21999649253326],[16.28050824466726,49.22007319068098],[16.2806232129152,49.22096881070058],[16.27925488894726,49.22104549379776],[16.27971471585732,49.22462797570552],[16.28381997289529,49.2243978570678],[16.28393501706239,49.22529347155046],[16.28940873732375,49.22498640693476]]],"type":"Polygon"}
+}

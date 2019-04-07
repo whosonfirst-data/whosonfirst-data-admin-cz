@@ -1,0 +1,66 @@
+{
+  "id": 1344190897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29224,49.76966,15.29224,49.76966",
+    "geom:latitude":49.76966,
+    "geom:longitude":15.29224,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Hostkovice",
+    "gn:country_code":"CZ",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075046,
+    "gn:latitude":49.76966,
+    "gn:longitude":15.29224,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Hostkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075046
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"993a4e7ce098fabef507ae7c6eb01948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344190897,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1344190897,
+    "wof:lastmodified":1536687542,
+    "wof:name":"Hostkovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29224,
+    49.76966,
+    15.29224,
+    49.76966
+],
+  "geometry": {"coordinates":[15.29224,49.76966],"type":"Point"}
+}

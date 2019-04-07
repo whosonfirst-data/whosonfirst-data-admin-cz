@@ -1,0 +1,87 @@
+{
+  "id": 101841927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":535319.223894,
+    "geom:bbox":"17.3906906687,49.6090684231,17.4018570969,49.62478171",
+    "geom:latitude":49.617387,
+    "geom:longitude":17.396078,
+    "iso:country":"CZ",
+    "lbl:latitude":49.619439,
+    "lbl:longitude":17.397558,
+    "mps:latitude":49.619439,
+    "mps:longitude":17.397558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Mari\u00e1nsk\u00e9 \u00dadol\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Mari\u00e1nsk\u00e9 \u00dadol\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Mari\u00e1nsk\u00e9 \u00dadol\u00ed"
+    ],
+    "name:pol_x_preferred":[
+        "Mari\u00e1nsk\u00e9 \u00dadol\u00ed"
+    ],
+    "name:slo_x_preferred":[
+        "Mari\u00e1nsk\u00e9 \u00dadol\u00ed"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Olomouck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Hlubo\u010dky",
+    "qs:la_lc":"*CZ0712502146",
+    "qs:level":"locality",
+    "qs:loc":"Mari\u00e1nsk\u00e9 \u00dadol\u00ed",
+    "qs:loc_alt":"Marianske Udoli",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29396729,
+        "qs:id":6,
+        "wd:id":"Q11770274"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6bb59d17cfd472699077016ca4940a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101841927,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":101841927,
+    "wof:lastmodified":1553815538,
+    "wof:name":"Mari\u00e1nsk\u00e9 \u00dadol\u00ed",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39069066872401,
+    49.6090684230677,
+    17.40185709687364,
+    49.62478170995217
+],
+  "geometry": {"coordinates":[[[17.40185709687364,49.62033390855527],[17.40156820065079,49.6184505982078],[17.40019032936436,49.6185410514463],[17.39991613189784,49.61675302161717],[17.39853830607819,49.61684345423555],[17.39840124195297,49.61594943664227],[17.39702343651487,49.61603985056269],[17.39674937747384,49.61425181002039],[17.39537161749945,49.61434220332342],[17.39482367588562,49.61076610849994],[17.39344601152806,49.61085647734762],[17.39317212893627,49.6090684230677],[17.39179451003378,49.60915877130253],[17.3920683424742,49.61094682942098],[17.39069066872401,49.61103716471916],[17.39096447637291,49.612825224657],[17.39234220027981,49.61273488552047],[17.39330090240355,49.6189930659757],[17.39467879719666,49.61890269662513],[17.39557987658071,49.62478170995217],[17.40185709687364,49.62033390855527]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209348595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79612,49.54901,13.79612,49.54901",
+    "geom:latitude":49.54901,
+    "geom:longitude":13.79612,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Rozelov",
+    "gn:country_code":"CZ",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066676,
+    "gn:latitude":49.54901,
+    "gn:longitude":13.79612,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Ro\u017eelov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066676
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b909f7727ee82c6f82079d54f5fc91ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209348595
+        }
+    ],
+    "wof:id":1209348595,
+    "wof:lastmodified":1536289824,
+    "wof:name":"Rozelov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.796120000000002,
+    49.54901,
+    13.796120000000002,
+    49.54901
+],
+  "geometry": {"coordinates":[13.79612,49.54901],"type":"Point"}
+}

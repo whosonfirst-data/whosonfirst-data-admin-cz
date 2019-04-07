@@ -1,0 +1,154 @@
+{
+  "id": 85900711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:area_square_m":1051064.912797,
+    "geom:bbox":"14.46236958,50.0639906433,14.4746084919,50.0782945474",
+    "geom:latitude":50.070798,
+    "geom:longitude":14.468339,
+    "gn:latitude":50.07438,
+    "gn:longitude":14.44367,
+    "iso:country":"CZ",
+    "lbl:latitude":50.074767,
+    "lbl:longitude":14.451198,
+    "mps:latitude":50.070195,
+    "mps:longitude":14.468455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cze_x_colloquial":[
+        "Kralovske Vinohrady"
+    ],
+    "name:cze_x_preferred":[
+        "Kr\u00e1lovsk\u00e9 Vinohrady"
+    ],
+    "name:cze_x_variant":[
+        "Prague-Vinohrady",
+        "Vinohrady"
+    ],
+    "name:dut_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:eng_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:epo_x_preferred":[
+        "Kr\u00e1lovsk\u00e9 Vinohrady"
+    ],
+    "name:fre_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:ger_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:hun_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:ind_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub77c\ud558-\ube44\ub178\ud750\ub77c\ub514"
+    ],
+    "name:pol_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u044b"
+    ],
+    "name:slo_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:spa_x_preferred":[
+        "Vinohrady"
+    ],
+    "name:unk_x_variant":[
+        "Prague-Vinohrady",
+        "Kr\u00e1lovsk\u00e9 Vinohrady"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Kr\u00e1lovsk\u00e9 Vinohrady",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Kr\u00e1lovsk\u00e9 Vinohrady",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":136,
+    "qs:photo_sum":353,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072931,
+        "gp:id":791897,
+        "qs:id":181602,
+        "qs_pg:id":181602,
+        "wd:id":"Q662985"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"923dad718c49d1ecb3dbb99ddfae083b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900711,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900711,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1513945229,
+    "wof:name":"Kr\u00e1lovsk\u00e9 Vinohrady",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4623695799969,
+    50.0639906432619,
+    14.47460849188423,
+    50.07829454740003
+],
+  "geometry": {"coordinates":[[[14.46899414061483,50.07627978869739],[14.46996357809348,50.07476923349994],[14.47448730469034,50.07476923349994],[14.47448730468199,50.07476916870003],[14.47448730468545,50.07275416936476],[14.4745679993278,50.07262844205538],[14.47460849188423,50.07231300690155],[14.47448730469694,50.07174657085407],[14.47448730470012,50.07124366040007],[14.47448730470012,50.06948077670008],[14.47448730470012,50.06872551819608],[14.47448730470012,50.06771782124663],[14.47448730470023,50.06595480863821],[14.47174072268592,50.06595480617351],[14.47085135048962,50.06456927945722],[14.46963957677332,50.06419173670007],[14.46899414062523,50.0639906432619],[14.4687790645998,50.06419167187512],[14.46371605260055,50.06419167187512],[14.46371606647131,50.06419173669998],[14.46350097660007,50.06419173669998],[14.46350097660007,50.06771782820009],[14.46350097454251,50.07124365097259],[14.4623695799969,50.07300639837531],[14.46236966317412,50.07300646317513],[14.46350098087868,50.07476923075414],[14.46350097660007,50.07829454740003],[14.46624755860012,50.07829454740003],[14.4689941406001,50.07829454740003],[14.46899414061579,50.0767839042697],[14.46899414061483,50.07627978869739]]],"type":"Polygon"}
+}

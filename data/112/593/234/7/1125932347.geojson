@@ -1,0 +1,138 @@
+{
+  "id": 1125932347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47875,50.17823,14.47875,50.17823",
+    "geom:latitude":50.17823,
+    "geom:longitude":14.47875,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":483,
+    "gn:population":483,
+    "iso:country":"CZ",
+    "lbl:latitude":50.17823,
+    "lbl:longitude":14.47875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:dut_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:eng_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:fre_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:ger_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:hun_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:ita_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:may_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:nan_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0631\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:por_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:rup_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:slo_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u0436\u0430\u043d\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "name:vie_x_preferred":[
+        "Bo\u0159anovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079033,
+    "qs_pg:gn_pop":483,
+    "qs_pg:name":"Bo\u0159anovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":397368,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786491,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079033,
+        "gp:id":786491,
+        "qs_pg:id":397368,
+        "wd:id":"Q896274"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296849,
+    "wof:geomhash":"e58cb8e7dc078fc5aa504387cea1de96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125932347,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125932347,
+    "wof:lastmodified":1513944812,
+    "wof:name":"Bo\u0159anovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":483,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47875,
+    50.17823,
+    14.47875,
+    50.17823
+],
+  "geometry": {"coordinates":[14.47875,50.17823],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293236953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45866,50.25391,13.45866,50.25391",
+    "geom:latitude":50.25391,
+    "geom:longitude":13.45866,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0424",
+    "gn:asciiname":"Psov",
+    "gn:country_code":"CZ",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067363,
+    "gn:latitude":50.25391,
+    "gn:longitude":13.45866,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"P\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schaab",
+        "P\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067363
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"20676f37195a73b05e0977e99ccf7796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293236953,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1293236953,
+    "wof:lastmodified":1537619317,
+    "wof:name":"Psov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45866,
+    50.25391,
+    13.45866,
+    50.25391
+],
+  "geometry": {"coordinates":[13.45866,50.25391],"type":"Point"}
+}

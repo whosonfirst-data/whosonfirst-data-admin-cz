@@ -1,0 +1,138 @@
+{
+  "id": 1125931993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.059,49.99501,13.059,49.99501",
+    "geom:latitude":49.99501,
+    "geom:longitude":13.059,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":659,
+    "gn:population":659,
+    "iso:country":"CZ",
+    "lbl:latitude":49.99501,
+    "lbl:longitude":13.059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:deu_x_preferred":[
+        "Bernklau"
+    ],
+    "name:dut_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:eng_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:fre_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:ger_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:hun_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:ita_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:may_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:nan_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0632\u0648\u06cc\u0631\u0648\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:rup_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:slo_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0437\u0432\u0458\u0435\u0440\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "name:vie_x_preferred":[
+        "Bezv\u011brov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079387,
+    "qs_pg:gn_pop":659,
+    "qs_pg:name":"Bezv\u011brov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":397294,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786185,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079387,
+        "gp:id":786185,
+        "qs_pg:id":397294,
+        "wd:id":"Q854538"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296836,
+    "wof:geomhash":"9d7c27abb3dadfad0d02e73e9cf5096d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125931993,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125931993,
+    "wof:lastmodified":1513944786,
+    "wof:name":"Bezv\u011brov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":659,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.059,
+    49.99501,
+    13.059,
+    49.99501
+],
+  "geometry": {"coordinates":[13.059,49.99501],"type":"Point"}
+}

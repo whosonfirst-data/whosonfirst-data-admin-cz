@@ -1,0 +1,132 @@
+{
+  "id": 1125967417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29453,50.41249,15.29453,50.41249",
+    "geom:latitude":50.41249,
+    "geom:longitude":15.29453,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":146,
+    "gn:population":146,
+    "iso:country":"CZ",
+    "lbl:latitude":50.41249,
+    "lbl:longitude":15.29453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Bukvice"
+    ],
+    "name:dut_x_preferred":[
+        "Bukvice"
+    ],
+    "name:eng_x_preferred":[
+        "Bukvice"
+    ],
+    "name:fre_x_preferred":[
+        "Bukvice"
+    ],
+    "name:hun_x_preferred":[
+        "Bukvice"
+    ],
+    "name:ita_x_preferred":[
+        "Bukvice"
+    ],
+    "name:may_x_preferred":[
+        "Bukvice"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u06a9\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Bukvice"
+    ],
+    "name:por_x_preferred":[
+        "Bukvice"
+    ],
+    "name:rup_x_preferred":[
+        "Bukvice"
+    ],
+    "name:slo_x_preferred":[
+        "Bukvice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043a\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bukvice"
+    ],
+    "name:vie_x_preferred":[
+        "Bukvice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078381,
+    "qs_pg:gn_pop":146,
+    "qs_pg:name":"Bukvice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":397546,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787067,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078381,
+        "gp:id":787067,
+        "qs_pg:id":397546,
+        "wd:id":"Q2444902"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298027,
+    "wof:geomhash":"f2ec06652e0a2b445a2db26a3b30c463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125967417,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125967417,
+    "wof:lastmodified":1553816662,
+    "wof:name":"Bukvice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29453,
+    50.41249,
+    15.29453,
+    50.41249
+],
+  "geometry": {"coordinates":[15.29453,50.41249],"type":"Point"}
+}

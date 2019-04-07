@@ -1,0 +1,132 @@
+{
+  "id": 1125933991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2275,49.22593,16.2275,49.22593",
+    "geom:latitude":49.22593,
+    "geom:longitude":16.2275,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":210,
+    "gn:population":210,
+    "iso:country":"CZ",
+    "lbl:latitude":49.22593,
+    "lbl:longitude":16.2275,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:dut_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:may_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:nan_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0644\u0648\u0628\u0648\u06a9\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:rup_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:slo_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "name:vie_x_preferred":[
+        "Hlubok\u00e9"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075729,
+    "qs_pg:gn_pop":210,
+    "qs_pg:name":"Hlubok\u00e9",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1266779,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792565,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075729,
+        "gp:id":792565,
+        "qs_pg:id":1266779,
+        "wd:id":"Q209503"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296903,
+    "wof:geomhash":"dcd8be2234023fd4a6b679e83e15cdb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125933991,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125933991,
+    "wof:lastmodified":1513945000,
+    "wof:name":"Hlubok\u00e9",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2275,
+    49.22593,
+    16.2275,
+    49.22593
+],
+  "geometry": {"coordinates":[16.2275,49.22593],"type":"Point"}
+}

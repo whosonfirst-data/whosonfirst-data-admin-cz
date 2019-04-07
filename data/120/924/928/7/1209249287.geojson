@@ -1,0 +1,66 @@
+{
+  "id": 1209249287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1854,49.59926,15.1854,49.59926",
+    "geom:latitude":49.59926,
+    "geom:longitude":15.1854,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Horice",
+    "gn:country_code":"CZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075495,
+    "gn:latitude":49.59926,
+    "gn:longitude":15.1854,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Ho\u0159ice",
+    "gn:population":185,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075495,
+        "wk:page":"Ho%C5%99ice_%28Pelh%C5%99imov_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"006b3bbafcb1195c563c55632153a345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209249287
+        }
+    ],
+    "wof:id":1209249287,
+    "wof:lastmodified":1537504059,
+    "wof:name":"Horice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:population":185,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1854,
+    49.59926,
+    15.1854,
+    49.59926
+],
+  "geometry": {"coordinates":[15.1854,49.59926],"type":"Point"}
+}

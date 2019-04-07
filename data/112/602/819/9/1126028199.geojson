@@ -1,0 +1,140 @@
+{
+  "id": 1126028199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24829,49.64459,13.24829,49.64459",
+    "geom:latitude":49.64459,
+    "geom:longitude":13.24829,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":401,
+    "gn:population":401,
+    "iso:country":"CZ",
+    "lbl:latitude":49.64459,
+    "lbl:longitude":13.24829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:dut_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:eng_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:fre_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:ger_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:ita_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:may_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0633\u062a\u06cc\u0634"
+    ],
+    "name:pol_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:por_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:slo_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0441\u0442\u0438\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:szl_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "name:unk_x_variant":[
+        "Stich"
+    ],
+    "name:vie_x_preferred":[
+        "Vsti\u0161"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062333,
+    "qs_pg:gn_pop":401,
+    "qs_pg:name":"Vsti\u0161",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":319910,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801328,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062333,
+        "gp:id":801328,
+        "qs_pg:id":319910,
+        "wd:id":"Q2001481"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497301276,
+    "wof:geomhash":"4d273f3a86dca1ac968b3cb6cf3676ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126028199,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1126028199,
+    "wof:lastmodified":1513945905,
+    "wof:name":"Vsti\u0161",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":401,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24829,
+    49.64459,
+    13.24829,
+    49.64459
+],
+  "geometry": {"coordinates":[13.24829,49.64459],"type":"Point"}
+}

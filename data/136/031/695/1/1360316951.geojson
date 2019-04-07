@@ -1,0 +1,66 @@
+{
+  "id": 1360316951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81667,49.88333,15.81667,49.88333",
+    "geom:latitude":49.88333,
+    "geom:longitude":15.81667,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Pracov",
+    "gn:country_code":"CZ",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067701,
+    "gn:latitude":49.88333,
+    "gn:longitude":15.81667,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Pr\u00e1\u010dov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067701
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a416759f3a79c2196bb74a9de20f0497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360316951,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1360316951,
+    "wof:lastmodified":1536608373,
+    "wof:name":"Pracov",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81667,
+    49.88333,
+    15.81667,
+    49.88333
+],
+  "geometry": {"coordinates":[15.81667,49.88333],"type":"Point"}
+}

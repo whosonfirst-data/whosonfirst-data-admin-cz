@@ -1,0 +1,70 @@
+{
+  "id": 1292940871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16915,49.36217,14.16915,49.36217",
+    "geom:latitude":49.36217,
+    "geom:longitude":14.16915,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Drzov",
+    "gn:country_code":"CZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076372,
+    "gn:latitude":49.36217,
+    "gn:longitude":14.16915,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Dr\u017eov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dr\u017eov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076372,
+        "wk:page":"Dr%C5%BEov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"514559c923bd2ed140f33420b322ee5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292940871,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1292940871,
+    "wof:lastmodified":1537619427,
+    "wof:name":"Drzov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16915,
+    49.36217,
+    14.16915,
+    49.36217
+],
+  "geometry": {"coordinates":[14.16915,49.36217],"type":"Point"}
+}

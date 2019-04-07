@@ -1,0 +1,155 @@
+{
+  "id": 1125900539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56912,49.76849,18.56912,49.76849",
+    "geom:latitude":49.76849,
+    "geom:longitude":18.56912,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1050,
+    "gn:population":1050,
+    "iso:country":"CZ",
+    "lbl:latitude":49.76849,
+    "lbl:longitude":18.56912,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:cze_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:deu_x_preferred":[
+        "Kozobentz"
+    ],
+    "name:deu_x_variant":[
+        "Kotzobenz"
+    ],
+    "name:dut_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:eng_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:epo_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:fre_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:ger_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:hun_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:ita_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:may_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:nld_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0648\u062a\u06cc\u0628\u0648\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Kocob\u0119dz"
+    ],
+    "name:por_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:rup_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:slk_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:slo_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0442\u0458\u0435\u0431\u0443\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:vie_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077665,
+    "qs_pg:gn_pop":1050,
+    "qs_pg:name":"Chotbuz",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1226515,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787684,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077665,
+        "gp:id":787684,
+        "qs_pg:id":1226515,
+        "wd:id":"Q1115905"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295783,
+    "wof:geomhash":"f0ebbb5fdae8eef67c809acad892d16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125900539,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125900539,
+    "wof:lastmodified":1513944876,
+    "wof:name":"Chotbuz",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1050,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56912,
+    49.76849,
+    18.56912,
+    49.76849
+],
+  "geometry": {"coordinates":[18.56912,49.76849],"type":"Point"}
+}

@@ -1,0 +1,150 @@
+{
+  "id": 101824113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:area_square_m":1096286.005873,
+    "geom:bbox":"12.387152104,50.246094764,12.4132810094,50.2644768593",
+    "geom:latitude":50.255077,
+    "geom:longitude":12.401831,
+    "gn:population":2525,
+    "iso:country":"CZ",
+    "lbl:latitude":50.253071,
+    "lbl:longitude":12.407473,
+    "mps:latitude":50.253071,
+    "mps:longitude":12.407473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u76e7\u6bd4"
+    ],
+    "name:cze_x_preferred":[
+        "Luby"
+    ],
+    "name:dut_x_preferred":[
+        "Luby"
+    ],
+    "name:eng_x_preferred":[
+        "Luby"
+    ],
+    "name:fre_x_preferred":[
+        "Luby"
+    ],
+    "name:ger_x_preferred":[
+        "Luby"
+    ],
+    "name:hun_x_preferred":[
+        "Luby"
+    ],
+    "name:ita_x_preferred":[
+        "Luby"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30d3\u30fc"
+    ],
+    "name:may_x_preferred":[
+        "Luby"
+    ],
+    "name:nan_x_preferred":[
+        "Luby"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648\u0628\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Luby"
+    ],
+    "name:por_x_preferred":[
+        "Luby"
+    ],
+    "name:rup_x_preferred":[
+        "Luby"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0431\u0438"
+    ],
+    "name:slo_x_preferred":[
+        "Luby"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0431\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Luby"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0443\u0431\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Sch\u00f6nbach"
+    ],
+    "name:vie_x_preferred":[
+        "Luby"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u6bd4"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Karlovarsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Luby",
+    "qs:la_lc":"*CZ0411554634",
+    "qs:level":"locality",
+    "qs:loc":"Luby",
+    "qs:loc_alt":"Luby",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071448,
+        "gp:id":793231,
+        "qs:id":1043030,
+        "qs_pg:id":1043030,
+        "wd:id":"Q946789",
+        "wk:page":"Luby (Cheb District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"281cb9ef9fae1b6157ffe50748c7ca1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824113,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":101824113,
+    "wof:lastmodified":1553815525,
+    "wof:name":"Luby",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":2525,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.38715210397839,
+    50.24609476397779,
+    12.41328100943048,
+    50.26447685930316
+],
+  "geometry": {"coordinates":[[[12.39013632901117,50.26444756718388],[12.38995541454835,50.26085345363254],[12.39416036849929,50.26076548186705],[12.39425098031404,50.26256253532739],[12.39705438090408,50.2625037990486],[12.39696366318577,50.26070674814412],[12.39836530814216,50.26067735551885],[12.39831992602331,50.25977883032118],[12.39972154291337,50.25974942116017],[12.39967613646553,50.25885089634528],[12.40247931252054,50.25879202777799],[12.40238840017764,50.25699497993929],[12.40378993287271,50.256965521175],[12.40374445345356,50.2560669975108],[12.41075196063304,50.25591944928846],[12.4106607435773,50.25412240760767],[12.4120621872845,50.25409284772832],[12.41187967317205,50.25049876384981],[12.41328100943048,50.25046918937073],[12.41323535983082,50.24957066840039],[12.41043273863079,50.24962979890108],[12.41038714410178,50.2487312763871],[12.4089858575602,50.24876081523848],[12.40889472787364,50.24696376815257],[12.40749349264536,50.24699328854933],[12.40744795748356,50.24609476397779],[12.40464553514494,50.2461537519788],[12.40469101739791,50.24705227783306],[12.40328977738073,50.24708174672008],[12.4033352353257,50.2479802729577],[12.40473650179888,50.24795080343006],[12.40491846088383,50.25154490324093],[12.40351708857514,50.2515743753325],[12.40356255725555,50.25247290028278],[12.40075975492982,50.25253179423134],[12.4008051728311,50.25343032020533],[12.39800231120455,50.25348914674419],[12.39809304758012,50.25528620047947],[12.39529007372465,50.25534496088386],[12.39547136043649,50.25893907038403],[12.38846336859098,50.25908568361382],[12.38855376005631,50.26088274320296],[12.38715210397839,50.26091201559689],[12.38728762775833,50.26360760496749],[12.38868936326747,50.26357833066254],[12.38873456860881,50.26447685930316],[12.39013632901117,50.26444756718388]]],"type":"Polygon"}
+}

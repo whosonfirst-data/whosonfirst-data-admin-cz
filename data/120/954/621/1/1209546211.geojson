@@ -1,0 +1,66 @@
+{
+  "id": 1209546211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63355,49.84882,14.63355,49.84882",
+    "geom:latitude":49.84882,
+    "geom:longitude":14.63355,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Vetrov",
+    "gn:country_code":"CZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062977,
+    "gn:latitude":49.84882,
+    "gn:longitude":14.63355,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"V\u011btrov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wietrow",
+        "V\u011btrov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062977
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d9f4fca172309d02a02173f14dadb9af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209546211
+        }
+    ],
+    "wof:id":1209546211,
+    "wof:lastmodified":1537619269,
+    "wof:name":"Vetrov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63355,
+    49.84882,
+    14.63355,
+    49.84882
+],
+  "geometry": {"coordinates":[14.63355,49.84882],"type":"Point"}
+}

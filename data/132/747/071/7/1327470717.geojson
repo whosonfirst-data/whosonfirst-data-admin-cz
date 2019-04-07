@@ -1,0 +1,66 @@
+{
+  "id": 1327470717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1233,49.1312,14.1233,49.1312",
+    "geom:latitude":49.1312,
+    "geom:longitude":14.1233,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Vodnanske Svobodne Hory",
+    "gn:country_code":"CZ",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062643,
+    "gn:latitude":49.1312,
+    "gn:longitude":14.1233,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Vod\u0148ansk\u00e9 Svobodn\u00e9 Hory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062643
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6bcf7c7be3783ac2e597460780bf03b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327470717,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327470717,
+    "wof:lastmodified":1536623344,
+    "wof:name":"Vodnanske Svobodne Hory",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1233,
+    49.1312,
+    14.1233,
+    49.1312
+],
+  "geometry": {"coordinates":[14.1233,49.1312],"type":"Point"}
+}

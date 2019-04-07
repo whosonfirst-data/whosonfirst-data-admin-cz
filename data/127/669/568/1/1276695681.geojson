@@ -1,0 +1,66 @@
+{
+  "id": 1276695681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6397,49.7857,13.6397,49.7857",
+    "geom:latitude":49.7857,
+    "geom:longitude":13.6397,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0326",
+    "gn:asciiname":"Habr",
+    "gn:country_code":"CZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076074,
+    "gn:latitude":49.7857,
+    "gn:longitude":13.6397,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Habr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076074
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5895af6c388b73326303e8b2f26044df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276695681,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1276695681,
+    "wof:lastmodified":1536790510,
+    "wof:name":"Habr",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6397,
+    49.7857,
+    13.6397,
+    49.7857
+],
+  "geometry": {"coordinates":[13.6397,49.7857],"type":"Point"}
+}

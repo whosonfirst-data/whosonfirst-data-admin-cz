@@ -1,0 +1,66 @@
+{
+  "id": 1225880993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70618,50.28341,15.70618,50.28341",
+    "geom:latitude":50.28341,
+    "geom:longitude":15.70618,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Horni Dohalice",
+    "gn:country_code":"CZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075401,
+    "gn:latitude":50.28341,
+    "gn:longitude":15.70618,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Horn\u00ed Dohalice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075401
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8f83f2aab922ae7d6b8f7ef986be6f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225880993,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1225880993,
+    "wof:lastmodified":1536962601,
+    "wof:name":"Horni Dohalice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70618,
+    50.28341,
+    15.70618,
+    50.28341
+],
+  "geometry": {"coordinates":[15.70618,50.28341],"type":"Point"}
+}

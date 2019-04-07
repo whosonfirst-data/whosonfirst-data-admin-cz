@@ -1,0 +1,70 @@
+{
+  "id": 1293726199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26323,48.6643,14.26323,48.6643",
+    "geom:latitude":48.6643,
+    "geom:longitude":14.26323,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Hradovy",
+    "gn:country_code":"CZ",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074896,
+    "gn:latitude":48.6643,
+    "gn:longitude":14.26323,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Hradov\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kastlern",
+        "Hradov\u00fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074896
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fd93f0bd5a165302b75e92378511457f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293726199,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293726199,
+    "wof:lastmodified":1537619406,
+    "wof:name":"Hradovy",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26323,
+    48.6643,
+    14.26323,
+    48.6643
+],
+  "geometry": {"coordinates":[14.26323,48.6643],"type":"Point"}
+}

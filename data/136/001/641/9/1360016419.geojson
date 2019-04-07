@@ -1,0 +1,70 @@
+{
+  "id": 1360016419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86552,50.37586,12.86552,50.37586",
+    "geom:latitude":50.37586,
+    "geom:longitude":12.86552,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Vrsek",
+    "gn:country_code":"CZ",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062401,
+    "gn:latitude":50.37586,
+    "gn:longitude":12.86552,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Vr\u0161ek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Werlsberg",
+        "Vr\u0161ek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062401
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7dc2a8591ae9119ae9a9c362ae0d7f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360016419,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1360016419,
+    "wof:lastmodified":1537619264,
+    "wof:name":"Vrsek",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86552,
+    50.37586,
+    12.86552,
+    50.37586
+],
+  "geometry": {"coordinates":[12.86552,50.37586],"type":"Point"}
+}

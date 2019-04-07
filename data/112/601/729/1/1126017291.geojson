@@ -1,0 +1,143 @@
+{
+  "id": 1126017291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95533,49.62357,12.95533,49.62357",
+    "geom:latitude":49.62357,
+    "geom:longitude":12.95533,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":262,
+    "gn:population":262,
+    "iso:country":"CZ",
+    "lbl:latitude":49.62357,
+    "lbl:longitude":12.95533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:dut_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:eng_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:fre_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:ger_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:hun_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:ita_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:may_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:nan_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u06a9\u06cc \u0645\u0644\u0647\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:por_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:rup_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:slo_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u043a\u0438 \u041c\u0430\u043b\u0430\u0445\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "name:unk_x_variant":[
+        "Gross Malowa"
+    ],
+    "name:vie_x_preferred":[
+        "Velk\u00fd Malahov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063144,
+    "qs_pg:gn_pop":262,
+    "qs_pg:name":"Velk\u00fd Malahov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":939299,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800599,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063144,
+        "gp:id":800599,
+        "qs_pg:id":939299,
+        "wd:id":"Q771004"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497300627,
+    "wof:geomhash":"c01ea756e0b77d6ab04fe7e8081dbd90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126017291,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1126017291,
+    "wof:lastmodified":1513945859,
+    "wof:name":"Velk\u00fd Malahov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95533,
+    49.62357,
+    12.95533,
+    49.62357
+],
+  "geometry": {"coordinates":[12.95533,49.62357],"type":"Point"}
+}

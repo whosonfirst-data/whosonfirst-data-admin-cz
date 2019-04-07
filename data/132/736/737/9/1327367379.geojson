@@ -1,0 +1,66 @@
+{
+  "id": 1327367379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.00142,49.44257,14.00142,49.44257",
+    "geom:latitude":49.44257,
+    "geom:longitude":14.00142,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Luckovice",
+    "gn:country_code":"CZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071437,
+    "gn:latitude":49.44257,
+    "gn:longitude":14.00142,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Lu\u010dkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071437
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f2b83f50a09b5c7ba184755d8b7d2314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327367379,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327367379,
+    "wof:lastmodified":1536775420,
+    "wof:name":"Luckovice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.00142,
+    49.44257,
+    14.00142,
+    49.44257
+],
+  "geometry": {"coordinates":[14.00142,49.44257],"type":"Point"}
+}

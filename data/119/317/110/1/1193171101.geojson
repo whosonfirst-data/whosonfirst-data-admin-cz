@@ -1,0 +1,66 @@
+{
+  "id": 1193171101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8795,49.43156,15.8795,49.43156",
+    "geom:latitude":49.43156,
+    "geom:longitude":15.8795,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Milikov",
+    "gn:country_code":"CZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070667,
+    "gn:latitude":49.43156,
+    "gn:longitude":15.8795,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Mil\u00edkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070667
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"51e646ddf13d4b69fac8c4e4ce4da388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193171101,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1193171101,
+    "wof:lastmodified":1536380396,
+    "wof:name":"Milikov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8795,
+    49.43156,
+    15.8795,
+    49.43156
+],
+  "geometry": {"coordinates":[15.8795,49.43156],"type":"Point"}
+}

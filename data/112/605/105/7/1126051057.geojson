@@ -1,0 +1,132 @@
+{
+  "id": 1126051057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12659,49.86297,14.12659,49.86297",
+    "geom:latitude":49.86297,
+    "geom:longitude":14.12659,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":162,
+    "gn:population":162,
+    "iso:country":"CZ",
+    "lbl:latitude":49.86297,
+    "lbl:longitude":14.12659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u0440\u0434\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:dut_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:eng_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:fre_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:hun_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:ita_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:may_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u062f\u0628\u0631\u062f\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:por_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:slo_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u0440\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Podbrdy"
+    ],
+    "name:vie_x_preferred":[
+        "Podbrdy"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3068114,
+    "qs_pg:gn_pop":162,
+    "qs_pg:name":"Podbrdy",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":358044,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796211,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068114,
+        "gp:id":796211,
+        "qs_pg:id":358044,
+        "wd:id":"Q2584098"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302747,
+    "wof:geomhash":"4cee3f8728a81025cfc0bc2c9376d911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126051057,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1126051057,
+    "wof:lastmodified":1513945550,
+    "wof:name":"Podbrdy",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12659,
+    49.86297,
+    14.12659,
+    49.86297
+],
+  "geometry": {"coordinates":[14.12659,49.86297],"type":"Point"}
+}

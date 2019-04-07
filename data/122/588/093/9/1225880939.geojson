@@ -1,0 +1,70 @@
+{
+  "id": 1225880939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58279,50.00685,13.58279,50.00685",
+    "geom:latitude":50.00685,
+    "geom:longitude":13.58279,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Brezany",
+    "gn:country_code":"CZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078743,
+    "gn:latitude":50.00685,
+    "gn:longitude":13.58279,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"B\u0159e\u017eany",
+    "gn:population":123,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078743,
+        "wk:page":"B%C5%99e%C5%BEany_%28Rakovn%C3%ADk_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"efebfad5fbe1721e06803ec41a321697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225880939,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1225880939,
+    "wof:lastmodified":1537504070,
+    "wof:name":"Brezany",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58279,
+    50.00685,
+    13.58279,
+    50.00685
+],
+  "geometry": {"coordinates":[13.58279,50.00685],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209952949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64686,49.60857,13.64686,49.60857",
+    "geom:latitude":49.60857,
+    "geom:longitude":13.64686,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0324",
+    "gn:asciiname":"Horehledy",
+    "gn:country_code":"CZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075518,
+    "gn:latitude":49.60857,
+    "gn:longitude":13.64686,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Ho\u0159ehledy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075518
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"700e7a0c540969f90732e3477b129159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209952949,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1209952949,
+    "wof:lastmodified":1536381574,
+    "wof:name":"Horehledy",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64686,
+    49.60857,
+    13.64686,
+    49.60857
+],
+  "geometry": {"coordinates":[13.64686,49.60857],"type":"Point"}
+}

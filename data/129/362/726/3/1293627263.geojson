@@ -1,0 +1,70 @@
+{
+  "id": 1293627263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05255,50.39889,17.05255,50.39889",
+    "geom:latitude":50.39889,
+    "geom:longitude":17.05255,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Pavlinka",
+    "gn:country_code":"CZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068520,
+    "gn:latitude":50.39889,
+    "gn:longitude":17.05255,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Pavlinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paulinaburg",
+        "Pavlinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068520
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7d926427a7d16cff79b38d330a7855fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293627263,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1293627263,
+    "wof:lastmodified":1537619329,
+    "wof:name":"Pavlinka",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05255,
+    50.39889,
+    17.05255,
+    50.39889
+],
+  "geometry": {"coordinates":[17.05255,50.39889],"type":"Point"}
+}

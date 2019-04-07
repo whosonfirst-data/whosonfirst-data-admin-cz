@@ -1,0 +1,66 @@
+{
+  "id": 1276696549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91543,50.09457,15.91543,50.09457",
+    "geom:latitude":50.09457,
+    "geom:longitude":15.91543,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"0532",
+    "gn:asciiname":"Stary Drahos",
+    "gn:country_code":"CZ",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065275,
+    "gn:latitude":50.09457,
+    "gn:longitude":15.91543,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Star\u00fd Draho\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065275
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"070b9ea904f47a85de11f2ab2a7cfd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276696549,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1276696549,
+    "wof:lastmodified":1536789345,
+    "wof:name":"Stary Drahos",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91543,
+    50.09457,
+    15.91543,
+    50.09457
+],
+  "geometry": {"coordinates":[15.91543,50.09457],"type":"Point"}
+}

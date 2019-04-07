@@ -1,0 +1,132 @@
+{
+  "id": 1125865995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1016,50.3942,15.1016,50.3942",
+    "geom:latitude":50.3942,
+    "geom:longitude":15.1016,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":233,
+    "gn:population":233,
+    "iso:country":"CZ",
+    "lbl:latitude":50.3942,
+    "lbl:longitude":15.1016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Domousnice"
+    ],
+    "name:dut_x_preferred":[
+        "Domousnice"
+    ],
+    "name:eng_x_preferred":[
+        "Domousnice"
+    ],
+    "name:fre_x_preferred":[
+        "Domousnice"
+    ],
+    "name:hun_x_preferred":[
+        "Domousnice"
+    ],
+    "name:ita_x_preferred":[
+        "Domousnice"
+    ],
+    "name:may_x_preferred":[
+        "Domousnice"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u0645\u0648\u0648\u0633\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Domousnice"
+    ],
+    "name:por_x_preferred":[
+        "Domousnice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043c\u043e\u0443\u0441\u043d\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Domousnice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043c\u043e\u0443\u0441\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Domousnice"
+    ],
+    "name:vie_x_preferred":[
+        "Domousnice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076573,
+    "qs_pg:gn_pop":233,
+    "qs_pg:name":"Domousnice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":357769,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788695,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076573,
+        "gp:id":788695,
+        "qs_pg:id":357769,
+        "wd:id":"Q2108443"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294042,
+    "wof:geomhash":"27d317843debac4c203d5a5784696009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125865995,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125865995,
+    "wof:lastmodified":1513944937,
+    "wof:name":"Domousnice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1016,
+    50.3942,
+    15.1016,
+    50.3942
+],
+  "geometry": {"coordinates":[15.1016,50.3942],"type":"Point"}
+}

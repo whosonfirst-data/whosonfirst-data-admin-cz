@@ -1,0 +1,138 @@
+{
+  "id": 1125913937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72714,49.52597,15.72714,49.52597",
+    "geom:latitude":49.52597,
+    "geom:longitude":15.72714,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":245,
+    "gn:population":245,
+    "iso:country":"CZ",
+    "lbl:latitude":49.52597,
+    "lbl:longitude":15.72714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0437\u043a\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Brzkov"
+    ],
+    "name:dut_x_preferred":[
+        "Brzkov"
+    ],
+    "name:eng_x_preferred":[
+        "Brzkov"
+    ],
+    "name:fre_x_preferred":[
+        "Brzkov"
+    ],
+    "name:hun_x_preferred":[
+        "Brzkov"
+    ],
+    "name:ita_x_preferred":[
+        "Brzkov"
+    ],
+    "name:may_x_preferred":[
+        "Brzkov"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0631\u0632\u06a9\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Brzkov"
+    ],
+    "name:por_x_preferred":[
+        "Brzkov"
+    ],
+    "name:rup_x_preferred":[
+        "Brzkov"
+    ],
+    "name:slo_x_preferred":[
+        "Brzkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0441\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Brzkov"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0632\u06a9\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Brzkov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078528,
+    "qs_pg:gn_pop":245,
+    "qs_pg:name":"Brzkov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265389,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786939,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078528,
+        "gp:id":786939,
+        "qs_pg:id":1265389,
+        "wd:id":"Q2520186"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296252,
+    "wof:geomhash":"540a95498579a1bd3757759f8514eec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125913937,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125913937,
+    "wof:lastmodified":1513944829,
+    "wof:name":"Brzkov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72714,
+    49.52597,
+    15.72714,
+    49.52597
+],
+  "geometry": {"coordinates":[15.72714,49.52597],"type":"Point"}
+}

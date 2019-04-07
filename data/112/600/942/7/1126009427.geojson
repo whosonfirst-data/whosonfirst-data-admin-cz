@@ -1,0 +1,143 @@
+{
+  "id": 1126009427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.78639,50.06799,12.78639,50.06799",
+    "geom:latitude":50.06799,
+    "geom:longitude":12.78639,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":707,
+    "gn:population":707,
+    "iso:country":"CZ",
+    "lbl:latitude":50.06799,
+    "lbl:longitude":12.78639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Kyselka"
+    ],
+    "name:dut_x_preferred":[
+        "Kyselka"
+    ],
+    "name:eng_x_preferred":[
+        "Kyselka"
+    ],
+    "name:epo_x_preferred":[
+        "Kyselka"
+    ],
+    "name:fre_x_preferred":[
+        "Kyselka"
+    ],
+    "name:ger_x_preferred":[
+        "Kyselka"
+    ],
+    "name:hun_x_preferred":[
+        "Kyselka"
+    ],
+    "name:ita_x_preferred":[
+        "Kyselka"
+    ],
+    "name:may_x_preferred":[
+        "Kyselka"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u06cc\u0633\u0644\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kyselka"
+    ],
+    "name:por_x_preferred":[
+        "Kyselka"
+    ],
+    "name:rup_x_preferred":[
+        "Kyselka"
+    ],
+    "name:slo_x_preferred":[
+        "Kyselka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0441\u0435\u043b\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kyselka"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e4uerlingh\u00e4usel"
+    ],
+    "name:vie_x_preferred":[
+        "Kyselka"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072391,
+    "qs_pg:gn_pop":707,
+    "qs_pg:name":"Kyselka",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Karlovarsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1012887,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":24929710,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Karlovarsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072391,
+        "gp:id":24929710,
+        "qs_pg:id":1012887,
+        "wd:id":"Q1019975"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497300176,
+    "wof:geomhash":"2c30508bf06b32c4504fbfdcdbad0cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126009427,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1126009427,
+    "wof:lastmodified":1513945254,
+    "wof:name":"Kyselka",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":707,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.78639,
+    50.06799,
+    12.78639,
+    50.06799
+],
+  "geometry": {"coordinates":[12.78639,50.06799],"type":"Point"}
+}

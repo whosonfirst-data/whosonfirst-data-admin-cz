@@ -1,0 +1,135 @@
+{
+  "id": 1125965807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87624,49.90769,16.87624,49.90769",
+    "geom:latitude":49.90769,
+    "geom:longitude":16.87624,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":719,
+    "gn:population":719,
+    "iso:country":"CZ",
+    "lbl:latitude":49.90769,
+    "lbl:longitude":16.87624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Rovensko"
+    ],
+    "name:dut_x_preferred":[
+        "Rovensko"
+    ],
+    "name:eng_x_preferred":[
+        "Rovensko"
+    ],
+    "name:fre_x_preferred":[
+        "Rovensko"
+    ],
+    "name:ger_x_preferred":[
+        "Rovensko u Z\u00e1b\u0159eha"
+    ],
+    "name:hun_x_preferred":[
+        "Rovensko"
+    ],
+    "name:ita_x_preferred":[
+        "Rovensko"
+    ],
+    "name:may_x_preferred":[
+        "Rovensko"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0648\u0648\u0646\u0633\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Rovensko"
+    ],
+    "name:por_x_preferred":[
+        "Rovensko"
+    ],
+    "name:rup_x_preferred":[
+        "Rovensko"
+    ],
+    "name:slo_x_preferred":[
+        "Rovensko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0432\u0435\u043d\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Rovensko"
+    ],
+    "name:vie_x_preferred":[
+        "Rovensko"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066704,
+    "qs_pg:gn_pop":719,
+    "qs_pg:name":"Rove\u0148sko",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":508106,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":24930345,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066704,
+        "gp:id":24930345,
+        "qs_pg:id":508106,
+        "wd:id":"Q2003021"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297973,
+    "wof:geomhash":"090ed1134193e7b6f517b0fbcbed24f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125965807,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125965807,
+    "wof:lastmodified":1553816661,
+    "wof:name":"Rove\u0148sko",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":719,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87624,
+    49.90769,
+    16.87624,
+    49.90769
+],
+  "geometry": {"coordinates":[16.87624,49.90769],"type":"Point"}
+}

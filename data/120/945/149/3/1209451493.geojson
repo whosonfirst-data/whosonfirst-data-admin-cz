@@ -1,0 +1,66 @@
+{
+  "id": 1209451493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.33699,50.12703,12.33699,50.12703",
+    "geom:latitude":50.12703,
+    "geom:longitude":12.33699,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Dolni Lomany",
+    "gn:country_code":"CZ",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076784,
+    "gn:latitude":50.12703,
+    "gn:longitude":12.33699,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Doln\u00ed Lomany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unter Lohma",
+        "Doln\u00ed Lomany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076784
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f9a2ed2ccd708828ecadc1ae00f1a528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209451493
+        }
+    ],
+    "wof:id":1209451493,
+    "wof:lastmodified":1537619433,
+    "wof:name":"Dolni Lomany",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.33699,
+    50.12703,
+    12.33699,
+    50.12703
+],
+  "geometry": {"coordinates":[12.33699,50.12703],"type":"Point"}
+}

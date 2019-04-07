@@ -1,0 +1,72 @@
+{
+  "id": 1209745741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69811,50.51161,13.69811,50.51161",
+    "geom:latitude":50.51161,
+    "geom:longitude":13.69811,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0425",
+    "gn:asciiname":"Ceske Zlatniky",
+    "gn:country_code":"CZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077901,
+    "gn:latitude":50.51161,
+    "gn:longitude":13.69811,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"\u010cesk\u00e9 Zlatn\u00edky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schladnik an der Biela",
+        "B\u00f6hmisch Zlatnik",
+        "Schladnig",
+        "\u010cesk\u00e9 Zlatn\u00edky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077901
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c5ebde7b755b459026188ec1b8f735a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209745741,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1209745741,
+    "wof:lastmodified":1537619446,
+    "wof:name":"Ceske Zlatniky",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69811,
+    50.51161,
+    13.69811,
+    50.51161
+],
+  "geometry": {"coordinates":[13.69811,50.51161],"type":"Point"}
+}

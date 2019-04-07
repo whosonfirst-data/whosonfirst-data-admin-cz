@@ -1,0 +1,71 @@
+{
+  "id": 1259910823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56434,50.04347,12.56434,50.04347",
+    "geom:latitude":50.04347,
+    "geom:longitude":12.56434,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Podlesi",
+    "gn:country_code":"CZ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068051,
+    "gn:latitude":50.04347,
+    "gn:longitude":12.56434,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Podles\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Markartov",
+        "Markusgr\u00fcn",
+        "Podles\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068051
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9f5a25194cdb62cea40ec2409d9923e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259910823,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1259910823,
+    "wof:lastmodified":1537619324,
+    "wof:name":"Podlesi",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56434,
+    50.04347,
+    12.56434,
+    50.04347
+],
+  "geometry": {"coordinates":[12.56434,50.04347],"type":"Point"}
+}

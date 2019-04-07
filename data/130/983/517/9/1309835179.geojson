@@ -1,0 +1,70 @@
+{
+  "id": 1309835179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58208,49.92123,14.58208,49.92123",
+    "geom:latitude":49.92123,
+    "geom:longitude":14.58208,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0209",
+    "gn:asciiname":"Zelivec",
+    "gn:country_code":"CZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061554,
+    "gn:latitude":49.92123,
+    "gn:longitude":14.58208,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"\u017delivec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scheliwetz",
+        "\u017delivec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061554
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"96c8db91c93127cb46f1bd0594887c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309835179,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1309835179,
+    "wof:lastmodified":1537619254,
+    "wof:name":"Zelivec",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58208,
+    49.92123,
+    14.58208,
+    49.92123
+],
+  "geometry": {"coordinates":[14.58208,49.92123],"type":"Point"}
+}

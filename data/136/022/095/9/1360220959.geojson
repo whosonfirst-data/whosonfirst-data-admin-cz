@@ -1,0 +1,70 @@
+{
+  "id": 1360220959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87338,50.52193,15.87338,50.52193",
+    "geom:latitude":50.52193,
+    "geom:longitude":15.87338,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Horni Stare Buky",
+    "gn:country_code":"CZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075196,
+    "gn:latitude":50.52193,
+    "gn:longitude":15.87338,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Horn\u00ed Star\u00e9 Buky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober-Altenbuch",
+        "Horn\u00ed Star\u00e9 Buky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075196
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"aedb76606c5a521027b3a6ba61add6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360220959,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1360220959,
+    "wof:lastmodified":1537619410,
+    "wof:name":"Horni Stare Buky",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87338,
+    50.52193,
+    15.87338,
+    50.52193
+],
+  "geometry": {"coordinates":[15.87338,50.52193],"type":"Point"}
+}

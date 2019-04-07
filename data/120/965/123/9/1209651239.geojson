@@ -1,0 +1,62 @@
+{
+  "id": 1209651239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79897,49.72671,14.79897,49.72671",
+    "geom:latitude":49.72671,
+    "geom:longitude":14.79897,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Lhota Veselka",
+    "gn:country_code":"CZ",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072049,
+    "gn:latitude":49.72671,
+    "gn:longitude":14.79897,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Lhota Veselka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072049
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ced1bd22bbb7e371092373c02facc6a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209651239
+        }
+    ],
+    "wof:id":1209651239,
+    "wof:lastmodified":1536280573,
+    "wof:name":"Lhota Veselka",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79897,
+    49.72671,
+    14.79897,
+    49.72671
+],
+  "geometry": {"coordinates":[14.79897,49.72671],"type":"Point"}
+}

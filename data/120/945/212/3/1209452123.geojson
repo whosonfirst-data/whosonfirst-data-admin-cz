@@ -1,0 +1,67 @@
+{
+  "id": 1209452123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1881,49.86298,17.1881,49.86298",
+    "geom:latitude":49.86298,
+    "geom:longitude":17.1881,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Ruda",
+    "gn:country_code":"CZ",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066615,
+    "gn:latitude":49.86298,
+    "gn:longitude":17.1881,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Ruda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u011bmeck\u00e1 Ruda",
+        "Deutsch-Eisenberg",
+        "Ruda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066615
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0dfb10fa8d85f715f6b43a7eaafc5364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209452123
+        }
+    ],
+    "wof:id":1209452123,
+    "wof:lastmodified":1537619311,
+    "wof:name":"Ruda",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1881,
+    49.86298,
+    17.1881,
+    49.86298
+],
+  "geometry": {"coordinates":[17.1881,49.86298],"type":"Point"}
+}

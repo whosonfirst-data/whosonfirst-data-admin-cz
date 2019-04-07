@@ -1,0 +1,59 @@
+{
+  "id": 1108938365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5663435711,50.1355246806,14.5663435711,50.1355246806",
+    "geom:latitude":50.135525,
+    "geom:longitude":14.566344,
+    "iso:country":"CZ",
+    "lbl:latitude":50.135525,
+    "lbl:longitude":14.566344,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CZ",
+    "wof:created":1491360332,
+    "wof:geomhash":"8f3e70f92223079eba91954ed6aa29c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "neighbourhood_id":1108938365,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":1108938365,
+    "wof:lastmodified":1492123467,
+    "wof:name":"Praha 19",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56634357114797,
+    50.13552468063614,
+    14.56634357114797,
+    50.13552468063614
+],
+  "geometry": {"coordinates":[14.56634357114797,50.13552468063614],"type":"Point"}
+}

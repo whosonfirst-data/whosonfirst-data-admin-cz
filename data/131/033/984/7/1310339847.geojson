@@ -1,0 +1,66 @@
+{
+  "id": 1310339847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.84617,49.98512,17.84617,49.98512",
+    "geom:latitude":49.98512,
+    "geom:longitude":17.84617,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Drzkovice",
+    "gn:country_code":"CZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076374,
+    "gn:latitude":49.98512,
+    "gn:longitude":17.84617,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Dr\u017ekovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076374
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6400c6ef7a141d13a837589f0e8e79c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310339847,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1310339847,
+    "wof:lastmodified":1536658498,
+    "wof:name":"Drzkovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.84617,
+    49.98512,
+    17.84617,
+    49.98512
+],
+  "geometry": {"coordinates":[17.84617,49.98512],"type":"Point"}
+}

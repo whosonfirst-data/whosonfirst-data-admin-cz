@@ -1,0 +1,66 @@
+{
+  "id": 1327370375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.14302,49.78496,13.14302,49.78496",
+    "geom:latitude":49.78496,
+    "geom:longitude":13.14302,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Rajov",
+    "gn:country_code":"CZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067072,
+    "gn:latitude":49.78496,
+    "gn:longitude":13.14302,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"R\u00e1jov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067072
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ec6baa783617d224839e97ad2bfccf14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327370375,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1327370375,
+    "wof:lastmodified":1536770813,
+    "wof:name":"Rajov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.14302,
+    49.78496,
+    13.14302,
+    49.78496
+],
+  "geometry": {"coordinates":[13.14302,49.78496],"type":"Point"}
+}

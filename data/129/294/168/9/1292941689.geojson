@@ -1,0 +1,73 @@
+{
+  "id": 1292941689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75755,49.73552,13.75755,49.73552",
+    "geom:latitude":49.73552,
+    "geom:longitude":13.75755,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0326",
+    "gn:asciiname":"Strasice",
+    "gn:country_code":"CZ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065033,
+    "gn:latitude":49.73552,
+    "gn:longitude":13.75755,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Stra\u0161ice",
+    "gn:population":2442,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Straschitz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065033,
+        "wk:page":"Stra%C5%A1ice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3b08c92587769cee981d6a1905a2488c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292941689,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1292941689,
+    "wof:lastmodified":1537619291,
+    "wof:name":"Strasice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":2442,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75755,
+    49.73552,
+    13.75755,
+    49.73552
+],
+  "geometry": {"coordinates":[13.75755,49.73552],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276159767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.13308,50.38795,13.13308,50.38795",
+    "geom:latitude":50.38795,
+    "geom:longitude":13.13308,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Klasterecka Jesen",
+    "gn:country_code":"CZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073669,
+    "gn:latitude":50.38795,
+    "gn:longitude":13.13308,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Kl\u00e1\u0161tereck\u00e1 Jese\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073669
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"58d0239c0fc0bc4d86cdeb871b3eb802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276159767,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276159767,
+    "wof:lastmodified":1537010644,
+    "wof:name":"Klasterecka Jesen",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.13308,
+    50.38795,
+    13.13308,
+    50.38795
+],
+  "geometry": {"coordinates":[13.13308,50.38795],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 85905663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4944628.775617,
+    "geom:bbox":"13.761707,51.037489,13.761707,51.037489",
+    "geom:latitude":51.037489,
+    "geom:longitude":13.761707,
+    "gn:latitude":50.76687,
+    "gn:longitude":14.18082,
+    "iso:country":"CZ",
+    "lbl:latitude":51.037489,
+    "lbl:longitude":13.761707,
+    "mps:latitude":51.037868,
+    "mps:longitude":13.758547,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:deu_x_colloquial":[
+        "Grosser Garten"
+    ],
+    "name:deu_x_preferred":[
+        "Gro\u00dfer Garten"
+    ],
+    "name:deu_x_variant":[
+        "Gro\u00dfergarten"
+    ],
+    "name:unk_x_variant":[
+        "Pfaffendorf",
+        "Gro\u00dfer Garten"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Popovice",
+    "qs:local_max":13108,
+    "qs:local_sum":52556,
+    "qs:localhoods":61,
+    "qs:name":"Gro\u00dfer Garten",
+    "qs:name_adm0":"Deutschland",
+    "qs:name_adm1":"Sachsen",
+    "qs:name_adm2":"Kreisfreie Stadt Dresden",
+    "qs:name_lau":"Seevorstadt-Ost/Gro\u00dfer Garten",
+    "qs:name_local":"Dresden",
+    "qs:photo_max":286,
+    "qs:photo_sum":2981,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":73,
+    "qs:woe_adm0":23424829,
+    "qs:woe_adm1":2345493,
+    "qs:woe_adm2":12596943,
+    "qs:woe_lau":26822154,
+    "qs:woe_local":645686,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        101752773,
+        102064219,
+        85682523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067802,
+        "gp:id":20161702,
+        "qs:id":900052
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"18dbddf319b89ac995855cecbfde4bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064219,
+            "locality_id":101752773,
+            "neighbourhood_id":85905663,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":85905663,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531936362,
+    "wof:name":"Gro\u00dfer Garten",
+    "wof:parent_id":101752773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.761707,
+    51.037489,
+    13.761707,
+    51.037489
+],
+  "geometry": {"coordinates":[13.761707,51.037489],"type":"Point"}
+}

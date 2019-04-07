@@ -1,0 +1,70 @@
+{
+  "id": 1343503581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05,49.4,17.05,49.4",
+    "geom:latitude":49.4,
+    "geom:longitude":17.05,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Horni Otaslavice",
+    "gn:country_code":"CZ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075269,
+    "gn:latitude":49.4,
+    "gn:longitude":17.05,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Horn\u00ed Otaslavice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober Ottaslawitz",
+        "Horn\u00ed Otaslavice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075269
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1201f1f439ba4053f87018d8ae6d033b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343503581,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1343503581,
+    "wof:lastmodified":1537619411,
+    "wof:name":"Horni Otaslavice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05,
+    49.4,
+    17.05,
+    49.4
+],
+  "geometry": {"coordinates":[17.05,49.4],"type":"Point"}
+}

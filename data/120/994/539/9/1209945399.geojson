@@ -1,0 +1,66 @@
+{
+  "id": 1209945399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2703,49.68074,14.2703,49.68074",
+    "geom:latitude":49.68074,
+    "geom:longitude":14.2703,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Vestec",
+    "gn:country_code":"CZ",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063005,
+    "gn:latitude":49.68074,
+    "gn:longitude":14.2703,
+    "gn:modification_date":"2017-02-13",
+    "gn:name":"Vestec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063005
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"696d311c8e81b27aac9cc9e84d69d205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209945399,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1209945399,
+    "wof:lastmodified":1536386625,
+    "wof:name":"Vestec",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2703,
+    49.68074,
+    14.2703,
+    49.68074
+],
+  "geometry": {"coordinates":[14.2703,49.68074],"type":"Point"}
+}

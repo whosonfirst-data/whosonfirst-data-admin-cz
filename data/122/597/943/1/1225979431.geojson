@@ -1,0 +1,70 @@
+{
+  "id": 1225979431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65,50.11667,12.65,50.11667",
+    "geom:latitude":50.11667,
+    "geom:longitude":12.65,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Bystrina",
+    "gn:country_code":"CZ",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078282,
+    "gn:latitude":50.11667,
+    "gn:longitude":12.65,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Byst\u0159ina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reichenbach",
+        "Byst\u0159ina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078282
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b0b1cb3e5b69bf5d46ae17e395c0371b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225979431,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1225979431,
+    "wof:lastmodified":1537619449,
+    "wof:name":"Bystrina",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65,
+    50.11667,
+    12.65,
+    50.11667
+],
+  "geometry": {"coordinates":[12.65,50.11667],"type":"Point"}
+}

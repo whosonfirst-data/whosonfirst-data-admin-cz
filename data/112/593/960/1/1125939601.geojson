@@ -1,0 +1,137 @@
+{
+  "id": 1125939601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97829,50.41434,15.97829,50.41434",
+    "geom:latitude":50.41434,
+    "geom:longitude":15.97829,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":647,
+    "gn:population":647,
+    "iso:country":"CZ",
+    "lbl:latitude":50.41434,
+    "lbl:longitude":15.97829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:dut_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:eng_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:fre_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:ger_x_preferred":[
+        "Chvalkovice v \u010cech\u00e1ch"
+    ],
+    "name:hun_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:may_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0648\u0627\u0644\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:por_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:rup_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:slo_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0432\u0430\u043b\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:vie_x_preferred":[
+        "Chvalkovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077488,
+    "qs_pg:gn_pop":647,
+    "qs_pg:name":"Chvalkovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1139999,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787843,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077488,
+        "gp:id":787843,
+        "qs_pg:id":1139999,
+        "wd:id":"Q1090110"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297073,
+    "wof:geomhash":"c43cf992f126e86a80c990c5624ccc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125939601,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125939601,
+    "wof:lastmodified":1553816645,
+    "wof:name":"Chvalkovice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":647,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97829,
+    50.41434,
+    15.97829,
+    50.41434
+],
+  "geometry": {"coordinates":[15.97829,50.41434],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259718479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01667,50.46667,13.01667,50.46667",
+    "geom:latitude":50.46667,
+    "geom:longitude":13.01667,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Neugeschreiske Domky",
+    "gn:country_code":"CZ",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069793,
+    "gn:latitude":50.46667,
+    "gn:longitude":13.01667,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Neugeschreisk\u00e9 Domky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        85682523,
+        102064211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069793
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"72aae3c51d2b37d6f72ecaa05d6604e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064211,
+            "locality_id":1259718479,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":1259718479,
+    "wof:lastmodified":1537015940,
+    "wof:name":"Neugeschreiske Domky",
+    "wof:parent_id":102064211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01667,
+    50.46667,
+    13.01667,
+    50.46667
+],
+  "geometry": {"coordinates":[13.01667,50.46667],"type":"Point"}
+}

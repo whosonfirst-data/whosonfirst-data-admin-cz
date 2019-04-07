@@ -1,0 +1,62 @@
+{
+  "id": 1209249109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0534,50.28375,15.0534,50.28375",
+    "geom:latitude":50.28375,
+    "geom:longitude":15.0534,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Studecky",
+    "gn:country_code":"CZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064827,
+    "gn:latitude":50.28375,
+    "gn:longitude":15.0534,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Stude\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064827
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1882812e34206897d0114814ee0bca53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209249109
+        }
+    ],
+    "wof:id":1209249109,
+    "wof:lastmodified":1536293063,
+    "wof:name":"Studecky",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0534,
+    50.28375,
+    15.0534,
+    50.28375
+],
+  "geometry": {"coordinates":[15.0534,50.28375],"type":"Point"}
+}

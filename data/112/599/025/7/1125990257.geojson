@@ -1,0 +1,126 @@
+{
+  "id": 1125990257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19309,49.45002,17.19309,49.45002",
+    "geom:latitude":49.45002,
+    "geom:longitude":17.19309,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":770,
+    "gn:population":770,
+    "iso:country":"CZ",
+    "lbl:latitude":49.45002,
+    "lbl:longitude":17.19309,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:dut_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:eng_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:fre_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:hun_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:ita_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:may_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:pol_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:por_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:slo_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0443\u043f\u0447\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "name:vie_x_preferred":[
+        "Hrub\u010dice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3074788,
+    "qs_pg:gn_pop":770,
+    "qs_pg:name":"Hrub\u010dice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1157748,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790291,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074788,
+        "gp:id":790291,
+        "qs_pg:id":1157748,
+        "wd:id":"Q2637833"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299024,
+    "wof:geomhash":"8c4a82aaee0c75d592c2f19d361e39ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125990257,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125990257,
+    "wof:lastmodified":1513945071,
+    "wof:name":"Hrub\u010dice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":770,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19309,
+    49.45002,
+    17.19309,
+    49.45002
+],
+  "geometry": {"coordinates":[17.19309,49.45002],"type":"Point"}
+}

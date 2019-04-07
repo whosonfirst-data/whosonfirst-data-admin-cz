@@ -1,0 +1,62 @@
+{
+  "id": 1209646615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07499,49.09447,14.07499,49.09447",
+    "geom:latitude":49.09447,
+    "geom:longitude":14.07499,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Blanicka",
+    "gn:country_code":"CZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079279,
+    "gn:latitude":49.09447,
+    "gn:longitude":14.07499,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Blani\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079279
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5b994b00415d814e94c51e128f9eb1ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209646615
+        }
+    ],
+    "wof:id":1209646615,
+    "wof:lastmodified":1536280715,
+    "wof:name":"Blanicka",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07499,
+    49.09447,
+    14.07499,
+    49.09447
+],
+  "geometry": {"coordinates":[14.07499,49.09447],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276910133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31319,51.03531,14.31319,51.03531",
+    "geom:latitude":51.03531,
+    "geom:longitude":14.31319,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Severni",
+    "gn:country_code":"CZ",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066163,
+    "gn:latitude":51.03531,
+    "gn:longitude":14.31319,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Severn\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hilgersdorf",
+        "Severn\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066163,
+        "wk:page":"Severn%C3%AD"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c76462ac4fcef55138e996382d185c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276910133,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276910133,
+    "wof:lastmodified":1537619305,
+    "wof:name":"Severni",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31319,
+    51.03531,
+    14.31319,
+    51.03531
+],
+  "geometry": {"coordinates":[14.31319,51.03531],"type":"Point"}
+}

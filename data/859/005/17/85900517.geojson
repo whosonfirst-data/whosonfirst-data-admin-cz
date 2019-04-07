@@ -1,0 +1,94 @@
+{
+  "id": 85900517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":23871633.218406,
+    "geom:bbox":"18.439878,49.760408,18.439878,49.760408",
+    "geom:latitude":49.760408,
+    "geom:longitude":18.439878,
+    "gn:latitude":49.77506,
+    "gn:longitude":18.43403,
+    "iso:country":"CZ",
+    "lbl:latitude":49.760408,
+    "lbl:longitude":18.439878,
+    "mps:latitude":49.769325,
+    "mps:longitude":18.442915,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ces_x_preferred":[
+        "Bludovice"
+    ],
+    "name:cze_x_preferred":[
+        "Bludovice"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00ed Bludovice"
+    ],
+    "name:fre_x_preferred":[
+        "Bludovice"
+    ],
+    "name:pol_x_preferred":[
+        "B\u0142\u0119dowice"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079192,
+        "gp:id":786346,
+        "qs:id":182497,
+        "qs_pg:id":182497,
+        "wd:id":"Q3500225"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1aaa848aec9a90d650a54b87ad3ba49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900517,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":85900517,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932342,
+    "wof:name":"Bludovice",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.439878,
+    49.760408,
+    18.439878,
+    49.760408
+],
+  "geometry": {"coordinates":[18.439878,49.760408],"type":"Point"}
+}

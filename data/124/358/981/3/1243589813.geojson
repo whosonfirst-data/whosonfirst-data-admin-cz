@@ -1,0 +1,70 @@
+{
+  "id": 1243589813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61244,50.19127,12.61244,50.19127",
+    "geom:latitude":50.19127,
+    "geom:longitude":12.61244,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Davidov",
+    "gn:country_code":"CZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077259,
+    "gn:latitude":50.19127,
+    "gn:longitude":12.61244,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Davidov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Davidsthal",
+        "Davidov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077259
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"059f66ccf7651bc9329086d2cf542b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243589813,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1243589813,
+    "wof:lastmodified":1537619440,
+    "wof:name":"Davidov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61244,
+    50.19127,
+    12.61244,
+    50.19127
+],
+  "geometry": {"coordinates":[12.61244,50.19127],"type":"Point"}
+}

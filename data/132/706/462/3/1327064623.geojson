@@ -1,0 +1,70 @@
+{
+  "id": 1327064623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91826,48.95189,13.91826,48.95189",
+    "geom:latitude":48.95189,
+    "geom:longitude":13.91826,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Cudrovice",
+    "gn:country_code":"CZ",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077324,
+    "gn:latitude":48.95189,
+    "gn:longitude":13.91826,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Cudrovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zuderschlag",
+        "Cudrovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077324
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ccad210b946144e2e4d770f973399441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327064623,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327064623,
+    "wof:lastmodified":1537619441,
+    "wof:name":"Cudrovice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91826,
+    48.95189,
+    13.91826,
+    48.95189
+],
+  "geometry": {"coordinates":[13.91826,48.95189],"type":"Point"}
+}

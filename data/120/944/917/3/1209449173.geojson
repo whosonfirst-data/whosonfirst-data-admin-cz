@@ -1,0 +1,66 @@
+{
+  "id": 1209449173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86504,49.56595,12.86504,49.56595",
+    "geom:latitude":49.56595,
+    "geom:longitude":12.86504,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Hasov",
+    "gn:country_code":"CZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075931,
+    "gn:latitude":49.56595,
+    "gn:longitude":12.86504,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ha\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haschowa",
+        "Ha\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075931
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a40fc13149b2bfe32393e7b987afa8d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209449173
+        }
+    ],
+    "wof:id":1209449173,
+    "wof:lastmodified":1537619420,
+    "wof:name":"Hasov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86504,
+    49.56595,
+    12.86504,
+    49.56595
+],
+  "geometry": {"coordinates":[12.86504,49.56595],"type":"Point"}
+}

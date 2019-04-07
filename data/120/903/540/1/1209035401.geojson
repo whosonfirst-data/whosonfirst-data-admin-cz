@@ -1,0 +1,62 @@
+{
+  "id": 1209035401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14687,49.72037,14.14687,49.72037",
+    "geom:latitude":49.72037,
+    "geom:longitude":14.14687,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Ostrov",
+    "gn:country_code":"CZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068775,
+    "gn:latitude":49.72037,
+    "gn:longitude":14.14687,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Ostrov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068775
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"26e6a4a38ec14ada93be0ed3a9f07326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209035401
+        }
+    ],
+    "wof:id":1209035401,
+    "wof:lastmodified":1536299717,
+    "wof:name":"Ostrov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.146870000000002,
+    49.72037,
+    14.146870000000002,
+    49.72037
+],
+  "geometry": {"coordinates":[14.14687,49.72037],"type":"Point"}
+}

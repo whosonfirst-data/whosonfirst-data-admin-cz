@@ -1,0 +1,70 @@
+{
+  "id": 1327064097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.92207,49.79684,12.92207,49.79684",
+    "geom:latitude":49.79684,
+    "geom:longitude":12.92207,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Pytlov",
+    "gn:country_code":"CZ",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067293,
+    "gn:latitude":49.79684,
+    "gn:longitude":12.92207,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Pytlov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pitlau",
+        "Pytlov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067293
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ac3fac029b3c7371951b58b17bb1a8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327064097,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1327064097,
+    "wof:lastmodified":1537619317,
+    "wof:name":"Pytlov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.92207,
+    49.79684,
+    12.92207,
+    49.79684
+],
+  "geometry": {"coordinates":[12.92207,49.79684],"type":"Point"}
+}

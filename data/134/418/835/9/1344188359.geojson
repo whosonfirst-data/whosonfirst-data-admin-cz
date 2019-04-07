@@ -1,0 +1,66 @@
+{
+  "id": 1344188359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1256,49.29976,18.1256,49.29976",
+    "geom:latitude":49.29976,
+    "geom:longitude":18.1256,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Kychova",
+    "gn:country_code":"CZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072414,
+    "gn:latitude":49.29976,
+    "gn:longitude":18.1256,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Kychov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072414
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8d7aec65de01428e427f330089e62973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344188359,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1344188359,
+    "wof:lastmodified":1536691270,
+    "wof:name":"Kychova",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1256,
+    49.29976,
+    18.1256,
+    49.29976
+],
+  "geometry": {"coordinates":[18.1256,49.29976],"type":"Point"}
+}

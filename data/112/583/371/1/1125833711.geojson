@@ -1,0 +1,144 @@
+{
+  "id": 1125833711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33975,50.68307,14.33975,50.68307",
+    "geom:latitude":50.68307,
+    "geom:longitude":14.33975,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":124,
+    "gn:population":124,
+    "iso:country":"CZ",
+    "lbl:latitude":50.68307,
+    "lbl:longitude":14.33975,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Merboltice"
+    ],
+    "name:dut_x_preferred":[
+        "Merboltice"
+    ],
+    "name:eng_x_preferred":[
+        "Merboltice"
+    ],
+    "name:fre_x_preferred":[
+        "Merboltice"
+    ],
+    "name:ger_x_preferred":[
+        "Merboltice"
+    ],
+    "name:hsb_x_preferred":[
+        "Merboltice"
+    ],
+    "name:hun_x_preferred":[
+        "Merboltice"
+    ],
+    "name:ita_x_preferred":[
+        "Merboltice"
+    ],
+    "name:may_x_preferred":[
+        "Merboltice"
+    ],
+    "name:nan_x_preferred":[
+        "Merboltice"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0631\u0628\u0648\u0644\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Merboltice"
+    ],
+    "name:por_x_preferred":[
+        "Merboltice"
+    ],
+    "name:rup_x_preferred":[
+        "Merboltice"
+    ],
+    "name:slo_x_preferred":[
+        "Merboltice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0440\u0431\u043e\u043b\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Merboltice"
+    ],
+    "name:unk_x_variant":[
+        "Mertendorf"
+    ],
+    "name:vie_x_preferred":[
+        "Merboltice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070851,
+    "qs_pg:gn_pop":124,
+    "qs_pg:name":"Merboltice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1267061,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793750,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070851,
+        "gp:id":793750,
+        "qs_pg:id":1267061,
+        "wd:id":"Q577361"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292613,
+    "wof:geomhash":"fdc839d543542b26eef8fd2c6330c248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125833711,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125833711,
+    "wof:lastmodified":1513945354,
+    "wof:name":"Merboltice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33975,
+    50.68307,
+    14.33975,
+    50.68307
+],
+  "geometry": {"coordinates":[14.33975,50.68307],"type":"Point"}
+}

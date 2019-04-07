@@ -1,0 +1,138 @@
+{
+  "id": 1125901941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94324,49.89287,17.94324,49.89287",
+    "geom:latitude":49.89287,
+    "geom:longitude":17.94324,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":953,
+    "gn:population":953,
+    "iso:country":"CZ",
+    "lbl:latitude":49.89287,
+    "lbl:longitude":17.94324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:dut_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:eng_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:epo_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:fre_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:ger_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:hun_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:ita_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:may_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:nan_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:pol_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:por_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:rup_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:slo_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0443\u045a"
+    ],
+    "name:swe_x_preferred":[
+        "Radu\u0148"
+    ],
+    "name:vie_x_preferred":[
+        "Radu\u0148"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067107,
+    "qs_pg:gn_pop":953,
+    "qs_pg:name":"Radu\u0148",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1029180,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797138,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067107,
+        "gp:id":797138,
+        "qs_pg:id":1029180,
+        "wd:id":"Q935873"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295845,
+    "wof:geomhash":"b5b2430f17b695b4dd5ab3297cfa5576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125901941,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125901941,
+    "wof:lastmodified":1513945625,
+    "wof:name":"Radu\u0148",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":953,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94324,
+    49.89287,
+    17.94324,
+    49.89287
+],
+  "geometry": {"coordinates":[17.94324,49.89287],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209035479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08711,50.02166,13.08711,50.02166",
+    "geom:latitude":50.02166,
+    "geom:longitude":13.08711,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Buc",
+    "gn:country_code":"CZ",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078520,
+    "gn:latitude":50.02166,
+    "gn:longitude":13.08711,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Bu\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pusch",
+        "Bu\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078520
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"662dd1dbef28c0431c83e8fc9e6ee7f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209035479
+        }
+    ],
+    "wof:id":1209035479,
+    "wof:lastmodified":1537619452,
+    "wof:name":"Buc",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08711,
+    50.02166,
+    13.08711,
+    50.02166
+],
+  "geometry": {"coordinates":[13.08711,50.02166],"type":"Point"}
+}

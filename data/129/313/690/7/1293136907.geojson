@@ -1,0 +1,70 @@
+{
+  "id": 1293136907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83333,50.06667,13.83333,50.06667",
+    "geom:latitude":50.06667,
+    "geom:longitude":13.83333,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Emilov",
+    "gn:country_code":"CZ",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076213,
+    "gn:latitude":50.06667,
+    "gn:longitude":13.83333,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Emilov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dv\u016dr Emilov",
+        "Emilov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076213
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"07d15cbea92d228dd02299e6b14d9f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293136907,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293136907,
+    "wof:lastmodified":1537619425,
+    "wof:name":"Emilov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83333,
+    50.06667,
+    13.83333,
+    50.06667
+],
+  "geometry": {"coordinates":[13.83333,50.06667],"type":"Point"}
+}

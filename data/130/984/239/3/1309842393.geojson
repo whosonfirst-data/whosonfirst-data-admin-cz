@@ -1,0 +1,66 @@
+{
+  "id": 1309842393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05368,49.38966,15.05368,49.38966",
+    "geom:latitude":49.38966,
+    "geom:longitude":15.05368,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Lidmanka",
+    "gn:country_code":"CZ",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071854,
+    "gn:latitude":49.38966,
+    "gn:longitude":15.05368,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Lidma\u0148ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071854
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2d684a1930b5bd1c9707b1b463a88831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309842393,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1309842393,
+    "wof:lastmodified":1536877420,
+    "wof:name":"Lidmanka",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05368,
+    49.38966,
+    15.05368,
+    49.38966
+],
+  "geometry": {"coordinates":[15.05368,49.38966],"type":"Point"}
+}

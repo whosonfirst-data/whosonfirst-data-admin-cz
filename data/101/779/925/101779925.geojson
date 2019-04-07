@@ -1,0 +1,114 @@
+{
+  "id": 101779925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1076626.244774,
+    "geom:bbox":"16.8223873864,49.1357407881,16.8385301112,49.1490818832",
+    "geom:latitude":49.14336,
+    "geom:longitude":16.829603,
+    "gn:population":1738,
+    "iso:country":"CZ",
+    "lbl:latitude":49.144202,
+    "lbl:longitude":16.829603,
+    "mps:latitude":49.144202,
+    "mps:longitude":16.829603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "K\u0159enovice"
+    ],
+    "name:ces_x_preferred":[
+        "K\u0159enovice"
+    ],
+    "name:deu_x_preferred":[
+        "K\u0159enovice u Slavkova"
+    ],
+    "name:fra_x_preferred":[
+        "K\u0159enovice"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0159enovice"
+    ],
+    "name:ita_x_preferred":[
+        "K\u0159enovice"
+    ],
+    "name:msa_x_preferred":[
+        "K\u0159enovice"
+    ],
+    "name:nld_x_preferred":[
+        "K\u0159enovice"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0159enovice"
+    ],
+    "name:por_x_preferred":[
+        "K\u0159enovice"
+    ],
+    "name:unk_x_variant":[
+        "Krenowitz"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"K\u0159enovice",
+    "qs:la_lc":"*CZ0626593214",
+    "qs:level":"locality",
+    "qs:loc":"K\u0159enovice",
+    "qs:loc_alt":"Krenovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072771,
+        "gp:id":792038,
+        "qs:id":1043040,
+        "qs_pg:id":1043040,
+        "wd:id":"Q1789694",
+        "wk:page":"K\u0159enovice (Vy\u0161kov District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bef5fb6418f01570d0921041dc2b3a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779925,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101779925,
+    "wof:lastmodified":1507750682,
+    "wof:name":"K\u0159enovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1738,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8223873863563,
+    49.1357407881419,
+    16.83853011122829,
+    49.14908188321715
+],
+  "geometry": {"coordinates":[[[16.83853011122829,49.14858134391841],[16.83828035114158,49.14679144684146],[16.83691483806649,49.14687490809735],[16.8364154848947,49.14329510098082],[16.83505006585074,49.14337853862372],[16.83480047274685,49.14158862858523],[16.83343509859873,49.14167204611641],[16.83331033519414,49.14077708860299],[16.83194498137851,49.14086048777256],[16.83157079917686,49.13817560700573],[16.83293607931523,49.13809221308111],[16.83281133879882,49.13719725357976],[16.83144608321788,49.13728064575611],[16.83132137297878,49.13638568400961],[16.82722565455163,49.13663575562725],[16.82710102369805,49.1357407881419],[16.82573580033062,49.13582411037828],[16.82586040662835,49.13671907961015],[16.82449515448269,49.13680238698169],[16.82499353859464,49.14038226592874],[16.82362818399054,49.14046556367305],[16.82375276974449,49.14136053391496],[16.8223873863563,49.14144381679193],[16.82301027802998,49.14591866928777],[16.82437578424634,49.14583537767948],[16.82474966154541,49.1485202779844],[16.83021193899657,49.14818692443129],[16.83033667448427,49.14908188321715],[16.83853011122829,49.14858134391841]]],"type":"Polygon"}
+}

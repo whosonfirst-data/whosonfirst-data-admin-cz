@@ -1,0 +1,66 @@
+{
+  "id": 1276695453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30825,49.09209,14.30825,49.09209",
+    "geom:latitude":49.09209,
+    "geom:longitude":14.30825,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Zbudov",
+    "gn:country_code":"CZ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061747,
+    "gn:latitude":49.09209,
+    "gn:longitude":14.30825,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Zbudov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061747
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"53983885aefd49fe2dac823bb8330ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276695453,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276695453,
+    "wof:lastmodified":1536790812,
+    "wof:name":"Zbudov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30825,
+    49.09209,
+    14.30825,
+    49.09209
+],
+  "geometry": {"coordinates":[14.30825,49.09209],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243490799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08297,50.16185,15.08297,50.16185",
+    "geom:latitude":50.16185,
+    "geom:longitude":15.08297,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Chvalovice",
+    "gn:country_code":"CZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077479,
+    "gn:latitude":50.16185,
+    "gn:longitude":15.08297,
+    "gn:modification_date":"2017-02-13",
+    "gn:name":"Chvalovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077479
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4bd438c8973713deb745242446b6a1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243490799,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1243490799,
+    "wof:lastmodified":1536741303,
+    "wof:name":"Chvalovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08297,
+    50.16185,
+    15.08297,
+    50.16185
+],
+  "geometry": {"coordinates":[15.08297,50.16185],"type":"Point"}
+}

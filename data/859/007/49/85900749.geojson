@@ -1,0 +1,129 @@
+{
+  "id": 85900749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7394013.488107,
+    "geom:bbox":"16.56942,49.167126,16.56942,49.167126",
+    "geom:latitude":49.167126,
+    "geom:longitude":16.56942,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":49.167126,
+    "lbl:longitude":16.56942,
+    "mps:latitude":49.163309,
+    "mps:longitude":16.566121,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:cze_x_colloquial":[
+        "Brno-Stary Liskovec",
+        "Liskovec"
+    ],
+    "name:cze_x_preferred":[
+        "Brno-Star\u00fd L\u00edskovec"
+    ],
+    "name:cze_x_variant":[
+        "L\u00edskovec",
+        "Star\u00fd L\u00edskovec"
+    ],
+    "name:eng_x_preferred":[
+        "Brno-Star\u00fd L\u00edskovec"
+    ],
+    "name:epo_x_preferred":[
+        "Brno-Star\u00fd L\u00edskovec"
+    ],
+    "name:fre_x_preferred":[
+        "Star\u00fd L\u00edskovec"
+    ],
+    "name:pol_x_preferred":[
+        "Star\u00fd L\u00edskovec"
+    ],
+    "name:slo_x_preferred":[
+        "Brno-Star\u00fd L\u00edskovec"
+    ],
+    "name:unk_x_variant":[
+        "Brno-Star\u00fd L\u00edskovec"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3078610,
+    "qs:local_max":6134,
+    "qs:local_sum":32721,
+    "qs:localhoods":44,
+    "qs:name":"Brno-Star\u00fd L\u00edskovec",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs:name_adm2":"Brno-M\u011bsto",
+    "qs:name_lau":"Brno",
+    "qs:name_local":"Brno",
+    "qs:photo_max":15,
+    "qs:photo_sum":89,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070503,
+    "qs:woe_adm2":12582547,
+    "qs:woe_lau":12605174,
+    "qs:woe_local":786869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748109,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071732,
+        "gp:id":792976,
+        "qs:id":1152981,
+        "qs_pg:id":399163,
+        "wd:id":"Q3565077"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c14f060e246a8efca56f80d97727f264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748109,
+            "neighbourhood_id":85900749,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85900749,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932376,
+    "wof:name":"Brno-Star\u00fd L\u00edskovec",
+    "wof:parent_id":101748109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56942,
+    49.167126,
+    16.56942,
+    49.167126
+],
+  "geometry": {"coordinates":[16.56942,49.167126],"type":"Point"}
+}

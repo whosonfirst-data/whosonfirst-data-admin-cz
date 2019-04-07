@@ -1,0 +1,66 @@
+{
+  "id": 1260010335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92853,50.49048,13.92853,50.49048",
+    "geom:latitude":50.49048,
+    "geom:longitude":13.92853,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Dekovka",
+    "gn:country_code":"CZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077211,
+    "gn:latitude":50.49048,
+    "gn:longitude":13.92853,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"D\u011bkovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077211
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9538a4f6cbc2268c6e91c06ada3ce196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260010335,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1260010335,
+    "wof:lastmodified":1537090179,
+    "wof:name":"Dekovka",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92853,
+    50.49048,
+    13.92853,
+    50.49048
+],
+  "geometry": {"coordinates":[13.92853,50.49048],"type":"Point"}
+}

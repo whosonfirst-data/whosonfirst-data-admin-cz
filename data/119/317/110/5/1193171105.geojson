@@ -1,0 +1,70 @@
+{
+  "id": 1193171105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5228,50.04259,13.5228,50.04259",
+    "geom:latitude":50.04259,
+    "geom:longitude":13.5228,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Nova Ves",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069594,
+    "gn:latitude":50.04259,
+    "gn:longitude":13.5228,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Nov\u00e1 Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neu Wallisdorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069594
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"829467cce0a9445010fc2f56fa8b43f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193171105,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1193171105,
+    "wof:lastmodified":1537619344,
+    "wof:name":"Nova Ves",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5228,
+    50.04259,
+    13.5228,
+    50.04259
+],
+  "geometry": {"coordinates":[13.5228,50.04259],"type":"Point"}
+}

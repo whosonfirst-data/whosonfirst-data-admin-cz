@@ -1,0 +1,70 @@
+{
+  "id": 1243008961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27987,50.07324,13.27987,50.07324",
+    "geom:latitude":50.07324,
+    "geom:longitude":13.27987,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Dvorec",
+    "gn:country_code":"CZ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076276,
+    "gn:latitude":50.07324,
+    "gn:longitude":13.27987,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Dvorec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wurz",
+        "Dvorec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076276
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6fb8923417a72f2eadd81cc58ac5de9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243008961,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1243008961,
+    "wof:lastmodified":1537619426,
+    "wof:name":"Dvorec",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27987,
+    50.07324000000001,
+    13.27987,
+    50.07324000000001
+],
+  "geometry": {"coordinates":[13.27987,50.07324000000001],"type":"Point"}
+}

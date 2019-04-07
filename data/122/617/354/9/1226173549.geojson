@@ -1,0 +1,66 @@
+{
+  "id": 1226173549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17951,49.34956,15.17951,49.34956",
+    "geom:latitude":49.34956,
+    "geom:longitude":15.17951,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Vlasenice-Drbohlavy",
+    "gn:country_code":"CZ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062761,
+    "gn:latitude":49.34956,
+    "gn:longitude":15.17951,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Vl\u00e1senice-Drbohlavy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062761
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c20b3b1679df5ce8756f5d323346a3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226173549,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1226173549,
+    "wof:lastmodified":1537036114,
+    "wof:name":"Vlasenice-Drbohlavy",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17951,
+    49.34956,
+    15.17951,
+    49.34956
+],
+  "geometry": {"coordinates":[15.17951,49.34956],"type":"Point"}
+}

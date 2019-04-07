@@ -1,0 +1,112 @@
+{
+  "id": 101779977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":618049.399689,
+    "geom:bbox":"16.7296340881,49.248703822,16.7485488462,49.2604216185",
+    "geom:latitude":49.254968,
+    "geom:longitude":16.73613,
+    "gn:population":200,
+    "iso:country":"CZ",
+    "lbl:latitude":49.254582,
+    "lbl:longitude":16.734696,
+    "mps:latitude":49.254582,
+    "mps:longitude":16.734696,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ochoz"
+    ],
+    "name:ces_x_preferred":[
+        "Ochoz"
+    ],
+    "name:hun_x_preferred":[
+        "Ochoz"
+    ],
+    "name:ita_x_preferred":[
+        "Ochoz"
+    ],
+    "name:msa_x_preferred":[
+        "Ochoz"
+    ],
+    "name:nld_x_preferred":[
+        "Ochoz"
+    ],
+    "name:pol_x_preferred":[
+        "Ochoz"
+    ],
+    "name:por_x_preferred":[
+        "Ochoz"
+    ],
+    "name:slk_x_preferred":[
+        "Ochoz"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0445\u043e\u0437"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la":"Ochoz u Brna",
+    "qs:la_lc":"*CZ0623583537",
+    "qs:level":"locality",
+    "qs:loc":"Ochoz u Brna",
+    "qs:loc_alt":"Ochoz u Brna",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069165,
+        "gp:id":795291,
+        "qs:id":399766,
+        "qs_pg:id":399766,
+        "wd:id":"Q1447636",
+        "wk:page":"Ochoz (Prost\u011bjov District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bb127148178df25016e89309b0948bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779977,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101779977,
+    "wof:lastmodified":1507750682,
+    "wof:name":"Ochoz u Brna",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72963408810045,
+    49.24870382202636,
+    16.748548846174,
+    49.26042161849995
+],
+  "geometry": {"coordinates":[[[16.73684812925671,49.26033936444446],[16.73647778037429,49.25765424654685],[16.737846506241,49.25757198102144],[16.73759958593405,49.25578190345971],[16.7417055900263,49.25553501730229],[16.74182912149774,49.25643005113159],[16.74456648599852,49.25626537359187],[16.74444290509052,49.25537034322724],[16.748548846174,49.25512320716041],[16.74830155311349,49.25333315537199],[16.74693295971969,49.25341554725469],[16.74705657869163,49.25431057512515],[16.74158206423635,49.2546399829879],[16.7414585441274,49.25374494818766],[16.73872131113279,49.25390954869442],[16.73859784613495,49.25301450994641],[16.73722924805668,49.25309678347878],[16.73698238452334,49.25130670106523],[16.73561383167788,49.25138895447697],[16.73524365308202,49.24870382202636],[16.73113819179002,49.24895046674061],[16.7312615048474,49.24984551656422],[16.73263002084889,49.24976331658888],[16.73300006818852,49.25244845796175],[16.73163147804541,49.25253066312462],[16.73175481378831,49.25342571100805],[16.73038619473624,49.25350790123991],[16.73050951143392,49.25440295036753],[16.73187815520362,49.25432075840655],[16.73224821348663,49.25700589769315],[16.73087949555833,49.25708809484178],[16.73100283494432,49.2579831420303],[16.72963408810045,49.25806532424639],[16.72988073444503,49.25985542062824],[16.73535589444168,49.25952657795483],[16.73547932502299,49.26042161849995],[16.73684812925671,49.26033936444446]]],"type":"Polygon"}
+}

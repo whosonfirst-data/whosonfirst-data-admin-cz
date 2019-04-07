@@ -1,0 +1,66 @@
+{
+  "id": 1292940331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78333,49.66667,13.78333,49.66667",
+    "geom:latitude":49.66667,
+    "geom:longitude":13.78333,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Predni Zabehla",
+    "gn:country_code":"CZ",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067610,
+    "gn:latitude":49.66667,
+    "gn:longitude":13.78333,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"P\u0159edn\u00ed Z\u00e1b\u011bhl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067610
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e3e6db391171ee5d3440240139b1bb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292940331,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1292940331,
+    "wof:lastmodified":1537075796,
+    "wof:name":"Predni Zabehla",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78333,
+    49.66667,
+    13.78333,
+    49.66667
+],
+  "geometry": {"coordinates":[13.78333,49.66667],"type":"Point"}
+}

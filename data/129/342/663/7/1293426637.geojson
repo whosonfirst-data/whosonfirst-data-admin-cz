@@ -1,0 +1,66 @@
+{
+  "id": 1293426637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06556,49.75458,14.06556,49.75458",
+    "geom:latitude":49.75458,
+    "geom:longitude":14.06556,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Bukova",
+    "gn:country_code":"CZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078431,
+    "gn:latitude":49.75458,
+    "gn:longitude":14.06556,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Bukov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078431
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e7f42b23a9346b855125a6e79aa1dee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293426637,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293426637,
+    "wof:lastmodified":1536873699,
+    "wof:name":"Bukova",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06556,
+    49.75458,
+    14.06556,
+    49.75458
+],
+  "geometry": {"coordinates":[14.06556,49.75458],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209452129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71836,48.90975,14.71836,48.90975",
+    "geom:latitude":48.90975,
+    "geom:longitude":14.71836,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Vlachnovice",
+    "gn:country_code":"CZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062781,
+    "gn:latitude":48.90975,
+    "gn:longitude":14.71836,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Vlachnovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062781
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1fae1a52417f68ee8ea3ba393339f5bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209452129
+        }
+    ],
+    "wof:id":1209452129,
+    "wof:lastmodified":1536286640,
+    "wof:name":"Vlachnovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71836,
+    48.90975,
+    14.71836,
+    48.90975
+],
+  "geometry": {"coordinates":[14.71836,48.90975],"type":"Point"}
+}

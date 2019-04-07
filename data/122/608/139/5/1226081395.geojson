@@ -1,0 +1,66 @@
+{
+  "id": 1226081395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13181,49.07555,14.13181,49.07555",
+    "geom:latitude":49.07555,
+    "geom:longitude":14.13181,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Velky Bor",
+    "gn:country_code":"CZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063169,
+    "gn:latitude":49.07555,
+    "gn:longitude":14.13181,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Velk\u00fd Bor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063169
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"87aa9256a40b3f2ec85647edc757e141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226081395,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1226081395,
+    "wof:lastmodified":1536673676,
+    "wof:name":"Velky Bor",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13181,
+    49.07555,
+    14.13181,
+    49.07555
+],
+  "geometry": {"coordinates":[14.13181,49.07555],"type":"Point"}
+}

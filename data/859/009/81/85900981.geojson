@@ -1,0 +1,108 @@
+{
+  "id": 85900981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":1037252.322436,
+    "geom:bbox":"14.5457344731,50.01479917,14.5641381836,50.0236228894",
+    "geom:latitude":50.01918,
+    "geom:longitude":14.555048,
+    "gn:latitude":50.01337,
+    "gn:longitude":14.5459,
+    "iso:country":"CZ",
+    "lbl:latitude":50.017592,
+    "lbl:longitude":14.539719,
+    "mps:latitude":50.019211,
+    "mps:longitude":14.555048,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:arm_x_preferred":[
+        "\u0548\u0582\u0575\u0565\u0566\u0564"
+    ],
+    "name:cze_x_colloquial":[
+        "Ujezd u Prthhonic",
+        "Ujezd u Prthonic",
+        "Ujezd u Pruhonic"
+    ],
+    "name:cze_x_preferred":[
+        "\u00dajezd u Pr\u00fehonic"
+    ],
+    "name:cze_x_variant":[
+        "Praha-\u00dajezd",
+        "\u00dajezd u Pr\u016fhonic"
+    ],
+    "name:dut_x_preferred":[
+        "Praag-\u00dajezd"
+    ],
+    "name:eng_x_preferred":[
+        "\u00dajezd"
+    ],
+    "name:eng_x_preferred_x_preferred":[
+        "\u00dajezd u Pr\u00fehonic"
+    ],
+    "name:fre_x_preferred":[
+        "\u00dajezd"
+    ],
+    "name:pol_x_preferred":[
+        "\u00dajezd"
+    ],
+    "name:slo_x_preferred":[
+        "\u00dajezd"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063642,
+        "gp:id":800172,
+        "qs:id":963255,
+        "qs_pg:id":228614,
+        "wd:id":"Q3563133"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"51464f658a335f42377e6d4ebd6517cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "neighbourhood_id":85900981,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900981,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1536864509,
+    "wof:name":"Ujezd u Pruhonic",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54573447313311,
+    50.01479916997523,
+    14.56413818360016,
+    50.02362288935014
+],
+  "geometry": {"coordinates":[[[14.55139160160013,50.01479916997523],[14.54912310577959,50.01479916997523],[14.5458984375,50.01730819690103],[14.54573447313311,50.01756334935574],[14.54589843750017,50.01832889107517],[14.54589843750017,50.01934786532],[14.55139160157506,50.02362288935014],[14.56133165738953,50.02362288935014],[14.56407050988605,50.0207807895509],[14.56413818360016,50.02009368680002],[14.56407027052677,50.01940415379484],[14.56303384136686,50.01832889107517],[14.56237792967522,50.0173081968813],[14.55915326142059,50.01479916997523],[14.55688476560005,50.01479916997523],[14.55139160160013,50.01479916997523]]],"type":"Polygon"}
+}

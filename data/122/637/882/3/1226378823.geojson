@@ -1,0 +1,70 @@
+{
+  "id": 1226378823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71063,50.07653,16.71063,50.07653",
+    "geom:latitude":50.07653,
+    "geom:longitude":16.71063,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Dolni Borikovice",
+    "gn:country_code":"CZ",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076921,
+    "gn:latitude":50.07653,
+    "gn:longitude":16.71063,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Doln\u00ed Bo\u0159\u00edkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nieder-Ullersdorf",
+        "Bo\u0159\u00edkovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076921
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3589aeccf039114916a17ddebdb0b971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226378823,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1226378823,
+    "wof:lastmodified":1537619436,
+    "wof:name":"Dolni Borikovice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71063,
+    50.07653,
+    16.71063,
+    50.07653
+],
+  "geometry": {"coordinates":[16.71063,50.07653],"type":"Point"}
+}

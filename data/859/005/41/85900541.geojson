@@ -1,0 +1,128 @@
+{
+  "id": 85900541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5524364.689903,
+    "geom:bbox":"16.651291,49.157909,16.651291,49.157909",
+    "geom:latitude":49.157909,
+    "geom:longitude":16.651291,
+    "gn:latitude":49.15263,
+    "gn:longitude":16.65562,
+    "iso:country":"CZ",
+    "lbl:latitude":49.157909,
+    "lbl:longitude":16.651291,
+    "mps:latitude":49.158357,
+    "mps:longitude":16.65039,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:cze_x_colloquial":[
+        "Brnenske Ivanovice"
+    ],
+    "name:cze_x_preferred":[
+        "Brn\u011bnsk\u00e9 Ivanovice"
+    ],
+    "name:cze_x_variant":[
+        "Nennowitz"
+    ],
+    "name:eng_x_preferred":[
+        "Brn\u011bnsk\u00e9 Ivanovice"
+    ],
+    "name:fre_x_preferred":[
+        "Brn\u011bnsk\u00e9 Ivanovice"
+    ],
+    "name:pol_x_preferred":[
+        "Brn\u011bnsk\u00e9 Ivanovice"
+    ],
+    "name:slo_x_preferred":[
+        "Brn\u011bnsk\u00e9 Ivanovice"
+    ],
+    "name:unk_x_variant":[
+        "Nennowitz",
+        "Brn\u011bnsk\u00e9 Ivanovice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3078610,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Brn\u011bnsk\u00e9 Ivanovice",
+    "qs:local_max":6134,
+    "qs:local_sum":32721,
+    "qs:localhoods":44,
+    "qs:name":"Brn\u011bnsk\u00e9 Ivanovice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs:name_adm2":"Brno-M\u011bsto",
+    "qs:name_lau":"Brno",
+    "qs:name_local":"Brno",
+    "qs:photo_max":8,
+    "qs:photo_sum":39,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070503,
+    "qs:woe_adm2":12582547,
+    "qs:woe_lau":12605174,
+    "qs:woe_local":786869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748109,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078619,
+        "gp:id":786861,
+        "qs:id":883871,
+        "qs_pg:id":883871,
+        "wd:id":"Q11343404"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e4fa866dd8e3d1ae2683a945e4347efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748109,
+            "neighbourhood_id":85900541,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85900541,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932346,
+    "wof:name":"Brn\u011bnsk\u00e9 Ivanovice",
+    "wof:parent_id":101748109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.651291,
+    49.157909,
+    16.651291,
+    49.157909
+],
+  "geometry": {"coordinates":[16.651291,49.157909],"type":"Point"}
+}

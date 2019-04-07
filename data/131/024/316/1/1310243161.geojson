@@ -1,0 +1,66 @@
+{
+  "id": 1310243161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90264,49.5731,16.90264,49.5731",
+    "geom:latitude":49.5731,
+    "geom:longitude":16.90264,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0713",
+    "gn:asciiname":"Kremenec",
+    "gn:country_code":"CZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072790,
+    "gn:latitude":49.5731,
+    "gn:longitude":16.90264,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"K\u0159emenec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072790
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1d9fcff50ace5302979cb12ceda85a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310243161,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1310243161,
+    "wof:lastmodified":1536797939,
+    "wof:name":"Kremenec",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90264,
+    49.5731,
+    16.90264,
+    49.5731
+],
+  "geometry": {"coordinates":[16.90264,49.5731],"type":"Point"}
+}

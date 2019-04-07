@@ -1,0 +1,71 @@
+{
+  "id": 1310042257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9344,48.85059,13.9344,48.85059",
+    "geom:latitude":48.85059,
+    "geom:longitude":13.9344,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Pekna",
+    "gn:country_code":"CZ",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068458,
+    "gn:latitude":48.85059,
+    "gn:longitude":13.9344,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"P\u011bkn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sch\u00f6nau",
+        "\u0160enava",
+        "P\u011bkn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068458
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b683cd1b5fa6f3d5387146f6fe7a087f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310042257,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1310042257,
+    "wof:lastmodified":1537619329,
+    "wof:name":"Pekna",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9344,
+    48.85059,
+    13.9344,
+    48.85059
+],
+  "geometry": {"coordinates":[13.9344,48.85059],"type":"Point"}
+}

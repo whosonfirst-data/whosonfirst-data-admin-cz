@@ -1,0 +1,70 @@
+{
+  "id": 1260214739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98333,48.85,13.98333,48.85",
+    "geom:latitude":48.85,
+    "geom:longitude":13.98333,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Uhlikov",
+    "gn:country_code":"CZ",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063731,
+    "gn:latitude":48.85,
+    "gn:longitude":13.98333,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Uhl\u00edkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uhligsthal",
+        "Uhl\u00edkov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063731
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"043ac1c57e91091c1a4a8cdfefa24f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260214739,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260214739,
+    "wof:lastmodified":1537619277,
+    "wof:name":"Uhlikov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98333,
+    48.85,
+    13.98333,
+    48.85
+],
+  "geometry": {"coordinates":[13.98333,48.85],"type":"Point"}
+}

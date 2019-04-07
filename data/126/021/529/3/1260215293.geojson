@@ -1,0 +1,71 @@
+{
+  "id": 1260215293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48271,50.28791,12.48271,50.28791",
+    "geom:latitude":50.28791,
+    "geom:longitude":12.48271,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Mlynska",
+    "gn:country_code":"CZ",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070476,
+    "gn:latitude":50.28791,
+    "gn:longitude":12.48271,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Ml\u00fdnsk\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kun\u0161t\u00e1t",
+        "Konstadt",
+        "Ml\u00fdnsk\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070476
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"37d9037ebd2b38d9b6ad9ba27fc447fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260215293,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1260215293,
+    "wof:lastmodified":1537619355,
+    "wof:name":"Mlynska",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48271,
+    50.28791,
+    12.48271,
+    50.28791
+],
+  "geometry": {"coordinates":[12.48271,50.28791],"type":"Point"}
+}

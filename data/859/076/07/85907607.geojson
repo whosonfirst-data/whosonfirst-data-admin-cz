@@ -1,0 +1,106 @@
+{
+  "id": 85907607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":199175.580571,
+    "geom:bbox":"18.284821,49.836817,18.284821,49.836817",
+    "geom:latitude":49.836817,
+    "geom:longitude":18.284821,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":49.836817,
+    "lbl:longitude":18.284821,
+    "mps:latitude":49.837883,
+    "mps:longitude":18.282181,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:cze_x_colloquial":[
+        "Moravska Ostrava a Privoz"
+    ],
+    "name:cze_x_preferred":[
+        "Moravsk\u00e1 Ostrava a Pr\u00edvoz"
+    ],
+    "name:unk_x_variant":[
+        "Moravsk\u00e1 Ostrava a Pr\u00edvoz"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":2778,
+    "qs:local_sum":9373,
+    "qs:localhoods":17,
+    "qs:name":"Moravsk\u00e1 Ostrava a Pr\u00edvoz",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs:name_adm2":"Ostrava",
+    "qs:name_lau":"Ostrava",
+    "qs:name_local":"Ostrava",
+    "qs:photo_max":113,
+    "qs:photo_sum":169,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070471,
+    "qs:woe_adm2":12582577,
+    "qs:woe_lau":12607114,
+    "qs:woe_local":795610,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748125,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23406416,
+        "qs:id":1085751,
+        "qs_pg:id":1085751
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"26d09c67f0f2e12fda7f8ec0a84ed376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748125,
+            "neighbourhood_id":85907607,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":85907607,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531936606,
+    "wof:name":"Moravsk\u00e1 Ostrava a Pr\u00edvoz",
+    "wof:parent_id":101748125,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.284821,
+    49.836817,
+    18.284821,
+    49.836817
+],
+  "geometry": {"coordinates":[18.284821,49.836817],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209446369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95062,49.14426,15.95062,49.14426",
+    "geom:latitude":49.14426,
+    "geom:longitude":15.95062,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0614",
+    "gn:asciiname":"Lipnik",
+    "gn:country_code":"CZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071793,
+    "gn:latitude":49.14426,
+    "gn:longitude":15.95062,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Lipn\u00edk",
+    "gn:population":332,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071793,
+        "wk:page":"Lipn%C3%ADk_%28T%C5%99eb%C3%AD%C4%8D_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0be7914dd98f0eab9cc45119be616946",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209446369
+        }
+    ],
+    "wof:id":1209446369,
+    "wof:lastmodified":1537504046,
+    "wof:name":"Lipnik",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:population":332,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95062,
+    49.14426,
+    15.95062,
+    49.14426
+],
+  "geometry": {"coordinates":[15.95062,49.14426],"type":"Point"}
+}

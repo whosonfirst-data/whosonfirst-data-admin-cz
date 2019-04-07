@@ -1,0 +1,66 @@
+{
+  "id": 1293820087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63753,49.71889,13.63753,49.71889",
+    "geom:latitude":49.71889,
+    "geom:longitude":13.63753,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0326",
+    "gn:asciiname":"Nova Hut'",
+    "gn:country_code":"CZ",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069685,
+    "gn:latitude":49.71889,
+    "gn:longitude":13.63753,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Nov\u00e1 Hu\u0165",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069685
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0bc25e9b0e56e6eb59ead6ac66f1a90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293820087,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293820087,
+    "wof:lastmodified":1536804486,
+    "wof:name":"Nova Hut'",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63753,
+    49.71889,
+    13.63753,
+    49.71889
+],
+  "geometry": {"coordinates":[13.63753,49.71889],"type":"Point"}
+}

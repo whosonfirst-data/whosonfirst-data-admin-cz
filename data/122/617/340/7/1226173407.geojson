@@ -1,0 +1,67 @@
+{
+  "id": 1226173407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64804,49.62149,18.64804,49.62149",
+    "geom:latitude":49.62149,
+    "geom:longitude":18.64804,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Tyra",
+    "gn:country_code":"CZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063793,
+    "gn:latitude":49.62149,
+    "gn:longitude":18.64804,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Tyra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063793,
+        "wk:page":"Tyra_%28T%C5%99inec%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e3175fc2922c9baa0b638f4e1b965d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226173407,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1226173407,
+    "wof:lastmodified":1537504018,
+    "wof:name":"Tyra",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64804,
+    49.62149,
+    18.64804,
+    49.62149
+],
+  "geometry": {"coordinates":[18.64804,49.62149],"type":"Point"}
+}

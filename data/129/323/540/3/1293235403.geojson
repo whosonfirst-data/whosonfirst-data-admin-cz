@@ -1,0 +1,70 @@
+{
+  "id": 1293235403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15951,50.46385,15.15951,50.46385",
+    "geom:latitude":50.46385,
+    "geom:longitude":15.15951,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Osek",
+    "gn:country_code":"CZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068858,
+    "gn:latitude":50.46385,
+    "gn:longitude":15.15951,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Osek",
+    "gn:population":160,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068858,
+        "wk:page":"Osek_%28Ji%C4%8D%C3%ADn_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7b953716fef76a56636b1a0c33f98826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293235403,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293235403,
+    "wof:lastmodified":1537504034,
+    "wof:name":"Osek",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15951,
+    50.46385,
+    15.15951,
+    50.46385
+],
+  "geometry": {"coordinates":[15.15951,50.46385],"type":"Point"}
+}

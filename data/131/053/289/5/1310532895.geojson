@@ -1,0 +1,73 @@
+{
+  "id": 1310532895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8772,48.89,14.8772,48.89",
+    "geom:latitude":48.89,
+    "geom:longitude":14.8772,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Suchdol nad Luznici",
+    "gn:country_code":"CZ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064742,
+    "gn:latitude":48.89,
+    "gn:longitude":14.8772,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Suchdol nad Lu\u017enic\u00ed",
+    "gn:population":3659,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Suchenthal an der Lainsitz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064742,
+        "wk:page":"Suchdol_nad_Lu%C5%BEnic%C3%AD"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2fa6ae5dd07b96fba76e988a208eac8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310532895,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1310532895,
+    "wof:lastmodified":1537504021,
+    "wof:name":"Suchdol nad Luznici",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":3659,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8772,
+    48.89,
+    14.8772,
+    48.89
+],
+  "geometry": {"coordinates":[14.8772,48.89],"type":"Point"}
+}

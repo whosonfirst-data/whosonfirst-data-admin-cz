@@ -1,0 +1,70 @@
+{
+  "id": 1293918587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9125,50.6982,14.9125,50.6982",
+    "geom:latitude":50.6982,
+    "geom:longitude":14.9125,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0513",
+    "gn:asciiname":"Lazne Kundratice",
+    "gn:country_code":"CZ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072266,
+    "gn:latitude":50.6982,
+    "gn:longitude":14.9125,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"L\u00e1zn\u011b Kundratice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bad Kunnersdorf",
+        "L\u00e1zn\u011b Kundratice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072266
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e83b2b1937796208a7a7e0555cee30a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293918587,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1293918587,
+    "wof:lastmodified":1537619378,
+    "wof:name":"Lazne Kundratice",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9125,
+    50.6982,
+    14.9125,
+    50.6982
+],
+  "geometry": {"coordinates":[14.9125,50.6982],"type":"Point"}
+}

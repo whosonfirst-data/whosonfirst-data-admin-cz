@@ -1,0 +1,66 @@
+{
+  "id": 1360321201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0293,49.53952,15.0293,49.53952",
+    "geom:latitude":49.53952,
+    "geom:longitude":15.0293,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Utechovice",
+    "gn:country_code":"CZ",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063527,
+    "gn:latitude":49.53952,
+    "gn:longitude":15.0293,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"\u00dat\u011bchovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063527
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fe2352b4cf753ce7dab74943d8fe6d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360321201,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1360321201,
+    "wof:lastmodified":1536601825,
+    "wof:name":"Utechovice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0293,
+    49.53952,
+    15.0293,
+    49.53952
+],
+  "geometry": {"coordinates":[15.0293,49.53952],"type":"Point"}
+}

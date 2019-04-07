@@ -1,0 +1,132 @@
+{
+  "id": 1125969205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38704,49.40679,13.38704,49.40679",
+    "geom:latitude":49.40679,
+    "geom:longitude":13.38704,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":108,
+    "gn:population":108,
+    "iso:country":"CZ",
+    "lbl:latitude":49.40679,
+    "lbl:longitude":13.38704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Myslovice"
+    ],
+    "name:dut_x_preferred":[
+        "Myslovice"
+    ],
+    "name:eng_x_preferred":[
+        "Myslovice"
+    ],
+    "name:fre_x_preferred":[
+        "Myslovice"
+    ],
+    "name:ger_x_preferred":[
+        "Myslovice"
+    ],
+    "name:hun_x_preferred":[
+        "Myslovice"
+    ],
+    "name:ita_x_preferred":[
+        "Myslovice"
+    ],
+    "name:may_x_preferred":[
+        "Myslovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u0633\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Myslovice"
+    ],
+    "name:por_x_preferred":[
+        "Myslovice"
+    ],
+    "name:slo_x_preferred":[
+        "Myslovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0441\u043b\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Myslovice"
+    ],
+    "name:vie_x_preferred":[
+        "Myslovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070155,
+    "qs_pg:gn_pop":108,
+    "qs_pg:name":"Myslovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":399529,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794375,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070155,
+        "gp:id":794375,
+        "qs_pg:id":399529,
+        "wd:id":"Q2677918"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298099,
+    "wof:geomhash":"1ed37f40dd3f717b13dc0e66ac43c16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125969205,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125969205,
+    "wof:lastmodified":1513945400,
+    "wof:name":"Myslovice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":108,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38704,
+    49.40679,
+    13.38704,
+    49.40679
+],
+  "geometry": {"coordinates":[13.38704,49.40679],"type":"Point"}
+}

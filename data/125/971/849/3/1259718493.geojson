@@ -1,0 +1,66 @@
+{
+  "id": 1259718493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00933,49.89429,13.00933,49.89429",
+    "geom:latitude":49.89429,
+    "geom:longitude":13.00933,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Potin",
+    "gn:country_code":"CZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067756,
+    "gn:latitude":49.89429,
+    "gn:longitude":13.00933,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Pot\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067756
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"492137ff55783abc5725c7a20064a7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259718493,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1259718493,
+    "wof:lastmodified":1537015920,
+    "wof:name":"Potin",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00933,
+    49.89429000000001,
+    13.00933,
+    49.89429000000001
+],
+  "geometry": {"coordinates":[13.00933,49.89429000000001],"type":"Point"}
+}

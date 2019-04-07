@@ -1,0 +1,70 @@
+{
+  "id": 1310039727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85,50.41667,15.85,50.41667",
+    "geom:latitude":50.41667,
+    "geom:longitude":15.85,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Ves Zirec",
+    "gn:country_code":"CZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062992,
+    "gn:latitude":50.41667,
+    "gn:longitude":15.85,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Ves \u017dire\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schurz Dorf",
+        "Ves \u017dire\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062992
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9f6f40586ba8a5242649ad3909285005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310039727,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1310039727,
+    "wof:lastmodified":1537619269,
+    "wof:name":"Ves Zirec",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85,
+    50.41667,
+    15.85,
+    50.41667
+],
+  "geometry": {"coordinates":[15.85,50.41667],"type":"Point"}
+}

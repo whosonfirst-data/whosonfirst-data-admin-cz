@@ -1,0 +1,109 @@
+{
+  "id": 85900849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9978319.686492,
+    "geom:bbox":"18.173776,49.825315,18.173776,49.825315",
+    "geom:latitude":49.825315,
+    "geom:longitude":18.173776,
+    "gn:latitude":49.83762,
+    "gn:longitude":18.15751,
+    "iso:country":"CZ",
+    "lbl:latitude":49.825315,
+    "lbl:longitude":18.173776,
+    "mps:latitude":49.823611,
+    "mps:longitude":18.168818,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:cze_x_preferred":[
+        "Poruba"
+    ],
+    "name:unk_x_variant":[
+        "Poruba"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"85",
+    "qs:gn_name":"Poruba",
+    "qs:local_max":2778,
+    "qs:local_sum":9373,
+    "qs:localhoods":17,
+    "qs:name":"Poruba",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs:name_adm2":"Ostrava",
+    "qs:name_lau":"Ostrava",
+    "qs:name_local":"Ostrava",
+    "qs:photo_max":28,
+    "qs:photo_sum":195,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070471,
+    "qs:woe_adm2":12582577,
+    "qs:woe_lau":12607114,
+    "qs:woe_local":795610,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748125,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067777,
+        "gp:id":796522,
+        "qs:id":883942,
+        "qs_pg:id":883942,
+        "wd:id":"Q3500288",
+        "wk:page":"Poruba (Ostrava)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"555835ec3168b859b8c03a1e6ebf4af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748125,
+            "neighbourhood_id":85900849,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":85900849,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932394,
+    "wof:name":"Poruba",
+    "wof:parent_id":101748125,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.173776,
+    49.825315,
+    18.173776,
+    49.825315
+],
+  "geometry": {"coordinates":[18.173776,49.825315],"type":"Point"}
+}

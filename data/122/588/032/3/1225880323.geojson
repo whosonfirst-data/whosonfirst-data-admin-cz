@@ -1,0 +1,71 @@
+{
+  "id": 1225880323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5917,49.75134,18.5917,49.75134",
+    "geom:latitude":49.75134,
+    "geom:longitude":18.5917,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0803",
+    "gn:asciiname":"Mosty u Ceskeho Tesina",
+    "gn:country_code":"CZ",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070272,
+    "gn:latitude":49.75134,
+    "gn:longitude":18.5917,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Mosty u \u010cesk\u00e9ho T\u011b\u0161\u00edna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mosty",
+        "Mosty u \u010cesk\u00e9ho T\u011b\u0161\u00edna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070272,
+        "wk:page":"Mosty_u_%C4%8Cesk%C3%A9ho_T%C4%9B%C5%A1%C3%ADna"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"35d134989576e351635178e19d58e146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225880323,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1225880323,
+    "wof:lastmodified":1537619352,
+    "wof:name":"Mosty u Ceskeho Tesina",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5917,
+    49.75134,
+    18.5917,
+    49.75134
+],
+  "geometry": {"coordinates":[18.5917,49.75134],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276479269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51609,50.52251,14.51609,50.52251",
+    "geom:latitude":50.52251,
+    "geom:longitude":14.51609,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Destna",
+    "gn:country_code":"CZ",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077193,
+    "gn:latitude":50.52251,
+    "gn:longitude":14.51609,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"De\u0161tn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00f6schen",
+        "De\u0161tn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077193
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"146d892e45533107918989e16723fdab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276479269,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1276479269,
+    "wof:lastmodified":1537619439,
+    "wof:name":"Destna",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51609,
+    50.52251,
+    14.51609,
+    50.52251
+],
+  "geometry": {"coordinates":[14.51609,50.52251],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293525159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18629,49.92365,16.18629,49.92365",
+    "geom:latitude":49.92365,
+    "geom:longitude":16.18629,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Vostice",
+    "gn:country_code":"CZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062560,
+    "gn:latitude":49.92365,
+    "gn:longitude":16.18629,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Vo\u0161tice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Hartech",
+        "Vo\u0161tice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062560
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f128aad70e2ec55c8372b79251ffcb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293525159,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1293525159,
+    "wof:lastmodified":1537619265,
+    "wof:name":"Vostice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18629,
+    49.92365,
+    16.18629,
+    49.92365
+],
+  "geometry": {"coordinates":[16.18629,49.92365],"type":"Point"}
+}

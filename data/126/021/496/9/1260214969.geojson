@@ -1,0 +1,74 @@
+{
+  "id": 1260214969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.77461,50.08369,12.77461,50.08369",
+    "geom:latitude":50.08369,
+    "geom:longitude":12.77461,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Nova Ves",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069590,
+    "gn:latitude":50.08369,
+    "gn:longitude":12.77461,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Nov\u00e1 Ves",
+    "gn:population":269,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neudorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069590,
+        "wk:page":"Nov%C3%A1_Ves_%28Sokolov_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bd067db0ad750be31bc3ff29a3947dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260214969,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1260214969,
+    "wof:lastmodified":1537619344,
+    "wof:name":"Nova Ves",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":269,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.77461,
+    50.08369,
+    12.77461,
+    50.08369
+],
+  "geometry": {"coordinates":[12.77461,50.08369],"type":"Point"}
+}

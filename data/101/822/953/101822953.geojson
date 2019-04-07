@@ -1,0 +1,147 @@
+{
+  "id": 101822953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":707553.167282,
+    "geom:bbox":"16.0500801253,50.5601833176,16.0690711215,50.5718985697",
+    "geom:latitude":50.566506,
+    "geom:longitude":16.061287,
+    "gn:population":1090,
+    "iso:country":"CZ",
+    "lbl:latitude":50.565775,
+    "lbl:longitude":16.061287,
+    "mps:latitude":50.565775,
+    "mps:longitude":16.061287,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Radvanice"
+    ],
+    "name:cze_x_preferred":[
+        "Radvanice"
+    ],
+    "name:deu_x_preferred":[
+        "Radvanice"
+    ],
+    "name:dut_x_preferred":[
+        "Radvanice"
+    ],
+    "name:eng_x_preferred":[
+        "Radvanice"
+    ],
+    "name:fre_x_preferred":[
+        "Radvanice"
+    ],
+    "name:ger_x_preferred":[
+        "Radvanice v \u010cech\u00e1ch"
+    ],
+    "name:hun_x_preferred":[
+        "Radvanice"
+    ],
+    "name:ita_x_preferred":[
+        "Radvanice"
+    ],
+    "name:may_x_preferred":[
+        "Radvanice"
+    ],
+    "name:nan_x_preferred":[
+        "Radvanice"
+    ],
+    "name:nld_x_preferred":[
+        "Radvanice"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0627\u062f\u0648\u0627\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Radvanice"
+    ],
+    "name:por_x_preferred":[
+        "Radvanice"
+    ],
+    "name:rup_x_preferred":[
+        "Radvanice"
+    ],
+    "name:slk_x_preferred":[
+        "Radvanice"
+    ],
+    "name:slo_x_preferred":[
+        "Radvanice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0432\u0430\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Radvanice"
+    ],
+    "name:unk_x_variant":[
+        "Radowenz"
+    ],
+    "name:vie_x_preferred":[
+        "Radvanice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Kr\u00e1lov\u00e9hradeck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Radvanice",
+    "qs:la_lc":"*CZ0525579629",
+    "qs:level":"locality",
+    "qs:loc":"Radvanice",
+    "qs:loc_alt":"Radvanice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067101,
+        "gp:id":797141,
+        "qs:id":145300,
+        "qs_pg:id":145300,
+        "wd:id":"Q475719"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4ee477c183f115080f7d20056921cf8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101822953,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":101822953,
+    "wof:lastmodified":1553815525,
+    "wof:name":"Radvanice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":1090,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05008012529765,
+    50.56018331755649,
+    16.06907112147559,
+    50.57189856974742
+],
+  "geometry": {"coordinates":[[[16.06907112147559,50.57167537285414],[16.06860755820816,50.56809358634371],[16.06438537910901,50.56831676368876],[16.06403800338722,50.56563040521121],[16.06544532083097,50.5655560348626],[16.06532951334952,50.56466058291585],[16.06673680015177,50.56458619698219],[16.06662097160716,50.56369074628867],[16.06802822776979,50.56361634477105],[16.06791237816435,50.56272089533161],[16.06650514855505,50.56279529522038],[16.06627351892581,50.56100439195842],[16.06486633833435,50.56107877137839],[16.06475055830629,50.56018331755649],[16.06193623797293,50.56033202150627],[16.06228343521917,50.5630183916129],[16.05806168514147,50.56324133309312],[16.05840869278006,50.56592771446969],[16.05137196271568,50.56629896373033],[16.05148751010245,50.56719443156891],[16.05008012529765,50.56726863140307],[16.05019565160245,50.5681641004922],[16.0530104702583,50.56801568035945],[16.0532416455585,50.5698066109162],[16.0588714464327,50.56950955106339],[16.05875574978967,50.56861409247648],[16.06297797790455,50.56839112170786],[16.06320953605319,50.57018202874264],[16.06461699038158,50.57010766746708],[16.0648486236243,50.57189856974742],[16.06907112147559,50.57167537285414]]],"type":"Polygon"}
+}

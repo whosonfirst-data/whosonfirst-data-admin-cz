@@ -1,0 +1,89 @@
+{
+  "id": 1126052939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8754,50.45139,14.8754,50.45139",
+    "geom:latitude":50.45139,
+    "geom:longitude":14.8754,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":533,
+    "gn:population":533,
+    "iso:country":"CZ",
+    "lbl:latitude":50.45139,
+    "lbl:longitude":14.8754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Hrdlo\u0159ez"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3074860,
+    "qs_pg:gn_pop":533,
+    "qs_pg:name":"Hrdlo\u0159ezy",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398394,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790227,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074860,
+        "gp:id":790227,
+        "qs_pg:id":398394
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302895,
+    "wof:geomhash":"20ef772dfdc9d59b99773c84e79271be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126052939,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1126052939,
+    "wof:lastmodified":1509409367,
+    "wof:name":"Hrdlo\u0159ezy",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":533,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8754,
+    50.45139,
+    14.8754,
+    50.45139
+],
+  "geometry": {"coordinates":[14.8754,50.45139],"type":"Point"}
+}

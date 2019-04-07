@@ -1,0 +1,115 @@
+{
+  "id": 101824333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":627848.420398,
+    "geom:bbox":"13.0409037292,50.4312560086,13.0598847422,50.4438673579",
+    "geom:latitude":50.436502,
+    "geom:longitude":13.050698,
+    "gn:population":1320,
+    "iso:country":"CZ",
+    "lbl:latitude":50.43586,
+    "lbl:longitude":13.051633,
+    "mps:latitude":50.43586,
+    "mps:longitude":13.051633,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kov\u00e1\u0159sk\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Kov\u00e1\u0159sk\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Kov\u00e1\u0159sk\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Kov\u00e1\u0159sk\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Kov\u00e1\u0159sk\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Kov\u00e1\u0159sk\u00e1"
+    ],
+    "name:msa_x_preferred":[
+        "Kov\u00e1\u0159sk\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Kov\u00e1\u0159sk\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Kov\u00e1\u0159sk\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Kov\u00e1\u0159sk\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Schmiedeberg"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*\u00dasteck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Kov\u00e1\u0159sk\u00e1",
+    "qs:la_lc":"*CZ0422563137",
+    "qs:level":"locality",
+    "qs:loc":"Kov\u00e1\u0159sk\u00e1",
+    "qs:loc_alt":"Kovarska",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073052,
+        "gp:id":791791,
+        "qs:id":244786,
+        "qs_pg:id":244786,
+        "wd:id":"Q1233346",
+        "wk:page":"Kov\u00e1\u0159sk\u00e1"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dbfef1fd43373926096216aee51f0640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824333,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":101824333,
+    "wof:lastmodified":1527714851,
+    "wof:name":"Kov\u00e1\u0159sk\u00e1",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":1320,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.04090372923991,
+    50.43125600855723,
+    13.05988474216048,
+    50.44386735793853
+],
+  "geometry": {"coordinates":[[[13.05712961849349,50.44379240077274],[13.05707144011933,50.44289426904766],[13.05988474216048,50.44281924455527],[13.05982651316725,50.44192111420949],[13.05560663709593,50.44203362262562],[13.0554322068607,50.43933922263943],[13.05683875420937,50.43930173953413],[13.05678058962724,50.43840360650216],[13.05396754624905,50.43847855383387],[13.05356084489097,50.43219160381483],[13.05496718084976,50.43215414450219],[13.05490906499915,50.43125600855723],[13.05069013100376,50.43136833232865],[13.05074816683145,50.43226647072908],[13.04512278617449,50.43241599771244],[13.04506485704616,50.43151785604294],[13.0436585334503,50.43155519387943],[13.04371643590343,50.43245333636514],[13.04090372923991,50.43252796195867],[13.04096158108501,50.43342610581431],[13.04236796211336,50.43338880082069],[13.04254161414372,50.43608322837218],[13.04535453015404,50.43600856177449],[13.04529659003913,50.43511042115108],[13.04951586869464,50.43499829441566],[13.04980599698138,50.43948898266035],[13.05121255252243,50.43945156851515],[13.05132867647092,50.44124784034744],[13.05273528333782,50.44121040732523],[13.05285147167746,50.44300667647536],[13.05425812987431,50.44296922457426],[13.05431625486716,50.44386735793853],[13.05712961849349,50.44379240077274]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1360115185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46641,50.39356,14.46641,50.39356",
+    "geom:latitude":50.39356,
+    "geom:longitude":14.46641,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Vehlovice",
+    "gn:country_code":"CZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063335,
+    "gn:latitude":50.39356,
+    "gn:longitude":14.46641,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Vehlovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063335
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"30417c5233e36af9d07782da8c68a6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360115185,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1360115185,
+    "wof:lastmodified":1536902430,
+    "wof:name":"Vehlovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46641,
+    50.39356,
+    14.46641,
+    50.39356
+],
+  "geometry": {"coordinates":[14.46641,50.39356],"type":"Point"}
+}

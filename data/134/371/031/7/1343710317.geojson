@@ -1,0 +1,66 @@
+{
+  "id": 1343710317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84178,49.86433,16.84178,49.86433",
+    "geom:latitude":49.86433,
+    "geom:longitude":16.84178,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Lupene",
+    "gn:country_code":"CZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071356,
+    "gn:latitude":49.86433,
+    "gn:longitude":16.84178,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Lup\u011bn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071356
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a63b76ba3761ce2a539e8bc74a55d381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343710317,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1343710317,
+    "wof:lastmodified":1536882690,
+    "wof:name":"Lupene",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84178,
+    49.86433,
+    16.84178,
+    49.86433
+],
+  "geometry": {"coordinates":[16.84178,49.86433],"type":"Point"}
+}

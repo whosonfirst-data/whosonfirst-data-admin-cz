@@ -1,0 +1,141 @@
+{
+  "id": 1125912477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5062,49.44404,17.5062,49.44404",
+    "geom:latitude":49.44404,
+    "geom:longitude":17.5062,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":550,
+    "gn:population":550,
+    "iso:country":"CZ",
+    "lbl:latitude":49.44404,
+    "lbl:longitude":17.5062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:dut_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:eng_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:epo_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:fre_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:ger_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:hun_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:ita_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:may_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:nan_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0698\u0644\u0627\u062a\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:por_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:rup_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:slo_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u043b\u0430\u0442\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u017delatovice"
+    ],
+    "name:vie_x_preferred":[
+        "\u017delatovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061611,
+    "qs_pg:gn_pop":550,
+    "qs_pg:name":"\u017delatovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":401561,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801979,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061611,
+        "gp:id":801979,
+        "qs_pg:id":401561,
+        "wd:id":"Q202986"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296184,
+    "wof:geomhash":"c11a7263c3ebc96e0ca8b00a393c4a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125912477,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125912477,
+    "wof:lastmodified":1513946087,
+    "wof:name":"\u017delatovice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":550,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5062,
+    49.44404,
+    17.5062,
+    49.44404
+],
+  "geometry": {"coordinates":[17.5062,49.44404],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226073775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36217,49.75284,14.36217,49.75284",
+    "geom:latitude":49.75284,
+    "geom:longitude":14.36217,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Sejcka Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066251,
+    "gn:latitude":49.75284,
+    "gn:longitude":14.36217,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Sejck\u00e1 Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lhota Chotilsko",
+        "Sejck\u00e1 Lhota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066251
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6294247acc9da6aca6f73c2e9b95e8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226073775,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226073775,
+    "wof:lastmodified":1537619305,
+    "wof:name":"Sejcka Lhota",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36217,
+    49.75284,
+    14.36217,
+    49.75284
+],
+  "geometry": {"coordinates":[14.36217,49.75284],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293917699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06642,50.2592,16.06642,50.2592",
+    "geom:latitude":50.2592,
+    "geom:longitude":16.06642,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Mokre",
+    "gn:country_code":"CZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070384,
+    "gn:latitude":50.2592,
+    "gn:longitude":16.06642,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Mokr\u00e9",
+    "gn:population":154,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070384,
+        "wk:page":"Mokr%C3%A9"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cf27d263c15cba226182b62af45f64a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293917699,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293917699,
+    "wof:lastmodified":1537504040,
+    "wof:name":"Mokre",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":154,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06642,
+    50.2592,
+    16.06642,
+    50.2592
+],
+  "geometry": {"coordinates":[16.06642,50.2592],"type":"Point"}
+}

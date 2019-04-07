@@ -1,0 +1,70 @@
+{
+  "id": 101841063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:bbox":"16.2355699155,50.5284478915,16.2459773952,50.5455196269",
+    "geom:latitude":50.536437,
+    "geom:longitude":16.239467,
+    "iso:country":"CZ",
+    "lbl:latitude":50.535231,
+    "lbl:longitude":16.239388,
+    "mps:latitude":50.535231,
+    "mps:longitude":16.239388,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Kr\u00e1lov\u00e9hradeck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Police nad Metuj\u00ed",
+    "qs:la_lc":"*CZ0523574341",
+    "qs:level":"locality",
+    "qs:loc":"Velk\u00e1 Ledhuje",
+    "qs:loc_alt":"Velka Ledhuje",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063251,
+        "gp:id":800511,
+        "qs:id":1116587
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"59bc0618d9ddfd1feb485dc4a077a830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101841063,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":101841063,
+    "wof:lastmodified":1466626181,
+    "wof:name":"Velk\u00e1 Ledhuje",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23556991553261,
+    50.52844789145507,
+    16.24597739519328,
+    50.54551962690687
+],
+  "geometry": {"coordinates":[[[16.23556991553261,50.52848385178442],[16.23735329104619,50.54551962690687],[16.2398984079199,50.54538124026942],[16.23977935099629,50.54448599014387],[16.23837289597429,50.54456248978209],[16.23789683069663,50.5409814787314],[16.23930317971519,50.54090498578626],[16.23918415099604,50.54000973373297],[16.24059046932217,50.53993322526446],[16.24035237581211,50.53814272334739],[16.24597739519328,50.53783653090301],[16.2457391123051,50.53604604083534],[16.24433291673921,50.5361226113904],[16.24421381025223,50.5352273641027],[16.24280763697948,50.53530391578897],[16.24245043083715,50.53261816658619],[16.24104433283304,50.53269469605675],[16.24092530188602,50.53179944387665],[16.23811314626954,50.53195244789163],[16.23799417393087,50.53105719197953],[16.23658811631992,50.53113366652479],[16.23623131256716,50.52844789145507],[16.23556991553261,50.52848385178442]]],"type":"Polygon"}
+}

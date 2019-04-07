@@ -1,0 +1,70 @@
+{
+  "id": 1259417875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76326,50.25528,14.76326,50.25528",
+    "geom:latitude":50.25528,
+    "geom:longitude":14.76326,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Sobetuchy",
+    "gn:country_code":"CZ",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065634,
+    "gn:latitude":50.25528,
+    "gn:longitude":14.76326,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Sob\u011btuchy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sob\u011btuchy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065634,
+        "wk:page":"Sob%C4%9Btuchy_%28Tu%C5%99ice%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5ebdae4f3771b20bc650bc24b8cae47c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259417875,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1259417875,
+    "wof:lastmodified":1537619299,
+    "wof:name":"Sobetuchy",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76326,
+    50.25528,
+    14.76326,
+    50.25528
+],
+  "geometry": {"coordinates":[14.76326,50.25528],"type":"Point"}
+}

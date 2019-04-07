@@ -1,0 +1,63 @@
+{
+  "id": 1209137457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89722,49.24248,15.89722,49.24248",
+    "geom:latitude":49.24248,
+    "geom:longitude":15.89722,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0614",
+    "gn:asciiname":"Pocoucov",
+    "gn:country_code":"CZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068124,
+    "gn:latitude":49.24248,
+    "gn:longitude":15.89722,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Pocoucov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068124,
+        "wk:page":"Pocoucov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"290d7baa7792364ad6bf2b862931b597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209137457
+        }
+    ],
+    "wof:id":1209137457,
+    "wof:lastmodified":1537504032,
+    "wof:name":"Pocoucov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89722,
+    49.24248,
+    15.89722,
+    49.24248
+],
+  "geometry": {"coordinates":[15.89722,49.24248],"type":"Point"}
+}

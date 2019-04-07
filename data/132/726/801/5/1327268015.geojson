@@ -1,0 +1,70 @@
+{
+  "id": 1327268015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17508,50.56718,16.17508,50.56718",
+    "geom:latitude":50.56718,
+    "geom:longitude":16.17508,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Javor",
+    "gn:country_code":"CZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074427,
+    "gn:latitude":50.56718,
+    "gn:longitude":16.17508,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Javor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober Mohren",
+        "Javor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074427
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"266247f13e59ec30e007903603b8d68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327268015,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1327268015,
+    "wof:lastmodified":1537619401,
+    "wof:name":"Javor",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17508,
+    50.56718,
+    16.17508,
+    50.56718
+],
+  "geometry": {"coordinates":[16.17508,50.56718],"type":"Point"}
+}

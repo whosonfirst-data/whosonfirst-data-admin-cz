@@ -1,0 +1,65 @@
+{
+  "id": 1209040573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.34331,50.06326,12.34331,50.06326",
+    "geom:latitude":50.06326,
+    "geom:longitude":12.34331,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Dolni Pelhrimov",
+    "gn:country_code":"CZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076741,
+    "gn:latitude":50.06326,
+    "gn:longitude":12.34331,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Doln\u00ed Pelh\u0159imov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unter Pilmersreuth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076741
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"87b0aba58ff2e9e2241e14c130de3c2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209040573
+        }
+    ],
+    "wof:id":1209040573,
+    "wof:lastmodified":1537619432,
+    "wof:name":"Dolni Pelhrimov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.34331,
+    50.06326,
+    12.34331,
+    50.06326
+],
+  "geometry": {"coordinates":[12.34331,50.06326],"type":"Point"}
+}

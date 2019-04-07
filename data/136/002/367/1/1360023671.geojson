@@ -1,0 +1,70 @@
+{
+  "id": 1360023671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.34428,49.63036,17.34428,49.63036",
+    "geom:latitude":49.63036,
+    "geom:longitude":17.34428,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Svaty Kopecek",
+    "gn:country_code":"CZ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064554,
+    "gn:latitude":49.63036,
+    "gn:longitude":17.34428,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Svat\u00fd Kope\u010dek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heiligberg",
+        "Svat\u00fd Kope\u010dek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064554
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7c0cdf76497dc57bb6648f05d4443258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360023671,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1360023671,
+    "wof:lastmodified":1537619285,
+    "wof:name":"Svaty Kopecek",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34428,
+    49.63036,
+    17.34428,
+    49.63036
+],
+  "geometry": {"coordinates":[17.34428,49.63036],"type":"Point"}
+}

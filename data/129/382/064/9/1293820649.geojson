@@ -1,0 +1,66 @@
+{
+  "id": 1293820649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85223,49.50208,14.85223,49.50208",
+    "geom:latitude":49.50208,
+    "geom:longitude":14.85223,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Nahorany",
+    "gn:country_code":"CZ",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070092,
+    "gn:latitude":49.50208,
+    "gn:longitude":14.85223,
+    "gn:modification_date":"2014-05-13",
+    "gn:name":"Naho\u0159any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070092
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"119ee4215d94b8f733960d76f9e92cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293820649,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293820649,
+    "wof:lastmodified":1536803678,
+    "wof:name":"Nahorany",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85223,
+    49.50208,
+    14.85223,
+    49.50208
+],
+  "geometry": {"coordinates":[14.85223,49.50208],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193055241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57708,49.83738,14.57708,49.83738",
+    "geom:latitude":49.83738,
+    "geom:longitude":14.57708,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Podelusy",
+    "gn:country_code":"CZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068105,
+    "gn:latitude":49.83738,
+    "gn:longitude":14.57708,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Pod\u011blusy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podielus",
+        "Pod\u011blusy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068105
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"667bd06d02493bcd3071ef7b4a350a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193055241,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1193055241,
+    "wof:lastmodified":1537619325,
+    "wof:name":"Podelusy",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57708,
+    49.83738,
+    14.57708,
+    49.83738
+],
+  "geometry": {"coordinates":[14.57708,49.83738],"type":"Point"}
+}

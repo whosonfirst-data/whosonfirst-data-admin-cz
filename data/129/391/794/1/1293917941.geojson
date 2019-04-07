@@ -1,0 +1,66 @@
+{
+  "id": 1293917941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14696,50.36178,14.14696,50.36178",
+    "geom:latitude":50.36178,
+    "geom:longitude":14.14696,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Charvatce",
+    "gn:country_code":"CZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077841,
+    "gn:latitude":50.36178,
+    "gn:longitude":14.14696,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Charvatce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077841
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6d22b77a76fafc9058979495ad3a2139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293917941,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1293917941,
+    "wof:lastmodified":1536663728,
+    "wof:name":"Charvatce",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14696,
+    50.36178,
+    14.14696,
+    50.36178
+],
+  "geometry": {"coordinates":[14.14696,50.36178],"type":"Point"}
+}

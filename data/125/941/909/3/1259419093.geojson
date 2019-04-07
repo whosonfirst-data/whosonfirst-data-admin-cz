@@ -1,0 +1,66 @@
+{
+  "id": 1259419093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67266,49.56077,13.67266,49.56077",
+    "geom:latitude":49.56077,
+    "geom:longitude":13.67266,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0324",
+    "gn:asciiname":"Zelezny Ujezd",
+    "gn:country_code":"CZ",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061561,
+    "gn:latitude":49.56077,
+    "gn:longitude":13.67266,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"\u017delezn\u00fd \u00dajezd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061561
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4fb5b5d9a97046c9ac3b962c2bab0f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259419093,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1259419093,
+    "wof:lastmodified":1536951420,
+    "wof:name":"Zelezny Ujezd",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67266,
+    49.56077,
+    13.67266,
+    49.56077
+],
+  "geometry": {"coordinates":[13.67266,49.56077],"type":"Point"}
+}

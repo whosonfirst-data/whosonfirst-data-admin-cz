@@ -1,0 +1,66 @@
+{
+  "id": 1309746553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12848,48.95166,14.12848,48.95166",
+    "geom:latitude":48.95166,
+    "geom:longitude":14.12848,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Prislop",
+    "gn:country_code":"CZ",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067488,
+    "gn:latitude":48.95166,
+    "gn:longitude":14.12848,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"P\u0159\u00edslop",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067488
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e891461bf2bfd71669ce889f609e5e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309746553,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1309746553,
+    "wof:lastmodified":1537015875,
+    "wof:name":"Prislop",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12848,
+    48.95166,
+    14.12848,
+    48.95166
+],
+  "geometry": {"coordinates":[14.12848,48.95166],"type":"Point"}
+}

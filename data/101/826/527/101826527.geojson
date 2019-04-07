@@ -1,0 +1,120 @@
+{
+  "id": 101826527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":757540.446862,
+    "geom:bbox":"16.3353372163,49.6249673065,16.3575312197,49.6335687459",
+    "geom:latitude":49.629689,
+    "geom:longitude":16.345705,
+    "gn:population":1681,
+    "iso:country":"CZ",
+    "lbl:latitude":49.629158,
+    "lbl:longitude":16.345537,
+    "mps:latitude":49.629158,
+    "mps:longitude":16.345537,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bystr\u00e9"
+    ],
+    "name:ces_x_preferred":[
+        "Bystr\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Bystr\u00e9 u Poli\u010dky"
+    ],
+    "name:epo_x_preferred":[
+        "Bystr\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Bystr\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Bystr\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Bystr\u00e9"
+    ],
+    "name:lav_x_preferred":[
+        "Bistre"
+    ],
+    "name:msa_x_preferred":[
+        "Bystr\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Bystr\u00e9"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Bistrau"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u65af\u7279\u96f7"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Pardubick\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Bystr\u00e9",
+    "qs:la_lc":"*CZ0533577928",
+    "qs:level":"locality",
+    "qs:loc":"Bystr\u00e9",
+    "qs:loc_alt":"Bystre",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078306,
+        "gp:id":787133,
+        "qs:id":279635,
+        "qs_pg:id":279635,
+        "wd:id":"Q637024",
+        "wk:page":"Bystr\u00e9 (Svitavy District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"116d37893e51ecbd0ddbd72a86383ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826527,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":101826527,
+    "wof:lastmodified":1507750720,
+    "wof:name":"Bystr\u00e9",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":1681,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33533721625383,
+    49.62496730646967,
+    16.35753121966673,
+    49.6335687458585
+],
+  "geometry": {"coordinates":[[[16.34385112256786,49.63325863714488],[16.34373350296153,49.63236323701801],[16.35063241189437,49.63197523085643],[16.35051467146985,49.63107983854536],[16.35603362476991,49.63076913741907],[16.35615146621018,49.63166452311742],[16.35753121966673,49.63158680412653],[16.35729549174863,49.6297960355945],[16.35591578879746,49.62987375127761],[16.35579795829227,49.62897836469267],[16.35303859074594,49.62913374228646],[16.35280304713586,49.62734296117446],[16.35004376440133,49.6274982648718],[16.34992605128969,49.62660287034635],[16.34716680287363,49.62675810345627],[16.34693149402392,49.62496730646967],[16.34417233042745,49.62512246569275],[16.34428993162805,49.62601786770927],[16.34291031852041,49.62609542374094],[16.34302789992881,49.62699082696554],[16.33888896062001,49.62722339908498],[16.33924151031471,49.62990962095142],[16.33786178004459,49.62998711629632],[16.33809678992975,49.63177793196149],[16.33533721625383,49.63193287877976],[16.33545467886131,49.63282828924713],[16.33821430305198,49.63267333913109],[16.33833182162715,49.6335687458585],[16.34385112256786,49.63325863714488]]],"type":"Polygon"}
+}

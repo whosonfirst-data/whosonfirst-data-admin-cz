@@ -1,0 +1,66 @@
+{
+  "id": 1310247151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31565,49.55261,17.31565,49.55261",
+    "geom:latitude":49.55261,
+    "geom:longitude":17.31565,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Vsisko",
+    "gn:country_code":"CZ",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062334,
+    "gn:latitude":49.55261,
+    "gn:longitude":17.31565,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Vsisko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062334
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5049916445fb9d798a9dc918cf7524c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310247151,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1310247151,
+    "wof:lastmodified":1536792444,
+    "wof:name":"Vsisko",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31565,
+    49.55261,
+    17.31565,
+    49.55261
+],
+  "geometry": {"coordinates":[17.31565,49.55261],"type":"Point"}
+}

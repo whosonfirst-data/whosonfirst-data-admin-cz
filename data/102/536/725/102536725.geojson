@@ -1,0 +1,65 @@
+{
+  "id": 102536725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4263861,49.9786083,16.4263861,49.9786083",
+    "geom:latitude":49.978608,
+    "geom:longitude":16.426386,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1342",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582603,
+        "localadmin_id":12609140,
+        "planet_id":1,
+        "state_id":20070465
+    },
+    "wof:belongsto":[
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512576,
+        "icao:code":"LKUO",
+        "oa:id":"30512",
+        "wd:id":"Q25471818"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"33b01f8a5e67d7d598236f54ea49cef2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536725,
+            "country_id":85633105,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":102536725,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Usti Nad Orlici Airport",
+    "wof:parent_id":85682443,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.4263861,
+    49.9786083,
+    16.4263861,
+    49.9786083
+],
+  "geometry": {"coordinates":[16.4263861,49.9786083],"type":"Point"}
+}

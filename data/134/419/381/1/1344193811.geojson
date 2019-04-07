@@ -1,0 +1,70 @@
+{
+  "id": 1344193811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39629,50.07867,17.39629,50.07867",
+    "geom:latitude":50.07867,
+    "geom:longitude":17.39629,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Pusty Zejf",
+    "gn:country_code":"CZ",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067304,
+    "gn:latitude":50.07867,
+    "gn:longitude":17.39629,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Pust\u00fd Zejf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lauterseifen",
+        "Pust\u00fd Zejf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067304
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f86d8fe3ba735e72fc907a43224c842e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344193811,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1344193811,
+    "wof:lastmodified":1537619317,
+    "wof:name":"Pusty Zejf",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39629,
+    50.07867,
+    17.39629,
+    50.07867
+],
+  "geometry": {"coordinates":[17.39629,50.07867],"type":"Point"}
+}

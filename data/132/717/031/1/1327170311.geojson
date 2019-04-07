@@ -1,0 +1,70 @@
+{
+  "id": 1327170311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.19554,50.19507,13.19554,50.19507",
+    "geom:latitude":50.19507,
+    "geom:longitude":13.19554,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Jesen",
+    "gn:country_code":"CZ",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074291,
+    "gn:latitude":50.19507,
+    "gn:longitude":13.19554,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Jese\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00e4ssing",
+        "Jese\u0148"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074291
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f19b1ea25a6045c184a0fab753c24eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327170311,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1327170311,
+    "wof:lastmodified":1537619399,
+    "wof:name":"Jesen",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.19554,
+    50.19507,
+    13.19554,
+    50.19507
+],
+  "geometry": {"coordinates":[13.19554,50.19507],"type":"Point"}
+}

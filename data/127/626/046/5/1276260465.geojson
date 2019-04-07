@@ -1,0 +1,66 @@
+{
+  "id": 1276260465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30961,49.28197,14.30961,49.28197",
+    "geom:latitude":49.28197,
+    "geom:longitude":14.30961,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Udraz",
+    "gn:country_code":"CZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063753,
+    "gn:latitude":49.28197,
+    "gn:longitude":14.30961,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"\u00dadra\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063753
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e797f845238c0bcae6c8f59f505f7067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276260465,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276260465,
+    "wof:lastmodified":1536875386,
+    "wof:name":"Udraz",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30961,
+    49.28197,
+    14.30961,
+    49.28197
+],
+  "geometry": {"coordinates":[14.30961,49.28197],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1125910847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57589,49.33443,16.57589,49.33443",
+    "geom:latitude":49.33443,
+    "geom:longitude":16.57589,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":264,
+    "gn:population":264,
+    "iso:country":"CZ",
+    "lbl:latitude":49.33443,
+    "lbl:longitude":16.57589,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:dut_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:eng_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:fre_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:ger_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:hun_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:ita_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:may_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0648\u06cc\u0646\u0648\u0634\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:slo_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0438\u043d\u043e\u0448\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "name:vie_x_preferred":[
+        "Svino\u0161ice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064466,
+    "qs_pg:gn_pop":264,
+    "qs_pg:name":"Svino\u0161ice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":400817,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799441,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064466,
+        "gp:id":799441,
+        "qs_pg:id":400817,
+        "wd:id":"Q2011355"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296133,
+    "wof:geomhash":"ca8ca5fea903628910af7eee360c56fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125910847,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125910847,
+    "wof:lastmodified":1513945771,
+    "wof:name":"Svino\u0161ice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57589,
+    49.33443,
+    16.57589,
+    49.33443
+],
+  "geometry": {"coordinates":[16.57589,49.33443],"type":"Point"}
+}

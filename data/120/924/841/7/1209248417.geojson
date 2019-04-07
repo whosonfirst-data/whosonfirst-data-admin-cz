@@ -1,0 +1,66 @@
+{
+  "id": 1209248417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.75,49.96667,12.75,49.96667",
+    "geom:latitude":49.96667,
+    "geom:longitude":12.75,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Zadub",
+    "gn:country_code":"CZ",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062057,
+    "gn:latitude":49.96667,
+    "gn:longitude":12.75,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Z\u00e1dub",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hohendorf",
+        "Z\u00e1dub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062057
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c34d87e3c4c622700b49a1142a88924d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209248417
+        }
+    ],
+    "wof:id":1209248417,
+    "wof:lastmodified":1537619260,
+    "wof:name":"Zadub",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.75,
+    49.96667,
+    12.75,
+    49.96667
+],
+  "geometry": {"coordinates":[12.75,49.96667],"type":"Point"}
+}

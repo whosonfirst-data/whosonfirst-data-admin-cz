@@ -1,0 +1,96 @@
+{
+  "id": 85900675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4727542.061052,
+    "geom:bbox":"16.553509,49.207569,16.553509,49.207569",
+    "geom:latitude":49.207569,
+    "geom:longitude":16.553509,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":49.207569,
+    "lbl:longitude":16.553509,
+    "mps:latitude":49.206529,
+    "mps:longitude":16.534201,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:cze_x_preferred":[
+        "Brno-Jundrov"
+    ],
+    "name:cze_x_variant":[
+        "Jundrov"
+    ],
+    "name:eng_x_preferred":[
+        "Jundrov"
+    ],
+    "name:fre_x_preferred":[
+        "Jundrov"
+    ],
+    "name:pol_x_preferred":[
+        "Jundrov"
+    ],
+    "name:slo_x_preferred":[
+        "Jundrov"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748109,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":790936,
+        "qs:id":996436,
+        "qs_pg:id":996436,
+        "wd:id":"Q12027201"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4dea6219c8710914270399a7e0e448ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748109,
+            "neighbourhood_id":85900675,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85900675,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932365,
+    "wof:name":"Brno-Jundrov",
+    "wof:parent_id":101748109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.553509,
+    49.207569,
+    16.553509,
+    49.207569
+],
+  "geometry": {"coordinates":[16.553509,49.207569],"type":"Point"}
+}

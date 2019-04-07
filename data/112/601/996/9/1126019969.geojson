@@ -1,0 +1,144 @@
+{
+  "id": 1126019969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.22805,50.25736,17.22805,50.25736",
+    "geom:latitude":50.25736,
+    "geom:longitude":17.22805,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2554,
+    "gn:population":2554,
+    "iso:country":"CZ",
+    "lbl:latitude":50.25736,
+    "lbl:longitude":17.22805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:hun_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:may_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:nan_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0634\u0633\u06a9\u0627 \u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:por_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:rup_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0448\u043a\u0430 \u0412\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "name:unk_x_variant":[
+        "B\u00f6hmischdorf"
+    ],
+    "name:vie_x_preferred":[
+        "\u010cesk\u00e1 Ves"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077918,
+    "qs_pg:gn_pop":2554,
+    "qs_pg:name":"Cesk\u00e1 Ves",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":310231,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":24928985,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077918,
+        "gp:id":24928985,
+        "qs_pg:id":310231,
+        "wd:id":"Q341077"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497300773,
+    "wof:geomhash":"8d06a0b192795e61831ae46ed245ca5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126019969,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1126019969,
+    "wof:lastmodified":1553816705,
+    "wof:name":"Cesk\u00e1 Ves",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":2554,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.22805,
+    50.25736,
+    17.22805,
+    50.25736
+],
+  "geometry": {"coordinates":[17.22805,50.25736],"type":"Point"}
+}

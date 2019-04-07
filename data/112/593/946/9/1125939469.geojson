@@ -1,0 +1,132 @@
+{
+  "id": 1125939469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48062,49.92415,14.48062,49.92415",
+    "geom:latitude":49.92415,
+    "geom:longitude":14.48062,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":753,
+    "gn:population":753,
+    "iso:country":"CZ",
+    "lbl:latitude":49.92415,
+    "lbl:longitude":14.48062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:dut_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:eng_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:fre_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:hun_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:ita_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:may_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:pol_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:por_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0431\u0435\u0440\u0436"
+    ],
+    "name:slo_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0431\u0435\u0440\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Libe\u0159"
+    ],
+    "name:unk_x_variant":[
+        "Libersch"
+    ],
+    "name:vie_x_preferred":[
+        "Libe\u0159"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071962,
+    "qs_pg:gn_pop":753,
+    "qs_pg:name":"Libe\u0159",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399092,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792767,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071962,
+        "gp:id":792767,
+        "qs_pg:id":399092,
+        "wd:id":"Q1863455"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297070,
+    "wof:geomhash":"53047ae0fb2f1b733d2cfb0777655ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125939469,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125939469,
+    "wof:lastmodified":1513945289,
+    "wof:name":"Libe\u0159",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":753,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48062,
+    49.92415,
+    14.48062,
+    49.92415
+],
+  "geometry": {"coordinates":[14.48062,49.92415],"type":"Point"}
+}

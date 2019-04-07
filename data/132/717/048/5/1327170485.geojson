@@ -1,0 +1,66 @@
+{
+  "id": 1327170485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17619,50.28398,15.17619,50.28398",
+    "geom:latitude":50.28398,
+    "geom:longitude":15.17619,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Ledecky",
+    "gn:country_code":"CZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072236,
+    "gn:latitude":50.28398,
+    "gn:longitude":15.17619,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Lede\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072236
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fe760c9ad5874cca2c8ee0c46c368caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327170485,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1327170485,
+    "wof:lastmodified":1537056489,
+    "wof:name":"Ledecky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17619,
+    50.28398,
+    15.17619,
+    50.28398
+],
+  "geometry": {"coordinates":[15.17619,50.28398],"type":"Point"}
+}

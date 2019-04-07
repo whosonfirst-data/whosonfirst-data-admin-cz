@@ -1,0 +1,70 @@
+{
+  "id": 1343399199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.59203,49.7225,17.59203,49.7225",
+    "geom:latitude":49.7225,
+    "geom:longitude":17.59203,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Vojnovice",
+    "gn:country_code":"CZ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062617,
+    "gn:latitude":49.7225,
+    "gn:longitude":17.59203,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Vojnovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kriegsdorf",
+        "Vojnovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062617
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"edc95510a652166cd2425d918ca75346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343399199,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1343399199,
+    "wof:lastmodified":1537619266,
+    "wof:name":"Vojnovice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.59203,
+    49.7225,
+    17.59203,
+    49.7225
+],
+  "geometry": {"coordinates":[17.59203,49.7225],"type":"Point"}
+}

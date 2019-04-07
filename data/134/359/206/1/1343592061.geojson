@@ -1,0 +1,70 @@
+{
+  "id": 1343592061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.84992,50.34817,12.84992,50.34817",
+    "geom:latitude":50.34817,
+    "geom:longitude":12.84992,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Plesivec",
+    "gn:country_code":"CZ",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068194,
+    "gn:latitude":50.34817,
+    "gn:longitude":12.84992,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Ple\u0161ivec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaff",
+        "Ple\u0161ivec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068194
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8df04d647547277b36f8941bdd3d2059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343592061,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1343592061,
+    "wof:lastmodified":1537619326,
+    "wof:name":"Plesivec",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.84992,
+    50.34817,
+    12.84992,
+    50.34817
+],
+  "geometry": {"coordinates":[12.84992,50.34817],"type":"Point"}
+}

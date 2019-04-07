@@ -1,0 +1,66 @@
+{
+  "id": 1259719493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64838,50.48933,14.64838,50.48933",
+    "geom:latitude":50.48933,
+    "geom:longitude":14.64838,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Vojetin",
+    "gn:country_code":"CZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062631,
+    "gn:latitude":50.48933,
+    "gn:longitude":14.64838,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Vojet\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062631
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5cdcf3a230c3c0ce39afa98b6168bb49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259719493,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1259719493,
+    "wof:lastmodified":1537014446,
+    "wof:name":"Vojetin",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64838,
+    50.48933,
+    14.64838,
+    50.48933
+],
+  "geometry": {"coordinates":[14.64838,50.48933],"type":"Point"}
+}

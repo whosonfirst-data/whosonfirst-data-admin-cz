@@ -1,0 +1,129 @@
+{
+  "id": 1125928831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53072,49.62997,13.53072,49.62997",
+    "geom:latitude":49.62997,
+    "geom:longitude":13.53072,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":368,
+    "gn:population":368,
+    "iso:country":"CZ",
+    "lbl:latitude":49.62997,
+    "lbl:longitude":13.53072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:dut_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:eng_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:fre_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:hun_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:ita_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:may_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:per_x_preferred":[
+        "\u0698\u0627\u06a9\u0627\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:por_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:slo_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u043a\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "name:vie_x_preferred":[
+        "\u017d\u00e1kava"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061964,
+    "qs_pg:gn_pop":368,
+    "qs_pg:name":"\u017d\u00e1kava",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1268895,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801648,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061964,
+        "gp:id":801648,
+        "qs_pg:id":1268895,
+        "wd:id":"Q2699250"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296735,
+    "wof:geomhash":"6ae3904261c42240bd3e53555896d70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125928831,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125928831,
+    "wof:lastmodified":1513946101,
+    "wof:name":"\u017d\u00e1kava",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":368,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53072,
+    49.62997,
+    13.53072,
+    49.62997
+],
+  "geometry": {"coordinates":[13.53072,49.62997],"type":"Point"}
+}

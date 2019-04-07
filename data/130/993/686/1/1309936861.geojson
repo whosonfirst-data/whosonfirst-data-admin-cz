@@ -1,0 +1,66 @@
+{
+  "id": 1309936861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04171,49.53925,14.04171,49.53925",
+    "geom:latitude":49.53925,
+    "geom:longitude":14.04171,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Bojesice",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079087,
+    "gn:latitude":49.53925,
+    "gn:longitude":14.04171,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Boje\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079087
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9521523c4aedc4b86db146c3f62e7f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309936861,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1309936861,
+    "wof:lastmodified":1536742100,
+    "wof:name":"Bojesice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04171,
+    49.53925,
+    14.04171,
+    49.53925
+],
+  "geometry": {"coordinates":[14.04171,49.53925],"type":"Point"}
+}

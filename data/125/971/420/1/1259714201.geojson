@@ -1,0 +1,66 @@
+{
+  "id": 1259714201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7211,49.88925,15.7211,49.88925",
+    "geom:latitude":49.88925,
+    "geom:longitude":15.7211,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Zbyhnevice",
+    "gn:country_code":"CZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061742,
+    "gn:latitude":49.88925,
+    "gn:longitude":15.7211,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Zbyhn\u011bvice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061742
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"150e3ce0f4eee258a3758508df9622cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259714201,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1259714201,
+    "wof:lastmodified":1537021962,
+    "wof:name":"Zbyhnevice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7211,
+    49.88925,
+    15.7211,
+    49.88925
+],
+  "geometry": {"coordinates":[15.7211,49.88925],"type":"Point"}
+}

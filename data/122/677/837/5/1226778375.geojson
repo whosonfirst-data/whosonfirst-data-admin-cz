@@ -1,0 +1,70 @@
+{
+  "id": 1226778375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3387,48.74951,14.3387,48.74951",
+    "geom:latitude":48.74951,
+    "geom:longitude":14.3387,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Dubova",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076324,
+    "gn:latitude":48.74951,
+    "gn:longitude":14.3387,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Dubov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stubau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076324
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"85b7392ffbee08dc4b368d622a5a9cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226778375,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1226778375,
+    "wof:lastmodified":1537619426,
+    "wof:name":"Dubova",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3387,
+    48.74951,
+    14.3387,
+    48.74951
+],
+  "geometry": {"coordinates":[14.3387,48.74951],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276160415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95569,49.43381,13.95569,49.43381",
+    "geom:latitude":49.43381,
+    "geom:longitude":13.95569,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Vaclavov",
+    "gn:country_code":"CZ",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063476,
+    "gn:latitude":49.43381,
+    "gn:longitude":13.95569,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"V\u00e1clavov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063476
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e83e8f5e99a69c617ada6d8867cf4db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276160415,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276160415,
+    "wof:lastmodified":1537009757,
+    "wof:name":"Vaclavov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95569,
+    49.43381,
+    13.95569,
+    49.43381
+],
+  "geometry": {"coordinates":[13.95569,49.43381],"type":"Point"}
+}

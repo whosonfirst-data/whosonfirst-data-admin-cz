@@ -1,0 +1,66 @@
+{
+  "id": 1209952729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74408,49.54473,15.74408,49.54473",
+    "geom:latitude":49.54473,
+    "geom:longitude":15.74408,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Ceska Jablonna",
+    "gn:country_code":"CZ",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077933,
+    "gn:latitude":49.54473,
+    "gn:longitude":15.74408,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"\u010cesk\u00e1 Jablonn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077933
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1dea1dff9273565f6c76111df2321a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209952729,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1209952729,
+    "wof:lastmodified":1536381826,
+    "wof:name":"Ceska Jablonna",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74408,
+    49.54473,
+    15.74408,
+    49.54473
+],
+  "geometry": {"coordinates":[15.74408,49.54473],"type":"Point"}
+}

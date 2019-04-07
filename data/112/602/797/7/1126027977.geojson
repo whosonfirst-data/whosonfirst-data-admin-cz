@@ -1,0 +1,140 @@
+{
+  "id": 1126027977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54022,49.84976,16.54022,49.84976",
+    "geom:latitude":49.84976,
+    "geom:longitude":16.54022,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":188,
+    "gn:population":188,
+    "iso:country":"CZ",
+    "lbl:latitude":49.84976,
+    "lbl:longitude":16.54022,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:dut_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:eng_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:epo_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:fre_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:ger_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:hun_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:ita_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:may_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:nan_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:por_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:rup_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:slo_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0435\u043d\u0441\u043a\u0430 \u0421\u0442\u0443\u0434\u0430\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "name:unk_x_variant":[
+        "Kralovec"
+    ],
+    "name:vie_x_preferred":[
+        "Anensk\u00e1 Stud\u00e1nka"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079789,
+    "qs_pg:gn_pop":188,
+    "qs_pg:name":"Anensk\u00e1 Stud\u00e1nka",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":958569,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":785845,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079789,
+        "gp:id":785845,
+        "qs_pg:id":958569,
+        "wd:id":"Q529279"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497301259,
+    "wof:geomhash":"32e1041b3ed0a3d1d97effd4f6d243da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126027977,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1126027977,
+    "wof:lastmodified":1513944771,
+    "wof:name":"Anensk\u00e1 Stud\u00e1nka",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54022,
+    49.84976,
+    16.54022,
+    49.84976
+],
+  "geometry": {"coordinates":[16.54022,49.84976],"type":"Point"}
+}

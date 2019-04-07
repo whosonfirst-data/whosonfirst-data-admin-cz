@@ -1,0 +1,66 @@
+{
+  "id": 1209751665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90811,49.40443,14.90811,49.40443",
+    "geom:latitude":49.40443,
+    "geom:longitude":14.90811,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Udoli",
+    "gn:country_code":"CZ",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063760,
+    "gn:latitude":49.40443,
+    "gn:longitude":14.90811,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"\u00dadol\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063760
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3b1749f913f3c1d995a65b067f72704c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209751665,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1209751665,
+    "wof:lastmodified":1536392477,
+    "wof:name":"Udoli",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90811,
+    49.40443,
+    14.90811,
+    49.40443
+],
+  "geometry": {"coordinates":[14.90811,49.40443],"type":"Point"}
+}

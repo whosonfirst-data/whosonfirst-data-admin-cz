@@ -1,0 +1,137 @@
+{
+  "id": 1125792983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11945,50.63192,14.11945,50.63192",
+    "geom:latitude":50.63192,
+    "geom:longitude":14.11945,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":649,
+    "gn:population":649,
+    "iso:country":"CZ",
+    "lbl:latitude":50.63192,
+    "lbl:longitude":14.11945,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:dut_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:eng_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:fre_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:ger_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:hun_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:ita_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:may_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0644\u062a\u0634\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:por_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:slo_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0435\u0447\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Male\u010dov"
+    ],
+    "name:unk_x_variant":[
+        "Malschen"
+    ],
+    "name:vie_x_preferred":[
+        "Male\u010dov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071188,
+    "qs_pg:gn_pop":649,
+    "qs_pg:name":"Male\u010dov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":270541,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793476,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071188,
+        "gp:id":793476,
+        "qs_pg:id":270541,
+        "wd:id":"Q1887284"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290936,
+    "wof:geomhash":"f2a98d210d294070145a6caa0b5e4a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125792983,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125792983,
+    "wof:lastmodified":1513945339,
+    "wof:name":"Male\u010dov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":649,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11945,
+    50.63192,
+    14.11945,
+    50.63192
+],
+  "geometry": {"coordinates":[14.11945,50.63192],"type":"Point"}
+}

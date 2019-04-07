@@ -1,0 +1,66 @@
+{
+  "id": 1209243507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.32617,50.61309,14.32617,50.61309",
+    "geom:latitude":50.61309,
+    "geom:longitude":14.32617,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Drzovice",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076370,
+    "gn:latitude":50.61309,
+    "gn:longitude":14.32617,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Dr\u017eovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tirschowitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076370
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5e9187108a6ca33d1aabc3bab4eb913e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209243507
+        }
+    ],
+    "wof:id":1209243507,
+    "wof:lastmodified":1537619427,
+    "wof:name":"Drzovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.32617,
+    50.61309,
+    14.32617,
+    50.61309
+],
+  "geometry": {"coordinates":[14.32617,50.61309],"type":"Point"}
+}

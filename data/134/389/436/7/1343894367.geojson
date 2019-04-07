@@ -1,0 +1,70 @@
+{
+  "id": 1343894367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87201,48.91494,15.87201,48.91494",
+    "geom:latitude":48.91494,
+    "geom:longitude":15.87201,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0627",
+    "gn:asciiname":"Bazantnice",
+    "gn:country_code":"CZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079627,
+    "gn:latitude":48.91494,
+    "gn:longitude":15.87201,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Ba\u017eantnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dv\u016dr Ba\u017eantnice",
+        "Ba\u017eantnice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079627
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9c2112e4700e7db6956be4912f88f413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343894367,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1343894367,
+    "wof:lastmodified":1537619464,
+    "wof:name":"Bazantnice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87201,
+    48.91494,
+    15.87201,
+    48.91494
+],
+  "geometry": {"coordinates":[15.87201,48.91494],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1360316391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91687,49.49592,13.91687,49.49592",
+    "geom:latitude":49.49592,
+    "geom:longitude":13.91687,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Podruhli",
+    "gn:country_code":"CZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067990,
+    "gn:latitude":49.49592,
+    "gn:longitude":13.91687,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Podruhl\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067990
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bbb9ff104e16e8079986baa26bc54e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360316391,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1360316391,
+    "wof:lastmodified":1536609316,
+    "wof:name":"Podruhli",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91687,
+    49.49592,
+    13.91687,
+    49.49592
+],
+  "geometry": {"coordinates":[13.91687,49.49592],"type":"Point"}
+}

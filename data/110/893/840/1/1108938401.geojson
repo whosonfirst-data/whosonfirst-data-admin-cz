@@ -1,0 +1,99 @@
+{
+  "id": 1108938401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6721728633,50.0786785538,14.6721728633,50.0786785538",
+    "geom:latitude":50.078679,
+    "geom:longitude":14.672173,
+    "iso:country":"CZ",
+    "lbl:latitude":50.078679,
+    "lbl:longitude":14.672173,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:arm_x_preferred":[
+        "\u054a\u0580\u0561\u0570\u0561 21"
+    ],
+    "name:cze_x_preferred":[
+        "\u00dajezd nad Lesy"
+    ],
+    "name:dut_x_preferred":[
+        "Praag 21"
+    ],
+    "name:eng_x_preferred":[
+        "Prague 21"
+    ],
+    "name:fre_x_preferred":[
+        "\u00dajezd nad Lesy"
+    ],
+    "name:ger_x_preferred":[
+        "Prag 21"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u0627\u06af\u0647 \u06f2\u06f1"
+    ],
+    "name:pol_x_preferred":[
+        "Praga 21"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u0433\u0430 21"
+    ],
+    "name:slo_x_preferred":[
+        "\u00dajezd nad Lesy"
+    ],
+    "name:swe_x_preferred":[
+        "Praha 21"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063652,
+        "gp:id":800173,
+        "qs_pg:id":190695,
+        "wd:id":"Q2467285"
+    },
+    "wof:country":"CZ",
+    "wof:created":1491360355,
+    "wof:geomhash":"30036aa3c2728bce4b3a13e4d48689fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":1108938401,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":1108938401,
+    "wof:lastmodified":1513945833,
+    "wof:name":"Ujezd nad Lesy",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67217286328782,
+    50.07867855379379,
+    14.67217286328782,
+    50.07867855379379
+],
+  "geometry": {"coordinates":[14.67217286328782,50.07867855379379],"type":"Point"}
+}

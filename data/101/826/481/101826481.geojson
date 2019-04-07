@@ -1,0 +1,152 @@
+{
+  "id": 101826481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1236038.617635,
+    "geom:bbox":"13.5710219704,49.4800818685,13.5953841577,49.4940565251",
+    "geom:latitude":49.486717,
+    "geom:longitude":13.583965,
+    "gn:population":3670,
+    "iso:country":"CZ",
+    "lbl:latitude":49.485737,
+    "lbl:longitude":13.583965,
+    "mps:latitude":49.485737,
+    "mps:longitude":13.583965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041d\u0435\u043f\u0430\u043c\u0443\u043a"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0435\u043f\u0430\u043c\u0443\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:ces_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:deu_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:epo_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:fra_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:hun_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:ita_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\ud3ec\ubb34\ud06c"
+    ],
+    "name:lit_x_preferred":[
+        "Nepomukas"
+    ],
+    "name:msa_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:nld_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:nor_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:pol_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:por_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043f\u043e\u043c\u0443\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:spa_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u043f\u043e\u043c\u0443\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:vie_x_preferred":[
+        "Nepomuk"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u6ce2\u7a46\u514b"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Plzensk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la":"Kl\u00e1\u0161ter",
+    "qs:la_lc":"*CZ0324557897",
+    "qs:level":"locality",
+    "qs:loc":"Nepomuk",
+    "qs:loc_alt":"Nepomuk",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":170,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069862,
+        "gp:id":794639,
+        "qs:id":145345,
+        "qs_pg:id":145345,
+        "wd:id":"Q842929",
+        "wk:page":"Nepomuk"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5c4070af4b7954ffdae29d755b04ec2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826481,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":101826481,
+    "wof:lastmodified":1527642512,
+    "wof:name":"Nepomuk",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":3670,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57102197042957,
+    49.48008186853792,
+    13.59538415767952,
+    49.49405652506607
+],
+  "geometry": {"coordinates":[[[13.59538415767952,49.49392471151083],[13.5951849399645,49.49123052890207],[13.59380628269435,49.4912744807956],[13.59373990830858,49.49037641832319],[13.58960399890623,49.49050817014773],[13.58920627362488,49.48511977149087],[13.59058476023932,49.48507587665432],[13.59038586305155,49.48238167560487],[13.5890074524865,49.48242556764404],[13.58894118492066,49.48152749902545],[13.57929242476001,49.48183426527783],[13.57922633769584,49.48093618980801],[13.57784795965409,49.48097994527183],[13.57778190100117,49.48008186853792],[13.57640354603853,49.48012560623374],[13.57653561571425,49.48192176122524],[13.57102197042957,49.4820965510466],[13.57108790846434,49.48299463175346],[13.57246634853203,49.48295095862966],[13.57253231497521,49.4838490380746],[13.57391077812929,49.48380534718262],[13.57397677298405,49.48470342536496],[13.57535525922441,49.48465971670441],[13.57555333821654,49.48735394646002],[13.57693189825153,49.48731021817179],[13.57699795606374,49.48820829315952],[13.57837653918676,49.4881645471005],[13.57844262542,49.48906262082448],[13.58119983557367,49.48897507632091],[13.58126597558839,49.48987314785063],[13.5840232273751,49.48978553411689],[13.58422181798767,49.49247974111609],[13.58560051655223,49.49243590619142],[13.58566674492704,49.49333397359123],[13.59118161788496,49.49315846172971],[13.59124795078378,49.49405652506607],[13.59538415767952,49.49392471151083]]],"type":"Polygon"}
+}

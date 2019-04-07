@@ -1,0 +1,140 @@
+{
+  "id": 1125861119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89489,49.01859,15.89489,49.01859",
+    "geom:latitude":49.01859,
+    "geom:longitude":15.89489,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":452,
+    "gn:population":452,
+    "iso:country":"CZ",
+    "lbl:latitude":49.01859,
+    "lbl:longitude":15.89489,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0441\u0442\u0438\u043c"
+    ],
+    "name:cze_x_preferred":[
+        "Hostim"
+    ],
+    "name:dut_x_preferred":[
+        "Hostim"
+    ],
+    "name:eng_x_preferred":[
+        "Hostim"
+    ],
+    "name:fre_x_preferred":[
+        "Hostim"
+    ],
+    "name:ger_x_preferred":[
+        "Hostim"
+    ],
+    "name:hun_x_preferred":[
+        "Hostim"
+    ],
+    "name:ita_x_preferred":[
+        "Hostim"
+    ],
+    "name:may_x_preferred":[
+        "Hostim"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0648\u0633\u062a\u06cc\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Hostim"
+    ],
+    "name:por_x_preferred":[
+        "Hostim"
+    ],
+    "name:slo_x_preferred":[
+        "Hostim"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0441\u0442\u0438\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Hostim"
+    ],
+    "name:unk_x_variant":[
+        "H\u00f6sting"
+    ],
+    "name:vie_x_preferred":[
+        "Hostim"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075064,
+    "qs_pg:gn_pop":452,
+    "qs_pg:name":"Hostim",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":255226,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790045,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075064,
+        "gp:id":790045,
+        "qs_pg:id":255226,
+        "wd:id":"Q1630615"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293834,
+    "wof:geomhash":"986ee73708323db364081823204eff30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125861119,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125861119,
+    "wof:lastmodified":1513945046,
+    "wof:name":"Hostim",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":452,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89489,
+    49.01859,
+    15.89489,
+    49.01859
+],
+  "geometry": {"coordinates":[15.89489,49.01859],"type":"Point"}
+}

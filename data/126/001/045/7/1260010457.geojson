@@ -1,0 +1,70 @@
+{
+  "id": 1260010457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29773,50.56985,13.29773,50.56985",
+    "geom:latitude":50.56985,
+    "geom:longitude":13.29773,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Jindrichova Ves",
+    "gn:country_code":"CZ",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074158,
+    "gn:latitude":50.56985,
+    "gn:longitude":13.29773,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Jind\u0159ichova Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heinrichsdorf",
+        "Jind\u0159ichova Ves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074158
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"138e383ca67ba91b70b3abe10deb8eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260010457,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1260010457,
+    "wof:lastmodified":1537619398,
+    "wof:name":"Jindrichova Ves",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29773,
+    50.56985,
+    13.29773,
+    50.56985
+],
+  "geometry": {"coordinates":[13.29773,50.56985],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276690615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.51008,50.23382,12.51008,50.23382",
+    "geom:latitude":50.23382,
+    "geom:longitude":12.51008,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Bernov",
+    "gn:country_code":"CZ",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079470,
+    "gn:latitude":50.23382,
+    "gn:longitude":12.51008,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Bernov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hammelhof",
+        "Bernov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079470
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3b774f9271bb405bb2ea16c13075685c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276690615,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1276690615,
+    "wof:lastmodified":1537619461,
+    "wof:name":"Bernov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.51008,
+    50.23382,
+    12.51008,
+    50.23382
+],
+  "geometry": {"coordinates":[12.51008,50.23382],"type":"Point"}
+}

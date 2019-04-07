@@ -1,0 +1,66 @@
+{
+  "id": 1343390673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10983,49.08312,14.10983,49.08312",
+    "geom:latitude":49.08312,
+    "geom:longitude":14.10983,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Maly Bor",
+    "gn:country_code":"CZ",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071093,
+    "gn:latitude":49.08312,
+    "gn:longitude":14.10983,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Mal\u00fd Bor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071093
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e022096ef6675d5fe0d73823205a31f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343390673,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343390673,
+    "wof:lastmodified":1536845880,
+    "wof:name":"Maly Bor",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10983,
+    49.08312,
+    14.10983,
+    49.08312
+],
+  "geometry": {"coordinates":[14.10983,49.08312],"type":"Point"}
+}

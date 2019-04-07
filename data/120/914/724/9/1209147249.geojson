@@ -1,0 +1,63 @@
+{
+  "id": 1209147249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87071,50.02588,16.87071,50.02588",
+    "geom:latitude":50.02588,
+    "geom:longitude":16.87071,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Stedrakova Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065207,
+    "gn:latitude":50.02588,
+    "gn:longitude":16.87071,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"\u0160t\u011bdr\u00e1kova Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065207,
+        "wk:page":"%C5%A0t%C4%9Bdr%C3%A1kova_Lhota"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ddb69628a67cb31f30662585c916d5a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209147249
+        }
+    ],
+    "wof:id":1209147249,
+    "wof:lastmodified":1537504022,
+    "wof:name":"Stedrakova Lhota",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87071,
+    50.02588,
+    16.87071,
+    50.02588
+],
+  "geometry": {"coordinates":[16.87071,50.02588],"type":"Point"}
+}

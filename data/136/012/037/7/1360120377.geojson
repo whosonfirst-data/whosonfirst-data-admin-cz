@@ -1,0 +1,72 @@
+{
+  "id": 1360120377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1994,49.60119,18.1994,49.60119",
+    "geom:latitude":49.60119,
+    "geom:longitude":18.1994,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0804",
+    "gn:asciiname":"Mnisi",
+    "gn:country_code":"CZ",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070445,
+    "gn:latitude":49.60119,
+    "gn:longitude":18.1994,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Mni\u0161\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "M\u00f6nchsdorf"
+    ],
+    "name:und_x_variant":[
+        "Mni\u0161\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070445
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1cb200193966938c5dcf16e4b8b8996b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360120377,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1360120377,
+    "wof:lastmodified":1537619354,
+    "wof:name":"Mnisi",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1994,
+    49.60119,
+    18.1994,
+    49.60119
+],
+  "geometry": {"coordinates":[18.1994,49.60119],"type":"Point"}
+}

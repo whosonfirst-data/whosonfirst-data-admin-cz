@@ -1,0 +1,137 @@
+{
+  "id": 1125784379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31766,49.79294,13.31766,49.79294",
+    "geom:latitude":49.79294,
+    "geom:longitude":13.31766,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":767,
+    "gn:population":767,
+    "iso:country":"CZ",
+    "lbl:latitude":49.79294,
+    "lbl:longitude":13.31766,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:dut_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:eng_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:fre_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:ger_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:hun_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:ita_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:may_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0648\u062a\u06cc\u06a9\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:por_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:slo_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0442\u0438\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:unk_x_variant":[
+        "Kottiken"
+    ],
+    "name:vie_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077641,
+    "qs_pg:gn_pop":767,
+    "qs_pg:name":"Chot\u00edkov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1161248,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787707,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077641,
+        "gp:id":787707,
+        "qs_pg:id":1161248,
+        "wd:id":"Q2699257"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290615,
+    "wof:geomhash":"fdc1be6779d3a08b1cc9013215dec49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125784379,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125784379,
+    "wof:lastmodified":1513944878,
+    "wof:name":"Chot\u00edkov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":767,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31766,
+    49.79294,
+    13.31766,
+    49.79294
+],
+  "geometry": {"coordinates":[13.31766,49.79294],"type":"Point"}
+}

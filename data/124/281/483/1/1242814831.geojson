@@ -1,0 +1,70 @@
+{
+  "id": 1242814831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.99572,49.86667,12.99572,49.86667",
+    "geom:latitude":49.86667,
+    "geom:longitude":12.99572,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Okrouhle Hradiste",
+    "gn:country_code":"CZ",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069093,
+    "gn:latitude":49.86667,
+    "gn:longitude":12.99572,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Okrouhl\u00e9 Hradi\u0161t\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scheiben Radisch",
+        "Okrouhl\u00e9 Hradi\u0161t\u011b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069093
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b6c3e54e7f3f13663bc635ff9b337d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242814831,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1242814831,
+    "wof:lastmodified":1537619336,
+    "wof:name":"Okrouhle Hradiste",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.99572,
+    49.86667,
+    12.99572,
+    49.86667
+],
+  "geometry": {"coordinates":[12.99572,49.86667],"type":"Point"}
+}

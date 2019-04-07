@@ -1,0 +1,66 @@
+{
+  "id": 1243400431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87883,49.39407,16.87883,49.39407",
+    "geom:latitude":49.39407,
+    "geom:longitude":16.87883,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0626",
+    "gn:asciiname":"Odruvky",
+    "gn:country_code":"CZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069137,
+    "gn:latitude":49.39407,
+    "gn:longitude":16.87883,
+    "gn:modification_date":"2014-05-13",
+    "gn:name":"Odr\u016fvky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069137
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0954137c95a93912e864a53bca2ddc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243400431,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1243400431,
+    "wof:lastmodified":1536870783,
+    "wof:name":"Odruvky",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87882999999999,
+    49.39407,
+    16.87882999999999,
+    49.39407
+],
+  "geometry": {"coordinates":[16.87882999999999,49.39407],"type":"Point"}
+}

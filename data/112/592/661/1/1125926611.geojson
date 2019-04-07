@@ -1,0 +1,132 @@
+{
+  "id": 1125926611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9924,49.59548,13.9924,49.59548",
+    "geom:latitude":49.59548,
+    "geom:longitude":13.9924,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":571,
+    "gn:population":571,
+    "iso:country":"CZ",
+    "lbl:latitude":49.59548,
+    "lbl:longitude":13.9924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Tochovice"
+    ],
+    "name:dut_x_preferred":[
+        "Tochovice"
+    ],
+    "name:eng_x_preferred":[
+        "Tochovice"
+    ],
+    "name:fre_x_preferred":[
+        "Tochovice"
+    ],
+    "name:hun_x_preferred":[
+        "Tochovice"
+    ],
+    "name:ita_x_preferred":[
+        "Tochovice"
+    ],
+    "name:may_x_preferred":[
+        "Tochovice"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0648\u062e\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Tochovice"
+    ],
+    "name:por_x_preferred":[
+        "Tochovice"
+    ],
+    "name:slo_x_preferred":[
+        "Tochovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0445\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Tochovice"
+    ],
+    "name:unk_x_variant":[
+        "Tochowitz"
+    ],
+    "name:vie_x_preferred":[
+        "Tochovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064175,
+    "qs_pg:gn_pop":571,
+    "qs_pg:name":"Tochovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1268457,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799699,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064175,
+        "gp:id":799699,
+        "qs_pg:id":1268457,
+        "wd:id":"Q2698079"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296662,
+    "wof:geomhash":"a7d39eb3028ac1a2646b2d9ad7071520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125926611,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125926611,
+    "wof:lastmodified":1513945795,
+    "wof:name":"Tochovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":571,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9924,
+    49.59548,
+    13.9924,
+    49.59548
+],
+  "geometry": {"coordinates":[13.9924,49.59548],"type":"Point"}
+}

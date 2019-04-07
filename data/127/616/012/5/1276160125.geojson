@@ -1,0 +1,66 @@
+{
+  "id": 1276160125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75713,50.38151,15.75713,50.38151",
+    "geom:latitude":50.38151,
+    "geom:longitude":15.75713,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Mirejov",
+    "gn:country_code":"CZ",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070609,
+    "gn:latitude":50.38151,
+    "gn:longitude":15.75713,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Mi\u0159ejov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070609
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8d7cf4beefbab6e2fb4f474707c810c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276160125,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1276160125,
+    "wof:lastmodified":1537010183,
+    "wof:name":"Mirejov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75713,
+    50.38151,
+    15.75713,
+    50.38151
+],
+  "geometry": {"coordinates":[15.75713,50.38151],"type":"Point"}
+}

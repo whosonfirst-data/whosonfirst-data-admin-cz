@@ -1,0 +1,70 @@
+{
+  "id": 1276152419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0031,49.30824,18.0031,49.30824",
+    "geom:latitude":49.30824,
+    "geom:longitude":18.0031,
+    "gn:admin1_code":"90",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Usti",
+    "gn:country_code":"CZ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063555,
+    "gn:latitude":49.30824,
+    "gn:longitude":18.0031,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"\u00dast\u00ed",
+    "gn:population":588,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063555,
+        "wk:page":"%C3%9Ast%C3%AD_%28Vset%C3%ADn_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d9c62e4e83ee08e4f4e0586080f3a4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276152419,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1276152419,
+    "wof:lastmodified":1537504018,
+    "wof:name":"Usti",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":588,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0031,
+    49.30824000000001,
+    18.0031,
+    49.30824000000001
+],
+  "geometry": {"coordinates":[18.0031,49.30824000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1360218191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21721,49.26346,13.21721,49.26346",
+    "geom:latitude":49.26346,
+    "geom:longitude":13.21721,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Depoltice",
+    "gn:country_code":"CZ",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077208,
+    "gn:latitude":49.26346,
+    "gn:longitude":13.21721,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"D\u011bpoltice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077208
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5f114bc907e7970f913170ebc8ee2c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360218191,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1360218191,
+    "wof:lastmodified":1536753701,
+    "wof:name":"Depoltice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21721,
+    49.26346,
+    13.21721,
+    49.26346
+],
+  "geometry": {"coordinates":[13.21721,49.26346],"type":"Point"}
+}

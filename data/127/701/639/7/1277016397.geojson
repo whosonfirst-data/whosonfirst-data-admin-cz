@@ -1,0 +1,66 @@
+{
+  "id": 1277016397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23101,49.04129,14.23101,49.04129",
+    "geom:latitude":49.04129,
+    "geom:longitude":14.23101,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Hlodacky",
+    "gn:country_code":"CZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075761,
+    "gn:latitude":49.04129,
+    "gn:longitude":14.23101,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Hloda\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075761
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d13c240470f5d6c90752aa236b602568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277016397,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1277016397,
+    "wof:lastmodified":1536856921,
+    "wof:name":"Hlodacky",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23101,
+    49.04129,
+    14.23101,
+    49.04129
+],
+  "geometry": {"coordinates":[14.23101,49.04129],"type":"Point"}
+}

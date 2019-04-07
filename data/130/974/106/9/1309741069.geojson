@@ -1,0 +1,66 @@
+{
+  "id": 1309741069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46367,49.72832,18.46367,49.72832",
+    "geom:latitude":49.72832,
+    "geom:longitude":18.46367,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Horni Sobesovice",
+    "gn:country_code":"CZ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075201,
+    "gn:latitude":49.72832,
+    "gn:longitude":18.46367,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Horn\u00ed Sob\u011b\u0161ovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075201
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9465ad139033bb56c91f026f0715a864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309741069,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1309741069,
+    "wof:lastmodified":1537023475,
+    "wof:name":"Horni Sobesovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46367,
+    49.72832,
+    18.46367,
+    49.72832
+],
+  "geometry": {"coordinates":[18.46367,49.72832],"type":"Point"}
+}

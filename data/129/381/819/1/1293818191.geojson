@@ -1,0 +1,70 @@
+{
+  "id": 1293818191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45871,50.05841,13.45871,50.05841",
+    "geom:latitude":50.05841,
+    "geom:longitude":13.45871,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Zd'arek",
+    "gn:country_code":"CZ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061701,
+    "gn:latitude":50.05841,
+    "gn:longitude":13.45871,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"\u017d\u010f\u00e1rek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017d\u010f\u00e1r",
+        "\u017d\u010f\u00e1rek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061701
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1b912143478a5a7e08689b56abbf2ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293818191,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293818191,
+    "wof:lastmodified":1537619256,
+    "wof:name":"Zd'arek",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45871,
+    50.05841,
+    13.45871,
+    50.05841
+],
+  "geometry": {"coordinates":[13.45871,50.05841],"type":"Point"}
+}

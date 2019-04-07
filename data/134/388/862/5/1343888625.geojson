@@ -1,0 +1,71 @@
+{
+  "id": 1343888625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58544,48.94509,14.58544,48.94509",
+    "geom:latitude":48.94509,
+    "geom:longitude":14.58544,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Ohrazeni",
+    "gn:country_code":"CZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069123,
+    "gn:latitude":48.94509,
+    "gn:longitude":14.58544,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Ohrazen\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cesk\u00e9 Ohrazen\u00ed",
+        "N\u011bmeck\u00e9 Ohrazen\u00ed",
+        "Ohrazen\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069123
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9dbf7683d4d2f00dcbb9fae55b726684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343888625,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343888625,
+    "wof:lastmodified":1537619336,
+    "wof:name":"Ohrazeni",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58544,
+    48.94509,
+    14.58544,
+    48.94509
+],
+  "geometry": {"coordinates":[14.58544,48.94509],"type":"Point"}
+}

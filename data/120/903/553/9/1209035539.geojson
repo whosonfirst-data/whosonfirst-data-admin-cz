@@ -1,0 +1,66 @@
+{
+  "id": 1209035539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0425,49.37069,14.0425,49.37069",
+    "geom:latitude":49.37069,
+    "geom:longitude":14.0425,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Podoli Druhe",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067997,
+    "gn:latitude":49.37069,
+    "gn:longitude":14.0425,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Podol\u00ed Druh\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podol\u00ed II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067997
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"804274dbd008dfc74fd022a719abe690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209035539
+        }
+    ],
+    "wof:id":1209035539,
+    "wof:lastmodified":1537619324,
+    "wof:name":"Podoli Druhe",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0425,
+    49.37069,
+    14.0425,
+    49.37069
+],
+  "geometry": {"coordinates":[14.0425,49.37069],"type":"Point"}
+}

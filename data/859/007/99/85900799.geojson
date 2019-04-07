@@ -1,0 +1,117 @@
+{
+  "id": 85900799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10701255.743971,
+    "geom:bbox":"15.167417,50.729586,15.167417,50.729586",
+    "geom:latitude":50.729586,
+    "geom:longitude":15.167417,
+    "gn:latitude":50.74301,
+    "gn:longitude":15.16938,
+    "iso:country":"CZ",
+    "lbl:latitude":50.729586,
+    "lbl:longitude":15.167417,
+    "mps:latitude":50.731294,
+    "mps:longitude":15.157678,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "Mseno nad Nisou"
+    ],
+    "name:cze_x_preferred":[
+        "M\u0161eno nad Nisou"
+    ],
+    "name:cze_x_variant":[
+        "Grunwald",
+        "Grunwald an der Neisse"
+    ],
+    "name:unk_x_variant":[
+        "Gr\u00fcnwald an der Neisse",
+        "M\u0161eno nad Nisou"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3074603,
+    "qs:gn_nam_loc":"Jablonec nad Nisou, Libereck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"83",
+    "qs:gn_name":"M\u0161eno nad Nisou",
+    "qs:local_max":578,
+    "qs:local_sum":664,
+    "qs:localhoods":2,
+    "qs:name":"M\u0161eno nad Nisou",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Libereck\u00fd kraj",
+    "qs:name_adm2":"Jablonec nad Nisou",
+    "qs:name_lau":"Jablonec nad Nisou",
+    "qs:name_local":"Jablonec nad Nisou",
+    "qs:photo_max":107,
+    "qs:photo_sum":578,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":31,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070498,
+    "qs:woe_adm2":12582563,
+    "qs:woe_lau":12606845,
+    "qs:woe_local":790447,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101822991,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070222,
+        "gp:id":794319,
+        "qs:id":1116038,
+        "qs_pg:id":1116038
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5b7fb3933b590042930f735a9a3a86ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101822991,
+            "neighbourhood_id":85900799,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":85900799,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932384,
+    "wof:name":"M\u0161eno nad Nisou",
+    "wof:parent_id":101822991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.167417,
+    50.729586,
+    15.167417,
+    50.729586
+],
+  "geometry": {"coordinates":[15.167417,50.729586],"type":"Point"}
+}

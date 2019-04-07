@@ -1,0 +1,71 @@
+{
+  "id": 1343495067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02152,48.93191,14.02152,48.93191",
+    "geom:latitude":48.93191,
+    "geom:longitude":14.02152,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Koryto",
+    "gn:country_code":"CZ",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073211,
+    "gn:latitude":48.93191,
+    "gn:longitude":14.02152,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Koryto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ps\u00ed Koryto",
+        "Hundsnursch",
+        "Koryto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073211
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ce275642d713717c3f1bc3e72d32a49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343495067,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343495067,
+    "wof:lastmodified":1537619388,
+    "wof:name":"Koryto",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02152,
+    48.93191,
+    14.02152,
+    48.93191
+],
+  "geometry": {"coordinates":[14.02152,48.93191],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326866061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26061,49.31251,15.26061,49.31251",
+    "geom:latitude":49.31251,
+    "geom:longitude":15.26061,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Bela",
+    "gn:country_code":"CZ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079572,
+    "gn:latitude":49.31251,
+    "gn:longitude":15.26061,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"B\u011bl\u00e1",
+    "gn:population":49,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079572,
+        "wk:page":"B%C4%9Bl%C3%A1_%28Pelh%C5%99imov_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"43bad4039ad82eb3530b1307b2df8bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326866061,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1326866061,
+    "wof:lastmodified":1537504073,
+    "wof:name":"Bela",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26061,
+    49.31251,
+    15.26061,
+    49.31251
+],
+  "geometry": {"coordinates":[15.26061,49.31251],"type":"Point"}
+}

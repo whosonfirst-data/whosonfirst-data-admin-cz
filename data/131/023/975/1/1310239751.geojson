@@ -1,0 +1,70 @@
+{
+  "id": 1310239751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67555,50.21856,15.67555,50.21856",
+    "geom:latitude":50.21856,
+    "geom:longitude":15.67555,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Hradek",
+    "gn:country_code":"CZ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074948,
+    "gn:latitude":50.21856,
+    "gn:longitude":15.67555,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Hr\u00e1dek",
+    "gn:population":184,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074948,
+        "wk:page":"Hr%C3%A1dek_%28Hradec_Kr%C3%A1lov%C3%A9_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d56831aeb5542e230caaafd6747d2338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310239751,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1310239751,
+    "wof:lastmodified":1537504056,
+    "wof:name":"Hradek",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":184,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67555,
+    50.21856,
+    15.67555,
+    50.21856
+],
+  "geometry": {"coordinates":[15.67555,50.21856],"type":"Point"}
+}

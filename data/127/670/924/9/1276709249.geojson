@@ -1,0 +1,79 @@
+{
+  "id": 1276709249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91702,50.16238,16.91702,50.16238",
+    "geom:latitude":50.16238,
+    "geom:longitude":16.91702,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Stepanov",
+    "gn:country_code":"CZ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065180,
+    "gn:latitude":50.16238,
+    "gn:longitude":16.91702,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"\u0160t\u011bp\u00e1nov",
+    "gn:population":3306,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "\u0160t\u011bp\u00e1nov"
+    ],
+    "name:deu_x_preferred":[
+        "Stiepanau"
+    ],
+    "name:und_x_variant":[
+        "\u0160t\u011bp\u00e1nov",
+        "Stiepanau"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065180
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8c8e99f4beb63e4452640f6e7d5762ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276709249,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1276709249,
+    "wof:lastmodified":1537619292,
+    "wof:name":"Stepanov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":3306,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91702,
+    50.16238,
+    16.91702,
+    50.16238
+],
+  "geometry": {"coordinates":[16.91702,50.16238],"type":"Point"}
+}

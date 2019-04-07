@@ -1,0 +1,66 @@
+{
+  "id": 1293426249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08789,49.61681,15.08789,49.61681",
+    "geom:latitude":49.61681,
+    "geom:longitude":15.08789,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Jenisovice",
+    "gn:country_code":"CZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074308,
+    "gn:latitude":49.61681,
+    "gn:longitude":15.08789,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Jeni\u0161ovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074308
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"58a0d1df73266eeb7ce5632ee5aced7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293426249,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293426249,
+    "wof:lastmodified":1536874280,
+    "wof:name":"Jenisovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08789,
+    49.61681,
+    15.08789,
+    49.61681
+],
+  "geometry": {"coordinates":[15.08789,49.61681],"type":"Point"}
+}

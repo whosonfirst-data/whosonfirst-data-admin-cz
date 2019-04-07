@@ -1,0 +1,62 @@
+{
+  "id": 1209449975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.469,50.49451,15.469,50.49451",
+    "geom:latitude":50.49451,
+    "geom:longitude":15.469,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Brdo",
+    "gn:country_code":"CZ",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078775,
+    "gn:latitude":50.49451,
+    "gn:longitude":15.469,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078775
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8984d2ead1fb37cefc9deb1d7ba1b5bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209449975
+        }
+    ],
+    "wof:id":1209449975,
+    "wof:lastmodified":1536286702,
+    "wof:name":"Brdo",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.469,
+    50.49451,
+    15.469,
+    50.49451
+],
+  "geometry": {"coordinates":[15.469,50.49451],"type":"Point"}
+}

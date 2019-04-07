@@ -1,0 +1,150 @@
+{
+  "id": 101825609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":787431.583791,
+    "geom:bbox":"17.0727695302,49.7163402427,17.0967777467,49.724303308",
+    "geom:latitude":49.72043,
+    "geom:longitude":17.085386,
+    "gn:population":1361,
+    "iso:country":"CZ",
+    "lbl:latitude":49.720507,
+    "lbl:longitude":17.090206,
+    "mps:latitude":49.720507,
+    "mps:longitude":17.090206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:cze_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:deu_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:hun_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:may_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:nan_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0634\u0631\u0648\u0646\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:por_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:rup_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cervenka"
+    ],
+    "name:vie_x_preferred":[
+        "\u010cervenka"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Olomouck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"\u010cervenka",
+    "qs:la_lc":"*CZ0712552186",
+    "qs:level":"locality",
+    "qs:loc":"\u010cervenka",
+    "qs:loc_alt":"Cervenka",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077965,
+        "gp:id":787422,
+        "qs:id":1265512,
+        "qs_pg:id":1265512,
+        "wd:id":"Q339735",
+        "wk:page":"\u010cervenka (Olomouc District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"77a178da645da862df8562d0e942ed88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825609,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":101825609,
+    "wof:lastmodified":1553815527,
+    "wof:name":"\u010cervenka",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":1361,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07276953021358,
+    49.71634024272907,
+    17.09677774668478,
+    49.72430330795072
+],
+  "geometry": {"coordinates":[[[17.09598633702808,49.71662774445554],[17.09184295105132,49.71688795177965],[17.09197476156282,49.71778236045424],[17.08783125898037,49.71804242186306],[17.08769952425467,49.71714800764482],[17.08631837292199,49.71723465927505],[17.0861866695758,49.71634024272907],[17.08480553897266,49.71642687568323],[17.0849372170569,49.7173212940761],[17.08355605666071,49.71740791204792],[17.08368771559816,49.71830233180731],[17.07540050652523,49.71882169729179],[17.07553201998564,49.71971612764418],[17.07276953021358,49.71988911851963],[17.07316395563515,49.72257241776612],[17.07730791092411,49.72231288960734],[17.07757104337327,49.72410174230868],[17.08033375867853,49.72392863199627],[17.07993891755001,49.72124536329818],[17.08684524748247,49.72081232065801],[17.08710872147407,49.72260114846978],[17.08849002439911,49.72251448575417],[17.08875357340912,49.72430330795072],[17.09289760658635,49.72404320772614],[17.09276575321138,49.72314880241368],[17.09552836876901,49.72297532180494],[17.09539647098245,49.72208091971106],[17.09677774668478,49.72199415600994],[17.0966458297587,49.72109975528576],[17.09388332434725,49.72127326215792],[17.09335592001958,49.71769563965944],[17.09611822332192,49.71752214758271],[17.09598633702808,49.71662774445554]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309937017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7767,49.77976,12.7767,49.77976",
+    "geom:latitude":49.77976,
+    "geom:longitude":12.7767,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Bezdekov",
+    "gn:country_code":"CZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079423,
+    "gn:latitude":49.77976,
+    "gn:longitude":12.7767,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Bezd\u011bkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wesigau",
+        "Bezd\u011bkov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079423
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3e15d6bf74a263bbcd272c4cb4b1acd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309937017,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1309937017,
+    "wof:lastmodified":1537619461,
+    "wof:name":"Bezdekov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7767,
+    49.77976,
+    12.7767,
+    49.77976
+],
+  "geometry": {"coordinates":[12.7767,49.77976],"type":"Point"}
+}

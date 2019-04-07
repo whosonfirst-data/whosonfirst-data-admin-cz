@@ -1,0 +1,70 @@
+{
+  "id": 1242811433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30139,49.693,15.30139,49.693",
+    "geom:latitude":49.693,
+    "geom:longitude":15.30139,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Ostrov",
+    "gn:country_code":"CZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068776,
+    "gn:latitude":49.693,
+    "gn:longitude":15.30139,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Ostrov",
+    "gn:population":129,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068776,
+        "wk:page":"Ostrov_%28Havl%C3%AD%C4%8Dk%C5%AFv_Brod_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c0524bdd8f5104498d3f4dd6521913a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242811433,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1242811433,
+    "wof:lastmodified":1537504034,
+    "wof:name":"Ostrov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30139,
+    49.69300000000001,
+    15.30139,
+    49.69300000000001
+],
+  "geometry": {"coordinates":[15.30139,49.69300000000001],"type":"Point"}
+}

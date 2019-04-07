@@ -1,0 +1,70 @@
+{
+  "id": 1293917789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7818,49.54878,12.7818,49.54878",
+    "geom:latitude":49.54878,
+    "geom:longitude":12.7818,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Horousany",
+    "gn:country_code":"CZ",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075122,
+    "gn:latitude":49.54878,
+    "gn:longitude":12.7818,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Horou\u0161any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horauschen",
+        "Horou\u0161any"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075122
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"482c1fc5fb1961568b14aa02112f395f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293917789,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293917789,
+    "wof:lastmodified":1537619408,
+    "wof:name":"Horousany",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7818,
+    49.54878,
+    12.7818,
+    49.54878
+],
+  "geometry": {"coordinates":[12.7818,49.54878],"type":"Point"}
+}

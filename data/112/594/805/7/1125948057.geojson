@@ -1,0 +1,135 @@
+{
+  "id": 1125948057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46801,49.68234,18.46801,49.68234",
+    "geom:latitude":49.68234,
+    "geom:longitude":18.46801,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":502,
+    "gn:population":502,
+    "iso:country":"CZ",
+    "lbl:latitude":49.68234,
+    "lbl:longitude":18.46801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:dut_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:eng_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:fre_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:ger_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:may_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0648\u06cc\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:por_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:rup_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:slo_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0458\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:vie_x_preferred":[
+        "Vojkovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062627,
+    "qs_pg:gn_pop":502,
+    "qs_pg:name":"Vojkovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":401296,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801060,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062627,
+        "gp:id":801060,
+        "qs_pg:id":401296,
+        "wd:id":"Q2035030"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297356,
+    "wof:geomhash":"1d1cbe13efda4c6fafbc44c5ecc6e578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125948057,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125948057,
+    "wof:lastmodified":1553816651,
+    "wof:name":"Vojkovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":502,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46801,
+    49.68234,
+    18.46801,
+    49.68234
+],
+  "geometry": {"coordinates":[18.46801,49.68234],"type":"Point"}
+}

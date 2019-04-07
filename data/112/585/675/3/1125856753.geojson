@@ -1,0 +1,132 @@
+{
+  "id": 1125856753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63769,49.39649,15.63769,49.39649",
+    "geom:latitude":49.39649,
+    "geom:longitude":15.63769,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":565,
+    "gn:population":565,
+    "iso:country":"CZ",
+    "lbl:latitude":49.39649,
+    "lbl:longitude":15.63769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:dut_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:hun_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:may_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0644\u06cc \u0628\u0631\u0627\u0646\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:por_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:rup_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u0411\u0435\u0440\u0430\u043d\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "name:vie_x_preferred":[
+        "Mal\u00fd Beranov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071094,
+    "qs_pg:gn_pop":565,
+    "qs_pg:name":"Mal\u00fd Beranov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1267012,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793534,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071094,
+        "gp:id":793534,
+        "qs_pg:id":1267012,
+        "wd:id":"Q2438712"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293653,
+    "wof:geomhash":"9fd97699c99f17929cbaba7899ba3c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125856753,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125856753,
+    "wof:lastmodified":1513945345,
+    "wof:name":"Mal\u00fd Beranov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":565,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63769,
+    49.39649,
+    15.63769,
+    49.39649
+],
+  "geometry": {"coordinates":[15.63769,49.39649],"type":"Point"}
+}

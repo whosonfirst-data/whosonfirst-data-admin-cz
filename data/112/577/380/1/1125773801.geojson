@@ -1,0 +1,138 @@
+{
+  "id": 1125773801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2786,49.75697,13.2786,49.75697",
+    "geom:latitude":49.75697,
+    "geom:longitude":13.2786,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":554,
+    "gn:population":554,
+    "iso:country":"CZ",
+    "lbl:latitude":49.75697,
+    "lbl:longitude":13.2786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0447\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Vochov"
+    ],
+    "name:dut_x_preferred":[
+        "Vochov"
+    ],
+    "name:eng_x_preferred":[
+        "Vochov"
+    ],
+    "name:fre_x_preferred":[
+        "Vochov"
+    ],
+    "name:ger_x_preferred":[
+        "Vochov"
+    ],
+    "name:hun_x_preferred":[
+        "Vochov"
+    ],
+    "name:ita_x_preferred":[
+        "Vochov"
+    ],
+    "name:may_x_preferred":[
+        "Vochov"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0648\u062e\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Vochov"
+    ],
+    "name:por_x_preferred":[
+        "Vochov"
+    ],
+    "name:slo_x_preferred":[
+        "Vochov"
+    ],
+    "name:slv_x_preferred":[
+        "Vo\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0445\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Vochov"
+    ],
+    "name:vie_x_preferred":[
+        "Vochov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062656,
+    "qs_pg:gn_pop":554,
+    "qs_pg:name":"Vochov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":190748,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801032,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062656,
+        "gp:id":801032,
+        "qs_pg:id":190748,
+        "wd:id":"Q2050260"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290168,
+    "wof:geomhash":"f53efc56f4dac1743aa0b5f6bda9069c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125773801,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125773801,
+    "wof:lastmodified":1513945884,
+    "wof:name":"Vochov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":554,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2786,
+    49.75697,
+    13.2786,
+    49.75697
+],
+  "geometry": {"coordinates":[13.2786,49.75697],"type":"Point"}
+}

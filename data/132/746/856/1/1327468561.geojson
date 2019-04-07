@@ -1,0 +1,66 @@
+{
+  "id": 1327468561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03728,49.16404,16.03728,49.16404",
+    "geom:latitude":49.16404,
+    "geom:longitude":16.03728,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0614",
+    "gn:asciiname":"Plesice",
+    "gn:country_code":"CZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068200,
+    "gn:latitude":49.16404,
+    "gn:longitude":16.03728,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Ple\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068200
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c0170a9ebba4ccd65a7125a4925bba0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327468561,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1327468561,
+    "wof:lastmodified":1536626728,
+    "wof:name":"Plesice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03728,
+    49.16404,
+    16.03728,
+    49.16404
+],
+  "geometry": {"coordinates":[16.03728,49.16404],"type":"Point"}
+}

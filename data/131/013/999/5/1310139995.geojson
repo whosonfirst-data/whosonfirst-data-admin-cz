@@ -1,0 +1,66 @@
+{
+  "id": 1310139995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79807,50.06525,15.79807,50.06525",
+    "geom:latitude":50.06525,
+    "geom:longitude":15.79807,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0532",
+    "gn:asciiname":"Brozany",
+    "gn:country_code":"CZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078570,
+    "gn:latitude":50.06525,
+    "gn:longitude":15.79807,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Brozany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078570
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b3254626510e6ed90aac0c044a967fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310139995,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1310139995,
+    "wof:lastmodified":1536947139,
+    "wof:name":"Brozany",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79807,
+    50.06525,
+    15.79807,
+    50.06525
+],
+  "geometry": {"coordinates":[15.79807,50.06525],"type":"Point"}
+}

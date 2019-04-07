@@ -1,0 +1,70 @@
+{
+  "id": 1310635669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20469,50.03884,13.20469,50.03884",
+    "geom:latitude":50.03884,
+    "geom:longitude":13.20469,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Novosedly",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069390,
+    "gn:latitude":50.03884,
+    "gn:longitude":13.20469,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Novosedly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nebosedl",
+        "Novosedly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069390
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7f2448047f90be6cc9e17d7acfe4a541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310635669,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1310635669,
+    "wof:lastmodified":1537619339,
+    "wof:name":"Novosedly",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20469,
+    50.03884,
+    13.20469,
+    50.03884
+],
+  "geometry": {"coordinates":[13.20469,50.03884],"type":"Point"}
+}

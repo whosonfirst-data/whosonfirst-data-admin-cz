@@ -1,0 +1,70 @@
+{
+  "id": 1293134483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82582,48.95507,13.82582,48.95507",
+    "geom:latitude":48.95507,
+    "geom:longitude":13.82582,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Kaplice",
+    "gn:country_code":"CZ",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073861,
+    "gn:latitude":48.95507,
+    "gn:longitude":13.82582,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Kaplice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapellen",
+        "Kaplice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073861
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fb77fa62a8199771a7b9bad7f48ed50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293134483,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293134483,
+    "wof:lastmodified":1537619395,
+    "wof:name":"Kaplice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82582,
+    48.95507,
+    13.82582,
+    48.95507
+],
+  "geometry": {"coordinates":[13.82582,48.95507],"type":"Point"}
+}

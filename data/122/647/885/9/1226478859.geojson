@@ -1,0 +1,66 @@
+{
+  "id": 1226478859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.64398,48.9926,17.64398,48.9926",
+    "geom:latitude":48.9926,
+    "geom:longitude":17.64398,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0722",
+    "gn:asciiname":"Nivnicky Dvur",
+    "gn:country_code":"CZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069742,
+    "gn:latitude":48.9926,
+    "gn:longitude":17.64398,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Nivnick\u00fd Dv\u016fr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069742
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c5355a2a2dda620037214b43adcf093a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226478859,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1226478859,
+    "wof:lastmodified":1537091093,
+    "wof:name":"Nivnicky Dvur",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.64398,
+    48.9926,
+    17.64398,
+    48.9926
+],
+  "geometry": {"coordinates":[17.64398,48.9926],"type":"Point"}
+}

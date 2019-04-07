@@ -1,0 +1,132 @@
+{
+  "id": 1125953673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95984,49.47325,13.95984,49.47325",
+    "geom:latitude":49.47325,
+    "geom:longitude":13.95984,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":122,
+    "gn:population":122,
+    "iso:country":"CZ",
+    "lbl:latitude":49.47325,
+    "lbl:longitude":13.95984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Uzenice"
+    ],
+    "name:dut_x_preferred":[
+        "Uzenice"
+    ],
+    "name:eng_x_preferred":[
+        "Uzenice"
+    ],
+    "name:fre_x_preferred":[
+        "Uzenice"
+    ],
+    "name:ger_x_preferred":[
+        "Uzenice"
+    ],
+    "name:hun_x_preferred":[
+        "Uzenice"
+    ],
+    "name:ita_x_preferred":[
+        "Uzenice"
+    ],
+    "name:may_x_preferred":[
+        "Uzenice"
+    ],
+    "name:nan_x_preferred":[
+        "Uzenice"
+    ],
+    "name:por_x_preferred":[
+        "Uzenice"
+    ],
+    "name:rup_x_preferred":[
+        "Uzenice"
+    ],
+    "name:slo_x_preferred":[
+        "Uzenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0437\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Uzenice"
+    ],
+    "name:vie_x_preferred":[
+        "Uzenice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063497,
+    "qs_pg:gn_pop":122,
+    "qs_pg:name":"Uzenice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1289425,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800288,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063497,
+        "gp:id":800288,
+        "qs_pg:id":1289425,
+        "wd:id":"Q501965"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297548,
+    "wof:geomhash":"986d96b9c7ac7f0717eb58b26b074cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125953673,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125953673,
+    "wof:lastmodified":1513945836,
+    "wof:name":"Uzenice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95984,
+    49.47325,
+    13.95984,
+    49.47325
+],
+  "geometry": {"coordinates":[13.95984,49.47325],"type":"Point"}
+}

@@ -1,0 +1,152 @@
+{
+  "id": 85900801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16894130.455008,
+    "geom:bbox":"14.472208,48.999771,14.472208,48.999771",
+    "geom:latitude":48.999771,
+    "geom:longitude":14.472208,
+    "gn:latitude":49.00797,
+    "gn:longitude":14.48754,
+    "iso:country":"CZ",
+    "lbl:latitude":48.999771,
+    "lbl:longitude":14.472208,
+    "mps:latitude":49.009788,
+    "mps:longitude":14.476484,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Nemanice"
+    ],
+    "name:ces_x_preferred":[
+        "Nemanice"
+    ],
+    "name:cze_x_preferred":[
+        "Nemanice"
+    ],
+    "name:deu_x_preferred":[
+        "Nemanice"
+    ],
+    "name:fra_x_preferred":[
+        "Nemanice"
+    ],
+    "name:hun_x_preferred":[
+        "Nemanice"
+    ],
+    "name:ita_x_preferred":[
+        "Nemanice"
+    ],
+    "name:msa_x_preferred":[
+        "Nemanice"
+    ],
+    "name:nld_x_preferred":[
+        "Nemanice"
+    ],
+    "name:pol_x_preferred":[
+        "Nemanice"
+    ],
+    "name:por_x_preferred":[
+        "Nemanice"
+    ],
+    "name:slk_x_preferred":[
+        "Nemanice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u043c\u0430\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Nemanice"
+    ],
+    "name:unk_x_variant":[
+        "Nemanice"
+    ],
+    "name:vie_x_preferred":[
+        "Nemanice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3077916,
+    "qs:gn_nam_loc":"\u010cesk\u00e9 Bud\u011bjovice, \u010cesk\u00e9 Bud\u011bjovice, \u010cesk\u00e9 Bud\u011bjovice, Jiho\u010desk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"79",
+    "qs:gn_name":"Nemanice",
+    "qs:local_max":3536,
+    "qs:local_sum":4450,
+    "qs:localhoods":3,
+    "qs:name":"Nemanice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs:name_adm2":"\u010cesk\u00e9 Bud\u011bjovice",
+    "qs:name_lau":"\u010cesk\u00e9 Bud\u011bjovice",
+    "qs:name_local":"\u010cesk\u00e9 Bud\u011bjovice",
+    "qs:photo_max":30,
+    "qs:photo_sum":94,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070502,
+    "qs:woe_adm2":12582537,
+    "qs:woe_lau":12604814,
+    "qs:woe_local":787461,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        101748103,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069924,
+        "gp:id":794579,
+        "qs:id":887839,
+        "qs_pg:id":887839
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f92bbf72ee153f19da0dfbb2b8bb5ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748103,
+            "neighbourhood_id":85900801,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":85900801,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932385,
+    "wof:name":"Nemanice",
+    "wof:parent_id":101748103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.472208,
+    48.999771,
+    14.472208,
+    48.999771
+],
+  "geometry": {"coordinates":[14.472208,48.999771],"type":"Point"}
+}

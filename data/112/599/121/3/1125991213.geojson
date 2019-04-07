@@ -1,0 +1,126 @@
+{
+  "id": 1125991213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54646,49.07981,16.54646,49.07981",
+    "geom:latitude":49.07981,
+    "geom:longitude":16.54646,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":974,
+    "gn:population":974,
+    "iso:country":"CZ",
+    "lbl:latitude":49.07981,
+    "lbl:longitude":16.54646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Syrovice"
+    ],
+    "name:dut_x_preferred":[
+        "Syrovice"
+    ],
+    "name:eng_x_preferred":[
+        "Syrovice"
+    ],
+    "name:fre_x_preferred":[
+        "Syrovice"
+    ],
+    "name:ger_x_preferred":[
+        "Syrovice"
+    ],
+    "name:hun_x_preferred":[
+        "Syrovice"
+    ],
+    "name:ita_x_preferred":[
+        "Syrovice"
+    ],
+    "name:may_x_preferred":[
+        "Syrovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u0631\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Syrovice"
+    ],
+    "name:slo_x_preferred":[
+        "Syrovice"
+    ],
+    "name:swe_x_preferred":[
+        "Syrovice"
+    ],
+    "name:vie_x_preferred":[
+        "Syrovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064385,
+    "qs_pg:gn_pop":974,
+    "qs_pg:name":"Syrovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1157861,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799514,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064385,
+        "gp:id":799514,
+        "qs_pg:id":1157861,
+        "wd:id":"Q1969487"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299058,
+    "wof:geomhash":"e288c2f9155299774da674e00629e2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125991213,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125991213,
+    "wof:lastmodified":1513945780,
+    "wof:name":"Syrovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":974,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54646,
+    49.07981,
+    16.54646,
+    49.07981
+],
+  "geometry": {"coordinates":[16.54646,49.07981],"type":"Point"}
+}

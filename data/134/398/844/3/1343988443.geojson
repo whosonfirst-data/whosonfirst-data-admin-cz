@@ -1,0 +1,66 @@
+{
+  "id": 1343988443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27347,49.20454,15.27347,49.20454",
+    "geom:latitude":49.20454,
+    "geom:longitude":15.27347,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Domasin",
+    "gn:country_code":"CZ",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076600,
+    "gn:latitude":49.20454,
+    "gn:longitude":15.27347,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"Doma\u0161\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076600
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"926aa01a4f2a71ba9f7d796570a3ae0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343988443,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343988443,
+    "wof:lastmodified":1536979085,
+    "wof:name":"Domasin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27347,
+    49.20454,
+    15.27347,
+    49.20454
+],
+  "geometry": {"coordinates":[15.27347,49.20454],"type":"Point"}
+}

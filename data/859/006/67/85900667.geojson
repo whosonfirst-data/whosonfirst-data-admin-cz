@@ -1,0 +1,95 @@
+{
+  "id": 85900667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8075023.555607,
+    "geom:bbox":"16.581115,49.283197,16.581115,49.283197",
+    "geom:latitude":49.283197,
+    "geom:longitude":16.581115,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":49.283197,
+    "lbl:longitude":16.581115,
+    "mps:latitude":49.27055,
+    "mps:longitude":16.581836,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:cze_x_preferred":[
+        "Brno-Jehnice"
+    ],
+    "name:cze_x_variant":[
+        "Jehnice"
+    ],
+    "name:eng_x_preferred":[
+        "Brno-Jehnice"
+    ],
+    "name:fre_x_preferred":[
+        "Jehnice"
+    ],
+    "name:pol_x_preferred":[
+        "Jehnice"
+    ],
+    "name:slo_x_preferred":[
+        "Brno-Jehnice"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":790673,
+        "qs:id":955190,
+        "qs_pg:id":955190,
+        "wd:id":"Q11341664"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"20e8afa923305c316ef71fa384bfb8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900667,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85900667,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932364,
+    "wof:name":"Brno-Jehnice",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.581115,
+    49.283197,
+    16.581115,
+    49.283197
+],
+  "geometry": {"coordinates":[16.581115,49.283197],"type":"Point"}
+}

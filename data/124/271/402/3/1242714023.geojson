@@ -1,0 +1,70 @@
+{
+  "id": 1242714023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57856,50.63976,15.57856,50.63976",
+    "geom:latitude":50.63976,
+    "geom:longitude":15.57856,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Knezice",
+    "gn:country_code":"CZ",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073531,
+    "gn:latitude":50.63976,
+    "gn:longitude":15.57856,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Kn\u011b\u017eice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schreibendorf",
+        "Kn\u011b\u017eice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073531
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"438d68a4eef062fa55950675bc4465a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242714023,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1242714023,
+    "wof:lastmodified":1537619391,
+    "wof:name":"Knezice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57856,
+    50.63976,
+    15.57856,
+    50.63976
+],
+  "geometry": {"coordinates":[15.57856,50.63976],"type":"Point"}
+}

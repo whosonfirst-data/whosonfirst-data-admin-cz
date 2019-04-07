@@ -1,0 +1,65 @@
+{
+  "id": 102536915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.692222,50.075833,17.692222,50.075833",
+    "geom:latitude":50.075833,
+    "geom:longitude":17.692222,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1230",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582570,
+        "localadmin_id":12607269,
+        "planet_id":1,
+        "state_id":20070471
+    },
+    "wof:belongsto":[
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049728,
+        "icao:code":"LKKR",
+        "oa:id":"30048",
+        "wd:id":"Q12693429"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"500712c854348c29e94bd86e02734bc6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536915,
+            "country_id":85633105,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":102536915,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Letiste Krnov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.692222,
+    50.075833,
+    17.692222,
+    50.075833
+],
+  "geometry": {"coordinates":[17.692222,50.075833],"type":"Point"}
+}

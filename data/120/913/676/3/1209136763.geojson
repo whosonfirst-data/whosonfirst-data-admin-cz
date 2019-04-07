@@ -1,0 +1,66 @@
+{
+  "id": 1209136763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.94066,50.09187,12.94066,50.09187",
+    "geom:latitude":50.09187,
+    "geom:longitude":12.94066,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Prilezy",
+    "gn:country_code":"CZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067505,
+    "gn:latitude":50.09187,
+    "gn:longitude":12.94066,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"P\u0159\u00edlezy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pr\u00f6les",
+        "P\u0159\u00edlezy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067505
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c42ae383b360e97e485d5d40e1043914",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209136763
+        }
+    ],
+    "wof:id":1209136763,
+    "wof:lastmodified":1537619319,
+    "wof:name":"Prilezy",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.94066,
+    50.09187,
+    12.94066,
+    50.09187
+],
+  "geometry": {"coordinates":[12.94066,50.09187],"type":"Point"}
+}

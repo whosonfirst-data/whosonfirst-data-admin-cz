@@ -1,0 +1,144 @@
+{
+  "id": 1125899305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.6655,49.93896,12.6655,49.93896",
+    "geom:latitude":49.93896,
+    "geom:longitude":12.6655,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":777,
+    "gn:population":777,
+    "iso:country":"CZ",
+    "lbl:latitude":49.93896,
+    "lbl:longitude":12.6655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u043c\u043e\u0443\u043b"
+    ],
+    "name:cze_x_preferred":[
+        "Drmoul"
+    ],
+    "name:deu_x_preferred":[
+        "D\u00fcrrmaul"
+    ],
+    "name:dut_x_preferred":[
+        "Drmoul"
+    ],
+    "name:eng_x_preferred":[
+        "Drmoul"
+    ],
+    "name:fre_x_preferred":[
+        "Drmoul"
+    ],
+    "name:ger_x_preferred":[
+        "Drmoul"
+    ],
+    "name:hun_x_preferred":[
+        "Drmoul"
+    ],
+    "name:ita_x_preferred":[
+        "Drmoul"
+    ],
+    "name:may_x_preferred":[
+        "Drmoul"
+    ],
+    "name:nan_x_preferred":[
+        "Drmoul"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0631\u0645\u0648\u0648\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Drmoul"
+    ],
+    "name:por_x_preferred":[
+        "Drmoul"
+    ],
+    "name:rup_x_preferred":[
+        "Drmoul"
+    ],
+    "name:slo_x_preferred":[
+        "Drmoul"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u043c\u043e\u0443\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Drmoul"
+    ],
+    "name:vie_x_preferred":[
+        "Drmoul"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076410,
+    "qs_pg:gn_pop":777,
+    "qs_pg:name":"Drmoul",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Karlovarsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":367547,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788841,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Karlovarsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076410,
+        "gp:id":788841,
+        "qs_pg:id":367547,
+        "wd:id":"Q909942"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295735,
+    "wof:geomhash":"58c4e6570f6eb903d3a182cd284fd89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125899305,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1125899305,
+    "wof:lastmodified":1513944944,
+    "wof:name":"Drmoul",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":777,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6655,
+    49.93896,
+    12.6655,
+    49.93896
+],
+  "geometry": {"coordinates":[12.6655,49.93896],"type":"Point"}
+}

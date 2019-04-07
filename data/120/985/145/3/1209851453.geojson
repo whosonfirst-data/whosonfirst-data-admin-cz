@@ -1,0 +1,66 @@
+{
+  "id": 1209851453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96476,49.32964,17.96476,49.32964",
+    "geom:latitude":49.32964,
+    "geom:longitude":17.96476,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Janisov",
+    "gn:country_code":"CZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074535,
+    "gn:latitude":49.32964,
+    "gn:longitude":17.96476,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Jani\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074535
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fccc070bcac5a522e2919a8d83c4397e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209851453,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1209851453,
+    "wof:lastmodified":1536388233,
+    "wof:name":"Janisov",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96476000000001,
+    49.32964000000001,
+    17.96476000000001,
+    49.32964000000001
+],
+  "geometry": {"coordinates":[17.96476000000001,49.32964000000001],"type":"Point"}
+}

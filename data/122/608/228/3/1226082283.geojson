@@ -1,0 +1,66 @@
+{
+  "id": 1226082283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48194,50.11915,13.48194,50.11915",
+    "geom:latitude":50.11915,
+    "geom:longitude":13.48194,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Chotesov",
+    "gn:country_code":"CZ",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077649,
+    "gn:latitude":50.11915,
+    "gn:longitude":13.48194,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Chot\u011b\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077649
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2d8477f848e13345b026121f6de8b1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226082283,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226082283,
+    "wof:lastmodified":1536672342,
+    "wof:name":"Chotesov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48194,
+    50.11915,
+    13.48194,
+    50.11915
+],
+  "geometry": {"coordinates":[13.48194,50.11915],"type":"Point"}
+}

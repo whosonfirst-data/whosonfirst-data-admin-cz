@@ -1,0 +1,70 @@
+{
+  "id": 1310241693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28552,50.14968,13.28552,50.14968",
+    "geom:latitude":50.14968,
+    "geom:longitude":13.28552,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0424",
+    "gn:asciiname":"Horni Zhori",
+    "gn:country_code":"CZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075136,
+    "gn:latitude":50.14968,
+    "gn:longitude":13.28552,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Horn\u00ed Zho\u0159\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober Dreih\u00f6fen",
+        "Horn\u00ed Zho\u0159\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075136
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8baf93968ff341a152927f56e07882bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310241693,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1310241693,
+    "wof:lastmodified":1537619409,
+    "wof:name":"Horni Zhori",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28552,
+    50.14968,
+    13.28552,
+    50.14968
+],
+  "geometry": {"coordinates":[13.28552,50.14968],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343592311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49125,48.71198,14.49125,48.71198",
+    "geom:latitude":48.71198,
+    "geom:longitude":14.49125,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Jeskov",
+    "gn:country_code":"CZ",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074274,
+    "gn:latitude":48.71198,
+    "gn:longitude":14.49125,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Je\u0161kov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jeschkersdorf",
+        "Je\u0161kov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074274
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8987c5cc56548be9c006f903dc39d255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343592311,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343592311,
+    "wof:lastmodified":1537619399,
+    "wof:name":"Jeskov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49125,
+    48.71198,
+    14.49125,
+    48.71198
+],
+  "geometry": {"coordinates":[14.49125,48.71198],"type":"Point"}
+}

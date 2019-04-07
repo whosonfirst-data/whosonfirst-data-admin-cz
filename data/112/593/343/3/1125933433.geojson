@@ -1,0 +1,138 @@
+{
+  "id": 1125933433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37214,49.51004,17.37214,49.51004",
+    "geom:latitude":49.51004,
+    "geom:longitude":17.37214,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":96,
+    "gn:population":96,
+    "iso:country":"CZ",
+    "lbl:latitude":49.51004,
+    "lbl:longitude":17.37214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:dut_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:eng_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:epo_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:fre_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:ger_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:hun_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:ita_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:may_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:nan_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0634\u0644\u062e\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:por_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:rup_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:slo_x_preferred":[
+        "\u010celechovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u043b\u0435\u0445\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "\u010celechovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078157,
+    "qs_pg:gn_pop":96,
+    "qs_pg:name":"\u010celechovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":397602,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787264,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078157,
+        "gp:id":787264,
+        "qs_pg:id":397602,
+        "wd:id":"Q338420"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296885,
+    "wof:geomhash":"40504e64aaf11fa29ebac5ce48aa40d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125933433,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125933433,
+    "wof:lastmodified":1553816641,
+    "wof:name":"\u010celechovice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37214,
+    49.51004,
+    17.37214,
+    49.51004
+],
+  "geometry": {"coordinates":[17.37214,49.51004],"type":"Point"}
+}

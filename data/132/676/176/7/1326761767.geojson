@@ -1,0 +1,70 @@
+{
+  "id": 1326761767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75535,49.03417,13.75535,49.03417",
+    "geom:latitude":49.03417,
+    "geom:longitude":13.75535,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Klasterec",
+    "gn:country_code":"CZ",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073671,
+    "gn:latitude":49.03417,
+    "gn:longitude":13.75535,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Kl\u00e1\u0161terec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kl\u00f6sterle",
+        "Kl\u00e1\u0161terec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073671
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8b8478646cbf9ec337ce7ac863098284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326761767,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1326761767,
+    "wof:lastmodified":1537619393,
+    "wof:name":"Klasterec",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75535,
+    49.03417,
+    13.75535,
+    49.03417
+],
+  "geometry": {"coordinates":[13.75535,49.03417],"type":"Point"}
+}

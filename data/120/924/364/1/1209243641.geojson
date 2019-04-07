@@ -1,0 +1,62 @@
+{
+  "id": 1209243641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06667,48.85,14.06667,48.85",
+    "geom:latitude":48.85,
+    "geom:longitude":14.06667,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Racin",
+    "gn:country_code":"CZ",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067268,
+    "gn:latitude":48.85,
+    "gn:longitude":14.06667,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Ra\u010d\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067268
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4de302aa41af9e14a8db370e4cdd4956",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209243641
+        }
+    ],
+    "wof:id":1209243641,
+    "wof:lastmodified":1536293238,
+    "wof:name":"Racin",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.066670000000002,
+    48.85,
+    14.066670000000002,
+    48.85
+],
+  "geometry": {"coordinates":[14.06667,48.85],"type":"Point"}
+}

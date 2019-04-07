@@ -1,0 +1,70 @@
+{
+  "id": 1243485433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34289,49.36729,14.34289,49.36729",
+    "geom:latitude":49.36729,
+    "geom:longitude":14.34289,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Krenovice",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072769,
+    "gn:latitude":49.36729,
+    "gn:longitude":14.34289,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"K\u0159enovice",
+    "gn:population":144,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072769,
+        "wk:page":"K%C5%99enovice_%28P%C3%ADsek_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"52404e2faf53ae6b579d8c161c98baeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243485433,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243485433,
+    "wof:lastmodified":1537504049,
+    "wof:name":"Krenovice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34289,
+    49.36729,
+    14.34289,
+    49.36729
+],
+  "geometry": {"coordinates":[14.34289,49.36729],"type":"Point"}
+}

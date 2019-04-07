@@ -1,0 +1,69 @@
+{
+  "id": 1309940697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.84952,49.62317,17.84952,49.62317",
+    "geom:latitude":49.62317,
+    "geom:longitude":17.84952,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0804",
+    "gn:asciiname":"Horni Vrazne",
+    "gn:country_code":"CZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075146,
+    "gn:latitude":49.62317,
+    "gn:longitude":17.84952,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Horn\u00ed Vra\u017en\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klein Petersdorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075146
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a53495a85e5559d8db2608692f9c0dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309940697,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1309940697,
+    "wof:lastmodified":1537619409,
+    "wof:name":"Horni Vrazne",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.84952000000001,
+    49.62317,
+    17.84952000000001,
+    49.62317
+],
+  "geometry": {"coordinates":[17.84952000000001,49.62317],"type":"Point"}
+}

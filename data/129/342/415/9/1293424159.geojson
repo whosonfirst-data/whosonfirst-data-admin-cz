@@ -1,0 +1,66 @@
+{
+  "id": 1293424159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15434,49.51717,16.15434,49.51717",
+    "geom:latitude":49.51717,
+    "geom:longitude":16.15434,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Branisov",
+    "gn:country_code":"CZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078826,
+    "gn:latitude":49.51717,
+    "gn:longitude":16.15434,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Brani\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078826
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"23c6ee04604af32097d034f453706b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293424159,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1293424159,
+    "wof:lastmodified":1536877553,
+    "wof:name":"Branisov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15434,
+    49.51717,
+    16.15434,
+    49.51717
+],
+  "geometry": {"coordinates":[16.15434,49.51717],"type":"Point"}
+}

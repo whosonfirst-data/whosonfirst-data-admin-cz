@@ -1,0 +1,70 @@
+{
+  "id": 1242910153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23014,48.74621,14.23014,48.74621",
+    "geom:latitude":48.74621,
+    "geom:longitude":14.23014,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Pasovary",
+    "gn:country_code":"CZ",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068544,
+    "gn:latitude":48.74621,
+    "gn:longitude":14.23014,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Pasovary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Passern",
+        "Pasovary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068544
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4107923b1c7da4bb613e6450ca91fbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242910153,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1242910153,
+    "wof:lastmodified":1537619330,
+    "wof:name":"Pasovary",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23014,
+    48.74621,
+    14.23014,
+    48.74621
+],
+  "geometry": {"coordinates":[14.23014,48.74621],"type":"Point"}
+}

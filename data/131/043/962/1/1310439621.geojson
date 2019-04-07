@@ -1,0 +1,66 @@
+{
+  "id": 1310439621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34585,50.70286,15.34585,50.70286",
+    "geom:latitude":50.70286,
+    "geom:longitude":15.34585,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0512",
+    "gn:asciiname":"Haratice",
+    "gn:country_code":"CZ",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075957,
+    "gn:latitude":50.70286,
+    "gn:longitude":15.34585,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Haratice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075957
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"77dff3a6e5a428bf03ce1c6d4810decd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310439621,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1310439621,
+    "wof:lastmodified":1537011344,
+    "wof:name":"Haratice",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34585,
+    50.70286,
+    15.34585,
+    50.70286
+],
+  "geometry": {"coordinates":[15.34585,50.70286],"type":"Point"}
+}

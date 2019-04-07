@@ -1,0 +1,112 @@
+{
+  "id": 85900767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10981080.625489,
+    "geom:bbox":"17.585047,49.199867,17.585047,49.199867",
+    "geom:latitude":49.199867,
+    "geom:longitude":17.585047,
+    "gn:latitude":49.20739,
+    "gn:longitude":17.59428,
+    "iso:country":"CZ",
+    "lbl:latitude":49.199867,
+    "lbl:longitude":17.585047,
+    "mps:latitude":49.191488,
+    "mps:longitude":17.586312,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:cze_x_preferred":[
+        "Malenovice"
+    ],
+    "name:cze_x_variant":[
+        "Malenowitz"
+    ],
+    "name:unk_x_variant":[
+        "Malenowitz",
+        "Malenovice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3061370,
+    "qs:gn_nam_loc":"Zl\u00edn, Zl\u00edn, Zl\u00edn, Zl\u00ednsk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"90",
+    "qs:gn_name":"Malenovice",
+    "qs:local_max":800,
+    "qs:local_sum":1028,
+    "qs:localhoods":3,
+    "qs:name":"Malenovice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs:name_adm2":"Zl\u00edn",
+    "qs:name_lau":"Zl\u00edn",
+    "qs:name_local":"Zl\u00edn",
+    "qs:photo_max":5,
+    "qs:photo_sum":25,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070469,
+    "qs:woe_adm2":12582557,
+    "qs:woe_lau":12605285,
+    "qs:woe_local":802199,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071167,
+        "gp:id":793481,
+        "qs:id":1287461,
+        "qs_pg:id":1287461
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3e0a9875839b2cd34d28965b15f4311f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900767,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":85900767,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932378,
+    "wof:name":"Malenovice",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.585047,
+    49.199867,
+    17.585047,
+    49.199867
+],
+  "geometry": {"coordinates":[17.585047,49.199867],"type":"Point"}
+}

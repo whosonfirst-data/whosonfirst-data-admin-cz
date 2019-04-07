@@ -1,0 +1,92 @@
+{
+  "id": 1126052099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50066,49.61174,14.50066,49.61174",
+    "geom:latitude":49.61174,
+    "geom:longitude":14.50066,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CZ",
+    "lbl:latitude":49.61174,
+    "lbl:longitude":14.50066,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Bolechovice"
+    ],
+    "name:eng_x_preferred":[
+        "Bolechovice"
+    ],
+    "name:fre_x_preferred":[
+        "Bolechovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079075,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bolechovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060566,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786449,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079075,
+        "gp:id":786449,
+        "qs_pg:id":1060566,
+        "wd:id":"Q4939139"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302832,
+    "wof:geomhash":"82b9d4c73fb6f470b34d76891ad9ad83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126052099,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1126052099,
+    "wof:lastmodified":1513944804,
+    "wof:name":"Bolechovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50066,
+    49.61174,
+    14.50066,
+    49.61174
+],
+  "geometry": {"coordinates":[14.50066,49.61174],"type":"Point"}
+}

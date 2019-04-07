@@ -1,0 +1,70 @@
+{
+  "id": 1226380809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61929,49.62512,17.61929,49.62512",
+    "geom:latitude":49.62512,
+    "geom:longitude":17.61929,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Boskov",
+    "gn:country_code":"CZ",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078911,
+    "gn:latitude":49.62512,
+    "gn:longitude":17.61929,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Bo\u0161kov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poschkau",
+        "Bo\u0161kov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078911
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"da4448ba704951468d1c2c0c303e35c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226380809,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1226380809,
+    "wof:lastmodified":1537619455,
+    "wof:name":"Boskov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61929,
+    49.62512,
+    17.61929,
+    49.62512
+],
+  "geometry": {"coordinates":[17.61929,49.62512],"type":"Point"}
+}

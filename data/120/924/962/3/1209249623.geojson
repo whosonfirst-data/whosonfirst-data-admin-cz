@@ -1,0 +1,66 @@
+{
+  "id": 1209249623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9632,50.31223,12.9632,50.31223",
+    "geom:latitude":50.31223,
+    "geom:longitude":12.9632,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Borek",
+    "gn:country_code":"CZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079006,
+    "gn:latitude":50.31223,
+    "gn:longitude":12.9632,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Borek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heidles",
+        "Borek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079006
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0eeaf92f2a73e1aba86b09d1fa7ffd98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209249623
+        }
+    ],
+    "wof:id":1209249623,
+    "wof:lastmodified":1537619457,
+    "wof:name":"Borek",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9632,
+    50.31223,
+    12.9632,
+    50.31223
+],
+  "geometry": {"coordinates":[12.9632,50.31223],"type":"Point"}
+}

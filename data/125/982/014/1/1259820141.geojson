@@ -1,0 +1,66 @@
+{
+  "id": 1259820141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8276,49.52569,14.8276,49.52569",
+    "geom:latitude":49.52569,
+    "geom:longitude":14.8276,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Janov",
+    "gn:country_code":"CZ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074520,
+    "gn:latitude":49.52569,
+    "gn:longitude":14.8276,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Janov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074520
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a4787a55d01286d74518192ff588bef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259820141,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259820141,
+    "wof:lastmodified":1536869344,
+    "wof:name":"Janov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8276,
+    49.52569,
+    14.8276,
+    49.52569
+],
+  "geometry": {"coordinates":[14.8276,49.52569],"type":"Point"}
+}

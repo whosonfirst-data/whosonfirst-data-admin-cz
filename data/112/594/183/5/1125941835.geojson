@@ -1,0 +1,135 @@
+{
+  "id": 1125941835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84745,49.87477,16.84745,49.87477",
+    "geom:latitude":49.87477,
+    "geom:longitude":16.84745,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":569,
+    "gn:population":569,
+    "iso:country":"CZ",
+    "lbl:latitude":49.87477,
+    "lbl:longitude":16.84745,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u043c\u0438\u043b\u0435"
+    ],
+    "name:cze_x_preferred":[
+        "Nemile"
+    ],
+    "name:dut_x_preferred":[
+        "Nemile"
+    ],
+    "name:eng_x_preferred":[
+        "Nemile"
+    ],
+    "name:fre_x_preferred":[
+        "Nemile"
+    ],
+    "name:ger_x_preferred":[
+        "Nemile"
+    ],
+    "name:hun_x_preferred":[
+        "Nemile"
+    ],
+    "name:ita_x_preferred":[
+        "Nemile"
+    ],
+    "name:may_x_preferred":[
+        "Nemile"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0645\u06cc\u0644\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Nemile"
+    ],
+    "name:por_x_preferred":[
+        "Nemile"
+    ],
+    "name:slo_x_preferred":[
+        "Nemile"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u043c\u0438\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Nemile"
+    ],
+    "name:vie_x_preferred":[
+        "Nemile"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069887,
+    "qs_pg:gn_pop":569,
+    "qs_pg:name":"Nemile",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399593,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794613,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069887,
+        "gp:id":794613,
+        "qs_pg:id":399593,
+        "wd:id":"Q1977219"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297145,
+    "wof:geomhash":"6c4bdbd9ea156ee07d52d025db1b7d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125941835,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125941835,
+    "wof:lastmodified":1513945419,
+    "wof:name":"Nemile",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":569,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84745,
+    49.87477,
+    16.84745,
+    49.87477
+],
+  "geometry": {"coordinates":[16.84745,49.87477],"type":"Point"}
+}

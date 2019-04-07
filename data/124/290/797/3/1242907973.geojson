@@ -1,0 +1,66 @@
+{
+  "id": 1242907973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13752,50.56536,14.13752,50.56536",
+    "geom:latitude":50.56536,
+    "geom:longitude":14.13752,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Skalice",
+    "gn:country_code":"CZ",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066073,
+    "gn:latitude":50.56536,
+    "gn:longitude":14.13752,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Skalice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066073
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d2fa19029c9c37d764bb1c8f4802008b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242907973,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1242907973,
+    "wof:lastmodified":1537081674,
+    "wof:name":"Skalice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13752,
+    50.56536,
+    14.13752,
+    50.56536
+],
+  "geometry": {"coordinates":[14.13752,50.56536],"type":"Point"}
+}

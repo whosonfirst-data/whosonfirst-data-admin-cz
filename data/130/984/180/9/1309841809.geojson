@@ -1,0 +1,70 @@
+{
+  "id": 1309841809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.47282,50.09587,12.47282,50.09587",
+    "geom:latitude":50.09587,
+    "geom:longitude":12.47282,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Obilna",
+    "gn:country_code":"CZ",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069216,
+    "gn:latitude":50.09587,
+    "gn:longitude":12.47282,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Obiln\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kornov",
+        "Obiln\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069216
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"003733635e61c677c38b13715584ba45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309841809,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1309841809,
+    "wof:lastmodified":1537619337,
+    "wof:name":"Obilna",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.47282,
+    50.09587,
+    12.47282,
+    50.09587
+],
+  "geometry": {"coordinates":[12.47282,50.09587],"type":"Point"}
+}

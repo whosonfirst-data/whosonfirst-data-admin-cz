@@ -1,0 +1,66 @@
+{
+  "id": 1310036383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50732,49.41181,15.50732,49.41181",
+    "geom:latitude":49.41181,
+    "geom:longitude":15.50732,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Stary Rounek",
+    "gn:country_code":"CZ",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065243,
+    "gn:latitude":49.41181,
+    "gn:longitude":15.50732,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Star\u00fd Rounek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065243
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"66caf9a5620668eaf5a73f3c4761bc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310036383,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1310036383,
+    "wof:lastmodified":1537093030,
+    "wof:name":"Stary Rounek",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50732,
+    49.41181,
+    15.50732,
+    49.41181
+],
+  "geometry": {"coordinates":[15.50732,49.41181],"type":"Point"}
+}

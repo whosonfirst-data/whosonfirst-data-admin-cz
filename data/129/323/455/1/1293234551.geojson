@@ -1,0 +1,66 @@
+{
+  "id": 1293234551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43054,49.50108,14.43054,49.50108",
+    "geom:latitude":49.50108,
+    "geom:longitude":14.43054,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Stritez",
+    "gn:country_code":"CZ",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064905,
+    "gn:latitude":49.50108,
+    "gn:longitude":14.43054,
+    "gn:modification_date":"2014-05-14",
+    "gn:name":"St\u0159\u00edte\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064905
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4692605c4729085ec161d60be4ad10ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293234551,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293234551,
+    "wof:lastmodified":1536654803,
+    "wof:name":"Stritez",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43054,
+    49.50108,
+    14.43054,
+    49.50108
+],
+  "geometry": {"coordinates":[14.43054,49.50108],"type":"Point"}
+}

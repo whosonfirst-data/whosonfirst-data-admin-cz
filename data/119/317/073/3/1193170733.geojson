@@ -1,0 +1,70 @@
+{
+  "id": 1193170733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50254,50.47269,13.50254,50.47269",
+    "geom:latitude":50.47269,
+    "geom:longitude":13.50254,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Okorin",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069105,
+    "gn:latitude":50.47269,
+    "gn:longitude":13.50254,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Oko\u0159\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ukkern"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069105
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bbc242cc54939ebf01e6c34149685939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193170733,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1193170733,
+    "wof:lastmodified":1537619336,
+    "wof:name":"Okorin",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50254,
+    50.47269,
+    13.50254,
+    50.47269
+],
+  "geometry": {"coordinates":[13.50254,50.47269],"type":"Point"}
+}

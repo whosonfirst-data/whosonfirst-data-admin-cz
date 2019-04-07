@@ -1,0 +1,67 @@
+{
+  "id": 102536837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0058306,49.827775,16.0058306,49.827775",
+    "geom:latitude":49.827775,
+    "geom:longitude":16.005831,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1601",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582593,
+        "localadmin_id":12609586,
+        "planet_id":1,
+        "state_id":20070465
+    },
+    "wof:belongsto":[
+        85633105,
+        101825259,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512566,
+        "icao:code":"LKSK",
+        "oa:id":"30420",
+        "wd:id":"Q25471808"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b2e47b63b0b38f0f65618ba8644209f7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536837,
+            "country_id":85633105,
+            "locality_id":101825259,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":102536837,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Skutec Airport",
+    "wof:parent_id":101825259,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.0058306,
+    49.827775,
+    16.0058306,
+    49.827775
+],
+  "geometry": {"coordinates":[16.0058306,49.827775],"type":"Point"}
+}

@@ -1,0 +1,134 @@
+{
+  "id": 1125839235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49548,49.32449,17.49548,49.32449",
+    "geom:latitude":49.32449,
+    "geom:longitude":17.49548,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":726,
+    "gn:population":726,
+    "iso:country":"CZ",
+    "lbl:latitude":49.32449,
+    "lbl:longitude":17.49548,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:dut_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:eng_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:fre_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:hun_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:ita_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0447\u0438\u0446\u0435"
+    ],
+    "name:may_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u0627\u0648\u062a\u0634\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:por_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:slo_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0447\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "name:vie_x_preferred":[
+        "Prav\u010dice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067674,
+    "qs_pg:gn_pop":726,
+    "qs_pg:name":"Prav\u010dice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":344704,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796613,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067674,
+        "gp:id":796613,
+        "qs_pg:id":344704,
+        "wd:id":"Q2352929"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292856,
+    "wof:geomhash":"79a89dc661ed36dee2be8e8fd24b8c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125839235,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125839235,
+    "wof:lastmodified":1513945589,
+    "wof:name":"Prav\u010dice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":726,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49548,
+    49.32449,
+    17.49548,
+    49.32449
+],
+  "geometry": {"coordinates":[17.49548,49.32449],"type":"Point"}
+}

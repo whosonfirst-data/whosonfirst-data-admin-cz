@@ -1,0 +1,71 @@
+{
+  "id": 1210051279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40462,49.79565,18.40462,49.79565",
+    "geom:latitude":49.79565,
+    "geom:longitude":18.40462,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0803",
+    "gn:asciiname":"Sumbark",
+    "gn:country_code":"CZ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064681,
+    "gn:latitude":49.79565,
+    "gn:longitude":18.40462,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"\u0160umbark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szumbark",
+        "\u0160umbark"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064681,
+        "wk:page":"%C5%A0umbark"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9141ebaddda89b898805bd1c8d21a5ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1210051279,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1210051279,
+    "wof:lastmodified":1537619286,
+    "wof:name":"Sumbark",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40462,
+    49.79565,
+    18.40462,
+    49.79565
+],
+  "geometry": {"coordinates":[18.40462,49.79565],"type":"Point"}
+}

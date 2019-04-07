@@ -1,0 +1,66 @@
+{
+  "id": 1310534987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.44143,49.59107,16.44143,49.59107",
+    "geom:latitude":49.59107,
+    "geom:longitude":16.44143,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Jobova Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074071,
+    "gn:latitude":49.59107,
+    "gn:longitude":16.44143,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Jobova Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074071
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2b26560644c23df9aba67811f1aff7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310534987,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1310534987,
+    "wof:lastmodified":1536873457,
+    "wof:name":"Jobova Lhota",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.44143,
+    49.59107,
+    16.44143,
+    49.59107
+],
+  "geometry": {"coordinates":[16.44143,49.59107],"type":"Point"}
+}

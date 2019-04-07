@@ -1,0 +1,66 @@
+{
+  "id": 1260214855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98624,49.64004,13.98624,49.64004",
+    "geom:latitude":49.64004,
+    "geom:longitude":13.98624,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Vojna",
+    "gn:country_code":"CZ",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062624,
+    "gn:latitude":49.64004,
+    "gn:longitude":13.98624,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Vojna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062624
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"da38536769ed4852b9a1b89df1bf0d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260214855,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1260214855,
+    "wof:lastmodified":1536805011,
+    "wof:name":"Vojna",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98624,
+    49.64004,
+    13.98624,
+    49.64004
+],
+  "geometry": {"coordinates":[13.98624,49.64004],"type":"Point"}
+}

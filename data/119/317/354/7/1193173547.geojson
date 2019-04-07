@@ -1,0 +1,66 @@
+{
+  "id": 1193173547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.22273,49.43063,13.22273,49.43063",
+    "geom:latitude":49.43063,
+    "geom:longitude":13.22273,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Rakom",
+    "gn:country_code":"CZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067066,
+    "gn:latitude":49.43063,
+    "gn:longitude":13.22273,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"\u0158akom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067066
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"06f889dff51c8829afaba4e2645c5e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193173547,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1193173547,
+    "wof:lastmodified":1536377747,
+    "wof:name":"Rakom",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.22273,
+    49.43063,
+    13.22273,
+    49.43063
+],
+  "geometry": {"coordinates":[13.22273,49.43063],"type":"Point"}
+}

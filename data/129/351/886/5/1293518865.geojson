@@ -1,0 +1,70 @@
+{
+  "id": 1293518865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38531,50.20515,15.38531,50.20515",
+    "geom:latitude":50.20515,
+    "geom:longitude":15.38531,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Vlkov nad Lesy",
+    "gn:country_code":"CZ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062667,
+    "gn:latitude":50.20515,
+    "gn:longitude":15.38531,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Vlkov nad Lesy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vlkov",
+        "Vlkov nad Lesy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062667
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"47d91523522064d406ca7912f8c78400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293518865,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293518865,
+    "wof:lastmodified":1537619266,
+    "wof:name":"Vlkov nad Lesy",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38531,
+    50.20515,
+    15.38531,
+    50.20515
+],
+  "geometry": {"coordinates":[15.38531,50.20515],"type":"Point"}
+}

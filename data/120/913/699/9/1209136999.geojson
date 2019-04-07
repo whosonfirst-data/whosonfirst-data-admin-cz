@@ -1,0 +1,62 @@
+{
+  "id": 1209136999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65272,49.47502,14.65272,49.47502",
+    "geom:latitude":49.47502,
+    "geom:longitude":14.65272,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Rzava",
+    "gn:country_code":"CZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066465,
+    "gn:latitude":49.47502,
+    "gn:longitude":14.65272,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Rzav\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066465
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2b25f2d167b3cf50b634629f8aa3c3b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209136999
+        }
+    ],
+    "wof:id":1209136999,
+    "wof:lastmodified":1536296628,
+    "wof:name":"Rzava",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65272,
+    49.47502,
+    14.65272,
+    49.47502
+],
+  "geometry": {"coordinates":[14.65272,49.47502],"type":"Point"}
+}

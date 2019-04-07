@@ -1,0 +1,95 @@
+{
+  "id": 101831979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":643289.337944,
+    "geom:bbox":"17.6878608102,49.2819341972,17.7035519416,49.295433784",
+    "geom:latitude":49.289582,
+    "geom:longitude":17.694247,
+    "iso:country":"CZ",
+    "lbl:latitude":49.29129,
+    "lbl:longitude":17.694782,
+    "mps:latitude":49.29129,
+    "mps:longitude":17.694782,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Horn\u00ed Ves"
+    ],
+    "name:eng_x_preferred":[
+        "Horn\u00ed Ves"
+    ],
+    "name:fre_x_preferred":[
+        "Horn\u00ed Ves"
+    ],
+    "name:ger_x_preferred":[
+        "Horn\u00ed Ves"
+    ],
+    "name:slo_x_preferred":[
+        "Horn\u00ed Ves"
+    ],
+    "name:unk_x_variant":[
+        "Oberdorf"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Zl\u00ednsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Lukove\u010dek",
+    "qs:la_lc":"*CZ0724557145",
+    "qs:level":"locality",
+    "qs:loc":"Horn\u00ed Ves",
+    "qs:loc_alt":"Horni Ves",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075164,
+        "gp:id":789953,
+        "qs:id":398331,
+        "qs_pg:id":946974,
+        "wd:id":"Q12020280"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d8813806e2c4ca38c4779d6088b929b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101831979,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":101831979,
+    "wof:lastmodified":1527715141,
+    "wof:name":"Horn\u00ed Ves",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68786081021915,
+    49.28193419722527,
+    17.70355194164608,
+    49.29543378397028
+],
+  "geometry": {"coordinates":[[[17.69132837892727,49.28197052857723],[17.68786081021915,49.28943554246285],[17.69024966956846,49.28927170464169],[17.69039069044129,49.29016541881975],[17.69175889409013,49.29007152210926],[17.69260530320292,49.29543378397028],[17.69671032860481,49.29515195845266],[17.69642801854451,49.29336455185233],[17.70053285302237,49.29308258845128],[17.70067407867964,49.29397628609092],[17.70204237186471,49.29388226303774],[17.70218362863773,49.29477595815831],[17.70355194164608,49.29468191648891],[17.70326938534538,49.29289452966299],[17.70190112158372,49.29298856737591],[17.7017598777955,49.29209487117248],[17.70039163385587,49.29218889027021],[17.7002504211805,49.29129519154793],[17.69888219706343,49.29138919203137],[17.69874101549829,49.29049549079036],[17.69737281120354,49.29058947266014],[17.69709051677802,49.28880206460087],[17.69572235692488,49.28889602588106],[17.69501685745092,49.28442748637747],[17.69364881588058,49.28452142114378],[17.69336671070369,49.28273399760178],[17.691998713565,49.28282791178344],[17.69185769530964,49.28193419722527],[17.69132837892727,49.28197052857723]]],"type":"Polygon"}
+}

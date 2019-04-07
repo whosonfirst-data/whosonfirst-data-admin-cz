@@ -1,0 +1,66 @@
+{
+  "id": 1226682077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18782,49.55441,15.18782,49.55441",
+    "geom:latitude":49.55441,
+    "geom:longitude":15.18782,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Necice",
+    "gn:country_code":"CZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069973,
+    "gn:latitude":49.55441,
+    "gn:longitude":15.18782,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Ne\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069973
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"786ede889fdc54e50f7926a89f382c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226682077,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1226682077,
+    "wof:lastmodified":1536806896,
+    "wof:name":"Necice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18782,
+    49.55441,
+    15.18782,
+    49.55441
+],
+  "geometry": {"coordinates":[15.18782,49.55441],"type":"Point"}
+}

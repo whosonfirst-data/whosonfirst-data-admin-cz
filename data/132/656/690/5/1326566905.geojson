@@ -1,0 +1,66 @@
+{
+  "id": 1326566905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26351,49.27912,16.26351,49.27912",
+    "geom:latitude":49.27912,
+    "geom:longitude":16.26351,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0623",
+    "gn:asciiname":"Otmarov",
+    "gn:country_code":"CZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068708,
+    "gn:latitude":49.27912,
+    "gn:longitude":16.26351,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Otmarov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068708
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fbe21be0114f4a88666fe0709c354927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326566905,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1326566905,
+    "wof:lastmodified":1536934679,
+    "wof:name":"Otmarov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26351,
+    49.27912,
+    16.26351,
+    49.27912
+],
+  "geometry": {"coordinates":[16.26351,49.27912],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1360119171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92586,50.50797,13.92586,50.50797",
+    "geom:latitude":50.50797,
+    "geom:longitude":13.92586,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Mrsklesy",
+    "gn:country_code":"CZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070236,
+    "gn:latitude":50.50797,
+    "gn:longitude":13.92586,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Mrsklesy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070236
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3464999c9cfa673d84c7b2ddbeac32bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360119171,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1360119171,
+    "wof:lastmodified":1536896302,
+    "wof:name":"Mrsklesy",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92586,
+    50.50797,
+    13.92586,
+    50.50797
+],
+  "geometry": {"coordinates":[13.92586,50.50797],"type":"Point"}
+}

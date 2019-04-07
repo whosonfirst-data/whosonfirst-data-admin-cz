@@ -1,0 +1,153 @@
+{
+  "id": 101779827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1236136.810458,
+    "geom:bbox":"17.9304030461,49.1088719886,17.9469064124,49.1312824637",
+    "geom:latitude":49.121875,
+    "geom:longitude":17.939513,
+    "gn:population":1532,
+    "iso:country":"CZ",
+    "lbl:latitude":49.126238,
+    "lbl:longitude":17.939388,
+    "mps:latitude":49.126238,
+    "mps:longitude":17.939388,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:ces_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:cze_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:deu_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:dut_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:eng_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:fra_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:fre_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:ger_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:hun_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:ita_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:may_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:msa_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:nan_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:nld_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u0627\u062e\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:por_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:rup_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:slo_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043b\u0430\u0445\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vlachovice"
+    ],
+    "name:unk_x_variant":[
+        "Vlahovice"
+    ],
+    "name:vie_x_preferred":[
+        "Vlachovice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Zl\u00ednsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Vlachovice",
+    "qs:la_lc":"*CZ0724585955",
+    "qs:level":"locality",
+    "qs:loc":"Vlachovice",
+    "qs:loc_alt":"Vlachovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062776,
+        "gp:id":800932,
+        "qs:id":885802,
+        "qs_pg:id":1268729,
+        "wd:id":"Q915966",
+        "wk:page":"Vlachovice (Zl\u00edn District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bc2819f61cffbc4691342169ebd0d9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779827,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":101779827,
+    "wof:lastmodified":1553815495,
+    "wof:name":"Vlachovice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":1532,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93040304609713,
+    49.10887198857495,
+    17.94690641235081,
+    49.13128246371122
+],
+  "geometry": {"coordinates":[[[17.94612305082796,49.12773030962421],[17.94554321496241,49.12415672872248],[17.94690641235081,49.12405977406269],[17.94676144560162,49.1231663794498],[17.9453982725845,49.12326333208119],[17.94525333684089,49.1223699348734],[17.94116386149835,49.12266068731435],[17.94101900549845,49.12176728345736],[17.93965586162369,49.12186416578777],[17.93893180290831,49.11739712787522],[17.94302085433503,49.11710646160566],[17.94287598938405,49.11621305840464],[17.94423897236868,49.11611613855689],[17.94336977572476,49.11075571961277],[17.94473260765795,49.11065879537063],[17.944442879767,49.10887198857495],[17.9417173084222,49.10906581239487],[17.94186212034504,49.10995922012984],[17.94049930297547,49.11005610923195],[17.94064409716952,49.11094951842637],[17.93791839903548,49.11114325101209],[17.93806315114165,49.11203666369192],[17.9367002703766,49.11213350717429],[17.9377135500954,49.1183873942536],[17.9363504939007,49.1184842353573],[17.93707434207073,49.12295129070196],[17.93571115913477,49.12304812537434],[17.9358559242774,49.12394153677144],[17.93040304609713,49.12432871794192],[17.93054772036845,49.12522213687475],[17.93191097162912,49.12512536440113],[17.9323451073144,49.12780561173224],[17.93370842681185,49.12770881661953],[17.9342874646731,49.13128246371122],[17.93701428402295,49.1310888075854],[17.93686946585268,49.13019540071315],[17.94232294824423,49.1298078977926],[17.94217803918542,49.12891449846364],[17.94490470222053,49.12872065167437],[17.94475975104058,49.127827255836],[17.94612305082796,49.12773030962421]]],"type":"Polygon"}
+}

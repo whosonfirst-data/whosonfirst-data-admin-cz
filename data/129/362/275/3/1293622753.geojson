@@ -1,0 +1,70 @@
+{
+  "id": 1293622753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.16208,49.81656,13.16208,49.81656",
+    "geom:latitude":49.81656,
+    "geom:longitude":13.16208,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Trebobuz",
+    "gn:country_code":"CZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064086,
+    "gn:latitude":49.81656,
+    "gn:longitude":13.16208,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"T\u0159ebobuz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zebus",
+        "T\u0159ebobuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064086
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"256be6a844b905c21fe44ebdf4e7b536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293622753,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293622753,
+    "wof:lastmodified":1537619280,
+    "wof:name":"Trebobuz",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.16208,
+    49.81656,
+    13.16208,
+    49.81656
+],
+  "geometry": {"coordinates":[13.16208,49.81656],"type":"Point"}
+}

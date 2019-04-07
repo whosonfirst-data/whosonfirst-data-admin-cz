@@ -1,0 +1,132 @@
+{
+  "id": 1125832403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8037,49.16782,13.8037,49.16782",
+    "geom:latitude":49.16782,
+    "geom:longitude":13.8037,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":944,
+    "gn:population":944,
+    "iso:country":"CZ",
+    "lbl:latitude":49.16782,
+    "lbl:longitude":13.8037,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:hun_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:may_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0634\u0633\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:rup_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0441\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cestice"
+    ],
+    "name:unk_x_variant":[
+        "\u010cestitz"
+    ],
+    "name:vie_x_preferred":[
+        "\u010cestice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077877,
+    "qs_pg:gn_pop":944,
+    "qs_pg:name":"\u010cestice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265532,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787492,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077877,
+        "gp:id":787492,
+        "qs_pg:id":1265532,
+        "wd:id":"Q341371"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292556,
+    "wof:geomhash":"ff3ff63cb50caa8efc1268e2f10b889f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125832403,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125832403,
+    "wof:lastmodified":1553816559,
+    "wof:name":"\u010cestice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":944,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8037,
+    49.16782,
+    13.8037,
+    49.16782
+],
+  "geometry": {"coordinates":[13.8037,49.16782],"type":"Point"}
+}

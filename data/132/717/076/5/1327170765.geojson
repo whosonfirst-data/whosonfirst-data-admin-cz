@@ -1,0 +1,70 @@
+{
+  "id": 1327170765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99075,48.97684,13.99075,48.97684",
+    "geom:latitude":48.97684,
+    "geom:longitude":13.99075,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Libinske Sedlo",
+    "gn:country_code":"CZ",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071938,
+    "gn:latitude":48.97684,
+    "gn:longitude":13.99075,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Lib\u00ednsk\u00e9 Sedlo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pfefferschlag",
+        "Fefry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071938
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e6e68ab627973cc5ce30fe24e5b1463e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327170765,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327170765,
+    "wof:lastmodified":1537619374,
+    "wof:name":"Libinske Sedlo",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99075,
+    48.97684,
+    13.99075,
+    48.97684
+],
+  "geometry": {"coordinates":[13.99075,48.97684],"type":"Point"}
+}

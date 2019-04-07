@@ -1,0 +1,140 @@
+{
+  "id": 1126031455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69814,48.85249,16.69814,48.85249",
+    "geom:latitude":48.85249,
+    "geom:longitude":16.69814,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":463,
+    "gn:population":463,
+    "iso:country":"CZ",
+    "lbl:latitude":48.85249,
+    "lbl:longitude":16.69814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Milovice"
+    ],
+    "name:dut_x_preferred":[
+        "Milovice"
+    ],
+    "name:eng_x_preferred":[
+        "Milovice"
+    ],
+    "name:fre_x_preferred":[
+        "Milovice"
+    ],
+    "name:ger_x_preferred":[
+        "Milovice u Mikulova"
+    ],
+    "name:hun_x_preferred":[
+        "Milovice"
+    ],
+    "name:ita_x_preferred":[
+        "Milovice"
+    ],
+    "name:may_x_preferred":[
+        "Milovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Milovice"
+    ],
+    "name:por_x_preferred":[
+        "Milovice"
+    ],
+    "name:rup_x_preferred":[
+        "Milovice"
+    ],
+    "name:sgs_x_preferred":[
+        "M\u0117luov\u0117c\u0113"
+    ],
+    "name:slo_x_preferred":[
+        "Milovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Milovice"
+    ],
+    "name:vie_x_preferred":[
+        "Milovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070630,
+    "qs_pg:gn_pop":463,
+    "qs_pg:name":"Milovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1025733,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793958,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070630,
+        "gp:id":793958,
+        "qs_pg:id":1025733,
+        "wd:id":"Q1023821"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497301498,
+    "wof:geomhash":"dcea8a6101592b72254b0c5970097ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126031455,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1126031455,
+    "wof:lastmodified":1553816713,
+    "wof:name":"Milovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":463,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69814,
+    48.85249,
+    16.69814,
+    48.85249
+],
+  "geometry": {"coordinates":[16.69814,48.85249],"type":"Point"}
+}

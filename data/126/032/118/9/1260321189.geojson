@@ -1,0 +1,71 @@
+{
+  "id": 1260321189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60278,49.12238,13.60278,49.12238",
+    "geom:latitude":49.12238,
+    "geom:longitude":13.60278,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Milov",
+    "gn:country_code":"CZ",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070634,
+    "gn:latitude":49.12238,
+    "gn:longitude":13.60278,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Milov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Millau",
+        "Milau",
+        "Milov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070634
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"97e6e784f9b14237817c3556ebf2807b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260321189,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260321189,
+    "wof:lastmodified":1537619357,
+    "wof:name":"Milov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60278,
+    49.12238,
+    13.60278,
+    49.12238
+],
+  "geometry": {"coordinates":[13.60278,49.12238],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343793445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22148,49.56999,18.22148,49.56999",
+    "geom:latitude":49.56999,
+    "geom:longitude":18.22148,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0804",
+    "gn:asciiname":"Ticha",
+    "gn:country_code":"CZ",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064226,
+    "gn:latitude":49.56999,
+    "gn:longitude":18.22148,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Tich\u00e1",
+    "gn:population":1585,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tichau"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064226,
+        "wk:page":"Tich%C3%A1"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7cab4d5407a308966c00241f90ba9cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343793445,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1343793445,
+    "wof:lastmodified":1537619281,
+    "wof:name":"Ticha",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1585,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22148,
+    49.56999,
+    18.22148,
+    49.56999
+],
+  "geometry": {"coordinates":[18.22148,49.56999],"type":"Point"}
+}

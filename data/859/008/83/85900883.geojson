@@ -1,0 +1,148 @@
+{
+  "id": 85900883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000226,
+    "geom:area_square_m":1791755.25322,
+    "geom:bbox":"14.2879855304,50.0771066656,14.3041992187,50.0976789787",
+    "geom:latitude":50.08731,
+    "geom:longitude":14.2965,
+    "gn:latitude":50.08108,
+    "gn:longitude":14.31074,
+    "iso:country":"CZ",
+    "lbl:latitude":50.095863,
+    "lbl:longitude":14.285823,
+    "mps:latitude":50.08742,
+    "mps:longitude":14.2965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:ces_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:cze_x_colloquial":[
+        "Praha 6-RuzynAT",
+        "Praha 6-RuzynAeT",
+        "Praha 6-Ruzyne",
+        "Ruzyne"
+    ],
+    "name:cze_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:cze_x_variant":[
+        "Praha 6-Ruzyn\u00e4\u0167"
+    ],
+    "name:dut_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:eng_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:fre_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:ger_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:nld_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:pol_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0437\u0438\u043d\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:slo_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:unk_x_variant":[
+        "Rusun",
+        "Ruzyn\u011b"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"88",
+    "qs:gn_name":"Ruzyn\u011b",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Ruzyn\u011b",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":8,
+    "qs:photo_sum":14,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":171,
+    "wof:belongsto":[
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066545,
+        "gp:id":797634,
+        "qs:id":480960,
+        "qs_pg:id":480960,
+        "wd:id":"Q2331979",
+        "wk:page":"Ruzyn\u011b"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"66d17b2fd0413444d3c10b930e451206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "neighbourhood_id":85900883,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900883,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1527638536,
+    "wof:name":"Ruzyne",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28798553035142,
+    50.07710666564999,
+    14.3041992187251,
+    50.09767897865022
+],
+  "geometry": {"coordinates":[[[14.30193837977845,50.09591716407529],[14.3041991771658,50.09239321089821],[14.30419921870003,50.09239321090006],[14.30419921871459,50.0923931461253],[14.30419921871345,50.08886893380004],[14.3041992187251,50.08710653607532],[14.30129088068145,50.08484014175572],[14.29897169741992,50.07761128395136],[14.29896546995604,50.07761887213771],[14.29791037587034,50.07729881284611],[14.29595947265022,50.07710666564999],[14.2940085694301,50.07729881284611],[14.29213263832639,50.07786787032502],[14.29040377032004,50.07879196952707],[14.28888840483842,50.08003559783826],[14.28798553035142,50.08113575358387],[14.29030444173077,50.08836429541164],[14.2909518854043,50.08886886900014],[14.29321289061676,50.09239314611561],[14.29321289061471,50.09239321090006],[14.29321289061471,50.09591716407529],[14.29321289059999,50.09591722890006],[14.29321293220761,50.09591722890202],[14.29434310224798,50.09767897865022],[14.30088753088859,50.09767897865022],[14.30129073028007,50.09642193519041],[14.30193837977845,50.09591716407529]]],"type":"Polygon"}
+}

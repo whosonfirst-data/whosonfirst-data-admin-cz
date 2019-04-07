@@ -1,0 +1,66 @@
+{
+  "id": 1309942217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91846,50.01218,15.91846,50.01218",
+    "geom:latitude":50.01218,
+    "geom:longitude":15.91846,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0532",
+    "gn:asciiname":"Moravansky",
+    "gn:country_code":"CZ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070358,
+    "gn:latitude":50.01218,
+    "gn:longitude":15.91846,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Moravansk\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070358
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1d4e1097973835d15062e920f7b8ea1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309942217,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1309942217,
+    "wof:lastmodified":1536734655,
+    "wof:name":"Moravansky",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91846,
+    50.01218,
+    15.91846,
+    50.01218
+],
+  "geometry": {"coordinates":[15.91846,50.01218],"type":"Point"}
+}

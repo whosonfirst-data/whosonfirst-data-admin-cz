@@ -1,0 +1,144 @@
+{
+  "id": 101825457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":907065.453135,
+    "geom:bbox":"18.0653394785,49.5924492507,18.0861322344,49.6052525734",
+    "geom:latitude":49.599128,
+    "geom:longitude":18.075347,
+    "gn:population":1047,
+    "iso:country":"CZ",
+    "lbl:latitude":49.598491,
+    "lbl:longitude":18.073772,
+    "mps:latitude":49.598491,
+    "mps:longitude":18.073772,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:cze_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Reimlich"
+    ],
+    "name:dut_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:hun_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:may_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:msa_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u06cc\u0628\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0431\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:slo_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u0431\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Reimrich"
+    ],
+    "name:vie_x_preferred":[
+        "Ryb\u00ed"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"\u0160tramberk",
+    "qs:la_lc":"*CZ0804599948",
+    "qs:level":"locality",
+    "qs:loc":"Ryb\u00ed",
+    "qs:loc_alt":"Rybi",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":276,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066537,
+        "gp:id":797642,
+        "qs:id":1247570,
+        "qs_pg:id":1247570,
+        "wd:id":"Q2290119"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bf9675f92919d96f7d048b9962ccc52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825457,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825457,
+    "wof:lastmodified":1527715061,
+    "wof:name":"Ryb\u00ed",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1047,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.06533947845605,
+    49.59244925073642,
+    18.08613223440597,
+    49.60525257337406
+],
+  "geometry": {"coordinates":[[[18.08442747960891,49.60495630256241],[18.08382878778104,49.60138428012976],[18.08520506160062,49.60128549809065],[18.08475604056338,49.59860648177164],[18.08613223440597,49.5985076892789],[18.08598254962334,49.59761468483322],[18.08185402756544,49.59791100580435],[18.08215325436061,49.59969702671719],[18.07802453649293,49.59999320959434],[18.07742640996577,49.59642114043442],[18.07605026023026,49.59651982620386],[18.07590077083415,49.59562680544445],[18.07314850590086,49.59582412257828],[18.07284964763011,49.59403807103769],[18.07147355737908,49.59413670031097],[18.07132416355398,49.59324367162333],[18.0699480931321,49.59334228206581],[18.06979873115915,49.59244925073642],[18.06842268056693,49.59254784234895],[18.0685720175959,49.59344087576932],[18.06719593694578,49.59353945273426],[18.06749458183128,49.59532552210771],[18.06611844617555,49.59542408651481],[18.06671571902541,49.59899622702801],[18.06533947845605,49.59909478305798],[18.06548878898178,49.59998781890329],[18.06961757020412,49.59969209431603],[18.06976696249717,49.60058512333796],[18.07114323762602,49.60048651290066],[18.07129266178333,49.60137953928063],[18.07404524659552,49.60118226399652],[18.07419472757385,49.60207528564121],[18.07557103725537,49.60197662079338],[18.07572055010337,49.60286963979468],[18.07709687961915,49.60277095611127],[18.07724642433919,49.60366397246884],[18.07999911791558,49.60346655068713],[18.0802983279375,49.60525257337406],[18.08442747960891,49.60495630256241]]],"type":"Polygon"}
+}

@@ -1,0 +1,147 @@
+{
+  "id": 1125861501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49273,48.83704,16.49273,48.83704",
+    "geom:latitude":48.83704,
+    "geom:longitude":16.49273,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1162,
+    "gn:population":1162,
+    "iso:country":"CZ",
+    "lbl:latitude":48.83704,
+    "lbl:longitude":16.49273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Novosedly"
+    ],
+    "name:dut_x_preferred":[
+        "Novosedly"
+    ],
+    "name:eng_x_preferred":[
+        "Novosedly"
+    ],
+    "name:fre_x_preferred":[
+        "Novosedly"
+    ],
+    "name:ger_x_preferred":[
+        "Novosedly na Morav\u011b"
+    ],
+    "name:hun_x_preferred":[
+        "Novosedly"
+    ],
+    "name:ita_x_preferred":[
+        "Novosedly"
+    ],
+    "name:may_x_preferred":[
+        "Novosedly"
+    ],
+    "name:nan_x_preferred":[
+        "Novosedly"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0648\u0648\u0648\u0633\u062f\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Novosedly"
+    ],
+    "name:por_x_preferred":[
+        "Novosedly"
+    ],
+    "name:rup_x_preferred":[
+        "Novosedly"
+    ],
+    "name:slo_x_preferred":[
+        "Novosedly"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u0434\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Novosedly"
+    ],
+    "name:unk_x_variant":[
+        "Neusiedl"
+    ],
+    "name:vie_x_preferred":[
+        "Novosedly"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069395,
+    "qs_pg:gn_pop":1162,
+    "qs_pg:name":"Novosedly",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":208280,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795098,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069395,
+        "gp:id":795098,
+        "qs_pg:id":208280,
+        "wd:id":"Q748651"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293848,
+    "wof:geomhash":"daca8dec6ba8f296ed42dea59f6a35e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125861501,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125861501,
+    "wof:lastmodified":1553816580,
+    "wof:name":"Novosedly",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1162,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[
+        101781077
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49273,
+    48.83704,
+    16.49273,
+    48.83704
+],
+  "geometry": {"coordinates":[16.49273,48.83704],"type":"Point"}
+}

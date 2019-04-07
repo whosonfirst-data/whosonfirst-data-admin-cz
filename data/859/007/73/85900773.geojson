@@ -1,0 +1,151 @@
+{
+  "id": 85900773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4480554.241861,
+    "geom:bbox":"15.833596,50.204679,15.833596,50.204679",
+    "geom:latitude":50.204679,
+    "geom:longitude":15.833596,
+    "iso:country":"CZ",
+    "lbl:latitude":50.204679,
+    "lbl:longitude":15.833596,
+    "mps:latitude":50.198679,
+    "mps:longitude":15.854717,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:ces_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:cze_x_colloquial":[
+        "Malsovice",
+        "Maltovice"
+    ],
+    "name:cze_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:cze_x_variant":[
+        "Malovice"
+    ],
+    "name:deu_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:hsb_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:hun_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:por_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:unk_x_variant":[
+        "Mal\u0161ovice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3074967,
+    "qs:gn_nam_loc":"Hradec Kr\u00e1lov\u00e9, Hradec Kr\u00e1lov\u00e9, Hradec Kr\u00e1lov\u00e9, Kr\u00e1lov\u00e9hradeck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"82",
+    "qs:id":0,
+    "qs:local_max":2121,
+    "qs:local_sum":3247,
+    "qs:localhoods":6,
+    "qs:name":"Mal\u0161ovice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs:name_adm2":"Hradec Kr\u00e1lov\u00e9",
+    "qs:name_lau":"Hradec Kr\u00e1lov\u00e9",
+    "qs:name_local":"Hradec Kr\u00e1lov\u00e9",
+    "qs:photo_max":63,
+    "qs:photo_sum":180,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070466,
+    "qs:woe_adm2":12582595,
+    "qs:woe_lau":12609069,
+    "qs:woe_local":790133,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        101748133,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":793532,
+        "wd:id":"Q12035177"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bf78d28d3a681c9c81193b3826d41767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748133,
+            "neighbourhood_id":85900773,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":85900773,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932379,
+    "wof:name":"Mal\u0161ovice",
+    "wof:parent_id":101748133,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.833596,
+    50.204679,
+    15.833596,
+    50.204679
+],
+  "geometry": {"coordinates":[15.833596,50.204679],"type":"Point"}
+}

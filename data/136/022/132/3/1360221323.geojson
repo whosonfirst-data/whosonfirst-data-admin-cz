@@ -1,0 +1,70 @@
+{
+  "id": 1360221323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79483,50.18092,14.79483,50.18092",
+    "geom:latitude":50.18092,
+    "geom:longitude":14.79483,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Bysicky",
+    "gn:country_code":"CZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078321,
+    "gn:latitude":50.18092,
+    "gn:longitude":14.79483,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"By\u0161i\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "By\u0161i\u010dky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078321,
+        "wk:page":"By%C5%A1i%C4%8Dky"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9da8bfea4a64f03f7026b76f6f7d6d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360221323,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1360221323,
+    "wof:lastmodified":1537619450,
+    "wof:name":"Bysicky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79483,
+    50.18092,
+    14.79483,
+    50.18092
+],
+  "geometry": {"coordinates":[14.79483,50.18092],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 1125923429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70777,49.4917,17.70777,49.4917",
+    "geom:latitude":49.4917,
+    "geom:longitude":17.70777,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":394,
+    "gn:population":394,
+    "iso:country":"CZ",
+    "lbl:latitude":49.4917,
+    "lbl:longitude":17.70777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Rakov"
+    ],
+    "name:dut_x_preferred":[
+        "Rakov"
+    ],
+    "name:eng_x_preferred":[
+        "Rakov"
+    ],
+    "name:fre_x_preferred":[
+        "Rakov"
+    ],
+    "name:ger_x_preferred":[
+        "Rakov"
+    ],
+    "name:hun_x_preferred":[
+        "Rakov"
+    ],
+    "name:ita_x_preferred":[
+        "Rakov"
+    ],
+    "name:may_x_preferred":[
+        "Rakov"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0627\u06a9\u0648\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Rakov"
+    ],
+    "name:por_x_preferred":[
+        "Rakov"
+    ],
+    "name:rup_x_preferred":[
+        "Rakov"
+    ],
+    "name:slo_x_preferred":[
+        "Rakov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Rakov"
+    ],
+    "name:vie_x_preferred":[
+        "Rakov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067063,
+    "qs_pg:gn_pop":394,
+    "qs_pg:name":"Rakov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1267836,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797178,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067063,
+        "gp:id":797178,
+        "qs_pg:id":1267836,
+        "wd:id":"Q1707112"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296561,
+    "wof:geomhash":"ca2438bd60cab84c22167ba7de148707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125923429,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125923429,
+    "wof:lastmodified":1553816632,
+    "wof:name":"Rakov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":394,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70777,
+    49.4917,
+    17.70777,
+    49.4917
+],
+  "geometry": {"coordinates":[17.70777,49.4917],"type":"Point"}
+}

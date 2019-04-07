@@ -1,0 +1,71 @@
+{
+  "id": 1259411781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22448,48.90767,14.22448,48.90767",
+    "geom:latitude":48.90767,
+    "geom:longitude":14.22448,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Janske Udoli",
+    "gn:country_code":"CZ",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074478,
+    "gn:latitude":48.90767,
+    "gn:longitude":14.22448,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Jansk\u00e9 \u00dadol\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strouha",
+        "Johannesthal",
+        "Jansk\u00e9 \u00dadol\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074478
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"464beb1340bc32ef9b533aaf63ccbe56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259411781,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259411781,
+    "wof:lastmodified":1537619401,
+    "wof:name":"Janske Udoli",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22448,
+    48.90767,
+    14.22448,
+    48.90767
+],
+  "geometry": {"coordinates":[14.22448,48.90767],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327066135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42117,50.34638,15.42117,50.34638",
+    "geom:latitude":50.34638,
+    "geom:longitude":15.42117,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Vlhost'",
+    "gn:country_code":"CZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062700,
+    "gn:latitude":50.34638,
+    "gn:longitude":15.42117,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Vlho\u0161\u0165",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062700
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e9ca6cbf0c727d16592eb67418d13960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327066135,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1327066135,
+    "wof:lastmodified":1536712023,
+    "wof:name":"Vlhost'",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42117,
+    50.34638,
+    15.42117,
+    50.34638
+],
+  "geometry": {"coordinates":[15.42117,50.34638],"type":"Point"}
+}

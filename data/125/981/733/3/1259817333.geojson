@@ -1,0 +1,70 @@
+{
+  "id": 1259817333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75171,50.23495,17.75171,50.23495",
+    "geom:latitude":50.23495,
+    "geom:longitude":17.75171,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Matejovice",
+    "gn:country_code":"CZ",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070924,
+    "gn:latitude":50.23495,
+    "gn:longitude":17.75171,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Mat\u011bjovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matzdorf",
+        "Mat\u011bjovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070924
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"549e44f10d46840e159dae4e0e680197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259817333,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1259817333,
+    "wof:lastmodified":1537619361,
+    "wof:name":"Matejovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75171,
+    50.23495,
+    17.75171,
+    50.23495
+],
+  "geometry": {"coordinates":[17.75171,50.23495],"type":"Point"}
+}

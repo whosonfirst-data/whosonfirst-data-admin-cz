@@ -1,0 +1,135 @@
+{
+  "id": 1125789143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54497,49.91634,15.54497,49.91634",
+    "geom:latitude":49.91634,
+    "geom:longitude":15.54497,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":215,
+    "gn:population":215,
+    "iso:country":"CZ",
+    "lbl:latitude":49.91634,
+    "lbl:longitude":15.54497,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Lipovec"
+    ],
+    "name:dut_x_preferred":[
+        "Lipovec"
+    ],
+    "name:eng_x_preferred":[
+        "Lipovec"
+    ],
+    "name:epo_x_preferred":[
+        "Lipovec"
+    ],
+    "name:fre_x_preferred":[
+        "Lipovec"
+    ],
+    "name:ger_x_preferred":[
+        "Lipovec u \u010c\u00e1slavi"
+    ],
+    "name:hun_x_preferred":[
+        "Lipovec"
+    ],
+    "name:ita_x_preferred":[
+        "Lipovec"
+    ],
+    "name:may_x_preferred":[
+        "Lipovec"
+    ],
+    "name:pol_x_preferred":[
+        "Lipovec"
+    ],
+    "name:por_x_preferred":[
+        "Lipovec"
+    ],
+    "name:rup_x_preferred":[
+        "Lipovec"
+    ],
+    "name:slo_x_preferred":[
+        "Lipovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Lipovec"
+    ],
+    "name:vie_x_preferred":[
+        "Lipovec"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071770,
+    "qs_pg:gn_pop":215,
+    "qs_pg:name":"Lipovec",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1266860,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792946,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071770,
+        "gp:id":792946,
+        "qs_pg:id":1266860,
+        "wd:id":"Q2523855"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290800,
+    "wof:geomhash":"3dd2e313ac3e3bdfbc0d37cc01ed891a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125789143,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125789143,
+    "wof:lastmodified":1553816535,
+    "wof:name":"Lipovec",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54497,
+    49.91634,
+    15.54497,
+    49.91634
+],
+  "geometry": {"coordinates":[15.54497,49.91634],"type":"Point"}
+}

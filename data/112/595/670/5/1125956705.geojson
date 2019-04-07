@@ -1,0 +1,132 @@
+{
+  "id": 1125956705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21948,49.99153,15.21948,49.99153",
+    "geom:latitude":49.99153,
+    "geom:longitude":15.21948,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":496,
+    "gn:population":496,
+    "iso:country":"CZ",
+    "lbl:latitude":49.99153,
+    "lbl:longitude":15.21948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:dut_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:eng_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:fre_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:hun_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:ita_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:may_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0628\u0648\u0648\u06cc\u062f\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:por_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:rup_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:slo_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0431\u043e\u0432\u0438\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Nebovidy"
+    ],
+    "name:vie_x_preferred":[
+        "Nebovidy"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069993,
+    "qs_pg:gn_pop":496,
+    "qs_pg:name":"Nebovidy",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1247519,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794513,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069993,
+        "gp:id":794513,
+        "qs_pg:id":1247519,
+        "wd:id":"Q2395695"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297642,
+    "wof:geomhash":"f495ee89097fb6b83024a72ef437b8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125956705,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125956705,
+    "wof:lastmodified":1553816655,
+    "wof:name":"Nebovidy",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":496,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21948,
+    49.99153,
+    15.21948,
+    49.99153
+],
+  "geometry": {"coordinates":[15.21948,49.99153],"type":"Point"}
+}

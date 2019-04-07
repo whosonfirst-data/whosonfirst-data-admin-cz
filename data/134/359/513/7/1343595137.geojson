@@ -1,0 +1,71 @@
+{
+  "id": 1343595137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05443,50.72331,14.05443,50.72331",
+    "geom:latitude":50.72331,
+    "geom:longitude":14.05443,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Lucni Chvojno",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071433,
+    "gn:latitude":50.72331,
+    "gn:longitude":14.05443,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Lu\u010dn\u00ed Chvojno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deutsch Kahn",
+        "N\u011bmeck\u00e9 Chvojno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071433
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"28c4c1241cb8bde70ee5bec84cf9d9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343595137,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1343595137,
+    "wof:lastmodified":1537619368,
+    "wof:name":"Lucni Chvojno",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05443,
+    50.72331,
+    14.05443,
+    50.72331
+],
+  "geometry": {"coordinates":[14.05443,50.72331],"type":"Point"}
+}

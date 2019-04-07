@@ -1,0 +1,62 @@
+{
+  "id": 1209243745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73822,49.90528,15.73822,49.90528",
+    "geom:latitude":49.90528,
+    "geom:longitude":15.73822,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Mytka",
+    "gn:country_code":"CZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070140,
+    "gn:latitude":49.90528,
+    "gn:longitude":15.73822,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"M\u00fdtka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070140
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5a35c47c4373c0eb265f409decd8821b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209243745
+        }
+    ],
+    "wof:id":1209243745,
+    "wof:lastmodified":1536293235,
+    "wof:name":"Mytka",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.738220000000002,
+    49.90528,
+    15.738220000000002,
+    49.90528
+],
+  "geometry": {"coordinates":[15.73822,49.90528],"type":"Point"}
+}

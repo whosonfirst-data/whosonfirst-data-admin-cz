@@ -1,0 +1,66 @@
+{
+  "id": 1360320173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.37354,49.48558,13.37354,49.48558",
+    "geom:latitude":49.48558,
+    "geom:longitude":13.37354,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0324",
+    "gn:asciiname":"Malinec",
+    "gn:country_code":"CZ",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071130,
+    "gn:latitude":49.48558,
+    "gn:longitude":13.37354,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Malinec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071130
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8f40f0142889e47aca0530cc00a00779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360320173,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1360320173,
+    "wof:lastmodified":1536603401,
+    "wof:name":"Malinec",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.37354,
+    49.48558,
+    13.37354,
+    49.48558
+],
+  "geometry": {"coordinates":[13.37354,49.48558],"type":"Point"}
+}

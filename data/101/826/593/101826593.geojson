@@ -1,0 +1,111 @@
+{
+  "id": 101826593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":508366.839248,
+    "geom:bbox":"17.5076075056,49.473637835,17.5246468721,49.4802622865",
+    "geom:latitude":49.477051,
+    "geom:longitude":17.516167,
+    "gn:population":1110,
+    "iso:country":"CZ",
+    "lbl:latitude":49.47675,
+    "lbl:longitude":17.516167,
+    "mps:latitude":49.47675,
+    "mps:longitude":17.516167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Radslavice"
+    ],
+    "name:ces_x_preferred":[
+        "Radslavice"
+    ],
+    "name:deu_x_preferred":[
+        "Radslavice u P\u0159erova"
+    ],
+    "name:hun_x_preferred":[
+        "Radslavice"
+    ],
+    "name:ita_x_preferred":[
+        "Radslavice"
+    ],
+    "name:msa_x_preferred":[
+        "Radslavice"
+    ],
+    "name:nld_x_preferred":[
+        "Radslavice"
+    ],
+    "name:pol_x_preferred":[
+        "Radslavice"
+    ],
+    "name:por_x_preferred":[
+        "Radslavice"
+    ],
+    "name:slk_x_preferred":[
+        "Radslavice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Olomouck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Radslavice",
+    "qs:la_lc":"*CZ0714517534",
+    "qs:level":"locality",
+    "qs:loc":"Radslavice",
+    "qs:loc_alt":"Radslavice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067110,
+        "gp:id":797134,
+        "qs:id":244868,
+        "qs_pg:id":244868,
+        "wd:id":"Q787608",
+        "wk:page":"Radslavice (P\u0159erov District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d2ec963ece0519cc4b09e91160254467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826593,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":101826593,
+    "wof:lastmodified":1507750720,
+    "wof:name":"Radslavice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":1110,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.50760750555878,
+    49.47363783499719,
+    17.52464687205077,
+    49.48026228652122
+],
+  "geometry": {"coordinates":[[[17.51351808123371,49.4791848398944],[17.52176060249906,49.47863381504254],[17.52189935310281,49.47952770491986],[17.52464687205077,49.47934389234115],[17.52423049014192,49.47666223281453],[17.52148312050844,49.47684603372772],[17.52120566413714,49.47505825033278],[17.51983202197732,49.47515012182771],[17.51969332827935,49.47425622740633],[17.51557244802154,49.47453173576628],[17.51543383537023,49.47363783499719],[17.51268660795114,49.47382141977408],[17.5128251708382,49.47471532442643],[17.51145152514533,49.47480709368244],[17.51159006954549,49.47570099975661],[17.51021639423561,49.47579275423726],[17.51035492014637,49.4766866617328],[17.50760750555878,49.47687012442498],[17.50774598809141,49.47776403528246],[17.50911972263816,49.47767231035436],[17.50925823645281,49.47856621875201],[17.51063199115515,49.47847447516574],[17.51090908774864,49.48026228652122],[17.51365668250799,49.48007874142939],[17.51351808123371,49.4791848398944]]],"type":"Polygon"}
+}

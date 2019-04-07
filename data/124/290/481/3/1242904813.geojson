@@ -1,0 +1,66 @@
+{
+  "id": 1242904813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35244,49.55695,14.35244,49.55695",
+    "geom:latitude":49.55695,
+    "geom:longitude":14.35244,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Vilasova Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062905,
+    "gn:latitude":49.55695,
+    "gn:longitude":14.35244,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Vilasova Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062905
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"26576a2eebc063252b7f6b417e78690a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242904813,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1242904813,
+    "wof:lastmodified":1537086277,
+    "wof:name":"Vilasova Lhota",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35244,
+    49.55695,
+    14.35244,
+    49.55695
+],
+  "geometry": {"coordinates":[14.35244,49.55695],"type":"Point"}
+}

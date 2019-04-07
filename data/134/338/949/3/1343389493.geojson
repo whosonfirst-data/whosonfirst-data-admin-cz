@@ -1,0 +1,66 @@
+{
+  "id": 1343389493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6704,49.35146,13.6704,49.35146",
+    "geom:latitude":49.35146,
+    "geom:longitude":13.6704,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Trebomyslice",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064080,
+    "gn:latitude":49.35146,
+    "gn:longitude":13.6704,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"T\u0159ebomyslice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064080
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c11fae9bef496f22f9c10056b5488e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343389493,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343389493,
+    "wof:lastmodified":1536847677,
+    "wof:name":"Trebomyslice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6704,
+    49.35146,
+    13.6704,
+    49.35146
+],
+  "geometry": {"coordinates":[13.6704,49.35146],"type":"Point"}
+}

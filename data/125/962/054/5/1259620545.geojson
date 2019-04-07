@@ -1,0 +1,66 @@
+{
+  "id": 1259620545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91249,49.60736,13.91249,49.60736",
+    "geom:latitude":49.60736,
+    "geom:longitude":13.91249,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Nesvacily",
+    "gn:country_code":"CZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069818,
+    "gn:latitude":49.60736,
+    "gn:longitude":13.91249,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Nesva\u010dily",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069818
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fda358dd33d3d9d38ad839684a8dd609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259620545,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1259620545,
+    "wof:lastmodified":1536661244,
+    "wof:name":"Nesvacily",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91249,
+    49.60736,
+    13.91249,
+    49.60736
+],
+  "geometry": {"coordinates":[13.91249,49.60736],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293523259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5071,48.87838,14.5071,48.87838",
+    "geom:latitude":48.87838,
+    "geom:longitude":14.5071,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Dolni Stropnice",
+    "gn:country_code":"CZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076672,
+    "gn:latitude":48.87838,
+    "gn:longitude":14.5071,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Doln\u00ed Stropnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stropnice",
+        "Doln\u00ed Stropnice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076672
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5ac519950b375d98e54ef39ae3786818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293523259,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293523259,
+    "wof:lastmodified":1537619430,
+    "wof:name":"Dolni Stropnice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5071,
+    48.87838,
+    14.5071,
+    48.87838
+],
+  "geometry": {"coordinates":[14.5071,48.87838],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226377321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.52679,49.62166,16.52679,49.62166",
+    "geom:latitude":49.62166,
+    "geom:longitude":16.52679,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Moravska Chrastova",
+    "gn:country_code":"CZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070335,
+    "gn:latitude":49.62166,
+    "gn:longitude":16.52679,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Moravsk\u00e1 Chrastov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e4hrisch Chrostau",
+        "Moravsk\u00e1 Chrastov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070335
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b2c7e5bac849ef396e4798b59ff79be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226377321,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1226377321,
+    "wof:lastmodified":1537619353,
+    "wof:name":"Moravska Chrastova",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52679,
+    49.62166,
+    16.52679,
+    49.62166
+],
+  "geometry": {"coordinates":[16.52679,49.62166],"type":"Point"}
+}

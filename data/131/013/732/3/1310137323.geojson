@@ -1,0 +1,70 @@
+{
+  "id": 1310137323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.84118,49.66656,12.84118,49.66656",
+    "geom:latitude":49.66656,
+    "geom:longitude":12.84118,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Boneticky",
+    "gn:country_code":"CZ",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079052,
+    "gn:latitude":49.66656,
+    "gn:longitude":12.84118,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Bon\u011bti\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klein Wonetitz",
+        "Bon\u011bti\u010dky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079052
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"75d148734b36d54bcd3b2f98139d3f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310137323,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1310137323,
+    "wof:lastmodified":1537619457,
+    "wof:name":"Boneticky",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.84118,
+    49.66656,
+    12.84118,
+    49.66656
+],
+  "geometry": {"coordinates":[12.84118,49.66656],"type":"Point"}
+}

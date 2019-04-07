@@ -1,0 +1,66 @@
+{
+  "id": 1293231355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43854,49.57398,14.43854,49.57398",
+    "geom:latitude":49.57398,
+    "geom:longitude":14.43854,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Redicky",
+    "gn:country_code":"CZ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066962,
+    "gn:latitude":49.57398,
+    "gn:longitude":14.43854,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"\u0158edi\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066962
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"30f22c65d1cd2d9e5dc0cd8b978cd192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293231355,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293231355,
+    "wof:lastmodified":1536659501,
+    "wof:name":"Redicky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43854,
+    49.57398,
+    14.43854,
+    49.57398
+],
+  "geometry": {"coordinates":[14.43854,49.57398],"type":"Point"}
+}

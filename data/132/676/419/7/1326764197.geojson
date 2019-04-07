@@ -1,0 +1,70 @@
+{
+  "id": 1326764197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.60242,49.16934,17.60242,49.16934",
+    "geom:latitude":49.16934,
+    "geom:longitude":17.60242,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072103,
+    "gn:latitude":49.16934,
+    "gn:longitude":17.60242,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Lhota",
+    "gn:population":782,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072103,
+        "wk:page":"Lhota_%28Zl%C3%ADn_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4683db6356f1c9973bdf8c9df6c4c0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326764197,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1326764197,
+    "wof:lastmodified":1537504047,
+    "wof:name":"Lhota",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":782,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.60242000000001,
+    49.16934000000001,
+    17.60242000000001,
+    49.16934000000001
+],
+  "geometry": {"coordinates":[17.60242000000001,49.16934000000001],"type":"Point"}
+}

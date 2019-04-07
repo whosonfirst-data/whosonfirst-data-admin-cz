@@ -1,0 +1,70 @@
+{
+  "id": 1209553647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18048,49.46296,17.18048,49.46296",
+    "geom:latitude":49.46296,
+    "geom:longitude":17.18048,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0713",
+    "gn:asciiname":"Kralice na Hane",
+    "gn:country_code":"CZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072954,
+    "gn:latitude":49.46296,
+    "gn:longitude":17.18048,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Kralice na Han\u00e9",
+    "gn:population":1427,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kralitz",
+        "Kralice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072954,
+        "wk:page":"Kralice_na_Han%C3%A9"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"060fccd3469c6ce5abd9ba13e937f4cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209553647
+        }
+    ],
+    "wof:id":1209553647,
+    "wof:lastmodified":1537619386,
+    "wof:name":"Kralice na Hane",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:population":1427,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18048,
+    49.46296,
+    17.18048,
+    49.46296
+],
+  "geometry": {"coordinates":[17.18048,49.46296],"type":"Point"}
+}

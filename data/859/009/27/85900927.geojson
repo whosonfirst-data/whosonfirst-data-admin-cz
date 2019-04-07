@@ -1,0 +1,114 @@
+{
+  "id": 85900927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5275589.67145,
+    "geom:bbox":"14.226459,50.793176,14.226459,50.793176",
+    "geom:latitude":50.793176,
+    "geom:longitude":14.226459,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.793176,
+    "lbl:longitude":14.226459,
+    "mps:latitude":50.76067,
+    "mps:longitude":14.23303,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "Stare Mesto",
+        "Stare Msto"
+    ],
+    "name:cze_x_preferred":[
+        "Star\u00e9 Msto"
+    ],
+    "name:cze_x_variant":[
+        "Altstadt"
+    ],
+    "name:unk_x_variant":[
+        "Star\u00e9 Msto"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3077244,
+    "qs:gn_nam_loc":"D\u011b\u010d\u00edn, D\u011b\u010d\u00edn, D\u011b\u010d\u00edn, \u00dasteck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"89",
+    "qs:local_max":595,
+    "qs:local_sum":645,
+    "qs:localhoods":3,
+    "qs:name":"Star\u00e9 Msto",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs:name_adm2":"D\u011b\u010d\u00edn",
+    "qs:name_lau":"D\u011b\u010d\u00edn",
+    "qs:name_local":"D\u011b\u010d\u00edn",
+    "qs:photo_max":17,
+    "qs:photo_sum":23,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070499,
+    "qs:woe_adm2":12582562,
+    "qs:woe_lau":12606602,
+    "qs:woe_local":788060,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[
+        85900843
+    ],
+    "wof:concordances":{
+        "gp:id":798693,
+        "qs:id":398767,
+        "qs_pg:id":398767
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3a7d53f63a0089db8a4b185052249adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900927,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":85900927,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932406,
+    "wof:name":"Star\u00e9 Msto",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.226459,
+    50.793176,
+    14.226459,
+    50.793176
+],
+  "geometry": {"coordinates":[14.226459,50.793176],"type":"Point"}
+}

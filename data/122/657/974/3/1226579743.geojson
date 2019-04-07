@@ -1,0 +1,70 @@
+{
+  "id": 1226579743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40242,48.88622,16.40242,48.88622",
+    "geom:latitude":48.88622,
+    "geom:longitude":16.40242,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0627",
+    "gn:asciiname":"Litbratrice",
+    "gn:country_code":"CZ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071701,
+    "gn:latitude":48.88622,
+    "gn:longitude":16.40242,
+    "gn:modification_date":"2017-01-17",
+    "gn:name":"Litbrat\u0159ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leipertitz",
+        "Litbrat\u0159ice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071701
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f1ed3dce681e569465313f67cb3e3d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226579743,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1226579743,
+    "wof:lastmodified":1537619371,
+    "wof:name":"Litbratrice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40242000000001,
+    48.88622,
+    16.40242000000001,
+    48.88622
+],
+  "geometry": {"coordinates":[16.40242000000001,48.88622],"type":"Point"}
+}

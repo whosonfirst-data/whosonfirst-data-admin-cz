@@ -1,0 +1,66 @@
+{
+  "id": 1343395975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93365,49.50403,12.93365,49.50403",
+    "geom:latitude":49.50403,
+    "geom:longitude":12.93365,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Horni Valdorf",
+    "gn:country_code":"CZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6618786,
+    "gn:latitude":49.50403,
+    "gn:longitude":12.93365,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Horn\u00ed Valdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618786
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6ce040aa73b8f9d3af9796b34e29a85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343395975,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343395975,
+    "wof:lastmodified":1536838251,
+    "wof:name":"Horni Valdorf",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93365,
+    49.50403,
+    12.93365,
+    49.50403
+],
+  "geometry": {"coordinates":[12.93365,49.50403],"type":"Point"}
+}

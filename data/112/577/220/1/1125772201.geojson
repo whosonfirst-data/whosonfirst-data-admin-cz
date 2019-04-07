@@ -1,0 +1,148 @@
+{
+  "id": 1125772201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72198,50.53364,14.72198,50.53364",
+    "geom:latitude":50.53364,
+    "geom:longitude":14.72198,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":275,
+    "gn:population":275,
+    "iso:country":"CZ",
+    "lbl:latitude":50.53364,
+    "lbl:longitude":14.72198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:dut_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:eng_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:fre_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:ger_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:hun_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:ita_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:may_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:nan_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0632\u062f\u06cc\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:por_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:rup_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0437\u0434\u0435\u0437"
+    ],
+    "name:slo_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0437\u0434\u0458\u0435\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "name:unk_x_variant":[
+        "Schloss B\u00f6sig"
+    ],
+    "name:vie_x_preferred":[
+        "Bezd\u011bz"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079407,
+    "qs_pg:gn_pop":275,
+    "qs_pg:name":"Bezd\u011bz",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos":107,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":107,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1159047,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786169,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079407,
+        "gp:id":786169,
+        "qs_pg:id":1159047,
+        "wd:id":"Q853522"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290106,
+    "wof:geomhash":"60b42c53883381a7568c56251f75e2fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125772201,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1125772201,
+    "wof:lastmodified":1553816524,
+    "wof:name":"Bezd\u011bz",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:population":275,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72198,
+    50.53364,
+    14.72198,
+    50.53364
+],
+  "geometry": {"coordinates":[14.72198,50.53364],"type":"Point"}
+}

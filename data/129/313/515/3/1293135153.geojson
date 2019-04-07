@@ -1,0 +1,66 @@
+{
+  "id": 1293135153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54845,49.2827,13.54845,49.2827",
+    "geom:latitude":49.2827,
+    "geom:longitude":13.54845,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Lipova Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071772,
+    "gn:latitude":49.2827,
+    "gn:longitude":13.54845,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Lipov\u00e1 Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071772
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"848b13bf20088c4dd4b5a719bb26cbca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293135153,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293135153,
+    "wof:lastmodified":1536798154,
+    "wof:name":"Lipova Lhota",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54845,
+    49.2827,
+    13.54845,
+    49.2827
+],
+  "geometry": {"coordinates":[13.54845,49.2827],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 85900903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13403324.737468,
+    "geom:bbox":"13.640416,50.479073,13.640416,50.479073",
+    "geom:latitude":50.479073,
+    "geom:longitude":13.640416,
+    "gn:latitude":50.48333,
+    "gn:longitude":13.65,
+    "iso:country":"CZ",
+    "lbl:latitude":50.479073,
+    "lbl:longitude":13.640416,
+    "mps:latitude":50.492339,
+    "mps:longitude":13.645751,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "Skyrice"
+    ],
+    "name:cze_x_preferred":[
+        "Skyice"
+    ],
+    "name:unk_x_variant":[
+        "Skyice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3070291,
+    "qs:gn_nam_loc":"Most, Most, Most, \u00dasteck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Sky\u0159ice",
+    "qs:local_max":71,
+    "qs:local_sum":71,
+    "qs:localhoods":1,
+    "qs:name":"Skyice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs:name_adm2":"Most",
+    "qs:name_lau":"Most",
+    "qs:name_local":"Most",
+    "qs:photo_max":25,
+    "qs:photo_sum":71,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070499,
+    "qs:woe_adm2":12582567,
+    "qs:woe_lau":12606622,
+    "qs:woe_local":794257,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748143,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065914,
+        "gp:id":798194,
+        "qs:id":183293,
+        "qs_pg:id":183293
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ebefa6a6f1072d57bfa0338b48bb8c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748143,
+            "neighbourhood_id":85900903,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":85900903,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932402,
+    "wof:name":"Skyice",
+    "wof:parent_id":101748143,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.640416,
+    50.479073,
+    13.640416,
+    50.479073
+],
+  "geometry": {"coordinates":[13.640416,50.479073],"type":"Point"}
+}

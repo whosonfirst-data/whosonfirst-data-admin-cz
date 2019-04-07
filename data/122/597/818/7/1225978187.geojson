@@ -1,0 +1,70 @@
+{
+  "id": 1225978187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17123,49.05821,15.17123,49.05821",
+    "geom:latitude":49.05821,
+    "geom:longitude":15.17123,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Klenova",
+    "gn:country_code":"CZ",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073636,
+    "gn:latitude":49.05821,
+    "gn:longitude":15.17123,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Klenov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leinbaum",
+        "Klenov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073636
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d8f524f7199d35fb0847932d177ec349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225978187,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1225978187,
+    "wof:lastmodified":1537619392,
+    "wof:name":"Klenova",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17123,
+    49.05821,
+    15.17123,
+    49.05821
+],
+  "geometry": {"coordinates":[15.17123,49.05821],"type":"Point"}
+}

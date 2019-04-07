@@ -1,0 +1,71 @@
+{
+  "id": 1293329885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55433,50.99102,14.55433,50.99102",
+    "geom:latitude":50.99102,
+    "geom:longitude":14.55433,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Novy Jirikov",
+    "gn:country_code":"CZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069302,
+    "gn:latitude":50.99102,
+    "gn:longitude":14.55433,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Nov\u00fd Ji\u0159\u00edkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nov\u00e1 Georgswalde",
+        "Neu-Georgswalde",
+        "Nov\u00fd Ji\u0159\u00edkov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069302
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"29909e7ce42886bb65bc670634a23441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293329885,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1293329885,
+    "wof:lastmodified":1537619338,
+    "wof:name":"Novy Jirikov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55433,
+    50.99102,
+    14.55433,
+    50.99102
+],
+  "geometry": {"coordinates":[14.55433,50.99102],"type":"Point"}
+}

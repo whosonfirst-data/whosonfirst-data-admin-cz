@@ -1,0 +1,66 @@
+{
+  "id": 1226278463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29295,48.93668,17.29295,48.93668",
+    "geom:latitude":48.93668,
+    "geom:longitude":17.29295,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0625",
+    "gn:asciiname":"Bzenec-Privoz",
+    "gn:country_code":"CZ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11127993,
+    "gn:latitude":48.93668,
+    "gn:longitude":17.29295,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Bzenec-P\u0159\u00edvoz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11127993
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1f5d8681a60abd3255c98d1cc649d152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226278463,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1226278463,
+    "wof:lastmodified":1536885965,
+    "wof:name":"Bzenec-Privoz",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29295,
+    48.93668,
+    17.29295,
+    48.93668
+],
+  "geometry": {"coordinates":[17.29295,48.93668],"type":"Point"}
+}

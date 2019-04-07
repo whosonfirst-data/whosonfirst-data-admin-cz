@@ -1,0 +1,70 @@
+{
+  "id": 1260320503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44369,49.03659,15.44369,49.03659",
+    "geom:latitude":49.03659,
+    "geom:longitude":15.44369,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Vnorovice",
+    "gn:country_code":"CZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062659,
+    "gn:latitude":49.03659,
+    "gn:longitude":15.44369,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Vnorovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urivitz",
+        "Vnorovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062659
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"420ee1246647a6ab4e044dd6007c10a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260320503,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260320503,
+    "wof:lastmodified":1537619266,
+    "wof:name":"Vnorovice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44369,
+    49.03659,
+    15.44369,
+    49.03659
+],
+  "geometry": {"coordinates":[15.44369,49.03659],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293234329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23355,50.4038,15.23355,50.4038",
+    "geom:latitude":50.4038,
+    "geom:longitude":15.23355,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Vazice",
+    "gn:country_code":"CZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063355,
+    "gn:latitude":50.4038,
+    "gn:longitude":15.23355,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Va\u017eice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063355
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0c3f256a9e667394e092d0a1f212e3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293234329,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293234329,
+    "wof:lastmodified":1536655157,
+    "wof:name":"Vazice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23355,
+    50.4038,
+    15.23355,
+    50.4038
+],
+  "geometry": {"coordinates":[15.23355,50.4038],"type":"Point"}
+}

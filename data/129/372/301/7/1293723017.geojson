@@ -1,0 +1,66 @@
+{
+  "id": 1293723017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.42187,50.07332,13.42187,50.07332",
+    "geom:latitude":50.07332,
+    "geom:longitude":13.42187,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Ostrovec",
+    "gn:country_code":"CZ",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068757,
+    "gn:latitude":50.07332,
+    "gn:longitude":13.42187,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Ostrovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068757
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cffccbab6c873f0e38b7d4758e83bcb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293723017,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293723017,
+    "wof:lastmodified":1536945378,
+    "wof:name":"Ostrovec",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.42187,
+    50.07332,
+    13.42187,
+    50.07332
+],
+  "geometry": {"coordinates":[13.42187,50.07332],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 101825761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":617926.585539,
+    "geom:bbox":"14.0384350837,50.1151099134,14.0513829184,50.1251811258",
+    "geom:latitude":50.119424,
+    "geom:longitude":14.04441,
+    "gn:population":1156,
+    "iso:country":"CZ",
+    "lbl:latitude":50.119079,
+    "lbl:longitude":14.044534,
+    "mps:latitude":50.119079,
+    "mps:longitude":14.044534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Doksy"
+    ],
+    "name:dut_x_preferred":[
+        "Doksy"
+    ],
+    "name:eng_x_preferred":[
+        "Doksy"
+    ],
+    "name:fre_x_preferred":[
+        "Doksy"
+    ],
+    "name:ger_x_preferred":[
+        "Doksy u Kladna"
+    ],
+    "name:hun_x_preferred":[
+        "Doksy"
+    ],
+    "name:ita_x_preferred":[
+        "Doksy"
+    ],
+    "name:may_x_preferred":[
+        "Doksy"
+    ],
+    "name:nan_x_preferred":[
+        "Doksy"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u06a9\u0633\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Doksy"
+    ],
+    "name:por_x_preferred":[
+        "Doksy"
+    ],
+    "name:rup_x_preferred":[
+        "Doksy"
+    ],
+    "name:slo_x_preferred":[
+        "Doksy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043a\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Doksy"
+    ],
+    "name:vie_x_preferred":[
+        "Doksy"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Stredocesk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Doksy",
+    "qs:la_lc":"*CZ0203532223",
+    "qs:level":"locality",
+    "qs:loc":"Doksy",
+    "qs:loc_alt":"Doksy",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076973,
+        "gp:id":788307,
+        "qs:id":245042,
+        "qs_pg:id":245042,
+        "wd:id":"Q948185",
+        "wk:page":"Doksy (Kladno District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9132d1c68380a47d5d4bf2e6434ceda4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825761,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":101825761,
+    "wof:lastmodified":1553815527,
+    "wof:name":"Doksy",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":1156,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03843508373853,
+    50.11510991340367,
+    14.05138291842775,
+    50.12518112581188
+],
+  "geometry": {"coordinates":[[[14.04749871719849,50.1241349041149],[14.04727000157834,50.12144228515064],[14.0486664131459,50.12139269437756],[14.04859015561209,50.12049515517316],[14.05138291842775,50.12039592451146],[14.05123030946817,50.11860084946341],[14.04983398171805,50.11865047118999],[14.04975770878252,50.11775293212474],[14.04836140453108,50.11780253569111],[14.04813268572366,50.11510991340367],[14.04254775601953,50.11530814393575],[14.04262388740335,50.11620568929982],[14.03843508373853,50.11635418601537],[14.03889147630707,50.12173947094288],[14.04168432869949,50.12164047736422],[14.04176045898572,50.12253802162019],[14.04315690736223,50.12248849812681],[14.04338539821691,50.12518112581188],[14.04478192244295,50.12513158201295],[14.04470572907098,50.12423404083489],[14.04749871719849,50.1241349041149]]],"type":"Polygon"}
+}

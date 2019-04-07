@@ -1,0 +1,138 @@
+{
+  "id": 1125791801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89367,49.93375,16.89367,49.93375",
+    "geom:latitude":49.93375,
+    "geom:longitude":16.89367,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":584,
+    "gn:population":584,
+    "iso:country":"CZ",
+    "lbl:latitude":49.93375,
+    "lbl:longitude":16.89367,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:dut_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:eng_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:fre_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:ger_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:hun_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:ita_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:may_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:nan_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0631\u0648\u0645\u062a\u0634"
+    ],
+    "name:pol_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:por_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:rup_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:slo_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u043e\u043c\u0435\u0447"
+    ],
+    "name:swe_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "name:vie_x_preferred":[
+        "Chrome\u010d"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077550,
+    "qs_pg:gn_pop":584,
+    "qs_pg:name":"Chrome\u010d",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1080522,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787789,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077550,
+        "gp:id":787789,
+        "qs_pg:id":1080522,
+        "wd:id":"Q747010"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290892,
+    "wof:geomhash":"09df0961bc36d5847443af03c11ae21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125791801,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125791801,
+    "wof:lastmodified":1513944885,
+    "wof:name":"Chrome\u010d",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":584,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89367,
+    49.93375,
+    16.89367,
+    49.93375
+],
+  "geometry": {"coordinates":[16.89367,49.93375],"type":"Point"}
+}

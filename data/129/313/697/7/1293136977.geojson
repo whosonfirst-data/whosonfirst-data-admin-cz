@@ -1,0 +1,71 @@
+{
+  "id": 1293136977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61667,50.1,12.61667,50.1",
+    "geom:latitude":50.1,
+    "geom:longitude":12.61667,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Tymov",
+    "gn:country_code":"CZ",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063820,
+    "gn:latitude":50.1,
+    "gn:longitude":12.61667,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"T\u00fdmov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiefengruen",
+        "Tiefengr\u00fcn",
+        "T\u00fdmov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063820
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"de0cee7e5f040586b5a8ea40eaaca31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293136977,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1293136977,
+    "wof:lastmodified":1537619278,
+    "wof:name":"Tymov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61667,
+    50.1,
+    12.61667,
+    50.1
+],
+  "geometry": {"coordinates":[12.61667,50.1],"type":"Point"}
+}

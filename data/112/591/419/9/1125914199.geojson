@@ -1,0 +1,138 @@
+{
+  "id": 1125914199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.67369,49.75596,12.67369,49.75596",
+    "geom:latitude":49.75596,
+    "geom:longitude":12.67369,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":318,
+    "gn:population":318,
+    "iso:country":"CZ",
+    "lbl:latitude":49.75596,
+    "lbl:longitude":12.67369,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:dut_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:eng_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:fre_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:ger_x_preferred":[
+        "\u010c\u00e1stkov u Tachova"
+    ],
+    "name:hun_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:ita_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:may_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:nan_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0634\u0627\u0633\u062a\u06a9\u0648\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:por_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:rup_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:slo_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u0441\u0442\u043a\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Schossenreith"
+    ],
+    "name:vie_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078228,
+    "qs_pg:gn_pop":318,
+    "qs_pg:name":"\u010c\u00e1stkov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265453,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787197,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078228,
+        "gp:id":787197,
+        "qs_pg:id":1265453,
+        "wd:id":"Q341788"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296259,
+    "wof:geomhash":"203d6b4e1ceca2edf2449951e2120858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125914199,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125914199,
+    "wof:lastmodified":1553816625,
+    "wof:name":"\u010c\u00e1stkov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":318,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.67369,
+    49.75596,
+    12.67369,
+    49.75596
+],
+  "geometry": {"coordinates":[12.67369,49.75596],"type":"Point"}
+}

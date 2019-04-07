@@ -1,0 +1,70 @@
+{
+  "id": 1209959051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96667,50.03333,16.96667,50.03333",
+    "geom:latitude":50.03333,
+    "geom:longitude":16.96667,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Osikov",
+    "gn:country_code":"CZ",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068842,
+    "gn:latitude":50.03333,
+    "gn:longitude":16.96667,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Osikov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aspendorf",
+        "Osikov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068842
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8d59cab566d316286922e818b85deb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209959051,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1209959051,
+    "wof:lastmodified":1537619333,
+    "wof:name":"Osikov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96667,
+    50.03333,
+    16.96667,
+    50.03333
+],
+  "geometry": {"coordinates":[16.96667,50.03333],"type":"Point"}
+}

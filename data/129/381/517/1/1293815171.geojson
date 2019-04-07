@@ -1,0 +1,66 @@
+{
+  "id": 1293815171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2074,49.4649,15.2074,49.4649",
+    "geom:latitude":49.4649,
+    "geom:longitude":15.2074,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Hodejovice",
+    "gn:country_code":"CZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075675,
+    "gn:latitude":49.4649,
+    "gn:longitude":15.2074,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Hod\u011bjovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075675
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8d02b5dd869aa95151ece9439ba2aeea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293815171,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1293815171,
+    "wof:lastmodified":1536811289,
+    "wof:name":"Hodejovice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2074,
+    49.4649,
+    15.2074,
+    49.4649
+],
+  "geometry": {"coordinates":[15.2074,49.4649],"type":"Point"}
+}

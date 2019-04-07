@@ -1,0 +1,68 @@
+{
+  "id": 1310042609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01028,49.93611,18.01028,49.93611",
+    "geom:latitude":49.93611,
+    "geom:longitude":18.01028,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Kravare ve Slezsku",
+    "gn:country_code":"CZ",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":11496609,
+    "gn:latitude":49.93611,
+    "gn:longitude":18.01028,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Krava\u0159e ve Slezsku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Krawarn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11496609
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ea0b4c1942fa78268bf89603c10b891a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310042609,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1310042609,
+    "wof:lastmodified":1537619467,
+    "wof:name":"Kravare ve Slezsku",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01027999999999,
+    49.93611,
+    18.01027999999999,
+    49.93611
+],
+  "geometry": {"coordinates":[18.01027999999999,49.93611],"type":"Point"}
+}

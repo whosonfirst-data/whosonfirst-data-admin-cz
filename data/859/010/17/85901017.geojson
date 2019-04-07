@@ -1,0 +1,142 @@
+{
+  "id": 85901017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17912572.537535,
+    "geom:bbox":"15.207809,50.033435,15.207809,50.033435",
+    "geom:latitude":50.033435,
+    "geom:longitude":15.207809,
+    "gn:latitude":50.03267,
+    "gn:longitude":15.21027,
+    "iso:country":"CZ",
+    "lbl:latitude":50.033435,
+    "lbl:longitude":15.207809,
+    "mps:latitude":50.028786,
+    "mps:longitude":15.207654,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u064a\u064a \u062f\u064a \u062b\u0627\u0644\u0627\u0628\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Valle del Zalab\u00ed"
+    ],
+    "name:ceb_x_preferred":[
+        "Valle del Zalab\u00ed"
+    ],
+    "name:cze_x_colloquial":[
+        "Zalabi"
+    ],
+    "name:cze_x_preferred":[
+        "Z\u00e1lab\u00ed"
+    ],
+    "name:epo_x_preferred":[
+        "Valle del Zalab\u00ed"
+    ],
+    "name:eus_x_preferred":[
+        "Valle del Zalab\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Valle del Zalab\u00ed"
+    ],
+    "name:hat_x_preferred":[
+        "Valle del Zalab\u00ed"
+    ],
+    "name:hun_x_preferred":[
+        "Valle del Zalab\u00ed"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u056c\u0575\u0565 \u0564\u0565\u056c \u054d\u0561\u056c\u0561\u0562\u056b"
+    ],
+    "name:spa_x_preferred":[
+        "Valle del Zalab\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Z\u00e1lab\u00ed"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3073371,
+    "qs:gn_nam_loc":"Kol\u00edn, Kol\u00edn, Kol\u00edn, St\u0159edo\u010desk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"88",
+    "qs:gn_name":"Z\u00e1lab\u00ed",
+    "qs:local_max":345,
+    "qs:local_sum":345,
+    "qs:localhoods":1,
+    "qs:name":"Z\u00e1lab\u00ed",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs:name_adm2":"Kol\u00edn",
+    "qs:name_lau":"Kol\u00edn",
+    "qs:name_local":"Kol\u00edn",
+    "qs:photo_max":73,
+    "qs:photo_sum":345,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070468,
+    "qs:woe_adm2":12582584,
+    "qs:woe_lau":12608367,
+    "qs:woe_local":791510,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101825645,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061947,
+        "gp:id":801663,
+        "qs:id":1218594,
+        "qs_pg:id":1218594
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"311a21b48fcd1add7bef890e51011107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825645,
+            "neighbourhood_id":85901017,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":85901017,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932419,
+    "wof:name":"Z\u00e1lab\u00ed",
+    "wof:parent_id":101825645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.207809,
+    50.033435,
+    15.207809,
+    50.033435
+],
+  "geometry": {"coordinates":[15.207809,50.033435],"type":"Point"}
+}

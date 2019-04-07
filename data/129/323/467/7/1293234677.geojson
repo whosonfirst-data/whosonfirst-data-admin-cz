@@ -1,0 +1,70 @@
+{
+  "id": 1293234677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05838,49.25424,17.05838,49.25424",
+    "geom:latitude":49.25424,
+    "geom:longitude":17.05838,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0626",
+    "gn:asciiname":"Moravske Prusy",
+    "gn:country_code":"CZ",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070319,
+    "gn:latitude":49.25424,
+    "gn:longitude":17.05838,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Moravsk\u00e9 Prusy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e4hrisch Pruss",
+        "Moravsk\u00e9 Prusy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070319
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4c99ea6d4057fd90a9fa40ad31555db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293234677,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1293234677,
+    "wof:lastmodified":1537619353,
+    "wof:name":"Moravske Prusy",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05838,
+    49.25424,
+    17.05838,
+    49.25424
+],
+  "geometry": {"coordinates":[17.05838,49.25424],"type":"Point"}
+}

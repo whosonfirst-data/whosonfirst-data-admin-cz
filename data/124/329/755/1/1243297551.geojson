@@ -1,0 +1,66 @@
+{
+  "id": 1243297551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02534,49.23077,17.02534,49.23077",
+    "geom:latitude":49.23077,
+    "geom:longitude":17.02534,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0626",
+    "gn:asciiname":"Manerov",
+    "gn:country_code":"CZ",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071048,
+    "gn:latitude":49.23077,
+    "gn:longitude":17.02534,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Manerov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071048
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"705a88e44ed9106c49557d7bd9aef9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243297551,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1243297551,
+    "wof:lastmodified":1537019328,
+    "wof:name":"Manerov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02534,
+    49.23077,
+    17.02534,
+    49.23077
+],
+  "geometry": {"coordinates":[17.02534,49.23077],"type":"Point"}
+}

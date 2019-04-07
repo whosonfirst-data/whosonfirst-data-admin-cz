@@ -1,0 +1,66 @@
+{
+  "id": 1326861105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54482,49.60883,18.54482,49.60883",
+    "geom:latitude":49.60883,
+    "geom:longitude":18.54482,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Velky Lipovy",
+    "gn:country_code":"CZ",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063146,
+    "gn:latitude":49.60883,
+    "gn:longitude":18.54482,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Velk\u00fd Lipov\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063146
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4c5ed989e5495e3847f94daf149d29a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326861105,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1326861105,
+    "wof:lastmodified":1537006503,
+    "wof:name":"Velky Lipovy",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54482,
+    49.60883,
+    18.54482,
+    49.60883
+],
+  "geometry": {"coordinates":[18.54482,49.60883],"type":"Point"}
+}

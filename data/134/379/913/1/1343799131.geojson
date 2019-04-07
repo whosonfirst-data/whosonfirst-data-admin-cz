@@ -1,0 +1,66 @@
+{
+  "id": 1343799131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.20179,49.30977,18.20179,49.30977",
+    "geom:latitude":49.30977,
+    "geom:longitude":18.20179,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Planisko",
+    "gn:country_code":"CZ",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068228,
+    "gn:latitude":49.30977,
+    "gn:longitude":18.20179,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Pl\u00e1nisko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068228
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"568fbfca9852596a68edec39537bb83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343799131,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1343799131,
+    "wof:lastmodified":1536755133,
+    "wof:name":"Planisko",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.20179,
+    49.30977,
+    18.20179,
+    49.30977
+],
+  "geometry": {"coordinates":[18.20179,49.30977],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209350569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91853,50.45186,13.91853,50.45186",
+    "geom:latitude":50.45186,
+    "geom:longitude":13.91853,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Solany",
+    "gn:country_code":"CZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065613,
+    "gn:latitude":50.45186,
+    "gn:longitude":13.91853,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Solany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065613
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9db9e55b5955900be32f559d2b906eff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209350569
+        }
+    ],
+    "wof:id":1209350569,
+    "wof:lastmodified":1536289755,
+    "wof:name":"Solany",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91853,
+    50.45186,
+    13.91853,
+    50.45186
+],
+  "geometry": {"coordinates":[13.91853,50.45186],"type":"Point"}
+}

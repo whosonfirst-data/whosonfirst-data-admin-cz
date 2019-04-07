@@ -1,0 +1,127 @@
+{
+  "id": 85900759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":25907208.19513,
+    "geom:bbox":"18.682616,49.664848,18.682616,49.664848",
+    "geom:latitude":49.664848,
+    "geom:longitude":18.682616,
+    "gn:latitude":49.67416,
+    "gn:longitude":18.67994,
+    "iso:country":"CZ",
+    "lbl:latitude":49.664848,
+    "lbl:longitude":18.682616,
+    "mps:latitude":49.668221,
+    "mps:longitude":18.67293,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ces_x_preferred":[
+        "Ly\u017ebice"
+    ],
+    "name:cze_x_preferred":[
+        "Lyzbice"
+    ],
+    "name:eng_x_preferred":[
+        "Ly\u017ebice"
+    ],
+    "name:fre_x_preferred":[
+        "Ly\u017ebice"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141y\u017cbice"
+    ],
+    "name:unk_x_variant":[
+        "Ly\u017ebice",
+        "Lyzbice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3064000,
+    "qs:gn_nam_loc":"trinec",
+    "qs:gn_namadm1":"85",
+    "qs:gn_name":"Ly\u017ebice",
+    "qs:local_max":1519,
+    "qs:local_sum":1519,
+    "qs:localhoods":1,
+    "qs:name":"Lyzbice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs:name_adm2":"Fr\u00fddek-M\u00edstek",
+    "qs:name_lau":"T\u0159inec",
+    "qs:name_local":"Trinec",
+    "qs:photo_max":1239,
+    "qs:photo_sum":1519,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070471,
+    "qs:woe_adm2":12582571,
+    "qs:woe_lau":12607316,
+    "qs:woe_local":799859,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":49.666667,
+    "wd:longitude":18.680556,
+    "wd:wordcount":601,
+    "wof:belongsto":[
+        102191581,
+        101825545,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071293,
+        "gp:id":793361,
+        "qs:id":183019,
+        "qs_pg:id":183019,
+        "wd:id":"Q3499826",
+        "wk:page":"Ly\u017ebice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"51452b995b96070102ada243c9c1e5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825545,
+            "neighbourhood_id":85900759,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":85900759,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932377,
+    "wof:name":"Lyzbice",
+    "wof:parent_id":101825545,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.682616,
+    49.664848,
+    18.682616,
+    49.664848
+],
+  "geometry": {"coordinates":[18.682616,49.664848],"type":"Point"}
+}

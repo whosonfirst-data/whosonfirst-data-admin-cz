@@ -1,0 +1,67 @@
+{
+  "id": 1209350695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61667,50.66667,14.61667,50.66667",
+    "geom:latitude":50.66667,
+    "geom:longitude":14.61667,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Vlci Dul",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062727,
+    "gn:latitude":50.66667,
+    "gn:longitude":14.61667,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Vl\u010d\u00ed D\u016fl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wolfsthal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062727,
+        "wk:page":"Vl%C4%8D%C3%AD_D%C5%AFl"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c7b2675619085c3fd8a91258d65dc309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209350695
+        }
+    ],
+    "wof:id":1209350695,
+    "wof:lastmodified":1537619267,
+    "wof:name":"Vlci Dul",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61667,
+    50.66667,
+    14.61667,
+    50.66667
+],
+  "geometry": {"coordinates":[14.61667,50.66667],"type":"Point"}
+}

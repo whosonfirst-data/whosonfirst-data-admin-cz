@@ -1,0 +1,66 @@
+{
+  "id": 1310036107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28721,50.8342,14.28721,50.8342",
+    "geom:latitude":50.8342,
+    "geom:longitude":14.28721,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Novy Svet",
+    "gn:country_code":"CZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069260,
+    "gn:latitude":50.8342,
+    "gn:longitude":14.28721,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Nov\u00fd Sv\u011bt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069260
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c53aa80add95067aa313688347839840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310036107,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1310036107,
+    "wof:lastmodified":1537093473,
+    "wof:name":"Novy Svet",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28721,
+    50.8342,
+    14.28721,
+    50.8342
+],
+  "geometry": {"coordinates":[14.28721,50.8342],"type":"Point"}
+}

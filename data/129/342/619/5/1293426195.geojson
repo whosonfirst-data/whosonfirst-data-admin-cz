@@ -1,0 +1,73 @@
+{
+  "id": 1293426195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9979,49.84917,17.9979,49.84917",
+    "geom:latitude":49.84917,
+    "geom:longitude":17.9979,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Pusta Polom",
+    "gn:country_code":"CZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067324,
+    "gn:latitude":49.84917,
+    "gn:longitude":17.9979,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Pust\u00e1 Polom",
+    "gn:population":1394,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "W\u00fcst Pohlom"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067324,
+        "wk:page":"Pust%C3%A1_Polom"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6ed1e4c35110961ef4803e7d600b91b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293426195,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1293426195,
+    "wof:lastmodified":1537619317,
+    "wof:name":"Pusta Polom",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1394,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9979,
+    49.84917,
+    17.9979,
+    49.84917
+],
+  "geometry": {"coordinates":[17.9979,49.84917],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209041153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91593,49.40843,14.91593,49.40843",
+    "geom:latitude":49.40843,
+    "geom:longitude":14.91593,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Bezdecin",
+    "gn:country_code":"CZ",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079445,
+    "gn:latitude":49.40843,
+    "gn:longitude":14.91593,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Bezd\u011b\u010d\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079445
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0af9e7f072393e563b215ae382e2c838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209041153
+        }
+    ],
+    "wof:id":1209041153,
+    "wof:lastmodified":1536299541,
+    "wof:name":"Bezdecin",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91593,
+    49.40843,
+    14.91593,
+    49.40843
+],
+  "geometry": {"coordinates":[14.91593,49.40843],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 1125965787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82305,50.39255,14.82305,50.39255",
+    "geom:latitude":50.39255,
+    "geom:longitude":14.82305,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":174,
+    "gn:population":174,
+    "iso:country":"CZ",
+    "lbl:latitude":50.39255,
+    "lbl:longitude":14.82305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Strenice"
+    ],
+    "name:dut_x_preferred":[
+        "Strenice"
+    ],
+    "name:eng_x_preferred":[
+        "Strenice"
+    ],
+    "name:fre_x_preferred":[
+        "Strenice"
+    ],
+    "name:hun_x_preferred":[
+        "Strenice"
+    ],
+    "name:ita_x_preferred":[
+        "Strenice"
+    ],
+    "name:may_x_preferred":[
+        "Strenice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0631\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Strenice"
+    ],
+    "name:por_x_preferred":[
+        "Strenice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u043d\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Strenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Strenice"
+    ],
+    "name:unk_x_variant":[
+        "St\u0159enitz"
+    ],
+    "name:vie_x_preferred":[
+        "Strenice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064947,
+    "qs_pg:gn_pop":174,
+    "qs_pg:name":"Stepanice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":507970,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":24929844,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064947,
+        "gp:id":24929844,
+        "qs_pg:id":507970,
+        "wd:id":"Q2284903"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297967,
+    "wof:geomhash":"f33077e55214fa588b6642516a3f85f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125965787,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125965787,
+    "wof:lastmodified":1513945726,
+    "wof:name":"Stepanice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82305,
+    50.39255,
+    14.82305,
+    50.39255
+],
+  "geometry": {"coordinates":[14.82305,50.39255],"type":"Point"}
+}

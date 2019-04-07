@@ -1,0 +1,70 @@
+{
+  "id": 1259519639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95704,49.58812,12.95704,49.58812",
+    "geom:latitude":49.58812,
+    "geom:longitude":12.95704,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Pocinovice",
+    "gn:country_code":"CZ",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068126,
+    "gn:latitude":49.58812,
+    "gn:longitude":12.95704,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pocinovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potzowitz",
+        "Pocinovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068126
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a6c8fb8e8a19012f05375d8e6f9c3d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259519639,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1259519639,
+    "wof:lastmodified":1537619325,
+    "wof:name":"Pocinovice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95704,
+    49.58812,
+    12.95704,
+    49.58812
+],
+  "geometry": {"coordinates":[12.95704,49.58812],"type":"Point"}
+}

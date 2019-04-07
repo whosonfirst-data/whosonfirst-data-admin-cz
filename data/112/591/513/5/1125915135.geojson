@@ -1,0 +1,141 @@
+{
+  "id": 1125915135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61332,50.16256,12.61332,50.16256",
+    "geom:latitude":50.16256,
+    "geom:longitude":12.61332,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":880,
+    "gn:population":880,
+    "iso:country":"CZ",
+    "lbl:latitude":50.16256,
+    "lbl:longitude":12.61332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Citice"
+    ],
+    "name:dut_x_preferred":[
+        "Citice"
+    ],
+    "name:eng_x_preferred":[
+        "Citice"
+    ],
+    "name:fre_x_preferred":[
+        "Citice"
+    ],
+    "name:ger_x_preferred":[
+        "Citice"
+    ],
+    "name:hun_x_preferred":[
+        "Citice"
+    ],
+    "name:ita_x_preferred":[
+        "Citice"
+    ],
+    "name:may_x_preferred":[
+        "Citice"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0633\u06cc\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Citice"
+    ],
+    "name:por_x_preferred":[
+        "Citice"
+    ],
+    "name:rup_x_preferred":[
+        "Citice"
+    ],
+    "name:slo_x_preferred":[
+        "Citice"
+    ],
+    "name:slv_x_preferred":[
+        "Citice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0438\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Citice"
+    ],
+    "name:unk_x_variant":[
+        "Zieditz"
+    ],
+    "name:vie_x_preferred":[
+        "Citice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077371,
+    "qs_pg:gn_pop":880,
+    "qs_pg:name":"Citice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Karlovarsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265661,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787949,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Karlovarsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077371,
+        "gp:id":787949,
+        "qs_pg:id":1265661,
+        "wd:id":"Q1093362"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296292,
+    "wof:geomhash":"cfe27bd3545f847d47ad2477329d41f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125915135,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1125915135,
+    "wof:lastmodified":1513944895,
+    "wof:name":"Citice",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":880,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61332,
+    50.16256,
+    12.61332,
+    50.16256
+],
+  "geometry": {"coordinates":[12.61332,50.16256],"type":"Point"}
+}

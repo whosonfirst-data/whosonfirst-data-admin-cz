@@ -1,0 +1,72 @@
+{
+  "id": 1209846021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24811,49.44326,13.24811,49.44326",
+    "geom:latitude":49.44326,
+    "geom:longitude":13.24811,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Dolany",
+    "gn:country_code":"CZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076961,
+    "gn:latitude":49.44326,
+    "gn:longitude":13.24811,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Dolany",
+    "gn:population":750,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076961
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9f638cd681b17149d74cd1b90443b56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209846021,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1209846021,
+    "wof:lastmodified":1537619436,
+    "wof:name":"Dolany",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":750,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24811,
+    49.44326,
+    13.24811,
+    49.44326
+],
+  "geometry": {"coordinates":[13.24811,49.44326],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276693241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70275,49.42826,15.70275,49.42826",
+    "geom:latitude":49.42826,
+    "geom:longitude":15.70275,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Rytirsko",
+    "gn:country_code":"CZ",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066471,
+    "gn:latitude":49.42826,
+    "gn:longitude":15.70275,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Ryt\u00ed\u0159sko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066471
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3ea541e19a2455686ead0d73b8a86bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276693241,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1276693241,
+    "wof:lastmodified":1536793732,
+    "wof:name":"Rytirsko",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70275,
+    49.42826,
+    15.70275,
+    49.42826
+],
+  "geometry": {"coordinates":[15.70275,49.42826],"type":"Point"}
+}

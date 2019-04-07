@@ -1,0 +1,70 @@
+{
+  "id": 1209950499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75338,49.7915,14.75338,49.7915",
+    "geom:latitude":49.7915,
+    "geom:longitude":14.75338,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Okrouhlice",
+    "gn:country_code":"CZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069091,
+    "gn:latitude":49.7915,
+    "gn:longitude":14.75338,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Okrouhlice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okrauchlitz",
+        "Okrouhlice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069091
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6b48da3f3d2144f5752183fd5c4d15cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209950499,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1209950499,
+    "wof:lastmodified":1537619335,
+    "wof:name":"Okrouhlice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75338,
+    49.7915,
+    14.75338,
+    49.7915
+],
+  "geometry": {"coordinates":[14.75338,49.7915],"type":"Point"}
+}

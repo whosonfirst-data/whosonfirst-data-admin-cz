@@ -1,0 +1,66 @@
+{
+  "id": 1293623725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23002,50.41998,15.23002,50.41998",
+    "geom:latitude":50.41998,
+    "geom:longitude":15.23002,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Batin",
+    "gn:country_code":"CZ",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079636,
+    "gn:latitude":50.41998,
+    "gn:longitude":15.23002,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Bat\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079636
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"237d1771f52a422ef59871c7649d07b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293623725,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293623725,
+    "wof:lastmodified":1537084651,
+    "wof:name":"Batin",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23002,
+    50.41998,
+    15.23002,
+    50.41998
+],
+  "geometry": {"coordinates":[15.23002,50.41998],"type":"Point"}
+}

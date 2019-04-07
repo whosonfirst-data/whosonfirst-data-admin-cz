@@ -1,0 +1,66 @@
+{
+  "id": 1360119513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13502,49.85228,15.13502,49.85228",
+    "geom:latitude":49.85228,
+    "geom:longitude":15.13502,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Pivnisko",
+    "gn:country_code":"CZ",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068262,
+    "gn:latitude":49.85228,
+    "gn:longitude":15.13502,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Pivnisko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068262
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b64b2fedc8ee27e09c1d81e38e726b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360119513,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1360119513,
+    "wof:lastmodified":1536895775,
+    "wof:name":"Pivnisko",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13502,
+    49.85228,
+    15.13502,
+    49.85228
+],
+  "geometry": {"coordinates":[15.13502,49.85228],"type":"Point"}
+}

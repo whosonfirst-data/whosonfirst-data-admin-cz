@@ -1,0 +1,142 @@
+{
+  "id": 101826571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":687807.391291,
+    "geom:bbox":"17.0647171217,49.3813430116,17.0792870916,49.3904612882",
+    "geom:latitude":49.386396,
+    "geom:longitude":17.072921,
+    "gn:population":1275,
+    "iso:country":"CZ",
+    "lbl:latitude":49.386239,
+    "lbl:longitude":17.074378,
+    "mps:latitude":49.386239,
+    "mps:longitude":17.074378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:ces_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:cze_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:dut_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:eng_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:fre_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:hun_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:ita_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:may_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:msa_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:nld_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u062a\u0627\u0633\u0644\u0627\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:por_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:slk_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:slo_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0442\u0430\u0441\u043b\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:unk_x_variant":[
+        "Doln\u00ed Otaslavice"
+    ],
+    "name:vie_x_preferred":[
+        "Otaslavice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Olomouck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Otaslavice",
+    "qs:la_lc":"*CZ0713589845",
+    "qs:level":"locality",
+    "qs:loc":"Otaslavice",
+    "qs:loc_alt":"Otaslavice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068727,
+        "gp:id":795667,
+        "qs:id":1043004,
+        "qs_pg:id":1043004,
+        "wd:id":"Q2637519",
+        "wk:page":"Otaslavice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ba92877faefa097c7967071c4ee8ba87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826571,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":101826571,
+    "wof:lastmodified":1527642515,
+    "wof:name":"Otaslavice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":1275,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06471712165762,
+    49.38134301160653,
+    17.07928709161314,
+    49.39046128821622
+],
+  "geometry": {"coordinates":[[[17.07732466942787,49.39011563728718],[17.07719446441718,49.38922109472026],[17.07856637192725,49.38913464206189],[17.07791531272744,49.38466193088959],[17.07928709161314,49.38457547065775],[17.07899624979086,49.38257742885423],[17.07889645362735,49.3818918434564],[17.07340960944163,49.38223756229979],[17.07327950810622,49.38134301160653],[17.07190781079794,49.38142939775014],[17.07207474941072,49.38257742885423],[17.07216796980288,49.38321850228647],[17.06942446255181,49.38339123177389],[17.06968454620704,49.38518034161268],[17.06694092187894,49.38535301159726],[17.06707092302605,49.38624756941601],[17.06569907937455,49.38633388118177],[17.06608904426145,49.38901755712243],[17.06471712165762,49.3891038576545],[17.06484709709838,49.38999841712968],[17.07170678997892,49.38956673835185],[17.07183689562538,49.39046128821622],[17.07732466942787,49.39011563728718]]],"type":"Polygon"}
+}

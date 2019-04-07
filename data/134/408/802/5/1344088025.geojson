@@ -1,0 +1,70 @@
+{
+  "id": 1344088025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18333,50.55,16.18333,50.55",
+    "geom:latitude":50.55,
+    "geom:longitude":16.18333,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Metujka",
+    "gn:country_code":"CZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070801,
+    "gn:latitude":50.55,
+    "gn:longitude":16.18333,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Metujka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u011bmeck\u00e1 Metuje",
+        "Metujka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070801
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f5c0221a397e42c1db9c8b1eec662d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344088025,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1344088025,
+    "wof:lastmodified":1537619359,
+    "wof:name":"Metujka",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18333,
+    50.55,
+    16.18333,
+    50.55
+],
+  "geometry": {"coordinates":[16.18333,50.55],"type":"Point"}
+}

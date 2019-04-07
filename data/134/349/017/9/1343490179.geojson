@@ -1,0 +1,66 @@
+{
+  "id": 1343490179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76424,49.36181,13.76424,49.36181",
+    "geom:latitude":49.36181,
+    "geom:longitude":13.76424,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Komusin",
+    "gn:country_code":"CZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073318,
+    "gn:latitude":49.36181,
+    "gn:longitude":13.76424,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Komu\u0161\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073318
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ed1b376224e34da935e9059971be0b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343490179,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343490179,
+    "wof:lastmodified":1536703691,
+    "wof:name":"Komusin",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76424,
+    49.36181,
+    13.76424,
+    49.36181
+],
+  "geometry": {"coordinates":[13.76424,49.36181],"type":"Point"}
+}

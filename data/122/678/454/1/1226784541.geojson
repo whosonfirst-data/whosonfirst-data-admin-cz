@@ -1,0 +1,66 @@
+{
+  "id": 1226784541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02192,50.21049,15.02192,50.21049",
+    "geom:latitude":50.21049,
+    "geom:longitude":15.02192,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Veleliby",
+    "gn:country_code":"CZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063319,
+    "gn:latitude":50.21049,
+    "gn:longitude":15.02192,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Veleliby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063319
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2c6d7807aaee28c9ed5f3869c8807645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226784541,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226784541,
+    "wof:lastmodified":1536659701,
+    "wof:name":"Veleliby",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02192,
+    50.21049,
+    15.02192,
+    50.21049
+],
+  "geometry": {"coordinates":[15.02192,50.21049],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1242714823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38166,49.33896,17.38166,49.33896",
+    "geom:latitude":49.33896,
+    "geom:longitude":17.38166,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0721",
+    "gn:asciiname":"Plesovec",
+    "gn:country_code":"CZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068187,
+    "gn:latitude":49.33896,
+    "gn:longitude":17.38166,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Ple\u0161ovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068187
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d9ebaa89684ac8373d689017ec82552e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242714823,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1242714823,
+    "wof:lastmodified":1536864698,
+    "wof:name":"Plesovec",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38166,
+    49.33896,
+    17.38166,
+    49.33896
+],
+  "geometry": {"coordinates":[17.38166,49.33896],"type":"Point"}
+}

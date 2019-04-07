@@ -1,0 +1,66 @@
+{
+  "id": 1226078729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25213,49.51679,14.25213,49.51679",
+    "geom:latitude":49.51679,
+    "geom:longitude":14.25213,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Slavonov",
+    "gn:country_code":"CZ",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065816,
+    "gn:latitude":49.51679,
+    "gn:longitude":14.25213,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Slavo\u0148ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065816
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1754fdc6f18b851f0bb768cf377323d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226078729,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1226078729,
+    "wof:lastmodified":1536677689,
+    "wof:name":"Slavonov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25213,
+    49.51679,
+    14.25213,
+    49.51679
+],
+  "geometry": {"coordinates":[14.25213,49.51679],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293425875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.32294,49.48831,14.32294,49.48831",
+    "geom:latitude":49.48831,
+    "geom:longitude":14.32294,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Dmystice",
+    "gn:country_code":"CZ",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077093,
+    "gn:latitude":49.48831,
+    "gn:longitude":14.32294,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Dm\u00fd\u0161tice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077093
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4c85502ab51fac60b8a2094e8ec1a78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293425875,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293425875,
+    "wof:lastmodified":1536874896,
+    "wof:name":"Dmystice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.32294,
+    49.48831,
+    14.32294,
+    49.48831
+],
+  "geometry": {"coordinates":[14.32294,49.48831],"type":"Point"}
+}

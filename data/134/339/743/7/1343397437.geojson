@@ -1,0 +1,66 @@
+{
+  "id": 1343397437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45867,49.19597,13.45867,49.19597",
+    "geom:latitude":49.19597,
+    "geom:longitude":13.45867,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Loucova",
+    "gn:country_code":"CZ",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071534,
+    "gn:latitude":49.19597,
+    "gn:longitude":13.45867,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Lou\u010dov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071534
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fe6c253fa18f102d177ea8bea9d35dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343397437,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343397437,
+    "wof:lastmodified":1536836040,
+    "wof:name":"Loucova",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45867,
+    49.19597,
+    13.45867,
+    49.19597
+],
+  "geometry": {"coordinates":[13.45867,49.19597],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360321733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86067,50.52977,15.86067,50.52977",
+    "geom:latitude":50.52977,
+    "geom:longitude":15.86067,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Prostredni Stare Buky",
+    "gn:country_code":"CZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067405,
+    "gn:latitude":50.52977,
+    "gn:longitude":15.86067,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Prost\u0159edn\u00ed Star\u00e9 Buky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mittel-Altenbuch",
+        "Prost\u0159edn\u00ed Star\u00e9 Buky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067405
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0bd31388e2025d5b309775bae809a524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360321733,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1360321733,
+    "wof:lastmodified":1537619318,
+    "wof:name":"Prostredni Stare Buky",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86067,
+    50.52977,
+    15.86067,
+    50.52977
+],
+  "geometry": {"coordinates":[15.86067,50.52977],"type":"Point"}
+}

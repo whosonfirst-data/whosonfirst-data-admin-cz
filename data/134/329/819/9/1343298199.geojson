@@ -1,0 +1,66 @@
+{
+  "id": 1343298199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59064,49.62817,16.59064,49.62817",
+    "geom:latitude":49.62817,
+    "geom:longitude":16.59064,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Brezinka",
+    "gn:country_code":"CZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078696,
+    "gn:latitude":49.62817,
+    "gn:longitude":16.59064,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"B\u0159ezinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078696
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"33c27d59fc83668d4219f05ea0c06626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343298199,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1343298199,
+    "wof:lastmodified":1536979723,
+    "wof:name":"Brezinka",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59064,
+    49.62817,
+    16.59064,
+    49.62817
+],
+  "geometry": {"coordinates":[16.59064,49.62817],"type":"Point"}
+}

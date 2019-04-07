@@ -1,0 +1,66 @@
+{
+  "id": 1226778429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46728,49.45641,14.46728,49.45641",
+    "geom:latitude":49.45641,
+    "geom:longitude":14.46728,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Jezviny",
+    "gn:country_code":"CZ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074206,
+    "gn:latitude":49.45641,
+    "gn:longitude":14.46728,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Jezviny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074206
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"60ed210f21b40027d3afa613c8a9e9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226778429,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1226778429,
+    "wof:lastmodified":1536668596,
+    "wof:name":"Jezviny",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46728,
+    49.45641,
+    14.46728,
+    49.45641
+],
+  "geometry": {"coordinates":[14.46728,49.45641],"type":"Point"}
+}

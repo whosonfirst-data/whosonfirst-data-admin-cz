@@ -1,0 +1,62 @@
+{
+  "id": 1209036043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31551,50.64652,15.31551,50.64652",
+    "geom:latitude":50.64652,
+    "geom:longitude":15.31551,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0512",
+    "gn:asciiname":"Bohunovsko",
+    "gn:country_code":"CZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079119,
+    "gn:latitude":50.64652,
+    "gn:longitude":15.31551,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Bohu\u0148ovsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079119
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"31db1af3b40822723a4b5f236272efcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209036043
+        }
+    ],
+    "wof:id":1209036043,
+    "wof:lastmodified":1536299696,
+    "wof:name":"Bohunovsko",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31551,
+    50.64652,
+    15.31551,
+    50.64652
+],
+  "geometry": {"coordinates":[15.31551,50.64652],"type":"Point"}
+}

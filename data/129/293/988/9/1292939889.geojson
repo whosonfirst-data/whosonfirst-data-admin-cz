@@ -1,0 +1,66 @@
+{
+  "id": 1292939889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88785,49.52911,14.88785,49.52911",
+    "geom:latitude":49.52911,
+    "geom:longitude":14.88785,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Obratice",
+    "gn:country_code":"CZ",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069182,
+    "gn:latitude":49.52911,
+    "gn:longitude":14.88785,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Obr\u00e1tice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069182
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7a687eb90cf6f6b8d145e75ce9a115fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292939889,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1292939889,
+    "wof:lastmodified":1537076433,
+    "wof:name":"Obratice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88785,
+    49.52911,
+    14.88785,
+    49.52911
+],
+  "geometry": {"coordinates":[14.88785,49.52911],"type":"Point"}
+}

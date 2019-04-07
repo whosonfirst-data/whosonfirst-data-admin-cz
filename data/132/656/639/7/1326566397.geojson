@@ -1,0 +1,66 @@
+{
+  "id": 1326566397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78681,50.07003,13.78681,50.07003",
+    "geom:latitude":50.07003,
+    "geom:longitude":13.78681,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Rysin",
+    "gn:country_code":"CZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066474,
+    "gn:latitude":50.07003,
+    "gn:longitude":13.78681,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Ry\u0161\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066474
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a2296775ec3e2d998ff89cfb9ac0f0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326566397,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1326566397,
+    "wof:lastmodified":1536935428,
+    "wof:name":"Rysin",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78681,
+    50.07003,
+    13.78681,
+    50.07003
+],
+  "geometry": {"coordinates":[13.78681,50.07003],"type":"Point"}
+}

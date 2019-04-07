@@ -1,0 +1,66 @@
+{
+  "id": 1243293143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,50.05,14.11667,50.05",
+    "geom:latitude":50.05,
+    "geom:longitude":14.11667,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0202",
+    "gn:asciiname":"Horni Podkozi",
+    "gn:country_code":"CZ",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075256,
+    "gn:latitude":50.05,
+    "gn:longitude":14.11667,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Horn\u00ed Podkoz\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075256
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"77c0a8aab9b67eedcac8cadcc632e84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243293143,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1243293143,
+    "wof:lastmodified":1537025459,
+    "wof:name":"Horni Podkozi",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    50.05,
+    14.11667,
+    50.05
+],
+  "geometry": {"coordinates":[14.11667,50.05],"type":"Point"}
+}

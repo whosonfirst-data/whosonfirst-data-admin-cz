@@ -1,0 +1,66 @@
+{
+  "id": 1293237803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09331,49.98333,15.09331,49.98333",
+    "geom:latitude":49.98333,
+    "geom:longitude":15.09331,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0204",
+    "gn:asciiname":"Mancice",
+    "gn:country_code":"CZ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071051,
+    "gn:latitude":49.98333,
+    "gn:longitude":15.09331,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Man\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071051
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e04eaae1d569d7d93e340f283ef480c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293237803,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293237803,
+    "wof:lastmodified":1536649723,
+    "wof:name":"Mancice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09331,
+    49.98333,
+    15.09331,
+    49.98333
+],
+  "geometry": {"coordinates":[15.09331,49.98333],"type":"Point"}
+}

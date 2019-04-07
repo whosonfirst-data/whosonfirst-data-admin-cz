@@ -1,0 +1,135 @@
+{
+  "id": 1125808223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08895,49.78955,18.08895,49.78955",
+    "geom:latitude":49.78955,
+    "geom:longitude":18.08895,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":538,
+    "gn:population":538,
+    "iso:country":"CZ",
+    "lbl:latitude":49.78955,
+    "lbl:longitude":18.08895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Olbramice"
+    ],
+    "name:dut_x_preferred":[
+        "Olbramice"
+    ],
+    "name:eng_x_preferred":[
+        "Olbramice"
+    ],
+    "name:fre_x_preferred":[
+        "Olbramice"
+    ],
+    "name:hun_x_preferred":[
+        "Olbramice"
+    ],
+    "name:ita_x_preferred":[
+        "Olbramice"
+    ],
+    "name:may_x_preferred":[
+        "Olbramice"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0644\u0628\u0631\u0627\u0645\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Olbramice"
+    ],
+    "name:por_x_preferred":[
+        "Olbramice"
+    ],
+    "name:rup_x_preferred":[
+        "Olbramice"
+    ],
+    "name:slo_x_preferred":[
+        "Olbramice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043b\u0431\u0440\u0430\u043c\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Olbramice"
+    ],
+    "name:unk_x_variant":[
+        "Wollmersdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Olbramice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069085,
+    "qs_pg:gn_pop":538,
+    "qs_pg:name":"Olbramice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1267405,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795363,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069085,
+        "gp:id":795363,
+        "qs_pg:id":1267405,
+        "wd:id":"Q2738538"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497291549,
+    "wof:geomhash":"15c1d1eac65f630d162c3ea07f5c5642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125808223,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125808223,
+    "wof:lastmodified":1553816548,
+    "wof:name":"Olbramice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":538,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08895,
+    49.78955,
+    18.08895,
+    49.78955
+],
+  "geometry": {"coordinates":[18.08895,49.78955],"type":"Point"}
+}

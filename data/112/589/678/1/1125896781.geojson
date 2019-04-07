@@ -1,0 +1,140 @@
+{
+  "id": 1125896781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74617,50.09203,15.74617,50.09203",
+    "geom:latitude":50.09203,
+    "geom:longitude":15.74617,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":183,
+    "gn:population":183,
+    "iso:country":"CZ",
+    "lbl:latitude":50.09203,
+    "lbl:longitude":15.74617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:nan_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:rup_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:slo_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0435\u0431\u043b\u043e\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "name:vie_x_preferred":[
+        "St\u00e9blov\u00e1"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065219,
+    "qs_pg:gn_pop":183,
+    "qs_pg:name":"St\u00e9blov\u00e1",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":939223,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798807,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065219,
+        "gp:id":798807,
+        "qs_pg:id":939223,
+        "wd:id":"Q784996"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295609,
+    "wof:geomhash":"f94e0ee0db90e52bd0f775c52ab856a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125896781,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125896781,
+    "wof:lastmodified":1513945741,
+    "wof:name":"St\u00e9blov\u00e1",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74617,
+    50.09203,
+    15.74617,
+    50.09203
+],
+  "geometry": {"coordinates":[15.74617,50.09203],"type":"Point"}
+}

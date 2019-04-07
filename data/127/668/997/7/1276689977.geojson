@@ -1,0 +1,70 @@
+{
+  "id": 1276689977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01311,50.78471,14.01311,50.78471",
+    "geom:latitude":50.78471,
+    "geom:longitude":14.01311,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Antoninov",
+    "gn:country_code":"CZ",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079775,
+    "gn:latitude":50.78471,
+    "gn:longitude":14.01311,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Anton\u00ednov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antonsthal",
+        "Anton\u00ednov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079775
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f08428ab560a2353a591f13a63748abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276689977,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276689977,
+    "wof:lastmodified":1537619466,
+    "wof:name":"Antoninov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01311,
+    50.78471,
+    14.01311,
+    50.78471
+],
+  "geometry": {"coordinates":[14.01311,50.78471],"type":"Point"}
+}

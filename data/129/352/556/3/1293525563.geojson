@@ -1,0 +1,72 @@
+{
+  "id": 1293525563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86593,50.87492,14.86593,50.87492",
+    "geom:latitude":50.87492,
+    "geom:longitude":14.86593,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0513",
+    "gn:asciiname":"Oldrichov na Hranicich",
+    "gn:country_code":"CZ",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069066,
+    "gn:latitude":50.87492,
+    "gn:longitude":14.86593,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Old\u0159ichov na Hranic\u00edch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ullersdorf",
+        "Old\u0159ichov na Hranic\u00edch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069066
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"349c110bc3b9111c2515c881abc6c42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079695,
+            "locality_id":1293525563,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":1293525563,
+    "wof:lastmodified":1537619335,
+    "wof:name":"Oldrichov na Hranicich",
+    "wof:parent_id":102079695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86593,
+    50.87492,
+    14.86593,
+    50.87492
+],
+  "geometry": {"coordinates":[14.86593,50.87492],"type":"Point"}
+}

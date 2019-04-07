@@ -1,0 +1,143 @@
+{
+  "id": 1125940169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53827,49.41999,15.53827,49.41999",
+    "geom:latitude":49.41999,
+    "geom:longitude":15.53827,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":162,
+    "gn:population":162,
+    "iso:country":"CZ",
+    "lbl:latitude":49.41999,
+    "lbl:longitude":15.53827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0434\u0440\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Plandry"
+    ],
+    "name:dut_x_preferred":[
+        "Plandry"
+    ],
+    "name:eng_x_preferred":[
+        "Plandry"
+    ],
+    "name:fre_x_preferred":[
+        "Plandry"
+    ],
+    "name:ger_x_preferred":[
+        "Plandry"
+    ],
+    "name:hun_x_preferred":[
+        "Plandry"
+    ],
+    "name:ita_x_preferred":[
+        "Plandry"
+    ],
+    "name:may_x_preferred":[
+        "Plandry"
+    ],
+    "name:nan_x_preferred":[
+        "Plandry"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0644\u0627\u0646\u062f\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Plandry"
+    ],
+    "name:por_x_preferred":[
+        "Plandry"
+    ],
+    "name:rup_x_preferred":[
+        "Plandry"
+    ],
+    "name:slo_x_preferred":[
+        "Plandry"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0434\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Plandry"
+    ],
+    "name:vie_x_preferred":[
+        "Plandry"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3068243,
+    "qs_pg:gn_pop":162,
+    "qs_pg:name":"Plandry",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1140115,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796103,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068243,
+        "gp:id":796103,
+        "qs_pg:id":1140115,
+        "wd:id":"Q126538"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297093,
+    "wof:geomhash":"6454e0150eebb75af087026d95efc4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125940169,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125940169,
+    "wof:lastmodified":1513945531,
+    "wof:name":"Plandry",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53827,
+    49.41999,
+    15.53827,
+    49.41999
+],
+  "geometry": {"coordinates":[15.53827,49.41999],"type":"Point"}
+}

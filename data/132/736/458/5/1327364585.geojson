@@ -1,0 +1,66 @@
+{
+  "id": 1327364585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81667,49.11667,14.81667,49.11667",
+    "geom:latitude":49.11667,
+    "geom:longitude":14.81667,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"U Bicku",
+    "gn:country_code":"CZ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063785,
+    "gn:latitude":49.11667,
+    "gn:longitude":14.81667,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"U Bick\u016f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063785
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9e398f6ca95878f0914fb6f70ed2b345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327364585,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327364585,
+    "wof:lastmodified":1536779387,
+    "wof:name":"U Bicku",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81667,
+    49.11667,
+    14.81667,
+    49.11667
+],
+  "geometry": {"coordinates":[14.81667,49.11667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209142821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71667,49.35,14.71667,49.35",
+    "geom:latitude":49.35,
+    "geom:longitude":14.71667,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Beranova Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079485,
+    "gn:latitude":49.35,
+    "gn:longitude":14.71667,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Beranova Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079485
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4c41e4ce7cb2be8acdf18664cd5cb07a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209142821
+        }
+    ],
+    "wof:id":1209142821,
+    "wof:lastmodified":1536296449,
+    "wof:name":"Beranova Lhota",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71667,
+    49.35,
+    14.71667,
+    49.35
+],
+  "geometry": {"coordinates":[14.71667,49.35],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259717277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40685,50.24556,16.40685,50.24556",
+    "geom:latitude":50.24556,
+    "geom:longitude":16.40685,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Zdobnicka",
+    "gn:country_code":"CZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061639,
+    "gn:latitude":50.24556,
+    "gn:longitude":16.40685,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Zdobni\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klein Stiebnitz",
+        "Mal\u00e1 Zdobnice",
+        "Zdobni\u010dka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061639
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"38a9a1ea6a03e1fd6a647d398cee6177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259717277,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1259717277,
+    "wof:lastmodified":1537619255,
+    "wof:name":"Zdobnicka",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40685,
+    50.24556,
+    16.40685,
+    50.24556
+],
+  "geometry": {"coordinates":[16.40685,50.24556],"type":"Point"}
+}

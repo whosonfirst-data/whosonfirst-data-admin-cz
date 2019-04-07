@@ -1,0 +1,141 @@
+{
+  "id": 1125772621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01721,50.6151,14.01721,50.6151",
+    "geom:latitude":50.6151,
+    "geom:longitude":14.01721,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":436,
+    "gn:population":436,
+    "iso:country":"CZ",
+    "lbl:latitude":50.6151,
+    "lbl:longitude":14.01721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0435\u0431\u043d\u043e"
+    ],
+    "name:cze_x_preferred":[
+        "Stebno"
+    ],
+    "name:dut_x_preferred":[
+        "Stebno"
+    ],
+    "name:eng_x_preferred":[
+        "Stebno"
+    ],
+    "name:fre_x_preferred":[
+        "Stebno"
+    ],
+    "name:ger_x_preferred":[
+        "Stebno"
+    ],
+    "name:hun_x_preferred":[
+        "Stebno"
+    ],
+    "name:ita_x_preferred":[
+        "Stebno"
+    ],
+    "name:may_x_preferred":[
+        "Stebno"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0628\u0646\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Stebno"
+    ],
+    "name:por_x_preferred":[
+        "Stebno"
+    ],
+    "name:rup_x_preferred":[
+        "Stebno"
+    ],
+    "name:slo_x_preferred":[
+        "Stebno"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0435\u0431\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Stebno"
+    ],
+    "name:unk_x_variant":[
+        "St\u00f6ben"
+    ],
+    "name:vie_x_preferred":[
+        "Stebno"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065214,
+    "qs_pg:gn_pop":436,
+    "qs_pg:name":"Stebno",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1159104,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798812,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065214,
+        "gp:id":798812,
+        "qs_pg:id":1159104,
+        "wd:id":"Q2003139"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290122,
+    "wof:geomhash":"221b583f12c9dcadc7584d11c44daaef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125772621,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125772621,
+    "wof:lastmodified":1553816524,
+    "wof:name":"Stebno",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":436,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01721,
+    50.6151,
+    14.01721,
+    50.6151
+],
+  "geometry": {"coordinates":[14.01721,50.6151],"type":"Point"}
+}

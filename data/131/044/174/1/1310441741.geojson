@@ -1,0 +1,70 @@
+{
+  "id": 1310441741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31169,50.7766,14.31169,50.7766",
+    "geom:latitude":50.7766,
+    "geom:longitude":14.31169,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Brlozec",
+    "gn:country_code":"CZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078628,
+    "gn:latitude":50.7766,
+    "gn:longitude":14.31169,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Brlo\u017eec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parlosa",
+        "Brlo\u017eec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078628
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fe763282d8de588b3675ef0fdb02ed1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310441741,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1310441741,
+    "wof:lastmodified":1537619453,
+    "wof:name":"Brlozec",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31169,
+    50.7766,
+    14.31169,
+    50.7766
+],
+  "geometry": {"coordinates":[14.31169,50.7766],"type":"Point"}
+}

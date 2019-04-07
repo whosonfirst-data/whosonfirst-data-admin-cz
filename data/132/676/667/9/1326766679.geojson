@@ -1,0 +1,66 @@
+{
+  "id": 1326766679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8398,49.0499,13.8398,49.0499",
+    "geom:latitude":49.0499,
+    "geom:longitude":13.8398,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Vicemily",
+    "gn:country_code":"CZ",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062946,
+    "gn:latitude":49.0499,
+    "gn:longitude":13.8398,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"V\u00edcemily",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062946
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f3bc9ac4cd94b1106aff94241825c66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326766679,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1326766679,
+    "wof:lastmodified":1536645428,
+    "wof:name":"Vicemily",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8398,
+    49.0499,
+    13.8398,
+    49.0499
+],
+  "geometry": {"coordinates":[13.8398,49.0499],"type":"Point"}
+}

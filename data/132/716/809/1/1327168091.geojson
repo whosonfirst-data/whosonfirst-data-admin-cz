@@ -1,0 +1,70 @@
+{
+  "id": 1327168091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01289,50.0234,13.01289,50.0234",
+    "geom:latitude":50.0234,
+    "geom:longitude":13.01289,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Treboun",
+    "gn:country_code":"CZ",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064070,
+    "gn:latitude":50.0234,
+    "gn:longitude":13.01289,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"T\u0159ebou\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tschebon",
+        "T\u0159ebou\u0148"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064070
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"34b501919cfd3a064d046f750bb61994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327168091,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1327168091,
+    "wof:lastmodified":1537619280,
+    "wof:name":"Treboun",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01289,
+    50.0234,
+    13.01289,
+    50.0234
+],
+  "geometry": {"coordinates":[13.01289,50.0234],"type":"Point"}
+}

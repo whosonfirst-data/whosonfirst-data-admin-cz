@@ -1,0 +1,126 @@
+{
+  "id": 1125856857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45573,49.60896,14.45573,49.60896",
+    "geom:latitude":49.60896,
+    "geom:longitude":14.45573,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":470,
+    "gn:population":470,
+    "iso:country":"CZ",
+    "lbl:latitude":49.60896,
+    "lbl:longitude":14.45573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Nedrahovice"
+    ],
+    "name:dut_x_preferred":[
+        "Nedrahovice"
+    ],
+    "name:eng_x_preferred":[
+        "Nedrahovice"
+    ],
+    "name:fre_x_preferred":[
+        "Nedrahovice"
+    ],
+    "name:hun_x_preferred":[
+        "Nedrahovice"
+    ],
+    "name:ita_x_preferred":[
+        "Nedrahovice"
+    ],
+    "name:may_x_preferred":[
+        "Nedrahovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u062f\u0631\u0627\u0647\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Nedrahovice"
+    ],
+    "name:slo_x_preferred":[
+        "Nedrahovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0434\u0440\u0430\u0445\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Nedrahovice"
+    ],
+    "name:vie_x_preferred":[
+        "Nedrahovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069955,
+    "qs_pg:gn_pop":470,
+    "qs_pg:name":"Nedrahovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1267255,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794548,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069955,
+        "gp:id":794548,
+        "qs_pg:id":1267255,
+        "wd:id":"Q2302567"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293657,
+    "wof:geomhash":"e89fe81e81587d01c76ef50a0b066cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125856857,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125856857,
+    "wof:lastmodified":1513945416,
+    "wof:name":"Nedrahovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":470,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45573,
+    49.60896,
+    14.45573,
+    49.60896
+],
+  "geometry": {"coordinates":[14.45573,49.60896],"type":"Point"}
+}

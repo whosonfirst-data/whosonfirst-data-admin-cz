@@ -1,0 +1,66 @@
+{
+  "id": 1209649007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28653,48.78049,14.28653,48.78049",
+    "geom:latitude":48.78049,
+    "geom:longitude":14.28653,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Nemce",
+    "gn:country_code":"CZ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069917,
+    "gn:latitude":48.78049,
+    "gn:longitude":14.28653,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"N\u011bm\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niemsching",
+        "N\u011bm\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069917
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"50163d95800bf121aa6da25bb6ded456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209649007
+        }
+    ],
+    "wof:id":1209649007,
+    "wof:lastmodified":1537619347,
+    "wof:name":"Nemce",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28653,
+    48.78049,
+    14.28653,
+    48.78049
+],
+  "geometry": {"coordinates":[14.28653,48.78049],"type":"Point"}
+}

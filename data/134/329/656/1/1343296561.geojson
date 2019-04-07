@@ -1,0 +1,71 @@
+{
+  "id": 1343296561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51476,50.29179,13.51476,50.29179",
+    "geom:latitude":50.29179,
+    "geom:longitude":13.51476,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0424",
+    "gn:asciiname":"Radiceves",
+    "gn:country_code":"CZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067216,
+    "gn:latitude":50.29179,
+    "gn:longitude":13.51476,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Rad\u00ed\u010deves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reitschowes",
+        "Raitschowes",
+        "Rad\u00ed\u010deves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067216
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3d3634ce6c92d7e3be274d185cacde57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343296561,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1343296561,
+    "wof:lastmodified":1537619316,
+    "wof:name":"Radiceves",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51476,
+    50.29179,
+    13.51476,
+    50.29179
+],
+  "geometry": {"coordinates":[13.51476,50.29179],"type":"Point"}
+}

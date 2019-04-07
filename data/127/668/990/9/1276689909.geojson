@@ -1,0 +1,82 @@
+{
+  "id": 1276689909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77839,48.78963,14.77839,48.78963",
+    "geom:latitude":48.78963,
+    "geom:longitude":14.77839,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Nove Hrady",
+    "gn:country_code":"CZ",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069493,
+    "gn:latitude":48.78963,
+    "gn:longitude":14.77839,
+    "gn:modification_date":"2013-01-17",
+    "gn:name":"Nov\u00e9 Hrady",
+    "gn:population":2590,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0435-\u0413\u0440\u0430\u0434\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0435 \u0425\u0440\u0430\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gratzen"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8d6b\u62c9\u8fea"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069493,
+        "wk:page":"Nov%C3%A9_Hrady_%28%C4%8Cesk%C3%A9_Bud%C4%9Bjovice_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"19491099a98c90367926ba4c9165c550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276689909,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276689909,
+    "wof:lastmodified":1537619341,
+    "wof:name":"Nove Hrady",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":2590,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77839,
+    48.78963,
+    14.77839,
+    48.78963
+],
+  "geometry": {"coordinates":[14.77839,48.78963],"type":"Point"}
+}

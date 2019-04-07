@@ -1,0 +1,66 @@
+{
+  "id": 1293327679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84861,49.15308,13.84861,49.15308",
+    "geom:latitude":49.15308,
+    "geom:longitude":13.84861,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Starov",
+    "gn:country_code":"CZ",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065286,
+    "gn:latitude":49.15308,
+    "gn:longitude":13.84861,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Starov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065286
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ce5ce52a2cf03371f122b190e6eb925c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293327679,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293327679,
+    "wof:lastmodified":1537016743,
+    "wof:name":"Starov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84861,
+    49.15308,
+    13.84861,
+    49.15308
+],
+  "geometry": {"coordinates":[13.84861,49.15308],"type":"Point"}
+}

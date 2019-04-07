@@ -1,0 +1,143 @@
+{
+  "id": 1126016357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17095,49.2743,13.17095,49.2743",
+    "geom:latitude":49.2743,
+    "geom:longitude":13.17095,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":709,
+    "gn:population":709,
+    "iso:country":"CZ",
+    "lbl:latitude":49.2743,
+    "lbl:longitude":13.17095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:dut_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:eng_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:fre_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:ger_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:hun_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:ita_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:may_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:nan_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0634\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:por_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:rup_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:slo_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0448\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "De\u0161enice"
+    ],
+    "name:unk_x_variant":[
+        "Deschenitz"
+    ],
+    "name:vie_x_preferred":[
+        "De\u0161enice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077204,
+    "qs_pg:gn_pop":709,
+    "qs_pg:name":"De\u0161enice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":938651,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788093,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077204,
+        "gp:id":788093,
+        "qs_pg:id":938651,
+        "wd:id":"Q526887"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497300573,
+    "wof:geomhash":"87f6dc3b3d1f16b9c0248fc948f83927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126016357,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1126016357,
+    "wof:lastmodified":1513944903,
+    "wof:name":"De\u0161enice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":709,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17095,
+    49.2743,
+    13.17095,
+    49.2743
+],
+  "geometry": {"coordinates":[13.17095,49.2743],"type":"Point"}
+}

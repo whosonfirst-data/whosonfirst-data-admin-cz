@@ -1,0 +1,66 @@
+{
+  "id": 1226680203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23588,49.98192,14.23588,49.98192",
+    "geom:latitude":49.98192,
+    "geom:longitude":14.23588,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020A",
+    "gn:asciiname":"Kuchar",
+    "gn:country_code":"CZ",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072566,
+    "gn:latitude":49.98192,
+    "gn:longitude":14.23588,
+    "gn:modification_date":"2017-02-13",
+    "gn:name":"Kucha\u0159",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072566
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"261221d27a528cdfa8a6419940c8a3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226680203,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226680203,
+    "wof:lastmodified":1536809473,
+    "wof:name":"Kuchar",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23588,
+    49.98192,
+    14.23588,
+    49.98192
+],
+  "geometry": {"coordinates":[14.23588,49.98192],"type":"Point"}
+}

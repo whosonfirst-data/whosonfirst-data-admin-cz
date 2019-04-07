@@ -1,0 +1,137 @@
+{
+  "id": 1125835127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2923,50.22946,16.2923,50.22946",
+    "geom:latitude":50.22946,
+    "geom:longitude":16.2923,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1060,
+    "gn:population":1060,
+    "iso:country":"CZ",
+    "lbl:latitude":50.22946,
+    "lbl:longitude":16.2923,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:dut_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:eng_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:fre_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:ger_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:hun_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:ita_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:may_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06a9\u0648\u0647\u0631\u0648\u0641 \u0646\u0627\u062f \u0628\u06cc\u0644\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:por_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:rup_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:slo_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0443\u0445\u0440\u043e\u0432 \u043d\u0430 \u0411\u0458\u0435\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "name:vie_x_preferred":[
+        "Skuhrov nad B\u011blou"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065930,
+    "qs_pg:gn_pop":1060,
+    "qs_pg:name":"Skuhrov nad B\u011blou",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1232856,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798179,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065930,
+        "gp:id":798179,
+        "qs_pg:id":1232856,
+        "wd:id":"Q2078160"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292680,
+    "wof:geomhash":"e0ef4c7495bf8b559baa6940c21407e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125835127,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125835127,
+    "wof:lastmodified":1513945685,
+    "wof:name":"Skuhrov nad B\u011blou",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":1060,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2923,
+    50.22946,
+    16.2923,
+    50.22946
+],
+  "geometry": {"coordinates":[16.2923,50.22946],"type":"Point"}
+}

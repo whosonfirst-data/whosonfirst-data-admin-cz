@@ -1,0 +1,66 @@
+{
+  "id": 1209846095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61751,49.61734,15.61751,49.61734",
+    "geom:latitude":49.61734,
+    "geom:longitude":15.61751,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Pohledsti Dvoraci",
+    "gn:country_code":"CZ",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067965,
+    "gn:latitude":49.61734,
+    "gn:longitude":15.61751,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Pohled\u0161t\u00ed Dvo\u0159\u00e1ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067965
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e577fca05d7ef1864077c9ab071469c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209846095,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1209846095,
+    "wof:lastmodified":1536390597,
+    "wof:name":"Pohledsti Dvoraci",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61751,
+    49.61734000000001,
+    15.61751,
+    49.61734000000001
+],
+  "geometry": {"coordinates":[15.61751,49.61734000000001],"type":"Point"}
+}

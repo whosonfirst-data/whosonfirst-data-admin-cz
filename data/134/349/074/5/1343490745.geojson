@@ -1,0 +1,73 @@
+{
+  "id": 1343490745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49559,49.25351,17.49559,49.25351",
+    "geom:latitude":49.25351,
+    "geom:longitude":17.49559,
+    "gn:admin1_code":"90",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Tlumacov",
+    "gn:country_code":"CZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064183,
+    "gn:latitude":49.25351,
+    "gn:longitude":17.49559,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Tluma\u010dov",
+    "gn:population":2468,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tlumatschau"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064183,
+        "wk:page":"Tluma%C4%8Dov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b92e48554a09dd79c50abb486ec7312d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343490745,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1343490745,
+    "wof:lastmodified":1537619281,
+    "wof:name":"Tlumacov",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":2468,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49559,
+    49.25351,
+    17.49559,
+    49.25351
+],
+  "geometry": {"coordinates":[17.49559,49.25351],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310531881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31602,48.88361,14.31602,48.88361",
+    "geom:latitude":48.88361,
+    "geom:longitude":14.31602,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Krasetin",
+    "gn:country_code":"CZ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072907,
+    "gn:latitude":48.88361,
+    "gn:longitude":14.31602,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Kraset\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072907
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"aac6fe4663d78862f8771b940b1f522f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310531881,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1310531881,
+    "wof:lastmodified":1536878170,
+    "wof:name":"Krasetin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31602,
+    48.88361,
+    14.31602,
+    48.88361
+],
+  "geometry": {"coordinates":[14.31602,48.88361],"type":"Point"}
+}

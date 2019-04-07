@@ -1,0 +1,132 @@
+{
+  "id": 1125857065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59406,49.61541,16.59406,49.61541",
+    "geom:latitude":49.61541,
+    "geom:longitude":16.59406,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":131,
+    "gn:population":131,
+    "iso:country":"CZ",
+    "lbl:latitude":49.61541,
+    "lbl:longitude":16.59406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0443\u0431\u0430\u043d\u0438\u043d\u0430"
+    ],
+    "name:cze_x_preferred":[
+        "Roubanina"
+    ],
+    "name:dut_x_preferred":[
+        "Roubanina"
+    ],
+    "name:eng_x_preferred":[
+        "Roubanina"
+    ],
+    "name:fre_x_preferred":[
+        "Roubanina"
+    ],
+    "name:ger_x_preferred":[
+        "Roubanina"
+    ],
+    "name:hun_x_preferred":[
+        "Roubanina"
+    ],
+    "name:ita_x_preferred":[
+        "Roubanina"
+    ],
+    "name:may_x_preferred":[
+        "Roubanina"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0648\u0648\u0628\u0627\u0646\u06cc\u0646\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Roubanina"
+    ],
+    "name:slo_x_preferred":[
+        "Roubanina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0443\u0431\u0430\u045a\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Roubanina"
+    ],
+    "name:vie_x_preferred":[
+        "Roubanina"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066738,
+    "qs_pg:gn_pop":131,
+    "qs_pg:name":"Roubanina",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1267916,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797462,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066738,
+        "gp:id":797462,
+        "qs_pg:id":1267916,
+        "wd:id":"Q2169202"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293664,
+    "wof:geomhash":"ee5dd84fd5c0724568368fed42ee7e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125857065,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125857065,
+    "wof:lastmodified":1513945646,
+    "wof:name":"Roubanina",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59406,
+    49.61541,
+    16.59406,
+    49.61541
+],
+  "geometry": {"coordinates":[16.59406,49.61541],"type":"Point"}
+}

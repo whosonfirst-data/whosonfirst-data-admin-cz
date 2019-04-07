@@ -1,0 +1,135 @@
+{
+  "id": 1125967823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20295,50.03182,14.20295,50.03182",
+    "geom:latitude":50.03182,
+    "geom:longitude":14.20295,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":405,
+    "gn:population":405,
+    "iso:country":"CZ",
+    "lbl:latitude":50.03182,
+    "lbl:longitude":14.20295,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:dut_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:eng_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:fre_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:ger_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:hun_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:ita_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:may_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0631\u0627\u0647\u0644\u062a\u0634\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:por_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0435\u043b\u044c\u0447\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0430\u0445\u0435\u043b\u0447\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "name:vie_x_preferred":[
+        "Drahel\u010dice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076504,
+    "qs_pg:gn_pop":405,
+    "qs_pg:name":"Drahel\u010dice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398016,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788753,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076504,
+        "gp:id":788753,
+        "qs_pg:id":398016,
+        "wd:id":"Q1914057"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298037,
+    "wof:geomhash":"ef9fd6a1a2150dc5f574dd0f54c85296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125967823,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125967823,
+    "wof:lastmodified":1513944940,
+    "wof:name":"Drahel\u010dice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":405,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20295,
+    50.03182,
+    14.20295,
+    50.03182
+],
+  "geometry": {"coordinates":[14.20295,50.03182],"type":"Point"}
+}

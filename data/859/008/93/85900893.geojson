@@ -1,0 +1,143 @@
+{
+  "id": 85900893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000627,
+    "geom:area_square_m":4967168.512453,
+    "geom:bbox":"14.5486450195,50.1135331072,14.5916040039,50.1378775716",
+    "geom:latitude":50.125371,
+    "geom:longitude":14.568242,
+    "gn:latitude":50.12484,
+    "gn:longitude":14.57191,
+    "gn:population":2069,
+    "iso:country":"CZ",
+    "lbl:latitude":50.124604,
+    "lbl:longitude":14.575912,
+    "mps:latitude":50.125631,
+    "mps:longitude":14.563552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u057f\u0561\u056c\u056b\u0581\u0565"
+    ],
+    "name:cze_x_preferred":[
+        "Praha-Satalice"
+    ],
+    "name:cze_x_preferred_x_preferred":[
+        "Praha-Satalice"
+    ],
+    "name:cze_x_variant":[
+        "Praha 9-Satalice",
+        "Praha-Satalice",
+        "Satalic",
+        "Satalice",
+        "Satalitz"
+    ],
+    "name:eng_x_preferred":[
+        "Satalice"
+    ],
+    "name:fre_x_preferred":[
+        "Satalice"
+    ],
+    "name:hun_x_preferred":[
+        "Satalice"
+    ],
+    "name:pol_x_preferred":[
+        "Satalice"
+    ],
+    "name:slo_x_preferred":[
+        "Satalice"
+    ],
+    "name:swe_x_preferred":[
+        "Satalice"
+    ],
+    "name:unk_x_variant":[
+        "Satalitz",
+        "Praha-Satalice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:gn_name":"Satalice",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Praha-Satalice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":140,
+    "qs:photo_sum":199,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        101754439,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066392,
+        "gp:id":797775,
+        "qs:id":145292,
+        "qs_pg:id":145292,
+        "wd:id":"Q3509354"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3cf9ce55578b4ac48146600eee71b3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101754439,
+            "neighbourhood_id":85900893,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900893,
+    "wof:lastmodified":1513945667,
+    "wof:name":"Satalice",
+    "wof:parent_id":101754439,
+    "wof:placetype":"neighbourhood",
+    "wof:population":2069,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54864501952511,
+    50.1135331072005,
+    14.59160400390004,
+    50.1378775715901
+],
+  "geometry": {"coordinates":[[[14.572480712605,50.1378775715901],[14.58111477085657,50.13114283090017],[14.58886428731125,50.13114283090017],[14.59039434929139,50.13054609119941],[14.59038543547229,50.13054338722192],[14.59084279922536,50.12968771982374],[14.5914118567041,50.12781178872031],[14.59160400390004,50.12586088550007],[14.5914118567041,50.12390998227995],[14.59084279922536,50.12203405117653],[14.59006440288431,50.12057777405035],[14.58111576763008,50.12057777405035],[14.57885742187523,50.12233894077515],[14.57449330605016,50.12233894077515],[14.57336429934804,50.12057809800002],[14.57336425780005,50.12057803320012],[14.57223504338981,50.1188168664754],[14.5690003081458,50.1188168664754],[14.56787113526002,50.11705589410009],[14.56787109370003,50.11705582928626],[14.56674171314802,50.11529453305037],[14.55963134765011,50.11529453305037],[14.55931033624751,50.11479392643021],[14.55688476562511,50.1135331072005],[14.55139160157506,50.1135331072005],[14.54864501952511,50.11496078917908],[14.54864501952511,50.12233894077515],[14.54896506935859,50.12283812130859],[14.5525248355151,50.12468890739042],[14.5541381836,50.1305611071008],[14.5541381836,50.13076121919552],[14.5617248598831,50.13667898069069],[14.56732730800212,50.13449380827238],[14.56868673901965,50.13491797739256],[14.572480712605,50.1378775715901]]],"type":"Polygon"}
+}

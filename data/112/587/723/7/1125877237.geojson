@@ -1,0 +1,145 @@
+{
+  "id": 1125877237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8632195,48.995762,16.8632195,48.995762",
+    "geom:latitude":48.995762,
+    "geom:longitude":16.863219,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":48.995762,
+    "lbl:longitude":16.863219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u043b\u043e\u0431\u043e\u0443\u043a\u0439"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u723e\u8afe\u9644\u8fd1\u514b\u6d1b\u9b91\u57fa"
+    ],
+    "name:cze_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:dut_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:eng_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:fre_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:ger_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:hun_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:ita_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:lav_x_preferred":[
+        "Klobouki pie Brno"
+    ],
+    "name:may_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:pol_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:por_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:rup_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:sgs_x_preferred":[
+        "Kluobouk\u0113 \u0161al\u0117p Brna"
+    ],
+    "name:slo_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u043e\u0431\u043e\u0443\u043a\u0438 \u0443 \u0411\u0440\u043d\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043b\u043e\u0431\u043e\u0443\u043a\u043c-\u0443-\u0411\u0440\u043d\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Klobouky u Brna"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Klobouky u Brna",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos":196,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":196,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":898906,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":24929643,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24929643,
+        "qs_pg:id":898906,
+        "wd:id":"Q1023810"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294601,
+    "wof:geomhash":"af14ebbfac91fd9980b365a04699e0b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125877237,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125877237,
+    "wof:lastmodified":1534379266,
+    "wof:name":"Klobouky u Brna",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[
+        101781043
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8632195,
+    48.995762,
+    16.8632195,
+    48.995762
+],
+  "geometry": {"coordinates":[16.8632195,48.995762],"type":"Point"}
+}

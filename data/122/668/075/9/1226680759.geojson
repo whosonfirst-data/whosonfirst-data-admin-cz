@@ -1,0 +1,66 @@
+{
+  "id": 1226680759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58544,48.93737,14.58544,48.93737",
+    "geom:latitude":48.93737,
+    "geom:longitude":14.58544,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Ohrazenicko",
+    "gn:country_code":"CZ",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069117,
+    "gn:latitude":48.93737,
+    "gn:longitude":14.58544,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Ohrazen\u00ed\u010dko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069117
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ff6b11d821ee4772f536f89b95e82775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226680759,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1226680759,
+    "wof:lastmodified":1536808711,
+    "wof:name":"Ohrazenicko",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58544,
+    48.93737,
+    14.58544,
+    48.93737
+],
+  "geometry": {"coordinates":[14.58544,48.93737],"type":"Point"}
+}

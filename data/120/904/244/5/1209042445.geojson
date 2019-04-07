@@ -1,0 +1,66 @@
+{
+  "id": 1209042445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32544,49.61993,15.32544,49.61993",
+    "geom:latitude":49.61993,
+    "geom:longitude":15.32544,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Lipnicka Dobra Voda",
+    "gn:country_code":"CZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071794,
+    "gn:latitude":49.61993,
+    "gn:longitude":15.32544,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Lipnick\u00e1 Dobr\u00e1 Voda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobr\u00e1 Voda Lipnick\u00e1",
+        "Lipnick\u00e1 Dobr\u00e1 Voda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071794
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"866ae56a3574c61959fb920694904523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209042445
+        }
+    ],
+    "wof:id":1209042445,
+    "wof:lastmodified":1537619372,
+    "wof:name":"Lipnicka Dobra Voda",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32544,
+    49.61993,
+    15.32544,
+    49.61993
+],
+  "geometry": {"coordinates":[15.32544,49.61993],"type":"Point"}
+}

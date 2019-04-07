@@ -1,0 +1,142 @@
+{
+  "id": 1125958229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22182,48.87285,16.22182,48.87285",
+    "geom:latitude":48.87285,
+    "geom:longitude":16.22182,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":424,
+    "gn:population":424,
+    "iso:country":"CZ",
+    "lbl:latitude":48.87285,
+    "lbl:longitude":16.22182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Lechovice"
+    ],
+    "name:dut_x_preferred":[
+        "Lechovice"
+    ],
+    "name:eng_x_preferred":[
+        "Lechovice"
+    ],
+    "name:fre_x_preferred":[
+        "Lechovice"
+    ],
+    "name:ger_x_preferred":[
+        "Lechovice"
+    ],
+    "name:hun_x_preferred":[
+        "Lechovice"
+    ],
+    "name:ita_x_preferred":[
+        "Lechovice"
+    ],
+    "name:may_x_preferred":[
+        "Lechovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u062e\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Lechovice"
+    ],
+    "name:por_x_preferred":[
+        "Lechovice"
+    ],
+    "name:rup_x_preferred":[
+        "Lechovice"
+    ],
+    "name:slo_x_preferred":[
+        "Lechovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0445\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Lechovice"
+    ],
+    "name:unk_x_variant":[
+        "Lechwitz"
+    ],
+    "name:vie_x_preferred":[
+        "Lechovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072248,
+    "qs_pg:gn_pop":424,
+    "qs_pg:name":"Lechovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1293010,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792492,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072248,
+        "gp:id":792492,
+        "qs_pg:id":1293010,
+        "wd:id":"Q1811363"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297693,
+    "wof:geomhash":"2f673ebc79d602d4dbe137c99049dd07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125958229,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125958229,
+    "wof:lastmodified":1513945269,
+    "wof:name":"Lechovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":424,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22182,
+    48.87285,
+    16.22182,
+    48.87285
+],
+  "geometry": {"coordinates":[16.22182,48.87285],"type":"Point"}
+}

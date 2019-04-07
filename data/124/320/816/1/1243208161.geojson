@@ -1,0 +1,66 @@
+{
+  "id": 1243208161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05368,49.21093,15.05368,49.21093",
+    "geom:latitude":49.21093,
+    "geom:longitude":15.05368,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Lovetin",
+    "gn:country_code":"CZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071484,
+    "gn:latitude":49.21093,
+    "gn:longitude":15.05368,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Lov\u011bt\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071484
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"65b9f448e00f5c03748f9bcb8d41153c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243208161,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243208161,
+    "wof:lastmodified":1536651981,
+    "wof:name":"Lovetin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05368,
+    49.21093,
+    15.05368,
+    49.21093
+],
+  "geometry": {"coordinates":[15.05368,49.21093],"type":"Point"}
+}

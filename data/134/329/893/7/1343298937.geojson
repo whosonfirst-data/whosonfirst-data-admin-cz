@@ -1,0 +1,70 @@
+{
+  "id": 1343298937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84689,50.43074,15.84689,50.43074",
+    "geom:latitude":50.43074,
+    "geom:longitude":15.84689,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Zbozi",
+    "gn:country_code":"CZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061764,
+    "gn:latitude":50.43074,
+    "gn:longitude":15.84689,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Zbo\u017e\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rennz\u00e4hn",
+        "Zbo\u017e\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061764
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"aa7a59dd8c2445bf062e74ff6856b279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343298937,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1343298937,
+    "wof:lastmodified":1537619256,
+    "wof:name":"Zbozi",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84689,
+    50.43074,
+    15.84689,
+    50.43074
+],
+  "geometry": {"coordinates":[15.84689,50.43074],"type":"Point"}
+}

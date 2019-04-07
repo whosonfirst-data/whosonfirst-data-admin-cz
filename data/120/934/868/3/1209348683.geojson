@@ -1,0 +1,66 @@
+{
+  "id": 1209348683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50007,49.80324,14.50007,49.80324",
+    "geom:latitude":49.80324,
+    "geom:longitude":14.50007,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Tuchyne",
+    "gn:country_code":"CZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063886,
+    "gn:latitude":49.80324,
+    "gn:longitude":14.50007,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Tuchyn\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuchin",
+        "Tuchyn\u011b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063886
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3525656e1a5e418023ea87de926a2630",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209348683
+        }
+    ],
+    "wof:id":1209348683,
+    "wof:lastmodified":1537619279,
+    "wof:name":"Tuchyne",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50007,
+    49.80324,
+    14.50007,
+    49.80324
+],
+  "geometry": {"coordinates":[14.50007,49.80324],"type":"Point"}
+}

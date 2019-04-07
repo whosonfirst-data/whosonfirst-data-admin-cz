@@ -1,0 +1,70 @@
+{
+  "id": 1343692093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40951,48.77554,14.40951,48.77554",
+    "geom:latitude":48.77554,
+    "geom:longitude":14.40951,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Horni Plane",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075261,
+    "gn:latitude":48.77554,
+    "gn:longitude":14.40951,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Horn\u00ed Pl\u00e1n\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klein Plandles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075261
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"db43e60d0892d4f1c0b9e30cf8fdc059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343692093,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343692093,
+    "wof:lastmodified":1537619411,
+    "wof:name":"Horni Plane",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40951,
+    48.77554,
+    14.40951,
+    48.77554
+],
+  "geometry": {"coordinates":[14.40951,48.77554],"type":"Point"}
+}

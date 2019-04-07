@@ -1,0 +1,70 @@
+{
+  "id": 1293035315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98611,50.29806,12.98611,50.29806",
+    "geom:latitude":50.29806,
+    "geom:longitude":12.98611,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Moricov",
+    "gn:country_code":"CZ",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070302,
+    "gn:latitude":50.29806,
+    "gn:longitude":12.98611,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Mo\u0159i\u010dov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moritschau",
+        "Mo\u0159i\u010dov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070302
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"91c9e1e93436de0505584f9052f24de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293035315,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1293035315,
+    "wof:lastmodified":1537619353,
+    "wof:name":"Moricov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98611,
+    50.29806,
+    12.98611,
+    50.29806
+],
+  "geometry": {"coordinates":[12.98611,50.29806],"type":"Point"}
+}

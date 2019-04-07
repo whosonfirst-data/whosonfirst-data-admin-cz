@@ -1,0 +1,144 @@
+{
+  "id": 85900817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3730255.88291,
+    "geom:bbox":"17.266846,49.575252,17.266846,49.575252",
+    "geom:latitude":49.575252,
+    "geom:longitude":17.266846,
+    "gn:latitude":49.57243,
+    "gn:longitude":17.25918,
+    "iso:country":"CZ",
+    "lbl:latitude":49.575252,
+    "lbl:longitude":17.266846,
+    "mps:latitude":49.566622,
+    "mps:longitude":17.268215,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:ces_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:cze_x_colloquial":[
+        "Nove Sady"
+    ],
+    "name:cze_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:cze_x_variant":[
+        "Neustift",
+        "Novy Sady"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00e9 Sady u Velk\u00e9 B\u00edte\u0161e"
+    ],
+    "name:hun_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:msa_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:nld_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:por_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:slk_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "name:unk_x_variant":[
+        "Neustift",
+        "Nov\u00e9 Sady"
+    ],
+    "name:vie_x_preferred":[
+        "Nov\u00e9 Sady"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3069011,
+    "qs:gn_nam_loc":"Olomouc, Olomouc, Olomouc, Olomouck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"84",
+    "qs:gn_name":"Nov\u00e9 Sady",
+    "qs:local_max":2195,
+    "qs:local_sum":3887,
+    "qs:localhoods":9,
+    "qs:name":"Nov\u00e9 Sady",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Olomouck\u00fd kraj",
+    "qs:name_adm2":"Olomouc",
+    "qs:name_lau":"Olomouc",
+    "qs:name_local":"Olomouc",
+    "qs:photo_max":18,
+    "qs:photo_sum":23,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070470,
+    "qs:woe_adm2":12582575,
+    "qs:woe_lau":12607265,
+    "qs:woe_local":795429,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748129,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069443,
+        "gp:id":795047,
+        "qs:id":1220664,
+        "qs_pg:id":1220664
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e6070579890bf889aa3f27ec34d13901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748129,
+            "neighbourhood_id":85900817,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":85900817,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932389,
+    "wof:name":"Nov\u00e9 Sady",
+    "wof:parent_id":101748129,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.266846,
+    49.575252,
+    17.266846,
+    49.575252
+],
+  "geometry": {"coordinates":[17.266846,49.575252],"type":"Point"}
+}

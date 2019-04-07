@@ -1,0 +1,62 @@
+{
+  "id": 1209649459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26355,49.2806,15.26355,49.2806",
+    "geom:latitude":49.2806,
+    "geom:longitude":15.26355,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Hermanec",
+    "gn:country_code":"CZ",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075868,
+    "gn:latitude":49.2806,
+    "gn:longitude":15.26355,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"He\u0159mane\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075868
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cbed6273ba6840da6101f8751265285b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209649459
+        }
+    ],
+    "wof:id":1209649459,
+    "wof:lastmodified":1536280627,
+    "wof:name":"Hermanec",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26355,
+    49.2806,
+    15.26355,
+    49.2806
+],
+  "geometry": {"coordinates":[15.26355,49.2806],"type":"Point"}
+}

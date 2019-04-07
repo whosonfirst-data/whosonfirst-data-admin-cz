@@ -1,0 +1,66 @@
+{
+  "id": 1226073903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74586,49.32308,15.74586,49.32308",
+    "geom:latitude":49.32308,
+    "geom:longitude":15.74586,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Dolni Smrcne",
+    "gn:country_code":"CZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076683,
+    "gn:latitude":49.32308,
+    "gn:longitude":15.74586,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Doln\u00ed Smr\u010dn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076683
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cbc77242d159ae59cbf948a17cad3686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226073903,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1226073903,
+    "wof:lastmodified":1536684698,
+    "wof:name":"Dolni Smrcne",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74586,
+    49.32308,
+    15.74586,
+    49.32308
+],
+  "geometry": {"coordinates":[15.74586,49.32308],"type":"Point"}
+}

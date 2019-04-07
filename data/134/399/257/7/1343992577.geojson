@@ -1,0 +1,70 @@
+{
+  "id": 1343992577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65641,49.78577,12.65641,49.78577",
+    "geom:latitude":49.78577,
+    "geom:longitude":12.65641,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Maly Rapotin",
+    "gn:country_code":"CZ",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071069,
+    "gn:latitude":49.78577,
+    "gn:longitude":12.65641,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Mal\u00fd Rapot\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klein Gropitzreith",
+        "Mal\u00fd Rapot\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071069
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0f8b6a788893e47f3a16e687061d8a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343992577,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343992577,
+    "wof:lastmodified":1537619363,
+    "wof:name":"Maly Rapotin",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65641,
+    49.78577,
+    12.65641,
+    49.78577
+],
+  "geometry": {"coordinates":[12.65641,49.78577],"type":"Point"}
+}

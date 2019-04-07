@@ -1,0 +1,66 @@
+{
+  "id": 1310139443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68333,50.03333,15.68333,50.03333",
+    "geom:latitude":50.03333,
+    "geom:longitude":15.68333,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0532",
+    "gn:asciiname":"Lany na Dulku",
+    "gn:country_code":"CZ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072321,
+    "gn:latitude":50.03333,
+    "gn:longitude":15.68333,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"L\u00e1ny na D\u016flku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072321
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b31b91c58965aff1f1d6e8bfc087e8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310139443,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1310139443,
+    "wof:lastmodified":1536947947,
+    "wof:name":"Lany na Dulku",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68333,
+    50.03333,
+    15.68333,
+    50.03333
+],
+  "geometry": {"coordinates":[15.68333,50.03333],"type":"Point"}
+}

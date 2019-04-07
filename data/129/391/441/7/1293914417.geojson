@@ -1,0 +1,69 @@
+{
+  "id": 1293914417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31262,49.31035,17.31262,49.31035",
+    "geom:latitude":49.31035,
+    "geom:longitude":17.31262,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0721",
+    "gn:asciiname":"Bojanovice",
+    "gn:country_code":"CZ",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079091,
+    "gn:latitude":49.31035,
+    "gn:longitude":17.31262,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Bojanovice",
+    "gn:population":181,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079091
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1c9e65db78fae7160c5dc6f2916814a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293914417,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1293914417,
+    "wof:lastmodified":1536668839,
+    "wof:name":"Bojanovice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":181,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31262000000001,
+    49.31035,
+    17.31262000000001,
+    49.31035
+],
+  "geometry": {"coordinates":[17.31262000000001,49.31035],"type":"Point"}
+}

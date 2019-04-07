@@ -1,0 +1,66 @@
+{
+  "id": 1343297183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08442,50.39456,16.08442,50.39456",
+    "geom:latitude":50.39456,
+    "geom:longitude":16.08442,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Kleny",
+    "gn:country_code":"CZ",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073625,
+    "gn:latitude":50.39456,
+    "gn:longitude":16.08442,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Kleny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073625
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ee91cd3aa8662150b72b2b903b6c9095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343297183,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1343297183,
+    "wof:lastmodified":1536981174,
+    "wof:name":"Kleny",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08442,
+    50.39456,
+    16.08442,
+    50.39456
+],
+  "geometry": {"coordinates":[16.08442,50.39456],"type":"Point"}
+}

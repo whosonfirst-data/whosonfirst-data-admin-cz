@@ -1,0 +1,66 @@
+{
+  "id": 1360219165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,49.86667,16.2,49.86667",
+    "geom:latitude":49.86667,
+    "geom:longitude":16.2,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"U Tri Kocouru",
+    "gn:country_code":"CZ",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063512,
+    "gn:latitude":49.86667,
+    "gn:longitude":16.2,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"U T\u0159\u00ed Kocour\u016f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063512
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0cef75a55268601d44c02b756aad9033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360219165,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1360219165,
+    "wof:lastmodified":1536752188,
+    "wof:name":"U Tri Kocouru",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    49.86667,
+    16.2,
+    49.86667
+],
+  "geometry": {"coordinates":[16.2,49.86667],"type":"Point"}
+}

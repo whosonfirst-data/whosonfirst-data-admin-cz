@@ -1,0 +1,70 @@
+{
+  "id": 1293421277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45332,49.76217,14.45332,49.76217",
+    "geom:latitude":49.76217,
+    "geom:longitude":14.45332,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Blazim",
+    "gn:country_code":"CZ",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079230,
+    "gn:latitude":49.76217,
+    "gn:longitude":14.45332,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Bla\u017eim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blaschim",
+        "Bla\u017eim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079230
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"de1ebb6669804d1ac5862898f4eeb48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293421277,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293421277,
+    "wof:lastmodified":1537619459,
+    "wof:name":"Blazim",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45332,
+    49.76217000000001,
+    14.45332,
+    49.76217000000001
+],
+  "geometry": {"coordinates":[14.45332,49.76217000000001],"type":"Point"}
+}

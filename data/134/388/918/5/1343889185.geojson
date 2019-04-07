@@ -1,0 +1,66 @@
+{
+  "id": 1343889185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89584,50.39459,15.89584,50.39459",
+    "geom:latitude":50.39459,
+    "geom:longitude":15.89584,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Slotov",
+    "gn:country_code":"CZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065783,
+    "gn:latitude":50.39459,
+    "gn:longitude":15.89584,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Slotov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065783
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"018eb14a7e8eb5b0ea285931a6312005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343889185,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1343889185,
+    "wof:lastmodified":1536623241,
+    "wof:name":"Slotov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89584,
+    50.39459,
+    15.89584,
+    50.39459
+],
+  "geometry": {"coordinates":[15.89584,50.39459],"type":"Point"}
+}

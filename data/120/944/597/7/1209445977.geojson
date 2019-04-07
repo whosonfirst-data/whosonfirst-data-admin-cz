@@ -1,0 +1,62 @@
+{
+  "id": 1209445977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03117,49.35711,14.03117,49.35711",
+    "geom:latitude":49.35711,
+    "geom:longitude":14.03117,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Samonice",
+    "gn:country_code":"CZ",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066422,
+    "gn:latitude":49.35711,
+    "gn:longitude":14.03117,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"\u0160amonice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066422
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e7c14181bd68792826b0879cafec3a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209445977
+        }
+    ],
+    "wof:id":1209445977,
+    "wof:lastmodified":1536286818,
+    "wof:name":"Samonice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03117,
+    49.35711,
+    14.03117,
+    49.35711
+],
+  "geometry": {"coordinates":[14.03117,49.35711],"type":"Point"}
+}

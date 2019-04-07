@@ -1,0 +1,66 @@
+{
+  "id": 1225978275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64667,49.38274,16.64667,49.38274",
+    "geom:latitude":49.38274,
+    "geom:longitude":16.64667,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Na Familiich",
+    "gn:country_code":"CZ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070101,
+    "gn:latitude":49.38274,
+    "gn:longitude":16.64667,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Na Famili\u00edch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070101
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"73de3a280f9ad4f792c56ed74172989e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225978275,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1225978275,
+    "wof:lastmodified":1536821558,
+    "wof:name":"Na Familiich",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64667,
+    49.38274000000001,
+    16.64667,
+    49.38274000000001
+],
+  "geometry": {"coordinates":[16.64667,49.38274000000001],"type":"Point"}
+}

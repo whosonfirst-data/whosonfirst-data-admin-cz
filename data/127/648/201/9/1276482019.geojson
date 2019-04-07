@@ -1,0 +1,66 @@
+{
+  "id": 1276482019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14117,50.2467,14.14117,50.2467",
+    "geom:latitude":50.2467,
+    "geom:longitude":14.14117,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0203",
+    "gn:asciiname":"Vitov",
+    "gn:country_code":"CZ",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062797,
+    "gn:latitude":50.2467,
+    "gn:longitude":14.14117,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"V\u00edtov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062797
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6b0cf1eeaaa892bdfd94ad9ff9e748c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276482019,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276482019,
+    "wof:lastmodified":1537073526,
+    "wof:name":"Vitov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14117,
+    50.2467,
+    14.14117,
+    50.2467
+],
+  "geometry": {"coordinates":[14.14117,50.2467],"type":"Point"}
+}

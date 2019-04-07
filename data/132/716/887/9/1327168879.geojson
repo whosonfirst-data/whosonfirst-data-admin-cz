@@ -1,0 +1,66 @@
+{
+  "id": 1327168879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54245,49.60703,14.54245,49.60703",
+    "geom:latitude":49.60703,
+    "geom:longitude":14.54245,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Chotetice",
+    "gn:country_code":"CZ",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077646,
+    "gn:latitude":49.60703,
+    "gn:longitude":14.54245,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Chot\u011btice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077646
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"14cfd1f5af7f702ad07e1bc993eb5e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327168879,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1327168879,
+    "wof:lastmodified":1537058778,
+    "wof:name":"Chotetice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54245,
+    49.60703,
+    14.54245,
+    49.60703
+],
+  "geometry": {"coordinates":[14.54245,49.60703],"type":"Point"}
+}

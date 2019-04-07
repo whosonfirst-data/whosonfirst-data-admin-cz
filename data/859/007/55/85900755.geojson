@@ -1,0 +1,114 @@
+{
+  "id": 85900755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12828004.637324,
+    "geom:bbox":"13.365818,49.763256,13.365818,49.763256",
+    "geom:latitude":49.763256,
+    "geom:longitude":13.365818,
+    "gn:latitude":49.76463,
+    "gn:longitude":13.36697,
+    "iso:country":"CZ",
+    "lbl:latitude":49.763256,
+    "lbl:longitude":13.365818,
+    "mps:latitude":49.771879,
+    "mps:longitude":13.361611,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:cze_x_colloquial":[
+        "Lochotin"
+    ],
+    "name:cze_x_preferred":[
+        "Lochot\u00edn"
+    ],
+    "name:cze_x_variant":[
+        "Lochotin Park"
+    ],
+    "name:unk_x_variant":[
+        "Lochotin Park",
+        "Lochot\u00edn"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"87",
+    "qs:gn_name":"Lochot\u00edn",
+    "qs:local_max":1309,
+    "qs:local_sum":4721,
+    "qs:localhoods":13,
+    "qs:name":"Lochot\u00edn",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs:name_adm2":"Plze\u0148-M\u011bsto",
+    "qs:name_lau":"Plze\u0148",
+    "qs:name_local":"Plze\u0148",
+    "qs:photo_max":114,
+    "qs:photo_sum":602,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":47,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070501,
+    "qs:woe_adm2":12582609,
+    "qs:woe_lau":12610042,
+    "qs:woe_local":12610042,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748111,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071647,
+        "gp:id":793059,
+        "qs:id":1080919,
+        "qs_pg:id":1080919
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"47e7386d4eef57b55dc07632a7ebc6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748111,
+            "neighbourhood_id":85900755,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":85900755,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932377,
+    "wof:name":"Lochot\u00edn",
+    "wof:parent_id":101748111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.365818,
+    49.763256,
+    13.365818,
+    49.763256
+],
+  "geometry": {"coordinates":[13.365818,49.763256],"type":"Point"}
+}

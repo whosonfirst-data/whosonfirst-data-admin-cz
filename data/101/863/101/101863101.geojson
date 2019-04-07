@@ -1,0 +1,146 @@
+{
+  "id": 101863101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.719432,49.585653,18.719432,49.585653",
+    "geom:latitude":49.585653,
+    "geom:longitude":18.719432,
+    "gn:population":1291,
+    "iso:country":"CZ",
+    "lbl:latitude":49.585653,
+    "lbl:longitude":18.719432,
+    "mps:latitude":49.585653,
+    "mps:longitude":18.719432,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:ces_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:cze_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:deu_x_preferred":[
+        "Mil\u00edkov u Jablunkova"
+    ],
+    "name:dut_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:eng_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:ger_x_preferred":[
+        "Mil\u00edkov u Jablunkova"
+    ],
+    "name:hun_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:ita_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:may_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:msa_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:nld_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u0644\u06cc\u06a9\u0648\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Milik\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:rup_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:slk_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:slo_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u0438\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "name:vie_x_preferred":[
+        "Mil\u00edkov"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mil\u00edkov",
+    "qs:loc_alt":"Milikov",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070666,
+        "gp:id":793922,
+        "qs:id":1043025,
+        "qs_pg:id":1043025,
+        "wd:id":"Q1936037",
+        "wk:page":"Mil\u00edkov (Fr\u00fddek-M\u00edstek District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"84369d2ad07285cb624ef38244a90d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101863101,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101863101,
+    "wof:lastmodified":1553815555,
+    "wof:name":"Mil\u00edkov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1291,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.719432,
+    49.585653,
+    18.719432,
+    49.585653
+],
+  "geometry": {"coordinates":[18.719432,49.585653],"type":"Point"}
+}

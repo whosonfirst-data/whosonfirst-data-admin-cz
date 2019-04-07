@@ -1,0 +1,66 @@
+{
+  "id": 1343397157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50352,50.15172,16.50352,50.15172",
+    "geom:latitude":50.15172,
+    "geom:longitude":16.50352,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Kunacice",
+    "gn:country_code":"CZ",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072539,
+    "gn:latitude":50.15172,
+    "gn:longitude":16.50352,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Kuna\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072539
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"740d69f9b67a09913ad7cde82dcb075f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343397157,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1343397157,
+    "wof:lastmodified":1536836450,
+    "wof:name":"Kunacice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50352,
+    50.15172000000001,
+    16.50352,
+    50.15172000000001
+],
+  "geometry": {"coordinates":[16.50352,50.15172000000001],"type":"Point"}
+}

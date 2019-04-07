@@ -1,0 +1,131 @@
+{
+  "id": 1125822623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83956,49.47153,12.83956,49.47153",
+    "geom:latitude":49.47153,
+    "geom:longitude":12.83956,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":125,
+    "gn:population":125,
+    "iso:country":"CZ",
+    "lbl:latitude":49.47153,
+    "lbl:longitude":12.83956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:dut_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:eng_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:fre_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:ger_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:hun_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:ita_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:may_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:nan_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u0631\u0632\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:por_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:rup_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:slo_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0440\u0436\u0435\u0437\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Nov\u00fd Pa\u0159ezov"
+    ],
+    "name:unk_x_variant":[
+        "Pa\u0159ezov"
+    ],
+    "name:vie_x_preferred":[
+        "Pa\u0159ezov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069287,
+    "qs_pg:gn_pop":125,
+    "qs_pg:name":"Nov\u00fd Pa\u0159ezov",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":94465,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069287,
+        "qs_pg:id":94465,
+        "wd:id":"Q610905"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292139,
+    "wof:geomhash":"9a5c45858645c7a5c33e48b02d6b30dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125822623,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125822623,
+    "wof:lastmodified":1513945445,
+    "wof:name":"Nov\u00fd Pa\u0159ezov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83956,
+    49.47153,
+    12.83956,
+    49.47153
+],
+  "geometry": {"coordinates":[12.83956,49.47153],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243590225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83517,49.98333,12.83517,49.98333",
+    "geom:latitude":49.98333,
+    "geom:longitude":12.83517,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Jankovice",
+    "gn:country_code":"CZ",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074528,
+    "gn:latitude":49.98333,
+    "gn:longitude":12.83517,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Jankovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enkengr\u00fcn",
+        "Jankovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074528
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c5c6d664178b3122c8483f3825295973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243590225,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1243590225,
+    "wof:lastmodified":1537619402,
+    "wof:name":"Jankovice",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83517,
+    49.98333,
+    12.83517,
+    49.98333
+],
+  "geometry": {"coordinates":[12.83517,49.98333],"type":"Point"}
+}

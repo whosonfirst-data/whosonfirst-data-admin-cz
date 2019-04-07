@@ -1,0 +1,154 @@
+{
+  "id": 101780995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":787566.32824,
+    "geom:bbox":"16.6472632902,49.0082492218,16.6766238224,49.0184199609",
+    "geom:latitude":49.012118,
+    "geom:longitude":16.660446,
+    "gn:population":1230,
+    "iso:country":"CZ",
+    "lbl:latitude":49.011776,
+    "lbl:longitude":16.660446,
+    "mps:latitude":49.011776,
+    "mps:longitude":16.660446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0441\u0438\u0441\u043b\u0430\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "Nosislav"
+    ],
+    "name:ces_x_preferred":[
+        "Nosislav"
+    ],
+    "name:cze_x_preferred":[
+        "Nosislav"
+    ],
+    "name:deu_x_preferred":[
+        "Nosislav"
+    ],
+    "name:dut_x_preferred":[
+        "Nosislav"
+    ],
+    "name:eng_x_preferred":[
+        "Nosislav"
+    ],
+    "name:fra_x_preferred":[
+        "Nosislav"
+    ],
+    "name:fre_x_preferred":[
+        "Nosislav"
+    ],
+    "name:ger_x_preferred":[
+        "Nosislav"
+    ],
+    "name:hun_x_preferred":[
+        "Nosislav"
+    ],
+    "name:ita_x_preferred":[
+        "Nosislav"
+    ],
+    "name:may_x_preferred":[
+        "Nosislav"
+    ],
+    "name:msa_x_preferred":[
+        "Nosislav"
+    ],
+    "name:nld_x_preferred":[
+        "Nosislav"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0648\u0633\u06cc\u0633\u0644\u0627\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Nosislav"
+    ],
+    "name:por_x_preferred":[
+        "Nosislav"
+    ],
+    "name:slk_x_preferred":[
+        "Nosislav"
+    ],
+    "name:slo_x_preferred":[
+        "Nosislav"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0441\u0438\u0441\u043b\u0430\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Nosislav"
+    ],
+    "name:unk_x_variant":[
+        "Noslau"
+    ],
+    "name:vie_x_preferred":[
+        "Nosislav"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Velk\u00e9 N\u011bm\u010dice",
+    "qs:la_lc":"*CZ0624585009",
+    "qs:level":"locality",
+    "qs:loc":"Nosislav",
+    "qs:loc_alt":"Nosislav",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069720,
+        "gp:id":794776,
+        "qs:id":306497,
+        "qs_pg:id":306497,
+        "wd:id":"Q2001637",
+        "wk:page":"Nosislav"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0fddd5d9205f04419910b224903a0908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101780995,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101780995,
+    "wof:lastmodified":1527715871,
+    "wof:name":"Nosislav",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1230,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64726329022972,
+    49.00824922182534,
+    16.67662382237552,
+    49.01841996085273
+],
+  "geometry": {"coordinates":[[[16.66424445328443,49.0110975502069],[16.67105446825059,49.0106907664981],[16.67129711025007,49.01248119689495],[16.67265914979646,49.01239978704575],[16.67278050354503,49.01329499980091],[16.67414256341453,49.01321357168138],[16.67402118524319,49.01231836062709],[16.67538321659009,49.01223691763926],[16.67526181955049,49.01134170779096],[16.67662382237552,49.01126024993556],[16.67650240646918,49.01036504129377],[16.67514042806414,49.01044649744762],[16.675019042131,49.009551286609],[16.67093315557605,49.0097955505571],[16.67081184845097,49.00890033412134],[16.66672599827689,49.00914444385501],[16.66660476995526,49.00824922182534],[16.66524283612557,49.00833055690129],[16.66536404002829,49.00922578063],[16.65310623165993,49.00995706601839],[16.65298524753877,49.00906182701488],[16.65162327280859,49.00914299640715],[16.65234911402348,49.01451443319195],[16.65098698866001,49.01459559618741],[16.65110795714025,49.01549083561878],[16.64974580326185,49.01557198373865],[16.64986675284695,49.01646722437175],[16.64850457045287,49.01654835761531],[16.64862550114088,49.01744359944996],[16.64726329022972,49.01752471781674],[16.64738420201854,49.01841996085273],[16.65010866862059,49.01825770415718],[16.64998770796643,49.01736246451117],[16.65271210935754,49.01720014491769],[16.6525911053763,49.0163049081695],[16.65395327550976,49.01622372521098],[16.65383225263594,49.01532848966519],[16.65655653177828,49.01516607742707],[16.65643546558601,49.0142708447803],[16.66324596971873,49.01386453268327],[16.66312478693777,49.01296930803062],[16.6644868510615,49.0128879975988],[16.66424445328443,49.0110975502069]]],"type":"Polygon"}
+}

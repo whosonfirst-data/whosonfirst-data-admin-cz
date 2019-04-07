@@ -1,0 +1,66 @@
+{
+  "id": 1327262943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68333,50.01667,15.68333,50.01667",
+    "geom:latitude":50.01667,
+    "geom:longitude":15.68333,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0532",
+    "gn:asciiname":"Nove Civice",
+    "gn:country_code":"CZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069530,
+    "gn:latitude":50.01667,
+    "gn:longitude":15.68333,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Nov\u00e9 \u010c\u00edvice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069530
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"354dca959255fe190cc4cf57c6212ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327262943,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1327262943,
+    "wof:lastmodified":1536926285,
+    "wof:name":"Nove Civice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68333,
+    50.01667,
+    15.68333,
+    50.01667
+],
+  "geometry": {"coordinates":[15.68333,50.01667],"type":"Point"}
+}

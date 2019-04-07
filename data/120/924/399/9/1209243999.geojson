@@ -1,0 +1,66 @@
+{
+  "id": 1209243999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03185,50.55883,14.03185,50.55883",
+    "geom:latitude":50.55883,
+    "geom:longitude":14.03185,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Litochovice",
+    "gn:country_code":"CZ",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071684,
+    "gn:latitude":50.55883,
+    "gn:longitude":14.03185,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Litochovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lichtowitz",
+        "Litochovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071684
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"733fb148345b0076a365ede92ab4770e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209243999
+        }
+    ],
+    "wof:id":1209243999,
+    "wof:lastmodified":1537619371,
+    "wof:name":"Litochovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03185,
+    50.55883,
+    14.03185,
+    50.55883
+],
+  "geometry": {"coordinates":[14.03185,50.55883],"type":"Point"}
+}

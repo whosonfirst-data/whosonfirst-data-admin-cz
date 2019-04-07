@@ -1,0 +1,66 @@
+{
+  "id": 1260114267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83741,49.74235,12.83741,49.74235",
+    "geom:latitude":49.74235,
+    "geom:longitude":12.83741,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Malkovice",
+    "gn:country_code":"CZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071122,
+    "gn:latitude":49.74235,
+    "gn:longitude":12.83741,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"M\u00e1lkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071122
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dd30b738fda539f8920def4904bc22e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260114267,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1260114267,
+    "wof:lastmodified":1536944270,
+    "wof:name":"Malkovice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83741,
+    49.74235,
+    12.83741,
+    49.74235
+],
+  "geometry": {"coordinates":[12.83741,49.74235],"type":"Point"}
+}

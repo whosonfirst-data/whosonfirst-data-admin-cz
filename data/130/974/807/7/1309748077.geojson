@@ -1,0 +1,66 @@
+{
+  "id": 1309748077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49309,50.46956,15.49309,50.46956",
+    "geom:latitude":50.46956,
+    "geom:longitude":15.49309,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Kumbursky Ujezd",
+    "gn:country_code":"CZ",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072541,
+    "gn:latitude":50.46956,
+    "gn:longitude":15.49309,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Kumbursk\u00fd \u00dajezd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072541
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3acf2a4dc8857ce76620701a7973120c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309748077,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1309748077,
+    "wof:lastmodified":1537013596,
+    "wof:name":"Kumbursky Ujezd",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49309,
+    50.46956,
+    15.49309,
+    50.46956
+],
+  "geometry": {"coordinates":[15.49309,50.46956],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 101825323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":787383.946294,
+    "geom:bbox":"16.6139839612,50.0049311923,16.6386346083,50.013471981",
+    "geom:latitude":50.008996,
+    "geom:longitude":16.626667,
+    "gn:population":1084,
+    "iso:country":"CZ",
+    "lbl:latitude":50.008519,
+    "lbl:longitude":16.627507,
+    "mps:latitude":50.008519,
+    "mps:longitude":16.627507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Byst\u0159ec"
+    ],
+    "name:ces_x_preferred":[
+        "Byst\u0159ec"
+    ],
+    "name:epo_x_preferred":[
+        "Byst\u0159ec"
+    ],
+    "name:fra_x_preferred":[
+        "Byst\u0159ec"
+    ],
+    "name:hun_x_preferred":[
+        "Byst\u0159ec"
+    ],
+    "name:ita_x_preferred":[
+        "Byst\u0159ec"
+    ],
+    "name:msa_x_preferred":[
+        "Byst\u0159ec"
+    ],
+    "name:nld_x_preferred":[
+        "Byst\u0159ec"
+    ],
+    "name:pol_x_preferred":[
+        "Byst\u0159ec"
+    ],
+    "name:por_x_preferred":[
+        "Byst\u0159ec"
+    ],
+    "name:unk_x_variant":[
+        "Waltersdorf"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Pardubick\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Byst\u0159ec",
+    "qs:la_lc":"*CZ0534579971",
+    "qs:level":"locality",
+    "qs:loc":"Byst\u0159ec",
+    "qs:loc_alt":"Bystrec",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078303,
+        "gp:id":787137,
+        "qs:id":1043098,
+        "qs_pg:id":1043098,
+        "wd:id":"Q2309376",
+        "wk:page":"Byst\u0159ec"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"88999b3a68d431979071fb5328977f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825323,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":101825323,
+    "wof:lastmodified":1527715056,
+    "wof:name":"Byst\u0159ec",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":1084,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61398396118341,
+    50.00493119231766,
+    16.63863460834568,
+    50.01347198103497
+],
+  "geometry": {"coordinates":[[[16.62674489127824,50.01217171441084],[16.62662057224907,50.01127678860894],[16.63218158423433,50.01095222418917],[16.63193275789013,50.00916238524189],[16.63471313511047,50.00900000823242],[16.63458867924089,50.00810509159652],[16.63736898775409,50.00794265022756],[16.63724448628216,50.00704773664927],[16.63863460834568,50.00696649226808],[16.6383855714538,50.00517666729399],[16.62726488538379,50.00582611943423],[16.62714058134952,50.00493119231766],[16.62575050187792,50.00501229575929],[16.6258747802014,50.00590722462044],[16.62448467070578,50.00598831284424],[16.62460892913083,50.00688324301279],[16.62321878961018,50.00696431601801],[16.62334302813474,50.00785924749414],[16.62195285858797,50.00794030528004],[16.62207707720984,50.00883523806334],[16.6165162530524,50.00915930654224],[16.61664037461753,50.01005424586191],[16.61525013208757,50.01013522231324],[16.61537423374057,50.01103016293899],[16.61398396118341,50.01111112416766],[16.61410804292245,50.01200606609922],[16.61966921017961,50.0116821124231],[16.61991759685014,50.01347198103497],[16.6240885813562,50.01322882717704],[16.62396430795167,50.01233389832174],[16.62674489127824,50.01217171441084]]],"type":"Polygon"}
+}

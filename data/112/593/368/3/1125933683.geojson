@@ -1,0 +1,141 @@
+{
+  "id": 1125933683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1795,50.54637,16.1795,50.54637",
+    "geom:latitude":50.54637,
+    "geom:longitude":16.1795,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":312,
+    "gn:population":312,
+    "iso:country":"CZ",
+    "lbl:latitude":50.54637,
+    "lbl:longitude":16.1795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:hun_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:may_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:nan_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0634\u0633\u06a9\u0627 \u0645\u062a\u0648\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:por_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:rup_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0448\u043a\u0430 \u041c\u0435\u0442\u0443\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "name:unk_x_variant":[
+        "N\u011bmeck\u00e1-Metuje"
+    ],
+    "name:vie_x_preferred":[
+        "\u010cesk\u00e1 Metuje"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077927,
+    "qs_pg:gn_pop":312,
+    "qs_pg:name":"\u010cesk\u00e1 Metuje",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":397640,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787450,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077927,
+        "gp:id":787450,
+        "qs_pg:id":397640,
+        "wd:id":"Q340690"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296893,
+    "wof:geomhash":"7e644ee6c562c7f23d0b39f3166c7268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125933683,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125933683,
+    "wof:lastmodified":1513946036,
+    "wof:name":"\u010cesk\u00e1 Metuje",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":312,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1795,
+    50.54637,
+    16.1795,
+    50.54637
+],
+  "geometry": {"coordinates":[16.1795,50.54637],"type":"Point"}
+}

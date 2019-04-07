@@ -1,0 +1,66 @@
+{
+  "id": 1276689695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53719,49.50052,15.53719,49.50052",
+    "geom:latitude":49.50052,
+    "geom:longitude":15.53719,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Petrovice",
+    "gn:country_code":"CZ",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068367,
+    "gn:latitude":49.50052,
+    "gn:longitude":15.53719,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Petrovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068367
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bfbe44cfabac333128f47f0671636c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276689695,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1276689695,
+    "wof:lastmodified":1536798407,
+    "wof:name":"Petrovice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53719,
+    49.50052,
+    15.53719,
+    49.50052
+],
+  "geometry": {"coordinates":[15.53719,49.50052],"type":"Point"}
+}

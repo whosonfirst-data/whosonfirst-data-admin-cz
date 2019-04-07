@@ -1,0 +1,102 @@
+{
+  "id": 101779949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:bbox":"16.7439875376,49.2101243024,16.7569053682,49.2285903839",
+    "geom:latitude":49.218961,
+    "geom:longitude":16.751063,
+    "iso:country":"CZ",
+    "lbl:latitude":49.219841,
+    "lbl:longitude":16.753314,
+    "mps:latitude":49.219841,
+    "mps:longitude":16.753314,
+    "mz:hierarchy_label":1,
+    "name:ces_x_preferred":[
+        "Mokr\u00e1-Hor\u00e1kov"
+    ],
+    "name:deu_x_preferred":[
+        "Mokr\u00e1-Hor\u00e1kov"
+    ],
+    "name:fra_x_preferred":[
+        "Mokr\u00e1-Hor\u00e1kov"
+    ],
+    "name:hun_x_preferred":[
+        "Mokr\u00e1-Hor\u00e1kov"
+    ],
+    "name:ita_x_preferred":[
+        "Mokr\u00e1-Hor\u00e1kov"
+    ],
+    "name:msa_x_preferred":[
+        "Mokr\u00e1-Hor\u00e1kov"
+    ],
+    "name:nld_x_preferred":[
+        "Mokr\u00e1-Hor\u00e1kov"
+    ],
+    "name:pol_x_preferred":[
+        "Mokr\u00e1-Hor\u00e1kov"
+    ],
+    "name:por_x_preferred":[
+        "Mokr\u00e1-Hor\u00e1kov"
+    ],
+    "name:slk_x_preferred":[
+        "Mokr\u00e1-Hor\u00e1kov"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la":"Tvaro\u017en\u00e1",
+    "qs:la_lc":"*CZ0623584037",
+    "qs:level":"locality",
+    "qs:loc":"Mokr\u00e1",
+    "qs:loc_alt":"Mokra",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075534,
+        "gp:id":794169,
+        "wd:id":"Q1943228",
+        "wk:page":"Mokr\u00e1-Hor\u00e1kov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"aeedfb01cb93f07488d87d62e2b70ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779949,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101779949,
+    "wof:lastmodified":1477508542,
+    "wof:name":"Mokr\u00e1",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.74398753763194,
+    49.21012430242735,
+    16.75690536816558,
+    49.22859038386144
+],
+  "geometry": {"coordinates":[[[16.75590858266202,49.22850790554531],[16.75553755348272,49.22582282639058],[16.75690536816558,49.22574033662693],[16.7556687268974,49.21679005839889],[16.75293358678925,49.21695498661217],[16.75231572586875,49.21247981186281],[16.74821335420899,49.21272705336582],[16.7480898730434,49.21183201175631],[16.74672243209824,49.21191439057225],[16.74647553610941,49.21012430242735],[16.74510814029418,49.21020666113884],[16.74535498696082,49.21199675274443],[16.74398753763194,49.21207909827285],[16.74472806575608,49.21744937176192],[16.74609566308072,49.21736701585098],[16.74621912895543,49.21826205799488],[16.75032196977452,49.2180148851939],[16.75093975435072,49.22249006262427],[16.74957202157782,49.22257247886364],[16.7499426864382,49.22525758466571],[16.74857487543755,49.22533998945323],[16.74869841706925,49.22623502547788],[16.75280191151484,49.22598775597203],[16.75292553286477,49.22688278631165],[16.75429338062838,49.22680032811195],[16.75454068973738,49.22859038386144],[16.75590858266202,49.22850790554531]]],"type":"Polygon"}
+}

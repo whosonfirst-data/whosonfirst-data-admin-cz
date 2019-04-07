@@ -1,0 +1,70 @@
+{
+  "id": 1209751271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63591,49.18714,14.63591,49.18714",
+    "geom:latitude":49.18714,
+    "geom:longitude":14.63591,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Sviny",
+    "gn:country_code":"CZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064461,
+    "gn:latitude":49.18714,
+    "gn:longitude":14.63591,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Sviny",
+    "gn:population":320,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064461,
+        "wk:page":"Sviny_%28T%C3%A1bor_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f74282567b777cd6fc51961d92ca4604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209751271,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1209751271,
+    "wof:lastmodified":1537504020,
+    "wof:name":"Sviny",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":320,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63591,
+    49.18714,
+    14.63591,
+    49.18714
+],
+  "geometry": {"coordinates":[14.63591,49.18714],"type":"Point"}
+}

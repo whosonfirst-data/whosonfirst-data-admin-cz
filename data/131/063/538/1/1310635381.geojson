@@ -1,0 +1,70 @@
+{
+  "id": 1310635381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01205,49.10823,14.01205,49.10823",
+    "geom:latitude":49.10823,
+    "geom:longitude":14.01205,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Dub",
+    "gn:country_code":"CZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076368,
+    "gn:latitude":49.10823,
+    "gn:longitude":14.01205,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Dub",
+    "gn:population":390,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076368,
+        "wk:page":"Dub_%28Prachatice_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c9e6ce2035885f962231940a7a85674e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310635381,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1310635381,
+    "wof:lastmodified":1537504062,
+    "wof:name":"Dub",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":390,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01205,
+    49.10823,
+    14.01205,
+    49.10823
+],
+  "geometry": {"coordinates":[14.01205,49.10823],"type":"Point"}
+}

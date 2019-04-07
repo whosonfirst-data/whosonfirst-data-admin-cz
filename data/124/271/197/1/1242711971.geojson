@@ -1,0 +1,66 @@
+{
+  "id": 1242711971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92433,49.45219,13.92433,49.45219",
+    "geom:latitude":49.45219,
+    "geom:longitude":13.92433,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Ujezd u Skalican",
+    "gn:country_code":"CZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063641,
+    "gn:latitude":49.45219,
+    "gn:longitude":13.92433,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"\u00dajezd u Skali\u010dan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063641
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"65355b591bfe71f68a9d8c41ed674be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242711971,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1242711971,
+    "wof:lastmodified":1536869100,
+    "wof:name":"Ujezd u Skalican",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92433,
+    49.45219,
+    13.92433,
+    49.45219
+],
+  "geometry": {"coordinates":[13.92433,49.45219],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343397343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04174,50.13311,16.04174,50.13311",
+    "geom:latitude":50.13311,
+    "geom:longitude":16.04174,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Nova Ves",
+    "gn:country_code":"CZ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069589,
+    "gn:latitude":50.13311,
+    "gn:longitude":16.04174,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Nov\u00e1 Ves",
+    "gn:population":126,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nov\u00e1 Ves"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069589,
+        "wk:page":"Nov%C3%A1_Ves_%28Rychnov_nad_Kn%C4%9B%C5%BEnou_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ca1bd7986e0023edd92ce920c21aad62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343397343,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1343397343,
+    "wof:lastmodified":1537619344,
+    "wof:name":"Nova Ves",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04174,
+    50.13311,
+    16.04174,
+    50.13311
+],
+  "geometry": {"coordinates":[16.04174,50.13311],"type":"Point"}
+}

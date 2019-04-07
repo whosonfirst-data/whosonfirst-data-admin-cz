@@ -1,0 +1,66 @@
+{
+  "id": 1343395097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.15204,49.6814,13.15204,49.6814",
+    "geom:latitude":49.6814,
+    "geom:longitude":13.15204,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0324",
+    "gn:asciiname":"Novy",
+    "gn:country_code":"CZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069384,
+    "gn:latitude":49.6814,
+    "gn:longitude":13.15204,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Nov\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069384
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"055783659ba708649a1411646e55e53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343395097,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343395097,
+    "wof:lastmodified":1536839558,
+    "wof:name":"Novy",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.15204,
+    49.6814,
+    13.15204,
+    49.6814
+],
+  "geometry": {"coordinates":[13.15204,49.6814],"type":"Point"}
+}

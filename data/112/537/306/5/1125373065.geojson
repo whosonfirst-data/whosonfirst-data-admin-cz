@@ -1,0 +1,93 @@
+{
+  "id": 1125373065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17843,48.76591,14.17843,48.76591",
+    "geom:latitude":48.76591,
+    "geom:longitude":14.17843,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":786,
+    "gn:population":786,
+    "iso:country":"CZ",
+    "lbl:latitude":48.76591,
+    "lbl:longitude":14.17843,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "H\u00f6ritz im B\u00f6hmerwalde"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075492,
+    "qs_pg:gn_pop":786,
+    "qs_pg:name":"Ho\u0159ice na \u0160umav\u011b",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":344462,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12604700,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075492,
+        "gp:id":12604700,
+        "qs_pg:id":344462
+    },
+    "wof:country":"CZ",
+    "wof:created":1497047542,
+    "wof:geomhash":"8ec5b97155a8a9eae91a63744efe5440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125373065,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125373065,
+    "wof:lastmodified":1509389375,
+    "wof:name":"Ho\u0159ice na \u0160umav\u011b",
+    "wof:parent_id":85682415,
+    "wof:placetype":"localadmin",
+    "wof:population":786,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17843,
+    48.76591,
+    14.17843,
+    48.76591
+],
+  "geometry": {"coordinates":[14.17843,48.76591],"type":"Point"}
+}

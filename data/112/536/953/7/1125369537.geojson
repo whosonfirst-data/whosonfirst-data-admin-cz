@@ -1,0 +1,80 @@
+{
+  "id": 1125369537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.334695,49.997339,16.334695,49.997339",
+    "geom:latitude":49.997339,
+    "geom:longitude":16.334695,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":49.997339,
+    "lbl:longitude":16.334695,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Orlick\u00e9 Podh\u016f\u0159\u00ed",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":969200,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12609239,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12609239,
+        "qs_pg:id":969200
+    },
+    "wof:country":"CZ",
+    "wof:created":1497047297,
+    "wof:geomhash":"bd7bb3f88fc614759e4c9df000d8227d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125369537,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125369537,
+    "wof:lastmodified":1509389282,
+    "wof:name":"Orlick\u00e9 Podh\u016f\u0159\u00ed",
+    "wof:parent_id":85682443,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.334695,
+    49.997339,
+    16.334695,
+    49.997339
+],
+  "geometry": {"coordinates":[16.334695,49.997339],"type":"Point"}
+}

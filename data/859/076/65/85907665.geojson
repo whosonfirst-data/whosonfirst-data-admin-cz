@@ -1,0 +1,133 @@
+{
+  "id": 85907665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":476458.983313,
+    "geom:bbox":"14.4513864307,50.1346642574,14.4635009766,50.1477516706",
+    "geom:latitude":50.14009,
+    "geom:longitude":14.45717,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.133324,
+    "lbl:longitude":14.455523,
+    "mps:latitude":50.141064,
+    "mps:longitude":14.455243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cze_x_preferred":[
+        "Praha 8"
+    ],
+    "name:dan_x_preferred":[
+        "Prag 8"
+    ],
+    "name:deu_x_preferred":[
+        "Prag 8"
+    ],
+    "name:eng_x_preferred":[
+        "Prague 8"
+    ],
+    "name:eng_x_variant":[
+        "Prague 8"
+    ],
+    "name:fra_x_preferred":[
+        "Prague 8"
+    ],
+    "name:ita_x_preferred":[
+        "Praga 8"
+    ],
+    "name:nld_x_preferred":[
+        "Praag 8"
+    ],
+    "name:por_x_preferred":[
+        "Praga 8"
+    ],
+    "name:spa_x_preferred":[
+        "Praga 8"
+    ],
+    "name:swe_x_preferred":[
+        "Prag 8"
+    ],
+    "name:unk_x_variant":[
+        "Praha 8"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Praha 8",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_en":"Prague 8",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":3,
+    "qs:photo_sum":4,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23407541,
+        "qs:id":1329696,
+        "qs_pg:id":1329696
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3094df5e5a10baf0272693b036141ad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "neighbourhood_id":85907665,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85907665,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1527268819,
+    "wof:name":"Praha 8",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45138643065445,
+    50.13466425740044,
+    14.46350097660007,
+    50.14775167062494
+],
+  "geometry": {"coordinates":[[[14.45800781250011,50.14170587960008],[14.45800781250011,50.1381852304],[14.46350097660007,50.1381852304],[14.4635009765845,50.13818516565037],[14.46350097659177,50.13466432219998],[14.46350097657927,50.13466425740044],[14.45800781250011,50.13466425740044],[14.45800781250011,50.13466432219998],[14.45800781250011,50.13818516565037],[14.45251464842522,50.13818516565037],[14.45251460692475,50.1381852304],[14.45138643065445,50.13994542547529],[14.45251464840015,50.14170581478622],[14.4525146484001,50.14170587960008],[14.45251468993865,50.1417058796],[14.45477083491636,50.14522620492538],[14.45800781250011,50.14775167062494],[14.45800781250011,50.14170587960008]]],"type":"Polygon"}
+}

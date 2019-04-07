@@ -1,0 +1,70 @@
+{
+  "id": 1293129501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.625,49.84766,12.625,49.84766",
+    "geom:latitude":49.84766,
+    "geom:longitude":12.625,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Stokov",
+    "gn:country_code":"CZ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065104,
+    "gn:latitude":49.84766,
+    "gn:longitude":12.625,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"\u0160tokov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stockau",
+        "\u0160tokov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065104
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d3f59ea1b5f15c8565b2d5f6a99cd8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293129501,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293129501,
+    "wof:lastmodified":1537619291,
+    "wof:name":"Stokov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.625,
+    49.84766,
+    12.625,
+    49.84766
+],
+  "geometry": {"coordinates":[12.625,49.84766],"type":"Point"}
+}

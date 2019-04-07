@@ -1,0 +1,66 @@
+{
+  "id": 1209040225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08799,50.68613,15.08799,50.68613",
+    "geom:latitude":50.68613,
+    "geom:longitude":15.08799,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"0513",
+    "gn:asciiname":"Zaskali",
+    "gn:country_code":"CZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061835,
+    "gn:latitude":50.68613,
+    "gn:longitude":15.08799,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Z\u00e1skal\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saskal",
+        "Z\u00e1skal\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061835
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"878a492838934ef36e0fbd54e3910178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209040225
+        }
+    ],
+    "wof:id":1209040225,
+    "wof:lastmodified":1537619257,
+    "wof:name":"Zaskali",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08799,
+    50.68613,
+    15.08799,
+    50.68613
+],
+  "geometry": {"coordinates":[15.08799,50.68613],"type":"Point"}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1125783869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38976,49.61765,14.38976,49.61765",
+    "geom:latitude":49.61765,
+    "geom:longitude":14.38976,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":799,
+    "gn:population":799,
+    "iso:country":"CZ",
+    "lbl:latitude":49.61765,
+    "lbl:longitude":14.38976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:dut_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:eng_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:fre_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:ger_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:hun_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:ita_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:may_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0633\u0648\u06a9\u06cc \u062e\u0644\u0648\u0645\u062a\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:rup_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:slo_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0438 \u0425\u043b\u0443\u043c\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "name:unk_x_variant":[
+        "Hoch Chlumetz"
+    ],
+    "name:vie_x_preferred":[
+        "Vysok\u00fd Chlumec"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062200,
+    "qs_pg:gn_pop":799,
+    "qs_pg:name":"Vysok\u00fd Chlumec",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":580753,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062200,
+        "qs_pg:id":580753,
+        "wd:id":"Q1014449"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290597,
+    "wof:geomhash":"2b0bdaa83e9e2f692dff4bed9834ab0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125783869,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125783869,
+    "wof:lastmodified":1513945912,
+    "wof:name":"Vysok\u00fd Chlumec",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":799,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38976,
+    49.61765,
+    14.38976,
+    49.61765
+],
+  "geometry": {"coordinates":[14.38976,49.61765],"type":"Point"}
+}

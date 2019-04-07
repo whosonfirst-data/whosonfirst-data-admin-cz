@@ -1,0 +1,70 @@
+{
+  "id": 1243104125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.795,49.81976,17.795,49.81976",
+    "geom:latitude":49.81976,
+    "geom:longitude":17.795,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Vendelin",
+    "gn:country_code":"CZ",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063106,
+    "gn:latitude":49.81976,
+    "gn:longitude":17.795,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Vendel\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dv\u016dr Vendel\u00edn",
+        "Vendel\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063106
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"08e4d0ea1e79cfdd8b100b5aa4b0617d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243104125,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1243104125,
+    "wof:lastmodified":1537619271,
+    "wof:name":"Vendelin",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.795,
+    49.81976,
+    17.795,
+    49.81976
+],
+  "geometry": {"coordinates":[17.795,49.81976],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259911187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00347,49.94429,16.00347,49.94429",
+    "geom:latitude":49.94429,
+    "geom:longitude":16.00347,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Lhota u Chroustovic",
+    "gn:country_code":"CZ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072061,
+    "gn:latitude":49.94429,
+    "gn:longitude":16.00347,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Lhota u Chroustovic",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072061
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b213015f6bcef4d0687960a3fb4156e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259911187,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1259911187,
+    "wof:lastmodified":1536739175,
+    "wof:name":"Lhota u Chroustovic",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00347,
+    49.94429,
+    16.00347,
+    49.94429
+],
+  "geometry": {"coordinates":[16.00347,49.94429],"type":"Point"}
+}

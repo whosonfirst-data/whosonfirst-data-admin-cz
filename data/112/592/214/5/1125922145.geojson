@@ -1,0 +1,89 @@
+{
+  "id": 1125922145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54053,49.93025,16.54053,49.93025",
+    "geom:latitude":49.93025,
+    "geom:longitude":16.54053,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":592,
+    "gn:population":592,
+    "iso:country":"CZ",
+    "lbl:latitude":49.93025,
+    "lbl:longitude":16.54053,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Michelsdorf"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3068772,
+    "qs_pg:gn_pop":592,
+    "qs_pg:name":"Ostrov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1267479,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795629,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068772,
+        "gp:id":795629,
+        "qs_pg:id":1267479
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296517,
+    "wof:geomhash":"d6e9205e2214cf0cf5a245c6d77d4258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125922145,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125922145,
+    "wof:lastmodified":1509400870,
+    "wof:name":"Ostrov",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":592,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54053,
+    49.93025,
+    16.54053,
+    49.93025
+],
+  "geometry": {"coordinates":[16.54053,49.93025],"type":"Point"}
+}

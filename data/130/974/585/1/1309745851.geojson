@@ -1,0 +1,70 @@
+{
+  "id": 1309745851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84529,49.38985,14.84529,49.38985",
+    "geom:latitude":49.38985,
+    "geom:longitude":14.84529,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Hroby",
+    "gn:country_code":"CZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074810,
+    "gn:latitude":49.38985,
+    "gn:longitude":14.84529,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Hroby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hrob",
+        "Hroby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074810
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2f212dfbca13ef4e4069f7d91f7c823b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309745851,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1309745851,
+    "wof:lastmodified":1537619405,
+    "wof:name":"Hroby",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84529,
+    49.38985,
+    14.84529,
+    49.38985
+],
+  "geometry": {"coordinates":[14.84529,49.38985],"type":"Point"}
+}

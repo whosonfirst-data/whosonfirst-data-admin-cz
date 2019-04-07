@@ -1,0 +1,62 @@
+{
+  "id": 1209546053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52107,50.38852,15.52107,50.38852",
+    "geom:latitude":50.38852,
+    "geom:longitude":15.52107,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Podhorni Ujezd",
+    "gn:country_code":"CZ",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068087,
+    "gn:latitude":50.38852,
+    "gn:longitude":15.52107,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Podhorn\u00ed \u00dajezd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068087
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e7434e74dfc1d52e1cec09824614c577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209546053
+        }
+    ],
+    "wof:id":1209546053,
+    "wof:lastmodified":1536283839,
+    "wof:name":"Podhorni Ujezd",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.521070000000002,
+    50.38852,
+    15.521070000000002,
+    50.38852
+],
+  "geometry": {"coordinates":[15.52107,50.38852],"type":"Point"}
+}

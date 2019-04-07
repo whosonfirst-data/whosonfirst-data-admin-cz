@@ -1,0 +1,129 @@
+{
+  "id": 1125945725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4363,49.43561,16.4363,49.43561",
+    "geom:latitude":49.43561,
+    "geom:longitude":16.4363,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":125,
+    "gn:population":125,
+    "iso:country":"CZ",
+    "lbl:latitude":49.43561,
+    "lbl:longitude":16.4363,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:dut_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:eng_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:fre_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:ger_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:hun_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:ita_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:may_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0631\u0647\u0627\u0631\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:rup_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:slo_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:swe_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "name:vie_x_preferred":[
+        "Strha\u0159e"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064936,
+    "qs_pg:gn_pop":125,
+    "qs_pg:name":"Strha\u0159e",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":400718,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799053,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064936,
+        "gp:id":799053,
+        "qs_pg:id":400718,
+        "wd:id":"Q1251203"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297273,
+    "wof:geomhash":"8debeda4054c781fe696bdcaa1d7104c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125945725,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125945725,
+    "wof:lastmodified":1513945732,
+    "wof:name":"Strha\u0159e",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4363,
+    49.43561,
+    16.4363,
+    49.43561
+],
+  "geometry": {"coordinates":[16.4363,49.43561],"type":"Point"}
+}

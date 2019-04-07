@@ -1,0 +1,70 @@
+{
+  "id": 1360118347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4502,50.05214,13.4502,50.05214",
+    "geom:latitude":50.05214,
+    "geom:longitude":13.4502,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Podboranky",
+    "gn:country_code":"CZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068121,
+    "gn:latitude":50.05214,
+    "gn:longitude":13.4502,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Podbo\u0159\u00e1nky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podersanka",
+        "Podbo\u0159\u00e1nky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068121
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4a5c58f9112ec4a72f42246b4b14ac0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360118347,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1360118347,
+    "wof:lastmodified":1537619325,
+    "wof:name":"Podboranky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4502,
+    50.05214,
+    13.4502,
+    50.05214
+],
+  "geometry": {"coordinates":[13.4502,50.05214],"type":"Point"}
+}

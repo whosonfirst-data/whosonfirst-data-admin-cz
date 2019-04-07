@@ -1,0 +1,66 @@
+{
+  "id": 1226074303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37258,50.41468,15.37258,50.41468",
+    "geom:latitude":50.41468,
+    "geom:longitude":15.37258,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Popovice",
+    "gn:country_code":"CZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067803,
+    "gn:latitude":50.41468,
+    "gn:longitude":15.37258,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Popovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067803
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"04434de2748fa65cb675256e8aea9828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226074303,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1226074303,
+    "wof:lastmodified":1536684081,
+    "wof:name":"Popovice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37258,
+    50.41468,
+    15.37258,
+    50.41468
+],
+  "geometry": {"coordinates":[15.37258,50.41468],"type":"Point"}
+}

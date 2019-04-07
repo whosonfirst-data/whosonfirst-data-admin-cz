@@ -1,0 +1,70 @@
+{
+  "id": 1259418787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90947,49.19421,13.90947,49.19421",
+    "geom:latitude":49.19421,
+    "geom:longitude":13.90947,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Hostice",
+    "gn:country_code":"CZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075073,
+    "gn:latitude":49.19421,
+    "gn:longitude":13.90947,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Ho\u0161tice",
+    "gn:population":176,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075073,
+        "wk:page":"Ho%C5%A1tice_%28Strakonice_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2395929dad06cea7a07c001ba6fb6d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259418787,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259418787,
+    "wof:lastmodified":1537504057,
+    "wof:name":"Hostice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90947,
+    49.19421,
+    13.90947,
+    49.19421
+],
+  "geometry": {"coordinates":[13.90947,49.19421],"type":"Point"}
+}

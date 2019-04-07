@@ -1,0 +1,70 @@
+{
+  "id": 1209953377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55456,49.90559,14.55456,49.90559",
+    "geom:latitude":49.90559,
+    "geom:longitude":14.55456,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0209",
+    "gn:asciiname":"Dolni Brezky",
+    "gn:country_code":"CZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076913,
+    "gn:latitude":49.90559,
+    "gn:longitude":14.55456,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Doln\u00ed B\u0159ezky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bschesek",
+        "Doln\u00ed B\u0159ezky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076913
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fa19be2bace16685f22a413a4cf2a876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209953377,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1209953377,
+    "wof:lastmodified":1537619436,
+    "wof:name":"Dolni Brezky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55456,
+    49.90559,
+    14.55456,
+    49.90559
+],
+  "geometry": {"coordinates":[14.55456,49.90559],"type":"Point"}
+}

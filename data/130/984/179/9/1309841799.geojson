@@ -1,0 +1,66 @@
+{
+  "id": 1309841799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59302,49.7134,15.59302,49.7134",
+    "geom:latitude":49.7134,
+    "geom:longitude":15.59302,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Josefska Hut'",
+    "gn:country_code":"CZ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074054,
+    "gn:latitude":49.7134,
+    "gn:longitude":15.59302,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Josefsk\u00e1 Hu\u0165",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074054
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0a3f093f8822ae2efd9954cac4eee3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309841799,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1309841799,
+    "wof:lastmodified":1536878357,
+    "wof:name":"Josefska Hut'",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59302,
+    49.7134,
+    15.59302,
+    49.7134
+],
+  "geometry": {"coordinates":[15.59302,49.7134],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276911353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22503,50.75197,14.22503,50.75197",
+    "geom:latitude":50.75197,
+    "geom:longitude":14.22503,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Horni Chlum",
+    "gn:country_code":"CZ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075416,
+    "gn:latitude":50.75197,
+    "gn:longitude":14.22503,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Horn\u00ed Chlum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolmen",
+        "Chlum",
+        "Horn\u00ed Chlum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075416
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"29f1f3a930f3f33c388bfcd4a44e8a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276911353,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276911353,
+    "wof:lastmodified":1537619415,
+    "wof:name":"Horni Chlum",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22503,
+    50.75197,
+    14.22503,
+    50.75197
+],
+  "geometry": {"coordinates":[14.22503,50.75197],"type":"Point"}
+}

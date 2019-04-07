@@ -1,0 +1,85 @@
+{
+  "id": 1343389801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28417,49.48136,13.28417,49.48136",
+    "geom:latitude":49.48136,
+    "geom:longitude":13.28417,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Svihov",
+    "gn:country_code":"CZ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064492,
+    "gn:latitude":49.48136,
+    "gn:longitude":13.28417,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"\u0160vihov",
+    "gn:population":1582,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Schwihau"
+    ],
+    "name:deu_x_variant":[
+        "\u0160vihov u Klatov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0432\u0438\u0433\u043e\u0432"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0432\u0438\u0445\u043e\u0432"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ec0\u7dad\u970d\u592b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064492,
+        "wk:page":"%C5%A0vihov_%28Klatovy_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4df0e1fd2c03e34147a37b6f1f091efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343389801,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343389801,
+    "wof:lastmodified":1537619284,
+    "wof:name":"Svihov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":1582,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28417,
+    49.48136,
+    13.28417,
+    49.48136
+],
+  "geometry": {"coordinates":[13.28417,49.48136],"type":"Point"}
+}

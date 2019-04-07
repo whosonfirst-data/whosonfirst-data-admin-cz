@@ -1,0 +1,70 @@
+{
+  "id": 1243402847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23486,50.21763,17.23486,50.21763",
+    "geom:latitude":50.21763,
+    "geom:longitude":17.23486,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Mytinka",
+    "gn:country_code":"CZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070143,
+    "gn:latitude":50.21763,
+    "gn:longitude":17.23486,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"M\u00fdtinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ficov\u00e1",
+        "M\u00fdtinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070143
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"db55007f067379341b6c55ee69d303d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243402847,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1243402847,
+    "wof:lastmodified":1537619351,
+    "wof:name":"Mytinka",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23486,
+    50.21763,
+    17.23486,
+    50.21763
+],
+  "geometry": {"coordinates":[17.23486,50.21763],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226376483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.46065,49.4734,13.46065,49.4734",
+    "geom:latitude":49.4734,
+    "geom:longitude":13.46065,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0324",
+    "gn:asciiname":"Osobovy",
+    "gn:country_code":"CZ",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068816,
+    "gn:latitude":49.4734,
+    "gn:longitude":13.46065,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Osobovy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068816
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"eaf07319f8395ed041708b0f58ff7de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226376483,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1226376483,
+    "wof:lastmodified":1536745011,
+    "wof:name":"Osobovy",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46065,
+    49.4734,
+    13.46065,
+    49.4734
+],
+  "geometry": {"coordinates":[13.46065,49.4734],"type":"Point"}
+}

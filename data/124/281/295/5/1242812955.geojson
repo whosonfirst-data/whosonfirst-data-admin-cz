@@ -1,0 +1,66 @@
+{
+  "id": 1242812955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52039,49.26461,13.52039,49.26461",
+    "geom:latitude":49.26461,
+    "geom:longitude":13.52039,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Tedrazice",
+    "gn:country_code":"CZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064320,
+    "gn:latitude":49.26461,
+    "gn:longitude":13.52039,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Tedra\u017eice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064320
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ac92073e070af3397a8960f397d8f991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242812955,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1242812955,
+    "wof:lastmodified":1536725054,
+    "wof:name":"Tedrazice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52039,
+    49.26461,
+    13.52039,
+    49.26461
+],
+  "geometry": {"coordinates":[13.52039,49.26461],"type":"Point"}
+}

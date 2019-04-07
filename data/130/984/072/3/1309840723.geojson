@@ -1,0 +1,70 @@
+{
+  "id": 1309840723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29813,50.22575,14.29813,50.22575",
+    "geom:latitude":50.22575,
+    "geom:longitude":14.29813,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Minice",
+    "gn:country_code":"CZ",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070616,
+    "gn:latitude":50.22575,
+    "gn:longitude":14.29813,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Minice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minitz",
+        "Minice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070616
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b6b4bf290a95c8df00c9c474c0f53de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309840723,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1309840723,
+    "wof:lastmodified":1537619357,
+    "wof:name":"Minice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29813,
+    50.22575,
+    14.29813,
+    50.22575
+],
+  "geometry": {"coordinates":[14.29813,50.22575],"type":"Point"}
+}

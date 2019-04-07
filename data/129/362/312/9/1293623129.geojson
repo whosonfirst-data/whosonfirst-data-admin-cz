@@ -1,0 +1,73 @@
+{
+  "id": 1293623129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43207,50.00356,17.43207,50.00356",
+    "geom:latitude":50.00356,
+    "geom:longitude":17.43207,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Stare Mesto",
+    "gn:country_code":"CZ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065331,
+    "gn:latitude":50.00356,
+    "gn:longitude":17.43207,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Star\u00e9 M\u011bsto",
+    "gn:population":696,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alstadt"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065331,
+        "wk:page":"Star%C3%A9_M%C4%9Bsto_%28Brunt%C3%A1l_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2f5f4c193d1e5cc57bfc850ac9ab7d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293623129,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1293623129,
+    "wof:lastmodified":1537619294,
+    "wof:name":"Stare Mesto",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":696,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43207,
+    50.00356,
+    17.43207,
+    50.00356
+],
+  "geometry": {"coordinates":[17.43207,50.00356],"type":"Point"}
+}

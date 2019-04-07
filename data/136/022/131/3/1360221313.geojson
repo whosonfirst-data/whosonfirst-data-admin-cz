@@ -1,0 +1,66 @@
+{
+  "id": 1360221313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91417,49.48119,17.91417,49.48119",
+    "geom:latitude":49.48119,
+    "geom:longitude":17.91417,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Lhota u Choryne",
+    "gn:country_code":"CZ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072062,
+    "gn:latitude":49.48119,
+    "gn:longitude":17.91417,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Lhota u Choryn\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072062
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d230668a21dfba904bc737550d085ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360221313,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1360221313,
+    "wof:lastmodified":1536748883,
+    "wof:name":"Lhota u Choryne",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91417000000001,
+    49.48119000000001,
+    17.91417000000001,
+    49.48119000000001
+],
+  "geometry": {"coordinates":[17.91417000000001,49.48119000000001],"type":"Point"}
+}

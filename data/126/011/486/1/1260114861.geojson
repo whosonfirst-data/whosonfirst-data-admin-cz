@@ -1,0 +1,66 @@
+{
+  "id": 1260114861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.37013,49.249,13.37013,49.249",
+    "geom:latitude":49.249,
+    "geom:longitude":13.37013,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Stojanovice",
+    "gn:country_code":"CZ",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065110,
+    "gn:latitude":49.249,
+    "gn:longitude":13.37013,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Stojanovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065110
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3d4c29214167c3f2b58e64d20f4ef9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260114861,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1260114861,
+    "wof:lastmodified":1536943439,
+    "wof:name":"Stojanovice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.37013,
+    49.249,
+    13.37013,
+    49.249
+],
+  "geometry": {"coordinates":[13.37013,49.249],"type":"Point"}
+}

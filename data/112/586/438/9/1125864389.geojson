@@ -1,0 +1,146 @@
+{
+  "id": 1125864389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04617,50.68865,14.04617,50.68865",
+    "geom:latitude":50.68865,
+    "geom:longitude":14.04617,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":792,
+    "gn:population":792,
+    "iso:country":"CZ",
+    "lbl:latitude":50.68865,
+    "lbl:longitude":14.04617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u0434\u0435\u0440\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Chuderov"
+    ],
+    "name:dut_x_preferred":[
+        "Chuderov"
+    ],
+    "name:eng_x_preferred":[
+        "Chuderov"
+    ],
+    "name:fre_x_preferred":[
+        "Chuderov"
+    ],
+    "name:ger_x_preferred":[
+        "Chuderov"
+    ],
+    "name:hun_x_preferred":[
+        "Chuderov"
+    ],
+    "name:ita_x_preferred":[
+        "Chuderov"
+    ],
+    "name:may_x_preferred":[
+        "Chuderov"
+    ],
+    "name:nan_x_preferred":[
+        "Chuderov"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0648\u062f\u0631\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Chuderov"
+    ],
+    "name:por_x_preferred":[
+        "Chuderov"
+    ],
+    "name:rup_x_preferred":[
+        "Chuderov"
+    ],
+    "name:slo_x_preferred":[
+        "Chuderov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u0434\u0435\u0440\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Chuderov"
+    ],
+    "name:unk_x_variant":[
+        "Gross Kaudern"
+    ],
+    "name:vie_x_preferred":[
+        "Chuderov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077522,
+    "qs_pg:gn_pop":792,
+    "qs_pg:name":"Chuderov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1183868,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787815,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077522,
+        "gp:id":787815,
+        "qs_pg:id":1183868,
+        "wd:id":"Q735607"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293968,
+    "wof:geomhash":"27f34abbf9c489a8011c5247447476c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125864389,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125864389,
+    "wof:lastmodified":1513944888,
+    "wof:name":"Chuderov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":792,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04617,
+    50.68865,
+    14.04617,
+    50.68865
+],
+  "geometry": {"coordinates":[14.04617,50.68865],"type":"Point"}
+}

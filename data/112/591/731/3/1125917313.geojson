@@ -1,0 +1,144 @@
+{
+  "id": 1125917313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01477,50.32407,15.01477,50.32407",
+    "geom:latitude":50.32407,
+    "geom:longitude":15.01477,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":353,
+    "gn:population":353,
+    "iso:country":"CZ",
+    "lbl:latitude":50.32407,
+    "lbl:longitude":15.01477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:dut_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:eng_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:epo_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:fre_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:ger_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:hun_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:ita_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30d6\u30b1\u30cb\u30bb"
+    ],
+    "name:may_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:nan_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:pol_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:por_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:rup_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:slo_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043f\u043a\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Jabkenice"
+    ],
+    "name:unk_x_variant":[
+        "Jablkynice"
+    ],
+    "name:vie_x_preferred":[
+        "Jabkenice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3074612,
+    "qs_pg:gn_pop":353,
+    "qs_pg:name":"Jabkenice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1266248,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790439,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074612,
+        "gp:id":790439,
+        "qs_pg:id":1266248,
+        "wd:id":"Q201004"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296363,
+    "wof:geomhash":"fc2853fae32b2d62fe4d955e8fff5e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125917313,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125917313,
+    "wof:lastmodified":1513945084,
+    "wof:name":"Jabkenice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":353,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01477,
+    50.32407,
+    15.01477,
+    50.32407
+],
+  "geometry": {"coordinates":[15.01477,50.32407],"type":"Point"}
+}

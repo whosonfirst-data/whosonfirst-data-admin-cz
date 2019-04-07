@@ -1,0 +1,62 @@
+{
+  "id": 1209546951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42453,50.51332,14.42453,50.51332",
+    "geom:latitude":50.51332,
+    "geom:longitude":14.42453,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Strachaly",
+    "gn:country_code":"CZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065087,
+    "gn:latitude":50.51332,
+    "gn:longitude":14.42453,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Strachaly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065087
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9308f6a49d4726d8b119d73a92a6c44a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209546951
+        }
+    ],
+    "wof:id":1209546951,
+    "wof:lastmodified":1536283815,
+    "wof:name":"Strachaly",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42453,
+    50.51332,
+    14.42453,
+    50.51332
+],
+  "geometry": {"coordinates":[14.42453,50.51332],"type":"Point"}
+}

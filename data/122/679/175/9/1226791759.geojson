@@ -1,0 +1,70 @@
+{
+  "id": 1226791759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44143,49.64929,17.44143,49.64929",
+    "geom:latitude":49.64929,
+    "geom:longitude":17.44143,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Neprivaz",
+    "gn:country_code":"CZ",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069854,
+    "gn:latitude":49.64929,
+    "gn:longitude":17.44143,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Nep\u0159ivaz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Epperswagen",
+        "Nep\u0159ivaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069854
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6b62c9032aa52270d7518c9b301fd62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226791759,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1226791759,
+    "wof:lastmodified":1537619347,
+    "wof:name":"Neprivaz",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44143,
+    49.64929,
+    17.44143,
+    49.64929
+],
+  "geometry": {"coordinates":[17.44143,49.64929],"type":"Point"}
+}

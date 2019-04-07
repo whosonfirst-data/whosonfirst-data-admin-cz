@@ -1,0 +1,73 @@
+{
+  "id": 1193054651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47798,49.33183,16.47798,49.33183",
+    "geom:latitude":49.33183,
+    "geom:longitude":16.47798,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0623",
+    "gn:asciiname":"Drasov",
+    "gn:country_code":"CZ",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076470,
+    "gn:latitude":49.33183,
+    "gn:longitude":16.47798,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Dr\u00e1sov",
+    "gn:population":1138,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drasow"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076470,
+        "wk:page":"Dr%C3%A1sov_%28Brno-Country_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a9d1147b362cf97a939d2f1200a5c052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193054651,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1193054651,
+    "wof:lastmodified":1537619428,
+    "wof:name":"Drasov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1138,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47798,
+    49.33183,
+    16.47798,
+    49.33183
+],
+  "geometry": {"coordinates":[16.47798,49.33183],"type":"Point"}
+}

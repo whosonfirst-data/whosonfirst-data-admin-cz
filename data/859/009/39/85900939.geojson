@@ -1,0 +1,114 @@
+{
+  "id": 85900939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4349475.249402,
+    "geom:bbox":"14.069366,50.643364,14.069366,50.643364",
+    "geom:latitude":50.643364,
+    "geom:longitude":14.069366,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.643364,
+    "lbl:longitude":14.069366,
+    "mps:latitude":50.657142,
+    "mps:longitude":14.072594,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "AstA nad Labem-StAaekov",
+        "AstA nad Labem-StAekov",
+        "Usti nad Labem-Strekov"
+    ],
+    "name:cze_x_preferred":[
+        "\u00c3st\u00e3 Nad Labem-St\u00e5ekov"
+    ],
+    "name:cze_x_variant":[
+        "Schreckenstein",
+        "Strekov"
+    ],
+    "name:unk_x_variant":[
+        "\u00c3st\u00e3 Nad Labem-St\u00e5ekov"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3063548,
+    "qs:gn_nam_loc":"\u00dast\u00ed nad Labem, \u00dasteck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"89",
+    "qs:local_max":552,
+    "qs:local_sum":1115,
+    "qs:localhoods":8,
+    "qs:name":"\u00c3st\u00e3 Nad Labem-St\u00e5ekov",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs:name_adm2":"\u00dast\u00ed nad Labem",
+    "qs:name_lau":"\u00dast\u00ed nad Labem",
+    "qs:name_local":"\u00dast\u00ed nad Labem",
+    "qs:photo_max":1,
+    "qs:photo_sum":4,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070499,
+    "qs:woe_adm2":12582569,
+    "qs:woe_lau":12606615,
+    "qs:woe_local":800260,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":799021,
+        "qs:id":1324856,
+        "qs_pg:id":1324856
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"19dc1a08e520491b50e3686f584b1a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900939,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":85900939,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932407,
+    "wof:name":"\u00c3st\u00e3 Nad Labem-St\u00e5ekov",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.069366,
+    50.643364,
+    14.069366,
+    50.643364
+],
+  "geometry": {"coordinates":[14.069366,50.643364],"type":"Point"}
+}

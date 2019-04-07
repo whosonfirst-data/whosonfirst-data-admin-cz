@@ -1,0 +1,70 @@
+{
+  "id": 1309848313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00881,50.05736,17.00881,50.05736",
+    "geom:latitude":50.05736,
+    "geom:longitude":17.00881,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Zarova",
+    "gn:country_code":"CZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061848,
+    "gn:latitude":50.05736,
+    "gn:longitude":17.00881,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"\u017d\u00e1rov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nov\u00e1 Ves",
+        "Neudorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061848
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"02fcb82bbc1ccf5ec4c3dfcb04ada62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309848313,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1309848313,
+    "wof:lastmodified":1537619257,
+    "wof:name":"Zarova",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00881,
+    50.05736,
+    17.00881,
+    50.05736
+],
+  "geometry": {"coordinates":[17.00881,50.05736],"type":"Point"}
+}

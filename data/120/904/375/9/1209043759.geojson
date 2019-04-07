@@ -1,0 +1,62 @@
+{
+  "id": 1209043759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8,49.18333,16.8,49.18333",
+    "geom:latitude":49.18333,
+    "geom:longitude":16.8,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0626",
+    "gn:asciiname":"Kruh",
+    "gn:country_code":"CZ",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072613,
+    "gn:latitude":49.18333,
+    "gn:longitude":16.8,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Kruh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072613
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1502557115a9156f8a65b2c746251547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209043759
+        }
+    ],
+    "wof:id":1209043759,
+    "wof:lastmodified":1536299462,
+    "wof:name":"Kruh",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8,
+    49.18333,
+    16.8,
+    49.18333
+],
+  "geometry": {"coordinates":[16.8,49.18333],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209243425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46067,49.48201,14.46067,49.48201",
+    "geom:latitude":49.48201,
+    "geom:longitude":14.46067,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Vratisov",
+    "gn:country_code":"CZ",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062493,
+    "gn:latitude":49.48201,
+    "gn:longitude":14.46067,
+    "gn:modification_date":"2014-05-14",
+    "gn:name":"Vrati\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062493
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a3c87a9f62bbc14571a67a048a7546e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209243425
+        }
+    ],
+    "wof:id":1209243425,
+    "wof:lastmodified":1536293245,
+    "wof:name":"Vratisov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46067,
+    49.48201,
+    14.46067,
+    49.48201
+],
+  "geometry": {"coordinates":[14.46067,49.48201],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293231333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62322,49.62946,15.62322,49.62946",
+    "geom:latitude":49.62946,
+    "geom:longitude":15.62322,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Kyjov",
+    "gn:country_code":"CZ",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072404,
+    "gn:latitude":49.62946,
+    "gn:longitude":15.62322,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Kyjov",
+    "gn:population":124,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072404
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"459f8cf65072b1f7e235f899caa06779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293231333,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1293231333,
+    "wof:lastmodified":1536659539,
+    "wof:name":"Kyjov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62322,
+    49.62946,
+    15.62322,
+    49.62946
+],
+  "geometry": {"coordinates":[15.62322,49.62946],"type":"Point"}
+}

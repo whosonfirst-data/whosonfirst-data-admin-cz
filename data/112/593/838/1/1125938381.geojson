@@ -1,0 +1,144 @@
+{
+  "id": 1125938381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51103,49.85081,17.51103,49.85081",
+    "geom:latitude":49.85081,
+    "geom:longitude":17.51103,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":285,
+    "gn:population":285,
+    "iso:country":"CZ",
+    "lbl:latitude":49.85081,
+    "lbl:longitude":17.51103,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:dut_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:eng_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:epo_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:fre_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:ger_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:ita_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:may_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:nan_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0631\u06cc\u0634\u0633\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:por_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:rup_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:slo_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0438\u0448\u0442\u0458\u0430\u043d\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "name:unk_x_variant":[
+        "Chrisdorf"
+    ],
+    "name:vie_x_preferred":[
+        "K\u0159i\u0161\u0165anovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072710,
+    "qs_pg:gn_pop":285,
+    "qs_pg:name":"K\u0159i\u0161\u0165anovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398897,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792092,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072710,
+        "gp:id":792092,
+        "qs_pg:id":398897,
+        "wd:id":"Q632967"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297038,
+    "wof:geomhash":"0c695c08110e8cafb291762f36353224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125938381,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125938381,
+    "wof:lastmodified":1513945261,
+    "wof:name":"K\u0159i\u0161\u0165anovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":285,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51103,
+    49.85081,
+    17.51103,
+    49.85081
+],
+  "geometry": {"coordinates":[17.51103,49.85081],"type":"Point"}
+}

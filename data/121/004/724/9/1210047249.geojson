@@ -1,0 +1,72 @@
+{
+  "id": 1210047249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22928,49.62953,18.22928,49.62953",
+    "geom:latitude":49.62953,
+    "geom:longitude":18.22928,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Dolni Sklenov",
+    "gn:country_code":"CZ",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076689,
+    "gn:latitude":49.62953,
+    "gn:longitude":18.22928,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Doln\u00ed Sklenov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Unter-Sklenau"
+    ],
+    "name:und_x_variant":[
+        "Doln\u00ed Sklenov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076689
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"773d69a0ed22061140feb25a28576148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1210047249,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1210047249,
+    "wof:lastmodified":1537619431,
+    "wof:name":"Dolni Sklenov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22928,
+    49.62953,
+    18.22928,
+    49.62953
+],
+  "geometry": {"coordinates":[18.22928,49.62953],"type":"Point"}
+}

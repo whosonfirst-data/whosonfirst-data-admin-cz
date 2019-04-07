@@ -1,0 +1,70 @@
+{
+  "id": 1343692631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87569,50.14078,13.87569,50.14078",
+    "geom:latitude":50.14078,
+    "geom:longitude":13.87569,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Ruda",
+    "gn:country_code":"CZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066614,
+    "gn:latitude":50.14078,
+    "gn:longitude":13.87569,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Ruda",
+    "gn:population":661,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066614,
+        "wk:page":"Ruda_%28Rakovn%C3%ADk_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cad498e14d138a0190c1a6c53586ad9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343692631,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1343692631,
+    "wof:lastmodified":1537504027,
+    "wof:name":"Ruda",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":661,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87569,
+    50.14078,
+    13.87569,
+    50.14078
+],
+  "geometry": {"coordinates":[13.87569,50.14078],"type":"Point"}
+}

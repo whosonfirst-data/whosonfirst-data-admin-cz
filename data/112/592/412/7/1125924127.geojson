@@ -1,0 +1,126 @@
+{
+  "id": 1125924127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68305,49.79188,15.68305,49.79188",
+    "geom:latitude":49.79188,
+    "geom:longitude":15.68305,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":168,
+    "gn:population":168,
+    "iso:country":"CZ",
+    "lbl:latitude":49.79188,
+    "lbl:longitude":15.68305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "name:dut_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "name:eng_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "name:fre_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "name:hun_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "name:ita_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "name:may_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0648\u0634\u06cc\u0646\u0648\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "name:slo_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0448\u0438\u043d\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "name:vie_x_preferred":[
+        "Ru\u0161inov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066568,
+    "qs_pg:gn_pop":168,
+    "qs_pg:name":"Ru\u0161inov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1267968,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797613,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066568,
+        "gp:id":797613,
+        "qs_pg:id":1267968,
+        "wd:id":"Q2188132"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296583,
+    "wof:geomhash":"74288329cab007da4d8742ea657f2b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125924127,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125924127,
+    "wof:lastmodified":1513945657,
+    "wof:name":"Ru\u0161inov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":168,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68305,
+    49.79188,
+    15.68305,
+    49.79188
+],
+  "geometry": {"coordinates":[15.68305,49.79188],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243101371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55505,49.08096,15.55505,49.08096",
+    "geom:latitude":49.08096,
+    "geom:longitude":15.55505,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Vesce",
+    "gn:country_code":"CZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063074,
+    "gn:latitude":49.08096,
+    "gn:longitude":15.55505,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Vesce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063074
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0bc87eab52a4301d8e46a1f8571e25f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243101371,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243101371,
+    "wof:lastmodified":1536805771,
+    "wof:name":"Vesce",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55505,
+    49.08096,
+    15.55505,
+    49.08096
+],
+  "geometry": {"coordinates":[15.55505,49.08096],"type":"Point"}
+}

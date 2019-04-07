@@ -1,0 +1,138 @@
+{
+  "id": 1125946883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17759,50.20339,15.17759,50.20339",
+    "geom:latitude":50.20339,
+    "geom:longitude":15.17759,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":305,
+    "gn:population":305,
+    "iso:country":"CZ",
+    "lbl:latitude":50.20339,
+    "lbl:longitude":15.17759,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:dut_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:eng_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:fre_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:ger_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:hun_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:ita_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:may_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:nan_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0645\u06cc\u0633\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:por_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:rup_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:slo_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u043c\u0438\u0441\u043b\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "name:vie_x_preferred":[
+        "\u00damyslovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063612,
+    "qs_pg:gn_pop":305,
+    "qs_pg:name":"\u00damyslovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":401038,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800215,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063612,
+        "gp:id":800215,
+        "qs_pg:id":401038,
+        "wd:id":"Q330236"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297317,
+    "wof:geomhash":"b60c5826218caf47238c58fda9c1bd0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125946883,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125946883,
+    "wof:lastmodified":1513945993,
+    "wof:name":"\u00damyslovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":305,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17759,
+    50.20339,
+    15.17759,
+    50.20339
+],
+  "geometry": {"coordinates":[15.17759,50.20339],"type":"Point"}
+}

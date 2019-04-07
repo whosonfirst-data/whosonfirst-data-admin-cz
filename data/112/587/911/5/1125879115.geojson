@@ -1,0 +1,152 @@
+{
+  "id": 1125879115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67713,49.87678,14.67713,49.87678",
+    "geom:latitude":49.87678,
+    "geom:longitude":14.67713,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1250,
+    "gn:population":1250,
+    "iso:country":"CZ",
+    "lbl:latitude":49.87678,
+    "lbl:longitude":14.67713,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u76ae\u820d\u5229"
+    ],
+    "name:cze_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:dut_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:eng_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:fre_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:ger_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:hun_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:ita_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:may_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:nan_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u06cc\u0634\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:por_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:rup_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0448\u0435\u043b\u0438"
+    ],
+    "name:slo_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0448\u0435\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0438\u0448\u0435\u043b\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Pischely"
+    ],
+    "name:vie_x_preferred":[
+        "Py\u0161ely"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067296,
+    "qs_pg:gn_pop":1250,
+    "qs_pg:name":"Py\u0161ely",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":145301,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796959,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067296,
+        "gp:id":796959,
+        "qs_pg:id":145301,
+        "wd:id":"Q668247"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294699,
+    "wof:geomhash":"bd0e6dc9dc566371207a1eddb8bebb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125879115,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125879115,
+    "wof:lastmodified":1513945600,
+    "wof:name":"Py\u0161ely",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":1250,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67713,
+    49.87678,
+    14.67713,
+    49.87678
+],
+  "geometry": {"coordinates":[14.67713,49.87678],"type":"Point"}
+}

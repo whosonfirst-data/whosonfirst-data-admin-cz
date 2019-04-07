@@ -1,0 +1,62 @@
+{
+  "id": 1209142585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74565,49.50585,15.74565,49.50585",
+    "geom:latitude":49.50585,
+    "geom:longitude":15.74565,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Hrbov",
+    "gn:country_code":"CZ",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074868,
+    "gn:latitude":49.50585,
+    "gn:longitude":15.74565,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Hrbov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074868
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cb7d6267f910fcfc0c1d0e1051c69102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209142585
+        }
+    ],
+    "wof:id":1209142585,
+    "wof:lastmodified":1536296456,
+    "wof:name":"Hrbov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74565,
+    49.50585,
+    15.74565,
+    49.50585
+],
+  "geometry": {"coordinates":[15.74565,49.50585],"type":"Point"}
+}

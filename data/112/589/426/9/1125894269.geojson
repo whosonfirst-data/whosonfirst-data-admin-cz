@@ -1,0 +1,132 @@
+{
+  "id": 1125894269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9496,48.92171,15.9496,48.92171",
+    "geom:latitude":48.92171,
+    "geom:longitude":15.9496,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":516,
+    "gn:population":516,
+    "iso:country":"CZ",
+    "lbl:latitude":48.92171,
+    "lbl:longitude":15.9496,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041e\u043b\u0431\u0440\u0430\u043c\u043a\u043e\u0441\u0442\u0435\u043b"
+    ],
+    "name:cze_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:dut_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:eng_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:fre_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:hun_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:ita_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:may_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0644\u0628\u0631\u0627\u0645\u06a9\u0648\u0633\u062a\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:por_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:slo_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043b\u0431\u0440\u0430\u043c\u043a\u043e\u0441\u0442\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Olbramkostel"
+    ],
+    "name:vie_x_preferred":[
+        "Olbramkostel"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069084,
+    "qs_pg:gn_pop":516,
+    "qs_pg:name":"Olbramkostel",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":383496,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795364,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069084,
+        "gp:id":795364,
+        "qs_pg:id":383496,
+        "wd:id":"Q2328819"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295474,
+    "wof:geomhash":"4ff378c59ce07d094bfe6225b5b2c6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125894269,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125894269,
+    "wof:lastmodified":1513945463,
+    "wof:name":"Olbramkostel",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":516,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9496,
+    48.92171,
+    15.9496,
+    48.92171
+],
+  "geometry": {"coordinates":[15.9496,48.92171],"type":"Point"}
+}

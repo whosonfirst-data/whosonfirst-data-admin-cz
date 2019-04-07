@@ -1,0 +1,135 @@
+{
+  "id": 1125920855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0796,49.1213,18.0796,49.1213",
+    "geom:latitude":49.1213,
+    "geom:longitude":18.0796,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":749,
+    "gn:population":749,
+    "iso:country":"CZ",
+    "lbl:latitude":49.1213,
+    "lbl:longitude":18.0796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:dut_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:eng_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:fre_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:ger_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:hun_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:ita_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:may_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u062f\u0627\u0634\u0648\u0648\u0627 \u0644\u0647\u0648\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:por_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:rup_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:slo_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0434\u0430\u0448\u043e\u0432\u0430 \u041b\u0445\u043e\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "name:vie_x_preferred":[
+        "Neda\u0161ova Lhota"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069959,
+    "qs_pg:gn_pop":749,
+    "qs_pg:name":"Neda\u0161ova Lhota",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1267248,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794544,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069959,
+        "gp:id":794544,
+        "qs_pg:id":1267248,
+        "wd:id":"Q1720405"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296475,
+    "wof:geomhash":"0e9405452ca4665a943ae5f2277620ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125920855,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125920855,
+    "wof:lastmodified":1513945415,
+    "wof:name":"Neda\u0161ova Lhota",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":749,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0796,
+    49.1213,
+    18.0796,
+    49.1213
+],
+  "geometry": {"coordinates":[18.0796,49.1213],"type":"Point"}
+}

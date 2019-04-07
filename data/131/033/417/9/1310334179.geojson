@@ -1,0 +1,70 @@
+{
+  "id": 1310334179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02572,49.09298,18.02572,49.09298",
+    "geom:latitude":49.09298,
+    "geom:longitude":18.02572,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Brumov",
+    "gn:country_code":"CZ",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078550,
+    "gn:latitude":49.09298,
+    "gn:longitude":18.02572,
+    "gn:modification_date":"2017-04-30",
+    "gn:name":"Brumov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brumow",
+        "Brumov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078550
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6f5073d866e728b848ed4d02ba869f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310334179,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1310334179,
+    "wof:lastmodified":1537619452,
+    "wof:name":"Brumov",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02572,
+    49.09298,
+    18.02572,
+    49.09298
+],
+  "geometry": {"coordinates":[18.02572,49.09298],"type":"Point"}
+}

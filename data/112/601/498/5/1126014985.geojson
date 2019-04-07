@@ -1,0 +1,76 @@
+{
+  "id": 1126014985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29299,49.64879,15.29299,49.64879",
+    "geom:latitude":49.64879,
+    "geom:longitude":15.29299,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":195,
+    "gn:population":195,
+    "iso:country":"CZ",
+    "lbl:latitude":49.64879,
+    "lbl:longitude":15.29299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3073077,
+    "qs_pg:gn_pop":195,
+    "qs_pg:name":"Kouty",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":580827,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073077,
+        "qs_pg:id":580827
+    },
+    "wof:country":"CZ",
+    "wof:created":1497300494,
+    "wof:geomhash":"a53d1bb24059cb505bb5357fe2f909ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126014985,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1126014985,
+    "wof:lastmodified":1509406875,
+    "wof:name":"Kouty",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":195,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29299,
+    49.64879,
+    15.29299,
+    49.64879
+],
+  "geometry": {"coordinates":[15.29299,49.64879],"type":"Point"}
+}

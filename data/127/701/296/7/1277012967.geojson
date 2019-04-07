@@ -1,0 +1,66 @@
+{
+  "id": 1277012967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05154,49.70228,15.05154,49.70228",
+    "geom:latitude":49.70228,
+    "geom:longitude":15.05154,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Dubejovice",
+    "gn:country_code":"CZ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076353,
+    "gn:latitude":49.70228,
+    "gn:longitude":15.05154,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Dub\u011bjovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076353
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4bb2634cf4caf0b7fcd0e1172cefc2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277012967,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1277012967,
+    "wof:lastmodified":1536861428,
+    "wof:name":"Dubejovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05154,
+    49.70228,
+    15.05154,
+    49.70228
+],
+  "geometry": {"coordinates":[15.05154,49.70228],"type":"Point"}
+}

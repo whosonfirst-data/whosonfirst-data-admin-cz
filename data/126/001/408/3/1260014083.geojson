@@ -1,0 +1,70 @@
+{
+  "id": 1260014083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42741,48.98511,15.42741,48.98511",
+    "geom:latitude":48.98511,
+    "geom:longitude":15.42741,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Vaclavov",
+    "gn:country_code":"CZ",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063477,
+    "gn:latitude":48.98511,
+    "gn:longitude":15.42741,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"V\u00e1clavov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wenzelsdorf",
+        "V\u00e1clavov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063477
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"97156b605e492791cd4ada6f5245d4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260014083,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260014083,
+    "wof:lastmodified":1537619275,
+    "wof:name":"Vaclavov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42741,
+    48.98511,
+    15.42741,
+    48.98511
+],
+  "geometry": {"coordinates":[15.42741,48.98511],"type":"Point"}
+}

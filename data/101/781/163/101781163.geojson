@@ -1,0 +1,138 @@
+{
+  "id": 101781163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":618097.608074,
+    "geom:bbox":"17.4753983294,48.9111894067,17.5012037079,48.9184533509",
+    "geom:latitude":48.915176,
+    "geom:longitude":17.487975,
+    "gn:population":1045,
+    "iso:country":"CZ",
+    "lbl:latitude":48.916065,
+    "lbl:longitude":17.48602,
+    "mps:latitude":48.916065,
+    "mps:longitude":17.48602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Louka"
+    ],
+    "name:cze_x_preferred":[
+        "Louka"
+    ],
+    "name:deu_x_preferred":[
+        "Louka"
+    ],
+    "name:dut_x_preferred":[
+        "Louka"
+    ],
+    "name:eng_x_preferred":[
+        "Louka"
+    ],
+    "name:fre_x_preferred":[
+        "Louka"
+    ],
+    "name:hun_x_preferred":[
+        "Louka"
+    ],
+    "name:ita_x_preferred":[
+        "Louka"
+    ],
+    "name:may_x_preferred":[
+        "Louka"
+    ],
+    "name:nld_x_preferred":[
+        "Louka"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648\u0648\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Louka"
+    ],
+    "name:por_x_preferred":[
+        "Louka"
+    ],
+    "name:rup_x_preferred":[
+        "Louka"
+    ],
+    "name:slk_x_preferred":[
+        "Louka"
+    ],
+    "name:slo_x_preferred":[
+        "Louka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0443\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Louka"
+    ],
+    "name:vie_x_preferred":[
+        "Louka"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Louka",
+    "qs:la_lc":"*CZ0625586331",
+    "qs:level":"locality",
+    "qs:loc":"Louka",
+    "qs:loc_alt":"Louka",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071526,
+        "gp:id":793161,
+        "qs:id":1043031,
+        "qs_pg:id":1266909,
+        "wd:id":"Q2405777"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"12390cb0d8ef55a47f85ae8a999ba822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101781163,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101781163,
+    "wof:lastmodified":1553815497,
+    "wof:name":"Louka",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1045,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47539832944517,
+    48.91118940668116,
+    17.50120370794821,
+    48.91845335085128
+],
+  "geometry": {"coordinates":[[[17.49074585471362,48.91710263907379],[17.4906100590905,48.91620849226462],[17.4960428999081,48.91584295802738],[17.4959070137366,48.91494881827634],[17.49862335834382,48.91476595595623],[17.498487430002,48.91387181946089],[17.50120370794821,48.91368889494521],[17.50093177313431,48.91190062791952],[17.49821559191162,48.91208354482353],[17.49807968216186,48.91118940668116],[17.49672160887036,48.91128083848162],[17.49685749444035,48.91217497852614],[17.49549939239637,48.91226639572932],[17.4956352599811,48.91316053712706],[17.49156085387921,48.9134346954425],[17.49169665511079,48.91432884199594],[17.48762213533251,48.91460285751054],[17.48748640665212,48.91370870525571],[17.48205374641452,48.91407382066564],[17.48191812065767,48.91317966026554],[17.48055996837121,48.91327089596768],[17.48069556994335,48.91416505826606],[17.4766210131541,48.91443867206129],[17.47675654835086,48.91533283950503],[17.47539832944517,48.91542401299836],[17.47553384663411,48.91631818179189],[17.47689208972758,48.91622700640164],[17.47716319102489,48.9180153385521],[17.47852147793577,48.91792414286431],[17.4783859000068,48.9170299789605],[17.48381890525832,48.91666503878002],[17.48409026081572,48.91845335085128],[17.48952338652384,48.91808813144223],[17.48938760889627,48.9171939832807],[17.49074585471362,48.91710263907379]]],"type":"Polygon"}
+}

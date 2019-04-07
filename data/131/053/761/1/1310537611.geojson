@@ -1,0 +1,70 @@
+{
+  "id": 1310537611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89154,49.07631,17.89154,49.07631",
+    "geom:latitude":49.07631,
+    "geom:longitude":17.89154,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Hradek na Vlarake Draze",
+    "gn:country_code":"CZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074943,
+    "gn:latitude":49.07631,
+    "gn:longitude":17.89154,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Hr\u00e1dek na Vl\u00e1rak\u00e9 Dr\u00e1ze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hradek",
+        "Hr\u00e1dek na Vl\u00e1rak\u00e9 Dr\u00e1ze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074943
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d2978dd8858fc67df64bb4c7b7263e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310537611,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1310537611,
+    "wof:lastmodified":1537619407,
+    "wof:name":"Hradek na Vlarake Draze",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89154,
+    49.07631,
+    17.89154,
+    49.07631
+],
+  "geometry": {"coordinates":[17.89154,49.07631],"type":"Point"}
+}

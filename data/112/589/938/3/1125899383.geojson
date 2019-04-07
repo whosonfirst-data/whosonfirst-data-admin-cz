@@ -1,0 +1,126 @@
+{
+  "id": 1125899383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36038,48.97619,14.36038,48.97619",
+    "geom:latitude":48.97619,
+    "geom:longitude":14.36038,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1141,
+    "gn:population":1141,
+    "iso:country":"CZ",
+    "lbl:latitude":48.97619,
+    "lbl:longitude":14.36038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:dut_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:may_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:slo_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "name:vie_x_preferred":[
+        "Dubn\u00e9"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076328,
+    "qs_pg:gn_pop":1141,
+    "qs_pg:name":"Dubn\u00e9",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":367570,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788917,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076328,
+        "gp:id":788917,
+        "qs_pg:id":367570,
+        "wd:id":"Q2500110"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295739,
+    "wof:geomhash":"cb39eb6e9d36110e5332dbbad15d2377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125899383,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125899383,
+    "wof:lastmodified":1513944950,
+    "wof:name":"Dubn\u00e9",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":1141,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36038,
+    48.97619,
+    14.36038,
+    48.97619
+],
+  "geometry": {"coordinates":[14.36038,48.97619],"type":"Point"}
+}

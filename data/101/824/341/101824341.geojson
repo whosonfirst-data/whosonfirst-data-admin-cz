@@ -1,0 +1,135 @@
+{
+  "id": 101824341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":777303.707879,
+    "geom:bbox":"13.8001337051,50.5841551893,13.8158665371,50.596057506",
+    "geom:latitude":50.589285,
+    "geom:longitude":13.807575,
+    "gn:population":1240,
+    "iso:country":"CZ",
+    "lbl:latitude":50.589392,
+    "lbl:longitude":13.8068,
+    "mps:latitude":50.589392,
+    "mps:longitude":13.8068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Hostomice"
+    ],
+    "name:dut_x_preferred":[
+        "Hostomice"
+    ],
+    "name:eng_x_preferred":[
+        "Hostomice"
+    ],
+    "name:fre_x_preferred":[
+        "Hostomice"
+    ],
+    "name:ger_x_preferred":[
+        "Hostomice nad B\u00edlinou"
+    ],
+    "name:hun_x_preferred":[
+        "Hostomice"
+    ],
+    "name:ita_x_preferred":[
+        "Hostomice"
+    ],
+    "name:may_x_preferred":[
+        "Hostomice"
+    ],
+    "name:nan_x_preferred":[
+        "Hostomice"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0648\u0633\u062a\u0648\u0645\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Hostomice"
+    ],
+    "name:por_x_preferred":[
+        "Hostomice"
+    ],
+    "name:rup_x_preferred":[
+        "Hostomice"
+    ],
+    "name:slo_x_preferred":[
+        "Hostomice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0441\u0442\u043e\u043c\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hostomice"
+    ],
+    "name:unk_x_variant":[
+        "Hostomitz"
+    ],
+    "name:vie_x_preferred":[
+        "Hostomice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*\u00dasteck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Hostomice",
+    "qs:la_lc":"*CZ0426567531",
+    "qs:level":"locality",
+    "qs:loc":"Hostomice",
+    "qs:loc_alt":"Hostomice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075043,
+        "gp:id":790064,
+        "qs:id":398378,
+        "qs_pg:id":398378,
+        "wd:id":"Q617862",
+        "wk:page":"Hostomice (Teplice District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e92d51efc8a7d4ab2aa1e3bfae0a3b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824341,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":101824341,
+    "wof:lastmodified":1553815526,
+    "wof:name":"Hostomice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":1240,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80013370512171,
+    50.58415518928291,
+    13.81586653709809,
+    50.59605750604942
+],
+  "geometry": {"coordinates":[[[13.81586653709809,50.58845604007524],[13.81572065482436,50.58666085508986],[13.81431027598364,50.58670766253539],[13.8141644612507,50.58491247439292],[13.80993347026117,50.58505278684754],[13.80986064859138,50.58415518928291],[13.80421939854085,50.58434202644662],[13.80429211287918,50.58523962811267],[13.80147141875045,50.58533294502672],[13.80154408287706,50.58623054846612],[13.80013370512171,50.58627718201717],[13.80020634586754,50.58717478620531],[13.80302715248035,50.58708149976843],[13.80375428683737,50.59605750604942],[13.80939694289532,50.59587068471467],[13.80917844411181,50.59317789802219],[13.81058902114529,50.59313115254076],[13.81022479157065,50.58864317435217],[13.81586653709809,50.58845604007524]]],"type":"Polygon"}
+}

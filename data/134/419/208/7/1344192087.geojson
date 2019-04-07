@@ -1,0 +1,70 @@
+{
+  "id": 1344192087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53339,48.86207,17.53339,48.86207",
+    "geom:latitude":48.86207,
+    "geom:longitude":17.53339,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0625",
+    "gn:asciiname":"Javornik",
+    "gn:country_code":"CZ",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074404,
+    "gn:latitude":48.86207,
+    "gn:longitude":17.53339,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Javorn\u00edk",
+    "gn:population":702,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074404,
+        "wk:page":"Javorn%C3%ADk_%28Hodon%C3%ADn_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"da3453f8efb8fb2880abc1dd53046681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344192087,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1344192087,
+    "wof:lastmodified":1537504055,
+    "wof:name":"Javornik",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":702,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53339,
+    48.86207,
+    17.53339,
+    48.86207
+],
+  "geometry": {"coordinates":[17.53339,48.86207],"type":"Point"}
+}

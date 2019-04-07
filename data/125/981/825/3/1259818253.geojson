@@ -1,0 +1,66 @@
+{
+  "id": 1259818253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88333,49.8,15.88333,49.8",
+    "geom:latitude":49.8,
+    "geom:longitude":15.88333,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Slechtin",
+    "gn:country_code":"CZ",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065809,
+    "gn:latitude":49.8,
+    "gn:longitude":15.88333,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"\u0160lecht\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065809
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0cbcbb81251d4b324ebcad7170005c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259818253,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1259818253,
+    "wof:lastmodified":1536872197,
+    "wof:name":"Slechtin",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88333,
+    49.8,
+    15.88333,
+    49.8
+],
+  "geometry": {"coordinates":[15.88333,49.8],"type":"Point"}
+}

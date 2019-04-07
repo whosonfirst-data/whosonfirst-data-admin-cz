@@ -1,0 +1,66 @@
+{
+  "id": 1226579167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29694,49.83986,13.29694,49.83986",
+    "geom:latitude":49.83986,
+    "geom:longitude":13.29694,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Styskaly",
+    "gn:country_code":"CZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064768,
+    "gn:latitude":49.83986,
+    "gn:longitude":13.29694,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"St\u00fdskaly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064768
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4f34eab966254913ad1cd89140f8622e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226579167,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1226579167,
+    "wof:lastmodified":1536951793,
+    "wof:name":"Styskaly",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29694,
+    49.83986,
+    13.29694,
+    49.83986
+],
+  "geometry": {"coordinates":[13.29694,49.83986],"type":"Point"}
+}

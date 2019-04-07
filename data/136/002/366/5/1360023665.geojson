@@ -1,0 +1,70 @@
+{
+  "id": 1360023665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84994,49.74218,16.84994,49.74218",
+    "geom:latitude":49.74218,
+    "geom:longitude":16.84994,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Vacetin",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063489,
+    "gn:latitude":49.74218,
+    "gn:longitude":16.84994,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Vacet\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Divazetin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063489
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"449580b89a0f16c46aaf1e73b257ae79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360023665,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1360023665,
+    "wof:lastmodified":1537619275,
+    "wof:name":"Vacetin",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84994,
+    49.74218,
+    16.84994,
+    49.74218
+],
+  "geometry": {"coordinates":[16.84994,49.74218],"type":"Point"}
+}

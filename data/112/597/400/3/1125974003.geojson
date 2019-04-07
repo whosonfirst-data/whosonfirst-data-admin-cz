@@ -1,0 +1,140 @@
+{
+  "id": 1125974003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75418,49.17536,14.75418,49.17536",
+    "geom:latitude":49.17536,
+    "geom:longitude":14.75418,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":168,
+    "gn:population":168,
+    "iso:country":"CZ",
+    "lbl:latitude":49.17536,
+    "lbl:longitude":14.75418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Drahov"
+    ],
+    "name:dut_x_preferred":[
+        "Drahov"
+    ],
+    "name:eng_x_preferred":[
+        "Drahov"
+    ],
+    "name:fre_x_preferred":[
+        "Drahov"
+    ],
+    "name:ger_x_preferred":[
+        "Drahov"
+    ],
+    "name:hun_x_preferred":[
+        "Drahov"
+    ],
+    "name:ita_x_preferred":[
+        "Drahov"
+    ],
+    "name:may_x_preferred":[
+        "Drahov"
+    ],
+    "name:nan_x_preferred":[
+        "Drahov"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0631\u0627\u0647\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Drahov"
+    ],
+    "name:por_x_preferred":[
+        "Drahov"
+    ],
+    "name:rup_x_preferred":[
+        "Drahov"
+    ],
+    "name:slo_x_preferred":[
+        "Drahov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0430\u0445\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Drahov"
+    ],
+    "name:vie_x_preferred":[
+        "Drahov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076475,
+    "qs_pg:gn_pop":168,
+    "qs_pg:name":"Drahov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":234464,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788782,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076475,
+        "gp:id":788782,
+        "qs_pg:id":234464,
+        "wd:id":"Q596495"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298277,
+    "wof:geomhash":"54c13224526b401f3040b8cca9f2e261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125974003,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125974003,
+    "wof:lastmodified":1553816670,
+    "wof:name":"Drahov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":168,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75418,
+    49.17536,
+    14.75418,
+    49.17536
+],
+  "geometry": {"coordinates":[14.75418,49.17536],"type":"Point"}
+}

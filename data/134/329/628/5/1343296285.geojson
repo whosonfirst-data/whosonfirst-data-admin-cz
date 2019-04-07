@@ -1,0 +1,70 @@
+{
+  "id": 1343296285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46833,48.76525,14.46833,48.76525",
+    "geom:latitude":48.76525,
+    "geom:longitude":14.46833,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Raven",
+    "gn:country_code":"CZ",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066983,
+    "gn:latitude":48.76525,
+    "gn:longitude":14.46833,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Rave\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rabus",
+        "Rave\u0148"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066983
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2a014ca51bc1eec44c99f077369c8d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343296285,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343296285,
+    "wof:lastmodified":1537619314,
+    "wof:name":"Raven",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46833,
+    48.76525,
+    14.46833,
+    48.76525
+],
+  "geometry": {"coordinates":[14.46833,48.76525],"type":"Point"}
+}

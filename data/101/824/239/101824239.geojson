@@ -1,0 +1,139 @@
+{
+  "id": 101824239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":478356.538938,
+    "geom:bbox":"15.6899463186,50.4825892467,15.6993552148,50.4936192583",
+    "geom:latitude":50.487205,
+    "geom:longitude":15.695146,
+    "gn:population":1360,
+    "iso:country":"CZ",
+    "lbl:latitude":50.48693,
+    "lbl:longitude":15.696001,
+    "mps:latitude":50.48693,
+    "mps:longitude":15.696001,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Mostek"
+    ],
+    "name:cze_x_variant":[
+        "Mastig"
+    ],
+    "name:dut_x_preferred":[
+        "Mostek"
+    ],
+    "name:eng_x_preferred":[
+        "Mostek"
+    ],
+    "name:fre_x_preferred":[
+        "Mostek"
+    ],
+    "name:ger_x_preferred":[
+        "Mostek"
+    ],
+    "name:hun_x_preferred":[
+        "Mostek"
+    ],
+    "name:ita_x_preferred":[
+        "Mostek"
+    ],
+    "name:may_x_preferred":[
+        "Mostek"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u0633\u062a\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Mostek"
+    ],
+    "name:por_x_preferred":[
+        "Mostek"
+    ],
+    "name:rup_x_preferred":[
+        "Mostek"
+    ],
+    "name:slo_x_preferred":[
+        "Mostek"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Mostek"
+    ],
+    "name:unk_x_variant":[
+        "Mastig"
+    ],
+    "name:vie_x_preferred":[
+        "Mostek"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Kr\u00e1lov\u00e9hradeck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Mostek",
+    "qs:la_lc":"*CZ0525579556",
+    "qs:level":"locality",
+    "qs:loc":"Mostek",
+    "qs:loc_alt":"Mostek",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0701802a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3070282,
+        "gp:id":794265,
+        "qs:id":1043019,
+        "qs_pg:id":1043019,
+        "wd:id":"Q1819226",
+        "wk:page":"Mostek (Trutnov District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6ac850143aff29439a8f1551432f831d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824239,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":101824239,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1553815525,
+    "wof:name":"Mostek",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":1360,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68994631858664,
+    50.48258924668283,
+    15.69935521482103,
+    50.49361925827776
+],
+  "geometry": {"coordinates":[[[15.69935521482103,50.49058239211695],[15.69859533595701,50.48431117044765],[15.69718996662749,50.48438103059874],[15.6969729576208,50.48258924668283],[15.68994631858664,50.48293827430354],[15.69016306268645,50.48473007347138],[15.69156845111058,50.48466029928159],[15.69200210687734,50.48824388719851],[15.69340759746331,50.48817408971604],[15.69384144138428,50.49175766577343],[15.69243584479989,50.49182746935696],[15.69265274457661,50.49361925827776],[15.69405839416731,50.49354945164282],[15.69394991520693,50.49265355888781],[15.69535553447304,50.4925837365829],[15.69524703414822,50.49168784499409],[15.69805820821153,50.49154815185045],[15.69794966002348,50.49065226295437],[15.69935521482103,50.49058239211695]]],"type":"Polygon"}
+}

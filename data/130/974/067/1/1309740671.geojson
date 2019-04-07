@@ -1,0 +1,70 @@
+{
+  "id": 1309740671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1505,48.69493,14.1505,48.69493",
+    "geom:latitude":48.69493,
+    "geom:longitude":14.1505,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Milna",
+    "gn:country_code":"CZ",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070650,
+    "gn:latitude":48.69493,
+    "gn:longitude":14.1505,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Miln\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00fchlnethal",
+        "Miln\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070650
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ba7f6814ef5a0c4ed64612f445438e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309740671,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1309740671,
+    "wof:lastmodified":1537619357,
+    "wof:name":"Milna",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1505,
+    48.69493,
+    14.1505,
+    48.69493
+],
+  "geometry": {"coordinates":[14.1505,48.69493],"type":"Point"}
+}

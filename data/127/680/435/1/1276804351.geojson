@@ -1,0 +1,66 @@
+{
+  "id": 1276804351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85743,49.89699,14.85743,49.89699",
+    "geom:latitude":49.89699,
+    "geom:longitude":14.85743,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0209",
+    "gn:asciiname":"Rovna",
+    "gn:country_code":"CZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066692,
+    "gn:latitude":49.89699,
+    "gn:longitude":14.85743,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Rovn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066692
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"08015df579526ee4d70e1ec01e4035f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276804351,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276804351,
+    "wof:lastmodified":1536644033,
+    "wof:name":"Rovna",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85743,
+    49.89699,
+    14.85743,
+    49.89699
+],
+  "geometry": {"coordinates":[14.85743,49.89699],"type":"Point"}
+}

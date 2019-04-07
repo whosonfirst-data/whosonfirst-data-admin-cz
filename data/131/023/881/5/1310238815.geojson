@@ -1,0 +1,66 @@
+{
+  "id": 1310238815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0237,49.39706,15.0237,49.39706",
+    "geom:latitude":49.39706,
+    "geom:longitude":15.0237,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Torziny",
+    "gn:country_code":"CZ",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064156,
+    "gn:latitude":49.39706,
+    "gn:longitude":15.0237,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Torziny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064156
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"29d3316428ee2ff6011b93db0d9712cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310238815,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1310238815,
+    "wof:lastmodified":1536804059,
+    "wof:name":"Torziny",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0237,
+    49.39706,
+    15.0237,
+    49.39706
+],
+  "geometry": {"coordinates":[15.0237,49.39706],"type":"Point"}
+}

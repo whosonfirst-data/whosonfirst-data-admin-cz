@@ -1,0 +1,66 @@
+{
+  "id": 1225881093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56628,49.05966,14.56628,49.05966",
+    "geom:latitude":49.05966,
+    "geom:longitude":14.56628,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Kolny",
+    "gn:country_code":"CZ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073363,
+    "gn:latitude":49.05966,
+    "gn:longitude":14.56628,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Koln\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073363
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7e7c0648aacc31f8124f2c6590be36a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225881093,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1225881093,
+    "wof:lastmodified":1536962463,
+    "wof:name":"Kolny",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56628,
+    49.05966,
+    14.56628,
+    49.05966
+],
+  "geometry": {"coordinates":[14.56628,49.05966],"type":"Point"}
+}

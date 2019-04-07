@@ -1,0 +1,62 @@
+{
+  "id": 1209140557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82373,49.62056,14.82373,49.62056",
+    "geom:latitude":49.62056,
+    "geom:longitude":14.82373,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Laby",
+    "gn:country_code":"CZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072361,
+    "gn:latitude":49.62056,
+    "gn:longitude":14.82373,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Laby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072361
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"73851c15fcf829dc0be1e21fb50ce986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209140557
+        }
+    ],
+    "wof:id":1209140557,
+    "wof:lastmodified":1536296518,
+    "wof:name":"Laby",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82373,
+    49.62056,
+    14.82373,
+    49.62056
+],
+  "geometry": {"coordinates":[14.82373,49.62056],"type":"Point"}
+}

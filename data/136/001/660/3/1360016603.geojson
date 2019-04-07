@@ -1,0 +1,66 @@
+{
+  "id": 1360016603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93215,49.07895,13.93215,49.07895",
+    "geom:latitude":49.07895,
+    "geom:longitude":13.93215,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Doubrava",
+    "gn:country_code":"CZ",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076559,
+    "gn:latitude":49.07895,
+    "gn:longitude":13.93215,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Doubrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076559
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a0aee14042af478c742801ee811d6bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360016603,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1360016603,
+    "wof:lastmodified":1537042741,
+    "wof:name":"Doubrava",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93215,
+    49.07895,
+    13.93215,
+    49.07895
+],
+  "geometry": {"coordinates":[13.93215,49.07895],"type":"Point"}
+}

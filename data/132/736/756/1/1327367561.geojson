@@ -1,0 +1,66 @@
+{
+  "id": 1327367561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57865,49.37505,14.57865,49.37505",
+    "geom:latitude":49.37505,
+    "geom:longitude":14.57865,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Nove Lany",
+    "gn:country_code":"CZ",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069477,
+    "gn:latitude":49.37505,
+    "gn:longitude":14.57865,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Nov\u00e9 L\u00e1ny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069477
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8ef77fe264694f2a5f64e81d537b2c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327367561,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327367561,
+    "wof:lastmodified":1536775151,
+    "wof:name":"Nove Lany",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57865,
+    49.37505,
+    14.57865,
+    49.37505
+],
+  "geometry": {"coordinates":[14.57865,49.37505],"type":"Point"}
+}

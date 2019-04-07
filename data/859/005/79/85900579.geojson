@@ -1,0 +1,119 @@
+{
+  "id": 85900579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000518,
+    "geom:area_square_m":4107681.642647,
+    "geom:bbox":"14.4332885742,50.1399454255,14.4597680664,50.1675455623",
+    "geom:latitude":50.153693,
+    "geom:longitude":14.447375,
+    "gn:latitude":50.14633,
+    "gn:longitude":14.44848,
+    "iso:country":"CZ",
+    "lbl:latitude":50.148865,
+    "lbl:longitude":14.447205,
+    "mps:latitude":50.152864,
+    "mps:longitude":14.447627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:arm_x_preferred":[
+        "\u0534\u0578\u056c\u0576\u056b \u053d\u0561\u0562\u0580\u056b"
+    ],
+    "name:ces_x_preferred":[
+        "Doln\u00ed Chabry"
+    ],
+    "name:cze_x_colloquial":[
+        "Dolni Chabry",
+        "Praha 8-Dolni Chabry",
+        "Praha 8-yDolni Chabry",
+        "Praha-Dolni Chabry"
+    ],
+    "name:cze_x_preferred":[
+        "Praha-Doln\u00ed Chabry"
+    ],
+    "name:cze_x_variant":[
+        "Praha 8-yDoln\u00ed Chabry"
+    ],
+    "name:dut_x_preferred":[
+        "Praag-Doln\u00ed Chabry"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00ed Chabry"
+    ],
+    "name:eng_x_preferred_x_preferred":[
+        "Praha-Doln\u00ed Chabry"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00ed Chabry"
+    ],
+    "name:nld_x_preferred":[
+        "Praag-Doln\u00ed Chabry"
+    ],
+    "name:pol_x_preferred":[
+        "Doln\u00ed Chabry"
+    ],
+    "name:slk_x_preferred":[
+        "Doln\u00ed Chabry"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00ed Chabry"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076896,
+        "gp:id":788382,
+        "qs:id":947123,
+        "qs_pg:id":947123,
+        "wd:id":"Q3499350",
+        "wk:page":"Doln\u00ed Chabry"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c50249e26be44e251e907e009eb83f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "neighbourhood_id":85900579,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900579,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1536864508,
+    "wof:name":"Dolni Chabry",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43328857422506,
+    50.13994542547529,
+    14.4597680664001,
+    50.1675455622502
+],
+  "geometry": {"coordinates":[[[14.45900686172524,50.1508131695236],[14.45931311100088,50.14980360096074],[14.45932348252967,50.14980462246707],[14.45800781250011,50.14775167062494],[14.45477083491636,50.14522620492538],[14.45251468993865,50.1417058796],[14.45251464840015,50.14170581478622],[14.45138643065445,50.13994542547529],[14.44702148437511,50.13994542547529],[14.44476529790626,50.14170555575033],[14.44378467283292,50.14170555575033],[14.44152832032506,50.14346594510035],[14.43716320800689,50.14346594510035],[14.43603515630008,50.1452262048863],[14.43603511476459,50.14522626970005],[14.43328857422506,50.14951208818967],[14.43328857422506,50.15533445871678],[14.4349549039764,50.15622513052536],[14.43644607435078,50.15667747211292],[14.43647164495252,50.15668522887022],[14.43720383453837,50.15757740446209],[14.43871920001999,50.15882103277319],[14.43995895592388,50.15948369610966],[14.43996021359624,50.15949646547024],[14.43996998844642,50.15952868883325],[14.44052927107498,50.16137239657367],[14.4414533702772,50.16310126458031],[14.4426969985883,50.16461663006193],[14.4442123640701,50.1658602583732],[14.44594123207656,50.16678435757525],[14.44781716317999,50.16735341505417],[14.44976806640028,50.1675455622502],[14.45171896962034,50.16735341505417],[14.45359490072377,50.16678435757525],[14.45532376873047,50.1658602583732],[14.45683913421203,50.16461663006193],[14.45808276252319,50.16310126458031],[14.45900686172524,50.16137239657367],[14.45957591920433,50.15949646547024],[14.4597680664001,50.15754556225012],[14.45957591920433,50.15559465902992],[14.45900686172524,50.15371872792646],[14.45823033506423,50.15226594872526],[14.45900686172524,50.1508131695236]]],"type":"Polygon"}
+}

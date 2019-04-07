@@ -1,0 +1,126 @@
+{
+  "id": 1125927085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09712,49.99887,16.09712,49.99887",
+    "geom:latitude":49.99887,
+    "geom:longitude":16.09712,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":165,
+    "gn:population":165,
+    "iso:country":"CZ",
+    "lbl:latitude":49.99887,
+    "lbl:longitude":16.09712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:dut_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:eng_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:epo_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:fre_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:ita_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:may_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:por_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:slo_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u045a\u0438\u0448\u0442\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00fdni\u0161\u0165ko"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063796,
+    "qs_pg:gn_pop":165,
+    "qs_pg:name":"T\u00fdni\u0161\u0165ko",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1268547,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800039,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063796,
+        "gp:id":800039,
+        "qs_pg:id":1268547,
+        "wd:id":"Q2520632"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296676,
+    "wof:geomhash":"e2b64f6eb548a704d9333abc9678f95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125927085,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125927085,
+    "wof:lastmodified":1513945816,
+    "wof:name":"T\u00fdni\u0161\u0165ko",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09712,
+    49.99887,
+    16.09712,
+    49.99887
+],
+  "geometry": {"coordinates":[16.09712,49.99887],"type":"Point"}
+}

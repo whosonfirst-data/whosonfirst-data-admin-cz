@@ -1,0 +1,66 @@
+{
+  "id": 1327262993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.86821,49.94976,17.86821,49.94976",
+    "geom:latitude":49.94976,
+    "geom:longitude":17.86821,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Jaktar",
+    "gn:country_code":"CZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074575,
+    "gn:latitude":49.94976,
+    "gn:longitude":17.86821,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Jakta\u0159",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074575
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ef76eeb335d6189d92e53bb2a6219b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327262993,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1327262993,
+    "wof:lastmodified":1536926208,
+    "wof:name":"Jaktar",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.86821,
+    49.94976,
+    17.86821,
+    49.94976
+],
+  "geometry": {"coordinates":[17.86821,49.94976],"type":"Point"}
+}

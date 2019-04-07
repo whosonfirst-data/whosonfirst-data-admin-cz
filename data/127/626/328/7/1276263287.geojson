@@ -1,0 +1,72 @@
+{
+  "id": 1276263287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42238,50.11134,17.42238,50.11134",
+    "geom:latitude":50.11134,
+    "geom:longitude":17.42238,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Karlovice Zadni Ves",
+    "gn:country_code":"CZ",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073808,
+    "gn:latitude":50.11134,
+    "gn:longitude":17.42238,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Karlovice Zadn\u00ed Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hinterdorf",
+        "Karlsthal-Hinterdorf",
+        "Zadn\u00ed Ves",
+        "Karlovice Zadn\u00ed Ves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073808
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7bc9df25a04a0a0c9099d9dd4716d08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276263287,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1276263287,
+    "wof:lastmodified":1537619394,
+    "wof:name":"Karlovice Zadni Ves",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42238,
+    50.11134000000001,
+    17.42238,
+    50.11134000000001
+],
+  "geometry": {"coordinates":[17.42238,50.11134000000001],"type":"Point"}
+}

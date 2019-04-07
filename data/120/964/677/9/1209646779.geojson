@@ -1,0 +1,66 @@
+{
+  "id": 1209646779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17319,49.83537,13.17319,49.83537",
+    "geom:latitude":49.83537,
+    "geom:longitude":13.17319,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Naklov",
+    "gn:country_code":"CZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070070,
+    "gn:latitude":49.83537,
+    "gn:longitude":13.17319,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"N\u00e1klov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naglos",
+        "N\u00e1klov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070070
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ffa56a5ab42495b86fb800644a79351f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209646779
+        }
+    ],
+    "wof:id":1209646779,
+    "wof:lastmodified":1537619350,
+    "wof:name":"Naklov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17319,
+    49.83537000000001,
+    13.17319,
+    49.83537000000001
+],
+  "geometry": {"coordinates":[13.17319,49.83537000000001],"type":"Point"}
+}

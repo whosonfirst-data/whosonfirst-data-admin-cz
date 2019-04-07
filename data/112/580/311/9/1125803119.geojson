@@ -1,0 +1,134 @@
+{
+  "id": 1125803119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64811,50.1459,14.64811,50.1459",
+    "geom:latitude":50.1459,
+    "geom:longitude":14.64811,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":110,
+    "gn:population":110,
+    "iso:country":"CZ",
+    "lbl:latitude":50.1459,
+    "lbl:longitude":14.64811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:dut_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:eng_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:fre_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:hun_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:ita_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:may_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0648\u0645\u06cc\u0633\u0644\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:por_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u043c\u0438\u0441\u043b\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u043c\u0438\u0441\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "name:vie_x_preferred":[
+        "Sv\u00e9myslice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064533,
+    "qs_pg:gn_pop":110,
+    "qs_pg:name":"Sv\u00e9myslice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":271853,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799381,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064533,
+        "gp:id":799381,
+        "qs_pg:id":271853,
+        "wd:id":"Q2608339"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497291352,
+    "wof:geomhash":"fa57f95fb98617a9b6de94d77db07c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125803119,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125803119,
+    "wof:lastmodified":1513945776,
+    "wof:name":"Sv\u00e9myslice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64811,
+    50.1459,
+    14.64811,
+    50.1459
+],
+  "geometry": {"coordinates":[14.64811,50.1459],"type":"Point"}
+}

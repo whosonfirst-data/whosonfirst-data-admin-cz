@@ -1,0 +1,69 @@
+{
+  "id": 1310039391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36546,50.26844,15.36546,50.26844",
+    "geom:latitude":50.26844,
+    "geom:longitude":15.36546,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Osek",
+    "gn:country_code":"CZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068859,
+    "gn:latitude":50.26844,
+    "gn:longitude":15.36546,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Osek",
+    "gn:population":165,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068859
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"576079c178e8666cefe417c406d72e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310039391,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1310039391,
+    "wof:lastmodified":1537088656,
+    "wof:name":"Osek",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36546,
+    50.26844000000001,
+    15.36546,
+    50.26844000000001
+],
+  "geometry": {"coordinates":[15.36546,50.26844000000001],"type":"Point"}
+}

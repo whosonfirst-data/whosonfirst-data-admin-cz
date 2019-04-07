@@ -1,0 +1,66 @@
+{
+  "id": 1293820547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53333,49.26667,14.53333,49.26667",
+    "geom:latitude":49.26667,
+    "geom:longitude":14.53333,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Jamnik",
+    "gn:country_code":"CZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074544,
+    "gn:latitude":49.26667,
+    "gn:longitude":14.53333,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Jamn\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074544
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"947c28379e4d47740481b870d44c851c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293820547,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293820547,
+    "wof:lastmodified":1536803827,
+    "wof:name":"Jamnik",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53333,
+    49.26667,
+    14.53333,
+    49.26667
+],
+  "geometry": {"coordinates":[14.53333,49.26667],"type":"Point"}
+}

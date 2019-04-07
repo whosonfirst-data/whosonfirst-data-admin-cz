@@ -1,0 +1,139 @@
+{
+  "id": 1126045919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31314,49.98929,16.31314,49.98929",
+    "geom:latitude":49.98929,
+    "geom:longitude":16.31314,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":107,
+    "gn:population":107,
+    "iso:country":"CZ",
+    "lbl:latitude":49.98929,
+    "lbl:longitude":16.31314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:dut_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:epo_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:hun_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:may_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0648\u062f\u06cc\u0633\u0644\u0627\u0641 \u0646\u0627\u062f \u0627\u0648\u0631\u0644\u06cc\u062a\u0633\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:rup_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:slo_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0434\u0438\u0441\u043b\u0430\u0432 \u043d\u0430 \u041e\u0440\u043b\u0438\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Sudislav"
+    ],
+    "name:vie_x_preferred":[
+        "Sudislav nad Orlic\u00ed"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064714,
+    "qs_pg:gn_pop":107,
+    "qs_pg:name":"Sudislav nad Orlic\u00ed",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":326204,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799248,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064714,
+        "gp:id":799248,
+        "qs_pg:id":326204,
+        "wd:id":"Q2350638"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302432,
+    "wof:geomhash":"81028b33bdf44f6fcc45810925adc719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126045919,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1126045919,
+    "wof:lastmodified":1513945765,
+    "wof:name":"Sudislav nad Orlic\u00ed",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31314,
+    49.98929,
+    16.31314,
+    49.98929
+],
+  "geometry": {"coordinates":[16.31314,49.98929],"type":"Point"}
+}

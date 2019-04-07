@@ -1,0 +1,138 @@
+{
+  "id": 1125916539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85606,50.32706,14.85606,50.32706",
+    "geom:latitude":50.32706,
+    "geom:longitude":14.85606,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":429,
+    "gn:population":429,
+    "iso:country":"CZ",
+    "lbl:latitude":50.32706,
+    "lbl:longitude":14.85606,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:dut_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:eng_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:fre_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:hun_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:ita_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:may_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0648\u0631\u06a9\u06cc \u0646\u0627\u062f \u06cc\u06cc\u0632\u0631\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:por_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:rup_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043a\u0438-\u043d\u0430\u0434-\u0419\u0438\u0437\u0435\u0440\u043e\u0443"
+    ],
+    "name:slo_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u043a\u0438 \u043d\u0430 \u0408\u0438\u0437\u0435\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "name:unk_x_variant":[
+        "Horka"
+    ],
+    "name:vie_x_preferred":[
+        "Horky nad Jizerou"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075459,
+    "qs_pg:gn_pop":429,
+    "qs_pg:name":"Horky nad Jizerou",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1266033,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":789657,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075459,
+        "gp:id":789657,
+        "qs_pg:id":1266033,
+        "wd:id":"Q1276737"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296337,
+    "wof:geomhash":"b5cea5f6f56b3fbdf5240bd64ddc66eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125916539,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125916539,
+    "wof:lastmodified":1513945016,
+    "wof:name":"Horky nad Jizerou",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":429,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85606,
+    50.32706,
+    14.85606,
+    50.32706
+],
+  "geometry": {"coordinates":[14.85606,50.32706],"type":"Point"}
+}

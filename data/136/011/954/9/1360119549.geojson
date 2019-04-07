@@ -1,0 +1,66 @@
+{
+  "id": 1360119549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70964,49.8767,15.70964,49.8767",
+    "geom:latitude":49.8767,
+    "geom:longitude":15.70964,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Rtenin",
+    "gn:country_code":"CZ",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066627,
+    "gn:latitude":49.8767,
+    "gn:longitude":15.70964,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Rten\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066627
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0eb8d35908d20760432583a497508b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360119549,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1360119549,
+    "wof:lastmodified":1536895722,
+    "wof:name":"Rtenin",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70964,
+    49.8767,
+    15.70964,
+    49.8767
+],
+  "geometry": {"coordinates":[15.70964,49.8767],"type":"Point"}
+}

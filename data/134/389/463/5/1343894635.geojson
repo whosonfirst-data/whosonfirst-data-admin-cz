@@ -1,0 +1,70 @@
+{
+  "id": 1343894635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.60973,50.32575,12.60973,50.32575",
+    "geom:latitude":50.32575,
+    "geom:longitude":12.60973,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Krasna Lipa",
+    "gn:country_code":"CZ",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072891,
+    "gn:latitude":50.32575,
+    "gn:longitude":12.60973,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Kr\u00e1sn\u00e1 L\u00edpa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sch\u00f6nlind",
+        "Kr\u00e1sn\u00e1 L\u00edpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072891
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ccc89cc10e28e3c5a197e323434cdaaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343894635,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1343894635,
+    "wof:lastmodified":1537619385,
+    "wof:name":"Krasna Lipa",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.60973,
+    50.32575,
+    12.60973,
+    50.32575
+],
+  "geometry": {"coordinates":[12.60973,50.32575],"type":"Point"}
+}

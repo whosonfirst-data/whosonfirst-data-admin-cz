@@ -1,0 +1,70 @@
+{
+  "id": 1343796497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72274,49.65965,17.72274,49.65965",
+    "geom:latitude":49.65965,
+    "geom:longitude":17.72274,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0804",
+    "gn:asciiname":"Hilbrovice",
+    "gn:country_code":"CZ",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075826,
+    "gn:latitude":49.65965,
+    "gn:longitude":17.72274,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hilbrovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hilbersdorf",
+        "Hilbrovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075826
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b81668dc95ad3a243f860819daa29994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343796497,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1343796497,
+    "wof:lastmodified":1537619419,
+    "wof:name":"Hilbrovice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72273999999999,
+    49.65965,
+    17.72273999999999,
+    49.65965
+],
+  "geometry": {"coordinates":[17.72273999999999,49.65965],"type":"Point"}
+}

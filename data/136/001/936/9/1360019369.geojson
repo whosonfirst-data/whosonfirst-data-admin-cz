@@ -1,0 +1,73 @@
+{
+  "id": 1360019369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91384,49.45075,15.91384,49.45075",
+    "geom:latitude":49.45075,
+    "geom:longitude":15.91384,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Pavlov",
+    "gn:country_code":"CZ",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068514,
+    "gn:latitude":49.45075,
+    "gn:longitude":15.91384,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Pavlov",
+    "gn:population":319,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pawlow"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068514,
+        "wk:page":"Pavlov_%28%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e37f13324675ef35a5d95d26c6c53b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360019369,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1360019369,
+    "wof:lastmodified":1537619329,
+    "wof:name":"Pavlov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":319,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91384,
+    49.45075,
+    15.91384,
+    49.45075
+],
+  "geometry": {"coordinates":[15.91384,49.45075],"type":"Point"}
+}

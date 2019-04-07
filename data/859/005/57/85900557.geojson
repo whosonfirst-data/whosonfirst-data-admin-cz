@@ -1,0 +1,105 @@
+{
+  "id": 85900557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00025,
+    "geom:area_square_m":1988997.79963,
+    "geom:bbox":"14.4899966935,50.0130341149,14.5129394531,50.0289165635",
+    "geom:latitude":50.021461,
+    "geom:longitude":14.501421,
+    "gn:latitude":50.04275,
+    "gn:longitude":14.4938,
+    "iso:country":"CZ",
+    "lbl:latitude":50.040456,
+    "lbl:longitude":14.495637,
+    "mps:latitude":50.020975,
+    "mps:longitude":14.50142,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cze_x_preferred":[
+        "Chodovec"
+    ],
+    "name:unk_x_variant":[
+        "Chodovec"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Chodovec",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Chodovec",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":168,
+    "qs:photo_sum":224,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077704,
+        "gp:id":787651,
+        "qs:id":1159051,
+        "qs_pg:id":1159051
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9dfcc273c1af46c838f2c2628379442d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "neighbourhood_id":85900557,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900557,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1497308216,
+    "wof:name":"Chodovec",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48999669353981,
+    50.01303411492547,
+    14.51293945312511,
+    50.02891656350012
+],
+  "geometry": {"coordinates":[[[14.50744628910013,50.02891656350012],[14.5074462890845,50.02891649870021],[14.5074462890845,50.02538762030004],[14.51293945309999,50.02538762030004],[14.51293945311579,50.02538755545022],[14.51293945310977,50.02185841770002],[14.51293945311818,50.02185835290048],[14.51293945311579,50.01832895590003],[14.51293945312511,50.01832889107517],[14.50744628908132,50.01832889107517],[14.50517829319847,50.01479916997523],[14.50517795993147,50.01479891065033],[14.50422128748363,50.01479891065033],[14.50195312500011,50.01303411492547],[14.49759416715591,50.01303411492547],[14.49645996090004,50.0147991700146],[14.49645991926957,50.01479923480009],[14.49512271954632,50.01688018891606],[14.49371337890011,50.01712389047152],[14.49230403825396,50.01688018891606],[14.49096679690012,50.01812889657795],[14.49075262274198,50.01832889107517],[14.48999669353981,50.02185835290048],[14.49096679688546,50.02336828008295],[14.49096679688341,50.02387767002536],[14.49096679690012,50.02538762030004],[14.49645996089998,50.02538762030004],[14.49645996089998,50.02891656350012],[14.49742994766615,50.0289165592818],[14.50195312500011,50.02891656350012],[14.50744628910013,50.02891656350012]]],"type":"Polygon"}
+}

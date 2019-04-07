@@ -1,0 +1,70 @@
+{
+  "id": 1226279657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.30665,50.05894,16.30665,50.05894",
+    "geom:latitude":50.05894,
+    "geom:longitude":16.30665,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Polom",
+    "gn:country_code":"CZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067861,
+    "gn:latitude":50.05894,
+    "gn:longitude":16.30665,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Polom",
+    "gn:population":120,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067861,
+        "wk:page":"Polom_%28Rychnov_nad_Kn%C4%9B%C5%BEnou_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"36bc144debf02211b36793eac1bf881e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226279657,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1226279657,
+    "wof:lastmodified":1537504031,
+    "wof:name":"Polom",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30665,
+    50.05894,
+    16.30665,
+    50.05894
+],
+  "geometry": {"coordinates":[16.30665,50.05894],"type":"Point"}
+}

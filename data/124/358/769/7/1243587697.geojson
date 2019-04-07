@@ -1,0 +1,70 @@
+{
+  "id": 1243587697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55604,50.89145,14.55604,50.89145",
+    "geom:latitude":50.89145,
+    "geom:longitude":14.55604,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Svetlik",
+    "gn:country_code":"CZ",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064506,
+    "gn:latitude":50.89145,
+    "gn:longitude":14.55604,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Sv\u011btl\u00edk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lichtenberg",
+        "Sv\u011btl\u00edk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064506
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"10eed95145af9d152cc5ba428b60ad6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243587697,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1243587697,
+    "wof:lastmodified":1537619284,
+    "wof:name":"Svetlik",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55604,
+    50.89145,
+    14.55604,
+    50.89145
+],
+  "geometry": {"coordinates":[14.55604,50.89145],"type":"Point"}
+}

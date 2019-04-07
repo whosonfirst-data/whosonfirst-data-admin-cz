@@ -1,0 +1,132 @@
+{
+  "id": 1125932115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22527,50.23844,16.22527,50.23844",
+    "geom:latitude":50.23844,
+    "geom:longitude":16.22527,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":615,
+    "gn:population":615,
+    "iso:country":"CZ",
+    "lbl:latitude":50.23844,
+    "lbl:longitude":16.22527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:may_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0644\u06cc \u0648\u06cc\u0632\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:por_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:rup_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:slo_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043b\u0438 \u0423\u0458\u0435\u0437\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00edl\u00fd \u00dajezd"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079317,
+    "qs_pg:gn_pop":615,
+    "qs_pg:name":"B\u00edl\u00fd \u00dajezd",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":397315,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786238,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079317,
+        "gp:id":786238,
+        "qs_pg:id":397315,
+        "wd:id":"Q2585066"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296840,
+    "wof:geomhash":"1b60ca1cafe008c497f65679ec4fdc4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125932115,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125932115,
+    "wof:lastmodified":1513944848,
+    "wof:name":"B\u00edl\u00fd \u00dajezd",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":615,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22527,
+    50.23844,
+    16.22527,
+    50.23844
+],
+  "geometry": {"coordinates":[16.22527,50.23844],"type":"Point"}
+}

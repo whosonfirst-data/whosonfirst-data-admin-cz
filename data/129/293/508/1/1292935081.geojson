@@ -1,0 +1,69 @@
+{
+  "id": 1292935081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95582,49.59475,13.95582,49.59475",
+    "geom:latitude":49.59475,
+    "geom:longitude":13.95582,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Chrast",
+    "gn:country_code":"CZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077600,
+    "gn:latitude":49.59475,
+    "gn:longitude":13.95582,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Chr\u00e1st",
+    "gn:population":220,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077600
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1a699578933d90d49c8a1a0e84a46d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292935081,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1292935081,
+    "wof:lastmodified":1537083411,
+    "wof:name":"Chrast",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95582,
+    49.59475,
+    13.95582,
+    49.59475
+],
+  "geometry": {"coordinates":[13.95582,49.59475],"type":"Point"}
+}

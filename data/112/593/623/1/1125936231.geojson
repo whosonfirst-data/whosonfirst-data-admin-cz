@@ -1,0 +1,93 @@
+{
+  "id": 1125936231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46471,49.86054,15.46471,49.86054",
+    "geom:latitude":49.86054,
+    "geom:longitude":15.46471,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":258,
+    "gn:population":258,
+    "iso:country":"CZ",
+    "lbl:latitude":49.86054,
+    "lbl:longitude":15.46471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075037,
+    "qs_pg:gn_pop":258,
+    "qs_pg:name":"Hostovlice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398362,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790070,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075037,
+        "gp:id":790070,
+        "qs_pg:id":398362
+    },
+    "wof:concordances_alt":{
+        "gn:id":3075038,
+        "gp:id":790069,
+        "qs_pg:id":398361
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296976,
+    "wof:geomhash":"114902897575cf3edb7f1e192cb16389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125936231,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125936231,
+    "wof:lastmodified":1534379266,
+    "wof:name":"Hostovlice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":258,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125936205
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46471,
+    49.86054,
+    15.46471,
+    49.86054
+],
+  "geometry": {"coordinates":[15.46471,49.86054],"type":"Point"}
+}

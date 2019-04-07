@@ -1,0 +1,70 @@
+{
+  "id": 1326766429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41041,50.01359,17.41041,50.01359",
+    "geom:latitude":50.01359,
+    "geom:longitude":17.41041,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Mala Veska",
+    "gn:country_code":"CZ",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071208,
+    "gn:latitude":50.01359,
+    "gn:longitude":17.41041,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Mal\u00e1 V\u00e9ska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neud\u00f6rfel",
+        "Nov\u00e1 V\u00e9ska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071208
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"929dc6b287989df0bc824435f5e05a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326766429,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1326766429,
+    "wof:lastmodified":1537619365,
+    "wof:name":"Mala Veska",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41041,
+    50.01359,
+    17.41041,
+    50.01359
+],
+  "geometry": {"coordinates":[17.41041,50.01359],"type":"Point"}
+}

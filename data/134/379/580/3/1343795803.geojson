@@ -1,0 +1,66 @@
+{
+  "id": 1343795803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12554,50.566,15.12554,50.566",
+    "geom:latitude":50.566,
+    "geom:longitude":15.12554,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0514",
+    "gn:asciiname":"Podhaji",
+    "gn:country_code":"CZ",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068100,
+    "gn:latitude":50.566,
+    "gn:longitude":15.12554,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Podh\u00e1j\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068100
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b2886bf93e3176a9b4a4aa56656f4335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343795803,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1343795803,
+    "wof:lastmodified":1536760217,
+    "wof:name":"Podhaji",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12554,
+    50.566,
+    15.12554,
+    50.566
+],
+  "geometry": {"coordinates":[15.12554,50.566],"type":"Point"}
+}

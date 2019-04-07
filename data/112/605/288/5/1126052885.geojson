@@ -1,0 +1,132 @@
+{
+  "id": 1126052885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02837,49.17278,15.02837,49.17278",
+    "geom:latitude":49.17278,
+    "geom:longitude":15.02837,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":80,
+    "gn:population":80,
+    "iso:country":"CZ",
+    "lbl:latitude":49.17278,
+    "lbl:longitude":15.02837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:dut_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:eng_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:fre_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:ger_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:hun_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:ita_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:may_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:nan_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:pol_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:por_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:rup_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:slo_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u045a\u0438 \u0421\u043a\u0440\u0438\u0445\u043e\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075210,
+    "qs_pg:gn_pop":80,
+    "qs_pg:name":"Horn\u00ed Skr\u00fdchov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":398313,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":789902,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075210,
+        "gp:id":789902,
+        "qs_pg:id":398313,
+        "wd:id":"Q665637"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302893,
+    "wof:geomhash":"b2f1df22ba18fa00f599c26d3766af1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126052885,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1126052885,
+    "wof:lastmodified":1513945033,
+    "wof:name":"Horn\u00ed Skr\u00fdchov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02837,
+    49.17278,
+    15.02837,
+    49.17278
+],
+  "geometry": {"coordinates":[15.02837,49.17278],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209043797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57215,50.56744,15.57215,50.56744",
+    "geom:latitude":50.56744,
+    "geom:longitude":15.57215,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"0514",
+    "gn:asciiname":"Zalesni Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061931,
+    "gn:latitude":50.56744,
+    "gn:longitude":15.57215,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Z\u00e1lesn\u00ed Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huttendorf",
+        "Z\u00e1lesn\u00ed Lhota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061931
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7564197cfc63fba3b8c854933505babb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209043797
+        }
+    ],
+    "wof:id":1209043797,
+    "wof:lastmodified":1537619258,
+    "wof:name":"Zalesni Lhota",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57215,
+    50.56744000000001,
+    15.57215,
+    50.56744000000001
+],
+  "geometry": {"coordinates":[15.57215,50.56744000000001],"type":"Point"}
+}

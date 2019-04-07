@@ -1,0 +1,70 @@
+{
+  "id": 1293326405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.57705,50.20111,12.57705,50.20111",
+    "geom:latitude":50.20111,
+    "geom:longitude":12.57705,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Radvanov",
+    "gn:country_code":"CZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067096,
+    "gn:latitude":50.20111,
+    "gn:longitude":12.57705,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Radvanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Robesgr\u00fcn",
+        "Radvanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067096
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a2cf81369b790d2d802740d4c48e5efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293326405,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1293326405,
+    "wof:lastmodified":1537619315,
+    "wof:name":"Radvanov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57705,
+    50.20111,
+    12.57705,
+    50.20111
+],
+  "geometry": {"coordinates":[12.57705,50.20111],"type":"Point"}
+}

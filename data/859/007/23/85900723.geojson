@@ -1,0 +1,142 @@
+{
+  "id": 85900723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0002,
+    "geom:area_square_m":1584827.50512,
+    "geom:bbox":"14.5271577738,50.0835818702,14.5468676463,50.101454985",
+    "geom:latitude":50.092157,
+    "geom:longitude":14.537845,
+    "gn:latitude":50.09729,
+    "gn:longitude":14.5477,
+    "iso:country":"CZ",
+    "lbl:latitude":50.104013,
+    "lbl:longitude":14.554031,
+    "mps:latitude":50.090601,
+    "mps:longitude":14.538517,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:ces_x_preferred":[
+        "Kyje"
+    ],
+    "name:cze_x_preferred":[
+        "Kyje"
+    ],
+    "name:cze_x_variant":[
+        "Praha 9-Kyje"
+    ],
+    "name:hun_x_preferred":[
+        "Kyje"
+    ],
+    "name:ita_x_preferred":[
+        "Kyje"
+    ],
+    "name:msa_x_preferred":[
+        "Kyje"
+    ],
+    "name:nld_x_preferred":[
+        "Kyje"
+    ],
+    "name:pol_x_preferred":[
+        "Kyje"
+    ],
+    "name:por_x_preferred":[
+        "Kyje"
+    ],
+    "name:slk_x_preferred":[
+        "Kyje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0458\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kyje"
+    ],
+    "name:vie_x_preferred":[
+        "Kyje"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:gn_name":"Kyje",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Kyje",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":4,
+    "qs:photo_sum":17,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072412,
+        "gp:id":792349,
+        "qs:id":271977,
+        "qs_pg:id":271977
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"447a58f493715f91edfc22ef5065ff8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900723,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900723,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1497310136,
+    "wof:name":"Kyje",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52715777384617,
+    50.08358187020032,
+    14.54686764632476,
+    50.10145498495741
+],
+  "geometry": {"coordinates":[[[14.54315185548535,50.09944098760009],[14.54315185548109,50.09767913443822],[14.5458984375,50.09767912895161],[14.54649089872612,50.09767912442517],[14.54686763246366,50.09591722890006],[14.54686764632476,50.09591716407529],[14.54589843750006,50.09440635422989],[14.54363689885821,50.09088105115892],[14.54371712756011,50.09063094277521],[14.54315185547506,50.08886886900014],[14.54315185547506,50.08572205478579],[14.54040527342511,50.08358187020032],[14.53604298611879,50.08358187020032],[14.53491210940018,50.08534433268632],[14.53491206781274,50.08534439750007],[14.53378139893005,50.08710653607532],[14.52941894532512,50.08710653607532],[14.52715777384617,50.08886860985019],[14.52941894530005,50.09239314608648],[14.52941894529999,50.09239321090006],[14.5294189868813,50.09239321090006],[14.53054932322584,50.09415509030039],[14.53491210937506,50.09415509030039],[14.53491210938421,50.09591722890006],[14.53491210938546,50.09944092282534],[14.53491210940012,50.09944098760009],[14.53491215092822,50.09944098759821],[14.53604215476452,50.10120260785011],[14.53905938285942,50.10120260785011],[14.53943710522225,50.10145498495741],[14.54040527340004,50.10095186690451],[14.54315185547506,50.0995245786943],[14.54315185548535,50.09944098760009]]],"type":"Polygon"}
+}

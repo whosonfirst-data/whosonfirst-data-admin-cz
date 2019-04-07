@@ -1,0 +1,91 @@
+{
+  "id": 1125800261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46303,49.5244,16.46303,49.5244",
+    "geom:latitude":49.5244,
+    "geom:longitude":16.46303,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":506,
+    "gn:population":506,
+    "iso:country":"CZ",
+    "lbl:latitude":49.5244,
+    "lbl:longitude":16.46303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Rozse\u010d"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066646,
+    "qs_pg:gn_pop":506,
+    "qs_pg:name":"Rozse\u010d nad Kun\u0161t\u00e1tem",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":79,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":183274,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797547,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066646,
+        "gp:id":797547,
+        "qs_pg:id":183274
+    },
+    "wof:country":"CZ",
+    "wof:created":1497291229,
+    "wof:geomhash":"fe6ca97c05c95c19d6be3531a4b4b6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125800261,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125800261,
+    "wof:lastmodified":1509392855,
+    "wof:name":"Rozse\u010d nad Kun\u0161t\u00e1tem",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":506,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46303,
+    49.5244,
+    16.46303,
+    49.5244
+],
+  "geometry": {"coordinates":[16.46303,49.5244],"type":"Point"}
+}

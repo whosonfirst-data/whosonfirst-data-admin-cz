@@ -1,0 +1,133 @@
+{
+  "id": 101779777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1076599.049056,
+    "geom:bbox":"13.8168329994,49.265371387,13.8418850497,49.2757170926",
+    "geom:latitude":49.270592,
+    "geom:longitude":13.829104,
+    "gn:population":1279,
+    "iso:country":"CZ",
+    "lbl:latitude":49.271993,
+    "lbl:longitude":13.82787,
+    "mps:latitude":49.271993,
+    "mps:longitude":13.82787,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Katovice"
+    ],
+    "name:dut_x_preferred":[
+        "Katovice"
+    ],
+    "name:eng_x_preferred":[
+        "Katovice"
+    ],
+    "name:fre_x_preferred":[
+        "Katovice"
+    ],
+    "name:ger_x_preferred":[
+        "Katovice"
+    ],
+    "name:hun_x_preferred":[
+        "Katovice"
+    ],
+    "name:ita_x_preferred":[
+        "Katovice"
+    ],
+    "name:may_x_preferred":[
+        "Katovice"
+    ],
+    "name:por_x_preferred":[
+        "Katovice"
+    ],
+    "name:rum_x_preferred":[
+        "Katovice"
+    ],
+    "name:rup_x_preferred":[
+        "Katovice"
+    ],
+    "name:slo_x_preferred":[
+        "Katovice"
+    ],
+    "name:slv_x_preferred":[
+        "Katovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0442\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Katovice"
+    ],
+    "name:unk_x_variant":[
+        "Katowitz"
+    ],
+    "name:vie_x_preferred":[
+        "Katovice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihocesk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la":"Strakonice",
+    "qs:la_lc":"*CZ0316550787",
+    "qs:level":"locality",
+    "qs:loc":"Katovice",
+    "qs:loc_alt":"Katovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073754,
+        "gp:id":791180,
+        "qs:id":1043045,
+        "qs_pg:id":1043045,
+        "wd:id":"Q1088443",
+        "wk:page":"Katovice (Strakonice District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8fe0e46614ea97d2392366e853523425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779777,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":101779777,
+    "wof:lastmodified":1513945162,
+    "wof:name":"Katovice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":1279,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81683299944007,
+    49.26537138698626,
+    13.84188504972997,
+    49.27571709259382
+],
+  "geometry": {"coordinates":[[[13.83646616610173,49.27349993482784],[13.83639578985719,49.27260197279418],[13.84188504972997,49.27241433365975],[13.84181457650965,49.27151637523122],[13.83769771037629,49.27165712673786],[13.83720501496293,49.26537138698626],[13.8317165279459,49.26555879345915],[13.83185708143208,49.26735472879079],[13.83048490358306,49.26740154051311],[13.83055516014008,49.26829950863345],[13.82643853706082,49.2684398462647],[13.82629817749455,49.26664390374521],[13.82355385033969,49.26673737447078],[13.82362397840217,49.26763534788108],[13.82225178618438,49.26768205910565],[13.82232189243103,49.26858003314641],[13.81683299944007,49.26876671448662],[13.81697302120563,49.27056266938308],[13.81971757269923,49.27046935827474],[13.81992777992616,49.27316328204961],[13.8240448147468,49.27302318088414],[13.82425527662406,49.27571709259382],[13.8297449235863,49.27553004466984],[13.82967466614554,49.27463207840316],[13.83104704683359,49.27458527552835],[13.83097676757632,49.27368730989457],[13.83646616610173,49.27349993482784]]],"type":"Polygon"}
+}

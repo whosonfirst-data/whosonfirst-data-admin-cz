@@ -1,0 +1,66 @@
+{
+  "id": 1344093733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81183,49.16055,17.81183,49.16055",
+    "geom:latitude":49.16055,
+    "geom:longitude":17.81183,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Homole",
+    "gn:country_code":"CZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075550,
+    "gn:latitude":49.16055,
+    "gn:longitude":17.81183,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Homole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075550
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4aa2ef089f5d34cdbb5c6b67469a3161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344093733,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1344093733,
+    "wof:lastmodified":1536826576,
+    "wof:name":"Homole",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81183,
+    49.16055,
+    17.81183,
+    49.16055
+],
+  "geometry": {"coordinates":[17.81183,49.16055],"type":"Point"}
+}

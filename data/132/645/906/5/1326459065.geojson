@@ -1,0 +1,66 @@
+{
+  "id": 1326459065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11034,49.75699,15.11034,49.75699",
+    "geom:latitude":49.75699,
+    "geom:longitude":15.11034,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Dubina",
+    "gn:country_code":"CZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076336,
+    "gn:latitude":49.75699,
+    "gn:longitude":15.11034,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Dubina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076336
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"58a0391e69940daeb81a81af12a31901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326459065,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1326459065,
+    "wof:lastmodified":1537086355,
+    "wof:name":"Dubina",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11034,
+    49.75699,
+    15.11034,
+    49.75699
+],
+  "geometry": {"coordinates":[15.11034,49.75699],"type":"Point"}
+}

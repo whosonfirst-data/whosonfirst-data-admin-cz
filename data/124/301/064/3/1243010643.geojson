@@ -1,0 +1,66 @@
+{
+  "id": 1243010643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98834,49.59786,16.98834,49.59786",
+    "geom:latitude":49.59786,
+    "geom:longitude":16.98834,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0713",
+    "gn:asciiname":"Krakovec",
+    "gn:country_code":"CZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072959,
+    "gn:latitude":49.59786,
+    "gn:longitude":16.98834,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Krakovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072959
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f96e111201d14c64d6138da40b948140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243010643,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1243010643,
+    "wof:lastmodified":1536937519,
+    "wof:name":"Krakovec",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98834,
+    49.59786,
+    16.98834,
+    49.59786
+],
+  "geometry": {"coordinates":[16.98834,49.59786],"type":"Point"}
+}

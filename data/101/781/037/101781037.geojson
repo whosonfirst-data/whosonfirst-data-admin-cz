@@ -1,0 +1,144 @@
+{
+  "id": 101781037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":558269.848788,
+    "geom:bbox":"17.2305076303,49.0149297205,17.2446497808,49.026645997",
+    "geom:latitude":49.020893,
+    "geom:longitude":17.237911,
+    "gn:population":1043,
+    "iso:country":"CZ",
+    "lbl:latitude":49.021385,
+    "lbl:longitude":17.237214,
+    "mps:latitude":49.021385,
+    "mps:longitude":17.237214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:ces_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:cze_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:dut_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:eng_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:fra_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:fre_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:hun_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:ita_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:may_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:msa_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:nld_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:per_x_preferred":[
+        "\u0698\u0631\u0627\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:por_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:slk_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:slo_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u0440\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u017deravice"
+    ],
+    "name:unk_x_variant":[
+        "Zerawitz"
+    ],
+    "name:vie_x_preferred":[
+        "\u017deravice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"\u017deravice",
+    "qs:la_lc":"*CZ0625586820",
+    "qs:level":"locality",
+    "qs:loc":"\u017deravice",
+    "qs:loc_alt":"Zeravice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061534,
+        "gp:id":802047,
+        "qs:id":261803,
+        "qs_pg:id":261803,
+        "wd:id":"Q2701044",
+        "wk:page":"\u017deravice, Hodon\u00edn"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"be739153b4ba0bf0989a03ae1b3d4656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101781037,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101781037,
+    "wof:lastmodified":1553815496,
+    "wof:name":"\u017deravice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1043,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23050763031472,
+    49.01492972046731,
+    17.24464978080204,
+    49.02664599695817
+],
+  "geometry": {"coordinates":[[[17.24205835055704,49.02655764965942],[17.24192661043617,49.0256631967319],[17.24464978080204,49.02548645616531],[17.24438622120385,49.02369755610971],[17.24166314826641,49.02387428929495],[17.24153142621628,49.0229798347857],[17.24016990743235,49.02306817470526],[17.23951150927644,49.01859588502589],[17.24087290629751,49.01850755432827],[17.24034619873743,49.01492972046731],[17.23490097355875,49.01528291445851],[17.23529570302742,49.01796631276738],[17.23393431258313,49.01805457542002],[17.23459219359148,49.0225269046054],[17.23050763031472,49.02279162089502],[17.23063915149532,49.02368609067878],[17.2347237878418,49.0234213688617],[17.23485538810957,49.0243158325909],[17.23621694903085,49.02422755703691],[17.23634857967409,49.02512201839596],[17.23907173689878,49.02494541394225],[17.2392034222791,49.0258398710863],[17.24056501858126,49.02575154218567],[17.24069673434258,49.02664599695817],[17.24205835055704,49.02655764965942]]],"type":"Polygon"}
+}

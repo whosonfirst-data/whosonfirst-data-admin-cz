@@ -1,0 +1,66 @@
+{
+  "id": 1259916261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,50.68333,15.35,50.68333",
+    "geom:latitude":50.68333,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"0512",
+    "gn:asciiname":"Trojanky",
+    "gn:country_code":"CZ",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063956,
+    "gn:latitude":50.68333,
+    "gn:longitude":15.35,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Troj\u00e1nky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063956
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e79403d94100b240a905d18bd5e0da24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259916261,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1259916261,
+    "wof:lastmodified":1536732123,
+    "wof:name":"Trojanky",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    50.68333,
+    15.35,
+    50.68333
+],
+  "geometry": {"coordinates":[15.35,50.68333],"type":"Point"}
+}

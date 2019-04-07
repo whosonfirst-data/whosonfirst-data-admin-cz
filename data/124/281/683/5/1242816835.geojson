@@ -1,0 +1,70 @@
+{
+  "id": 1242816835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06667,50.3,17.06667,50.3",
+    "geom:latitude":50.3,
+    "geom:longitude":17.06667,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Horni Skorosice",
+    "gn:country_code":"CZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075211,
+    "gn:latitude":50.3,
+    "gn:longitude":17.06667,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Horn\u00ed Skoro\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober-Gurschdorf",
+        "Horn\u00ed Skoro\u0161ice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075211
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"53411c537b3f72add33460a73888d432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242816835,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1242816835,
+    "wof:lastmodified":1537619410,
+    "wof:name":"Horni Skorosice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06667,
+    50.3,
+    17.06667,
+    50.3
+],
+  "geometry": {"coordinates":[17.06667,50.3],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209136233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31708,49.45109,15.31708,49.45109",
+    "geom:latitude":49.45109,
+    "geom:longitude":15.31708,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Jelcovy Lhotky",
+    "gn:country_code":"CZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074350,
+    "gn:latitude":49.45109,
+    "gn:longitude":15.31708,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Jelcovy Lhotky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074350
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9814c867701ae4a4c129123915cdf97a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209136233
+        }
+    ],
+    "wof:id":1209136233,
+    "wof:lastmodified":1536296651,
+    "wof:name":"Jelcovy Lhotky",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31708,
+    49.45109,
+    15.31708,
+    49.45109
+],
+  "geometry": {"coordinates":[15.31708,49.45109],"type":"Point"}
+}

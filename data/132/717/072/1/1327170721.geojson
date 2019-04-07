@@ -1,0 +1,66 @@
+{
+  "id": 1327170721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50428,49.3541,13.50428,49.3541",
+    "geom:latitude":49.3541,
+    "geom:longitude":13.50428,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Plichtice",
+    "gn:country_code":"CZ",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068179,
+    "gn:latitude":49.3541,
+    "gn:longitude":13.50428,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Plichtice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068179
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ee5132f943aa80bd928030a74e2545fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327170721,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1327170721,
+    "wof:lastmodified":1537056165,
+    "wof:name":"Plichtice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50428,
+    49.3541,
+    13.50428,
+    49.3541
+],
+  "geometry": {"coordinates":[13.50428,49.3541],"type":"Point"}
+}

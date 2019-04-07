@@ -1,0 +1,70 @@
+{
+  "id": 1277019401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91667,50.68333,14.91667,50.68333",
+    "geom:latitude":50.68333,
+    "geom:longitude":14.91667,
+    "gn:admin1_code":"83",
+    "gn:admin2_code":"0513",
+    "gn:asciiname":"Vaclavice",
+    "gn:country_code":"CZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063481,
+    "gn:latitude":50.68333,
+    "gn:longitude":14.91667,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"V\u00e1clavice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wetzwalde",
+        "V\u00e1clavice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063481
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1a8685c400ab1030d39cf4583b4c23dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277019401,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1277019401,
+    "wof:lastmodified":1537619275,
+    "wof:name":"Vaclavice",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91667,
+    50.68333,
+    14.91667,
+    50.68333
+],
+  "geometry": {"coordinates":[14.91667,50.68333],"type":"Point"}
+}

@@ -1,0 +1,138 @@
+{
+  "id": 1125935477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9197,50.28314,12.9197,50.28314",
+    "geom:latitude":50.28314,
+    "geom:longitude":12.9197,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":397,
+    "gn:population":397,
+    "iso:country":"CZ",
+    "lbl:latitude":50.28314,
+    "lbl:longitude":12.9197,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:dut_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:fre_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:ger_x_preferred":[
+        "H\u00e1jek u Ostrova"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:may_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0627\u06cc\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:por_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:rup_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:slo_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0458\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "name:unk_x_variant":[
+        "Grasengr\u00fcn"
+    ],
+    "name:vie_x_preferred":[
+        "H\u00e1jek"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076013,
+    "qs_pg:gn_pop":397,
+    "qs_pg:name":"H\u00e1jek",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Karlovarsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398137,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":789187,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Karlovarsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076013,
+        "gp:id":789187,
+        "qs_pg:id":398137,
+        "wd:id":"Q1641806"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296953,
+    "wof:geomhash":"01ea45daf6574705da845e4cac5c3b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125935477,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1125935477,
+    "wof:lastmodified":1553816642,
+    "wof:name":"H\u00e1jek",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":397,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9197,
+    50.28314,
+    12.9197,
+    50.28314
+],
+  "geometry": {"coordinates":[12.9197,50.28314],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310041579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86922,50.49704,15.86922,50.49704",
+    "geom:latitude":50.49704,
+    "geom:longitude":15.86922,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Dolni Zd'ar",
+    "gn:country_code":"CZ",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076624,
+    "gn:latitude":50.49704,
+    "gn:longitude":15.86922,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Doln\u00ed \u017d\u010f\u00e1r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nieder-Soor",
+        "Doln\u00ed \u017d\u010f\u00e1r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076624
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"624f7aac81825d6a6a63375f37a8031b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310041579,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1310041579,
+    "wof:lastmodified":1537619429,
+    "wof:name":"Dolni Zd'ar",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86922,
+    50.49704000000001,
+    15.86922,
+    50.49704000000001
+],
+  "geometry": {"coordinates":[15.86922,50.49704000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226786197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.73307,49.79392,12.73307,49.79392",
+    "geom:latitude":49.79392,
+    "geom:longitude":12.73307,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Svaty Jan",
+    "gn:country_code":"CZ",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064565,
+    "gn:latitude":49.79392,
+    "gn:longitude":12.73307,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Svat\u00fd Jan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Johann",
+        "Svat\u00fd Jan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064565
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9750c07061ab90cfaf8fb4dc4a96a7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226786197,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1226786197,
+    "wof:lastmodified":1537619285,
+    "wof:name":"Svaty Jan",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.73307,
+    49.79392,
+    12.73307,
+    49.79392
+],
+  "geometry": {"coordinates":[12.73307,49.79392],"type":"Point"}
+}

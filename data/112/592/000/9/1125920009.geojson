@@ -1,0 +1,135 @@
+{
+  "id": 1125920009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81891,50.27206,15.81891,50.27206",
+    "geom:latitude":50.27206,
+    "geom:longitude":15.81891,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":504,
+    "gn:population":504,
+    "iso:country":"CZ",
+    "lbl:latitude":50.27206,
+    "lbl:longitude":15.81891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Lochenice"
+    ],
+    "name:dut_x_preferred":[
+        "Lochenice"
+    ],
+    "name:eng_x_preferred":[
+        "Lochenice"
+    ],
+    "name:fre_x_preferred":[
+        "Lochenice"
+    ],
+    "name:ger_x_preferred":[
+        "Lochenice"
+    ],
+    "name:hun_x_preferred":[
+        "Lochenice"
+    ],
+    "name:ita_x_preferred":[
+        "Lochenice"
+    ],
+    "name:may_x_preferred":[
+        "Lochenice"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648\u062e\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Lochenice"
+    ],
+    "name:por_x_preferred":[
+        "Lochenice"
+    ],
+    "name:slo_x_preferred":[
+        "Lochenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0445\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Lochenice"
+    ],
+    "name:unk_x_variant":[
+        "Lochenitz"
+    ],
+    "name:vie_x_preferred":[
+        "Lochenice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071651,
+    "qs_pg:gn_pop":504,
+    "qs_pg:name":"Lochenice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1266888,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793055,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071651,
+        "gp:id":793055,
+        "qs_pg:id":1266888,
+        "wd:id":"Q1867366"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296449,
+    "wof:geomhash":"0af1f4779394ec7c51e6d73d00a8d349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125920009,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125920009,
+    "wof:lastmodified":1513945311,
+    "wof:name":"Lochenice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":504,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81891,
+    50.27206,
+    15.81891,
+    50.27206
+],
+  "geometry": {"coordinates":[15.81891,50.27206],"type":"Point"}
+}

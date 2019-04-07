@@ -1,0 +1,66 @@
+{
+  "id": 1276473793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80463,49.48252,14.80463,49.48252",
+    "geom:latitude":49.48252,
+    "geom:longitude":14.80463,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Horni Hrachovice",
+    "gn:country_code":"CZ",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075371,
+    "gn:latitude":49.48252,
+    "gn:longitude":14.80463,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Horn\u00ed Hrachovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075371
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8b4a26e231f4371c1a2952bf9293dbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276473793,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276473793,
+    "wof:lastmodified":1537084758,
+    "wof:name":"Horni Hrachovice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80463,
+    49.48252,
+    14.80463,
+    49.48252
+],
+  "geometry": {"coordinates":[14.80463,49.48252],"type":"Point"}
+}

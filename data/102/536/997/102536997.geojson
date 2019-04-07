@@ -1,0 +1,65 @@
+{
+  "id": 102536997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6231,49.4361,14.6231,49.4361",
+    "geom:latitude":49.4361,
+    "geom:longitude":14.6231,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1604",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582544,
+        "localadmin_id":12604683,
+        "planet_id":1,
+        "state_id":20070502
+    },
+    "wof:belongsto":[
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049732,
+        "icao:code":"LKTV",
+        "oa:id":"30459",
+        "wd:id":"Q12033126"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9eeeb2d253f674e2117253946de6a1f1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536997,
+            "country_id":85633105,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":102536997,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Letiste Tabor Vsechov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.6231,
+    49.4361,
+    14.6231,
+    49.4361
+],
+  "geometry": {"coordinates":[14.6231,49.4361],"type":"Point"}
+}

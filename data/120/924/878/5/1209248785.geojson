@@ -1,0 +1,62 @@
+{
+  "id": 1209248785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63841,49.65632,14.63841,49.65632",
+    "geom:latitude":49.65632,
+    "geom:longitude":14.63841,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Mladousov",
+    "gn:country_code":"CZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070513,
+    "gn:latitude":49.65632,
+    "gn:longitude":14.63841,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Mladou\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070513
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"71f9f867b0fe72c209e3dbd2ecf19739",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209248785
+        }
+    ],
+    "wof:id":1209248785,
+    "wof:lastmodified":1536293073,
+    "wof:name":"Mladousov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63841,
+    49.65632,
+    14.63841,
+    49.65632
+],
+  "geometry": {"coordinates":[14.63841,49.65632],"type":"Point"}
+}

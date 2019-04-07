@@ -1,0 +1,66 @@
+{
+  "id": 1310037115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31919,49.23739,13.31919,49.23739",
+    "geom:latitude":49.23739,
+    "geom:longitude":13.31919,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Chvalsovice",
+    "gn:country_code":"CZ",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077476,
+    "gn:latitude":49.23739,
+    "gn:longitude":13.31919,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Chval\u0161ovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077476
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"167be0424016733e5de88b4264aee41d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310037115,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1310037115,
+    "wof:lastmodified":1537091931,
+    "wof:name":"Chvalsovice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31919,
+    49.23739000000001,
+    13.31919,
+    49.23739000000001
+],
+  "geometry": {"coordinates":[13.31919,49.23739000000001],"type":"Point"}
+}

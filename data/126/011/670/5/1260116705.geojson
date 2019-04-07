@@ -1,0 +1,70 @@
+{
+  "id": 1260116705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20332,50.25503,13.20332,50.25503",
+    "geom:latitude":50.25503,
+    "geom:longitude":13.20332,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Turec",
+    "gn:country_code":"CZ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063857,
+    "gn:latitude":50.25503,
+    "gn:longitude":13.20332,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Ture\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turtsch",
+        "Ture\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063857
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0a3532e13ee769b170fc10763f53b583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260116705,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1260116705,
+    "wof:lastmodified":1537619278,
+    "wof:name":"Turec",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20332,
+    50.25503,
+    13.20332,
+    50.25503
+],
+  "geometry": {"coordinates":[13.20332,50.25503],"type":"Point"}
+}

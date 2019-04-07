@@ -1,0 +1,135 @@
+{
+  "id": 1125851739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88472,49.84126,15.88472,49.84126",
+    "geom:latitude":49.84126,
+    "geom:longitude":15.88472,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1205,
+    "gn:population":1205,
+    "iso:country":"CZ",
+    "lbl:latitude":49.84126,
+    "lbl:longitude":15.88472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:dut_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:eng_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:epo_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:fre_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:ger_x_preferred":[
+        "Mi\u0159etice u Nasavrk"
+    ],
+    "name:hun_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:ita_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:may_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:pol_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:por_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:rup_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:slo_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u0436\u0435\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Miretice"
+    ],
+    "name:vie_x_preferred":[
+        "Mi\u0159etice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070603,
+    "qs_pg:gn_pop":1205,
+    "qs_pg:name":"Mi\u0159etice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1267107,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793982,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070603,
+        "gp:id":793982,
+        "qs_pg:id":1267107,
+        "wd:id":"Q1818220"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293436,
+    "wof:geomhash":"a7683838798551cebf7189474300db40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125851739,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125851739,
+    "wof:lastmodified":1513945368,
+    "wof:name":"Mi\u0159etice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":1205,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88472,
+    49.84126,
+    15.88472,
+    49.84126
+],
+  "geometry": {"coordinates":[15.88472,49.84126],"type":"Point"}
+}

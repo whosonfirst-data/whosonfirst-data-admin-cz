@@ -1,0 +1,66 @@
+{
+  "id": 1326866831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97401,49.70027,15.97401,49.70027",
+    "geom:latitude":49.70027,
+    "geom:longitude":15.97401,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Kuchyne",
+    "gn:country_code":"CZ",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072562,
+    "gn:latitude":49.70027,
+    "gn:longitude":15.97401,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Kuchyn\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072562
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a165d535fd2adad95346220dd8dd3719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326866831,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1326866831,
+    "wof:lastmodified":1536998062,
+    "wof:name":"Kuchyne",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97401,
+    49.70027,
+    15.97401,
+    49.70027
+],
+  "geometry": {"coordinates":[15.97401,49.70027],"type":"Point"}
+}

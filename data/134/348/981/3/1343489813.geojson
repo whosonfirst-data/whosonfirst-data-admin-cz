@@ -1,0 +1,68 @@
+{
+  "id": 1343489813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66915,50.0974,14.66915,50.0974",
+    "geom:latitude":50.0974,
+    "geom:longitude":14.66915,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Praha Klanovice",
+    "gn:country_code":"CZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629195,
+    "gn:latitude":50.0974,
+    "gn:longitude":14.66915,
+    "gn:modification_date":"2014-09-16",
+    "gn:name":"Praha Klanovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Praha\u00a0Kl\u00e1novice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629195
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"590412ad76d47e86544eb6d6e9146b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343489813,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":1343489813,
+    "wof:lastmodified":1537619467,
+    "wof:name":"Praha Klanovice",
+    "wof:parent_id":85682437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66915,
+    50.0974,
+    14.66915,
+    50.0974
+],
+  "geometry": {"coordinates":[14.66915,50.0974],"type":"Point"}
+}

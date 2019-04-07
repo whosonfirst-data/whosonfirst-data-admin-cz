@@ -1,0 +1,91 @@
+{
+  "id": 1125327837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45221,48.65642,14.45221,48.65642",
+    "geom:latitude":48.65642,
+    "geom:longitude":14.45221,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1235,
+    "gn:population":1235,
+    "iso:country":"CZ",
+    "lbl:latitude":48.65642,
+    "lbl:longitude":14.45221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Unter-Haid"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076873,
+    "qs_pg:gn_pop":1235,
+    "qs_pg:name":"Doln\u00ed Dvo\u0159i\u0161t\u011b",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1228279,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12604413,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076873,
+        "gp:id":12604413,
+        "qs_pg:id":1228279
+    },
+    "wof:country":"CZ",
+    "wof:created":1497044924,
+    "wof:geomhash":"c0e25d6e816d17c6563aea9d08ef3a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125327837,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125327837,
+    "wof:lastmodified":1509388289,
+    "wof:name":"Doln\u00ed Dvo\u0159i\u0161t\u011b",
+    "wof:parent_id":85682415,
+    "wof:placetype":"localadmin",
+    "wof:population":1235,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45221,
+    48.65642,
+    14.45221,
+    48.65642
+],
+  "geometry": {"coordinates":[14.45221,48.65642],"type":"Point"}
+}

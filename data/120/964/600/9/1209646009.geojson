@@ -1,0 +1,66 @@
+{
+  "id": 1209646009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9,49.26667,13.9,49.26667",
+    "geom:latitude":49.26667,
+    "geom:longitude":13.9,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Nove Strakonice",
+    "gn:country_code":"CZ",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069432,
+    "gn:latitude":49.26667,
+    "gn:longitude":13.9,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Nov\u00e9 Strakonice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neu Strakonitz",
+        "Nov\u00e9 Strakonice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069432
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a9d42c25ef1657590d5c77e2673f5c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209646009
+        }
+    ],
+    "wof:id":1209646009,
+    "wof:lastmodified":1537619340,
+    "wof:name":"Nove Strakonice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9,
+    49.26667,
+    13.9,
+    49.26667
+],
+  "geometry": {"coordinates":[13.9,49.26667],"type":"Point"}
+}

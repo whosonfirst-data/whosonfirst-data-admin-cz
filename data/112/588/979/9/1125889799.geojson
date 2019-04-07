@@ -1,0 +1,80 @@
+{
+  "id": 1125889799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.339973,49.179152,13.339973,49.179152",
+    "geom:latitude":49.179152,
+    "geom:longitude":13.339973,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":49.179152,
+    "lbl:longitude":13.339973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zh\u00fe\u00ed",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos":79,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":79,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":210081,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":802092,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":802092,
+        "qs_pg:id":210081
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295262,
+    "wof:geomhash":"b68cdf438b57376f5a777b8a89074e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125889799,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125889799,
+    "wof:lastmodified":1509398730,
+    "wof:name":"Zh\u00fe\u00ed",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.339973,
+    49.179152,
+    13.339973,
+    49.179152
+],
+  "geometry": {"coordinates":[13.339973,49.179152],"type":"Point"}
+}

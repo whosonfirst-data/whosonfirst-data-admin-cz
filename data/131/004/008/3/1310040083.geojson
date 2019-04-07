@@ -1,0 +1,85 @@
+{
+  "id": 1310040083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.74378,49.86816,12.74378,49.86816",
+    "geom:latitude":49.86816,
+    "geom:longitude":12.74378,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Plana",
+    "gn:country_code":"CZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068246,
+    "gn:latitude":49.86816,
+    "gn:longitude":12.74378,
+    "gn:modification_date":"2012-12-19",
+    "gn:name":"Plan\u00e1",
+    "gn:population":5450,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Plan\u00e1 u Mari\u00e1nsk\u00fdch L\u00e1zn\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Plan"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u7d0d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068246,
+        "wk:page":"Plan%C3%A1_%28Tachov_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cb4ca6a0862de7ab6f8c2f74277db460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310040083,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1310040083,
+    "wof:lastmodified":1537619326,
+    "wof:name":"Plana",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":5450,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.74378,
+    49.86816,
+    12.74378,
+    49.86816
+],
+  "geometry": {"coordinates":[12.74378,49.86816],"type":"Point"}
+}

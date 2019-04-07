@@ -1,0 +1,138 @@
+{
+  "id": 1126053095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.43676,49.64612,18.43676,49.64612",
+    "geom:latitude":49.64612,
+    "geom:longitude":18.43676,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":261,
+    "gn:population":261,
+    "iso:country":"CZ",
+    "lbl:latitude":49.64612,
+    "lbl:longitude":18.43676,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:dut_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:eng_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:fre_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:ger_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:hun_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:ita_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:may_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:nan_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u06cc\u0698\u0646\u06cc \u0644\u0647\u0648\u062a\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Ligota Dolna"
+    ],
+    "name:por_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:rup_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:slo_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0436\u045a\u0438 \u041b\u0445\u043e\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "name:vie_x_preferred":[
+        "Ni\u017en\u00ed Lhoty"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069729,
+    "qs_pg:gn_pop":261,
+    "qs_pg:name":"Ni\u017en\u00ed Lhoty",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399647,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794767,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069729,
+        "gp:id":794767,
+        "qs_pg:id":399647,
+        "wd:id":"Q952232"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302906,
+    "wof:geomhash":"52b8cdb0d480107db080351e1f5d75ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126053095,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1126053095,
+    "wof:lastmodified":1513945431,
+    "wof:name":"Ni\u017en\u00ed Lhoty",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":261,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43676,
+    49.64612,
+    18.43676,
+    49.64612
+],
+  "geometry": {"coordinates":[18.43676,49.64612],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209946013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31655,50.57775,15.31655,50.57775",
+    "geom:latitude":50.57775,
+    "geom:longitude":15.31655,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0514",
+    "gn:asciiname":"Horensko",
+    "gn:country_code":"CZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075505,
+    "gn:latitude":50.57775,
+    "gn:longitude":15.31655,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Ho\u0159ensko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075505
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3575faa1f725878a0008e8542d73ddfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209946013,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1209946013,
+    "wof:lastmodified":1536386349,
+    "wof:name":"Horensko",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31655,
+    50.57775,
+    15.31655,
+    50.57775
+],
+  "geometry": {"coordinates":[15.31655,50.57775],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310040501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33333,50.0,16.33333,50.0",
+    "geom:latitude":50.0,
+    "geom:longitude":16.33333,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Bezpravi",
+    "gn:country_code":"CZ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079394,
+    "gn:latitude":50.0,
+    "gn:longitude":16.33333,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Bezpr\u00e1v\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079394
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"470895aa2298a382490388be429454c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310040501,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1310040501,
+    "wof:lastmodified":1537087001,
+    "wof:name":"Bezpravi",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33333,
+    50.0,
+    16.33333,
+    50.0
+],
+  "geometry": {"coordinates":[16.33333,50.0],"type":"Point"}
+}

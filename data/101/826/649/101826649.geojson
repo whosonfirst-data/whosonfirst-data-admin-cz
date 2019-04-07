@@ -1,0 +1,80 @@
+{
+  "id": 101826649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":498390.863478,
+    "geom:bbox":"14.5249736761,49.5655684379,14.5360992376,49.5765023206",
+    "geom:latitude":49.57138,
+    "geom:longitude":14.531303,
+    "iso:country":"CZ",
+    "lbl:latitude":49.571437,
+    "lbl:longitude":14.532145,
+    "mps:latitude":49.571437,
+    "mps:longitude":14.532145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sedletz"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Stredocesk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Sedlec-Pr\u010dice",
+    "qs:la_lc":"*CZ020B530573",
+    "qs:level":"locality",
+    "qs:loc":"Sedlec",
+    "qs:loc_alt":"Sedlec",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066331,
+        "gp:id":797844,
+        "qs:id":1,
+        "qs_pg:id":265850,
+        "wd:id":"Q394712"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"92d8e947253694f574be5705f891525b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826649,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":101826649,
+    "wof:lastmodified":1527642512,
+    "wof:name":"Sedlec",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52497367606952,
+    49.56556843787473,
+    14.53609923764856,
+    49.57650232062878
+],
+  "geometry": {"coordinates":[[[14.53609923764856,49.57437517901019],[14.53551144762639,49.56809405259474],[14.5327513745637,49.56820494454939],[14.53266747091345,49.56730763696652],[14.5312874554341,49.56736305648599],[14.53111971057575,49.56556843787473],[14.52973974296907,49.56562383818414],[14.52990743707176,49.56741845915349],[14.52714739170068,49.56752921393235],[14.52731499985327,49.56932383816701],[14.52869507474145,49.56926846684684],[14.52903043928256,49.57285770625811],[14.52765026285783,49.57291308229253],[14.52773408833917,49.57381039241903],[14.52497367606952,49.57392109628125],[14.52505745466658,49.57481840840256],[14.52643768763039,49.57476306372087],[14.52652149550784,49.57566037430246],[14.52790175098028,49.5756050115873],[14.52798558814021,49.57650232062878],[14.52936586612066,49.57644693987919],[14.52928200356979,49.57554963201653],[14.53066225327615,49.57549423559055],[14.53057836923034,49.57459692854536],[14.53609923764856,49.57437517901019]]],"type":"Polygon"}
+}

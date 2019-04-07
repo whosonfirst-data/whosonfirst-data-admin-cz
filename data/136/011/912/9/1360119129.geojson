@@ -1,0 +1,66 @@
+{
+  "id": 1360119129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5993,48.84483,14.5993,48.84483",
+    "geom:latitude":48.84483,
+    "geom:longitude":14.5993,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Brezi",
+    "gn:country_code":"CZ",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078731,
+    "gn:latitude":48.84483,
+    "gn:longitude":14.5993,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"B\u0159ez\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078731
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0160f8b2209c1e7f4a3cb7e964281070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360119129,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1360119129,
+    "wof:lastmodified":1536896365,
+    "wof:name":"Brezi",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5993,
+    48.84483,
+    14.5993,
+    48.84483
+],
+  "geometry": {"coordinates":[14.5993,48.84483],"type":"Point"}
+}

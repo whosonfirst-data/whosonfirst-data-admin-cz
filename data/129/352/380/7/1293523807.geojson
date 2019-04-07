@@ -1,0 +1,66 @@
+{
+  "id": 1293523807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93094,50.1888,14.93094,50.1888",
+    "geom:latitude":50.1888,
+    "geom:longitude":14.93094,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Rozkos",
+    "gn:country_code":"CZ",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066667,
+    "gn:latitude":50.1888,
+    "gn:longitude":14.93094,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Rozko\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066667
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3c97ed9fc48ecd83e647e2e3ad405ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293523807,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293523807,
+    "wof:lastmodified":1536734842,
+    "wof:name":"Rozkos",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93094,
+    50.1888,
+    14.93094,
+    50.1888
+],
+  "geometry": {"coordinates":[14.93094,50.1888],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1125856457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13686,49.92048,14.13686,49.92048",
+    "geom:latitude":49.92048,
+    "geom:longitude":14.13686,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":86,
+    "gn:population":86,
+    "iso:country":"CZ",
+    "lbl:latitude":49.92048,
+    "lbl:longitude":14.13686,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Korno"
+    ],
+    "name:dut_x_preferred":[
+        "Korno"
+    ],
+    "name:eng_x_preferred":[
+        "Korno"
+    ],
+    "name:epo_x_preferred":[
+        "Korno"
+    ],
+    "name:fre_x_preferred":[
+        "Korno"
+    ],
+    "name:ger_x_preferred":[
+        "Korno"
+    ],
+    "name:hun_x_preferred":[
+        "Korno"
+    ],
+    "name:ita_x_preferred":[
+        "Korno"
+    ],
+    "name:may_x_preferred":[
+        "Korno"
+    ],
+    "name:pol_x_preferred":[
+        "Korno"
+    ],
+    "name:por_x_preferred":[
+        "Korno"
+    ],
+    "name:slo_x_preferred":[
+        "Korno"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Korno"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3073236,
+    "qs_pg:gn_pop":86,
+    "qs_pg:name":"Korno",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1266530,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":791619,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073236,
+        "gp:id":791619,
+        "qs_pg:id":1266530,
+        "wd:id":"Q2705427"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293642,
+    "wof:geomhash":"fe9c591646380a90d496869556e09e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125856457,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125856457,
+    "wof:lastmodified":1513945198,
+    "wof:name":"Korno",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13686,
+    49.92048,
+    14.13686,
+    49.92048
+],
+  "geometry": {"coordinates":[14.13686,49.92048],"type":"Point"}
+}

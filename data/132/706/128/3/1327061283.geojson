@@ -1,0 +1,66 @@
+{
+  "id": 1327061283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.04103,49.82946,13.04103,49.82946",
+    "geom:latitude":49.82946,
+    "geom:longitude":13.04103,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Svinomazy",
+    "gn:country_code":"CZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064467,
+    "gn:latitude":49.82946,
+    "gn:longitude":13.04103,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Svi\u0148omazy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064467
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7260d29eba30f9bd4cb6a10c88e795e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327061283,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1327061283,
+    "wof:lastmodified":1536719187,
+    "wof:name":"Svinomazy",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.04103,
+    49.82946,
+    13.04103,
+    49.82946
+],
+  "geometry": {"coordinates":[13.04103,49.82946],"type":"Point"}
+}

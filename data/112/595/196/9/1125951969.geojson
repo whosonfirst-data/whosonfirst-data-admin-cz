@@ -1,0 +1,135 @@
+{
+  "id": 1125951969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74927,50.2317,14.74927,50.2317",
+    "geom:latitude":50.2317,
+    "geom:longitude":14.74927,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":378,
+    "gn:population":378,
+    "iso:country":"CZ",
+    "lbl:latitude":50.2317,
+    "lbl:longitude":14.74927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u043a\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Skorkov"
+    ],
+    "name:dut_x_preferred":[
+        "Skorkov"
+    ],
+    "name:eng_x_preferred":[
+        "Skorkov"
+    ],
+    "name:fre_x_preferred":[
+        "Skorkov"
+    ],
+    "name:hun_x_preferred":[
+        "Skorkov"
+    ],
+    "name:ita_x_preferred":[
+        "Skorkov"
+    ],
+    "name:may_x_preferred":[
+        "Skorkov"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06a9\u0648\u0631\u06a9\u0648\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Skorkov"
+    ],
+    "name:por_x_preferred":[
+        "Skorkov"
+    ],
+    "name:rup_x_preferred":[
+        "Skorkov"
+    ],
+    "name:slo_x_preferred":[
+        "Skorkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Skorkov"
+    ],
+    "name:vie_x_preferred":[
+        "Skorkov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065988,
+    "qs_pg:gn_pop":378,
+    "qs_pg:name":"Skokovy",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":58162,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":23407639,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065988,
+        "gp:id":23407639,
+        "qs_pg:id":58162,
+        "wd:id":"Q2704215"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297492,
+    "wof:geomhash":"3723151206b1e4aaeefd044f6d0621e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125951969,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125951969,
+    "wof:lastmodified":1553816653,
+    "wof:name":"Skokovy",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74927,
+    50.2317,
+    14.74927,
+    50.2317
+],
+  "geometry": {"coordinates":[14.74927,50.2317],"type":"Point"}
+}

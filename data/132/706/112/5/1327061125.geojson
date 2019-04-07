@@ -1,0 +1,66 @@
+{
+  "id": 1327061125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17905,49.86758,13.17905,49.86758",
+    "geom:latitude":49.86758,
+    "geom:longitude":13.17905,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Podmokly",
+    "gn:country_code":"CZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068033,
+    "gn:latitude":49.86758,
+    "gn:longitude":13.17905,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Podmokly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068033
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4a26e90b8de800325b906b1c40184ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327061125,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1327061125,
+    "wof:lastmodified":1536719420,
+    "wof:name":"Podmokly",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17905,
+    49.86758,
+    13.17905,
+    49.86758
+],
+  "geometry": {"coordinates":[13.17905,49.86758],"type":"Point"}
+}

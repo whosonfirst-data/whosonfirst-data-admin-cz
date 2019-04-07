@@ -1,0 +1,62 @@
+{
+  "id": 1209349453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25462,49.45987,16.25462,49.45987",
+    "geom:latitude":49.45987,
+    "geom:longitude":16.25462,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Jablonov",
+    "gn:country_code":"CZ",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074595,
+    "gn:latitude":49.45987,
+    "gn:longitude":16.25462,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Jablo\u0148ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074595
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"351323524799dc38d0fe2f7bf15e26b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209349453
+        }
+    ],
+    "wof:id":1209349453,
+    "wof:lastmodified":1536289795,
+    "wof:name":"Jablonov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.254620000000006,
+    49.45987,
+    16.254620000000006,
+    49.45987
+],
+  "geometry": {"coordinates":[16.25462000000001,49.45987],"type":"Point"}
+}

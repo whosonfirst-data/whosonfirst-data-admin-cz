@@ -1,0 +1,70 @@
+{
+  "id": 1242614503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2955,48.70343,14.2955,48.70343",
+    "geom:latitude":48.70343,
+    "geom:longitude":14.2955,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Horni Svetla",
+    "gn:country_code":"CZ",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075185,
+    "gn:latitude":48.70343,
+    "gn:longitude":14.2955,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Horn\u00ed Sv\u011btl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober Zwiedtern",
+        "Horn\u00ed Sv\u011btl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075185
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"28a7d7aa6d7db4d09d18ad9c8d85f2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242614503,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1242614503,
+    "wof:lastmodified":1537619410,
+    "wof:name":"Horni Svetla",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2955,
+    48.70343,
+    14.2955,
+    48.70343
+],
+  "geometry": {"coordinates":[14.2955,48.70343],"type":"Point"}
+}

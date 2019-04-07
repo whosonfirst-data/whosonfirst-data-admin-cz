@@ -1,0 +1,66 @@
+{
+  "id": 1209137037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35528,51.03362,14.35528,51.03362",
+    "geom:latitude":51.03362,
+    "geom:longitude":14.35528,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Roehrsdorf",
+    "gn:country_code":"CZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071755,
+    "gn:latitude":51.03362,
+    "gn:longitude":14.35528,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Roehrsdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6hrsdorf",
+        "Li\u0161\u010d\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071755
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"53e98ae84ea4869a54a546f069f00123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209137037
+        }
+    ],
+    "wof:id":1209137037,
+    "wof:lastmodified":1537619372,
+    "wof:name":"Roehrsdorf",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35528,
+    51.03362,
+    14.35528,
+    51.03362
+],
+  "geometry": {"coordinates":[14.35528,51.03362],"type":"Point"}
+}

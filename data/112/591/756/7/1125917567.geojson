@@ -1,0 +1,129 @@
+{
+  "id": 1125917567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64166,49.79235,15.64166,49.79235",
+    "geom:latitude":49.79235,
+    "geom:longitude":15.64166,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":313,
+    "gn:population":313,
+    "iso:country":"CZ",
+    "lbl:latitude":49.79235,
+    "lbl:longitude":15.64166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:dut_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:eng_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:fre_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:hun_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:ita_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:may_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:per_x_preferred":[
+        "\u06cc\u0631\u06cc\u0634\u0646\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:por_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:slo_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0435\u0440\u0436\u0438\u0448\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "name:vie_x_preferred":[
+        "Je\u0159i\u0161no"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3074298,
+    "qs_pg:gn_pop":313,
+    "qs_pg:name":"Je\u0159i\u0161no",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1266309,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790721,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074298,
+        "gp:id":790721,
+        "qs_pg:id":1266309,
+        "wd:id":"Q2584588"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296370,
+    "wof:geomhash":"f29307d18175315f2b97bedd9ddcec27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125917567,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125917567,
+    "wof:lastmodified":1513945104,
+    "wof:name":"Je\u0159i\u0161no",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":313,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64166,
+    49.79235,
+    15.64166,
+    49.79235
+],
+  "geometry": {"coordinates":[15.64166,49.79235],"type":"Point"}
+}

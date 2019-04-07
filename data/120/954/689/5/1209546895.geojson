@@ -1,0 +1,66 @@
+{
+  "id": 1209546895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.22673,49.91465,17.22673,49.91465",
+    "geom:latitude":49.91465,
+    "geom:longitude":17.22673,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Skaly",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066036,
+    "gn:latitude":49.91465,
+    "gn:longitude":17.22673,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Sk\u00e1ly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hangenstein bei R\u00f6merstadt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066036
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"177bcf442678d8ffdd6f0faf33d30ff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209546895
+        }
+    ],
+    "wof:id":1209546895,
+    "wof:lastmodified":1537504024,
+    "wof:name":"Skaly",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.22673,
+    49.91465,
+    17.22673,
+    49.91465
+],
+  "geometry": {"coordinates":[17.22673,49.91465],"type":"Point"}
+}

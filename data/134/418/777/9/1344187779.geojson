@@ -1,0 +1,66 @@
+{
+  "id": 1344187779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03762,49.55579,15.03762,49.55579",
+    "geom:latitude":49.55579,
+    "geom:longitude":15.03762,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Stare Vyklantice",
+    "gn:country_code":"CZ",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065302,
+    "gn:latitude":49.55579,
+    "gn:longitude":15.03762,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Star\u00e9 Vyklantice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065302
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b3a60f383d4737b852659b23d3e9a450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344187779,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1344187779,
+    "wof:lastmodified":1536692154,
+    "wof:name":"Stare Vyklantice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03762,
+    49.55579,
+    15.03762,
+    49.55579
+],
+  "geometry": {"coordinates":[15.03762,49.55579],"type":"Point"}
+}

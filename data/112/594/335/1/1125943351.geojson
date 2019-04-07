@@ -1,0 +1,135 @@
+{
+  "id": 1125943351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26277,50.21643,13.26277,50.21643",
+    "geom:latitude":50.21643,
+    "geom:longitude":13.26277,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":122,
+    "gn:population":122,
+    "iso:country":"CZ",
+    "lbl:latitude":50.21643,
+    "lbl:longitude":13.26277,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:dut_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:eng_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:fre_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:ger_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:hun_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:ita_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:may_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u062f\u0628\u0648\u0631\u0627\u0646\u0633\u06a9\u06cc \u0631\u0648\u0647\u0648\u0632\u062a\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:rup_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:slo_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u043e\u0440\u0436\u0430\u043d\u0441\u043a\u0438 \u0420\u043e\u0445\u043e\u0437\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "name:unk_x_variant":[
+        "Deutsch Rust"
+    ],
+    "name:vie_x_preferred":[
+        "Podbo\u0159ansk\u00fd Rohozec"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3068120,
+    "qs_pg:gn_pop":122,
+    "qs_pg:name":"Podbo\u0159ansk\u00fd Rohozec",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":399996,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796205,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068120,
+        "gp:id":796205,
+        "qs_pg:id":399996,
+        "wd:id":"Q1674365"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297193,
+    "wof:geomhash":"8086c81671d321239a2783094101b8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125943351,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125943351,
+    "wof:lastmodified":1513945549,
+    "wof:name":"Podbo\u0159ansk\u00fd Rohozec",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26277,
+    50.21643,
+    13.26277,
+    50.21643
+],
+  "geometry": {"coordinates":[13.26277,50.21643],"type":"Point"}
+}

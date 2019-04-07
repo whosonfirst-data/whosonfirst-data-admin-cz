@@ -1,0 +1,72 @@
+{
+  "id": 1226081875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2205,50.37358,13.2205,50.37358",
+    "geom:latitude":50.37358,
+    "geom:longitude":13.2205,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Suchy Dul",
+    "gn:country_code":"CZ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064729,
+    "gn:latitude":50.37358,
+    "gn:longitude":13.2205,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Such\u00fd D\u016fl",
+    "gn:population":10,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00f6rnthal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064729
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"81a2cf496d24e388e91b987bbf632db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226081875,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1226081875,
+    "wof:lastmodified":1537619286,
+    "wof:name":"Suchy Dul",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2205,
+    50.37358,
+    13.2205,
+    50.37358
+],
+  "geometry": {"coordinates":[13.2205,50.37358],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259720347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84641,50.69325,15.84641,50.69325",
+    "geom:latitude":50.69325,
+    "geom:longitude":15.84641,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Horni Alberice",
+    "gn:country_code":"CZ",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075456,
+    "gn:latitude":50.69325,
+    "gn:longitude":15.84641,
+    "gn:modification_date":"2012-11-14",
+    "gn:name":"Horn\u00ed Albe\u0159ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober-Albendorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075456
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1edec613cac9a895fed39c194329dcf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259720347,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1259720347,
+    "wof:lastmodified":1537619416,
+    "wof:name":"Horni Alberice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84641,
+    50.69325,
+    15.84641,
+    50.69325
+],
+  "geometry": {"coordinates":[15.84641,50.69325],"type":"Point"}
+}

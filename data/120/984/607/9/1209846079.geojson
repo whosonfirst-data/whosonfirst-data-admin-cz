@@ -1,0 +1,66 @@
+{
+  "id": 1209846079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86906,50.5662,14.86906,50.5662",
+    "geom:latitude":50.5662,
+    "geom:longitude":14.86906,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Horni Rokyta",
+    "gn:country_code":"CZ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075226,
+    "gn:latitude":50.5662,
+    "gn:longitude":14.86906,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Horn\u00ed Rokyt\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075226
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f001dd2e71719dc8ca4c7eca476e5075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209846079,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1209846079,
+    "wof:lastmodified":1536390604,
+    "wof:name":"Horni Rokyta",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86906,
+    50.5662,
+    14.86906,
+    50.5662
+],
+  "geometry": {"coordinates":[14.86906,50.5662],"type":"Point"}
+}

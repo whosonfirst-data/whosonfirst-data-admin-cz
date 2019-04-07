@@ -1,0 +1,109 @@
+{
+  "id": 85900951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7728388.517105,
+    "geom:bbox":"14.090881,50.165952,14.090881,50.165952",
+    "geom:latitude":50.165952,
+    "geom:longitude":14.090881,
+    "gn:latitude":50.16692,
+    "gn:longitude":14.10537,
+    "iso:country":"CZ",
+    "lbl:latitude":50.165952,
+    "lbl:longitude":14.090881,
+    "mps:latitude":50.177481,
+    "mps:longitude":14.126066,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:cze_x_preferred":[
+        "Svermov"
+    ],
+    "name:unk_x_variant":[
+        "Svermov"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3073699,
+    "qs:gn_nam_loc":"Kladno, Kladno, Kladno, St\u0159edo\u010desk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"88",
+    "qs:gn_name":"\u0160vermov",
+    "qs:local_max":341,
+    "qs:local_sum":376,
+    "qs:localhoods":3,
+    "qs:name":"Svermov",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs:name_adm2":"Kladno",
+    "qs:name_lau":"Kladno",
+    "qs:name_local":"Kladno",
+    "qs:photo_max":14,
+    "qs:photo_sum":18,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070468,
+    "qs:woe_adm2":12582583,
+    "qs:woe_lau":12608143,
+    "qs:woe_local":791229,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748131,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064527,
+        "gp:id":799386,
+        "qs:id":115837,
+        "qs_pg:id":115837
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dec04998a5c18432272607f685cfc3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748131,
+            "neighbourhood_id":85900951,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":85900951,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932408,
+    "wof:name":"Svermov",
+    "wof:parent_id":101748131,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.090881,
+    50.165952,
+    14.090881,
+    50.165952
+],
+  "geometry": {"coordinates":[14.090881,50.165952],"type":"Point"}
+}

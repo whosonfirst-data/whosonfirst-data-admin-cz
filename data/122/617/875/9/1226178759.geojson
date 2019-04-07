@@ -1,0 +1,70 @@
+{
+  "id": 1226178759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98429,50.17899,12.98429,50.17899",
+    "geom:latitude":50.17899,
+    "geom:longitude":12.98429,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Nova Viska",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069547,
+    "gn:latitude":50.17899,
+    "gn:longitude":12.98429,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Nov\u00e1 V\u00edska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neud\u00f6rfel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069547
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"de066a21ce1cfe227b6fc4852c5fbb38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226178759,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1226178759,
+    "wof:lastmodified":1537619343,
+    "wof:name":"Nova Viska",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98429,
+    50.17899,
+    12.98429,
+    50.17899
+],
+  "geometry": {"coordinates":[12.98429,50.17899],"type":"Point"}
+}

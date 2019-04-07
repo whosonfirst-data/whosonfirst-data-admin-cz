@@ -1,0 +1,70 @@
+{
+  "id": 1343396807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46874,50.93204,14.46874,50.93204",
+    "geom:latitude":50.93204,
+    "geom:longitude":14.46874,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Vlci Hora",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062723,
+    "gn:latitude":50.93204,
+    "gn:longitude":14.46874,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Vl\u010d\u00ed Hora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wolfsberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062723
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ad99b6078ac6ed7825099c87437f6531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343396807,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1343396807,
+    "wof:lastmodified":1537619267,
+    "wof:name":"Vlci Hora",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46874,
+    50.93204,
+    14.46874,
+    50.93204
+],
+  "geometry": {"coordinates":[14.46874,50.93204],"type":"Point"}
+}

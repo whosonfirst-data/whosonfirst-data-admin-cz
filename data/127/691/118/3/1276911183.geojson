@@ -1,0 +1,66 @@
+{
+  "id": 1276911183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92762,49.21322,13.92762,49.21322",
+    "geom:latitude":49.21322,
+    "geom:longitude":13.92762,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Svarysov",
+    "gn:country_code":"CZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064630,
+    "gn:latitude":49.21322,
+    "gn:longitude":13.92762,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Svary\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064630
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e87c1998e9ba6c09e7d48e152910198f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276911183,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276911183,
+    "wof:lastmodified":1536998409,
+    "wof:name":"Svarysov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92762,
+    49.21322,
+    13.92762,
+    49.21322
+],
+  "geometry": {"coordinates":[13.92762,49.21322],"type":"Point"}
+}

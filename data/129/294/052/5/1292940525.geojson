@@ -1,0 +1,66 @@
+{
+  "id": 1292940525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03242,50.5144,16.03242,50.5144",
+    "geom:latitude":50.5144,
+    "geom:longitude":16.03242,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Zalesi",
+    "gn:country_code":"CZ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061933,
+    "gn:latitude":50.5144,
+    "gn:longitude":16.03242,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Z\u00e1les\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061933
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fddd020da2a8edcd4825a937d1ef6fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292940525,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1292940525,
+    "wof:lastmodified":1537075517,
+    "wof:name":"Zalesi",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03242,
+    50.5144,
+    16.03242,
+    50.5144
+],
+  "geometry": {"coordinates":[16.03242,50.5144],"type":"Point"}
+}

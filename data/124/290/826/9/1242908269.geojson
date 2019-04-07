@@ -1,0 +1,66 @@
+{
+  "id": 1242908269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18067,49.24793,17.18067,49.24793",
+    "geom:latitude":49.24793,
+    "geom:longitude":17.18067,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0721",
+    "gn:asciiname":"Pornice",
+    "gn:country_code":"CZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067781,
+    "gn:latitude":49.24793,
+    "gn:longitude":17.18067,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Pornice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067781
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5caea15bf9465c7b85885c9d4ba78711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242908269,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1242908269,
+    "wof:lastmodified":1537081248,
+    "wof:name":"Pornice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18067000000001,
+    49.24793,
+    17.18067000000001,
+    49.24793
+],
+  "geometry": {"coordinates":[17.18067000000001,49.24793],"type":"Point"}
+}

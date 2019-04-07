@@ -1,0 +1,70 @@
+{
+  "id": 1242910397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38735,49.74179,18.38735,49.74179",
+    "geom:latitude":49.74179,
+    "geom:longitude":18.38735,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Vaclavovice u Frydku",
+    "gn:country_code":"CZ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063470,
+    "gn:latitude":49.74179,
+    "gn:longitude":18.38735,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"V\u00e1clavovice u Fr\u00fddku",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaclavovice",
+        "V\u00e1clavovice u Fr\u00fddku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063470
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e37e0c4288b57d4171c5eada79f5a84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242910397,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1242910397,
+    "wof:lastmodified":1537619275,
+    "wof:name":"Vaclavovice u Frydku",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38735,
+    49.74179,
+    18.38735,
+    49.74179
+],
+  "geometry": {"coordinates":[18.38735,49.74179],"type":"Point"}
+}

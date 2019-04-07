@@ -1,0 +1,79 @@
+{
+  "id": 1125786057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90433,50.00996,16.90433,50.00996",
+    "geom:latitude":50.00996,
+    "geom:longitude":16.90433,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1427,
+    "gn:population":1427,
+    "iso:country":"CZ",
+    "lbl:latitude":50.00996,
+    "lbl:longitude":16.90433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "\u010cesk\u00fd Bohd\u00edkov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076925,
+    "qs_pg:gn_pop":1427,
+    "qs_pg:name":"Doln\u00ed Bohd\u00edkov",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":580865,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076925,
+        "qs_pg:id":580865
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290679,
+    "wof:geomhash":"8a5185526f4cfa1659ac88d4740c1c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125786057,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125786057,
+    "wof:lastmodified":1509391955,
+    "wof:name":"Doln\u00ed Bohd\u00edkov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":1427,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90433,
+    50.00996,
+    16.90433,
+    50.00996
+],
+  "geometry": {"coordinates":[16.90433,50.00996],"type":"Point"}
+}

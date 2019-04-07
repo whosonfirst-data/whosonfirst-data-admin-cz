@@ -1,0 +1,107 @@
+{
+  "id": 101826611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":717672.281596,
+    "geom:bbox":"17.1526856675,49.5316488474,17.174699453,49.5386095279",
+    "geom:latitude":49.535416,
+    "geom:longitude":17.162998,
+    "iso:country":"CZ",
+    "lbl:latitude":49.534992,
+    "lbl:longitude":17.163164,
+    "mps:latitude":49.534992,
+    "mps:longitude":17.163164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ol\u0161any u Prost\u011bjova"
+    ],
+    "name:hun_x_preferred":[
+        "Ol\u0161any u Prost\u011bjova"
+    ],
+    "name:ita_x_preferred":[
+        "Ol\u0161any u Prost\u011bjova"
+    ],
+    "name:msa_x_preferred":[
+        "Ol\u0161any u Prost\u011bjova"
+    ],
+    "name:nld_x_preferred":[
+        "Ol\u0161any u Prost\u011bjova"
+    ],
+    "name:pol_x_preferred":[
+        "Ol\u0161any u Prost\u011bjova"
+    ],
+    "name:por_x_preferred":[
+        "Ol\u0161any u Prost\u011bjova"
+    ],
+    "name:slk_x_preferred":[
+        "Ol\u0161any u Prost\u011bjova"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043b\u0448\u0430\u043d\u0438 \u0443 \u041f\u0440\u043e\u0441\u0442\u0458\u0435\u0458\u043e\u0432\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "Ol\u0161any u Prost\u011bjova"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Olomouck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Ol\u0161any u Prost\u011bjova",
+    "qs:la_lc":"*CZ0713589829",
+    "qs:level":"locality",
+    "qs:loc":"Ol\u0161any u Prost\u011bjova",
+    "qs:loc_alt":"Olsany u Prostejova",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068997,
+        "gp:id":795434,
+        "qs:id":2,
+        "qs_pg:id":887221,
+        "wd:id":"Q1447678"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2019241f9d107f562e4a5580048672f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826611,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":101826611,
+    "wof:lastmodified":1527642504,
+    "wof:name":"Ol\u0161any u Prost\u011bjova",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15268566754759,
+    49.53164884741409,
+    17.17469945300576,
+    49.53860952786351
+],
+  "geometry": {"coordinates":[[[17.15596644694813,49.53860952786351],[17.17110205012352,49.53764662229048],[17.17057195664137,49.53406916951946],[17.17469945300576,49.53380622935452],[17.1745668699258,49.53291187049808],[17.16631198643438,49.5334375889027],[17.16604713878155,49.53164884741409],[17.16054399252323,49.53199897644134],[17.16067631324546,49.53289335485573],[17.15792466291134,49.53306832256163],[17.15805693972806,49.53396270419069],[17.1566810827552,49.53405016476773],[17.15681334067534,49.53494454775677],[17.15268566754759,49.5352068345249],[17.15295005164126,49.53699561014213],[17.1543259972442,49.5369081942672],[17.15445822348147,49.53780257948131],[17.15583418957561,49.53771514499726],[17.15596644694813,49.53860952786351]]],"type":"Polygon"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1226179171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34951,49.15524,16.34951,49.15524",
+    "geom:latitude":49.15524,
+    "geom:longitude":16.34951,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0623",
+    "gn:asciiname":"Zbysov",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061734,
+    "gn:latitude":49.15524,
+    "gn:longitude":16.34951,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Zb\u00fd\u0161ov",
+    "gn:population":3890,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zb\u00fd\u0161ov u Brna"
+    ],
+    "name:lav_x_preferred":[
+        "Zb\u012b\u0161ova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0431\u0438\u0448\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Zbeschau"
+    ],
+    "name:zho_x_preferred":[
+        "\u8332\u6bd4\u7d39\u592b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061734,
+        "wk:page":"Zb%C3%BD%C5%A1ov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4a9c3d449bd6a7ae1ab27f2fc2dde0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226179171,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1226179171,
+    "wof:lastmodified":1537619256,
+    "wof:name":"Zbysov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":3890,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34951,
+    49.15524,
+    16.34951,
+    49.15524
+],
+  "geometry": {"coordinates":[16.34951,49.15524],"type":"Point"}
+}

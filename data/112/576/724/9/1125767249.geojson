@@ -1,0 +1,125 @@
+{
+  "id": 1125767249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56228,50.40751,15.56228,50.40751",
+    "geom:latitude":50.40751,
+    "geom:longitude":15.56228,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":191,
+    "gn:population":191,
+    "iso:country":"CZ",
+    "lbl:latitude":50.40751,
+    "lbl:longitude":15.56228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:hun_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:may_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:nan_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0627\u0631\u0648\u0648\u062a\u0633\u0648\u0648\u0627 \u0644\u0647\u0648\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:por_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:rup_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u043e\u0432\u0446\u043e\u0432\u0430 \u041b\u0445\u043e\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "name:vie_x_preferred":[
+        "\u0160\u00e1rovcova Lhota"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066397,
+    "qs_pg:gn_pop":191,
+    "qs_pg:name":"\u0160\u00e1rovcova Lhota",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":94451,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066397,
+        "qs_pg:id":94451,
+        "wd:id":"Q962599"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497289942,
+    "wof:geomhash":"c96f9bf48dfa93ec71f9d2833f856d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125767249,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125767249,
+    "wof:lastmodified":1513946082,
+    "wof:name":"\u0160\u00e1rovcova Lhota",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":191,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56228,
+    50.40751,
+    15.56228,
+    50.40751
+],
+  "geometry": {"coordinates":[15.56228,50.40751],"type":"Point"}
+}

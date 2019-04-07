@@ -1,0 +1,66 @@
+{
+  "id": 1327064417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0783,49.93801,16.0783,49.93801",
+    "geom:latitude":49.93801,
+    "geom:longitude":16.0783,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Popovec",
+    "gn:country_code":"CZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067817,
+    "gn:latitude":49.93801,
+    "gn:longitude":16.0783,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Popovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067817
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8e316ad6433f93d7780e633509e8969f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327064417,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1327064417,
+    "wof:lastmodified":1536714586,
+    "wof:name":"Popovec",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0783,
+    49.93801,
+    16.0783,
+    49.93801
+],
+  "geometry": {"coordinates":[16.0783,49.93801],"type":"Point"}
+}

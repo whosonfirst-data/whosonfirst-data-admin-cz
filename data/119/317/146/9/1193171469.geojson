@@ -1,0 +1,70 @@
+{
+  "id": 1193171469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.77148,50.21466,12.77148,50.21466",
+    "geom:latitude":50.21466,
+    "geom:longitude":12.77148,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Podhori",
+    "gn:country_code":"CZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068091,
+    "gn:latitude":50.21466,
+    "gn:longitude":12.77148,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Podho\u0159\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hunschgr\u00fcn",
+        "Podho\u0159\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068091
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"be2bef22e77b5a2bd0f7b62679a1f10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193171469,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1193171469,
+    "wof:lastmodified":1537619325,
+    "wof:name":"Podhori",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.77148,
+    50.21466,
+    12.77148,
+    50.21466
+],
+  "geometry": {"coordinates":[12.77148,50.21466],"type":"Point"}
+}

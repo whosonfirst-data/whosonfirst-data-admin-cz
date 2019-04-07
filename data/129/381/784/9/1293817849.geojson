@@ -1,0 +1,70 @@
+{
+  "id": 1293817849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68635,50.45595,15.68635,50.45595",
+    "geom:latitude":50.45595,
+    "geom:longitude":15.68635,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Zvicina",
+    "gn:country_code":"CZ",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061305,
+    "gn:latitude":50.45595,
+    "gn:longitude":15.68635,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Zvi\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Switschin",
+        "Zvi\u010dina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061305
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f7aaaae08de08d01fabe70759674c89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293817849,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293817849,
+    "wof:lastmodified":1537619251,
+    "wof:name":"Zvicina",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68635,
+    50.45595,
+    15.68635,
+    50.45595
+],
+  "geometry": {"coordinates":[15.68635,50.45595],"type":"Point"}
+}

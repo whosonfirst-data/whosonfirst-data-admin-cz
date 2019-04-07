@@ -1,0 +1,98 @@
+{
+  "id": 1125910241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65954,49.78304,14.65954,49.78304",
+    "geom:latitude":49.78304,
+    "geom:longitude":14.65954,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":876,
+    "gn:population":876,
+    "iso:country":"CZ",
+    "lbl:latitude":49.78304,
+    "lbl:longitude":14.65954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Konopi\u0161t\u011b"
+    ],
+    "name:eng_x_preferred":[
+        "Konopi\u0161t\u011b"
+    ],
+    "name:fre_x_preferred":[
+        "Konopi\u0161t\u011b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u043e\u043f\u0438\u0441\u0442\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043d\u043e\u043f\u0438\u0448\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Konopi\u0161t\u011b"
+    ],
+    "name:unk_x_variant":[
+        "Konopischt"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3073286,
+    "qs_pg:gn_pop":876,
+    "qs_pg:name":"Konopi\u0161t\u011b",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1033363,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073286,
+        "qs_pg:id":1033363,
+        "wd:id":"Q12030059"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296116,
+    "wof:geomhash":"786a00443fe8947c1083015fa9d5cee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125910241,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125910241,
+    "wof:lastmodified":1553816620,
+    "wof:name":"Konopi\u0161t\u011b",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":876,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65954,
+    49.78304,
+    14.65954,
+    49.78304
+],
+  "geometry": {"coordinates":[14.65954,49.78304],"type":"Point"}
+}

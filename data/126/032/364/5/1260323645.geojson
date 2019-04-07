@@ -1,0 +1,66 @@
+{
+  "id": 1260323645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21854,49.97154,14.21854,49.97154",
+    "geom:latitude":49.97154,
+    "geom:longitude":14.21854,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0202",
+    "gn:asciiname":"Trneny Ujezd",
+    "gn:country_code":"CZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063976,
+    "gn:latitude":49.97154,
+    "gn:longitude":14.21854,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Trn\u011bn\u00fd \u00dajezd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063976
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"45da72be4fc8effa8c6773b6bb108922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260323645,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1260323645,
+    "wof:lastmodified":1536658047,
+    "wof:name":"Trneny Ujezd",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21854,
+    49.97154000000001,
+    14.21854,
+    49.97154000000001
+],
+  "geometry": {"coordinates":[14.21854,49.97154000000001],"type":"Point"}
+}

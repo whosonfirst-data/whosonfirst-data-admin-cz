@@ -1,0 +1,70 @@
+{
+  "id": 1293322971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96276,50.72342,13.96276,50.72342",
+    "geom:latitude":50.72342,
+    "geom:longitude":13.96276,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Varvazov",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063371,
+    "gn:latitude":50.72342,
+    "gn:longitude":13.96276,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Varva\u017eov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arbesau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063371
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5a07310cc6acc418e2846c4677ac9440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293322971,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1293322971,
+    "wof:lastmodified":1537619274,
+    "wof:name":"Varvazov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96276,
+    50.72342,
+    13.96276,
+    50.72342
+],
+  "geometry": {"coordinates":[13.96276,50.72342],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 85907633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2757548.755111,
+    "geom:bbox":"16.579196,49.214643,16.579196,49.214643",
+    "geom:latitude":49.214643,
+    "geom:longitude":16.579196,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":49.214643,
+    "lbl:longitude":16.579196,
+    "mps:latitude":49.213854,
+    "mps:longitude":16.577685,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:cze_x_colloquial":[
+        "Brno-Aaabovaaesky",
+        "Brno-Aabovaesky",
+        "Brno-Oabovresky",
+        "Brno-Zabovresky"
+    ],
+    "name:cze_x_preferred":[
+        "Brno-\u00c5abov\u00e5esky"
+    ],
+    "name:cze_x_variant":[
+        "Brno-\u0150abovresky"
+    ],
+    "name:unk_x_variant":[
+        "Brno-\u00c5abov\u00e5esky"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3078610,
+    "qs:local_max":6134,
+    "qs:local_sum":32721,
+    "qs:localhoods":44,
+    "qs:name":"Brno-\u00c5abov\u00e5esky",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs:name_adm2":"Brno-M\u011bsto",
+    "qs:name_lau":"Brno",
+    "qs:name_local":"Brno",
+    "qs:photo_max":384,
+    "qs:photo_sum":905,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070503,
+    "qs:woe_adm2":12582547,
+    "qs:woe_lau":12605174,
+    "qs:woe_local":786869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748109,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23406530,
+        "qs:id":1188491,
+        "qs_pg:id":1188491
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6ae443426f0d6a94535c606d59713900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748109,
+            "neighbourhood_id":85907633,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85907633,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531936613,
+    "wof:name":"Brno-\u00c5abov\u00e5esky",
+    "wof:parent_id":101748109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.579196,
+    49.214643,
+    16.579196,
+    49.214643
+],
+  "geometry": {"coordinates":[16.579196,49.214643],"type":"Point"}
+}

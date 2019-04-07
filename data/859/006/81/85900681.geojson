@@ -1,0 +1,119 @@
+{
+  "id": 85900681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12569973.718264,
+    "geom:bbox":"17.903749,49.938726,17.903749,49.938726",
+    "geom:latitude":49.938726,
+    "geom:longitude":17.903749,
+    "gn:latitude":49.94536,
+    "gn:longitude":17.92131,
+    "iso:country":"CZ",
+    "lbl:latitude":49.938726,
+    "lbl:longitude":17.903749,
+    "mps:latitude":49.943955,
+    "mps:longitude":17.910041,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:ces_x_preferred":[
+        "Kate\u0159inky"
+    ],
+    "name:cze_x_preferred":[
+        "Katerinky"
+    ],
+    "name:cze_x_variant":[
+        "Katharein"
+    ],
+    "name:pol_x_preferred":[
+        "Kate\u0159inky"
+    ],
+    "name:unk_x_variant":[
+        "Katharein",
+        "Katerinky"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3068927,
+    "qs:gn_nam_loc":"Opava, Opava, Opava, Moravskoslezsk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"85",
+    "qs:gn_name":"Kate\u0159inky",
+    "qs:local_max":125,
+    "qs:local_sum":125,
+    "qs:localhoods":1,
+    "qs:name":"Katerinky",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs:name_adm2":"Opava",
+    "qs:name_lau":"Opava",
+    "qs:name_local":"Opava",
+    "qs:photo_max":44,
+    "qs:photo_sum":125,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070471,
+    "qs:woe_adm2":12582576,
+    "qs:woe_lau":12607344,
+    "qs:woe_local":795499,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748117,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073760,
+        "gp:id":791174,
+        "qs:id":904813,
+        "qs_pg:id":904813
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a6b4cdefda2e2da95a58dbb21ad28e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748117,
+            "neighbourhood_id":85900681,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":85900681,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932366,
+    "wof:name":"Katerinky",
+    "wof:parent_id":101748117,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.903749,
+    49.938726,
+    17.903749,
+    49.938726
+],
+  "geometry": {"coordinates":[17.903749,49.938726],"type":"Point"}
+}

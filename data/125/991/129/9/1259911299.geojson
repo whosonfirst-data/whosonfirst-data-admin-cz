@@ -1,0 +1,66 @@
+{
+  "id": 1259911299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64995,49.53131,13.64995,49.53131",
+    "geom:latitude":49.53131,
+    "geom:longitude":13.64995,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0324",
+    "gn:asciiname":"Smetalky",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065745,
+    "gn:latitude":49.53131,
+    "gn:longitude":13.64995,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Smetalky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065745
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2a23b630dc67a6c6a102857d0440f2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259911299,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1259911299,
+    "wof:lastmodified":1536739019,
+    "wof:name":"Smetalky",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64995,
+    49.53131,
+    13.64995,
+    49.53131
+],
+  "geometry": {"coordinates":[13.64995,49.53131],"type":"Point"}
+}

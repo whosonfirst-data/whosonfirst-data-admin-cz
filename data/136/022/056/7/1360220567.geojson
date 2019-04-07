@@ -1,0 +1,69 @@
+{
+  "id": 1360220567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65362,50.74754,14.65362,50.74754",
+    "geom:latitude":50.74754,
+    "geom:longitude":14.65362,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Lindava",
+    "gn:country_code":"CZ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071847,
+    "gn:latitude":50.74754,
+    "gn:longitude":14.65362,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Lindava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lindenau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071847
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3914f2e45f88c58fde8379c1f9290325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360220567,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1360220567,
+    "wof:lastmodified":1537619373,
+    "wof:name":"Lindava",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65362,
+    50.74754,
+    14.65362,
+    50.74754
+],
+  "geometry": {"coordinates":[14.65362,50.74754],"type":"Point"}
+}

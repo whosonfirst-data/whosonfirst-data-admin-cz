@@ -1,0 +1,66 @@
+{
+  "id": 1276473787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22095,49.41036,16.22095,49.41036",
+    "geom:latitude":49.41036,
+    "geom:longitude":16.22095,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Mezibori",
+    "gn:country_code":"CZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070793,
+    "gn:latitude":49.41036,
+    "gn:longitude":16.22095,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Mezibo\u0159\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070793
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c2a8e17d254ba2a2ca65d9f429faf43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276473787,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1276473787,
+    "wof:lastmodified":1537084765,
+    "wof:name":"Mezibori",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22095,
+    49.41036,
+    16.22095,
+    49.41036
+],
+  "geometry": {"coordinates":[16.22095,49.41036],"type":"Point"}
+}

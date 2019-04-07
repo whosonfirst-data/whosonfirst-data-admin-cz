@@ -1,0 +1,112 @@
+{
+  "id": 85901025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":31011480.305599,
+    "geom:bbox":"16.452433,49.205239,16.452433,49.205239",
+    "geom:latitude":49.205239,
+    "geom:longitude":16.452433,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":49.205239,
+    "lbl:longitude":16.452433,
+    "mps:latitude":49.207906,
+    "mps:longitude":16.465422,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:cze_x_colloquial":[
+        "Brno-Aaebaettan",
+        "Brno-Aebattan",
+        "Brno-Zebetin"
+    ],
+    "name:cze_x_preferred":[
+        "Brno-\u00c5eb\u00e4\u0167t\u00e3n"
+    ],
+    "name:cze_x_variant":[
+        "Schebetein",
+        "Zebetin"
+    ],
+    "name:unk_x_variant":[
+        "Brno-\u00c5eb\u00e4\u0167t\u00e3n"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3078610,
+    "qs:local_max":6134,
+    "qs:local_sum":32721,
+    "qs:localhoods":44,
+    "qs:name":"Brno-\u00c5eb\u00e4\u0167t\u00e3n",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs:name_adm2":"Brno-M\u011bsto",
+    "qs:name_lau":"Brno",
+    "qs:name_local":"Brno",
+    "qs:photo_max":567,
+    "qs:photo_sum":2888,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":72,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070503,
+    "qs:woe_adm2":12582547,
+    "qs:woe_lau":12605174,
+    "qs:woe_local":786869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":801961,
+        "qs:id":1082946,
+        "qs_pg:id":1082946
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"70ed8296ff615f469a427795cf53ed60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85901025,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85901025,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932421,
+    "wof:name":"Brno-\u00c5eb\u00e4\u0167t\u00e3n",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.452433,
+    49.205239,
+    16.452433,
+    49.205239
+],
+  "geometry": {"coordinates":[16.452433,49.205239],"type":"Point"}
+}

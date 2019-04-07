@@ -1,0 +1,140 @@
+{
+  "id": 1126027803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91006,50.09501,14.91006,50.09501",
+    "geom:latitude":50.09501,
+    "geom:longitude":14.91006,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":820,
+    "gn:population":820,
+    "iso:country":"CZ",
+    "lbl:latitude":50.09501,
+    "lbl:longitude":14.91006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:dut_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:eng_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:fre_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:ger_x_preferred":[
+        "Klu\u010dov u \u010cesk\u00e9ho Brodu"
+    ],
+    "name:hun_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:ita_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:may_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:nan_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:pol_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:por_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:rup_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0443\u0447\u043e\u0432"
+    ],
+    "name:slo_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0443\u0447\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "name:vie_x_preferred":[
+        "Klu\u010dov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3073556,
+    "qs_pg:gn_pop":820,
+    "qs_pg:name":"Klu\u010dov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":319272,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":791348,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073556,
+        "gp:id":791348,
+        "qs_pg:id":319272,
+        "wd:id":"Q665073"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497301250,
+    "wof:geomhash":"3d8c76599359f54c9f0335ebf8fc0a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126027803,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1126027803,
+    "wof:lastmodified":1553816709,
+    "wof:name":"Klu\u010dov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":820,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91006,
+    50.09501,
+    14.91006,
+    50.09501
+],
+  "geometry": {"coordinates":[14.91006,50.09501],"type":"Point"}
+}

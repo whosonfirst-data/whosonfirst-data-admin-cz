@@ -1,0 +1,66 @@
+{
+  "id": 1210047225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04671,49.02377,16.04671,49.02377",
+    "geom:latitude":49.02377,
+    "geom:longitude":16.04671,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0627",
+    "gn:asciiname":"Frantiskov",
+    "gn:country_code":"CZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076148,
+    "gn:latitude":49.02377,
+    "gn:longitude":16.04671,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Franti\u0161kov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076148
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a68bc8f9b96f0b82caa18bdbf0780347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1210047225,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1210047225,
+    "wof:lastmodified":1536377651,
+    "wof:name":"Frantiskov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04671,
+    49.02377,
+    16.04671,
+    49.02377
+],
+  "geometry": {"coordinates":[16.04671,49.02377],"type":"Point"}
+}

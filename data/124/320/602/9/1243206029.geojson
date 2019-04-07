@@ -1,0 +1,66 @@
+{
+  "id": 1243206029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75113,49.35347,15.75113,49.35347",
+    "geom:latitude":49.35347,
+    "geom:longitude":15.75113,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Vrzanov",
+    "gn:country_code":"CZ",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062386,
+    "gn:latitude":49.35347,
+    "gn:longitude":15.75113,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Vr\u017eanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062386
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"60c5ae882b4a2f224292e373aacf0cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243206029,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1243206029,
+    "wof:lastmodified":1536655291,
+    "wof:name":"Vrzanov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75113,
+    49.35347,
+    15.75113,
+    49.35347
+],
+  "geometry": {"coordinates":[15.75113,49.35347],"type":"Point"}
+}

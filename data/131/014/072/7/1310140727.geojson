@@ -1,0 +1,88 @@
+{
+  "id": 1310140727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28846,49.96391,15.28846,49.96391",
+    "geom:latitude":49.96391,
+    "geom:longitude":15.28846,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Sedlec",
+    "gn:country_code":"CZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066323,
+    "gn:latitude":49.96391,
+    "gn:longitude":15.28846,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Sedlec",
+    "gn:population":1098,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Sedlec"
+    ],
+    "name:deu_x_preferred":[
+        "Sedletz"
+    ],
+    "name:eng_x_preferred":[
+        "Sedlec"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0434\u043b\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0434\u043b\u0456\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sedletz",
+        "Sedlec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066323
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4e4e3ee67ebfbc94a0593547505dc410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310140727,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1310140727,
+    "wof:lastmodified":1537619306,
+    "wof:name":"Sedlec",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":1098,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28846,
+    49.96391,
+    15.28846,
+    49.96391
+],
+  "geometry": {"coordinates":[15.28846,49.96391],"type":"Point"}
+}

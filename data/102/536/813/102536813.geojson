@@ -1,0 +1,81 @@
+{
+  "id": 102536813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7083,49.3911,14.7083,49.3911",
+    "geom:latitude":49.3911,
+    "geom:longitude":14.7083,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Debre Tabor Airport"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Debre Tabor"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Debre Tabor"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Debre Tabor"
+    ],
+    "name:swe_x_preferred":[
+        "Debre Tabor Airport"
+    ],
+    "oa:elevation_ft":"1440",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":17,
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582544,
+        "localadmin_id":12604556,
+        "planet_id":1,
+        "state_id":20070502
+    },
+    "wof:belongsto":[
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512571,
+        "icao:code":"LKTA",
+        "oa:id":"30458",
+        "wd:id":"Q12033124"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"867315958db8b47a4d957b9e5545e5a7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536813,
+            "country_id":85633105,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":102536813,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Tabor Airport",
+    "wof:parent_id":85682415,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.7083,
+    49.3911,
+    14.7083,
+    49.3911
+],
+  "geometry": {"coordinates":[14.7083,49.3911],"type":"Point"}
+}

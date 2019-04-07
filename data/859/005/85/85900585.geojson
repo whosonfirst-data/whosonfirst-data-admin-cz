@@ -1,0 +1,128 @@
+{
+  "id": 85900585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000343,
+    "geom:area_square_m":2725087.635332,
+    "geom:bbox":"14.5788574219,50.071242818,14.5997795618,50.0944071272",
+    "geom:latitude":50.082906,
+    "geom:longitude":14.588892,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.09017,
+    "lbl:longitude":14.583019,
+    "mps:latitude":50.082918,
+    "mps:longitude":14.588692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:arm_x_preferred":[
+        "\u0534\u0578\u056c\u0576\u056b \u054a\u0580\u0578\u0579\u0565\u0580\u0576\u056b\u0581\u0565"
+    ],
+    "name:cze_x_colloquial":[
+        "Dolni Pocernice",
+        "Praha 9-DolnA PoAeernice",
+        "Praha 9-DolnA PoAernice",
+        "Praha 9-Dolni Pocernice",
+        "Praha-DolnA PoAeernice",
+        "Praha-DolnA PoAernice",
+        "Praha-Dolni Pocernice",
+        "Unter Pocernitz"
+    ],
+    "name:cze_x_preferred":[
+        "Praha-Doln\u00e3 Po\u00e4ernice"
+    ],
+    "name:cze_x_variant":[
+        "Doln\u00ed Po\u010dernice",
+        "Praha 9-Doln\u00e3 Po\u00e4ernice",
+        "Praha-Doln\u00ed Pocernice",
+        "Unter Po\u010dernitz",
+        "Praha-Doln\u00ed Po\u010dernice"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00ed Po\u010dernice"
+    ],
+    "name:eng_x_preferred_x_preferred":[
+        "Praha-Doln\u00e3 Po\u00e4ernice"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00ed Po\u010dernice"
+    ],
+    "name:ger_x_preferred":[
+        "Doln\u00ed Po\u010dernice"
+    ],
+    "name:hun_x_preferred":[
+        "Doln\u00ed Po\u010dernice"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u06cc \u067e\u0648\u062a\u0634\u0631\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Doln\u00ed Po\u010dernice"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00ed Po\u010dernice"
+    ],
+    "name:swe_x_preferred":[
+        "Doln\u00ed Po\u010dernice"
+    ],
+    "name:unk_x_variant":[
+        "Unter Po\u010dernitz"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076735,
+        "gp:id":788538,
+        "qs:id":1003964,
+        "qs_pg:id":1003964,
+        "wd:id":"Q3489932"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a51d6d582a6b74a14c913c3447583318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "neighbourhood_id":85900585,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900585,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1536864509,
+    "wof:name":"Dolni Pocernice",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57885742187523,
+    50.07124281802528,
+    14.59977956176789,
+    50.09440712720409
+],
+  "geometry": {"coordinates":[[[14.58370283347421,50.09440712720409],[14.58435058592499,50.09415470152551],[14.58532223848846,50.09415470152551],[14.58984375000006,50.09063094277521],[14.59977956176789,50.09063094277521],[14.59808349610006,50.08534433272548],[14.59808349610006,50.08181953727531],[14.59864901764354,50.08005694512538],[14.59582082771612,50.07124281802528],[14.59049166961313,50.07124281802528],[14.58603045128194,50.07587697812166],[14.58435058592499,50.0765313720503],[14.57885742187523,50.0765313720503],[14.57885742188483,50.08181960210008],[14.57885742188341,50.08534433272548],[14.57885742188341,50.08534439750007],[14.57885742188552,50.08886886900014],[14.57885742190001,50.08886893380004],[14.57885746345363,50.0888689337982],[14.58111859336003,50.0923931461253],[14.58370283347421,50.09440712720409]]],"type":"Polygon"}
+}

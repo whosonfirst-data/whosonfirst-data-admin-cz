@@ -1,0 +1,126 @@
+{
+  "id": 85900771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2160663.166207,
+    "geom:bbox":"16.652012,49.217848,16.652012,49.217848",
+    "geom:latitude":49.217848,
+    "geom:longitude":16.652012,
+    "gn:latitude":49.22219,
+    "gn:longitude":16.65819,
+    "iso:country":"CZ",
+    "lbl:latitude":49.217848,
+    "lbl:longitude":16.652012,
+    "mps:latitude":49.217347,
+    "mps:longitude":16.654966,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:cze_x_preferred":[
+        "Malomerice"
+    ],
+    "name:cze_x_variant":[
+        "Malomeritz",
+        "Malom\u011b\u0159ice"
+    ],
+    "name:eng_x_preferred":[
+        "Malom\u011b\u0159ice"
+    ],
+    "name:fre_x_preferred":[
+        "Malom\u011b\u0159ice"
+    ],
+    "name:pol_x_preferred":[
+        "Malom\u011b\u0159ice"
+    ],
+    "name:slo_x_preferred":[
+        "Malom\u011b\u0159ice"
+    ],
+    "name:unk_x_variant":[
+        "Malom\u011b\u0159itz",
+        "Malomerice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3078610,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Malom\u011b\u0159ice",
+    "qs:local_max":6134,
+    "qs:local_sum":32721,
+    "qs:localhoods":44,
+    "qs:name":"Malomerice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs:name_adm2":"Brno-M\u011bsto",
+    "qs:name_lau":"Brno",
+    "qs:name_local":"Brno",
+    "qs:photo_max":50,
+    "qs:photo_sum":166,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070503,
+    "qs:woe_adm2":12582547,
+    "qs:woe_lau":12605174,
+    "qs:woe_local":786869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748109,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071116,
+        "gp:id":793514,
+        "qs:id":1031478,
+        "qs_pg:id":1031478,
+        "wd:id":"Q12035017"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"09a86037926611ed34860a9cd83d3b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748109,
+            "neighbourhood_id":85900771,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85900771,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932379,
+    "wof:name":"Malomerice",
+    "wof:parent_id":101748109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.652012,
+    49.217848,
+    16.652012,
+    49.217848
+],
+  "geometry": {"coordinates":[16.652012,49.217848],"type":"Point"}
+}

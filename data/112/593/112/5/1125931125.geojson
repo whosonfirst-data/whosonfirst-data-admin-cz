@@ -1,0 +1,147 @@
+{
+  "id": 1125931125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48075,49.12167,17.48075,49.12167",
+    "geom:latitude":49.12167,
+    "geom:longitude":17.48075,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1754,
+    "gn:population":1754,
+    "iso:country":"CZ",
+    "lbl:latitude":49.12167,
+    "lbl:longitude":17.48075,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Babice"
+    ],
+    "name:dut_x_preferred":[
+        "Babice"
+    ],
+    "name:eng_x_preferred":[
+        "Babice"
+    ],
+    "name:epo_x_preferred":[
+        "Babice"
+    ],
+    "name:fre_x_preferred":[
+        "Babice"
+    ],
+    "name:ger_x_preferred":[
+        "Babice u Uhersk\u00e9ho Hradi\u0161t\u011b"
+    ],
+    "name:hun_x_preferred":[
+        "Babice"
+    ],
+    "name:ita_x_preferred":[
+        "Babice"
+    ],
+    "name:kur_x_preferred":[
+        "Babice"
+    ],
+    "name:may_x_preferred":[
+        "Babice"
+    ],
+    "name:nan_x_preferred":[
+        "Babice"
+    ],
+    "name:pol_x_preferred":[
+        "Babice"
+    ],
+    "name:por_x_preferred":[
+        "Babice"
+    ],
+    "name:rup_x_preferred":[
+        "Babice"
+    ],
+    "name:slo_x_preferred":[
+        "Babice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Babice"
+    ],
+    "name:vie_x_preferred":[
+        "Babice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079732,
+    "qs_pg:gn_pop":1754,
+    "qs_pg:name":"Babice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1043112,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":785896,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079732,
+        "gp:id":785896,
+        "qs_pg:id":1043112,
+        "wd:id":"Q797688"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296808,
+    "wof:geomhash":"31e1855d44c45a0c85718400edcc77aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125931125,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125931125,
+    "wof:lastmodified":1553816639,
+    "wof:name":"Babice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":1754,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[
+        101779897
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48075,
+    49.12167,
+    17.48075,
+    49.12167
+],
+  "geometry": {"coordinates":[17.48075,49.12167],"type":"Point"}
+}

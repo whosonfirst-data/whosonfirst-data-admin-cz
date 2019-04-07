@@ -1,0 +1,70 @@
+{
+  "id": 1293723131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7239,48.91562,13.7239,48.91562",
+    "geom:latitude":48.91562,
+    "geom:longitude":13.7239,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Korenny",
+    "gn:country_code":"CZ",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073242,
+    "gn:latitude":48.91562,
+    "gn:longitude":13.7239,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Kor\u011bnn\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schl\u00f6sselbach",
+        "Kor\u011bnn\u00fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073242
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8b100a2385d1091e6363e089c347ac32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293723131,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293723131,
+    "wof:lastmodified":1537619389,
+    "wof:name":"Korenny",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7239,
+    48.91562,
+    13.7239,
+    48.91562
+],
+  "geometry": {"coordinates":[13.7239,48.91562],"type":"Point"}
+}

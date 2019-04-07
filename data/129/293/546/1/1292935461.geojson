@@ -1,0 +1,66 @@
+{
+  "id": 1292935461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91593,49.87442,15.91593,49.87442",
+    "geom:latitude":49.87442,
+    "geom:longitude":15.91593,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Mezihori",
+    "gn:country_code":"CZ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070786,
+    "gn:latitude":49.87442,
+    "gn:longitude":15.91593,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Meziho\u0159\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070786
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"22bba73f195d206ec190ec25e11ae3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292935461,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1292935461,
+    "wof:lastmodified":1537082842,
+    "wof:name":"Mezihori",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91593,
+    49.87442,
+    15.91593,
+    49.87442
+],
+  "geometry": {"coordinates":[15.91593,49.87442],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209751327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53806,50.08003,12.53806,50.08003",
+    "geom:latitude":50.08003,
+    "geom:longitude":12.53806,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Mokrina",
+    "gn:country_code":"CZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070381,
+    "gn:latitude":50.08003,
+    "gn:longitude":12.53806,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Mok\u0159ina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krottensee",
+        "Mok\u0159ina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070381
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"61773696b96542a1ff7af4499403072b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209751327,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1209751327,
+    "wof:lastmodified":1537619354,
+    "wof:name":"Mokrina",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53806,
+    50.08003,
+    12.53806,
+    50.08003
+],
+  "geometry": {"coordinates":[12.53806,50.08003],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343891833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45877,49.10763,15.45877,49.10763",
+    "geom:latitude":49.10763,
+    "geom:longitude":15.45877,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Maly Pecin",
+    "gn:country_code":"CZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071072,
+    "gn:latitude":49.10763,
+    "gn:longitude":15.45877,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Mal\u00fd P\u011b\u010d\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071072
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"21d516006c952eea9fce44b26a5d9d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343891833,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343891833,
+    "wof:lastmodified":1536619215,
+    "wof:name":"Maly Pecin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45877,
+    49.10763,
+    15.45877,
+    49.10763
+],
+  "geometry": {"coordinates":[15.45877,49.10763],"type":"Point"}
+}

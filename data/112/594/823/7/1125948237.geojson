@@ -1,0 +1,92 @@
+{
+  "id": 1125948237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48207,50.06029,16.48207,50.06029",
+    "geom:latitude":50.06029,
+    "geom:longitude":16.48207,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1066,
+    "gn:population":1066,
+    "iso:country":"CZ",
+    "lbl:latitude":50.06029,
+    "lbl:longitude":16.48207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071381,
+    "qs_pg:gn_pop":1066,
+    "qs_pg:name":"Lukavice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":218901,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793285,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071381,
+        "gp:id":793285,
+        "qs_pg:id":218901
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297363,
+    "wof:geomhash":"10a3d82e774c9c998ae8fbe90d286ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125948237,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125948237,
+    "wof:lastmodified":1534379267,
+    "wof:name":"Lukavice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":1066,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[
+        101825279
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48207,
+    50.06029,
+    16.48207,
+    50.06029
+],
+  "geometry": {"coordinates":[16.48207,50.06029],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276374341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.19013,49.28884,13.19013,49.28884",
+    "geom:latitude":49.28884,
+    "geom:longitude":13.19013,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Ziznetice",
+    "gn:country_code":"CZ",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061409,
+    "gn:latitude":49.28884,
+    "gn:longitude":13.19013,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"\u017dizn\u011btice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schiessnetitz",
+        "\u017dizn\u011btice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061409
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"04a01c9ed422ef2ee9200b5210b89792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276374341,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1276374341,
+    "wof:lastmodified":1537619253,
+    "wof:name":"Ziznetice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.19013,
+    49.28884,
+    13.19013,
+    49.28884
+],
+  "geometry": {"coordinates":[13.19013,49.28884],"type":"Point"}
+}

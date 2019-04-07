@@ -1,0 +1,70 @@
+{
+  "id": 1259618325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,48.75,14.16667,48.75",
+    "geom:latitude":48.75,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Mytina",
+    "gn:country_code":"CZ",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070146,
+    "gn:latitude":48.75,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"M\u00fdtina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reichetschlag",
+        "M\u00fdtina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070146
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"aa6a3e020b71f314e008ad7b443cccbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259618325,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259618325,
+    "wof:lastmodified":1537619351,
+    "wof:name":"Mytina",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    48.75,
+    14.16667,
+    48.75
+],
+  "geometry": {"coordinates":[14.16667,48.75],"type":"Point"}
+}

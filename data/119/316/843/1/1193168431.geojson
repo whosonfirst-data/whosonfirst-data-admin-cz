@@ -1,0 +1,70 @@
+{
+  "id": 1193168431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48769,49.04948,13.48769,49.04948",
+    "geom:latitude":49.04948,
+    "geom:longitude":13.48769,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Schatzova Myt'",
+    "gn:country_code":"CZ",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066376,
+    "gn:latitude":49.04948,
+    "gn:longitude":13.48769,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Sch\u00e4tzova Myt\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sch\u00e4tzenreith",
+        "Sch\u00e4tzova Myt\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066376
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6c31100eed9619d8e58b7ae1fc96e98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193168431,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1193168431,
+    "wof:lastmodified":1537619307,
+    "wof:name":"Schatzova Myt'",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48769,
+    49.04948,
+    13.48769,
+    49.04948
+],
+  "geometry": {"coordinates":[13.48769,49.04948],"type":"Point"}
+}

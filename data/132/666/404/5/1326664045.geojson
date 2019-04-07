@@ -1,0 +1,70 @@
+{
+  "id": 1326664045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20637,50.283,13.20637,50.283",
+    "geom:latitude":50.283,
+    "geom:longitude":13.20637,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Obrovice",
+    "gn:country_code":"CZ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069177,
+    "gn:latitude":50.283,
+    "gn:longitude":13.20637,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Obrovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wobern",
+        "Obrovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069177
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ec36dedadc4e76ff3e4b0bc3d799b8f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326664045,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1326664045,
+    "wof:lastmodified":1537619336,
+    "wof:name":"Obrovice",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20637,
+    50.283,
+    13.20637,
+    50.283
+],
+  "geometry": {"coordinates":[13.20637,50.283],"type":"Point"}
+}

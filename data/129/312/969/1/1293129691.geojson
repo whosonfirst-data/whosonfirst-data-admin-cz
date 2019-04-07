@@ -1,0 +1,66 @@
+{
+  "id": 1293129691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93333,49.0,13.93333,49.0",
+    "geom:latitude":49.0,
+    "geom:longitude":13.93333,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Saladin",
+    "gn:country_code":"CZ",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066436,
+    "gn:latitude":49.0,
+    "gn:longitude":13.93333,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Salad\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066436
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cdc305ccecd5d6adfdd2ef0bab0ce54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293129691,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293129691,
+    "wof:lastmodified":1536805853,
+    "wof:name":"Saladin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93333,
+    49.0,
+    13.93333,
+    49.0
+],
+  "geometry": {"coordinates":[13.93333,49.0],"type":"Point"}
+}

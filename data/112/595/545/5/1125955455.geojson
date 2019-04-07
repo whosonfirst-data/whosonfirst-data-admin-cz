@@ -1,0 +1,76 @@
+{
+  "id": 1125955455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64466,50.00877,15.64466,50.00877",
+    "geom:latitude":50.00877,
+    "geom:longitude":15.64466,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":247,
+    "gn:population":247,
+    "iso:country":"CZ",
+    "lbl:latitude":50.00877,
+    "lbl:longitude":15.64466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079417,
+    "qs_pg:gn_pop":247,
+    "qs_pg:name":"Bezd\u011bkov",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":580875,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079417,
+        "qs_pg:id":580875
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297606,
+    "wof:geomhash":"c28d0e327bf40c97c871daf9d915948c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125955455,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125955455,
+    "wof:lastmodified":1509402973,
+    "wof:name":"Bezd\u011bkov",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":247,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64466,
+    50.00877,
+    15.64466,
+    50.00877
+],
+  "geometry": {"coordinates":[15.64466,50.00877],"type":"Point"}
+}

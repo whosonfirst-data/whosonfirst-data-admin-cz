@@ -1,0 +1,138 @@
+{
+  "id": 1125851647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79078,49.54901,16.79078,49.54901",
+    "geom:latitude":49.54901,
+    "geom:longitude":16.79078,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1002,
+    "gn:population":1002,
+    "iso:country":"CZ",
+    "lbl:latitude":49.54901,
+    "lbl:longitude":16.79078,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:dut_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:eng_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:fre_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:ger_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:hun_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:ita_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:may_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0648\u0631\u0646\u06cc \u0634\u062a\u06cc\u067e\u0627\u0646\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:por_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:rup_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:slo_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u045a\u0438 \u0428\u0442\u0458\u0435\u043f\u0430\u043d\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "name:unk_x_variant":[
+        "Stefanau"
+    ],
+    "name:vie_x_preferred":[
+        "Horn\u00ed \u0160t\u011bp\u00e1nov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075193,
+    "qs_pg:gn_pop":1002,
+    "qs_pg:name":"Horn\u00ed \u0160t\u011bp\u00e1nov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1266097,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":789919,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075193,
+        "gp:id":789919,
+        "qs_pg:id":1266097,
+        "wd:id":"Q1628812"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293432,
+    "wof:geomhash":"4adfdcd912bff4c131fb2151322ac955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125851647,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125851647,
+    "wof:lastmodified":1513945037,
+    "wof:name":"Horn\u00ed \u0160t\u011bp\u00e1nov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":1002,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79078,
+    49.54901,
+    16.79078,
+    49.54901
+],
+  "geometry": {"coordinates":[16.79078,49.54901],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293143089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02072,49.91107,17.02072,49.91107",
+    "geom:latitude":49.91107,
+    "geom:longitude":17.02072,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Horni Olesna",
+    "gn:country_code":"CZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075273,
+    "gn:latitude":49.91107,
+    "gn:longitude":17.02072,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Horn\u00ed Ole\u0161n\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober-Ullischen",
+        "Horn\u00ed Ole\u0161n\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075273
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"aead946a59c2629e7e031e6767ba39d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293143089,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1293143089,
+    "wof:lastmodified":1537619412,
+    "wof:name":"Horni Olesna",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02072,
+    49.91107,
+    17.02072,
+    49.91107
+],
+  "geometry": {"coordinates":[17.02072,49.91107],"type":"Point"}
+}

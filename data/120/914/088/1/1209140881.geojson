@@ -1,0 +1,62 @@
+{
+  "id": 1209140881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67781,49.22584,13.67781,49.22584",
+    "geom:latitude":49.22584,
+    "geom:longitude":13.67781,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Macice",
+    "gn:country_code":"CZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071283,
+    "gn:latitude":49.22584,
+    "gn:longitude":13.67781,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ma\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071283
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"350a14235dd06896d562a363d214f107",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209140881
+        }
+    ],
+    "wof:id":1209140881,
+    "wof:lastmodified":1536296509,
+    "wof:name":"Macice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67781,
+    49.22584000000001,
+    13.67781,
+    49.22584000000001
+],
+  "geometry": {"coordinates":[13.67781,49.22584000000001],"type":"Point"}
+}

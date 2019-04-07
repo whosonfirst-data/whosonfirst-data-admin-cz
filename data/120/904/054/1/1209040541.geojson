@@ -1,0 +1,62 @@
+{
+  "id": 1209040541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25352,49.84566,16.25352,49.84566",
+    "geom:latitude":49.84566,
+    "geom:longitude":16.25352,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Jirikov",
+    "gn:country_code":"CZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074121,
+    "gn:latitude":49.84566,
+    "gn:longitude":16.25352,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Ji\u0159\u00edkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074121
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e90d0fe48ec579872fe2971d14084edc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209040541
+        }
+    ],
+    "wof:id":1209040541,
+    "wof:lastmodified":1536299559,
+    "wof:name":"Jirikov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25352,
+    49.84566,
+    16.25352,
+    49.84566
+],
+  "geometry": {"coordinates":[16.25352,49.84566],"type":"Point"}
+}

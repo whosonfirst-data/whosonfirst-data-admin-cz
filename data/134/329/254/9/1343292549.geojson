@@ -1,0 +1,70 @@
+{
+  "id": 1343292549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37801,50.2334,16.37801,50.2334",
+    "geom:latitude":50.2334,
+    "geom:longitude":16.37801,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Kacerov",
+    "gn:country_code":"CZ",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074032,
+    "gn:latitude":50.2334,
+    "gn:longitude":16.37801,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Ka\u010derov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u010der",
+        "Ka\u010derov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074032
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9826b10b3d131161da59988b177c4ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343292549,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1343292549,
+    "wof:lastmodified":1537619396,
+    "wof:name":"Kacerov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37801,
+    50.2334,
+    16.37801,
+    50.2334
+],
+  "geometry": {"coordinates":[16.37801,50.2334],"type":"Point"}
+}

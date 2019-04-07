@@ -1,0 +1,70 @@
+{
+  "id": 1277012985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86157,49.85785,12.86157,49.85785",
+    "geom:latitude":49.85785,
+    "geom:longitude":12.86157,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Horni Viska",
+    "gn:country_code":"CZ",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075151,
+    "gn:latitude":49.85785,
+    "gn:longitude":12.86157,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Horn\u00ed V\u00edska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober D\u00f6rfles",
+        "Horn\u00ed V\u00edska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075151
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9499a40f06d50164a643cb2b638c5638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277012985,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1277012985,
+    "wof:lastmodified":1537619409,
+    "wof:name":"Horni Viska",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86157,
+    49.85785,
+    12.86157,
+    49.85785
+],
+  "geometry": {"coordinates":[12.86157,49.85785],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243206143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97704,50.54976,15.97704,50.54976",
+    "geom:latitude":50.54976,
+    "geom:longitude":15.97704,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Bohuslavice nad Upou",
+    "gn:country_code":"CZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079106,
+    "gn:latitude":50.54976,
+    "gn:longitude":15.97704,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Bohuslavice nad \u00dapou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bausnitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079106
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6e8a7dc1dab01097a795adccc5d02117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243206143,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1243206143,
+    "wof:lastmodified":1537619458,
+    "wof:name":"Bohuslavice nad Upou",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97704,
+    50.54976,
+    15.97704,
+    50.54976
+],
+  "geometry": {"coordinates":[15.97704,50.54976],"type":"Point"}
+}

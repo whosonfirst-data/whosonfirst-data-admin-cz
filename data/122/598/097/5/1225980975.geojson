@@ -1,0 +1,70 @@
+{
+  "id": 1225980975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.74862,48.9719,17.74862,48.9719",
+    "geom:latitude":48.9719,
+    "geom:longitude":17.74862,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0722",
+    "gn:asciiname":"Ordejov",
+    "gn:country_code":"CZ",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068900,
+    "gn:latitude":48.9719,
+    "gn:longitude":17.74862,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Ord\u011bjov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dv\u016dr Ord\u011bjov",
+        "Ord\u011bjov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068900
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3757154b6186c815696884987ed2ef3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225980975,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1225980975,
+    "wof:lastmodified":1537619333,
+    "wof:name":"Ordejov",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.74862000000001,
+    48.9719,
+    17.74862000000001,
+    48.9719
+],
+  "geometry": {"coordinates":[17.74862000000001,48.9719],"type":"Point"}
+}

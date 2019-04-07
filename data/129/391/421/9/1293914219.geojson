@@ -1,0 +1,71 @@
+{
+  "id": 1293914219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91667,50.66667,13.91667,50.66667",
+    "geom:latitude":50.66667,
+    "geom:longitude":13.91667,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Zaluzany",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061912,
+    "gn:latitude":50.66667,
+    "gn:longitude":13.91667,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Zalu\u017eany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Senseln",
+        "Zalu\u017eany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061912
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d6eee4ae1a604cc1f9e2e7e9d92a79e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293914219,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1293914219,
+    "wof:lastmodified":1537619258,
+    "wof:name":"Zaluzany",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91667,
+    50.66667,
+    13.91667,
+    50.66667
+],
+  "geometry": {"coordinates":[13.91667,50.66667],"type":"Point"}
+}

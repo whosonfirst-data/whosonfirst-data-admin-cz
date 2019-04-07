@@ -1,0 +1,66 @@
+{
+  "id": 1243101019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64695,49.70852,13.64695,49.70852",
+    "geom:latitude":49.70852,
+    "geom:longitude":13.64695,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0326",
+    "gn:asciiname":"Chylice",
+    "gn:country_code":"CZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077463,
+    "gn:latitude":49.70852,
+    "gn:longitude":13.64695,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Chylice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077463
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1bedcd340d8bd0a1c5cb45adbde755da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243101019,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1243101019,
+    "wof:lastmodified":1536806253,
+    "wof:name":"Chylice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64695,
+    49.70852,
+    13.64695,
+    49.70852
+],
+  "geometry": {"coordinates":[13.64695,49.70852],"type":"Point"}
+}

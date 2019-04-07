@@ -1,0 +1,66 @@
+{
+  "id": 1310436211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45955,50.1379,15.45955,50.1379",
+    "geom:latitude":50.1379,
+    "geom:longitude":15.45955,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Lucice",
+    "gn:country_code":"CZ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071442,
+    "gn:latitude":50.1379,
+    "gn:longitude":15.45955,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Lu\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071442
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"93e06e68ee38d5157bbe341d190b033f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310436211,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1310436211,
+    "wof:lastmodified":1537016316,
+    "wof:name":"Lucice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45955,
+    50.1379,
+    15.45955,
+    50.1379
+],
+  "geometry": {"coordinates":[15.45955,50.1379],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243399763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26337,49.91753,16.26337,49.91753",
+    "geom:latitude":49.91753,
+    "geom:longitude":16.26337,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Netreby",
+    "gn:country_code":"CZ",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069800,
+    "gn:latitude":49.91753,
+    "gn:longitude":16.26337,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Net\u0159eby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069800
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1ad2c7b5676d6cbcad70021fea850863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243399763,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1243399763,
+    "wof:lastmodified":1536871819,
+    "wof:name":"Netreby",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26337,
+    49.91753,
+    16.26337,
+    49.91753
+],
+  "geometry": {"coordinates":[16.26337,49.91753],"type":"Point"}
+}

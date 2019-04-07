@@ -1,0 +1,66 @@
+{
+  "id": 1310240725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18039,49.14529,15.18039,49.14529",
+    "geom:latitude":49.14529,
+    "geom:longitude":15.18039,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Budkov",
+    "gn:country_code":"CZ",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078466,
+    "gn:latitude":49.14529,
+    "gn:longitude":15.18039,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Budkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078466
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5b8b4af82637c7f682b88abd59ce5d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310240725,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1310240725,
+    "wof:lastmodified":1536801377,
+    "wof:name":"Budkov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18039,
+    49.14529,
+    15.18039,
+    49.14529
+],
+  "geometry": {"coordinates":[15.18039,49.14529],"type":"Point"}
+}

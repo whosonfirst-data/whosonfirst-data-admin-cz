@@ -1,0 +1,80 @@
+{
+  "id": 1125412257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10207,49.019901,15.10207,49.019901",
+    "geom:latitude":49.019901,
+    "geom:longitude":15.10207,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":49.019901,
+    "lbl:longitude":15.10207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Nov\u00e1 Byst\u0159ice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":439,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":241754,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12604355,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12604355,
+        "qs_pg:id":241754
+    },
+    "wof:country":"CZ",
+    "wof:created":1497050590,
+    "wof:geomhash":"9327cb99d59e3573c8eac637040aa147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125412257,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125412257,
+    "wof:lastmodified":1509390289,
+    "wof:name":"Nov\u00e1 Byst\u0159ice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10207,
+    49.019901,
+    15.10207,
+    49.019901
+],
+  "geometry": {"coordinates":[15.10207,49.019901],"type":"Point"}
+}

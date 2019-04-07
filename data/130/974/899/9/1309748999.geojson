@@ -1,0 +1,70 @@
+{
+  "id": 1309748999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45,50.61321,14.45,50.61321",
+    "geom:latitude":50.61321,
+    "geom:longitude":14.45,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Raj",
+    "gn:country_code":"CZ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067087,
+    "gn:latitude":50.61321,
+    "gn:longitude":14.45,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"R\u00e1j",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rein",
+        "R\u00e1j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067087
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b4fe5de63d7c4389ee581ea2db8b67bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309748999,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1309748999,
+    "wof:lastmodified":1537619315,
+    "wof:name":"Raj",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45,
+    50.61321,
+    14.45,
+    50.61321
+],
+  "geometry": {"coordinates":[14.45,50.61321],"type":"Point"}
+}

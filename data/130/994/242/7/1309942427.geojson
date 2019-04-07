@@ -1,0 +1,66 @@
+{
+  "id": 1309942427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29638,49.50608,15.29638,49.50608",
+    "geom:latitude":49.50608,
+    "geom:longitude":15.29638,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Kletecna",
+    "gn:country_code":"CZ",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073614,
+    "gn:latitude":49.50608,
+    "gn:longitude":15.29638,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Klete\u010dn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073614
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5bc6778bad157d8a8c9634ce51ea8941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309942427,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1309942427,
+    "wof:lastmodified":1536734353,
+    "wof:name":"Kletecna",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29638,
+    49.50608,
+    15.29638,
+    49.50608
+],
+  "geometry": {"coordinates":[15.29638,49.50608],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259914201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38012,49.97202,17.38012,49.97202",
+    "geom:latitude":49.97202,
+    "geom:longitude":17.38012,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Dolni Vaclavov",
+    "gn:country_code":"CZ",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076649,
+    "gn:latitude":49.97202,
+    "gn:longitude":17.38012,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Doln\u00ed V\u00e1clavov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nieder Wildgrub",
+        "Doln\u00ed Velkruby",
+        "Doln\u00ed V\u00e1clavov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076649
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"53cf3deece2ebf2167a5bd456a89e567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259914201,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1259914201,
+    "wof:lastmodified":1537619430,
+    "wof:name":"Dolni Vaclavov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38012,
+    49.97202,
+    17.38012,
+    49.97202
+],
+  "geometry": {"coordinates":[17.38012,49.97202],"type":"Point"}
+}

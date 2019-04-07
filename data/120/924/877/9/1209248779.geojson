@@ -1,0 +1,65 @@
+{
+  "id": 1209248779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.04695,49.72892,13.04695,49.72892",
+    "geom:latitude":49.72892,
+    "geom:longitude":13.04695,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072092,
+    "gn:latitude":49.72892,
+    "gn:longitude":13.04695,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Elhoten bei Mies"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072092
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ed90dfbf852a270c57939aba460a128f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209248779
+        }
+    ],
+    "wof:id":1209248779,
+    "wof:lastmodified":1537619375,
+    "wof:name":"Lhota",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.04695,
+    49.72892,
+    13.04695,
+    49.72892
+],
+  "geometry": {"coordinates":[13.04695,49.72892],"type":"Point"}
+}

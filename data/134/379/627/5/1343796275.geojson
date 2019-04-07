@@ -1,0 +1,70 @@
+{
+  "id": 1343796275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.45,49.96667,17.45,49.96667",
+    "geom:latitude":49.96667,
+    "geom:longitude":17.45,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Slezsky Kocov",
+    "gn:country_code":"CZ",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065794,
+    "gn:latitude":49.96667,
+    "gn:longitude":17.45,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Slezsk\u00fd Ko\u010dov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schlesisch Kotzendorf",
+        "Slezsk\u00fd Ko\u010dov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065794
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"36c5ccb2226cfdf0577a82190ea79a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343796275,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1343796275,
+    "wof:lastmodified":1537619301,
+    "wof:name":"Slezsky Kocov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.45,
+    49.96667,
+    17.45,
+    49.96667
+],
+  "geometry": {"coordinates":[17.45,49.96667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327270699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0558,50.26302,14.0558,50.26302",
+    "geom:latitude":50.26302,
+    "geom:longitude":14.0558,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0203",
+    "gn:asciiname":"Kralovice",
+    "gn:country_code":"CZ",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072939,
+    "gn:latitude":50.26302,
+    "gn:longitude":14.0558,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Kr\u00e1lovice",
+    "gn:population":129,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072939,
+        "wk:page":"Kr%C3%A1lovice_%28Kladno_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5e177e3f6e16b30a01819755a0629298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327270699,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1327270699,
+    "wof:lastmodified":1537504050,
+    "wof:name":"Kralovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0558,
+    50.26302,
+    14.0558,
+    50.26302
+],
+  "geometry": {"coordinates":[14.0558,50.26302],"type":"Point"}
+}

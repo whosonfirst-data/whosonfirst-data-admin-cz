@@ -1,0 +1,65 @@
+{
+  "id": 102537033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2055556,50.4677778,16.2055556,50.4677778",
+    "geom:latitude":50.467778,
+    "geom:longitude":16.205556,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1322",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582597,
+        "localadmin_id":12609134,
+        "planet_id":1,
+        "state_id":20070466
+    },
+    "wof:belongsto":[
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049687,
+        "icao:code":"LKVP",
+        "oa:id":"30524",
+        "wd:id":"Q25471820"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"033461ef3bf691b914c55dd4eb1908cc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537033,
+            "country_id":85633105,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":102537033,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Letiste Velke Porici",
+    "wof:parent_id":85682465,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.2055556,
+    50.4677778,
+    16.2055556,
+    50.4677778
+],
+  "geometry": {"coordinates":[16.2055556,50.4677778],"type":"Point"}
+}

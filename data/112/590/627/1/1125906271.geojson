@@ -1,0 +1,123 @@
+{
+  "id": 1125906271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49621,49.91373,13.49621,49.91373",
+    "geom:latitude":49.91373,
+    "geom:longitude":13.49621,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":37,
+    "gn:population":37,
+    "iso:country":"CZ",
+    "lbl:latitude":49.91373,
+    "lbl:longitude":13.49621,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Doln\u00ed Hradi\u0161t\u011b"
+    ],
+    "name:dut_x_preferred":[
+        "Doln\u00ed Hradi\u0161t\u011b"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00ed Hradi\u0161t\u011b"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00ed Hradi\u0161t\u011b"
+    ],
+    "name:hun_x_preferred":[
+        "Doln\u00ed Hradi\u0161t\u011b"
+    ],
+    "name:ita_x_preferred":[
+        "Doln\u00ed Hradi\u0161t\u011b"
+    ],
+    "name:may_x_preferred":[
+        "Doln\u00ed Hradi\u0161t\u011b"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u06cc \u0647\u0631\u0627\u062f\u06cc\u0634\u062a\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Doln\u00ed Hradi\u0161t\u011b"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00ed Hradi\u0161t\u011b"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u045a\u0438 \u0425\u0440\u0430\u0434\u0438\u0448\u0442\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Doln\u00ed Hradi\u0161t\u011b"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076844,
+    "qs_pg:gn_pop":37,
+    "qs_pg:name":"Doln\u00ed Hradi\u0161t\u011b",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":397891,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788433,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076844,
+        "gp:id":788433,
+        "qs_pg:id":397891,
+        "wd:id":"Q2327325"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295994,
+    "wof:geomhash":"573eb2fd69f42ca595d3ea0d37f0a3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125906271,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125906271,
+    "wof:lastmodified":1513944923,
+    "wof:name":"Doln\u00ed Hradi\u0161t\u011b",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49621,
+    49.91373,
+    13.49621,
+    49.91373
+],
+  "geometry": {"coordinates":[13.49621,49.91373],"type":"Point"}
+}

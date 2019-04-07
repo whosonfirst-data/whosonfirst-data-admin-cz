@@ -1,0 +1,65 @@
+{
+  "id": 102536791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4253,49.985,14.4253,49.985",
+    "geom:latitude":49.985,
+    "geom:longitude":14.4253,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1027",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582589,
+        "localadmin_id":12607749,
+        "planet_id":1,
+        "state_id":20070472
+    },
+    "wof:belongsto":[
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512573,
+        "icao:code":"LKTC",
+        "oa:id":"30487",
+        "wd:id":"Q12033123"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fc5df51dc022ced223b95b460947c852",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536791,
+            "country_id":85633105,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":102536791,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Tocna Airport",
+    "wof:parent_id":85682437,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.4253,
+    49.985,
+    14.4253,
+    49.985
+],
+  "geometry": {"coordinates":[14.4253,49.985],"type":"Point"}
+}

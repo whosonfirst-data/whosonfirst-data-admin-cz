@@ -1,0 +1,66 @@
+{
+  "id": 1327263299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3645,48.93994,17.3645,48.93994",
+    "geom:latitude":48.93994,
+    "geom:longitude":17.3645,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0625",
+    "gn:asciiname":"Zarazice",
+    "gn:country_code":"CZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061857,
+    "gn:latitude":48.93994,
+    "gn:longitude":17.3645,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Zarazice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061857
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ba95bb3baeebafd900a1afd553f091b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327263299,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1327263299,
+    "wof:lastmodified":1536925761,
+    "wof:name":"Zarazice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3645,
+    48.93994,
+    17.3645,
+    48.93994
+],
+  "geometry": {"coordinates":[17.3645,48.93994],"type":"Point"}
+}

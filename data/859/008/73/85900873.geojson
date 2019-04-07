@@ -1,0 +1,112 @@
+{
+  "id": 85900873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000359,
+    "geom:area_square_m":2852240.321699,
+    "geom:bbox":"14.2920408554,50.0536115828,14.3135704654,50.0765313721",
+    "geom:latitude":50.064973,
+    "geom:longitude":14.303612,
+    "gn:latitude":50.06667,
+    "gn:longitude":14.3,
+    "iso:country":"CZ",
+    "lbl:latitude":50.064346,
+    "lbl:longitude":14.306468,
+    "mps:latitude":50.064456,
+    "mps:longitude":14.303817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:ces_x_preferred":[
+        "Radost"
+    ],
+    "name:cze_x_preferred":[
+        "Radost"
+    ],
+    "name:unk_x_variant":[
+        "Radost"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"88",
+    "qs:gn_name":"Radost",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Radost",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":26,
+    "qs:photo_sum":46,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067141,
+        "gp:id":797104,
+        "qs:id":979315,
+        "qs_pg:id":979315
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4b777c584313e7580dfd83ae2357d951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900873,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900873,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1497309107,
+    "wof:name":"Radost",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29204085537981,
+    50.05361158275032,
+    14.31357046535862,
+    50.0765313720503
+],
+  "geometry": {"coordinates":[[[14.31211542385739,50.07351042368187],[14.31357046535862,50.07124333645022],[14.31357004353356,50.07124202211146],[14.31308519218828,50.06595479862524],[14.31324686929696,50.06419167187512],[14.31239046570198,50.06107880669227],[14.31215884209661,50.06098040843365],[14.30969242441932,50.05713877600006],[14.30969238280005,50.05713871117503],[14.30742805048084,50.05361184200036],[14.3074277175794,50.05361158275032],[14.30646388396639,50.05361158275032],[14.30646355106512,50.05361184200036],[14.30419921870003,50.05361184200036],[14.29870605467505,50.05361184200036],[14.29870605468437,50.0536119068001],[14.29870605468449,50.05713871117503],[14.29342780715166,50.05713871117503],[14.29342773778609,50.05713877600006],[14.29321289059999,50.05713877600006],[14.29321289060005,50.0573395597243],[14.29228448211381,50.05820719647075],[14.29204085537981,50.05883965325377],[14.29321289062096,50.06066532112523],[14.29321289061471,50.06066538590009],[14.29321289061471,50.06419167187512],[14.29321289059999,50.06419173669998],[14.29321293223524,50.06419173670194],[14.29789868326606,50.07149122189919],[14.29758195559299,50.07297153037287],[14.29759882929346,50.07295096970911],[14.29770700542497,50.07330757862378],[14.29863110462719,50.07503644663014],[14.29985795821295,50.0765313720503],[14.3062990040969,50.0765313720503],[14.31211542385739,50.07351042368187]]],"type":"Polygon"}
+}

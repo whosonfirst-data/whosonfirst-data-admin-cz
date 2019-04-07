@@ -1,0 +1,70 @@
+{
+  "id": 1276165909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48679,49.62453,17.48679,49.62453",
+    "geom:latitude":49.62453,
+    "geom:longitude":17.48679,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Varhost'",
+    "gn:country_code":"CZ",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063376,
+    "gn:latitude":49.62453,
+    "gn:longitude":17.48679,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Varho\u0161\u0165",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haslicht",
+        "Varho\u0161\u0165"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063376
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"88882c58e3f6fc1fe5ad5688d024fb82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276165909,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1276165909,
+    "wof:lastmodified":1537619274,
+    "wof:name":"Varhost'",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48679,
+    49.62453,
+    17.48679,
+    49.62453
+],
+  "geometry": {"coordinates":[17.48679,49.62453],"type":"Point"}
+}

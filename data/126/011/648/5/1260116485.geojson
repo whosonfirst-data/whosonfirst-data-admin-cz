@@ -1,0 +1,66 @@
+{
+  "id": 1260116485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21247,50.46486,15.21247,50.46486",
+    "geom:latitude":50.46486,
+    "geom:longitude":15.21247,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Plhov",
+    "gn:country_code":"CZ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068180,
+    "gn:latitude":50.46486,
+    "gn:longitude":15.21247,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Plhov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068180
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a8e8ac9ac44699a0dd40fedc023557b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260116485,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1260116485,
+    "wof:lastmodified":1536941137,
+    "wof:name":"Plhov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21247,
+    50.46486,
+    15.21247,
+    50.46486
+],
+  "geometry": {"coordinates":[15.21247,50.46486],"type":"Point"}
+}

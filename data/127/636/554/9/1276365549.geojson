@@ -1,0 +1,66 @@
+{
+  "id": 1276365549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6,49.06667,14.6,49.06667",
+    "geom:latitude":49.06667,
+    "geom:longitude":14.6,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Zlata Studna",
+    "gn:country_code":"CZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061395,
+    "gn:latitude":49.06667,
+    "gn:longitude":14.6,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Zlat\u00e1 Studna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061395
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3d32d742d0f48bbd333a5e5ef5ba58b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276365549,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276365549,
+    "wof:lastmodified":1536735577,
+    "wof:name":"Zlata Studna",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6,
+    49.06667,
+    14.6,
+    49.06667
+],
+  "geometry": {"coordinates":[14.6,49.06667],"type":"Point"}
+}

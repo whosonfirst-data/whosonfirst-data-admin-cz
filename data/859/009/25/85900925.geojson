@@ -1,0 +1,109 @@
+{
+  "id": 85900925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9808082.394396,
+    "geom:bbox":"18.175049,49.886966,18.175049,49.886966",
+    "geom:latitude":49.886966,
+    "geom:longitude":18.175049,
+    "gn:latitude":49.85786,
+    "gn:longitude":18.15167,
+    "iso:country":"CZ",
+    "lbl:latitude":49.886966,
+    "lbl:longitude":18.175049,
+    "mps:latitude":49.888016,
+    "mps:longitude":18.170005,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:cze_x_colloquial":[
+        "Stara Plesna"
+    ],
+    "name:cze_x_preferred":[
+        "Star\u00e1 Plesn\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Star\u00e1 Plesn\u00e1"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"85",
+    "qs:gn_name":"Star\u00e1 Plesn\u00e1",
+    "qs:local_max":2778,
+    "qs:local_sum":9373,
+    "qs:localhoods":17,
+    "qs:name":"Star\u00e1 Plesn\u00e1",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs:name_adm2":"Ostrava",
+    "qs:name_lau":"Ostrava",
+    "qs:name_local":"Ostrava",
+    "qs:photo_max":7,
+    "qs:photo_sum":18,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070471,
+    "qs:woe_adm2":12582577,
+    "qs:woe_lau":12607114,
+    "qs:woe_local":795610,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065391,
+        "gp:id":798644,
+        "qs:id":215991,
+        "qs_pg:id":215991
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"869e34f5199b5888588c7e32e3ebd921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85900925,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":85900925,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932405,
+    "wof:name":"Star\u00e1 Plesn\u00e1",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.175049,
+    49.886966,
+    18.175049,
+    49.886966
+],
+  "geometry": {"coordinates":[18.175049,49.886966],"type":"Point"}
+}

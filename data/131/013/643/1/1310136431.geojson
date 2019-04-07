@@ -1,0 +1,66 @@
+{
+  "id": 1310136431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67729,50.01987,13.67729,50.01987",
+    "geom:latitude":50.01987,
+    "geom:longitude":13.67729,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Rousinov",
+    "gn:country_code":"CZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066717,
+    "gn:latitude":50.01987,
+    "gn:longitude":13.67729,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Rous\u00ednov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066717
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9e71340a20ef53b6854ffc11cb570f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310136431,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1310136431,
+    "wof:lastmodified":1536952162,
+    "wof:name":"Rousinov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67729,
+    50.01987,
+    13.67729,
+    50.01987
+],
+  "geometry": {"coordinates":[13.67729,50.01987],"type":"Point"}
+}

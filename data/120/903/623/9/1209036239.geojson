@@ -1,0 +1,72 @@
+{
+  "id": 1209036239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50399,49.15221,16.50399,49.15221",
+    "geom:latitude":49.15221,
+    "geom:longitude":16.50399,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0623",
+    "gn:asciiname":"Strelice",
+    "gn:country_code":"CZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064962,
+    "gn:latitude":49.15221,
+    "gn:longitude":16.50399,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"St\u0159elice",
+    "gn:population":2578,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "St\u0159elice u Brna"
+    ],
+    "name:und_x_variant":[
+        "St\u0159elitz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064962,
+        "wk:page":"St%C5%99elice_%28Brno-Country_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a8231d4ff2a7e816d00b8e16eeb5a59c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209036239
+        }
+    ],
+    "wof:id":1209036239,
+    "wof:lastmodified":1537619290,
+    "wof:name":"Strelice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:population":2578,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50399,
+    49.15221,
+    16.50399,
+    49.15221
+],
+  "geometry": {"coordinates":[16.50399,49.15221],"type":"Point"}
+}

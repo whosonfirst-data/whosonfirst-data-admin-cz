@@ -1,0 +1,66 @@
+{
+  "id": 1277013967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47584,49.02949,15.47584,49.02949",
+    "geom:latitude":49.02949,
+    "geom:longitude":15.47584,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Nove Dvory",
+    "gn:country_code":"CZ",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069519,
+    "gn:latitude":49.02949,
+    "gn:longitude":15.47584,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Nov\u00e9 Dvory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069519
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"254ce8c3acfca93bed566c4eef6359f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277013967,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1277013967,
+    "wof:lastmodified":1536860043,
+    "wof:name":"Nove Dvory",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47584,
+    49.02949,
+    15.47584,
+    49.02949
+],
+  "geometry": {"coordinates":[15.47584,49.02949],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259618399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19087,50.53005,16.19087,50.53005",
+    "geom:latitude":50.53005,
+    "geom:longitude":16.19087,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Marsov nad Metuji",
+    "gn:country_code":"CZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070977,
+    "gn:latitude":50.53005,
+    "gn:longitude":16.19087,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Mar\u0161ov nad Metuj\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070977
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b1cf79fabc15bf15e4fb2736a23fb746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259618399,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1259618399,
+    "wof:lastmodified":1536664447,
+    "wof:name":"Marsov nad Metuji",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19087,
+    50.53005,
+    16.19087,
+    50.53005
+],
+  "geometry": {"coordinates":[16.19087,50.53005],"type":"Point"}
+}

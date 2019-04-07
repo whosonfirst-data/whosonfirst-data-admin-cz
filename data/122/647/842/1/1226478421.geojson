@@ -1,0 +1,66 @@
+{
+  "id": 1226478421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83858,49.52042,14.83858,49.52042",
+    "geom:latitude":49.52042,
+    "geom:longitude":14.83858,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Dolni Kouty",
+    "gn:country_code":"CZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076821,
+    "gn:latitude":49.52042,
+    "gn:longitude":14.83858,
+    "gn:modification_date":"2014-05-14",
+    "gn:name":"Doln\u00ed Kouty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076821
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1c8a12ae06832013d28a1bfa700ae034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226478421,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1226478421,
+    "wof:lastmodified":1537091777,
+    "wof:name":"Dolni Kouty",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83858,
+    49.52042,
+    14.83858,
+    49.52042
+],
+  "geometry": {"coordinates":[14.83858,49.52042],"type":"Point"}
+}

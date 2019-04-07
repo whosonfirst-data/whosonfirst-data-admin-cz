@@ -1,0 +1,66 @@
+{
+  "id": 1225878331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04599,50.35072,14.04599,50.35072",
+    "geom:latitude":50.35072,
+    "geom:longitude":14.04599,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Bohdal",
+    "gn:country_code":"CZ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079163,
+    "gn:latitude":50.35072,
+    "gn:longitude":14.04599,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Bohdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079163
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d88e378c8e496b69f4c090f734eb26fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225878331,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1225878331,
+    "wof:lastmodified":1536966484,
+    "wof:name":"Bohdal",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04599,
+    50.35072,
+    14.04599,
+    50.35072
+],
+  "geometry": {"coordinates":[14.04599,50.35072],"type":"Point"}
+}

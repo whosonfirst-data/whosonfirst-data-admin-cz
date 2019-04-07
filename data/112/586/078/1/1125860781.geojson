@@ -1,0 +1,140 @@
+{
+  "id": 1125860781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.69125,49.57851,17.69125,49.57851",
+    "geom:latitude":49.57851,
+    "geom:longitude":17.69125,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":325,
+    "gn:population":325,
+    "iso:country":"CZ",
+    "lbl:latitude":49.57851,
+    "lbl:longitude":17.69125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:dut_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:eng_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:epo_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:fre_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:ger_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:hun_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:ita_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:may_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0631\u0627\u0628\u0648\u0648\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:por_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:rup_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:slo_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u0431\u0443\u0432\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "name:vie_x_preferred":[
+        "Hrab\u016fvka"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075007,
+    "qs_pg:gn_pop":325,
+    "qs_pg:name":"Hrab\u016fvka",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":208051,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790098,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075007,
+        "gp:id":790098,
+        "qs_pg:id":208051,
+        "wd:id":"Q1028217"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293818,
+    "wof:geomhash":"4513160e1ac825ebbc9649e3f59f9bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125860781,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125860781,
+    "wof:lastmodified":1553816579,
+    "wof:name":"Hrab\u016fvka",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.69125,
+    49.57851,
+    17.69125,
+    49.57851
+],
+  "geometry": {"coordinates":[17.69125,49.57851],"type":"Point"}
+}

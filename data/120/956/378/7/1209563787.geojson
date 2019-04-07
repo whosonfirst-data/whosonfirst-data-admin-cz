@@ -1,0 +1,66 @@
+{
+  "id": 1209563787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47724,49.50981,17.47724,49.50981",
+    "geom:latitude":49.50981,
+    "geom:longitude":17.47724,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Radvanice",
+    "gn:country_code":"CZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067104,
+    "gn:latitude":49.50981,
+    "gn:longitude":17.47724,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Radvanice",
+    "gn:population":285,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067104,
+        "wk:page":"Radvanice_%28P%C5%99erov_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"00566d2696052a53939dfb17be085d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209563787
+        }
+    ],
+    "wof:id":1209563787,
+    "wof:lastmodified":1537504028,
+    "wof:name":"Radvanice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:population":285,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47724,
+    49.50981,
+    17.47724,
+    49.50981
+],
+  "geometry": {"coordinates":[17.47724,49.50981],"type":"Point"}
+}

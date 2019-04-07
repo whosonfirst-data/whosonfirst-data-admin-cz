@@ -1,0 +1,70 @@
+{
+  "id": 1310630379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26269,50.00851,13.26269,50.00851",
+    "geom:latitude":50.00851,
+    "geom:longitude":13.26269,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Hradek",
+    "gn:country_code":"CZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074951,
+    "gn:latitude":50.00851,
+    "gn:longitude":13.26269,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Hr\u00e1dek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rutka",
+        "Hr\u00e1dek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074951
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"36bc8e8ffa0f0c5aa910ffcf730bf618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310630379,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1310630379,
+    "wof:lastmodified":1537619407,
+    "wof:name":"Hradek",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26269,
+    50.00851,
+    13.26269,
+    50.00851
+],
+  "geometry": {"coordinates":[13.26269,50.00851],"type":"Point"}
+}

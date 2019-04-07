@@ -1,0 +1,116 @@
+{
+  "id": 85900931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7523175.856897,
+    "geom:bbox":"15.027395,50.783498,15.027395,50.783498",
+    "geom:latitude":50.783498,
+    "geom:longitude":15.027395,
+    "gn:latitude":50.78701,
+    "gn:longitude":15.04407,
+    "iso:country":"CZ",
+    "lbl:latitude":50.783498,
+    "lbl:longitude":15.027395,
+    "mps:latitude":50.784083,
+    "mps:longitude":15.022643,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "Stare Pavlovice"
+    ],
+    "name:cze_x_preferred":[
+        "Star\u00e9 Pavlovice"
+    ],
+    "name:cze_x_variant":[
+        "Alt-Paulsdorf"
+    ],
+    "name:unk_x_variant":[
+        "Alt-Paulsdorf",
+        "Star\u00e9 Pavlovice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3071961,
+    "qs:gn_nam_loc":"Liberec, Liberec, Liberec, Libereck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"83",
+    "qs:gn_name":"Star\u00e9 Pavlovice",
+    "qs:local_max":1246,
+    "qs:local_sum":2097,
+    "qs:localhoods":7,
+    "qs:name":"Star\u00e9 Pavlovice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Libereck\u00fd kraj",
+    "qs:name_adm2":"Liberec",
+    "qs:name_lau":"Liberec",
+    "qs:name_local":"Liberec",
+    "qs:photo_max":13,
+    "qs:photo_sum":26,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070498,
+    "qs:woe_adm2":12582564,
+    "qs:woe_lau":12606600,
+    "qs:woe_local":792768,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748147,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065321,
+        "gp:id":798708,
+        "qs:id":993437,
+        "qs_pg:id":993437
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"65a8274ed5e14845ecc653893bc459c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748147,
+            "neighbourhood_id":85900931,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":85900931,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932406,
+    "wof:name":"Star\u00e9 Pavlovice",
+    "wof:parent_id":101748147,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.027395,
+    50.783498,
+    15.027395,
+    50.783498
+],
+  "geometry": {"coordinates":[15.027395,50.783498],"type":"Point"}
+}

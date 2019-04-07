@@ -1,0 +1,66 @@
+{
+  "id": 1309839857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49337,49.47208,14.49337,49.47208",
+    "geom:latitude":49.47208,
+    "geom:longitude":14.49337,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Svoriz",
+    "gn:country_code":"CZ",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064418,
+    "gn:latitude":49.47208,
+    "gn:longitude":14.49337,
+    "gn:modification_date":"2014-05-14",
+    "gn:name":"Svo\u0159\u00ed\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064418
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f0971d40fcc33182a30afec23c972fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309839857,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1309839857,
+    "wof:lastmodified":1536881366,
+    "wof:name":"Svoriz",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49337,
+    49.47208,
+    14.49337,
+    49.47208
+],
+  "geometry": {"coordinates":[14.49337,49.47208],"type":"Point"}
+}

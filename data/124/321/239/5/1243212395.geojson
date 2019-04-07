@@ -1,0 +1,70 @@
+{
+  "id": 1243212395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54572,49.58869,17.54572,49.58869",
+    "geom:latitude":49.58869,
+    "geom:longitude":17.54572,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Ranosov",
+    "gn:country_code":"CZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067032,
+    "gn:latitude":49.58869,
+    "gn:longitude":17.54572,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Rano\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prusinowitz",
+        "Rano\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067032
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e51e4b35aed98e2acc8664bd775659b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243212395,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1243212395,
+    "wof:lastmodified":1537619314,
+    "wof:name":"Ranosov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54572000000001,
+    49.58869,
+    17.54572000000001,
+    49.58869
+],
+  "geometry": {"coordinates":[17.54572000000001,49.58869],"type":"Point"}
+}

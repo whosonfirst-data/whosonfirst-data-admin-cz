@@ -1,0 +1,100 @@
+{
+  "id": 85901015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3516618.683332,
+    "geom:bbox":"16.630643,49.199411,16.630643,49.199411",
+    "geom:latitude":49.199411,
+    "geom:longitude":16.630643,
+    "gn:latitude":49.19932,
+    "gn:longitude":16.62197,
+    "iso:country":"CZ",
+    "lbl:latitude":49.199411,
+    "lbl:longitude":16.630643,
+    "mps:latitude":49.198755,
+    "mps:longitude":16.633652,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:cze_x_colloquial":[
+        "Zabrdovice"
+    ],
+    "name:cze_x_preferred":[
+        "Z\u00e1brdovice"
+    ],
+    "name:deu_x_preferred":[
+        "Obrowitz"
+    ],
+    "name:eng_x_preferred":[
+        "Z\u00e1brdovice"
+    ],
+    "name:fre_x_preferred":[
+        "Z\u00e1brdovice"
+    ],
+    "name:pol_x_preferred":[
+        "Z\u00e1brdovice"
+    ],
+    "name:slo_x_preferred":[
+        "Z\u00e1brdovice"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748109,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6639860,
+        "gp:id":801505,
+        "qs:id":432709,
+        "qs_pg:id":432709,
+        "wd:id":"Q10861698"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"eb3190251385d6ddcda779d1e4dde333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748109,
+            "neighbourhood_id":85901015,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85901015,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932418,
+    "wof:name":"Z\u00e1brdovice",
+    "wof:parent_id":101748109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.630643,
+    49.199411,
+    16.630643,
+    49.199411
+],
+  "geometry": {"coordinates":[16.630643,49.199411],"type":"Point"}
+}

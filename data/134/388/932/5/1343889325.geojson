@@ -1,0 +1,66 @@
+{
+  "id": 1343889325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13127,49.66284,15.13127,49.66284",
+    "geom:latitude":49.66284,
+    "geom:longitude":15.13127,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Brzotice",
+    "gn:country_code":"CZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078527,
+    "gn:latitude":49.66284,
+    "gn:longitude":15.13127,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Brzotice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078527
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c26338261d16bf1afc29d6cbc5a6a139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343889325,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1343889325,
+    "wof:lastmodified":1536623033,
+    "wof:name":"Brzotice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13127,
+    49.66284,
+    15.13127,
+    49.66284
+],
+  "geometry": {"coordinates":[15.13127,49.66284],"type":"Point"}
+}

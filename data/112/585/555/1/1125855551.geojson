@@ -1,0 +1,135 @@
+{
+  "id": 1125855551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55728,50.00059,15.55728,50.00059",
+    "geom:latitude":50.00059,
+    "geom:longitude":15.55728,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":232,
+    "gn:population":232,
+    "iso:country":"CZ",
+    "lbl:latitude":50.00059,
+    "lbl:longitude":15.55728,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Brloh"
+    ],
+    "name:dut_x_preferred":[
+        "Brloh"
+    ],
+    "name:eng_x_preferred":[
+        "Brloh"
+    ],
+    "name:epo_x_preferred":[
+        "Brloh"
+    ],
+    "name:fre_x_preferred":[
+        "Brloh"
+    ],
+    "name:ger_x_preferred":[
+        "Brloh u P\u0159elou\u010de"
+    ],
+    "name:hun_x_preferred":[
+        "Brloh"
+    ],
+    "name:ita_x_preferred":[
+        "Brloh"
+    ],
+    "name:may_x_preferred":[
+        "Brloh"
+    ],
+    "name:pol_x_preferred":[
+        "Brloh"
+    ],
+    "name:por_x_preferred":[
+        "Brloh"
+    ],
+    "name:rup_x_preferred":[
+        "Brloh"
+    ],
+    "name:slo_x_preferred":[
+        "Brloh"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u043b\u043e\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Brloh"
+    ],
+    "name:vie_x_preferred":[
+        "Brloh"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078631,
+    "qs_pg:gn_pop":232,
+    "qs_pg:name":"Brloh",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265364,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786849,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078631,
+        "gp:id":786849,
+        "qs_pg:id":1265364,
+        "wd:id":"Q2189055"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293602,
+    "wof:geomhash":"a35d5385080c8b6fdca51a34406c464a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125855551,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125855551,
+    "wof:lastmodified":1553816575,
+    "wof:name":"Brloh",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":232,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55728,
+    50.00059,
+    15.55728,
+    50.00059
+],
+  "geometry": {"coordinates":[15.55728,50.00059],"type":"Point"}
+}

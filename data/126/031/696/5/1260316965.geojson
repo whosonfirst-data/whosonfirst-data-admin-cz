@@ -1,0 +1,70 @@
+{
+  "id": 1260316965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.15337,49.43356,13.15337,49.43356",
+    "geom:latitude":49.43356,
+    "geom:longitude":13.15337,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Liska",
+    "gn:country_code":"CZ",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071742,
+    "gn:latitude":49.43356,
+    "gn:longitude":13.15337,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Li\u0161ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu\u0161perk",
+        "Li\u0161ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071742
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f78d318e3e4e3291b99c05b9f1a7de61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260316965,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1260316965,
+    "wof:lastmodified":1537619371,
+    "wof:name":"Liska",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.15337,
+    49.43356,
+    13.15337,
+    49.43356
+],
+  "geometry": {"coordinates":[13.15337,49.43356],"type":"Point"}
+}

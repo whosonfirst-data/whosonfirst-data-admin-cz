@@ -1,0 +1,66 @@
+{
+  "id": 1276696481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63914,49.06904,13.63914,49.06904",
+    "geom:latitude":49.06904,
+    "geom:longitude":13.63914,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Lesni Chalupy",
+    "gn:country_code":"CZ",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072174,
+    "gn:latitude":49.06904,
+    "gn:longitude":13.63914,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Lesn\u00ed Chalupy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072174
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"19005aaa1c3df18b423a0ac377e932db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276696481,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276696481,
+    "wof:lastmodified":1536789430,
+    "wof:name":"Lesni Chalupy",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63914,
+    49.06904,
+    13.63914,
+    49.06904
+],
+  "geometry": {"coordinates":[13.63914,49.06904],"type":"Point"}
+}

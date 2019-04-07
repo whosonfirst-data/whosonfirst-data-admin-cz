@@ -1,0 +1,70 @@
+{
+  "id": 1327469941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80836,49.84353,14.80836,49.84353",
+    "geom:latitude":49.84353,
+    "geom:longitude":14.80836,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Belcice",
+    "gn:country_code":"CZ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079551,
+    "gn:latitude":49.84353,
+    "gn:longitude":14.80836,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"B\u011bl\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bieltschitz",
+        "B\u011bl\u010dice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079551
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bcb8f60c3ad21fe2ddacdffa56d23e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327469941,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1327469941,
+    "wof:lastmodified":1537619462,
+    "wof:name":"Belcice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80836,
+    49.84353,
+    14.80836,
+    49.84353
+],
+  "geometry": {"coordinates":[14.80836,49.84353],"type":"Point"}
+}

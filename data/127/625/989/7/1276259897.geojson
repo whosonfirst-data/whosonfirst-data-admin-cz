@@ -1,0 +1,70 @@
+{
+  "id": 1276259897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80513,49.45929,17.80513,49.45929",
+    "geom:latitude":49.45929,
+    "geom:longitude":17.80513,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Lhota u Kelce",
+    "gn:country_code":"CZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072059,
+    "gn:latitude":49.45929,
+    "gn:longitude":17.80513,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Lhota u Kel\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mal\u00e1 Lhota",
+        "Lhota u Kel\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072059
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"11f907334b00b9c3cfcdd9c0fa34a4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276259897,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1276259897,
+    "wof:lastmodified":1537619375,
+    "wof:name":"Lhota u Kelce",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80513,
+    49.45929,
+    17.80513,
+    49.45929
+],
+  "geometry": {"coordinates":[17.80513,49.45929],"type":"Point"}
+}

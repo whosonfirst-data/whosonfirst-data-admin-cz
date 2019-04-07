@@ -1,0 +1,109 @@
+{
+  "id": 85900537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000242,
+    "geom:area_square_m":1918319.588641,
+    "geom:bbox":"14.2420141602,50.1135325889,14.2618138668,50.1323390704",
+    "geom:latitude":50.123879,
+    "geom:longitude":14.250816,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.122337,
+    "lbl:longitude":14.252014,
+    "mps:latitude":50.124464,
+    "mps:longitude":14.250628,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cze_x_colloquial":[
+        "Brewnow"
+    ],
+    "name:cze_x_preferred":[
+        "Bewnow"
+    ],
+    "name:unk_x_variant":[
+        "Bewnow"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Bewnow",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":786740,
+        "qs:id":901159,
+        "qs_pg:id":901159
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4d33c410b5ec6a33987d4807f254c1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85900537,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900537,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1527269278,
+    "wof:name":"Bewnow",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24201416015018,
+    50.11353258890024,
+    14.26181386678707,
+    50.13233907035006
+],
+  "geometry": {"coordinates":[[[14.26181386678707,50.12431682788436],[14.24798420954545,50.11353258890024],[14.24737852345334,50.11353258890024],[14.24645845781987,50.1140243742271],[14.24494309233825,50.11526800253829],[14.24369946402726,50.11678336801991],[14.24277536482504,50.11851223602635],[14.24220630734601,50.12038816712997],[14.24201416015018,50.12233907035018],[14.24220630734601,50.1242899735703],[14.24277536482504,50.12616590467373],[14.24369946402726,50.12789477268036],[14.24494309233825,50.12941013816199],[14.24645845781987,50.13065376647317],[14.24818732582651,50.13157786567503],[14.25006325692993,50.13214692315414],[14.25201416015005,50.13233907035006],[14.25396506337029,50.13214692315414],[14.25584099447371,50.13157786567503],[14.25756986248024,50.13065376647317],[14.25908522796215,50.12941013816199],[14.26032885627313,50.12789477268036],[14.26125295547536,50.12616590467373],[14.26181386678707,50.12431682788436]]],"type":"Polygon"}
+}

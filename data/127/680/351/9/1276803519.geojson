@@ -1,0 +1,70 @@
+{
+  "id": 1276803519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30818,50.31279,14.30818,50.31279",
+    "geom:latitude":50.31279,
+    "geom:longitude":14.30818,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Nova Ves",
+    "gn:country_code":"CZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069575,
+    "gn:latitude":50.31279,
+    "gn:longitude":14.30818,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Nov\u00e1 Ves",
+    "gn:population":827,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069575,
+        "wk:page":"Nov%C3%A1_Ves_%28M%C4%9Bln%C3%ADk_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9900faf617b96da52430e28c416c7faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276803519,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276803519,
+    "wof:lastmodified":1537504037,
+    "wof:name":"Nova Ves",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":827,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30818,
+    50.31279,
+    14.30818,
+    50.31279
+],
+  "geometry": {"coordinates":[14.30818,50.31279],"type":"Point"}
+}

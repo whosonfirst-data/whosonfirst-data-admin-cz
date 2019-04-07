@@ -1,0 +1,112 @@
+{
+  "id": 85900595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5679912.029755,
+    "geom:bbox":"13.369979,49.721207,13.369979,49.721207",
+    "geom:latitude":49.721207,
+    "geom:longitude":13.369979,
+    "gn:latitude":49.71943,
+    "gn:longitude":13.38143,
+    "iso:country":"CZ",
+    "lbl:latitude":49.721207,
+    "lbl:longitude":13.369979,
+    "mps:latitude":49.713326,
+    "mps:longitude":13.373521,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:cze_x_preferred":[
+        "Doudlevce"
+    ],
+    "name:cze_x_variant":[
+        "Doudlewetz"
+    ],
+    "name:unk_x_variant":[
+        "Doudlewetz",
+        "Doudlevce"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Doudlevce",
+    "qs:local_max":1309,
+    "qs:local_sum":4721,
+    "qs:localhoods":13,
+    "qs:name":"Doudlevce",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs:name_adm2":"Plze\u0148-M\u011bsto",
+    "qs:name_lau":"Plze\u0148",
+    "qs:name_local":"Plze\u0148",
+    "qs:photo_max":92,
+    "qs:photo_sum":115,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070501,
+    "qs:woe_adm2":12582609,
+    "qs:woe_lau":12610042,
+    "qs:woe_local":12610042,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748111,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076521,
+        "gp:id":788742,
+        "qs:id":227386,
+        "qs_pg:id":227386
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e8f4a5be3a2ce3c51cce17462ff7c53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748111,
+            "neighbourhood_id":85900595,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":85900595,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932354,
+    "wof:name":"Doudlevce",
+    "wof:parent_id":101748111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.369979,
+    49.721207,
+    13.369979,
+    49.721207
+],
+  "geometry": {"coordinates":[13.369979,49.721207],"type":"Point"}
+}

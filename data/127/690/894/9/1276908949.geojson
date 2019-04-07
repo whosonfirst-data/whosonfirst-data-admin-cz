@@ -1,0 +1,70 @@
+{
+  "id": 1276908949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67068,48.83473,14.67068,48.83473",
+    "geom:latitude":48.83473,
+    "geom:longitude":14.67068,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Rejta",
+    "gn:country_code":"CZ",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066939,
+    "gn:latitude":48.83473,
+    "gn:longitude":14.67068,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Rejta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rejty",
+        "Rejta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066939
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d7719eb5d56da04c4d860a788ad0a589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276908949,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276908949,
+    "wof:lastmodified":1537619313,
+    "wof:name":"Rejta",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67068,
+    48.83473,
+    14.67068,
+    48.83473
+],
+  "geometry": {"coordinates":[14.67068,48.83473],"type":"Point"}
+}

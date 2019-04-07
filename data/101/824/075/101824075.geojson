@@ -1,0 +1,111 @@
+{
+  "id": 101824075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000165,
+    "geom:area_square_m":1315683.965526,
+    "geom:bbox":"13.4842900424,49.7859292477,13.5015914115,49.802949042",
+    "geom:latitude":49.794656,
+    "geom:longitude":13.492975,
+    "gn:population":1700,
+    "iso:country":"CZ",
+    "lbl:latitude":49.794893,
+    "lbl:longitude":13.491402,
+    "mps:latitude":49.794893,
+    "mps:longitude":13.491402,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chr\u00e1st"
+    ],
+    "name:ces_x_preferred":[
+        "Chr\u00e1st"
+    ],
+    "name:deu_x_preferred":[
+        "Chr\u00e1st u Plzn\u011b"
+    ],
+    "name:fra_x_preferred":[
+        "Chr\u00e1st"
+    ],
+    "name:hun_x_preferred":[
+        "Chr\u00e1st"
+    ],
+    "name:ita_x_preferred":[
+        "Chr\u00e1st"
+    ],
+    "name:msa_x_preferred":[
+        "Chr\u00e1st"
+    ],
+    "name:nld_x_preferred":[
+        "Chr\u00e1st"
+    ],
+    "name:por_x_preferred":[
+        "Chr\u00e1st"
+    ],
+    "name:slk_x_preferred":[
+        "Chr\u00e1st"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Plzensk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Chr\u00e1st",
+    "qs:la_lc":"*CZ0323558966",
+    "qs:level":"locality",
+    "qs:loc":"Chr\u00e1st",
+    "qs:loc_alt":"Chrast",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077601,
+        "gp:id":24929469,
+        "qs:id":884787,
+        "qs_pg:id":1064181,
+        "wd:id":"Q1088954",
+        "wk:page":"Chr\u00e1st (Plze\u0148-City District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c53b262e146b00af97b8f95deee80e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824075,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":101824075,
+    "wof:lastmodified":1507750717,
+    "wof:name":"Chr\u00e1st",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":1700,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48429004238079,
+    49.78592924768969,
+    13.50159141151192,
+    49.80294904196262
+],
+  "geometry": {"coordinates":[[[13.50159141151192,49.80290619238451],[13.50126492425869,49.7984160475641],[13.49987743524417,49.79845889254784],[13.49981217271602,49.79756086172591],[13.49842470721421,49.79760368882347],[13.49829424284405,49.79580762440344],[13.49551940814905,49.79589322402472],[13.49532388905232,49.79319911953962],[13.49809856913947,49.79311352542436],[13.49803335066383,49.79221549180477],[13.49664603751432,49.79225829642758],[13.49632011963092,49.78776811903924],[13.49770730397091,49.78772531900484],[13.49757690660977,49.78592924768969],[13.48925407584528,49.78618578244277],[13.48931911845835,49.78708382375663],[13.4879319463551,49.78712652109346],[13.48799696624644,49.78802456300934],[13.48938416410897,49.78798186475694],[13.48957931928828,49.79067598587812],[13.48541748709277,49.79080403797877],[13.48567742734451,49.79439620607104],[13.48429004238079,49.79443885983261],[13.48435500926263,49.79533690198792],[13.48574241999557,49.79529424731186],[13.4859374161652,49.79798836915711],[13.48871238550896,49.79790300341278],[13.48877744185216,49.79880104157183],[13.49016494891964,49.79875833233211],[13.4902951222744,49.80055440588012],[13.49168267863899,49.80051167783967],[13.49181291571165,49.80230774830426],[13.50013851584436,49.80205101270548],[13.50020379361757,49.80294904196262],[13.50159141151192,49.80290619238451]]],"type":"Polygon"}
+}

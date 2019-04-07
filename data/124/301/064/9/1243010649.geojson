@@ -1,0 +1,66 @@
+{
+  "id": 1243010649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.11262,49.3719,17.11262,49.3719",
+    "geom:latitude":49.3719,
+    "geom:longitude":17.11262,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0713",
+    "gn:asciiname":"Koberice",
+    "gn:country_code":"CZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073494,
+    "gn:latitude":49.3719,
+    "gn:longitude":17.11262,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Kobe\u0159ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073494
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6c2cfaf720ebbb3d9e3580ae876e06bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243010649,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1243010649,
+    "wof:lastmodified":1536937510,
+    "wof:name":"Koberice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11262,
+    49.3719,
+    17.11262,
+    49.3719
+],
+  "geometry": {"coordinates":[17.11262,49.3719],"type":"Point"}
+}

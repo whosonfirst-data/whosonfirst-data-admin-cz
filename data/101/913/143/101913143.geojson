@@ -1,0 +1,78 @@
+{
+  "id": 101913143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:bbox":"14.1320998304,49.9327416776,14.1375823174,49.9373926149",
+    "geom:latitude":49.934826,
+    "geom:longitude":14.135358,
+    "iso:country":"CZ",
+    "lbl:latitude":49.934491,
+    "lbl:longitude":14.136085,
+    "mps:latitude":49.934491,
+    "mps:longitude":14.136085,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Shooks"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Stredocesk\u00fd",
+    "qs:a1r":"3",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la":"Srbsko",
+    "qs:la_lc":"*CZ0202531758",
+    "qs:level":"locality",
+    "qs:loc":"Koda",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24930433,
+        "qs:id":985544,
+        "qs_pg:id":985544
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9d820addf98a53d4b410b822b86505ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101913143,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":101913143,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497296928,
+    "wof:name":"Koda",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13209983040184,
+    49.93274167762718,
+    14.13758231742014,
+    49.9373926149409
+],
+  "geometry": {"coordinates":[[[14.13758231742014,49.93538953606088],[14.13735374913193,49.93274167762718],[14.13457205053356,49.93284295373257],[14.13472689151058,49.93463800456107],[14.13333598637121,49.93468861927886],[14.13349079004121,49.93648367098325],[14.13209983040184,49.93653427087003],[14.13217383710213,49.9373926149409],[14.13758231742014,49.93538953606088]]],"type":"Polygon"}
+}

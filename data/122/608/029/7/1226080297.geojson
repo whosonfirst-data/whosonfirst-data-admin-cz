@@ -1,0 +1,66 @@
+{
+  "id": 1226080297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78226,49.54777,18.78226,49.54777",
+    "geom:latitude":49.54777,
+    "geom:longitude":18.78226,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Polanka",
+    "gn:country_code":"CZ",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067913,
+    "gn:latitude":49.54777,
+    "gn:longitude":18.78226,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Polanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067913
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b1e7fa987c810d17f95e9e3edb824d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226080297,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1226080297,
+    "wof:lastmodified":1536675315,
+    "wof:name":"Polanka",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78226,
+    49.54777,
+    18.78226,
+    49.54777
+],
+  "geometry": {"coordinates":[18.78226,49.54777],"type":"Point"}
+}

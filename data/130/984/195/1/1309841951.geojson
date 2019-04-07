@@ -1,0 +1,66 @@
+{
+  "id": 1309841951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1424,50.50913,15.1424,50.50913",
+    "geom:latitude":50.50913,
+    "geom:longitude":15.1424,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Dobsice",
+    "gn:country_code":"CZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076980,
+    "gn:latitude":50.50913,
+    "gn:longitude":15.1424,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"Dob\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076980
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"624017e0d2d7e378fad2f08cbd8d11e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309841951,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1309841951,
+    "wof:lastmodified":1536878103,
+    "wof:name":"Dobsice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1424,
+    50.50913,
+    15.1424,
+    50.50913
+],
+  "geometry": {"coordinates":[15.1424,50.50913],"type":"Point"}
+}

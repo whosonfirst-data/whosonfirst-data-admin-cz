@@ -1,0 +1,100 @@
+{
+  "id": 101863113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.568371,49.893427,18.568371,49.893427",
+    "geom:latitude":49.893427,
+    "geom:longitude":18.568371,
+    "iso:country":"CZ",
+    "lbl:latitude":49.893427,
+    "lbl:longitude":18.568371,
+    "mps:latitude":49.893427,
+    "mps:longitude":18.568371,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Doln\u00ed Marklovice"
+    ],
+    "name:cze_x_preferred":[
+        "Doln\u00ed Marklovice"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00ed Marklovice"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00ed Marklovice"
+    ],
+    "name:pol_x_preferred":[
+        "Marklowice Dolne"
+    ],
+    "name:slk_x_preferred":[
+        "Doln\u00ed Marklovice"
+    ],
+    "name:slo_x_preferred":[
+        "Doln\u00ed Marklovice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Doln\u00ed Marklovice",
+    "qs:loc_alt":"Dolni Marklovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":49.891667,
+    "wd:longitude":18.566667,
+    "wd:wordcount":996,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076774,
+        "gp:id":788501,
+        "qs:id":1,
+        "wd:id":"Q3500106",
+        "wk:page":"Doln\u00ed Marklovice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b93e2e0e0ab3d3f56e562c0e689dec8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101863113,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101863113,
+    "wof:lastmodified":1544746834,
+    "wof:name":"Doln\u00ed Marklovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.568371,
+    49.893427,
+    18.568371,
+    49.893427
+],
+  "geometry": {"coordinates":[18.568371,49.893427],"type":"Point"}
+}

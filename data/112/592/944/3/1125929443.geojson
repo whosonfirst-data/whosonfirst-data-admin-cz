@@ -1,0 +1,132 @@
+{
+  "id": 1125929443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74469,49.27196,14.74469,49.27196",
+    "geom:latitude":49.27196,
+    "geom:longitude":14.74469,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":361,
+    "gn:population":361,
+    "iso:country":"CZ",
+    "lbl:latitude":49.27196,
+    "lbl:longitude":14.74469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:dut_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:eng_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:fre_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:hun_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:ita_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:may_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:nan_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:pol_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:por_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:rup_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:slo_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0432\u0458\u0435\u0440\u043e\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "name:vie_x_preferred":[
+        "Zv\u011brotice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061309,
+    "qs_pg:gn_pop":361,
+    "qs_pg:name":"Zv\u011brotice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1269031,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":802253,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061309,
+        "gp:id":802253,
+        "qs_pg:id":1269031,
+        "wd:id":"Q521925"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296752,
+    "wof:geomhash":"0aebba2b59dfc3ad011abda62d3b8031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125929443,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125929443,
+    "wof:lastmodified":1513945975,
+    "wof:name":"Zv\u011brotice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":361,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74469,
+    49.27196,
+    14.74469,
+    49.27196
+],
+  "geometry": {"coordinates":[14.74469,49.27196],"type":"Point"}
+}

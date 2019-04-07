@@ -1,0 +1,80 @@
+{
+  "id": 1125347041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.956721,49.841736,14.956721,49.841736",
+    "geom:latitude":49.841736,
+    "geom:longitude":14.956721,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":49.841736,
+    "lbl:longitude":14.956721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rataje nad S\u00e1zavou",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":281998,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12608509,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12608509,
+        "qs_pg:id":281998
+    },
+    "wof:country":"CZ",
+    "wof:created":1497045978,
+    "wof:geomhash":"e1d7a93ac945ac912f769c7b282d0019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125347041,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125347041,
+    "wof:lastmodified":1509388780,
+    "wof:name":"Rataje nad S\u00e1zavou",
+    "wof:parent_id":85682461,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.956721,
+    49.841736,
+    14.956721,
+    49.841736
+],
+  "geometry": {"coordinates":[14.956721,49.841736],"type":"Point"}
+}

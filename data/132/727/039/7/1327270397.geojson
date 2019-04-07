@@ -1,0 +1,66 @@
+{
+  "id": 1327270397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,49.8,14.16667,49.8",
+    "geom:latitude":49.8,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Obora",
+    "gn:country_code":"CZ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069199,
+    "gn:latitude":49.8,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Obora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069199
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"33f92db60343442055922b137043f337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327270397,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1327270397,
+    "wof:lastmodified":1536915169,
+    "wof:name":"Obora",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    49.8,
+    14.16667,
+    49.8
+],
+  "geometry": {"coordinates":[14.16667,49.8],"type":"Point"}
+}

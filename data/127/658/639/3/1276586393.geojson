@@ -1,0 +1,71 @@
+{
+  "id": 1276586393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36667,50.38333,13.36667,50.38333",
+    "geom:latitude":50.38333,
+    "geom:longitude":13.36667,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0422",
+    "gn:asciiname":"Tusimice",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063843,
+    "gn:latitude":50.38333,
+    "gn:longitude":13.36667,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Tu\u0161imice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuchmitz",
+        "Tu\u0161imice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063843
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"79229be35bdacd372854934007032275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276586393,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276586393,
+    "wof:lastmodified":1537619278,
+    "wof:name":"Tusimice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36667,
+    50.38333,
+    13.36667,
+    50.38333
+],
+  "geometry": {"coordinates":[13.36667,50.38333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310635153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59289,50.98392,14.59289,50.98392",
+    "geom:latitude":50.98392,
+    "geom:longitude":14.59289,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Filipov",
+    "gn:country_code":"CZ",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076181,
+    "gn:latitude":50.98392,
+    "gn:longitude":14.59289,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Filipov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phillippsdorf",
+        "Filippsdorf",
+        "Filipov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076181
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"07984e81a912e416f8d24636f04a31b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310635153,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1310635153,
+    "wof:lastmodified":1537619424,
+    "wof:name":"Filipov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59289,
+    50.98392,
+    14.59289,
+    50.98392
+],
+  "geometry": {"coordinates":[14.59289,50.98392],"type":"Point"}
+}

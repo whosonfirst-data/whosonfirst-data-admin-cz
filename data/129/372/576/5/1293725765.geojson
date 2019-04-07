@@ -1,0 +1,72 @@
+{
+  "id": 1293725765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44127,49.0241,14.44127,49.0241",
+    "geom:latitude":49.0241,
+    "geom:longitude":14.44127,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Bavorovice",
+    "gn:country_code":"CZ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079631,
+    "gn:latitude":49.0241,
+    "gn:longitude":14.44127,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Bavorovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bevorovice",
+        "Bayorovice",
+        "Baurowitz",
+        "Bavorovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079631
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fbed324a511c6dca24d28f7e8214cec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293725765,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293725765,
+    "wof:lastmodified":1537619464,
+    "wof:name":"Bavorovice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44127,
+    49.0241,
+    14.44127,
+    49.0241
+],
+  "geometry": {"coordinates":[14.44127,49.0241],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260114163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.64996,50.14557,12.64996,50.14557",
+    "geom:latitude":50.14557,
+    "geom:longitude":12.64996,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Brezova",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078664,
+    "gn:latitude":50.14557,
+    "gn:longitude":12.64996,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"B\u0159ezov\u00e1",
+    "gn:population":2826,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pr\u00f6sau"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078664,
+        "wk:page":"B%C5%99ezov%C3%A1_%28Sokolov_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9d56c35ee46ffc03e41a1c021fbefa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260114163,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1260114163,
+    "wof:lastmodified":1537619453,
+    "wof:name":"Brezova",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":2826,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.64996,
+    50.14557,
+    12.64996,
+    50.14557
+],
+  "geometry": {"coordinates":[12.64996,50.14557],"type":"Point"}
+}

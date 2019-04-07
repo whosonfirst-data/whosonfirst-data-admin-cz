@@ -1,0 +1,110 @@
+{
+  "id": 85907953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12694466.721199,
+    "geom:bbox":"18.342117,49.679159,18.342117,49.679159",
+    "geom:latitude":49.679159,
+    "geom:longitude":18.342117,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":49.679159,
+    "lbl:longitude":18.342117,
+    "mps:latitude":49.683404,
+    "mps:longitude":18.349512,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "HavAAaov",
+        "Havirov"
+    ],
+    "name:cze_x_preferred":[
+        "HavAAov"
+    ],
+    "name:unk_x_variant":[
+        "HavAAov"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3076127,
+    "qs:gn_nam_loc":"Fr\u00fddek-M\u00edstek, Fr\u00fddek-M\u00edstek, Fr\u00fddek-M\u00edstek, Moravskoslezsk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"85",
+    "qs:local_max":204,
+    "qs:local_sum":247,
+    "qs:localhoods":3,
+    "qs:name":"HavAAov",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs:name_adm2":"Fr\u00fddek-M\u00edstek",
+    "qs:name_lau":"Fr\u00fddek-M\u00edstek",
+    "qs:name_local":"Fr\u00fddek-M\u00edstek",
+    "qs:photo_max":61,
+    "qs:photo_sum":204,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070471,
+    "qs:woe_adm2":12582571,
+    "qs:woe_lau":12607677,
+    "qs:woe_local":789085,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748127,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24929054,
+        "qs:id":219944,
+        "qs_pg:id":219944
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"01cd76d8f6fc7ba814383cbe6bf9f4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748127,
+            "neighbourhood_id":85907953,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":85907953,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531936665,
+    "wof:name":"HavAAov",
+    "wof:parent_id":101748127,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.342117,
+    49.679159,
+    18.342117,
+    49.679159
+],
+  "geometry": {"coordinates":[18.342117,49.679159],"type":"Point"}
+}

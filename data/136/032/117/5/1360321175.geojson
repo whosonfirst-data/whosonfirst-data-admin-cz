@@ -1,0 +1,66 @@
+{
+  "id": 1360321175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59755,49.92216,15.59755,49.92216",
+    "geom:latitude":49.92216,
+    "geom:longitude":15.59755,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Slavkovice",
+    "gn:country_code":"CZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065827,
+    "gn:latitude":49.92216,
+    "gn:longitude":15.59755,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Slavkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065827
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c6298d130695f05776f415826415b28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360321175,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1360321175,
+    "wof:lastmodified":1536601872,
+    "wof:name":"Slavkovice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59755,
+    49.92216,
+    15.59755,
+    49.92216
+],
+  "geometry": {"coordinates":[15.59755,49.92216],"type":"Point"}
+}

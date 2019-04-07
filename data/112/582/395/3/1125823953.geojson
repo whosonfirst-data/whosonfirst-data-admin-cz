@@ -1,0 +1,140 @@
+{
+  "id": 1125823953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23472,49.3896,15.23472,49.3896",
+    "geom:latitude":49.3896,
+    "geom:longitude":15.23472,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":534,
+    "gn:population":534,
+    "iso:country":"CZ",
+    "lbl:latitude":49.3896,
+    "lbl:longitude":15.23472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:dut_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:eng_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:epo_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:fre_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:ger_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:hun_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:ita_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:may_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u06cc\u0646\u0627\u0631\u062a\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:por_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:slo_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043d\u0430\u0440\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "name:unk_x_variant":[
+        "Rinaretz"
+    ],
+    "name:vie_x_preferred":[
+        "Ryn\u00e1rec"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066481,
+    "qs_pg:gn_pop":534,
+    "qs_pg:name":"Ryn\u00e1rec",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":342052,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797692,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066481,
+        "gp:id":797692,
+        "qs_pg:id":342052,
+        "wd:id":"Q1090449"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292190,
+    "wof:geomhash":"7bd0538b407849d12b5ef901fb3b6759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125823953,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125823953,
+    "wof:lastmodified":1513945663,
+    "wof:name":"Ryn\u00e1rec",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":534,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23472,
+    49.3896,
+    15.23472,
+    49.3896
+],
+  "geometry": {"coordinates":[15.23472,49.3896],"type":"Point"}
+}

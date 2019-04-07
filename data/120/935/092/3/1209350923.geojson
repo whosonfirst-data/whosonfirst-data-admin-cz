@@ -1,0 +1,66 @@
+{
+  "id": 1209350923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52259,48.92219,15.52259,48.92219",
+    "geom:latitude":48.92219,
+    "geom:longitude":15.52259,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Hluboka",
+    "gn:country_code":"CZ",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075741,
+    "gn:latitude":48.92219,
+    "gn:longitude":15.52259,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Hlubok\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiefenbach",
+        "Hlubok\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075741
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a234d2003b8f61dc8f830d562810cf68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209350923
+        }
+    ],
+    "wof:id":1209350923,
+    "wof:lastmodified":1537619418,
+    "wof:name":"Hluboka",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52259,
+    48.92219,
+    15.52259,
+    48.92219
+],
+  "geometry": {"coordinates":[15.52259,48.92219],"type":"Point"}
+}

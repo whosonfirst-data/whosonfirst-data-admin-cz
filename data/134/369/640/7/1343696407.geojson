@@ -1,0 +1,66 @@
+{
+  "id": 1343696407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4497,49.12022,15.4497,49.12022",
+    "geom:latitude":49.12022,
+    "geom:longitude":15.4497,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Velky Pecin",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063138,
+    "gn:latitude":49.12022,
+    "gn:longitude":15.4497,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"Velk\u00fd P\u011b\u010d\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063138
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d25d69c17522f4fc5a86d679a83d5bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343696407,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343696407,
+    "wof:lastmodified":1536903373,
+    "wof:name":"Velky Pecin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4497,
+    49.12022,
+    15.4497,
+    49.12022
+],
+  "geometry": {"coordinates":[15.4497,49.12022],"type":"Point"}
+}

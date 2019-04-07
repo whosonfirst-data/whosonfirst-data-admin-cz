@@ -1,0 +1,66 @@
+{
+  "id": 1327268357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07569,50.04426,15.07569,50.04426",
+    "geom:latitude":50.04426,
+    "geom:longitude":15.07569,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0204",
+    "gn:asciiname":"Nove Mesto",
+    "gn:country_code":"CZ",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069471,
+    "gn:latitude":50.04426,
+    "gn:longitude":15.07569,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Nov\u00e9 M\u011bsto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069471
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dfddb03f80208b74b950fc10a47852b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327268357,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1327268357,
+    "wof:lastmodified":1536918299,
+    "wof:name":"Nove Mesto",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07569,
+    50.04426,
+    15.07569,
+    50.04426
+],
+  "geometry": {"coordinates":[15.07569,50.04426],"type":"Point"}
+}

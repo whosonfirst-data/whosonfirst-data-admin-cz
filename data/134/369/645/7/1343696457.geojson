@@ -1,0 +1,70 @@
+{
+  "id": 1343696457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25037,50.10902,13.25037,50.10902",
+    "geom:latitude":50.10902,
+    "geom:longitude":13.25037,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Chysky",
+    "gn:country_code":"CZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077452,
+    "gn:latitude":50.10902,
+    "gn:longitude":13.25037,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Ch\u00fd\u0161ky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160picberk",
+        "Ch\u00fd\u0161ky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077452
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2e8f033c50e3de96a36503bad4e24358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343696457,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1343696457,
+    "wof:lastmodified":1537619442,
+    "wof:name":"Chysky",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25037,
+    50.10902,
+    13.25037,
+    50.10902
+],
+  "geometry": {"coordinates":[13.25037,50.10902],"type":"Point"}
+}

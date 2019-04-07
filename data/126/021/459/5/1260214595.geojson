@@ -1,0 +1,70 @@
+{
+  "id": 1260214595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50048,49.66047,16.50048,49.66047",
+    "geom:latitude":49.66047,
+    "geom:longitude":16.50048,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Ceska Dlouha",
+    "gn:country_code":"CZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077935,
+    "gn:latitude":49.66047,
+    "gn:longitude":16.50048,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"\u010cesk\u00e1 Dlouh\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f6hmisch Wiesen",
+        "\u010cesk\u00e1 Dlouh\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077935
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6ea42f9207dddfc6628523e46de0cca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260214595,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1260214595,
+    "wof:lastmodified":1537619446,
+    "wof:name":"Ceska Dlouha",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50048,
+    49.66047,
+    16.50048,
+    49.66047
+],
+  "geometry": {"coordinates":[16.50048,49.66047],"type":"Point"}
+}

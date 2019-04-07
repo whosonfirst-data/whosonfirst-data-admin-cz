@@ -1,0 +1,66 @@
+{
+  "id": 1293031829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33334,49.06162,14.33334,49.06162",
+    "geom:latitude":49.06162,
+    "geom:longitude":14.33334,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Pasice",
+    "gn:country_code":"CZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068551,
+    "gn:latitude":49.06162,
+    "gn:longitude":14.33334,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Pa\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068551
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"60584b276ed7067b3ec6f5d93ae7628b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293031829,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293031829,
+    "wof:lastmodified":1536947444,
+    "wof:name":"Pasice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33334,
+    49.06162,
+    14.33334,
+    49.06162
+],
+  "geometry": {"coordinates":[14.33334,49.06162],"type":"Point"}
+}

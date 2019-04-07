@@ -1,0 +1,70 @@
+{
+  "id": 1309840103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.92849,49.64827,12.92849,49.64827",
+    "geom:latitude":49.64827,
+    "geom:longitude":12.92849,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Telice",
+    "gn:country_code":"CZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064308,
+    "gn:latitude":49.64827,
+    "gn:longitude":12.92849,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Telice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00f6litschen",
+        "Telice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064308
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f3d87574139685127ecc3b4423e9ddda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309840103,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1309840103,
+    "wof:lastmodified":1537619282,
+    "wof:name":"Telice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.92849,
+    49.64827,
+    12.92849,
+    49.64827
+],
+  "geometry": {"coordinates":[12.92849,49.64827],"type":"Point"}
+}

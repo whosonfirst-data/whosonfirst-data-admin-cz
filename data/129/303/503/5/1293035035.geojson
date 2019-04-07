@@ -1,0 +1,70 @@
+{
+  "id": 1293035035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07656,49.25409,15.07656,49.25409",
+    "geom:latitude":49.25409,
+    "geom:longitude":15.07656,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Zd'ar",
+    "gn:country_code":"CZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061720,
+    "gn:latitude":49.25409,
+    "gn:longitude":15.07656,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"\u017d\u010f\u00e1r",
+    "gn:population":72,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061720,
+        "wk:page":"%C5%BD%C4%8F%C3%A1r_%28Jind%C5%99ich%C5%AFv_Hradec_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cdc8b12e5bd0d4f2eab1d7f80c67f862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293035035,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293035035,
+    "wof:lastmodified":1537504011,
+    "wof:name":"Zd'ar",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07656,
+    49.25409000000001,
+    15.07656,
+    49.25409000000001
+],
+  "geometry": {"coordinates":[15.07656,49.25409000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327171047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20014,49.97748,16.20014,49.97748",
+    "geom:latitude":49.97748,
+    "geom:longitude":16.20014,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Dvorisko",
+    "gn:country_code":"CZ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076265,
+    "gn:latitude":49.97748,
+    "gn:longitude":16.20014,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Dvo\u0159isko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076265
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ccd5ab917e67060f17b79f0e0079e3e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327171047,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1327171047,
+    "wof:lastmodified":1537055683,
+    "wof:name":"Dvorisko",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20014,
+    49.97748,
+    16.20014,
+    49.97748
+],
+  "geometry": {"coordinates":[16.20014,49.97748],"type":"Point"}
+}

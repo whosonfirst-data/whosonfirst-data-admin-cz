@@ -1,0 +1,70 @@
+{
+  "id": 1259620033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07104,48.84098,17.07104,48.84098",
+    "geom:latitude":48.84098,
+    "geom:longitude":17.07104,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0625",
+    "gn:asciiname":"Luzice",
+    "gn:country_code":"CZ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071330,
+    "gn:latitude":48.84098,
+    "gn:longitude":17.07104,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Lu\u017eice",
+    "gn:population":2750,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071330,
+        "wk:page":"Lu%C5%BEice_%28Hodon%C3%ADn_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ef35aadeb518e70dbebcfa8feb51acef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259620033,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1259620033,
+    "wof:lastmodified":1537504044,
+    "wof:name":"Luzice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":2750,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07104,
+    48.84098,
+    17.07104,
+    48.84098
+],
+  "geometry": {"coordinates":[17.07104,48.84098],"type":"Point"}
+}

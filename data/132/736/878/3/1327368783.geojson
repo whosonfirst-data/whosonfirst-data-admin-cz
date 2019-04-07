@@ -1,0 +1,69 @@
+{
+  "id": 1327368783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34621,48.65992,14.34621,48.65992",
+    "geom:latitude":48.65992,
+    "geom:longitude":14.34621,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Priesern",
+    "gn:country_code":"CZ",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067469,
+    "gn:latitude":48.65992,
+    "gn:longitude":14.34621,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Priesern",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0159\u00edze\u0159"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067469
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5124f854713177d3a00a0a9d7ed5a63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327368783,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327368783,
+    "wof:lastmodified":1537619319,
+    "wof:name":"Priesern",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34621,
+    48.65992,
+    14.34621,
+    48.65992
+],
+  "geometry": {"coordinates":[14.34621,48.65992],"type":"Point"}
+}

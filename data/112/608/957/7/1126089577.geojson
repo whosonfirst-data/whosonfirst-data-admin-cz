@@ -1,0 +1,103 @@
+{
+  "id": 1126089577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33994,49.81488,18.33994,49.81488",
+    "geom:latitude":49.81488,
+    "geom:longitude":18.33994,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CZ",
+    "lbl:latitude":49.81488,
+    "lbl:longitude":18.33994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Radvanice"
+    ],
+    "name:eng_x_preferred":[
+        "Radvanice"
+    ],
+    "name:epo_x_preferred":[
+        "Radvanice"
+    ],
+    "name:fre_x_preferred":[
+        "Radvanice"
+    ],
+    "name:pol_x_preferred":[
+        "Radwanice"
+    ],
+    "name:unk_x_variant":[
+        "Radwanitz"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067103,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Radvanice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":358116,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797143,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101748125,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067103,
+        "gp:id":797143,
+        "qs_pg:id":358116,
+        "wd:id":"Q3490336"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497313466,
+    "wof:geomhash":"c7cbda9d313e56788ac53433ffa34d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748125,
+            "neighbourhood_id":1126089577,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1126089577,
+    "wof:lastmodified":1513945626,
+    "wof:name":"Radvanice",
+    "wof:parent_id":101748125,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33994,
+    49.81488,
+    18.33994,
+    49.81488
+],
+  "geometry": {"coordinates":[18.33994,49.81488],"type":"Point"}
+}

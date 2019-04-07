@@ -1,0 +1,70 @@
+{
+  "id": 1327463049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01164,50.33098,13.01164,50.33098",
+    "geom:latitude":50.33098,
+    "geom:longitude":13.01164,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Damice",
+    "gn:country_code":"CZ",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077281,
+    "gn:latitude":50.33098,
+    "gn:longitude":13.01164,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Damice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damitz",
+        "Damice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077281
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c1a99ffcfab5da14f9f1b39e32a2b7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327463049,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1327463049,
+    "wof:lastmodified":1537619440,
+    "wof:name":"Damice",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01164,
+    50.33098,
+    13.01164,
+    50.33098
+],
+  "geometry": {"coordinates":[13.01164,50.33098],"type":"Point"}
+}

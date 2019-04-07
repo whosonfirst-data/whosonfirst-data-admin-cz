@@ -1,0 +1,66 @@
+{
+  "id": 1226273077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.463,49.63807,14.463,49.63807",
+    "geom:latitude":49.63807,
+    "geom:longitude":14.463,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Dohnalova Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076976,
+    "gn:latitude":49.63807,
+    "gn:longitude":14.463,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Dohnalova Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076976
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7a4d23a0ae9a43edd9facbbc50e9d3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226273077,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226273077,
+    "wof:lastmodified":1536894055,
+    "wof:name":"Dohnalova Lhota",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.463,
+    49.63807,
+    14.463,
+    49.63807
+],
+  "geometry": {"coordinates":[14.463,49.63807],"type":"Point"}
+}

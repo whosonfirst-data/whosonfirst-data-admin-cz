@@ -1,0 +1,73 @@
+{
+  "id": 1192966883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.88911,49.5903,16.88911,49.5903",
+    "geom:latitude":49.5903,
+    "geom:longitude":16.88911,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0713",
+    "gn:asciiname":"Konice",
+    "gn:country_code":"CZ",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073299,
+    "gn:latitude":49.5903,
+    "gn:longitude":16.88911,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Konice",
+    "gn:population":2931,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konitz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073299,
+        "wk:page":"Konice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e516cf293967ce2a3f65cc84fe747d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1192966883,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1192966883,
+    "wof:lastmodified":1537619389,
+    "wof:name":"Konice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":2931,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.88911,
+    49.5903,
+    16.88911,
+    49.5903
+],
+  "geometry": {"coordinates":[16.88911,49.5903],"type":"Point"}
+}

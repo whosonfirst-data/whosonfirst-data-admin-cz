@@ -1,0 +1,66 @@
+{
+  "id": 1326864571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12615,49.22826,15.12615,49.22826",
+    "geom:latitude":49.22826,
+    "geom:longitude":15.12615,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Zdesov",
+    "gn:country_code":"CZ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061663,
+    "gn:latitude":49.22826,
+    "gn:longitude":15.12615,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"Zde\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061663
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ccf07cf31792e303e66714e6f8927911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326864571,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1326864571,
+    "wof:lastmodified":1537001398,
+    "wof:name":"Zdesov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12615,
+    49.22826,
+    15.12615,
+    49.22826
+],
+  "geometry": {"coordinates":[15.12615,49.22826],"type":"Point"}
+}

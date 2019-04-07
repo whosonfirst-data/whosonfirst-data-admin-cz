@@ -1,0 +1,150 @@
+{
+  "id": 101779971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":667915.894637,
+    "geom:bbox":"16.7051666069,49.0963752168,16.7233938413,49.105408427",
+    "geom:latitude":49.100804,
+    "geom:longitude":16.714328,
+    "gn:population":1296,
+    "iso:country":"CZ",
+    "lbl:latitude":49.101007,
+    "lbl:longitude":16.714466,
+    "mps:latitude":49.101007,
+    "mps:longitude":16.714466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Telnice"
+    ],
+    "name:ces_x_preferred":[
+        "Telnice"
+    ],
+    "name:cze_x_preferred":[
+        "Telnice"
+    ],
+    "name:deu_x_preferred":[
+        "Telnice"
+    ],
+    "name:deu_x_variant":[
+        "Telnitz"
+    ],
+    "name:dut_x_preferred":[
+        "Telnice"
+    ],
+    "name:eng_x_preferred":[
+        "Telnice"
+    ],
+    "name:fra_x_preferred":[
+        "Telnice"
+    ],
+    "name:fre_x_preferred":[
+        "Telnice"
+    ],
+    "name:ger_x_preferred":[
+        "Telnice u Brna"
+    ],
+    "name:hun_x_preferred":[
+        "Telnice"
+    ],
+    "name:ita_x_preferred":[
+        "Telnice"
+    ],
+    "name:may_x_preferred":[
+        "Telnice"
+    ],
+    "name:msa_x_preferred":[
+        "Telnice"
+    ],
+    "name:nld_x_preferred":[
+        "Telnice"
+    ],
+    "name:nob_x_preferred":[
+        "Telnice"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0644\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Telnice"
+    ],
+    "name:rup_x_preferred":[
+        "Telnice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u043d\u0438\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Telnice"
+    ],
+    "name:slo_x_preferred":[
+        "Telnice"
+    ],
+    "name:swe_x_preferred":[
+        "Telnice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"\u017dat\u010dany",
+    "qs:la_lc":"*CZ0623584240",
+    "qs:level":"locality",
+    "qs:loc":"Telnice",
+    "qs:loc_alt":"Telnice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064307,
+        "gp:id":799582,
+        "qs:id":1268430,
+        "qs_pg:id":1268430,
+        "wd:id":"Q2116416",
+        "wk:page":"Telnice (Brno-Country District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"09c4af68693e48761638f8967c356c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779971,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101779971,
+    "wof:lastmodified":1553815495,
+    "wof:name":"Telnice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1296,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.705166606886,
+    49.09637521678798,
+    16.72339384131641,
+    49.10540842700567
+],
+  "geometry": {"coordinates":[[[16.71830360226409,49.10532643793499],[16.7180585527874,49.10353619764601],[16.71942303475146,49.1034541954071],[16.71930049390818,49.10255907624145],[16.72339384131641,49.10231297506323],[16.72327123250744,49.10141786055914],[16.72190681204904,49.10149990916898],[16.72178423338573,49.10060479245351],[16.72041983330342,49.10068682274363],[16.72029728478378,49.0997917038174],[16.71893290507808,49.09987371578848],[16.71868787393691,49.09808347302294],[16.71732353913126,49.09816546495847],[16.71707857949468,49.09637521678798],[16.71298569733597,49.09662108269265],[16.7131081007812,49.09751621217288],[16.71037944290981,49.09768004320551],[16.7105018029178,49.09857517562421],[16.70777307942762,49.09873894368343],[16.70789539599286,49.09963407903928],[16.705166606886,49.09979778412185],[16.70528888000314,49.10069292241405],[16.70665330115412,49.1006110764597],[16.70689791326106,49.10240134813995],[16.71099129903666,49.10215570037576],[16.71123608075385,49.10394595979824],[16.7126005834528,49.10386404057374],[16.712723007259,49.10475916783122],[16.71681656407412,49.10451330539024],[16.71693906708913,49.10540842700567],[16.71830360226409,49.10532643793499]]],"type":"Polygon"}
+}

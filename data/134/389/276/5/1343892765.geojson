@@ -1,0 +1,66 @@
+{
+  "id": 1343892765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71321,49.51402,14.71321,49.51402",
+    "geom:latitude":49.51402,
+    "geom:longitude":14.71321,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Dedice",
+    "gn:country_code":"CZ",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077235,
+    "gn:latitude":49.51402,
+    "gn:longitude":14.71321,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"D\u011bdice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077235
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"11d5c75d8086024a95f08823c6d8a4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343892765,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343892765,
+    "wof:lastmodified":1536617752,
+    "wof:name":"Dedice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71321,
+    49.51402,
+    14.71321,
+    49.51402
+],
+  "geometry": {"coordinates":[14.71321,49.51402],"type":"Point"}
+}

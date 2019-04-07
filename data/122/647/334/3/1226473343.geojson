@@ -1,0 +1,66 @@
+{
+  "id": 1226473343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95,49.11667,15.95,49.11667",
+    "geom:latitude":49.11667,
+    "geom:longitude":15.95,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0614",
+    "gn:asciiname":"Dvur Jirikov",
+    "gn:country_code":"CZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076248,
+    "gn:latitude":49.11667,
+    "gn:longitude":15.95,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Dv\u016fr Ji\u0159\u00edkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076248
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1babb6c960f4b313b1b7bea495720392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226473343,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1226473343,
+    "wof:lastmodified":1536602654,
+    "wof:name":"Dvur Jirikov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95,
+    49.11667,
+    15.95,
+    49.11667
+],
+  "geometry": {"coordinates":[15.95,49.11667],"type":"Point"}
+}

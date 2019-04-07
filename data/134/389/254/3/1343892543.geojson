@@ -1,0 +1,66 @@
+{
+  "id": 1343892543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80515,49.58444,14.80515,49.58444",
+    "geom:latitude":49.58444,
+    "geom:longitude":14.80515,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Vosna",
+    "gn:country_code":"CZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062561,
+    "gn:latitude":49.58444,
+    "gn:longitude":14.80515,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"Vosn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062561
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"153498e7eac885c40043d3e0d4603a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343892543,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343892543,
+    "wof:lastmodified":1536618113,
+    "wof:name":"Vosna",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80515,
+    49.58444,
+    14.80515,
+    49.58444
+],
+  "geometry": {"coordinates":[14.80515,49.58444],"type":"Point"}
+}

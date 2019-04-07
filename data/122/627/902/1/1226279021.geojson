@@ -1,0 +1,66 @@
+{
+  "id": 1226279021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.30288,49.87562,16.30288,49.87562",
+    "geom:latitude":49.87562,
+    "geom:longitude":16.30288,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Lany",
+    "gn:country_code":"CZ",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072327,
+    "gn:latitude":49.87562,
+    "gn:longitude":16.30288,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"L\u00e1ny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072327
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"63994388d56ff70f2267a47f4f62f3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226279021,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1226279021,
+    "wof:lastmodified":1536885088,
+    "wof:name":"Lany",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30288,
+    49.87562,
+    16.30288,
+    49.87562
+],
+  "geometry": {"coordinates":[16.30288,49.87562],"type":"Point"}
+}

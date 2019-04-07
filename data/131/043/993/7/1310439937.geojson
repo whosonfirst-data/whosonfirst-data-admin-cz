@@ -1,0 +1,66 @@
+{
+  "id": 1310439937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89395,49.27311,16.89395,49.27311",
+    "geom:latitude":49.27311,
+    "geom:longitude":16.89395,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0626",
+    "gn:asciiname":"Pistovice",
+    "gn:country_code":"CZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068273,
+    "gn:latitude":49.27311,
+    "gn:longitude":16.89395,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"P\u00edstovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068273
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"02f09de8cb78485b04d2b408e9620d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310439937,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1310439937,
+    "wof:lastmodified":1537010874,
+    "wof:name":"Pistovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89395,
+    49.27311,
+    16.89395,
+    49.27311
+],
+  "geometry": {"coordinates":[16.89395,49.27311],"type":"Point"}
+}

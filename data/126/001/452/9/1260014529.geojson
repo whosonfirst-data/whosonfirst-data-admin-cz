@@ -1,0 +1,70 @@
+{
+  "id": 1260014529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36336,48.94331,16.36336,48.94331",
+    "geom:latitude":48.94331,
+    "geom:longitude":16.36336,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0627",
+    "gn:asciiname":"Suchohrdly",
+    "gn:country_code":"CZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064735,
+    "gn:latitude":48.94331,
+    "gn:longitude":16.36336,
+    "gn:modification_date":"2017-01-17",
+    "gn:name":"Suchohrdly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Socherl",
+        "Suchohrdly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064735
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1e18d47275fbcb9b0ad4385b642a1348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260014529,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1260014529,
+    "wof:lastmodified":1537619287,
+    "wof:name":"Suchohrdly",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36336,
+    48.94331,
+    16.36336,
+    48.94331
+],
+  "geometry": {"coordinates":[16.36336,48.94331],"type":"Point"}
+}

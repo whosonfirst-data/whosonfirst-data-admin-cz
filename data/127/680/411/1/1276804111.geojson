@@ -1,0 +1,70 @@
+{
+  "id": 1276804111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94148,48.78261,13.94148,48.78261",
+    "geom:latitude":48.78261,
+    "geom:longitude":13.94148,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Laz",
+    "gn:country_code":"CZ",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072300,
+    "gn:latitude":48.78261,
+    "gn:longitude":13.94148,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"L\u00e1z",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geh\u00e4ng",
+        "L\u00e1z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072300
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7348e609c1cf42a9eca2019c0ccc68f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276804111,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276804111,
+    "wof:lastmodified":1537619378,
+    "wof:name":"Laz",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94148,
+    48.78261,
+    13.94148,
+    48.78261
+],
+  "geometry": {"coordinates":[13.94148,48.78261],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209952353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59297,50.28187,14.59297,50.28187",
+    "geom:latitude":50.28187,
+    "geom:longitude":14.59297,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Vsetaty",
+    "gn:country_code":"CZ",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062342,
+    "gn:latitude":50.28187,
+    "gn:longitude":14.59297,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"V\u0161etaty",
+    "gn:population":2019,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wschetat"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062342,
+        "wk:page":"V%C5%A1etaty_%28M%C4%9Bln%C3%ADk_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"321104b1f043e1921d38c493981b89d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209952353,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1209952353,
+    "wof:lastmodified":1537619263,
+    "wof:name":"Vsetaty",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":2019,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59297,
+    50.28187,
+    14.59297,
+    50.28187
+],
+  "geometry": {"coordinates":[14.59297,50.28187],"type":"Point"}
+}

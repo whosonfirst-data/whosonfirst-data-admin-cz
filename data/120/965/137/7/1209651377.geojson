@@ -1,0 +1,62 @@
+{
+  "id": 1209651377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9649,49.46286,15.9649,49.46286",
+    "geom:latitude":49.46286,
+    "geom:longitude":15.9649,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Radostin",
+    "gn:country_code":"CZ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067136,
+    "gn:latitude":49.46286,
+    "gn:longitude":15.9649,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Radost\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067136
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"853492f2645be5bffcc838a40232f8be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209651377
+        }
+    ],
+    "wof:id":1209651377,
+    "wof:lastmodified":1536280569,
+    "wof:name":"Radostin",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9649,
+    49.46286,
+    15.9649,
+    49.46286
+],
+  "geometry": {"coordinates":[15.9649,49.46286],"type":"Point"}
+}

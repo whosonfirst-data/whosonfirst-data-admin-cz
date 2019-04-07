@@ -1,0 +1,62 @@
+{
+  "id": 1209552353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25,48.95,16.25,48.95",
+    "geom:latitude":48.95,
+    "geom:longitude":16.25,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0627",
+    "gn:asciiname":"Chlupice",
+    "gn:country_code":"CZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077739,
+    "gn:latitude":48.95,
+    "gn:longitude":16.25,
+    "gn:modification_date":"2017-01-17",
+    "gn:name":"Chlupice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077739
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fc7037f7676583ebda452672cd98c7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209552353
+        }
+    ],
+    "wof:id":1209552353,
+    "wof:lastmodified":1536283653,
+    "wof:name":"Chlupice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25,
+    48.95,
+    16.25,
+    48.95
+],
+  "geometry": {"coordinates":[16.25,48.95],"type":"Point"}
+}

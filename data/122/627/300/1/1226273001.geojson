@@ -1,0 +1,70 @@
+{
+  "id": 1226273001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00709,50.54901,16.00709,50.54901",
+    "geom:latitude":50.54901,
+    "geom:longitude":16.00709,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Stary Sedlonov",
+    "gn:country_code":"CZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065237,
+    "gn:latitude":50.54901,
+    "gn:longitude":16.00709,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Star\u00fd Sedlo\u0148ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt-Sedlowitz",
+        "Star\u00fd Sedlo\u0148ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065237
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e40d3761059687036e898ed5cb64e933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226273001,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1226273001,
+    "wof:lastmodified":1537619293,
+    "wof:name":"Stary Sedlonov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00709,
+    50.54901,
+    16.00709,
+    50.54901
+],
+  "geometry": {"coordinates":[16.00709,50.54901],"type":"Point"}
+}

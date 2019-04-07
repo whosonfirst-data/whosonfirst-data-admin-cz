@@ -1,0 +1,71 @@
+{
+  "id": 1242813959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.75166,50.15937,12.75166,50.15937",
+    "geom:latitude":50.15937,
+    "geom:longitude":12.75166,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Nadlesi",
+    "gn:country_code":"CZ",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070110,
+    "gn:latitude":50.15937,
+    "gn:longitude":12.75166,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Nadles\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nallesgruen",
+        "Nallesgr\u00fcn",
+        "Nadles\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070110
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3ac1234dd900e0928e59e2ffaad3d794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242813959,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1242813959,
+    "wof:lastmodified":1537619350,
+    "wof:name":"Nadlesi",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.75166,
+    50.15937,
+    12.75166,
+    50.15937
+],
+  "geometry": {"coordinates":[12.75166,50.15937],"type":"Point"}
+}

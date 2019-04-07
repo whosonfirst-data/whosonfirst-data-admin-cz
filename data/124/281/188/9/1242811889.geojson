@@ -1,0 +1,73 @@
+{
+  "id": 1242811889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70819,48.80687,14.70819,48.80687",
+    "geom:latitude":48.80687,
+    "geom:longitude":14.70819,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Zar",
+    "gn:country_code":"CZ",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061860,
+    "gn:latitude":48.80687,
+    "gn:longitude":14.70819,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"\u017d\u00e1r",
+    "gn:population":335,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sohors"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061860,
+        "wk:page":"%C5%BD%C3%A1r_%28%C4%8Cesk%C3%A9_Bud%C4%9Bjovice_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a1bc51bb09e3faefb6261751611bfef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242811889,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1242811889,
+    "wof:lastmodified":1537619257,
+    "wof:name":"Zar",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":335,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70819,
+    48.80687,
+    14.70819,
+    48.80687
+],
+  "geometry": {"coordinates":[14.70819,48.80687],"type":"Point"}
+}

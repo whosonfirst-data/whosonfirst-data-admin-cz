@@ -1,0 +1,70 @@
+{
+  "id": 1310041951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66172,50.05476,17.66172,50.05476",
+    "geom:latitude":50.05476,
+    "geom:longitude":17.66172,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Larysov",
+    "gn:country_code":"CZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072315,
+    "gn:latitude":50.05476,
+    "gn:longitude":17.66172,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"L\u00e1ry\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Larischau",
+        "L\u00e1ry\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072315
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ebe862c0fd247e2de7554a3fde088fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310041951,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1310041951,
+    "wof:lastmodified":1537619378,
+    "wof:name":"Larysov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66172000000001,
+    50.05476,
+    17.66172000000001,
+    50.05476
+],
+  "geometry": {"coordinates":[17.66172000000001,50.05476],"type":"Point"}
+}

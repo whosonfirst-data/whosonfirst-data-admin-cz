@@ -1,0 +1,66 @@
+{
+  "id": 1243100983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.431,50.32069,15.431,50.32069",
+    "geom:latitude":50.32069,
+    "geom:longitude":15.431,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Velesice",
+    "gn:country_code":"CZ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063309,
+    "gn:latitude":50.32069,
+    "gn:longitude":15.431,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Vele\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063309
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4910b63d1b4effaef1312878cc222b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243100983,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1243100983,
+    "wof:lastmodified":1536806308,
+    "wof:name":"Velesice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.431,
+    50.32069,
+    15.431,
+    50.32069
+],
+  "geometry": {"coordinates":[15.431,50.32069],"type":"Point"}
+}

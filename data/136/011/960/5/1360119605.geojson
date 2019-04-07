@@ -1,0 +1,70 @@
+{
+  "id": 1360119605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55,49.8,17.55,49.8",
+    "geom:latitude":49.8,
+    "geom:longitude":17.55,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Horni Gruntramovice",
+    "gn:country_code":"CZ",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075387,
+    "gn:latitude":49.8,
+    "gn:longitude":17.55,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Horn\u00ed Gruntramovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober G\u00fcndersdorf",
+        "Horn\u00ed Gruntramovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075387
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4e65b13d8f316d2388d8ec80dbb62034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360119605,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1360119605,
+    "wof:lastmodified":1537619414,
+    "wof:name":"Horni Gruntramovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55,
+    49.8,
+    17.55,
+    49.8
+],
+  "geometry": {"coordinates":[17.55,49.8],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125889563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08095,49.15111,17.08095,49.15111",
+    "geom:latitude":49.15111,
+    "geom:longitude":17.08095,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1152,
+    "gn:population":1152,
+    "iso:country":"CZ",
+    "lbl:latitude":49.15111,
+    "lbl:longitude":17.08095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0441\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Nessowitz"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069832,
+    "qs_pg:gn_pop":1152,
+    "qs_pg:name":"Nesovice",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1043014,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069832,
+        "qs_pg:id":1043014
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295251,
+    "wof:geomhash":"553a86b26a951f2582263a3a89c262f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125889563,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125889563,
+    "wof:lastmodified":1509398713,
+    "wof:name":"Nesovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1152,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08095,
+    49.15111,
+    17.08095,
+    49.15111
+],
+  "geometry": {"coordinates":[17.08095,49.15111],"type":"Point"}
+}

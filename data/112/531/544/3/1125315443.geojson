@@ -1,0 +1,80 @@
+{
+  "id": 1125315443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17568,49.25153,15.17568,49.25153",
+    "geom:latitude":49.25153,
+    "geom:longitude":15.17568,
+    "gn:gn_country":null,
+    "iso:country":"CZ",
+    "lbl:latitude":49.25153,
+    "lbl:longitude":15.17568,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u017dirovnice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1140,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1209777,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12604603,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12604603,
+        "qs_pg:id":1209777
+    },
+    "wof:country":"CZ",
+    "wof:created":1497044254,
+    "wof:geomhash":"1fccb3efaaac5fc71758ca7ed3691d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125315443,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125315443,
+    "wof:lastmodified":1509387991,
+    "wof:name":"\u017dirovnice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17568,
+    49.25153,
+    15.17568,
+    49.25153
+],
+  "geometry": {"coordinates":[15.17568,49.25153],"type":"Point"}
+}

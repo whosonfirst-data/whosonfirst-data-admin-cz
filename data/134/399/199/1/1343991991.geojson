@@ -1,0 +1,66 @@
+{
+  "id": 1343991991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95394,49.56803,14.95394,49.56803",
+    "geom:latitude":49.56803,
+    "geom:longitude":14.95394,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Velka Ves",
+    "gn:country_code":"CZ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063222,
+    "gn:latitude":49.56803,
+    "gn:longitude":14.95394,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Velk\u00e1 Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063222
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9aaa20ca404c13a953e5d84f2a54b4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343991991,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1343991991,
+    "wof:lastmodified":1536974035,
+    "wof:name":"Velka Ves",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95394,
+    49.56803,
+    14.95394,
+    49.56803
+],
+  "geometry": {"coordinates":[14.95394,49.56803],"type":"Point"}
+}

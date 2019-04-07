@@ -1,0 +1,66 @@
+{
+  "id": 1326561137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02489,50.50634,16.02489,50.50634",
+    "geom:latitude":50.50634,
+    "geom:longitude":16.02489,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Sychrov",
+    "gn:country_code":"CZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064401,
+    "gn:latitude":50.50634,
+    "gn:longitude":16.02489,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Sychrov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064401
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7ba3ee8db2fa3a90933cb897428bc62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326561137,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1326561137,
+    "wof:lastmodified":1536942969,
+    "wof:name":"Sychrov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02489,
+    50.50634,
+    16.02489,
+    50.50634
+],
+  "geometry": {"coordinates":[16.02489,50.50634],"type":"Point"}
+}

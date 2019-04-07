@@ -1,0 +1,70 @@
+{
+  "id": 1327061225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41986,49.51157,14.41986,49.51157",
+    "geom:latitude":49.51157,
+    "geom:longitude":14.41986,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Podchysska Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068110,
+    "gn:latitude":49.51157,
+    "gn:longitude":14.41986,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Podch\u00fd\u0161sk\u00e1 Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tetaurova Lhota",
+        "Podch\u00fd\u0161sk\u00e1 Lhota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068110
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2a0f4da8f4f06ffa125f38c13cbaa287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327061225,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327061225,
+    "wof:lastmodified":1537619325,
+    "wof:name":"Podchysska Lhota",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41986,
+    49.51157,
+    14.41986,
+    49.51157
+],
+  "geometry": {"coordinates":[14.41986,49.51157],"type":"Point"}
+}

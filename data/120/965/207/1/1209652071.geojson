@@ -1,0 +1,66 @@
+{
+  "id": 1209652071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54561,50.17413,15.54561,50.17413",
+    "geom:latitude":50.17413,
+    "geom:longitude":15.54561,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Tresice",
+    "gn:country_code":"CZ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064038,
+    "gn:latitude":50.17413,
+    "gn:longitude":15.54561,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"T\u0159esice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dv\u016dr T\u0159esice",
+        "T\u0159esice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064038
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ff3d09bfa0fda826b912a9cfc33cfd69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209652071
+        }
+    ],
+    "wof:id":1209652071,
+    "wof:lastmodified":1537619280,
+    "wof:name":"Tresice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54561,
+    50.17413,
+    15.54561,
+    50.17413
+],
+  "geometry": {"coordinates":[15.54561,50.17413],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101779923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1046694.482703,
+    "geom:bbox":"16.9362286997,49.2696726862,16.9631307539,49.2804096738",
+    "geom:latitude":49.275123,
+    "geom:longitude":16.951088,
+    "gn:population":2225,
+    "iso:country":"CZ",
+    "lbl:latitude":49.274189,
+    "lbl:longitude":16.950884,
+    "mps:latitude":49.274189,
+    "mps:longitude":16.950884,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Drnovice"
+    ],
+    "name:ces_x_preferred":[
+        "Drnovice"
+    ],
+    "name:deu_x_preferred":[
+        "Drnovice u Vy\u0161kova"
+    ],
+    "name:fra_x_preferred":[
+        "Drnovice"
+    ],
+    "name:hrv_x_preferred":[
+        "Drnovice"
+    ],
+    "name:hun_x_preferred":[
+        "Drnovice"
+    ],
+    "name:ita_x_preferred":[
+        "Drnovice"
+    ],
+    "name:lit_x_preferred":[
+        "Drnovic\u0117s"
+    ],
+    "name:msa_x_preferred":[
+        "Drnovice"
+    ],
+    "name:nld_x_preferred":[
+        "Drnovice"
+    ],
+    "name:unk_x_variant":[
+        "Drnowitz"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Drnovice",
+    "qs:la_lc":"*CZ0626593001",
+    "qs:level":"locality",
+    "qs:loc":"Drnovice",
+    "qs:loc_alt":"Drnovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076404,
+        "gp:id":788848,
+        "qs:id":1043081,
+        "qs_pg:id":1265848,
+        "wd:id":"Q1259475",
+        "wk:page":"Drnovice (Vy\u0161kov District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3ca4c161077d33b72de4973940f743fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779923,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101779923,
+    "wof:lastmodified":1507750682,
+    "wof:name":"Drnovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":2225,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93622869972046,
+    49.26967268616846,
+    16.96313075389219,
+    49.28040967377933
+],
+  "geometry": {"coordinates":[[[16.95641324808332,49.28032473860276],[16.95628569790404,49.27942999415319],[16.95765471778071,49.27934504410229],[16.95752714875141,49.27845030094414],[16.96163410819611,49.27819535618619],[16.96176175137532,49.27909009397848],[16.96313075389219,49.27900507728049],[16.96274776782388,49.27632086778101],[16.95864096968751,49.2765758517902],[16.95825825887266,49.27389162172102],[16.95552052002972,49.27406151703042],[16.95501051875419,49.27048252235005],[16.95364174166468,49.27056743786716],[16.95351428071228,49.26967268616846],[16.94530167543502,49.27018181872398],[16.94568363112649,49.27286610447106],[16.94431477429555,49.27295090694457],[16.94444207986004,49.27384566965259],[16.94307319398854,49.27393045725069],[16.94320048069522,49.27482522124672],[16.93909372297168,49.2750794894298],[16.93896651040637,49.27418472008264],[16.93622869972046,49.27435414533443],[16.93635586285649,49.27524891824709],[16.93772479507652,49.27516421216899],[16.93785198877816,49.27605898280331],[16.94058988967225,49.27588951709765],[16.94071713865799,49.27678428367011],[16.9461929873745,49.27644514518784],[16.94632034108093,49.27733990412696],[16.94768931715083,49.27725507606789],[16.94781670143283,49.278149832726],[16.94918569788751,49.27806498621999],[16.94944053346842,49.27985449447641],[16.95491667368952,49.27951492754221],[16.95504419915028,49.28040967377933],[16.95641324808332,49.28032473860276]]],"type":"Polygon"}
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1125911325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22097,48.79373,16.22097,48.79373",
+    "geom:latitude":48.79373,
+    "geom:longitude":16.22097,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":382,
+    "gn:population":382,
+    "iso:country":"CZ",
+    "lbl:latitude":48.79373,
+    "lbl:longitude":16.22097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u062a\u0631\u0648\u0641\u064a\u0643"
+    ],
+    "name:cze_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:dut_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:eng_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:fre_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:ger_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:hun_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:ita_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:may_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:nan_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0627\u0644\u062a\u0631\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:por_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:rup_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:slo_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043b\u0442\u0440\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Valtrovice"
+    ],
+    "name:vie_x_preferred":[
+        "Valtrovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063405,
+    "qs_pg:gn_pop":382,
+    "qs_pg:name":"Valtrovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":401085,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800379,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063405,
+        "gp:id":800379,
+        "qs_pg:id":401085,
+        "wd:id":"Q922401"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296147,
+    "wof:geomhash":"d2159f8de17b1d565400e495826e79d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125911325,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125911325,
+    "wof:lastmodified":1513945841,
+    "wof:name":"Valtrovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":382,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22097,
+    48.79373,
+    16.22097,
+    48.79373
+],
+  "geometry": {"coordinates":[16.22097,48.79373],"type":"Point"}
+}

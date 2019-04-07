@@ -1,0 +1,66 @@
+{
+  "id": 1243202939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02476,50.34537,16.02476,50.34537",
+    "geom:latitude":50.34537,
+    "geom:longitude":16.02476,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Veselice",
+    "gn:country_code":"CZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063042,
+    "gn:latitude":50.34537,
+    "gn:longitude":16.02476,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Veselice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063042
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9b00bf1ac705fefa295349606cd4efa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243202939,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1243202939,
+    "wof:lastmodified":1536659825,
+    "wof:name":"Veselice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02476,
+    50.34537,
+    16.02476,
+    50.34537
+],
+  "geometry": {"coordinates":[16.02476,50.34537],"type":"Point"}
+}

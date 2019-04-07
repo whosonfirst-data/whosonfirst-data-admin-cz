@@ -1,0 +1,143 @@
+{
+  "id": 1126017113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70296,50.31208,17.70296,50.31208",
+    "geom:latitude":50.31208,
+    "geom:longitude":17.70296,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":176,
+    "gn:population":176,
+    "iso:country":"CZ",
+    "lbl:latitude":50.31208,
+    "lbl:longitude":17.70296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:dut_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:eng_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:epo_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:fre_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:ger_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:hun_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:ita_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:may_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0644\u0632\u0633\u06a9\u0647 \u067e\u0627\u0648\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:por_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:rup_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:slo_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0435\u0441\u043a\u0435 \u041f\u0430\u0432\u043b\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:unk_x_variant":[
+        "Deutsch Paulowitz"
+    ],
+    "name:vie_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065797,
+    "qs_pg:gn_pop":176,
+    "qs_pg:name":"Slezsk\u00e9 Pavlovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":103,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":939197,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798297,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065797,
+        "gp:id":798297,
+        "qs_pg:id":939197,
+        "wd:id":"Q1789663"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497300618,
+    "wof:geomhash":"d23e801ccc944b3ac5c6e1fdb872d738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126017113,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1126017113,
+    "wof:lastmodified":1513945694,
+    "wof:name":"Slezsk\u00e9 Pavlovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70296,
+    50.31208,
+    17.70296,
+    50.31208
+],
+  "geometry": {"coordinates":[17.70296,50.31208],"type":"Point"}
+}

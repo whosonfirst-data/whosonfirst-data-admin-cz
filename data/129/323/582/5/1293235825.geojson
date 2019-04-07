@@ -1,0 +1,66 @@
+{
+  "id": 1293235825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86954,49.38421,14.86954,49.38421",
+    "geom:latitude":49.38421,
+    "geom:longitude":14.86954,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Za Petrovym",
+    "gn:country_code":"CZ",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061862,
+    "gn:latitude":49.38421,
+    "gn:longitude":14.86954,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Za Petrov\u00fdm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061862
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2307b9e6f018f8e959ef5537375c281b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293235825,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293235825,
+    "wof:lastmodified":1536652800,
+    "wof:name":"Za Petrovym",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86954,
+    49.38421,
+    14.86954,
+    49.38421
+],
+  "geometry": {"coordinates":[14.86954,49.38421],"type":"Point"}
+}

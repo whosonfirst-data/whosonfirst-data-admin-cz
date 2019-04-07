@@ -1,0 +1,89 @@
+{
+  "id": 1125288447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71406,49.46747,17.71406,49.46747",
+    "geom:latitude":49.46747,
+    "geom:longitude":17.71406,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":387,
+    "gn:population":387,
+    "iso:country":"CZ",
+    "lbl:latitude":49.46747,
+    "lbl:longitude":17.71406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Bischkowitz"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078320,
+    "qs_pg:gn_pop":387,
+    "qs_pg:name":"B\u00fd\u0161kovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":23857,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12607177,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078320,
+        "gp:id":12607177,
+        "qs_pg:id":23857
+    },
+    "wof:country":"CZ",
+    "wof:created":1497042810,
+    "wof:geomhash":"a3282ea27e166b546cfceb18148e95b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125288447,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125288447,
+    "wof:lastmodified":1509387474,
+    "wof:name":"B\u00fd\u0161kovice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"localadmin",
+    "wof:population":387,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71406,
+    49.46747,
+    17.71406,
+    49.46747
+],
+  "geometry": {"coordinates":[17.71406,49.46747],"type":"Point"}
+}

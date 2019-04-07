@@ -1,0 +1,70 @@
+{
+  "id": 1343594963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.12574,50.1405,13.12574,50.1405",
+    "geom:latitude":50.1405,
+    "geom:longitude":13.12574,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Vahanec",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063457,
+    "gn:latitude":50.1405,
+    "gn:longitude":13.12574,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Vahane\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bohentsch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063457
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"20f512e094c38fa7782f89c759ef7378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343594963,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1343594963,
+    "wof:lastmodified":1537619275,
+    "wof:name":"Vahanec",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.12574,
+    50.1405,
+    13.12574,
+    50.1405
+],
+  "geometry": {"coordinates":[13.12574,50.1405],"type":"Point"}
+}

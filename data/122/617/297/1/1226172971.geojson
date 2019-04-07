@@ -1,0 +1,66 @@
+{
+  "id": 1226172971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85627,50.27215,15.85627,50.27215",
+    "geom:latitude":50.27215,
+    "geom:longitude":15.85627,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Skalicka",
+    "gn:country_code":"CZ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066066,
+    "gn:latitude":50.27215,
+    "gn:longitude":15.85627,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Skali\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066066
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"13585cb5d2e3baed65a8b271d2b1d5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226172971,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1226172971,
+    "wof:lastmodified":1537036951,
+    "wof:name":"Skalicka",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85627,
+    50.27215,
+    15.85627,
+    50.27215
+],
+  "geometry": {"coordinates":[15.85627,50.27215],"type":"Point"}
+}

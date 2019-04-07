@@ -1,0 +1,143 @@
+{
+  "id": 85900519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5939014.716687,
+    "geom:bbox":"12.895935,50.240296,12.895935,50.240296",
+    "geom:latitude":50.240296,
+    "geom:longitude":12.895935,
+    "gn:latitude":50.23996,
+    "gn:longitude":12.87915,
+    "iso:country":"CZ",
+    "lbl:latitude":50.240296,
+    "lbl:longitude":12.895935,
+    "mps:latitude":50.24309,
+    "mps:longitude":12.895449,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:ces_x_preferred":[
+        "Bohatice"
+    ],
+    "name:cze_x_preferred":[
+        "Bohatice"
+    ],
+    "name:cze_x_variant":[
+        "Weheditz"
+    ],
+    "name:deu_x_preferred":[
+        "Bohatice u Z\u00e1kup"
+    ],
+    "name:fra_x_preferred":[
+        "Bohatice"
+    ],
+    "name:hun_x_preferred":[
+        "Bohatice"
+    ],
+    "name:ita_x_preferred":[
+        "Bohatice"
+    ],
+    "name:msa_x_preferred":[
+        "Bohatice"
+    ],
+    "name:nld_x_preferred":[
+        "Bohatice"
+    ],
+    "name:pol_x_preferred":[
+        "Bohatice"
+    ],
+    "name:por_x_preferred":[
+        "Bohatice"
+    ],
+    "name:slk_x_preferred":[
+        "Bohatice"
+    ],
+    "name:unk_x_variant":[
+        "Weheditz",
+        "Bohatice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3073803,
+    "qs:gn_nam_loc":"Karlovy Vary, Karlovy Vary, Karlovy Vary, Karlovarsk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"81",
+    "qs:gn_name":"Bohatice",
+    "qs:local_max":5100,
+    "qs:local_sum":6070,
+    "qs:localhoods":5,
+    "qs:name":"Bohatice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Karlovarsk\u00fd kraj",
+    "qs:name_adm2":"Karlovy Vary",
+    "qs:name_lau":"Karlovy Vary",
+    "qs:name_local":"Karlovy Vary",
+    "qs:photo_max":4,
+    "qs:photo_sum":14,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070500,
+    "qs:woe_adm2":12582606,
+    "qs:woe_lau":12609979,
+    "qs:woe_local":791140,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101840903,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079164,
+        "gp:id":786366,
+        "qs:id":2532,
+        "qs_pg:id":2532
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9aa7226451160235fe884ba18c5311aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101840903,
+            "neighbourhood_id":85900519,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":85900519,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932342,
+    "wof:name":"Bohatice",
+    "wof:parent_id":101840903,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.895935,
+    50.240296,
+    12.895935,
+    50.240296
+],
+  "geometry": {"coordinates":[12.895935,50.240296],"type":"Point"}
+}

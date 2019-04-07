@@ -1,0 +1,140 @@
+{
+  "id": 1125794211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49974,50.56379,15.49974,50.56379",
+    "geom:latitude":50.56379,
+    "geom:longitude":15.49974,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":936,
+    "gn:population":936,
+    "iso:country":"CZ",
+    "lbl:latitude":50.56379,
+    "lbl:longitude":15.49974,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:dut_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:eng_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:fre_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:ger_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:hun_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:ita_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:may_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0648\u0632\u062a\u0648\u06a9\u06cc \u0648 \u06cc\u06cc\u0644\u0645\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:por_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:rup_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:slo_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0441\u0442\u043e\u043a\u0438 \u0443 \u0408\u0438\u043b\u0435\u043c\u045a\u0438\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "name:unk_x_variant":[
+        "Roztok"
+    ],
+    "name:vie_x_preferred":[
+        "Roztoky u Jilemnice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066632,
+    "qs_pg:gn_pop":936,
+    "qs_pg:name":"Roztoky u Jilemnice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":270740,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797561,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066632,
+        "gp:id":797561,
+        "qs_pg:id":270740,
+        "wd:id":"Q1869812"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290984,
+    "wof:geomhash":"31ae2222391e7147cd14a03da24e9af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125794211,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1125794211,
+    "wof:lastmodified":1513945651,
+    "wof:name":"Roztoky u Jilemnice",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:population":936,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49974,
+    50.56379,
+    15.49974,
+    50.56379
+],
+  "geometry": {"coordinates":[15.49974,50.56379],"type":"Point"}
+}

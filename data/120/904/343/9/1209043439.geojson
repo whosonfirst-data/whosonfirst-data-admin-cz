@@ -1,0 +1,66 @@
+{
+  "id": 1209043439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61674,49.97513,12.61674,49.97513",
+    "geom:latitude":49.97513,
+    "geom:longitude":12.61674,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Sekerske Chalupy",
+    "gn:country_code":"CZ",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066245,
+    "gn:latitude":49.97513,
+    "gn:longitude":12.61674,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Sekersk\u00e9 Chalupy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hackenh\u00e4user",
+        "Sekersk\u00e9 Chalupy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066245
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"08555d3a90971e305c08dc84f500602e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209043439
+        }
+    ],
+    "wof:id":1209043439,
+    "wof:lastmodified":1537619305,
+    "wof:name":"Sekerske Chalupy",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61674,
+    49.97513,
+    12.61674,
+    49.97513
+],
+  "geometry": {"coordinates":[12.61674,49.97513],"type":"Point"}
+}

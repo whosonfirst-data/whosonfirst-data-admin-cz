@@ -1,0 +1,66 @@
+{
+  "id": 1310140429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21226,49.48006,13.21226,49.48006",
+    "geom:latitude":49.48006,
+    "geom:longitude":13.21226,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Trnci",
+    "gn:country_code":"CZ",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063977,
+    "gn:latitude":49.48006,
+    "gn:longitude":13.21226,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Trn\u010d\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063977
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3a8f41541255a122084b2413d9aa8b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310140429,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1310140429,
+    "wof:lastmodified":1536946514,
+    "wof:name":"Trnci",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21226,
+    49.48006,
+    13.21226,
+    49.48006
+],
+  "geometry": {"coordinates":[13.21226,49.48006],"type":"Point"}
+}

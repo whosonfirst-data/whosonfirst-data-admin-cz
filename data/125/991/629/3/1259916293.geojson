@@ -1,0 +1,70 @@
+{
+  "id": 1259916293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.5034,50.11907,12.5034,50.11907",
+    "geom:latitude":50.11907,
+    "geom:longitude":12.5034,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Chotikov",
+    "gn:country_code":"CZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077640,
+    "gn:latitude":50.11907,
+    "gn:longitude":12.5034,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Chot\u00edkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotigau",
+        "Chot\u00edkov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077640
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b62cc77bbcd7c8fec29f54a5a17f587d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259916293,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1259916293,
+    "wof:lastmodified":1537619443,
+    "wof:name":"Chotikov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5034,
+    50.11907,
+    12.5034,
+    50.11907
+],
+  "geometry": {"coordinates":[12.5034,50.11907],"type":"Point"}
+}

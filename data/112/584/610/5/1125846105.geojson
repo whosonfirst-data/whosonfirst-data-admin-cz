@@ -1,0 +1,135 @@
+{
+  "id": 1125846105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06437,50.13979,16.06437,50.13979",
+    "geom:latitude":50.13979,
+    "geom:longitude":16.06437,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1063,
+    "gn:population":1063,
+    "iso:country":"CZ",
+    "lbl:latitude":50.13979,
+    "lbl:longitude":16.06437,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:dut_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:ger_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:hun_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:may_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u062e\u062a\u06cc\u062a\u0633\u0647 \u0646\u0627\u062f \u0627\u0648\u0631\u0644\u06cc\u062a\u0633\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:rup_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:slo_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0431\u0440\u0435\u0445\u0442\u0438\u0446\u0435 \u043d\u0430 \u041e\u0440\u043b\u0438\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "name:vie_x_preferred":[
+        "Albrechtice nad Orlic\u00ed"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079817,
+    "qs_pg:gn_pop":1063,
+    "qs_pg:name":"Albrechtice nad Orlic\u00ed",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1247295,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":785821,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079817,
+        "gp:id":785821,
+        "qs_pg:id":1247295,
+        "wd:id":"Q1911596"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293167,
+    "wof:geomhash":"805388e2382dcac06a549b9baf43ee39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125846105,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125846105,
+    "wof:lastmodified":1513944768,
+    "wof:name":"Albrechtice nad Orlic\u00ed",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":1063,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06437,
+    50.13979,
+    16.06437,
+    50.13979
+],
+  "geometry": {"coordinates":[16.06437,50.13979],"type":"Point"}
+}

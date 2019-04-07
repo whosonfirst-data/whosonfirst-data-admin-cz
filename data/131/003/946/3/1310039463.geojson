@@ -1,0 +1,72 @@
+{
+  "id": 1310039463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5719,49.79893,17.5719,49.79893",
+    "geom:latitude":49.79893,
+    "geom:longitude":17.5719,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Dolni Guntramovice",
+    "gn:country_code":"CZ",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076861,
+    "gn:latitude":49.79893,
+    "gn:longitude":17.5719,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Doln\u00ed Guntramovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nieder G\u00fcndersdorf"
+    ],
+    "name:und_x_variant":[
+        "Doln\u00ed Guntramovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076861
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9fd94f6a1b84e82b1fbdad43666cee63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310039463,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1310039463,
+    "wof:lastmodified":1537619435,
+    "wof:name":"Dolni Guntramovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5719,
+    49.79893,
+    17.5719,
+    49.79893
+],
+  "geometry": {"coordinates":[17.5719,49.79893],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277019023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.72603,49.44927,12.72603,49.44927",
+    "geom:latitude":49.44927,
+    "geom:longitude":12.72603,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Novosedelske Hute",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069399,
+    "gn:latitude":49.44927,
+    "gn:longitude":12.72603,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Novosedelsk\u00e9 Hut\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neubauh\u00fctten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069399
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7ea0fc7d8b7f6cf523227e63e2866b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277019023,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1277019023,
+    "wof:lastmodified":1537619339,
+    "wof:name":"Novosedelske Hute",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.72603,
+    49.44927,
+    12.72603,
+    49.44927
+],
+  "geometry": {"coordinates":[12.72603,49.44927],"type":"Point"}
+}

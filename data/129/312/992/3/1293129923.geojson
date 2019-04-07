@@ -1,0 +1,70 @@
+{
+  "id": 1293129923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41868,48.70178,14.41868,48.70178",
+    "geom:latitude":48.70178,
+    "geom:longitude":14.41868,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Pribyslav",
+    "gn:country_code":"CZ",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067536,
+    "gn:latitude":48.70178,
+    "gn:longitude":14.41868,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"P\u0159ibyslav",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zibisschlag",
+        "P\u0159ibyslav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067536
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"08636f1da752fbc7459fe553ed75c797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293129923,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293129923,
+    "wof:lastmodified":1537619319,
+    "wof:name":"Pribyslav",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41868,
+    48.70178,
+    14.41868,
+    48.70178
+],
+  "geometry": {"coordinates":[14.41868,48.70178],"type":"Point"}
+}

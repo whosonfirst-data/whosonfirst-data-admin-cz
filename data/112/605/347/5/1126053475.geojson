@@ -1,0 +1,141 @@
+{
+  "id": 1126053475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01531,49.85991,17.01531,49.85991",
+    "geom:latitude":49.85991,
+    "geom:longitude":17.01531,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":694,
+    "gn:population":694,
+    "iso:country":"CZ",
+    "lbl:latitude":49.85991,
+    "lbl:longitude":17.01531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0445\u043b\u0435"
+    ],
+    "name:cze_x_preferred":[
+        "Rohle"
+    ],
+    "name:dut_x_preferred":[
+        "Rohle"
+    ],
+    "name:eng_x_preferred":[
+        "Rohle"
+    ],
+    "name:fre_x_preferred":[
+        "Rohle"
+    ],
+    "name:ger_x_preferred":[
+        "Rohle"
+    ],
+    "name:hun_x_preferred":[
+        "Rohle"
+    ],
+    "name:ita_x_preferred":[
+        "Rohle"
+    ],
+    "name:may_x_preferred":[
+        "Rohle"
+    ],
+    "name:nan_x_preferred":[
+        "Rohle"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0648\u0647\u0644\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Rohle"
+    ],
+    "name:por_x_preferred":[
+        "Rohle"
+    ],
+    "name:rup_x_preferred":[
+        "Rohle"
+    ],
+    "name:slo_x_preferred":[
+        "Rohle"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0445\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Rohle"
+    ],
+    "name:vie_x_preferred":[
+        "Rohle"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066820,
+    "qs_pg:gn_pop":694,
+    "qs_pg:name":"Rohle",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":400345,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797393,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066820,
+        "gp:id":797393,
+        "qs_pg:id":400345,
+        "wd:id":"Q970977"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302933,
+    "wof:geomhash":"0b00dade11d284ac7f8baa176fcd68c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126053475,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1126053475,
+    "wof:lastmodified":1513945640,
+    "wof:name":"Rohle",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":694,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01531,
+    49.85991,
+    17.01531,
+    49.85991
+],
+  "geometry": {"coordinates":[17.01531,49.85991],"type":"Point"}
+}

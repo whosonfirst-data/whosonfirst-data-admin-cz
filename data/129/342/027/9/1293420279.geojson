@@ -1,0 +1,71 @@
+{
+  "id": 1293420279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03977,49.83265,16.03977,49.83265",
+    "geom:latitude":49.83265,
+    "geom:longitude":16.03977,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Podhradi",
+    "gn:country_code":"CZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068082,
+    "gn:latitude":49.83265,
+    "gn:longitude":16.03977,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Podhrad\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rychmburk",
+        "Richenburg",
+        "Podhrad\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068082
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b0495c75453f1deaf3f4cfe70a60272a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293420279,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1293420279,
+    "wof:lastmodified":1537619325,
+    "wof:name":"Podhradi",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03977,
+    49.83265,
+    16.03977,
+    49.83265
+],
+  "geometry": {"coordinates":[16.03977,49.83265],"type":"Point"}
+}

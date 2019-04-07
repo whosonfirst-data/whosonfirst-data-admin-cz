@@ -1,0 +1,66 @@
+{
+  "id": 1293231255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61826,48.85491,14.61826,48.85491",
+    "geom:latitude":48.85491,
+    "geom:longitude":14.61826,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Otevek",
+    "gn:country_code":"CZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068722,
+    "gn:latitude":48.85491,
+    "gn:longitude":14.61826,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Ot\u011bv\u011bk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068722
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"203cc3ba017dc1d34715718d80011b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293231255,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293231255,
+    "wof:lastmodified":1536659660,
+    "wof:name":"Otevek",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61826,
+    48.85491,
+    14.61826,
+    48.85491
+],
+  "geometry": {"coordinates":[14.61826,48.85491],"type":"Point"}
+}

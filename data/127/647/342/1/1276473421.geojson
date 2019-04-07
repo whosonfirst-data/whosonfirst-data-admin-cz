@@ -1,0 +1,70 @@
+{
+  "id": 1276473421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76924,48.78958,14.76924,48.78958",
+    "geom:latitude":48.78958,
+    "geom:longitude":14.76924,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Udoli",
+    "gn:country_code":"CZ",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063761,
+    "gn:latitude":48.78958,
+    "gn:longitude":14.76924,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"\u00dadol\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niederthal",
+        "\u00dadol\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063761
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e1c8c59fa6a98bf6a03f3df083696e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276473421,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276473421,
+    "wof:lastmodified":1537619277,
+    "wof:name":"Udoli",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76924,
+    48.78958,
+    14.76924,
+    48.78958
+],
+  "geometry": {"coordinates":[14.76924,48.78958],"type":"Point"}
+}

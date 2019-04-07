@@ -1,0 +1,70 @@
+{
+  "id": 1243592229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33785,49.78369,17.33785,49.78369",
+    "geom:latitude":49.78369,
+    "geom:longitude":17.33785,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Dalov",
+    "gn:country_code":"CZ",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077292,
+    "gn:latitude":49.78369,
+    "gn:longitude":17.33785,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Dalov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dohle",
+        "Dalov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077292
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"751d2395d4baab38efc6f93f514837c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243592229,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1243592229,
+    "wof:lastmodified":1537619440,
+    "wof:name":"Dalov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33785,
+    49.78369,
+    17.33785,
+    49.78369
+],
+  "geometry": {"coordinates":[17.33785,49.78369],"type":"Point"}
+}

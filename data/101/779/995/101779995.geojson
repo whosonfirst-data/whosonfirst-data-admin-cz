@@ -1,0 +1,132 @@
+{
+  "id": 101779995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":707756.02587,
+    "geom:bbox":"15.7684450898,49.3635964403,15.7922107586,49.3734764458",
+    "geom:latitude":49.367866,
+    "geom:longitude":15.778886,
+    "gn:population":1760,
+    "iso:country":"CZ",
+    "lbl:latitude":49.367754,
+    "lbl:longitude":15.777716,
+    "mps:latitude":49.367754,
+    "mps:longitude":15.777716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Kamenice"
+    ],
+    "name:dut_x_preferred":[
+        "Kamenice"
+    ],
+    "name:eng_x_preferred":[
+        "Kamenice"
+    ],
+    "name:fre_x_preferred":[
+        "Kamenice"
+    ],
+    "name:hun_x_preferred":[
+        "Kamenice"
+    ],
+    "name:ita_x_preferred":[
+        "Kamenice"
+    ],
+    "name:may_x_preferred":[
+        "Kamenice"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0645\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Kamenice"
+    ],
+    "name:por_x_preferred":[
+        "Nov\u00e1 Cerekev"
+    ],
+    "name:rup_x_preferred":[
+        "Kamenice"
+    ],
+    "name:slo_x_preferred":[
+        "Kamenice"
+    ],
+    "name:slv_x_preferred":[
+        "Kamenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kamenice"
+    ],
+    "name:unk_x_variant":[
+        "Kamenitz"
+    ],
+    "name:vie_x_preferred":[
+        "Kamenice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Vysocina",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Kamenice",
+    "qs:la_lc":"*CZ0612587346",
+    "qs:level":"locality",
+    "qs:loc":"Kamenice",
+    "qs:loc_alt":"Kamenice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073948,
+        "gp:id":791023,
+        "qs:id":1043047,
+        "qs_pg:id":1043047,
+        "wd:id":"Q2154120",
+        "wk:page":"Kamenice (Jihlava District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9bdd109e4300262698725ff04d555bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779995,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":101779995,
+    "wof:lastmodified":1553815495,
+    "wof:name":"Kamenice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":1760,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76844508984709,
+    49.36359644029591,
+    15.79221075864638,
+    49.37347644578045
+],
+  "geometry": {"coordinates":[[[15.7764783084931,49.37340587695462],[15.77637205537764,49.37250973045468],[15.78186475284747,49.37222729372274],[15.78175840467384,49.37133115276362],[15.78038526074249,49.37140178556274],[15.78006632064165,49.36871335563785],[15.78418551664765,49.36850142046001],[15.78407913813896,49.36760528077326],[15.7854521712253,49.36753460373234],[15.78534577264276,49.36663846511038],[15.79221075864638,49.36628483631904],[15.79189121764898,49.36359644029591],[15.7891453840366,49.36373793305336],[15.78925184282701,49.36463406847986],[15.78787889558862,49.36470479124955],[15.78798533431188,49.3656009277413],[15.78249340910128,49.36588365743199],[15.78238707030539,49.36498751496651],[15.77003025111367,49.36562266424613],[15.76981803791733,49.36383035118945],[15.76844508984709,49.3639008366689],[15.76886943589659,49.36748546702785],[15.7743616061789,49.36720340085338],[15.7746802169936,49.36989185124742],[15.77330710489775,49.36996239736959],[15.77351948664284,49.37175469847375],[15.77214632094024,49.37182523083823],[15.77225249417472,49.37272138223915],[15.77499887193744,49.37258029778906],[15.77510510005976,49.37347644578045],[15.7764783084931,49.37340587695462]]],"type":"Polygon"}
+}

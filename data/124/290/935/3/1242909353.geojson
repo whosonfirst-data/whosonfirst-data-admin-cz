@@ -1,0 +1,66 @@
+{
+  "id": 1242909353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46137,48.84254,14.46137,48.84254",
+    "geom:latitude":48.84254,
+    "geom:longitude":14.46137,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Holkov",
+    "gn:country_code":"CZ",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075594,
+    "gn:latitude":48.84254,
+    "gn:longitude":14.46137,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Holkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075594
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4a0606e24ba0945d37bb64e4f1c1b794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242909353,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1242909353,
+    "wof:lastmodified":1537079676,
+    "wof:name":"Holkov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46137,
+    48.84254,
+    14.46137,
+    48.84254
+],
+  "geometry": {"coordinates":[14.46137,48.84254],"type":"Point"}
+}

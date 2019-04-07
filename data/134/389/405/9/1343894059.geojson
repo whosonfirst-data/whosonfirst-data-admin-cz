@@ -1,0 +1,66 @@
+{
+  "id": 1343894059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69489,50.32432,14.69489,50.32432",
+    "geom:latitude":50.32432,
+    "geom:longitude":14.69489,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Strizovice",
+    "gn:country_code":"CZ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064885,
+    "gn:latitude":50.32432,
+    "gn:longitude":14.69489,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"St\u0159\u00ed\u017eovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064885
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4574a084aa7c2a59cdeac722f5b62755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343894059,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1343894059,
+    "wof:lastmodified":1536615734,
+    "wof:name":"Strizovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69489,
+    50.32432,
+    14.69489,
+    50.32432
+],
+  "geometry": {"coordinates":[14.69489,50.32432],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1360033825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55761,49.53602,17.55761,49.53602",
+    "geom:latitude":49.53602,
+    "geom:longitude":17.55761,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Trnavka",
+    "gn:country_code":"CZ",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063982,
+    "gn:latitude":49.53602,
+    "gn:longitude":17.55761,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Trn\u00e1vka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063982
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0a2bc600a371d54a3c3b13115a5ea27b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360033825,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1360033825,
+    "wof:lastmodified":1537018926,
+    "wof:name":"Trnavka",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55761,
+    49.53602,
+    17.55761,
+    49.53602
+],
+  "geometry": {"coordinates":[17.55761,49.53602],"type":"Point"}
+}

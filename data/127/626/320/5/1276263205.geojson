@@ -1,0 +1,66 @@
+{
+  "id": 1276263205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72074,49.81455,15.72074,49.81455",
+    "geom:latitude":49.81455,
+    "geom:longitude":15.72074,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Vrsov",
+    "gn:country_code":"CZ",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062397,
+    "gn:latitude":49.81455,
+    "gn:longitude":15.72074,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Vr\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062397
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c26a0e47b2f3b988042ad26629393859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276263205,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1276263205,
+    "wof:lastmodified":1536871603,
+    "wof:name":"Vrsov",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72074,
+    49.81455,
+    15.72074,
+    49.81455
+],
+  "geometry": {"coordinates":[15.72074,49.81455],"type":"Point"}
+}

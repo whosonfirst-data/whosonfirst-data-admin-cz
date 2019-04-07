@@ -1,0 +1,66 @@
+{
+  "id": 1293523283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58122,49.9633,15.58122,49.9633",
+    "geom:latitude":49.9633,
+    "geom:longitude":15.58122,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0532",
+    "gn:asciiname":"Rasovy",
+    "gn:country_code":"CZ",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067007,
+    "gn:latitude":49.9633,
+    "gn:longitude":15.58122,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Ra\u0161ovy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067007
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"40d72c2c29fcdd3e039e5484b5d3d4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293523283,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1293523283,
+    "wof:lastmodified":1536735575,
+    "wof:name":"Rasovy",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58122,
+    49.9633,
+    15.58122,
+    49.9633
+],
+  "geometry": {"coordinates":[15.58122,49.9633],"type":"Point"}
+}

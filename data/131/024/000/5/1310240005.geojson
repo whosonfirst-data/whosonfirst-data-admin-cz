@@ -1,0 +1,70 @@
+{
+  "id": 1310240005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91262,49.08785,17.91262,49.08785",
+    "geom:latitude":49.08785,
+    "geom:longitude":17.91262,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Divinice",
+    "gn:country_code":"CZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077150,
+    "gn:latitude":49.08785,
+    "gn:longitude":17.91262,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Divinice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diwnitz",
+        "Divinice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077150
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e5874138def93d956a9155d7cc1f325c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310240005,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1310240005,
+    "wof:lastmodified":1537619439,
+    "wof:name":"Divinice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91262,
+    49.08785,
+    17.91262,
+    49.08785
+],
+  "geometry": {"coordinates":[17.91262,49.08785],"type":"Point"}
+}

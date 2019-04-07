@@ -1,0 +1,66 @@
+{
+  "id": 1293135699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44516,50.70135,15.44516,50.70135",
+    "geom:latitude":50.70135,
+    "geom:longitude":15.44516,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0514",
+    "gn:asciiname":"Burany",
+    "gn:country_code":"CZ",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078370,
+    "gn:latitude":50.70135,
+    "gn:longitude":15.44516,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Bu\u0159any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078370
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2464426832ec01403771e29605bd4447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293135699,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1293135699,
+    "wof:lastmodified":1536797384,
+    "wof:name":"Burany",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44516,
+    50.70135,
+    15.44516,
+    50.70135
+],
+  "geometry": {"coordinates":[15.44516,50.70135],"type":"Point"}
+}

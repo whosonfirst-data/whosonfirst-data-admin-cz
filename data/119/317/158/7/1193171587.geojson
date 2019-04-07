@@ -1,0 +1,66 @@
+{
+  "id": 1193171587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95192,50.01066,15.95192,50.01066",
+    "geom:latitude":50.01066,
+    "geom:longitude":15.95192,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0532",
+    "gn:asciiname":"Platenice",
+    "gn:country_code":"CZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068220,
+    "gn:latitude":50.01066,
+    "gn:longitude":15.95192,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Plat\u011bnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068220
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"36af6cb9de8622559d495a6022ccbedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193171587,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1193171587,
+    "wof:lastmodified":1536379851,
+    "wof:name":"Platenice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95192,
+    50.01066,
+    15.95192,
+    50.01066
+],
+  "geometry": {"coordinates":[15.95192,50.01066],"type":"Point"}
+}

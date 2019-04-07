@@ -1,0 +1,132 @@
+{
+  "id": 1125951149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53849,49.3669,17.53849,49.3669",
+    "geom:latitude":49.3669,
+    "geom:longitude":17.53849,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":699,
+    "gn:population":699,
+    "iso:country":"CZ",
+    "lbl:latitude":49.3669,
+    "lbl:longitude":17.53849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:dut_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:ger_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:hun_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:may_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0648\u0634\u062a\u06cc\u0646\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:slo_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0448\u0442\u0458\u0435\u045a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "name:vie_x_preferred":[
+        "Ro\u0161t\u011bn\u00ed"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066748,
+    "qs_pg:gn_pop":699,
+    "qs_pg:name":"Ro\u0161t\u011bn\u00ed",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":367621,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797454,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066748,
+        "gp:id":797454,
+        "qs_pg:id":367621,
+        "wd:id":"Q1969861"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297459,
+    "wof:geomhash":"cd7d82f413d0413fcd5d1ad5a4f26f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125951149,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125951149,
+    "wof:lastmodified":1513945651,
+    "wof:name":"Ro\u0161t\u011bn\u00ed",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":699,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53849,
+    49.3669,
+    17.53849,
+    49.3669
+],
+  "geometry": {"coordinates":[17.53849,49.3669],"type":"Point"}
+}

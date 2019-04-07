@@ -1,0 +1,66 @@
+{
+  "id": 1276266005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06476,49.98871,16.06476,49.98871",
+    "geom:latitude":49.98871,
+    "geom:longitude":16.06476,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Sedlist'ka",
+    "gn:country_code":"CZ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066280,
+    "gn:latitude":49.98871,
+    "gn:longitude":16.06476,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Sedl\u00ed\u0161t\u2019ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066280
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7f488923929fe7576e6d0c22da96595f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276266005,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1276266005,
+    "wof:lastmodified":1536867578,
+    "wof:name":"Sedlist'ka",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06476,
+    49.98871,
+    16.06476,
+    49.98871
+],
+  "geometry": {"coordinates":[16.06476,49.98871],"type":"Point"}
+}

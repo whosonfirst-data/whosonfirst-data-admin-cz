@@ -1,0 +1,66 @@
+{
+  "id": 1293235099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61009,50.45507,15.61009,50.45507",
+    "geom:latitude":50.45507,
+    "geom:longitude":15.61009,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Bukovina u Pecky",
+    "gn:country_code":"CZ",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078391,
+    "gn:latitude":50.45507,
+    "gn:longitude":15.61009,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Bukovina u Pecky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078391
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"79a39e777b56e2f4deeefdbada331f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293235099,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293235099,
+    "wof:lastmodified":1536653937,
+    "wof:name":"Bukovina u Pecky",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61009,
+    50.45507,
+    15.61009,
+    50.45507
+],
+  "geometry": {"coordinates":[15.61009,50.45507],"type":"Point"}
+}

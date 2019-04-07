@@ -1,0 +1,147 @@
+{
+  "id": 1125991187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52444,49.78645,18.52444,49.78645",
+    "geom:latitude":49.78645,
+    "geom:longitude":18.52444,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4019,
+    "gn:population":4019,
+    "iso:country":"CZ",
+    "lbl:latitude":49.78645,
+    "lbl:longitude":18.52444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:dut_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:eng_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:epo_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:fre_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:ger_x_preferred":[
+        "Albrechtice u \u010cesk\u00e9ho T\u011b\u0161\u00edna"
+    ],
+    "name:hun_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:ita_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:may_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:nan_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0686\u062a\u06cc\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Olbrachcice"
+    ],
+    "name:por_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:rup_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:slo_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0431\u0440\u0435\u0445\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Albrechtice"
+    ],
+    "name:vie_x_preferred":[
+        "Albrechtice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079824,
+    "qs_pg:gn_pop":4019,
+    "qs_pg:name":"Albrechtice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1205399,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":785818,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079824,
+        "gp:id":785818,
+        "qs_pg:id":1205399,
+        "wd:id":"Q910497"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299061,
+    "wof:geomhash":"518f439c2823829cf09dbe1ee9024c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125991187,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125991187,
+    "wof:lastmodified":1553816682,
+    "wof:name":"Albrechtice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":4019,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[
+        101825531
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52444,
+    49.78645,
+    18.52444,
+    49.78645
+],
+  "geometry": {"coordinates":[18.52444,49.78645],"type":"Point"}
+}

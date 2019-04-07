@@ -1,0 +1,141 @@
+{
+  "id": 85900973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000527,
+    "geom:area_square_m":4186452.699988,
+    "geom:bbox":"14.5825903321,50.0242869169,14.6106199715,50.0511873795",
+    "geom:latitude":50.038682,
+    "geom:longitude":14.596092,
+    "gn:latitude":50.02885,
+    "gn:longitude":14.59948,
+    "iso:country":"CZ",
+    "lbl:latitude":50.036216,
+    "lbl:longitude":14.600634,
+    "mps:latitude":50.039236,
+    "mps:longitude":14.595826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cze_x_preferred":[
+        "Uhrineves"
+    ],
+    "name:cze_x_variant":[
+        "Aurinowes",
+        "Praha 10-Uhrineves",
+        "Praha-Uhrineves",
+        "Uh\u0159\u00edn\u011bves"
+    ],
+    "name:eng_x_preferred":[
+        "Uh\u0159\u00edn\u011bves"
+    ],
+    "name:epo_x_preferred":[
+        "Uh\u0159\u00edn\u011bves"
+    ],
+    "name:fre_x_preferred":[
+        "Uh\u0159\u00edn\u011bves"
+    ],
+    "name:ger_x_preferred":[
+        "Uh\u0159\u00edn\u011bves"
+    ],
+    "name:hun_x_preferred":[
+        "Uh\u0159\u00edn\u011bves"
+    ],
+    "name:pol_x_preferred":[
+        "Uh\u0159\u00edn\u011bves"
+    ],
+    "name:slo_x_preferred":[
+        "Uh\u0159\u00edn\u011bves"
+    ],
+    "name:slv_x_preferred":[
+        "Uh\u0159\u00edn\u011bves"
+    ],
+    "name:unk_x_variant":[
+        "Au\u0159inowes",
+        "Uhrineves"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"88",
+    "qs:gn_name":"Uh\u0159\u00edn\u011bves",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Uhrineves",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":9,
+    "qs:photo_sum":20,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101754445,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063708,
+        "gp:id":800137,
+        "qs:id":1000575,
+        "qs_pg:id":1000575,
+        "wd:id":"Q840751"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"27a3e5fe1e05e4f7943014e834eced67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101754445,
+            "neighbourhood_id":85900973,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900973,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1513945833,
+    "wof:name":"Uhrineves",
+    "wof:parent_id":101754445,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58259033205007,
+    50.02428691693534,
+    14.61061997153587,
+    50.05118737954059
+],
+  "geometry": {"coordinates":[[[14.609069824225,50.04961391421715],[14.609069824225,50.03950177280002],[14.61061997153587,50.03467460323533],[14.60632324220006,50.03244492340026],[14.60309657482696,50.03244492340026],[14.59533691407523,50.02640512360752],[14.59468325137419,50.02538755545022],[14.59364425406619,50.02430931154559],[14.59364464697421,50.02431330080658],[14.59337676703393,50.02428691693534],[14.58904529296439,50.02563534461213],[14.5835696050674,50.02989708103065],[14.58361908911689,50.02988207020847],[14.58335153672499,50.03038262552646],[14.58278247924625,50.03225855662988],[14.58259033205007,50.03420945985029],[14.58276408541553,50.03597360737514],[14.58259033205007,50.03773775490011],[14.58278247924625,50.03968865812023],[14.58335153672499,50.04156458922365],[14.58427563592721,50.04329345723029],[14.58551926423831,50.04480882271191],[14.58703462971994,50.04605245102319],[14.58876349772657,50.04697655022524],[14.59024711882392,50.04742660176483],[14.59027145949688,50.0474339854273],[14.59101242828825,50.04833685851206],[14.59252779376988,50.04958048682313],[14.59346968060481,50.0500839358251],[14.600830078125,50.0500839358251],[14.60437278201329,50.05118737954059],[14.60552756337023,50.05107364350427],[14.60740349447383,50.05050458602518],[14.609069824225,50.04961391421715]]],"type":"Polygon"}
+}

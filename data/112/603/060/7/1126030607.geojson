@@ -1,0 +1,151 @@
+{
+  "id": 1126030607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89288,49.70426,16.89288,49.70426",
+    "geom:latitude":49.70426,
+    "geom:longitude":16.89288,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1490,
+    "gn:population":1490,
+    "iso:country":"CZ",
+    "lbl:latitude":49.70426,
+    "lbl:longitude":16.89288,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0443\u0437\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Bouzov"
+    ],
+    "name:dut_x_preferred":[
+        "Bouzov"
+    ],
+    "name:eng_x_preferred":[
+        "Bouzov"
+    ],
+    "name:epo_x_preferred":[
+        "Bouzov"
+    ],
+    "name:fre_x_preferred":[
+        "Bouzov"
+    ],
+    "name:ger_x_preferred":[
+        "Bouzov"
+    ],
+    "name:hun_x_preferred":[
+        "Bouzov"
+    ],
+    "name:ita_x_preferred":[
+        "Bouzov"
+    ],
+    "name:may_x_preferred":[
+        "Bouzov"
+    ],
+    "name:nan_x_preferred":[
+        "Bouzov"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0648\u0632\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Bouzov"
+    ],
+    "name:por_x_preferred":[
+        "Bouzov"
+    ],
+    "name:rup_x_preferred":[
+        "Bouzov"
+    ],
+    "name:slo_x_preferred":[
+        "Bouzov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0443\u0437\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Bouzov"
+    ],
+    "name:unk_x_variant":[
+        "Busau"
+    ],
+    "name:vie_x_preferred":[
+        "Bouzov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078885,
+    "qs_pg:gn_pop":1490,
+    "qs_pg:name":"Bouzov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos":57,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":145520,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078885,
+        "gp:id":786621,
+        "qs_pg:id":145520,
+        "wd:id":"Q895330"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497301447,
+    "wof:geomhash":"2d4a1e2a6c859578e9150aa29422983f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126030607,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1126030607,
+    "wof:lastmodified":1513944811,
+    "wof:name":"Bouzov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":1490,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89288,
+    49.70426,
+    16.89288,
+    49.70426
+],
+  "geometry": {"coordinates":[16.89288,49.70426],"type":"Point"}
+}

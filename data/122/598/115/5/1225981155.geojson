@@ -1,0 +1,70 @@
+{
+  "id": 1225981155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98274,49.09253,14.98274,49.09253",
+    "geom:latitude":49.09253,
+    "geom:longitude":14.98274,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Horni Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075328,
+    "gn:latitude":49.09253,
+    "gn:longitude":14.98274,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Horn\u00ed Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober Schlagles",
+        "Horn\u00ed Lhota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075328
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"938ec10e913265142ffa7f6131ad1f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225981155,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1225981155,
+    "wof:lastmodified":1537619413,
+    "wof:name":"Horni Lhota",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98274,
+    49.09253,
+    14.98274,
+    49.09253
+],
+  "geometry": {"coordinates":[14.98274,49.09253],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259820217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36159,49.8618,15.36159,49.8618",
+    "geom:latitude":49.8618,
+    "geom:longitude":15.36159,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Strampouch",
+    "gn:country_code":"CZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065061,
+    "gn:latitude":49.8618,
+    "gn:longitude":15.36159,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Strampouch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horn\u00ed Strampouch",
+        "Strampouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065061
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7077251ec26aaffda62d106e65b03d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259820217,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1259820217,
+    "wof:lastmodified":1537619291,
+    "wof:name":"Strampouch",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36159,
+    49.8618,
+    15.36159,
+    49.8618
+],
+  "geometry": {"coordinates":[15.36159,49.8618],"type":"Point"}
+}

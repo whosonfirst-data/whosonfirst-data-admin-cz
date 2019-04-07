@@ -1,0 +1,70 @@
+{
+  "id": 1309940535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87994,49.90464,17.87994,49.90464",
+    "geom:latitude":49.90464,
+    "geom:longitude":17.87994,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Rybnicky",
+    "gn:country_code":"CZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066523,
+    "gn:latitude":49.90464,
+    "gn:longitude":17.87994,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Rybn\u00ed\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Provazovec",
+        "Rybn\u00ed\u010dky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066523
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f20ab4b9c31c7aef51c2c65d3c14e44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309940535,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1309940535,
+    "wof:lastmodified":1537619309,
+    "wof:name":"Rybnicky",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87993999999999,
+    49.90464,
+    17.87993999999999,
+    49.90464
+],
+  "geometry": {"coordinates":[17.87993999999999,49.90464],"type":"Point"}
+}

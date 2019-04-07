@@ -1,0 +1,72 @@
+{
+  "id": 1243103261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71676,50.16906,14.71676,50.16906",
+    "geom:latitude":50.16906,
+    "geom:longitude":14.71676,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0209",
+    "gn:asciiname":"Tousen",
+    "gn:country_code":"CZ",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064149,
+    "gn:latitude":50.16906,
+    "gn:longitude":14.71676,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Tou\u0161e\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tauschim",
+        "Tou\u0161e\u0148",
+        "L\u00e1zn\u011b Tou\u0161e\u0148"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064149,
+        "wk:page":"L%C3%A1zn%C4%9B_Tou%C5%A1e%C5%88"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"99a265568c9323fcf3064f51ed116990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243103261,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1243103261,
+    "wof:lastmodified":1537619281,
+    "wof:name":"Tousen",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71676,
+    50.16906,
+    14.71676,
+    50.16906
+],
+  "geometry": {"coordinates":[14.71676,50.16906],"type":"Point"}
+}

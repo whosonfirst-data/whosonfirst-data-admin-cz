@@ -1,0 +1,70 @@
+{
+  "id": 1292934363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44796,50.14028,15.44796,50.14028",
+    "geom:latitude":50.14028,
+    "geom:longitude":15.44796,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0521",
+    "gn:asciiname":"Olesnice",
+    "gn:country_code":"CZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069026,
+    "gn:latitude":50.14028,
+    "gn:longitude":15.44796,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Ole\u0161nice",
+    "gn:population":279,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069026,
+        "wk:page":"Ole%C5%A1nice_%28Hradec_Kr%C3%A1lov%C3%A9_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e1937fd5cd9f99e53eefbb85bec4a5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292934363,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1292934363,
+    "wof:lastmodified":1537504035,
+    "wof:name":"Olesnice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":279,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44796,
+    50.14028,
+    15.44796,
+    50.14028
+],
+  "geometry": {"coordinates":[15.44796,50.14028],"type":"Point"}
+}

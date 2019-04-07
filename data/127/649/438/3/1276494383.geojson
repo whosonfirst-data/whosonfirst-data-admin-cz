@@ -1,0 +1,66 @@
+{
+  "id": 1276494383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47624,49.54532,17.47624,49.54532",
+    "geom:latitude":49.54532,
+    "geom:longitude":17.47624,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Svrcov",
+    "gn:country_code":"CZ",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6639683,
+    "gn:latitude":49.54532,
+    "gn:longitude":17.47624,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Svr\u010dov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6639683
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f2bf9c5bbe2500b13cb0a6b2f5f0530a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276494383,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1276494383,
+    "wof:lastmodified":1537057786,
+    "wof:name":"Svrcov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47624,
+    49.54532,
+    17.47624,
+    49.54532
+],
+  "geometry": {"coordinates":[17.47624,49.54532],"type":"Point"}
+}

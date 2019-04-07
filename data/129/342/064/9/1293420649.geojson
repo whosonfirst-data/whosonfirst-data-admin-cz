@@ -1,0 +1,66 @@
+{
+  "id": 1293420649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99376,49.37388,14.99376,49.37388",
+    "geom:latitude":49.37388,
+    "geom:longitude":14.99376,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Svatava",
+    "gn:country_code":"CZ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064598,
+    "gn:latitude":49.37388,
+    "gn:longitude":14.99376,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Svatava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064598
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cfb575737ca4b46bed211b1d62c3de71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293420649,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1293420649,
+    "wof:lastmodified":1536882858,
+    "wof:name":"Svatava",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99376,
+    49.37388,
+    14.99376,
+    49.37388
+],
+  "geometry": {"coordinates":[14.99376,49.37388],"type":"Point"}
+}

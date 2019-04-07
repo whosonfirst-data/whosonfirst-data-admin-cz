@@ -1,0 +1,112 @@
+{
+  "id": 101824223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":767372.5403,
+    "geom:bbox":"15.2103837939,50.3701146092,15.2275143951,50.3812554396",
+    "geom:latitude":50.376087,
+    "geom:longitude":15.219128,
+    "gn:population":1648,
+    "iso:country":"CZ",
+    "lbl:latitude":50.375962,
+    "lbl:longitude":15.218414,
+    "mps:latitude":50.375962,
+    "mps:longitude":15.218414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lib\u00e1\u0148"
+    ],
+    "name:ces_x_preferred":[
+        "Lib\u00e1\u0148"
+    ],
+    "name:deu_x_preferred":[
+        "Lib\u00e1\u0148"
+    ],
+    "name:fra_x_preferred":[
+        "Lib\u00e1\u0148"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d1\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Lib\u00e1\u0148"
+    ],
+    "name:ita_x_preferred":[
+        "Lib\u00e1\u0148"
+    ],
+    "name:msa_x_preferred":[
+        "Lib\u00e1\u0148"
+    ],
+    "name:nld_x_preferred":[
+        "Lib\u00e1\u0148"
+    ],
+    "name:pol_x_preferred":[
+        "Lib\u00e1\u0148"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Kr\u00e1lov\u00e9hradeck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Star\u00e9 Hrady",
+    "qs:la_lc":"*CZ0522530735",
+    "qs:level":"locality",
+    "qs:loc":"Lib\u00e1\u0148",
+    "qs:loc_alt":"Liban",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071990,
+        "gp:id":792740,
+        "qs:id":27513,
+        "qs_pg:id":27513,
+        "wd:id":"Q388235",
+        "wk:page":"Lib\u00e1\u0148"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7072dfd4145e30bebf9719df027c7840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824223,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":101824223,
+    "wof:lastmodified":1527714852,
+    "wof:name":"Lib\u00e1\u0148",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":1648,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21038379388409,
+    50.37011460924879,
+    15.22751439511478,
+    50.38125543956107
+],
+  "geometry": {"coordinates":[[[15.22751439511478,50.37882265539145],[15.22691902074581,50.37344415926827],[15.22551637800126,50.3735082208263],[15.22561556894527,50.37440463910281],[15.22140754062923,50.37459672499665],[15.22091202866517,50.37011460924879],[15.21950947756073,50.37017859658687],[15.21960854419706,50.37107502181868],[15.21540079084031,50.37126688505543],[15.21569778129901,50.37395617122678],[15.21429511071113,50.37402009549675],[15.21439409049106,50.37491652492577],[15.2129913900302,50.37498043342686],[15.21309034809047,50.37587686390475],[15.2116876177559,50.37594075663623],[15.21178655409341,50.37683718816294],[15.21038379388409,50.37690106512389],[15.21058162778502,50.37869392993093],[15.21338725033331,50.3785661532778],[15.21368419467694,50.38125543956107],[15.21508707994838,50.38119152131122],[15.21498806741704,50.38029509428634],[15.21639092280532,50.38023116026557],[15.21629188855002,50.37933473429052],[15.22751439511478,50.37882265539145]]],"type":"Polygon"}
+}

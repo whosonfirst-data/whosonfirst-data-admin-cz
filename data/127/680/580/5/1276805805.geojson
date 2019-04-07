@@ -1,0 +1,70 @@
+{
+  "id": 1276805805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80238,49.56679,17.80238,49.56679",
+    "geom:latitude":49.56679,
+    "geom:longitude":17.80238,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Kuncice",
+    "gn:country_code":"CZ",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072537,
+    "gn:latitude":49.56679,
+    "gn:longitude":17.80238,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Kun\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunzendorf",
+        "Kun\u010dice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072537
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9d426dd176a8a7023321ed6f5e7c3c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276805805,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1276805805,
+    "wof:lastmodified":1537619381,
+    "wof:name":"Kuncice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80238,
+    49.56679000000001,
+    17.80238,
+    49.56679000000001
+],
+  "geometry": {"coordinates":[17.80238,49.56679000000001],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 85907657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":665873.321994,
+    "geom:bbox":"14.4854736328,50.02387767,14.4974300018,50.0339552482",
+    "geom:latitude":50.028615,
+    "geom:longitude":14.491917,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.025089,
+    "lbl:longitude":14.518669,
+    "mps:latitude":50.028917,
+    "mps:longitude":14.49192,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cze_x_preferred":[
+        "Prague 11"
+    ],
+    "name:fra_x_preferred":[
+        "Prague 11"
+    ],
+    "name:unk_x_variant":[
+        "Prague 11"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Prague 11",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":29,
+    "qs:photo_sum":106,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191581,
+        101748113,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23407534,
+        "qs:id":348231,
+        "qs_pg:id":348231,
+        "wd:id":"Q3490864"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4e2c57eaf30a723a36272c51c10e77d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748113,
+            "neighbourhood_id":85907657,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85907657,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1527268817,
+    "wof:name":"Praha 11",
+    "wof:parent_id":101748113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48547363280011,
+    50.02387767002536,
+    14.4974300017908,
+    50.03395524823746
+],
+  "geometry": {"coordinates":[[[14.49387660721681,50.03244524750004],[14.49460419812107,50.03206767553674],[14.4958168763614,50.03244524749995],[14.49645996092511,50.03264547431463],[14.49667439184452,50.03244518267546],[14.49742994766615,50.0289165592818],[14.49742998096559,50.02891649870021],[14.49705214477586,50.02715210810037],[14.4974300017908,50.02538755545022],[14.49645996092511,50.02387767002536],[14.49371337890011,50.02530270418787],[14.49096679688341,50.02387767002536],[14.48999675600942,50.02538755545022],[14.48547363280011,50.02538755545022],[14.48547363280011,50.02538762030004],[14.48547363280011,50.02871626564429],[14.48547363280011,50.02891656350012],[14.48611698804677,50.02891656350012],[14.48732928190549,50.02929399084177],[14.48822021481675,50.03068093115014],[14.4882202148147,50.03244524749995],[14.48822021482511,50.03252995227861],[14.49096679688546,50.03395524823746],[14.49387660721681,50.03244524750004]]],"type":"Polygon"}
+}

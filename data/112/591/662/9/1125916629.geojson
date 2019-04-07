@@ -1,0 +1,132 @@
+{
+  "id": 1125916629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.317,49.25958,15.317,49.25958",
+    "geom:latitude":49.25958,
+    "geom:longitude":15.317,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":639,
+    "gn:population":639,
+    "iso:country":"CZ",
+    "lbl:latitude":49.25958,
+    "lbl:longitude":15.317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:dut_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:eng_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:fre_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:hun_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:ita_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:may_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0648\u0631\u0646\u06cc \u062f\u0648\u0628\u0646\u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:por_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:rup_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:slo_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u045a\u0438 \u0414\u0443\u0431\u0435\u043d\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "name:vie_x_preferred":[
+        "Horn\u00ed Dubenky"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075396,
+    "qs_pg:gn_pop":639,
+    "qs_pg:name":"Horn\u00ed Dubenky",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1266051,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":789718,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075396,
+        "gp:id":789718,
+        "qs_pg:id":1266051,
+        "wd:id":"Q2521012"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296340,
+    "wof:geomhash":"f59d7afab1ec08506d71675bd91aaf74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125916629,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125916629,
+    "wof:lastmodified":1513945023,
+    "wof:name":"Horn\u00ed Dubenky",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":639,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.317,
+    49.25958,
+    15.317,
+    49.25958
+],
+  "geometry": {"coordinates":[15.317,49.25958],"type":"Point"}
+}

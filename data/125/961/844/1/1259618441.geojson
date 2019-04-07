@@ -1,0 +1,73 @@
+{
+  "id": 1259618441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57492,50.20523,17.57492,50.20523",
+    "geom:latitude":50.20523,
+    "geom:longitude":17.57492,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Tremesna",
+    "gn:country_code":"CZ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064050,
+    "gn:latitude":50.20523,
+    "gn:longitude":17.57492,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"T\u0159eme\u0161n\u00e1",
+    "gn:population":979,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6wersdorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064050,
+        "wk:page":"T%C5%99eme%C5%A1n%C3%A1"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d2a1a32357d7c1f8a6403aee8356f61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259618441,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1259618441,
+    "wof:lastmodified":1537619280,
+    "wof:name":"Tremesna",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":979,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57492,
+    50.20523,
+    17.57492,
+    50.20523
+],
+  "geometry": {"coordinates":[17.57492,50.20523],"type":"Point"}
+}

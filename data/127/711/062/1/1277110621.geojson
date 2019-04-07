@@ -1,0 +1,70 @@
+{
+  "id": 1277110621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1598,49.88307,17.1598,49.88307",
+    "geom:latitude":49.88307,
+    "geom:longitude":17.1598,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Mirotinek",
+    "gn:country_code":"CZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070577,
+    "gn:latitude":49.88307,
+    "gn:longitude":17.1598,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Mirot\u00ednek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Merotein",
+        "Mirot\u00ednek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070577
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"26601dea586316f49f84f89c97b1b8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277110621,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1277110621,
+    "wof:lastmodified":1537619356,
+    "wof:name":"Mirotinek",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1598,
+    49.88307,
+    17.1598,
+    49.88307
+],
+  "geometry": {"coordinates":[17.1598,49.88307],"type":"Point"}
+}

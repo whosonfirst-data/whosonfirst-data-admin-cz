@@ -1,0 +1,70 @@
+{
+  "id": 1276913451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33522,50.27716,17.33522,50.27716",
+    "geom:latitude":50.27716,
+    "geom:longitude":17.33522,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Salisov",
+    "gn:country_code":"CZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066427,
+    "gn:latitude":50.27716,
+    "gn:longitude":17.33522,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Salisov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salisfeld",
+        "Salisov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066427
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"07b14f0c7c3d5237e63d782a188887cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276913451,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1276913451,
+    "wof:lastmodified":1537619307,
+    "wof:name":"Salisov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33522,
+    50.27716,
+    17.33522,
+    50.27716
+],
+  "geometry": {"coordinates":[17.33522,50.27716],"type":"Point"}
+}

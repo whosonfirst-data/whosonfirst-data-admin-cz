@@ -1,0 +1,67 @@
+{
+  "id": 1260116863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69083,49.70311,18.69083,49.70311",
+    "geom:latitude":49.70311,
+    "geom:longitude":18.69083,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Kojkovice",
+    "gn:country_code":"CZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073399,
+    "gn:latitude":49.70311,
+    "gn:longitude":18.69083,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Kojkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073399,
+        "wk:page":"Kojkovice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4ae326557377feb1ca7246b4d7b95a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260116863,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1260116863,
+    "wof:lastmodified":1537504051,
+    "wof:name":"Kojkovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69083,
+    49.70311,
+    18.69083,
+    49.70311
+],
+  "geometry": {"coordinates":[18.69083,49.70311],"type":"Point"}
+}

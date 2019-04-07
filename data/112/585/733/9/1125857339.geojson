@@ -1,0 +1,132 @@
+{
+  "id": 1125857339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41387,49.43273,16.41387,49.43273",
+    "geom:latitude":49.43273,
+    "geom:longitude":16.41387,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":101,
+    "gn:population":101,
+    "iso:country":"CZ",
+    "lbl:latitude":49.43273,
+    "lbl:longitude":16.41387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0439\u043d\u0430\u043b\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Synalov"
+    ],
+    "name:dut_x_preferred":[
+        "Synalov"
+    ],
+    "name:eng_x_preferred":[
+        "Synalov"
+    ],
+    "name:fre_x_preferred":[
+        "Synalov"
+    ],
+    "name:ger_x_preferred":[
+        "Synalov"
+    ],
+    "name:hun_x_preferred":[
+        "Synalov"
+    ],
+    "name:ita_x_preferred":[
+        "Synalov"
+    ],
+    "name:may_x_preferred":[
+        "Synalov"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u0646\u0627\u0644\u0648\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Synalov"
+    ],
+    "name:rup_x_preferred":[
+        "Synalov"
+    ],
+    "name:slo_x_preferred":[
+        "Synalov"
+    ],
+    "name:swe_x_preferred":[
+        "Synalov"
+    ],
+    "name:vie_x_preferred":[
+        "Synalov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064392,
+    "qs_pg:gn_pop":101,
+    "qs_pg:name":"Synalov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1268404,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799507,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064392,
+        "gp:id":799507,
+        "qs_pg:id":1268404,
+        "wd:id":"Q1329103"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293675,
+    "wof:geomhash":"d2bca8139c01602cda980e5f1e9ad0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125857339,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125857339,
+    "wof:lastmodified":1513945780,
+    "wof:name":"Synalov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41387,
+    49.43273,
+    16.41387,
+    49.43273
+],
+  "geometry": {"coordinates":[16.41387,49.43273],"type":"Point"}
+}

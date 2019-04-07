@@ -1,0 +1,67 @@
+{
+  "id": 1327367789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36686,49.34263,14.36686,49.34263",
+    "geom:latitude":49.34263,
+    "geom:longitude":14.36686,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Svatkovice",
+    "gn:country_code":"CZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064591,
+    "gn:latitude":49.34263,
+    "gn:longitude":14.36686,
+    "gn:modification_date":"2014-05-13",
+    "gn:name":"Svatkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064591,
+        "wk:page":"Svatkovice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6e5246fd1e4abc1eb39b9b9395b0b3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327367789,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327367789,
+    "wof:lastmodified":1537504020,
+    "wof:name":"Svatkovice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36686,
+    49.34263,
+    14.36686,
+    49.34263
+],
+  "geometry": {"coordinates":[14.36686,49.34263],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 1125911837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12016,50.32319,16.12016,50.32319",
+    "geom:latitude":50.32319,
+    "geom:longitude":16.12016,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":110,
+    "gn:population":110,
+    "iso:country":"CZ",
+    "lbl:latitude":50.32319,
+    "lbl:longitude":16.12016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:dut_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:eng_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:fre_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:ger_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:hun_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:ita_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:may_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u0634\u0648\u0648\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:por_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:rus_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:slo_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0448\u043e\u0432\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "name:vie_x_preferred":[
+        "Vr\u0161ovka"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062393,
+    "qs_pg:gn_pop":110,
+    "qs_pg:name":"Vr\u0161ovka",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":401359,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801272,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062393,
+        "gp:id":801272,
+        "qs_pg:id":401359,
+        "wd:id":"Q2036964"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296164,
+    "wof:geomhash":"16b2075941bd309ba7ab1aca9345552f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125911837,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125911837,
+    "wof:lastmodified":1513945904,
+    "wof:name":"Vr\u0161ovka",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12016,
+    50.32319,
+    16.12016,
+    50.32319
+],
+  "geometry": {"coordinates":[16.12016,50.32319],"type":"Point"}
+}

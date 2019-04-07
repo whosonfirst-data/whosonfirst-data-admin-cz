@@ -1,0 +1,79 @@
+{
+  "id": 1125847315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76667,50.55,13.76667,50.55",
+    "geom:latitude":50.55,
+    "geom:longitude":13.76667,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15697,
+    "gn:population":15697,
+    "iso:country":"CZ",
+    "lbl:latitude":50.55,
+    "lbl:longitude":13.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sauerbrunn"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079346,
+    "qs_pg:gn_pop":15697,
+    "qs_pg:name":"B\u00edlina Kyselka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":94495,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079346,
+        "qs_pg:id":94495
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293228,
+    "wof:geomhash":"9b08a44a3e4448575a7109da708aae1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125847315,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125847315,
+    "wof:lastmodified":1509395713,
+    "wof:name":"B\u00edlina Kyselka",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":15697,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76667,
+    50.55,
+    13.76667,
+    50.55
+],
+  "geometry": {"coordinates":[13.76667,50.55],"type":"Point"}
+}

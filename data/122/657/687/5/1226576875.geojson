@@ -1,0 +1,66 @@
+{
+  "id": 1226576875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79132,49.61631,18.79132,49.61631",
+    "geom:latitude":49.61631,
+    "geom:longitude":18.79132,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Filipka",
+    "gn:country_code":"CZ",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076191,
+    "gn:latitude":49.61631,
+    "gn:longitude":18.79132,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Filipka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076191
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4fa5d102a6c89afdf89597e26c3676b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226576875,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1226576875,
+    "wof:lastmodified":1536954728,
+    "wof:name":"Filipka",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79132,
+    49.61631,
+    18.79132,
+    49.61631
+],
+  "geometry": {"coordinates":[18.79132,49.61631],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243393819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13293,50.0762,16.13293,50.0762",
+    "geom:latitude":50.0762,
+    "geom:longitude":16.13293,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Mala Cermna nad Orlici",
+    "gn:country_code":"CZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071254,
+    "gn:latitude":50.0762,
+    "gn:longitude":16.13293,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Mal\u00e1 \u010cermn\u00e1 nad Orlic\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klein \u010cerma",
+        "Mal\u00e1 \u010cermn\u00e1 nad Orlic\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071254
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"852a3ad127d3707de5506613bf26e40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243393819,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1243393819,
+    "wof:lastmodified":1537619365,
+    "wof:name":"Mala Cermna nad Orlici",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13293,
+    50.0762,
+    16.13293,
+    50.0762
+],
+  "geometry": {"coordinates":[16.13293,50.0762],"type":"Point"}
+}

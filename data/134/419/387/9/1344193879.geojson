@@ -1,0 +1,67 @@
+{
+  "id": 1344193879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90086,50.67062,15.90086,50.67062",
+    "geom:latitude":50.67062,
+    "geom:longitude":15.90086,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Bobr",
+    "gn:country_code":"CZ",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079186,
+    "gn:latitude":50.67062,
+    "gn:longitude":15.90086,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Bobr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079186,
+        "wk:page":"B%C3%B3br"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"807148f5dd9ba3cdd916cef98e09fe79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344193879,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1344193879,
+    "wof:lastmodified":1537504072,
+    "wof:name":"Bobr",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90086,
+    50.67062,
+    15.90086,
+    50.67062
+],
+  "geometry": {"coordinates":[15.90086,50.67062],"type":"Point"}
+}

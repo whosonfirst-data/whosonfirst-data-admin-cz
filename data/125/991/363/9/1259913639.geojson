@@ -1,0 +1,70 @@
+{
+  "id": 1259913639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98584,50.18866,12.98584,50.18866",
+    "geom:latitude":50.18866,
+    "geom:longitude":12.98584,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Zalmanov",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061921,
+    "gn:latitude":50.18866,
+    "gn:longitude":12.98584,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"\u017dalmanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solmus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061921
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"10d57ed9ed95c5ba668a9d15205ad9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259913639,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1259913639,
+    "wof:lastmodified":1537619258,
+    "wof:name":"Zalmanov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98584,
+    50.18866,
+    12.98584,
+    50.18866
+],
+  "geometry": {"coordinates":[12.98584,50.18866],"type":"Point"}
+}

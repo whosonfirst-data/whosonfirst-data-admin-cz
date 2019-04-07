@@ -1,0 +1,141 @@
+{
+  "id": 1125912093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57678,48.68611,14.57678,48.68611",
+    "geom:latitude":48.68611,
+    "geom:longitude":14.57678,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1135,
+    "gn:population":1135,
+    "iso:country":"CZ",
+    "lbl:latitude":48.68611,
+    "lbl:longitude":14.57678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u043d\u0442\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Malonty"
+    ],
+    "name:dut_x_preferred":[
+        "Malonty"
+    ],
+    "name:eng_x_preferred":[
+        "Malonty"
+    ],
+    "name:epo_x_preferred":[
+        "Malonty"
+    ],
+    "name:fre_x_preferred":[
+        "Malonty"
+    ],
+    "name:ger_x_preferred":[
+        "Malonty"
+    ],
+    "name:hun_x_preferred":[
+        "Malonty"
+    ],
+    "name:ita_x_preferred":[
+        "Malonty"
+    ],
+    "name:may_x_preferred":[
+        "Malonty"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0644\u0648\u0646\u062a\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Malonty"
+    ],
+    "name:por_x_preferred":[
+        "Malonty"
+    ],
+    "name:slo_x_preferred":[
+        "Malonty"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u043d\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Malonty"
+    ],
+    "name:unk_x_variant":[
+        "Meinetschlag"
+    ],
+    "name:vie_x_preferred":[
+        "Malonty"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071110,
+    "qs_pg:gn_pop":1135,
+    "qs_pg:name":"Malonty",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":145365,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793519,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071110,
+        "gp:id":793519,
+        "qs_pg:id":145365,
+        "wd:id":"Q1778205"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296172,
+    "wof:geomhash":"6ea926d5355c3d3d80bbcc090f93b99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125912093,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125912093,
+    "wof:lastmodified":1513945340,
+    "wof:name":"Malonty",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":1135,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57678,
+    48.68611,
+    14.57678,
+    48.68611
+],
+  "geometry": {"coordinates":[14.57678,48.68611],"type":"Point"}
+}

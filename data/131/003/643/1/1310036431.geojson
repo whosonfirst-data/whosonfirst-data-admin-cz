@@ -1,0 +1,70 @@
+{
+  "id": 1310036431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30673,49.89574,17.30673,49.89574",
+    "geom:latitude":49.89574,
+    "geom:longitude":17.30673,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Stanske",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065424,
+    "gn:latitude":49.89574,
+    "gn:longitude":17.30673,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"St\u00e1nsk\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zechitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065424
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0a49474fce1d890b21b44add4414bcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310036431,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1310036431,
+    "wof:lastmodified":1537619296,
+    "wof:name":"Stanske",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30673,
+    49.89574,
+    17.30673,
+    49.89574
+],
+  "geometry": {"coordinates":[17.30673,49.89574],"type":"Point"}
+}

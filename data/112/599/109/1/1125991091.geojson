@@ -1,0 +1,138 @@
+{
+  "id": 1125991091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75596,49.29759,13.75596,49.29759",
+    "geom:latitude":49.29759,
+    "geom:longitude":13.75596,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":876,
+    "gn:population":876,
+    "iso:country":"CZ",
+    "lbl:latitude":49.29759,
+    "lbl:longitude":13.75596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:dut_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:eng_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:fre_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:ger_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:hun_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:ita_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:may_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:nan_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0631\u0644\u0633\u06a9\u0647 \u0647\u0648\u0634\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:rup_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:slo_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u043b\u0441\u043a\u0435 \u0425\u043e\u0448\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "name:unk_x_variant":[
+        "St\u0159elsk\u00e1 Ho\u0161tice"
+    ],
+    "name:vie_x_preferred":[
+        "St\u0159elsk\u00e9 Ho\u0161tice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064955,
+    "qs_pg:gn_pop":876,
+    "qs_pg:name":"St\u0159elsk\u00e9 Ho\u0161tice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1157859,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799034,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064955,
+        "gp:id":799034,
+        "qs_pg:id":1157859,
+        "wd:id":"Q645071"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299057,
+    "wof:geomhash":"73f435addd8a2a84aa0f34ca3444bb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125991091,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125991091,
+    "wof:lastmodified":1513945759,
+    "wof:name":"St\u0159elsk\u00e9 Ho\u0161tice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":876,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75596,
+    49.29759,
+    13.75596,
+    49.29759
+],
+  "geometry": {"coordinates":[13.75596,49.29759],"type":"Point"}
+}

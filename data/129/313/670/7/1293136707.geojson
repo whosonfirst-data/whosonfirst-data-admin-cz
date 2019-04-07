@@ -1,0 +1,70 @@
+{
+  "id": 1293136707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07975,50.40257,15.07975,50.40257",
+    "geom:latitude":50.40257,
+    "geom:longitude":15.07975,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Cizovka",
+    "gn:country_code":"CZ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077351,
+    "gn:latitude":50.40257,
+    "gn:longitude":15.07975,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"\u010c\u00ed\u017eovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010c\u00ed\u017eovky",
+        "\u010c\u00ed\u017eovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077351
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6831f17948185062d3207d8426f68ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293136707,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293136707,
+    "wof:lastmodified":1537619441,
+    "wof:name":"Cizovka",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07975,
+    50.40257,
+    15.07975,
+    50.40257
+],
+  "geometry": {"coordinates":[15.07975,50.40257],"type":"Point"}
+}

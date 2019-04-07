@@ -1,0 +1,140 @@
+{
+  "id": 1125805607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71258,50.63081,13.71258,50.63081",
+    "geom:latitude":50.63081,
+    "geom:longitude":13.71258,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":959,
+    "gn:population":959,
+    "iso:country":"CZ",
+    "lbl:latitude":50.63081,
+    "lbl:longitude":13.71258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:dut_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:fre_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:ger_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:may_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0627\u06cc \u0648 \u062f\u0648\u062e\u062a\u0633\u0648\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:por_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:rup_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:slo_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0458 \u0443 \u0414\u0443\u0445\u0446\u043e\u0432\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "name:unk_x_variant":[
+        "Haan"
+    ],
+    "name:vie_x_preferred":[
+        "H\u00e1j u Duchcova"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076002,
+    "qs_pg:gn_pop":959,
+    "qs_pg:name":"H\u00e1j u Duchcova",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":207987,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":789162,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076002,
+        "gp:id":789162,
+        "qs_pg:id":207987,
+        "wd:id":"Q1641786"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497291450,
+    "wof:geomhash":"332b1e83e5b5806be0be7417df1c8ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125805607,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125805607,
+    "wof:lastmodified":1513945080,
+    "wof:name":"H\u00e1j u Duchcova",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":959,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71258,
+    50.63081,
+    13.71258,
+    50.63081
+],
+  "geometry": {"coordinates":[13.71258,50.63081],"type":"Point"}
+}

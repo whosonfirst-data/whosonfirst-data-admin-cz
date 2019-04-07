@@ -1,0 +1,66 @@
+{
+  "id": 1327470045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63988,49.66703,14.63988,49.66703",
+    "geom:latitude":49.66703,
+    "geom:longitude":14.63988,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Olbramovice Mestecko",
+    "gn:country_code":"CZ",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069081,
+    "gn:latitude":49.66703,
+    "gn:longitude":14.63988,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Olbramovice M\u011bste\u010dko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069081
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4a731bd918a7cc240b2c08041089cfa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327470045,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1327470045,
+    "wof:lastmodified":1536624368,
+    "wof:name":"Olbramovice Mestecko",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63988,
+    49.66703,
+    14.63988,
+    49.66703
+],
+  "geometry": {"coordinates":[14.63988,49.66703],"type":"Point"}
+}

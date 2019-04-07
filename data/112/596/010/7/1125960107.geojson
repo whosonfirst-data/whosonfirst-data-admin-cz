@@ -1,0 +1,134 @@
+{
+  "id": 1125960107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69974,49.89668,13.69974,49.89668",
+    "geom:latitude":49.89668,
+    "geom:longitude":13.69974,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":133,
+    "gn:population":133,
+    "iso:country":"CZ",
+    "lbl:latitude":49.89668,
+    "lbl:longitude":13.69974,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:deu_x_preferred":[
+        "Tereschau"
+    ],
+    "name:dut_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:eng_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:fre_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:hun_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:ita_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:may_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0631\u0634\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:por_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:slo_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u0448\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "name:vie_x_preferred":[
+        "Tere\u0161ov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064277,
+    "qs_pg:gn_pop":133,
+    "qs_pg:name":"Tere\u0161ov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":80,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":939267,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799604,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064277,
+        "gp:id":799604,
+        "qs_pg:id":939267,
+        "wd:id":"Q2175649"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297765,
+    "wof:geomhash":"06b3530e8837c03ea34f710dbb53c186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125960107,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125960107,
+    "wof:lastmodified":1513945790,
+    "wof:name":"Tere\u0161ov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69974,
+    49.89668,
+    13.69974,
+    49.89668
+],
+  "geometry": {"coordinates":[13.69974,49.89668],"type":"Point"}
+}

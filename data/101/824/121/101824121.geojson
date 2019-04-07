@@ -1,0 +1,147 @@
+{
+  "id": 101824121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000147,
+    "geom:area_square_m":1166092.489674,
+    "geom:bbox":"17.4228388821,50.0982291292,17.4554010319,50.1104121129",
+    "geom:latitude":50.105066,
+    "geom:longitude":17.442964,
+    "gn:population":1128,
+    "iso:country":"CZ",
+    "lbl:latitude":50.106146,
+    "lbl:longitude":17.441607,
+    "mps:latitude":50.106146,
+    "mps:longitude":17.441607,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Karlovice"
+    ],
+    "name:ces_x_preferred":[
+        "Karlovice"
+    ],
+    "name:cze_x_preferred":[
+        "Karlovice"
+    ],
+    "name:deu_x_preferred":[
+        "Karlovice ve Slezsku"
+    ],
+    "name:dut_x_preferred":[
+        "Karlovice"
+    ],
+    "name:eng_x_preferred":[
+        "Karlovice"
+    ],
+    "name:epo_x_preferred":[
+        "Karlovice"
+    ],
+    "name:ger_x_preferred":[
+        "Karlovice ve Slezsku"
+    ],
+    "name:hun_x_preferred":[
+        "Karlovice"
+    ],
+    "name:ita_x_preferred":[
+        "Karlovice"
+    ],
+    "name:may_x_preferred":[
+        "Karlovice"
+    ],
+    "name:msa_x_preferred":[
+        "Karlovice"
+    ],
+    "name:nld_x_preferred":[
+        "Karlovice"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0631\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Karlovice"
+    ],
+    "name:por_x_preferred":[
+        "Karlovice"
+    ],
+    "name:rup_x_preferred":[
+        "Karlovice"
+    ],
+    "name:slo_x_preferred":[
+        "Karlovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Karlovice"
+    ],
+    "name:unk_x_variant":[
+        "Karlsthal"
+    ],
+    "name:vie_x_preferred":[
+        "Karlovice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Vrbno pod Prad\u011bdem",
+    "qs:la_lc":"*CZ0801597961",
+    "qs:level":"locality",
+    "qs:loc":"Karlovice",
+    "qs:loc_alt":"Karlovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073810,
+        "gp:id":29396524,
+        "qs:id":885028,
+        "qs_pg:id":281028,
+        "wd:id":"Q1495826",
+        "wk:page":"Karlovice (Brunt\u00e1l District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f9c1bec7b84780d1299550b683774d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824121,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101824121,
+    "wof:lastmodified":1553815525,
+    "wof:name":"Karlovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1128,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42283888212825,
+    50.09822912918452,
+    17.45540103188955,
+    50.11041211288318
+],
+  "geometry": {"coordinates":[[[17.43717713217757,50.1100481100047],[17.43703721277154,50.10915431050984],[17.44399654343835,50.10869893484409],[17.44385650195909,50.10780514468559],[17.44664014870438,50.10762287954469],[17.4465000623386,50.10672909283392],[17.45206719449618,50.10636436676003],[17.45192701180832,50.10547058742981],[17.45471049721334,50.10528812650222],[17.45400942507592,50.1008192422845],[17.45540103188955,50.10072799619985],[17.45512059756913,50.09894044306998],[17.45233748191509,50.09912291040564],[17.45219732602271,50.09822912918452],[17.4494142423049,50.09841152471859],[17.44955434677661,50.0993053098706],[17.44677119216084,50.09948764146452],[17.44705131793393,50.10127521818208],[17.44426804099271,50.10145748976055],[17.44454809013837,50.1032450724083],[17.43758955546298,50.10370047402853],[17.437729461277,50.10459427444658],[17.43355420494862,50.10486731766377],[17.43383388190023,50.10665492882845],[17.43105025048476,50.10683688063074],[17.43119004733512,50.10773068941467],[17.42283888212825,50.10827614925785],[17.42297853116247,50.10916996932076],[17.42437042990025,50.10907909981864],[17.42451011120448,50.10997291744246],[17.42590203081517,50.10988202900808],[17.42576232378218,50.10898821334376],[17.42993797628327,50.1087154520834],[17.4300777605016,50.10960926186692],[17.43146966067877,50.10951830554075],[17.4316094771728,50.11041211288318],[17.43717713217757,50.1100481100047]]],"type":"Polygon"}
+}

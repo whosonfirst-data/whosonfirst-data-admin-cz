@@ -1,0 +1,66 @@
+{
+  "id": 1209945163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49866,48.76466,14.49866,48.76466",
+    "geom:latitude":48.76466,
+    "geom:longitude":14.49866,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Poresinec",
+    "gn:country_code":"CZ",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067793,
+    "gn:latitude":48.76466,
+    "gn:longitude":14.49866,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Po\u0159e\u0161inec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067793
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2c81cf2519b14d990bca26b9a220ad12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209945163,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1209945163,
+    "wof:lastmodified":1536386736,
+    "wof:name":"Poresinec",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49866,
+    48.76466,
+    14.49866,
+    48.76466
+],
+  "geometry": {"coordinates":[14.49866,48.76466],"type":"Point"}
+}

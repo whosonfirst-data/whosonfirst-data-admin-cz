@@ -1,0 +1,66 @@
+{
+  "id": 1260016511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38268,48.96711,14.38268,48.96711",
+    "geom:latitude":48.96711,
+    "geom:longitude":14.38268,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Trebin",
+    "gn:country_code":"CZ",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064099,
+    "gn:latitude":48.96711,
+    "gn:longitude":14.38268,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"T\u0159eb\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064099
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8149a9fdfc0d29abbd5f1e503cf6b4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260016511,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260016511,
+    "wof:lastmodified":1537081205,
+    "wof:name":"Trebin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38268,
+    48.96711,
+    14.38268,
+    48.96711
+],
+  "geometry": {"coordinates":[14.38268,48.96711],"type":"Point"}
+}

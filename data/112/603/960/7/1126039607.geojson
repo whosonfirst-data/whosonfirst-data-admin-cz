@@ -1,0 +1,131 @@
+{
+  "id": 1126039607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33531,50.99054,14.33531,50.99054",
+    "geom:latitude":50.99054,
+    "geom:longitude":14.33531,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1008,
+    "gn:population":1008,
+    "iso:country":"CZ",
+    "lbl:latitude":50.99054,
+    "lbl:longitude":14.33531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "name:dut_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "name:eng_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "name:ger_x_preferred":[
+        "Vil\u00e9mov u \u0160luknova"
+    ],
+    "name:hun_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "name:ita_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "name:may_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0644\u0645\u0648\u0641"
+    ],
+    "name:por_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "name:rup_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "name:slo_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "name:swe_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "name:unk_x_variant":[
+        "Woelmsdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Vil\u00e9mov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062897,
+    "qs_pg:gn_pop":1008,
+    "qs_pg:name":"Vil\u00e9mov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1042953,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800820,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062897,
+        "gp:id":800820,
+        "qs_pg:id":1042953,
+        "wd:id":"Q2305025"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302050,
+    "wof:geomhash":"3b94883751ba51c080ca68f92cb4159e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126039607,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1126039607,
+    "wof:lastmodified":1553816719,
+    "wof:name":"Vil\u00e9mov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":1008,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33531,
+    50.99054,
+    14.33531,
+    50.99054
+],
+  "geometry": {"coordinates":[14.33531,50.99054],"type":"Point"}
+}

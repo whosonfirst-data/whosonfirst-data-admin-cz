@@ -1,0 +1,66 @@
+{
+  "id": 1343490875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03194,49.77262,15.03194,49.77262",
+    "geom:latitude":49.77262,
+    "geom:longitude":15.03194,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Racineves",
+    "gn:country_code":"CZ",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067265,
+    "gn:latitude":49.77262,
+    "gn:longitude":15.03194,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Ra\u010d\u00edn\u011bves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067265
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b9b453cd3c497f3c3d9696ea69201e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343490875,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1343490875,
+    "wof:lastmodified":1536702627,
+    "wof:name":"Racineves",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03194,
+    49.77262,
+    15.03194,
+    49.77262
+],
+  "geometry": {"coordinates":[15.03194,49.77262],"type":"Point"}
+}

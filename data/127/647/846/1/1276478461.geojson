@@ -1,0 +1,66 @@
+{
+  "id": 1276478461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61667,49.28333,17.61667,49.28333",
+    "geom:latitude":49.28333,
+    "geom:longitude":17.61667,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Franckovice",
+    "gn:country_code":"CZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076154,
+    "gn:latitude":49.28333,
+    "gn:longitude":17.61667,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Franckovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076154
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b17914163547af46c5e0c4f3f7bf387e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276478461,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1276478461,
+    "wof:lastmodified":1537078412,
+    "wof:name":"Franckovice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61667000000001,
+    49.28333,
+    17.61667000000001,
+    49.28333
+],
+  "geometry": {"coordinates":[17.61667000000001,49.28333],"type":"Point"}
+}

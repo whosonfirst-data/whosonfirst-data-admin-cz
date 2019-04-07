@@ -1,0 +1,129 @@
+{
+  "id": 101825509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":966800.193704,
+    "geom:bbox":"17.8263858818,49.9169771378,17.8557796505,49.9248908774",
+    "geom:latitude":49.920468,
+    "geom:longitude":17.840205,
+    "gn:population":1686,
+    "iso:country":"CZ",
+    "lbl:latitude":49.920903,
+    "lbl:longitude":17.838758,
+    "mps:latitude":49.920903,
+    "mps:longitude":17.838758,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Slavkov"
+    ],
+    "name:dut_x_preferred":[
+        "Slavkov"
+    ],
+    "name:eng_x_preferred":[
+        "Slavkov"
+    ],
+    "name:epo_x_preferred":[
+        "Slavkov"
+    ],
+    "name:fre_x_preferred":[
+        "Slavkov"
+    ],
+    "name:hun_x_preferred":[
+        "Slavkov"
+    ],
+    "name:ita_x_preferred":[
+        "Slavkov"
+    ],
+    "name:may_x_preferred":[
+        "Slavkov"
+    ],
+    "name:pol_x_preferred":[
+        "Slavkov"
+    ],
+    "name:por_x_preferred":[
+        "Slavkov"
+    ],
+    "name:rup_x_preferred":[
+        "Slavkov"
+    ],
+    "name:slo_x_preferred":[
+        "Slavkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Slavkov"
+    ],
+    "name:unk_x_variant":[
+        "Schlakau"
+    ],
+    "name:vie_x_preferred":[
+        "Slavkov"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Slavkov",
+    "qs:la_lc":"*CZ0805510289",
+    "qs:level":"locality",
+    "qs:loc":"Slavkov",
+    "qs:loc_alt":"Slavkov",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":923,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065831,
+        "gp:id":798268,
+        "qs:id":1193105,
+        "qs_pg:id":1193105,
+        "wd:id":"Q2524196"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"10649c99ed655ebb4b1b32beae6e595d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825509,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825509,
+    "wof:lastmodified":1527715058,
+    "wof:name":"Slavkov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1686,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82638588176962,
+    49.91697713780735,
+    17.8557796504935,
+    49.92489087743007
+],
+  "geometry": {"coordinates":[[[17.84126969720359,49.92479497246876],[17.84097640583605,49.92300843996674],[17.84929137408545,49.92243268038521],[17.84943816882304,49.92332593455768],[17.85082400452239,49.92322991349209],[17.85053037106815,49.9214434087437],[17.85191615087285,49.92134737491392],[17.8516224939728,49.91956087220871],[17.8557796504935,49.91927268179688],[17.8554858685369,49.9174861893668],[17.84994318626246,49.91787039303091],[17.84979640716341,49.91697713780735],[17.84702508639407,49.91716913426217],[17.84746529178301,49.91984891071854],[17.84192228452946,49.92023272576836],[17.84148238401417,49.91755292464387],[17.83455389203169,49.91803228287324],[17.83440739922077,49.9171390045272],[17.83025031948875,49.91742641077036],[17.83054315949363,49.91921297926064],[17.82638588176962,49.91950024590989],[17.82667859660614,49.92128682464318],[17.82806441172943,49.92119108186984],[17.82821080479277,49.92208436841037],[17.83098247068352,49.92189282812046],[17.83112892139752,49.92278611004036],[17.83251477216356,49.92269031252306],[17.83266125511767,49.92358359187364],[17.83681885327394,49.92329609188096],[17.83696541929953,49.92418936455419],[17.83973717690253,49.92399760938264],[17.83988380058958,49.92489087743007],[17.84126969720359,49.92479497246876]]],"type":"Polygon"}
+}

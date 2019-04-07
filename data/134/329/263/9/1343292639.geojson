@@ -1,0 +1,70 @@
+{
+  "id": 1343292639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22043,50.6377,14.22043,50.6377",
+    "geom:latitude":50.6377,
+    "geom:longitude":14.22043,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Tyniste",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063798,
+    "gn:latitude":50.6377,
+    "gn:longitude":14.22043,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"T\u00fdni\u0161t\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinscht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063798
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c911550f0543e5b392e1b3d180fa73a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343292639,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1343292639,
+    "wof:lastmodified":1537619278,
+    "wof:name":"Tyniste",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22043,
+    50.6377,
+    14.22043,
+    50.6377
+],
+  "geometry": {"coordinates":[14.22043,50.6377],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1344090813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65802,49.24824,14.65802,49.24824",
+    "geom:latitude":49.24824,
+    "geom:longitude":14.65802,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Zaluzi u Vlastibore",
+    "gn:country_code":"CZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061893,
+    "gn:latitude":49.24824,
+    "gn:longitude":14.65802,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Z\u00e1lu\u017e\u00ed u Vlastibo\u0159e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061893
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c0776f5fd5f700e2967966d6b68b8c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344090813,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1344090813,
+    "wof:lastmodified":1536830875,
+    "wof:name":"Zaluzi u Vlastibore",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65802,
+    49.24824,
+    14.65802,
+    49.24824
+],
+  "geometry": {"coordinates":[14.65802,49.24824],"type":"Point"}
+}

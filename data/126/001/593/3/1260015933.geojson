@@ -1,0 +1,66 @@
+{
+  "id": 1260015933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13134,50.14818,16.13134,50.14818",
+    "geom:latitude":50.14818,
+    "geom:longitude":16.13134,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Rasovice",
+    "gn:country_code":"CZ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067012,
+    "gn:latitude":50.14818,
+    "gn:longitude":16.13134,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Ra\u0161ovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067012
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2662f02f15d8f45f945c3bd2b5b9e523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260015933,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1260015933,
+    "wof:lastmodified":1537082033,
+    "wof:name":"Rasovice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13134,
+    50.14818,
+    16.13134,
+    50.14818
+],
+  "geometry": {"coordinates":[16.13134,50.14818],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226479269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91642,50.56176,13.91642,50.56176",
+    "geom:latitude":50.56176,
+    "geom:longitude":13.91642,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0426",
+    "gn:asciiname":"Cerncice",
+    "gn:country_code":"CZ",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078064,
+    "gn:latitude":50.56176,
+    "gn:longitude":13.91642,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"\u010cern\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078064
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4a900df139d2f7d8e3ff3991b7353d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226479269,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1226479269,
+    "wof:lastmodified":1537090475,
+    "wof:name":"Cerncice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91642,
+    50.56176,
+    13.91642,
+    50.56176
+],
+  "geometry": {"coordinates":[13.91642,50.56176],"type":"Point"}
+}

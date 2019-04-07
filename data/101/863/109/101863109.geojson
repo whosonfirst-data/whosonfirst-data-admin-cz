@@ -1,0 +1,97 @@
+{
+  "id": 101863109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.591338,49.720367,18.591338,49.720367",
+    "geom:latitude":49.720367,
+    "geom:longitude":18.591338,
+    "iso:country":"CZ",
+    "lbl:latitude":49.720367,
+    "lbl:longitude":18.591338,
+    "mps:latitude":49.720367,
+    "mps:longitude":18.591338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Doln\u00ed \u017dukov"
+    ],
+    "name:cze_x_preferred":[
+        "Doln\u00ed \u017dukov"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00ed \u017dukov"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00ed \u017dukov"
+    ],
+    "name:pol_x_preferred":[
+        "\u017buk\u00f3w Dolny"
+    ],
+    "name:unk_x_variant":[
+        "\u017dukov"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Doln\u00ed \u017dukov",
+    "qs:loc_alt":"Dolni Zukov",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":49.72,
+    "wd:longitude":18.591111,
+    "wd:wordcount":516,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076618,
+        "gp:id":788653,
+        "qs:id":6,
+        "wd:id":"Q3499819",
+        "wk:page":"Doln\u00ed \u017dukov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8a13ff6e518b8299544de2a55746a4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101863109,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101863109,
+    "wof:lastmodified":1544746832,
+    "wof:name":"Doln\u00ed \u017dukov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.591338,
+    49.720367,
+    18.591338,
+    49.720367
+],
+  "geometry": {"coordinates":[18.591338,49.720367],"type":"Point"}
+}

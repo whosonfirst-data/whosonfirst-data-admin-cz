@@ -1,0 +1,134 @@
+{
+  "id": 1125939943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1697,50.73515,14.1697,50.73515",
+    "geom:latitude":50.73515,
+    "geom:longitude":14.1697,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":747,
+    "gn:population":747,
+    "iso:country":"CZ",
+    "lbl:latitude":50.73515,
+    "lbl:longitude":14.1697,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:dut_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:eng_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:fre_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:ger_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:hsb_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:hun_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:may_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:por_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0448\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "name:vie_x_preferred":[
+        "Mal\u0161ovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071095,
+    "qs_pg:gn_pop":747,
+    "qs_pg:name":"Mal\u0161ovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1140074,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793533,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071095,
+        "gp:id":793533,
+        "qs_pg:id":1140074,
+        "wd:id":"Q1579659"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297083,
+    "wof:geomhash":"22df657fe2fb22c4a5a8005d284c5660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125939943,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125939943,
+    "wof:lastmodified":1513945346,
+    "wof:name":"Mal\u0161ovice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":747,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1697,
+    50.73515,
+    14.1697,
+    50.73515
+],
+  "geometry": {"coordinates":[14.1697,50.73515],"type":"Point"}
+}

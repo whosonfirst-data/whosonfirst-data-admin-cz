@@ -1,0 +1,85 @@
+{
+  "id": 1226179281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00168,49.47076,15.00168,49.47076",
+    "geom:latitude":49.47076,
+    "geom:longitude":15.00168,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Pacov",
+    "gn:country_code":"CZ",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068647,
+    "gn:latitude":49.47076,
+    "gn:longitude":15.00168,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Pacov",
+    "gn:population":5145,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Pacova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0446\u043e\u0432"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0446\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Patzau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u4f50\u592b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068647,
+        "wk:page":"Pacov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d80fe596c8fc5e810a094f2331ba407e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226179281,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1226179281,
+    "wof:lastmodified":1537619331,
+    "wof:name":"Pacov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":5145,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00168,
+    49.47076,
+    15.00168,
+    49.47076
+],
+  "geometry": {"coordinates":[15.00168,49.47076],"type":"Point"}
+}

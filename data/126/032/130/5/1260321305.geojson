@@ -1,0 +1,70 @@
+{
+  "id": 1260321305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14147,50.71149,14.14147,50.71149",
+    "geom:latitude":50.71149,
+    "geom:longitude":14.14147,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Sachov",
+    "gn:country_code":"CZ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066457,
+    "gn:latitude":50.71149,
+    "gn:longitude":14.14147,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"\u0160achov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klein Tschochau",
+        "\u0160achov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066457
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"12098b9e552d0294b27e4e0cef9eb526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260321305,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1260321305,
+    "wof:lastmodified":1537619308,
+    "wof:name":"Sachov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14147,
+    50.71149000000001,
+    14.14147,
+    50.71149000000001
+],
+  "geometry": {"coordinates":[14.14147,50.71149000000001],"type":"Point"}
+}

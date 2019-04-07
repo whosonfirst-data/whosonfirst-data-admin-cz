@@ -1,0 +1,70 @@
+{
+  "id": 1243490797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24655,49.29349,15.24655,49.29349",
+    "geom:latitude":49.29349,
+    "geom:longitude":15.24655,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Podlesi",
+    "gn:country_code":"CZ",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068058,
+    "gn:latitude":49.29349,
+    "gn:longitude":15.24655,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Podles\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rymberk",
+        "Podles\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068058
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f0f910a23e4c7309e2b5d40fbaef8056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243490797,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1243490797,
+    "wof:lastmodified":1537619324,
+    "wof:name":"Podlesi",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24655,
+    49.29349000000001,
+    15.24655,
+    49.29349000000001
+],
+  "geometry": {"coordinates":[15.24655,49.29349000000001],"type":"Point"}
+}

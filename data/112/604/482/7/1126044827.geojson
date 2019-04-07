@@ -1,0 +1,149 @@
+{
+  "id": 1126044827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86131,48.96071,14.86131,48.96071",
+    "geom:latitude":48.96071,
+    "geom:longitude":14.86131,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":496,
+    "gn:population":496,
+    "iso:country":"CZ",
+    "lbl:latitude":48.96071,
+    "lbl:longitude":14.86131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Majdalena"
+    ],
+    "name:dut_x_preferred":[
+        "Majdalena"
+    ],
+    "name:eng_x_preferred":[
+        "Majdalena"
+    ],
+    "name:fre_x_preferred":[
+        "Majdalena"
+    ],
+    "name:ger_x_preferred":[
+        "Majdalena"
+    ],
+    "name:hun_x_preferred":[
+        "Majdalena"
+    ],
+    "name:ita_x_preferred":[
+        "Majdalena"
+    ],
+    "name:may_x_preferred":[
+        "Majdalena"
+    ],
+    "name:nno_x_preferred":[
+        "Majdalena"
+    ],
+    "name:nob_x_preferred":[
+        "Majdalena"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u06cc\u062f\u0627\u0644\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Majdalena"
+    ],
+    "name:por_x_preferred":[
+        "Majdalena"
+    ],
+    "name:rup_x_preferred":[
+        "Majdalena"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u0434\u0430\u043b\u0435\u043d\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Majdalena"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0458\u0434\u0430\u043b\u0435\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Majdalena"
+    ],
+    "name:unk_x_variant":[
+        "Herda"
+    ],
+    "name:vie_x_preferred":[
+        "Majdalena"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071273,
+    "qs_pg:gn_pop":496,
+    "qs_pg:name":"Majdalena",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1056630,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793379,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071273,
+        "gp:id":793379,
+        "qs_pg:id":1056630,
+        "wd:id":"Q1818296"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302369,
+    "wof:geomhash":"bdcc82d67126628135f97998605e8e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126044827,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1126044827,
+    "wof:lastmodified":1513945337,
+    "wof:name":"Majdalena",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":496,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86131,
+    48.96071,
+    14.86131,
+    48.96071
+],
+  "geometry": {"coordinates":[14.86131,48.96071],"type":"Point"}
+}

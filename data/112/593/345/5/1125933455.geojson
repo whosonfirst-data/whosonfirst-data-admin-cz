@@ -1,0 +1,135 @@
+{
+  "id": 1125933455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80736,48.9195,14.80736,48.9195",
+    "geom:latitude":48.9195,
+    "geom:longitude":14.80736,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":189,
+    "gn:population":189,
+    "iso:country":"CZ",
+    "lbl:latitude":48.9195,
+    "lbl:longitude":14.80736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Cep"
+    ],
+    "name:dut_x_preferred":[
+        "Cep"
+    ],
+    "name:eng_x_preferred":[
+        "Cep"
+    ],
+    "name:epo_x_preferred":[
+        "Cep"
+    ],
+    "name:fre_x_preferred":[
+        "Cep"
+    ],
+    "name:ger_x_preferred":[
+        "Cep"
+    ],
+    "name:hun_x_preferred":[
+        "Cep"
+    ],
+    "name:ita_x_preferred":[
+        "Cep"
+    ],
+    "name:may_x_preferred":[
+        "Cep"
+    ],
+    "name:pol_x_preferred":[
+        "Cep"
+    ],
+    "name:por_x_preferred":[
+        "Cep"
+    ],
+    "name:rup_x_preferred":[
+        "Cep"
+    ],
+    "name:slo_x_preferred":[
+        "Cep"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u043f"
+    ],
+    "name:swe_x_preferred":[
+        "Cep"
+    ],
+    "name:vie_x_preferred":[
+        "Cep"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078133,
+    "qs_pg:gn_pop":189,
+    "qs_pg:name":"Cep",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":397604,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787287,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078133,
+        "gp:id":787287,
+        "qs_pg:id":397604,
+        "wd:id":"Q1054512"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296886,
+    "wof:geomhash":"e5e17f0036206f0b12c36a62e90a657f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125933455,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125933455,
+    "wof:lastmodified":1553816641,
+    "wof:name":"Cep",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":189,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80736,
+    48.9195,
+    14.80736,
+    48.9195
+],
+  "geometry": {"coordinates":[14.80736,48.9195],"type":"Point"}
+}

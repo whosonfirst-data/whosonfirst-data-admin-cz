@@ -1,0 +1,70 @@
+{
+  "id": 1327469683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18844,49.93836,14.18844,49.93836",
+    "geom:latitude":49.93836,
+    "geom:longitude":14.18844,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0202",
+    "gn:asciiname":"Budnany",
+    "gn:country_code":"CZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078462,
+    "gn:latitude":49.93836,
+    "gn:longitude":14.18844,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Bud\u0148any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bud\u0148an",
+        "Bud\u0148any"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078462
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bf6d6c9b8063364b63bc1afe6972ad30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327469683,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1327469683,
+    "wof:lastmodified":1537619451,
+    "wof:name":"Budnany",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18844,
+    49.93836,
+    14.18844,
+    49.93836
+],
+  "geometry": {"coordinates":[14.18844,49.93836],"type":"Point"}
+}

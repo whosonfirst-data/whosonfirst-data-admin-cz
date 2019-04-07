@@ -1,0 +1,70 @@
+{
+  "id": 1360019915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.75,50.0,16.75,50.0",
+    "geom:latitude":50.0,
+    "geom:longitude":16.75,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Mlynicky Dvur",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070480,
+    "gn:latitude":50.0,
+    "gn:longitude":16.75,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Ml\u00fdnick\u00fd Dv\u016fr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lenzhof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070480
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"90a24f6763c70def046af7ad98dcbbcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360019915,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1360019915,
+    "wof:lastmodified":1537619355,
+    "wof:name":"Mlynicky Dvur",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.75,
+    50.0,
+    16.75,
+    50.0
+],
+  "geometry": {"coordinates":[16.75,50.0],"type":"Point"}
+}

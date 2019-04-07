@@ -1,0 +1,126 @@
+{
+  "id": 85900657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1509034.632887,
+    "geom:bbox":"16.636137,49.21136,16.636137,49.21136",
+    "geom:latitude":49.21136,
+    "geom:longitude":16.636137,
+    "gn:latitude":49.21132,
+    "gn:longitude":16.6309,
+    "iso:country":"CZ",
+    "lbl:latitude":49.21136,
+    "lbl:longitude":16.636137,
+    "mps:latitude":49.212215,
+    "mps:longitude":16.638884,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:cze_x_preferred":[
+        "Husovice"
+    ],
+    "name:cze_x_variant":[
+        "Hussowitz"
+    ],
+    "name:eng_x_preferred":[
+        "Husovice"
+    ],
+    "name:fre_x_preferred":[
+        "Husovice"
+    ],
+    "name:pol_x_preferred":[
+        "Husovice"
+    ],
+    "name:slo_x_preferred":[
+        "Husovice"
+    ],
+    "name:unk_x_variant":[
+        "Hussowitz",
+        "Husovice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3078610,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Husovice",
+    "qs:local_max":6134,
+    "qs:local_sum":32721,
+    "qs:localhoods":44,
+    "qs:name":"Husovice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs:name_adm2":"Brno-M\u011bsto",
+    "qs:name_lau":"Brno",
+    "qs:name_local":"Brno",
+    "qs:photo_max":41,
+    "qs:photo_sum":154,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070503,
+    "qs:woe_adm2":12582547,
+    "qs:woe_lau":12605174,
+    "qs:woe_local":786869,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748109,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074681,
+        "gp:id":790379,
+        "qs:id":245643,
+        "qs_pg:id":245643,
+        "wd:id":"Q12020978",
+        "wk:page":"North East Lincolnshire"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"02da81a50cd28e71b8d114fde42c854d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748109,
+            "neighbourhood_id":85900657,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":85900657,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932361,
+    "wof:name":"Husovice",
+    "wof:parent_id":101748109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.636137,
+    49.21136,
+    16.636137,
+    49.21136
+],
+  "geometry": {"coordinates":[16.636137,49.21136],"type":"Point"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 1125838805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.89708,50.26711,12.89708,50.26711",
+    "geom:latitude":50.26711,
+    "geom:longitude":12.89708,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1016,
+    "gn:population":1016,
+    "iso:country":"CZ",
+    "lbl:latitude":50.26711,
+    "lbl:longitude":12.89708,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0434\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Sadov"
+    ],
+    "name:dut_x_preferred":[
+        "Sadov"
+    ],
+    "name:eng_x_preferred":[
+        "Sadov"
+    ],
+    "name:fre_x_preferred":[
+        "Sadov"
+    ],
+    "name:ger_x_preferred":[
+        "Sadov"
+    ],
+    "name:hun_x_preferred":[
+        "Sadov"
+    ],
+    "name:ita_x_preferred":[
+        "Sadov"
+    ],
+    "name:may_x_preferred":[
+        "Sadov"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u062f\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Sadov"
+    ],
+    "name:por_x_preferred":[
+        "Sadov"
+    ],
+    "name:rup_x_preferred":[
+        "Sadov"
+    ],
+    "name:slo_x_preferred":[
+        "Sadov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0434\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Sadov"
+    ],
+    "name:unk_x_variant":[
+        "Sodau"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u062f\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Sadov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066448,
+    "qs_pg:gn_pop":1016,
+    "qs_pg:name":"Sadov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Karlovarsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":344652,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797723,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Karlovarsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066448,
+        "gp:id":797723,
+        "qs_pg:id":344652,
+        "wd:id":"Q547358"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497292840,
+    "wof:geomhash":"995dedd3b48f8dba07148f14801bc730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125838805,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1125838805,
+    "wof:lastmodified":1513945666,
+    "wof:name":"Sadov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:population":1016,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.89708,
+    50.26711,
+    12.89708,
+    50.26711
+],
+  "geometry": {"coordinates":[12.89708,50.26711],"type":"Point"}
+}

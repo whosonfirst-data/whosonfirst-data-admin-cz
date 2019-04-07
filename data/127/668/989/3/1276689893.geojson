@@ -1,0 +1,70 @@
+{
+  "id": 1276689893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13333,48.76667,16.13333,48.76667",
+    "geom:latitude":48.76667,
+    "geom:longitude":16.13333,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0627",
+    "gn:asciiname":"Hnizdo",
+    "gn:country_code":"CZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075687,
+    "gn:latitude":48.76667,
+    "gn:longitude":16.13333,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Hn\u00edzdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Knast",
+        "Hn\u00edzdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075687
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"31d039f0858dd9bb6bfc8a67d9b63b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276689893,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1276689893,
+    "wof:lastmodified":1537619417,
+    "wof:name":"Hnizdo",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13332999999999,
+    48.76667,
+    16.13332999999999,
+    48.76667
+],
+  "geometry": {"coordinates":[16.13332999999999,48.76667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225892975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14108,49.87964,17.14108,49.87964",
+    "geom:latitude":49.87964,
+    "geom:longitude":17.14108,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Nemrlov",
+    "gn:country_code":"CZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069875,
+    "gn:latitude":49.87964,
+    "gn:longitude":17.14108,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Nemrlov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waldheim",
+        "Nemrlov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069875
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ad097c319a264b41562de7e369a7a60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225892975,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1225892975,
+    "wof:lastmodified":1537619347,
+    "wof:name":"Nemrlov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14108,
+    49.87964,
+    17.14108,
+    49.87964
+],
+  "geometry": {"coordinates":[17.14108,49.87964],"type":"Point"}
+}

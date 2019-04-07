@@ -1,0 +1,70 @@
+{
+  "id": 1276803277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41478,49.47352,15.41478,49.47352",
+    "geom:latitude":49.47352,
+    "geom:longitude":15.41478,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Usti",
+    "gn:country_code":"CZ",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063554,
+    "gn:latitude":49.47352,
+    "gn:longitude":15.41478,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"\u00dast\u00ed",
+    "gn:population":201,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063554,
+        "wk:page":"%C3%9Ast%C3%AD_%28Jihlava_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5bde24551f6ddd31e42c904d1be2b66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276803277,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1276803277,
+    "wof:lastmodified":1537504018,
+    "wof:name":"Usti",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":201,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41478,
+    49.47352,
+    15.41478,
+    49.47352
+],
+  "geometry": {"coordinates":[15.41478,49.47352],"type":"Point"}
+}

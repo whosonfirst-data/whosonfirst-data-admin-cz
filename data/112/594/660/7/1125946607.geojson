@@ -1,0 +1,138 @@
+{
+  "id": 1125946607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90112,49.23306,17.90112,49.23306",
+    "geom:latitude":49.23306,
+    "geom:longitude":17.90112,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":255,
+    "gn:population":255,
+    "iso:country":"CZ",
+    "lbl:latitude":49.23306,
+    "lbl:longitude":17.90112,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0423\u0431\u043b\u043e"
+    ],
+    "name:cze_x_preferred":[
+        "Ublo"
+    ],
+    "name:dut_x_preferred":[
+        "Ublo"
+    ],
+    "name:eng_x_preferred":[
+        "Ublo"
+    ],
+    "name:fre_x_preferred":[
+        "Ublo"
+    ],
+    "name:ger_x_preferred":[
+        "Ublo"
+    ],
+    "name:hun_x_preferred":[
+        "Ublo"
+    ],
+    "name:ita_x_preferred":[
+        "Ublo"
+    ],
+    "name:may_x_preferred":[
+        "Ublo"
+    ],
+    "name:per_x_preferred":[
+        "\u06cc\u0648\u0628\u0644\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Ublo"
+    ],
+    "name:por_x_preferred":[
+        "Ublo"
+    ],
+    "name:slo_x_preferred":[
+        "Ublo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0431\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Ublo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0644\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Ublo"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063780,
+    "qs_pg:gn_pop":255,
+    "qs_pg:name":"Ublo",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":400977,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800078,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063780,
+        "gp:id":800078,
+        "qs_pg:id":400977,
+        "wd:id":"Q1969950"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297306,
+    "wof:geomhash":"bf17cf41195efaa5a5934b8e89ff3636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125946607,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125946607,
+    "wof:lastmodified":1513945829,
+    "wof:name":"Ublo",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90112,
+    49.23306,
+    17.90112,
+    49.23306
+],
+  "geometry": {"coordinates":[17.90112,49.23306],"type":"Point"}
+}

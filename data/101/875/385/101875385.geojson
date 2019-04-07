@@ -1,0 +1,98 @@
+{
+  "id": 101875385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.360196,49.764079,18.360196,49.764079",
+    "geom:latitude":49.764079,
+    "geom:longitude":18.360196,
+    "iso:country":"CZ",
+    "lbl:latitude":49.764079,
+    "lbl:longitude":18.360196,
+    "mps:latitude":49.764079,
+    "mps:longitude":18.360196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Doln\u00ed Datyn\u011b"
+    ],
+    "name:cze_x_preferred":[
+        "Doln\u00ed Datyn\u011b"
+    ],
+    "name:eng_x_preferred":[
+        "Doln\u00ed Datyn\u011b"
+    ],
+    "name:fre_x_preferred":[
+        "Doln\u00ed Datyn\u011b"
+    ],
+    "name:pol_x_preferred":[
+        "Datynie Dolne"
+    ],
+    "name:unk_x_variant":[
+        "Ober Dattin"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Horn\u00ed Datyn\u011b",
+    "qs:loc_alt":"Horni Datyne",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":49.766667,
+    "wd:longitude":18.406111,
+    "wd:wordcount":652,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075410,
+        "gp:id":24929052,
+        "qs:id":244321,
+        "qs_pg:id":244321,
+        "wd:id":"Q3500102"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"16fe2df3efbc748a05a2a3381c8dfac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101875385,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101875385,
+    "wof:lastmodified":1544751932,
+    "wof:name":"Horn\u00ed Datyn\u011b",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.360196,
+    49.764079,
+    18.360196,
+    49.764079
+],
+  "geometry": {"coordinates":[18.360196,49.764079],"type":"Point"}
+}

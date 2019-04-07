@@ -1,0 +1,70 @@
+{
+  "id": 1293913673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35348,49.63957,15.35348,49.63957",
+    "geom:latitude":49.63957,
+    "geom:longitude":15.35348,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Meziklasi",
+    "gn:country_code":"CZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070783,
+    "gn:latitude":49.63957,
+    "gn:longitude":15.35348,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Meziklas\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meziklas\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070783,
+        "wk:page":"Meziklas%C3%AD"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7543cd231590ddbe6fe737ce12abaca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293913673,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1293913673,
+    "wof:lastmodified":1537619359,
+    "wof:name":"Meziklasi",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35348,
+    49.63957,
+    15.35348,
+    49.63957
+],
+  "geometry": {"coordinates":[15.35348,49.63957],"type":"Point"}
+}

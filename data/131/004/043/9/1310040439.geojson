@@ -1,0 +1,70 @@
+{
+  "id": 1310040439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53333,50.15,12.53333,50.15",
+    "geom:latitude":50.15,
+    "geom:longitude":12.53333,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Drsny Chlum",
+    "gn:country_code":"CZ",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076387,
+    "gn:latitude":50.15,
+    "gn:longitude":12.53333,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Drsn\u00fd Chlum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rauenkulm",
+        "Drsn\u00fd Chlum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076387
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c82aff2834bf81803390b8af9f824188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310040439,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1310040439,
+    "wof:lastmodified":1537619427,
+    "wof:name":"Drsny Chlum",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53333,
+    50.15,
+    12.53333,
+    50.15
+],
+  "geometry": {"coordinates":[12.53333,50.15],"type":"Point"}
+}

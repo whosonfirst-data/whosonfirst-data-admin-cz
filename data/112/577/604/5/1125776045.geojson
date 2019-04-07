@@ -1,0 +1,140 @@
+{
+  "id": 1125776045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43094,50.09222,16.43094,50.09222",
+    "geom:latitude":50.09222,
+    "geom:longitude":16.43094,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":447,
+    "gn:population":447,
+    "iso:country":"CZ",
+    "lbl:latitude":50.09222,
+    "lbl:longitude":16.43094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:dut_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:eng_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:epo_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:fre_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:ger_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:may_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:pol_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:por_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:rup_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043b\u044c\u0432\u0438\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0435\u043b\u0432\u0438\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "name:vie_x_preferred":[
+        "Helv\u00edkovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075885,
+    "qs_pg:gn_pop":447,
+    "qs_pg:name":"Helv\u00edkovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1159634,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":789285,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075885,
+        "gp:id":789285,
+        "qs_pg:id":1159634,
+        "wd:id":"Q1604682"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290261,
+    "wof:geomhash":"adfe65311238afcbb3781a5a4bc08aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125776045,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125776045,
+    "wof:lastmodified":1513944984,
+    "wof:name":"Helv\u00edkovice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":447,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43094,
+    50.09222,
+    16.43094,
+    50.09222
+],
+  "geometry": {"coordinates":[16.43094,50.09222],"type":"Point"}
+}

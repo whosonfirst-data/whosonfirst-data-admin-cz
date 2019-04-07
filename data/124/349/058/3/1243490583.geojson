@@ -1,0 +1,66 @@
+{
+  "id": 1243490583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.18295,50.11382,13.18295,50.11382",
+    "geom:latitude":50.11382,
+    "geom:longitude":13.18295,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Kovarov",
+    "gn:country_code":"CZ",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073055,
+    "gn:latitude":50.11382,
+    "gn:longitude":13.18295,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Kov\u00e1\u0159ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073055
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ad5b32bfff9175fa177fb48a1bfef2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243490583,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1243490583,
+    "wof:lastmodified":1536741605,
+    "wof:name":"Kovarov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.18295,
+    50.11382,
+    13.18295,
+    50.11382
+],
+  "geometry": {"coordinates":[13.18295,50.11382],"type":"Point"}
+}

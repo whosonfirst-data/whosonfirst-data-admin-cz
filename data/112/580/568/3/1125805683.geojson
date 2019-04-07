@@ -1,0 +1,137 @@
+{
+  "id": 1125805683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89534,50.6505,13.89534,50.6505",
+    "geom:latitude":50.6505,
+    "geom:longitude":13.89534,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":770,
+    "gn:population":770,
+    "iso:country":"CZ",
+    "lbl:latitude":50.6505,
+    "lbl:longitude":13.89534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0434\u043b\u0430\u043d\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Modlany"
+    ],
+    "name:deu_x_preferred":[
+        "Modlan"
+    ],
+    "name:dut_x_preferred":[
+        "Modlany"
+    ],
+    "name:eng_x_preferred":[
+        "Modlany"
+    ],
+    "name:fre_x_preferred":[
+        "Modlany"
+    ],
+    "name:ger_x_preferred":[
+        "Modlany"
+    ],
+    "name:hun_x_preferred":[
+        "Modlany"
+    ],
+    "name:ita_x_preferred":[
+        "Modlany"
+    ],
+    "name:may_x_preferred":[
+        "Modlany"
+    ],
+    "name:pol_x_preferred":[
+        "Modlany"
+    ],
+    "name:por_x_preferred":[
+        "Modlany"
+    ],
+    "name:slo_x_preferred":[
+        "Modlany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0434\u043b\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Modlany"
+    ],
+    "name:vie_x_preferred":[
+        "Modlany"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070432,
+    "qs_pg:gn_pop":770,
+    "qs_pg:name":"Modlany",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":208244,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794136,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070432,
+        "gp:id":794136,
+        "qs_pg:id":208244,
+        "wd:id":"Q1942200"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497291453,
+    "wof:geomhash":"b6fca27f464f4316aae3ca1921069c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125805683,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125805683,
+    "wof:lastmodified":1513945375,
+    "wof:name":"Modlany",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":770,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89534,
+    50.6505,
+    13.89534,
+    50.6505
+],
+  "geometry": {"coordinates":[13.89534,50.6505],"type":"Point"}
+}

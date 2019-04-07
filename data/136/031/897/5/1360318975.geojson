@@ -1,0 +1,70 @@
+{
+  "id": 1360318975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33681,48.74125,14.33681,48.74125",
+    "geom:latitude":48.74125,
+    "geom:longitude":14.33681,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Vsemery",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062362,
+    "gn:latitude":48.74125,
+    "gn:longitude":14.33681,
+    "gn:modification_date":"2014-05-13",
+    "gn:name":"V\u0161em\u011bry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sch\u00f6mern"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062362
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4c8350ac80b960459bb0c0448955abee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360318975,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1360318975,
+    "wof:lastmodified":1537619263,
+    "wof:name":"Vsemery",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33681,
+    48.74125,
+    14.33681,
+    48.74125
+],
+  "geometry": {"coordinates":[14.33681,48.74125],"type":"Point"}
+}

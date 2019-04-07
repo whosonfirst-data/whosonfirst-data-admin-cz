@@ -1,0 +1,125 @@
+{
+  "id": 101825443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":508322.85891,
+    "geom:bbox":"18.2200534687,49.8540265036,18.2334263966,49.8632552064",
+    "geom:latitude":49.859109,
+    "geom:longitude":18.227206,
+    "iso:country":"CZ",
+    "lbl:latitude":49.859496,
+    "lbl:longitude":18.22675,
+    "mps:latitude":49.859496,
+    "mps:longitude":18.22675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Lhotka"
+    ],
+    "name:dut_x_preferred":[
+        "Lhotka"
+    ],
+    "name:eng_x_preferred":[
+        "Lhotka"
+    ],
+    "name:epo_x_preferred":[
+        "Lhotka"
+    ],
+    "name:fre_x_preferred":[
+        "Lhotka"
+    ],
+    "name:ger_x_preferred":[
+        "Lhotka u Fr\u00fddku-M\u00edstku"
+    ],
+    "name:hun_x_preferred":[
+        "Lhotka"
+    ],
+    "name:ita_x_preferred":[
+        "Lhotka"
+    ],
+    "name:may_x_preferred":[
+        "Lhotka"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0647\u0648\u062a\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Lhotka"
+    ],
+    "name:por_x_preferred":[
+        "Lhotka"
+    ],
+    "name:rup_x_preferred":[
+        "Lhotka"
+    ],
+    "name:slo_x_preferred":[
+        "Lhotka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0445\u043e\u0442\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lhotka"
+    ],
+    "name:vie_x_preferred":[
+        "Lhotka"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Ostrava",
+    "qs:la_lc":"*CZ0806554821",
+    "qs:level":"locality",
+    "qs:loc":"Lhotka",
+    "qs:loc_alt":"Lhotka",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072019,
+        "gp:id":792697,
+        "qs:id":1157784,
+        "wd:id":"Q1818170"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d591fffdc3e471390813fb135898c95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825443,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825443,
+    "wof:lastmodified":1553815526,
+    "wof:name":"Lhotka",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22005346869832,
+    49.85402650357366,
+    18.23342639663508,
+    49.8632552064397
+],
+  "geometry": {"coordinates":[[[18.23158149059861,49.86275214055405],[18.23142785986414,49.861859455934],[18.23004443397491,49.86196010063651],[18.22958366043451,49.85928203703878],[18.23096701053316,49.85918139878993],[18.23081340837928,49.85828871198049],[18.23219672792032,49.85818805904614],[18.23204310765055,49.85729537384054],[18.23342639663508,49.85719470622143],[18.23311912701325,49.85540933846983],[18.23035264477829,49.85561064826675],[18.23019907119652,49.85471795926708],[18.22743261829442,49.85491919742174],[18.22727910236642,49.85402650357366],[18.22589589323127,49.85412709524837],[18.22635638666293,49.85680518159961],[18.22358980097084,49.85700632734023],[18.22405020709027,49.8596844216645],[18.22128344866013,49.85988551295389],[18.22143688111476,49.86077821426642],[18.22005346869832,49.86087873680356],[18.22020688302348,49.86177143971815],[18.22159032070613,49.86167091503216],[18.22174376743487,49.8625636152513],[18.22451067745789,49.86236251106612],[18.22466418185996,49.8632552064397],[18.23158149059861,49.86275214055405]]],"type":"Polygon"}
+}

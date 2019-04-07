@@ -1,0 +1,66 @@
+{
+  "id": 1226679763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92963,50.03851,13.92963,50.03851",
+    "geom:latitude":50.03851,
+    "geom:longitude":13.92963,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Senecka",
+    "gn:country_code":"CZ",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066201,
+    "gn:latitude":50.03851,
+    "gn:longitude":13.92963,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Seneck\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066201
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8ddeaec4736c94767ecad0d077acda7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226679763,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226679763,
+    "wof:lastmodified":1536810099,
+    "wof:name":"Senecka",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92963,
+    50.03851,
+    13.92963,
+    50.03851
+],
+  "geometry": {"coordinates":[13.92963,50.03851],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125371281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85139,49.32865,16.85139,49.32865",
+    "geom:latitude":49.32865,
+    "geom:longitude":16.85139,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":559,
+    "gn:population":559,
+    "iso:country":"CZ",
+    "lbl:latitude":49.32865,
+    "lbl:longitude":16.85139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Rupprecht"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066574,
+    "qs_pg:gn_pop":559,
+    "qs_pg:name":"Ruprechtov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":332469,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12606284,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066574,
+        "gp:id":12606284,
+        "qs_pg:id":332469
+    },
+    "wof:country":"CZ",
+    "wof:created":1497047412,
+    "wof:geomhash":"a036db5427cf07650b18330ba5bb9647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "localadmin_id":1125371281,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125371281,
+    "wof:lastmodified":1509389326,
+    "wof:name":"Ruprechtov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"localadmin",
+    "wof:population":559,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85139,
+    49.32865,
+    16.85139,
+    49.32865
+],
+  "geometry": {"coordinates":[16.85139,49.32865],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1277019619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34379,50.18883,15.34379,50.18883",
+    "geom:latitude":50.18883,
+    "geom:longitude":15.34379,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Velke Vykleky",
+    "gn:country_code":"CZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063178,
+    "gn:latitude":50.18883,
+    "gn:longitude":15.34379,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Velk\u00e9 V\u00fdkleky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063178
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"13dfae45cdbe86f6ab473483156cca9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277019619,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1277019619,
+    "wof:lastmodified":1536852609,
+    "wof:name":"Velke Vykleky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34379,
+    50.18883,
+    15.34379,
+    50.18883
+],
+  "geometry": {"coordinates":[15.34379,50.18883],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1344187837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47447,49.27542,13.47447,49.27542",
+    "geom:latitude":49.27542,
+    "geom:longitude":13.47447,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Kasovice",
+    "gn:country_code":"CZ",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073774,
+    "gn:latitude":49.27542,
+    "gn:longitude":13.47447,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ka\u0161ovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073774
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ae6e5e5d5e2fd68bdfbed11859c769c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344187837,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1344187837,
+    "wof:lastmodified":1536692062,
+    "wof:name":"Kasovice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47447,
+    49.27542,
+    13.47447,
+    49.27542
+],
+  "geometry": {"coordinates":[13.47447,49.27542],"type":"Point"}
+}

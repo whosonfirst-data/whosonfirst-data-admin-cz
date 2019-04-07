@@ -1,0 +1,91 @@
+{
+  "id": 1126008283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32165,49.97711,17.32165,49.97711",
+    "geom:latitude":49.97711,
+    "geom:longitude":17.32165,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":379,
+    "gn:population":379,
+    "iso:country":"CZ",
+    "lbl:latitude":49.97711,
+    "lbl:longitude":17.32165,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Moravice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076765,
+    "qs_pg:gn_pop":379,
+    "qs_pg:name":"Doln\u00ed Moravice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":119,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":245402,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788511,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076765,
+        "gp:id":788511,
+        "qs_pg:id":245402
+    },
+    "wof:country":"CZ",
+    "wof:created":1497300112,
+    "wof:geomhash":"57c6d8fd42fbf0663492c77c87db26cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126008283,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1126008283,
+    "wof:lastmodified":1509406520,
+    "wof:name":"Doln\u00ed Moravice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":379,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32165,
+    49.97711,
+    17.32165,
+    49.97711
+],
+  "geometry": {"coordinates":[17.32165,49.97711],"type":"Point"}
+}

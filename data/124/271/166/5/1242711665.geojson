@@ -1,0 +1,69 @@
+{
+  "id": 1242711665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79897,49.85493,14.79897,49.85493",
+    "geom:latitude":49.85493,
+    "geom:longitude":14.79897,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Wrasch",
+    "gn:country_code":"CZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062487,
+    "gn:latitude":49.85493,
+    "gn:longitude":14.79897,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Wrasch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vr\u00e1\u017e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062487
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0c33332458fe782e9b3a64525cfb7d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242711665,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1242711665,
+    "wof:lastmodified":1537619265,
+    "wof:name":"Wrasch",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79897,
+    49.85493,
+    14.79897,
+    49.85493
+],
+  "geometry": {"coordinates":[14.79897,49.85493],"type":"Point"}
+}

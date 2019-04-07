@@ -1,0 +1,120 @@
+{
+  "id": 101824143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":986678.542751,
+    "geom:bbox":"16.9404453862,50.1555216992,16.956043974,50.1719621825",
+    "geom:latitude":50.162985,
+    "geom:longitude":16.946357,
+    "gn:population":2054,
+    "iso:country":"CZ",
+    "lbl:latitude":50.162429,
+    "lbl:longitude":16.947125,
+    "mps:latitude":50.162429,
+    "mps:longitude":16.947125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:ces_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:deu_x_preferred":[
+        "Star\u00e9 M\u011bsto pod Sn\u011b\u017en\u00edkem"
+    ],
+    "name:hun_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:ita_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:lav_x_preferred":[
+        "Stare Mesto"
+    ],
+    "name:msa_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:nld_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:pol_x_preferred":[
+        "Star\u00e9 M\u011bsto pod Sn\u011b\u017en\u00edkem"
+    ],
+    "name:por_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0435 \u041c\u0458\u0435\u0441\u0442\u043e"
+    ],
+    "name:unk_x_variant":[
+        "M\u00e4hrisch-Altstadt"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u96f7\u6885\u65af\u6258"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Olomouck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Star\u00e9 M\u011bsto",
+    "qs:la_lc":"*CZ0715541079",
+    "qs:level":"locality",
+    "qs:loc":"Star\u00e9 M\u011bsto",
+    "qs:loc_alt":"Stare Mesto",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065330,
+        "gp:id":798694,
+        "qs:id":326182,
+        "qs_pg:id":326182,
+        "wd:id":"Q1444566",
+        "wk:page":"Star\u00e9 M\u011bsto (\u0160umperk District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bdde7dbcb20246efe15645b72e893e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101824143,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":101824143,
+    "wof:lastmodified":1505338164,
+    "wof:name":"Star\u00e9 M\u011bsto",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":2054,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94044538615412,
+    50.15552169918419,
+    16.95604397404088,
+    50.17196218249956
+],
+  "geometry": {"coordinates":[[[16.94554450649036,50.17000319767612],[16.94528264174716,50.16821427483444],[16.94946569015508,50.1679590736091],[16.94920369470293,50.16617016000947],[16.95199226729568,50.16599994813498],[16.95186122703365,50.16510549434236],[16.95604397404088,50.16485005443633],[16.95591286229791,50.16395560571573],[16.95451864373916,50.16404076752559],[16.95425649046001,50.16225186506085],[16.95146814314234,50.16242213027931],[16.95081312628361,50.15794984788693],[16.94663095914996,50.15820509053526],[16.94623825559586,50.15552169918419],[16.94066227932507,50.15586176250213],[16.94105467246101,50.15854517589389],[16.9424487509711,50.15846018007301],[16.94297213124264,50.16203805098849],[16.94157794924132,50.16212305415547],[16.94183962446698,50.16391199060371],[16.94044538615412,50.16399698042915],[16.94109955227731,50.16846932291185],[16.94249391999477,50.16838432390256],[16.94301746697818,50.17196218249956],[16.94441193367885,50.17187715912382],[16.94415009612652,50.17008823439386],[16.94554450649036,50.17000319767612]]],"type":"Polygon"}
+}

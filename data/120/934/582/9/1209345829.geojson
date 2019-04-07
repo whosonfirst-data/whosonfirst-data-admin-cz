@@ -1,0 +1,62 @@
+{
+  "id": 1209345829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94127,49.7851,14.94127,49.7851",
+    "geom:latitude":49.7851,
+    "geom:longitude":14.94127,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Radonice",
+    "gn:country_code":"CZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067159,
+    "gn:latitude":49.7851,
+    "gn:longitude":14.94127,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Radonice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067159
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"85f4125fae835c6240f9262ba5945984",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209345829
+        }
+    ],
+    "wof:id":1209345829,
+    "wof:lastmodified":1536289916,
+    "wof:name":"Radonice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94127,
+    49.7851,
+    14.94127,
+    49.7851
+],
+  "geometry": {"coordinates":[14.94127,49.7851],"type":"Point"}
+}

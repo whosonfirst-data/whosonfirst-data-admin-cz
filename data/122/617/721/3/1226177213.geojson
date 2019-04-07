@@ -1,0 +1,66 @@
+{
+  "id": 1226177213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79238,50.26439,13.79238,50.26439",
+    "geom:latitude":50.26439,
+    "geom:longitude":13.79238,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0424",
+    "gn:asciiname":"Ulovice",
+    "gn:country_code":"CZ",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063622,
+    "gn:latitude":50.26439,
+    "gn:longitude":13.79238,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"\u00dalovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063622
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"95b19258f1cc1aa32da69d1768603373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226177213,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1226177213,
+    "wof:lastmodified":1537030974,
+    "wof:name":"Ulovice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79238,
+    50.26439,
+    13.79238,
+    50.26439
+],
+  "geometry": {"coordinates":[13.79238,50.26439],"type":"Point"}
+}

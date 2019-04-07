@@ -1,0 +1,70 @@
+{
+  "id": 1259416871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.5,50.21667,12.5,50.21667",
+    "geom:latitude":50.21667,
+    "geom:longitude":12.5,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Leopoldovy Hamry",
+    "gn:country_code":"CZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072211,
+    "gn:latitude":50.21667,
+    "gn:longitude":12.5,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Leopoldovy Hamry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leopoldshammer",
+        "Leopoldovy Hamry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072211
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"678135c96ca69da23583bfc40b84efe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259416871,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1259416871,
+    "wof:lastmodified":1537619377,
+    "wof:name":"Leopoldovy Hamry",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5,
+    50.21667,
+    12.5,
+    50.21667
+],
+  "geometry": {"coordinates":[12.5,50.21667],"type":"Point"}
+}

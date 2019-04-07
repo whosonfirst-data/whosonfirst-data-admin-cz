@@ -1,0 +1,66 @@
+{
+  "id": 1259717991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11335,49.56548,14.11335,49.56548",
+    "geom:latitude":49.56548,
+    "geom:longitude":14.11335,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Holusice",
+    "gn:country_code":"CZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075569,
+    "gn:latitude":49.56548,
+    "gn:longitude":14.11335,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Holu\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075569
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4ba543e7254c947c74ca65ee97e0596d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259717991,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1259717991,
+    "wof:lastmodified":1537016660,
+    "wof:name":"Holusice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11335,
+    49.56548,
+    14.11335,
+    49.56548
+],
+  "geometry": {"coordinates":[14.11335,49.56548],"type":"Point"}
+}

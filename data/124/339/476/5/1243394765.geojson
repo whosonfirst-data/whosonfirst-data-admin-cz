@@ -1,0 +1,66 @@
+{
+  "id": 1243394765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51542,49.9426,13.51542,49.9426",
+    "geom:latitude":49.9426,
+    "geom:longitude":13.51542,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Lednice",
+    "gn:country_code":"CZ",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072231,
+    "gn:latitude":49.9426,
+    "gn:longitude":13.51542,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Lednice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072231
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"573ceb644f35d9ea828fb629ce179e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243394765,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1243394765,
+    "wof:lastmodified":1536879395,
+    "wof:name":"Lednice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51542,
+    49.9426,
+    13.51542,
+    49.9426
+],
+  "geometry": {"coordinates":[13.51542,49.9426],"type":"Point"}
+}

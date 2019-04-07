@@ -1,0 +1,71 @@
+{
+  "id": 1292941909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68333,50.46667,13.68333,50.46667",
+    "geom:latitude":50.46667,
+    "geom:longitude":13.68333,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0425",
+    "gn:asciiname":"Strance",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065055,
+    "gn:latitude":50.46667,
+    "gn:longitude":13.68333,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Str\u00e1nce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stranitz",
+        "Str\u00e1nce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065055
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"99074a936f95f14d2342e69626dc7457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292941909,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1292941909,
+    "wof:lastmodified":1537619291,
+    "wof:name":"Strance",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68333,
+    50.46667,
+    13.68333,
+    50.46667
+],
+  "geometry": {"coordinates":[13.68333,50.46667],"type":"Point"}
+}

@@ -1,0 +1,140 @@
+{
+  "id": 1126041013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9244,50.82314,14.9244,50.82314",
+    "geom:latitude":50.82314,
+    "geom:longitude":14.9244,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":811,
+    "gn:population":811,
+    "iso:country":"CZ",
+    "lbl:latitude":50.82314,
+    "lbl:longitude":14.9244,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:ger_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:may_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0644\u06cc \u06a9\u0648\u0633\u062a\u0644 \u0646\u0627\u062f \u0646\u06cc\u0633\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:por_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:rup_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:slo_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043b\u0438 \u041a\u043e\u0441\u0442\u0435\u043b \u043d\u0430 \u041d\u0438\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "name:unk_x_variant":[
+        "Weisskirchen"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00edl\u00fd Kostel nad Nisou"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079322,
+    "qs_pg:gn_pop":811,
+    "qs_pg:name":"B\u00edl\u00fd Kostel nad Nisou",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":903371,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786233,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079322,
+        "gp:id":786233,
+        "qs_pg:id":903371,
+        "wd:id":"Q703146"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302160,
+    "wof:geomhash":"0559f105ea257cadbf665b14b08c37a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126041013,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1126041013,
+    "wof:lastmodified":1513944848,
+    "wof:name":"B\u00edl\u00fd Kostel nad Nisou",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:population":811,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9244,
+    50.82314,
+    14.9244,
+    50.82314
+],
+  "geometry": {"coordinates":[14.9244,50.82314],"type":"Point"}
+}

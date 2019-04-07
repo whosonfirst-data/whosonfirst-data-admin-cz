@@ -1,0 +1,132 @@
+{
+  "id": 1126052533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81361,49.1231,15.81361,49.1231",
+    "geom:latitude":49.1231,
+    "geom:longitude":15.81361,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":481,
+    "gn:population":481,
+    "iso:country":"CZ",
+    "lbl:latitude":49.1231,
+    "lbl:longitude":15.81361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:hun_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:may_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:nan_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0628\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:rup_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "name:unk_x_variant":[
+        "Sch\u00f6pkowitz"
+    ],
+    "name:vie_x_preferred":[
+        "\u0160ebkovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3066353,
+    "qs_pg:gn_pop":481,
+    "qs_pg:name":"\u00c5 ebkovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1060647,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797806,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066353,
+        "gp:id":797806,
+        "qs_pg:id":1060647,
+        "wd:id":"Q246263"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302868,
+    "wof:geomhash":"2ae6b227787299ef6cb5dfa3ee65c7fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126052533,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1126052533,
+    "wof:lastmodified":1513945985,
+    "wof:name":"\u00c5 ebkovice",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":481,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81361,
+    49.1231,
+    15.81361,
+    49.1231
+],
+  "geometry": {"coordinates":[15.81361,49.1231],"type":"Point"}
+}

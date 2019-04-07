@@ -1,0 +1,141 @@
+{
+  "id": 1125913909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95831,50.44439,15.95831,50.44439",
+    "geom:latitude":50.44439,
+    "geom:longitude":15.95831,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":201,
+    "gn:population":201,
+    "iso:country":"CZ",
+    "lbl:latitude":50.44439,
+    "lbl:longitude":15.95831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Brzice"
+    ],
+    "name:dut_x_preferred":[
+        "Brzice"
+    ],
+    "name:eng_x_preferred":[
+        "Brzice"
+    ],
+    "name:fre_x_preferred":[
+        "Brzice"
+    ],
+    "name:ger_x_preferred":[
+        "Brzice"
+    ],
+    "name:hun_x_preferred":[
+        "Brzice"
+    ],
+    "name:ita_x_preferred":[
+        "Brzice"
+    ],
+    "name:may_x_preferred":[
+        "Brzice"
+    ],
+    "name:nan_x_preferred":[
+        "Brzice"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0631\u0632\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Brzice"
+    ],
+    "name:por_x_preferred":[
+        "Brzice"
+    ],
+    "name:rup_x_preferred":[
+        "Brzice"
+    ],
+    "name:slo_x_preferred":[
+        "Brzice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0437\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Brzice"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0632\u06a9\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Brzice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078530,
+    "qs_pg:gn_pop":201,
+    "qs_pg:name":"Brzice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265388,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786938,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078530,
+        "gp:id":786938,
+        "qs_pg:id":1265388,
+        "wd:id":"Q238647"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296250,
+    "wof:geomhash":"92913eedf550723c857d2434b8cacc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125913909,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125913909,
+    "wof:lastmodified":1513944829,
+    "wof:name":"Brzice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":201,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95831,
+    50.44439,
+    15.95831,
+    50.44439
+],
+  "geometry": {"coordinates":[15.95831,50.44439],"type":"Point"}
+}

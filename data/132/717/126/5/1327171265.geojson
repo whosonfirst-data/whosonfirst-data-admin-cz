@@ -1,0 +1,66 @@
+{
+  "id": 1327171265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31062,49.59777,16.31062,49.59777",
+    "geom:latitude":49.59777,
+    "geom:longitude":16.31062,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Polom",
+    "gn:country_code":"CZ",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067863,
+    "gn:latitude":49.59777,
+    "gn:longitude":16.31062,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Polom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067863
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0afbced1a0594c21284eb4ed398c7379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327171265,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1327171265,
+    "wof:lastmodified":1537055387,
+    "wof:name":"Polom",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31062,
+    49.59777,
+    16.31062,
+    49.59777
+],
+  "geometry": {"coordinates":[16.31062,49.59777],"type":"Point"}
+}

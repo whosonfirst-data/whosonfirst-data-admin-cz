@@ -1,0 +1,96 @@
+{
+  "id": 101846681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":408670.014674,
+    "geom:bbox":"18.615683528,49.6753693617,18.626349123,49.6897485658",
+    "geom:latitude":49.680934,
+    "geom:longitude":18.621042,
+    "iso:country":"CZ",
+    "lbl:latitude":49.679032,
+    "lbl:longitude":18.620961,
+    "mps:latitude":49.679032,
+    "mps:longitude":18.620961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Nebory"
+    ],
+    "name:cze_x_preferred":[
+        "Nebory"
+    ],
+    "name:eng_x_preferred":[
+        "Nebory"
+    ],
+    "name:fre_x_preferred":[
+        "Nebory"
+    ],
+    "name:pol_x_preferred":[
+        "Niebory"
+    ],
+    "name:unk_x_variant":[
+        "Niebory"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la":"T\u0159inec",
+    "qs:la_lc":"*CZ0802598810",
+    "qs:level":"locality",
+    "qs:loc":"Nebory",
+    "qs:loc_alt":"Nebory",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":49.666667,
+    "wd:longitude":18.619444,
+    "wd:wordcount":511,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069996,
+        "gp:id":794510,
+        "qs:id":399555,
+        "wd:id":"Q3507168",
+        "wk:page":"Nebory"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1566065843a77c315991048c8857d74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101846681,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101846681,
+    "wof:lastmodified":1527714706,
+    "wof:name":"Nebory",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61568352797377,
+    49.67536936174577,
+    18.62634912300246,
+    49.68974856583486
+],
+  "geometry": {"coordinates":[[[18.62634912300246,49.68953777607163],[18.6261890140488,49.6886456690977],[18.62481122181561,49.68875107011468],[18.62433101433436,49.68607473896549],[18.62295329151607,49.68618011651284],[18.62199322640208,49.68082742499473],[18.62337079944098,49.68072206088192],[18.62273080433556,49.67715359713077],[18.62410827205804,49.67704822522614],[18.62394826684238,49.67615611006448],[18.62257082407433,49.67626147973073],[18.62241085121804,49.67536936174577],[18.61690112512008,49.67579066399963],[18.61706099815899,49.67668279093533],[18.61568352797377,49.67678807687105],[18.61600324634009,49.67857233346291],[18.61875828105565,49.67836173589671],[18.61987787794232,49.68460658423561],[18.62125556180439,49.68450124466494],[18.62189559424672,49.68806970761887],[18.62327337249025,49.68796434234287],[18.6235934831052,49.68974856583486],[18.62634912300246,49.68953777607163]]],"type":"Polygon"}
+}

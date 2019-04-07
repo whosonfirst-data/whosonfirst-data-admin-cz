@@ -1,0 +1,70 @@
+{
+  "id": 1310441485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23511,49.03185,15.23511,49.03185",
+    "geom:latitude":49.03185,
+    "geom:longitude":15.23511,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Vitineves",
+    "gn:country_code":"CZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062815,
+    "gn:latitude":49.03185,
+    "gn:longitude":15.23511,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Vit\u00edn\u011bves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wittengau",
+        "Vit\u00edn\u011bves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062815
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c6f7a631e4bbc68f45c7e7cd348d6351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310441485,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1310441485,
+    "wof:lastmodified":1537619268,
+    "wof:name":"Vitineves",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23511,
+    49.03185,
+    15.23511,
+    49.03185
+],
+  "geometry": {"coordinates":[15.23511,49.03185],"type":"Point"}
+}

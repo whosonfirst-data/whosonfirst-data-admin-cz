@@ -1,0 +1,66 @@
+{
+  "id": 1243398347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19345,49.34762,16.19345,49.34762",
+    "geom:latitude":49.34762,
+    "geom:longitude":16.19345,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Ondrusky",
+    "gn:country_code":"CZ",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068961,
+    "gn:latitude":49.34762,
+    "gn:longitude":16.19345,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Ondru\u0161ky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068961
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fe4bb9fb7490ee20244fda9bd1e4f2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243398347,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1243398347,
+    "wof:lastmodified":1536873991,
+    "wof:name":"Ondrusky",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19345,
+    49.34762,
+    16.19345,
+    49.34762
+],
+  "geometry": {"coordinates":[16.19345,49.34762],"type":"Point"}
+}

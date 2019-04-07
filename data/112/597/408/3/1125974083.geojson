@@ -1,0 +1,146 @@
+{
+  "id": 1125974083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8492,50.04862,14.8492,50.04862",
+    "geom:latitude":50.04862,
+    "geom:longitude":14.8492,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":355,
+    "gn:population":355,
+    "iso:country":"CZ",
+    "lbl:latitude":50.04862,
+    "lbl:longitude":14.8492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u0447\u043e\u0440\u0430\u0437"
+    ],
+    "name:cze_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:dut_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:eng_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:fre_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:ger_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:hun_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:ita_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:may_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:nan_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0648\u0686\u0631\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:por_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:rup_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:slo_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u0440\u0430\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Tuchoraz"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u0686\u0631\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Tuchoraz"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063890,
+    "qs_pg:gn_pop":355,
+    "qs_pg:name":"Tuchoraz",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":372,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":234480,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799951,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063890,
+        "gp:id":799951,
+        "qs_pg:id":234480,
+        "wd:id":"Q916977"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298280,
+    "wof:geomhash":"d6985116a55e2e054a158873f6d9220d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125974083,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125974083,
+    "wof:lastmodified":1513945807,
+    "wof:name":"Tuchoraz",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":355,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8492,
+    50.04862,
+    14.8492,
+    50.04862
+],
+  "geometry": {"coordinates":[14.8492,50.04862],"type":"Point"}
+}

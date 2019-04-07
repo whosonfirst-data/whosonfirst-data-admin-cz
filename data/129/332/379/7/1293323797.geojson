@@ -1,0 +1,70 @@
+{
+  "id": 1293323797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44001,50.10647,17.44001,50.10647",
+    "geom:latitude":50.10647,
+    "geom:longitude":17.44001,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0801",
+    "gn:asciiname":"Nove Karlovice",
+    "gn:country_code":"CZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069484,
+    "gn:latitude":50.10647,
+    "gn:longitude":17.44001,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Nov\u00e9 Karlovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neu Karlsthal",
+        "Nov\u00e9 Karlovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069484
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3273539fbfb9f629b5993c561508e775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293323797,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1293323797,
+    "wof:lastmodified":1537619341,
+    "wof:name":"Nove Karlovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44001,
+    50.10647,
+    17.44001,
+    50.10647
+],
+  "geometry": {"coordinates":[17.44001,50.10647],"type":"Point"}
+}

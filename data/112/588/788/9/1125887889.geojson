@@ -1,0 +1,138 @@
+{
+  "id": 1125887889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26582,49.21953,15.26582,49.21953",
+    "geom:latitude":49.21953,
+    "geom:longitude":15.26582,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":140,
+    "gn:population":140,
+    "iso:country":"CZ",
+    "lbl:latitude":49.21953,
+    "lbl:longitude":15.26582,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:dut_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:eng_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:fre_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:ger_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:hun_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:ita_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:may_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:nan_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u0646\u0633\u06a9\u0647 \u062f\u0648\u0628\u0646\u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:por_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:rup_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:slo_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043d\u0441\u043a\u0435 \u0414\u0443\u0431\u0435\u043d\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "name:vie_x_preferred":[
+        "Pansk\u00e9 Dubenky"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3068594,
+    "qs_pg:gn_pop":140,
+    "qs_pg:name":"Pansk\u00e9 Dubenky",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1267513,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795784,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068594,
+        "gp:id":795784,
+        "qs_pg:id":1267513,
+        "wd:id":"Q126571"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295177,
+    "wof:geomhash":"4c11785a62e90af244ca9ad59500dca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125887889,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125887889,
+    "wof:lastmodified":1513945507,
+    "wof:name":"Pansk\u00e9 Dubenky",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26582,
+    49.21953,
+    15.26582,
+    49.21953
+],
+  "geometry": {"coordinates":[15.26582,49.21953],"type":"Point"}
+}

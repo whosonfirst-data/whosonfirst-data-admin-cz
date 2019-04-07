@@ -1,0 +1,111 @@
+{
+  "id": 101825489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":657817.765769,
+    "geom:bbox":"18.1826150935,49.9409630841,18.1989335048,49.9502820101",
+    "geom:latitude":49.945813,
+    "geom:longitude":18.190547,
+    "gn:population":1334,
+    "iso:country":"CZ",
+    "lbl:latitude":49.944912,
+    "lbl:longitude":18.189187,
+    "mps:latitude":49.944912,
+    "mps:longitude":18.189187,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:ces_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:epo_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:hun_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:msa_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:nld_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:pol_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:por_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:slk_x_preferred":[
+        "V\u0159esina"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"V\u0159esina",
+    "qs:la_lc":"*CZ0805568244",
+    "qs:level":"locality",
+    "qs:loc":"V\u0159esina",
+    "qs:loc_alt":"Vresina",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062416,
+        "gp:id":12607732,
+        "qs:id":279624,
+        "qs_pg:id":279624,
+        "wd:id":"Q1847295",
+        "wk:page":"V\u0159esina (Opava District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4e68ce4d22342446a571cc2feeeffd3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825489,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825489,
+    "wof:lastmodified":1505338172,
+    "wof:name":"V\u0159esina",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1334,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18261509354272,
+    49.94096308414242,
+    18.19893350480697,
+    49.95028201008301
+],
+  "geometry": {"coordinates":[[[18.19893350480697,49.9500814752202],[18.19862662864125,49.94829606146413],[18.1972406673334,49.94839633303457],[18.19647372896281,49.94393277843983],[18.19231619395993,49.94423345968596],[18.19185634511223,49.941555301113],[18.18769899083276,49.94185581118688],[18.18754579829925,49.94096308414242],[18.18616002832579,49.94106321827792],[18.18631319548172,49.94195594746782],[18.18492739483685,49.94205606687711],[18.18523369980488,49.94384152792816],[18.18384784310706,49.94394163475567],[18.18400098091558,49.94483436661676],[18.18261509354272,49.94493445871649],[18.1829213398052,49.94671992510956],[18.18430727794566,49.94661982871969],[18.18461360352779,49.94840528866422],[18.19154346864707,49.94790453214529],[18.19185007665732,49.94968996846603],[18.19600808445887,49.94938929917731],[18.19616147534464,49.95028201008301],[18.19893350480697,49.9500814752202]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226176439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26396,50.18081,14.26396,50.18081",
+    "geom:latitude":50.18081,
+    "geom:longitude":14.26396,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020A",
+    "gn:asciiname":"Hole",
+    "gn:country_code":"CZ",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075616,
+    "gn:latitude":50.18081,
+    "gn:longitude":14.26396,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Hole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075616
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3707280bfcad8352afe0fc3a0f1053d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226176439,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226176439,
+    "wof:lastmodified":1537032071,
+    "wof:name":"Hole",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26396,
+    50.18081,
+    14.26396,
+    50.18081
+],
+  "geometry": {"coordinates":[14.26396,50.18081],"type":"Point"}
+}

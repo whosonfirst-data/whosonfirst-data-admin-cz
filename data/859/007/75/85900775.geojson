@@ -1,0 +1,114 @@
+{
+  "id": 85900775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4980115.527299,
+    "geom:bbox":"18.260087,49.833918,18.260087,49.833918",
+    "geom:latitude":49.833918,
+    "geom:longitude":18.260087,
+    "gn:latitude":49.83239,
+    "gn:longitude":18.25413,
+    "iso:country":"CZ",
+    "lbl:latitude":49.833918,
+    "lbl:longitude":18.260087,
+    "mps:latitude":49.833456,
+    "mps:longitude":18.250053,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:cze_x_preferred":[
+        "Marianske Hory"
+    ],
+    "name:cze_x_variant":[
+        "Marienberg"
+    ],
+    "name:pol_x_preferred":[
+        "TJ Sokol Mari\u00e1nsk\u00e9 Hory"
+    ],
+    "name:unk_x_variant":[
+        "Marienberg",
+        "Marianske Hory"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"85",
+    "qs:gn_name":"Mari\u00e1nsk\u00e9 Hory",
+    "qs:local_max":2778,
+    "qs:local_sum":9373,
+    "qs:localhoods":17,
+    "qs:name":"Marianske Hory",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs:name_adm2":"Ostrava",
+    "qs:name_lau":"Ostrava",
+    "qs:name_local":"Ostrava",
+    "qs:photo_max":54,
+    "qs:photo_sum":107,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070471,
+    "qs:woe_adm2":12582577,
+    "qs:woe_lau":12607114,
+    "qs:woe_local":795610,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748125,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071025,
+        "gp:id":793597,
+        "qs:id":1031477,
+        "qs_pg:id":1031477
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d7abdabcfc26aff5e8148f4c94ab9082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748125,
+            "neighbourhood_id":85900775,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":85900775,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932380,
+    "wof:name":"Marianske Hory",
+    "wof:parent_id":101748125,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.260087,
+    49.833918,
+    18.260087,
+    49.833918
+],
+  "geometry": {"coordinates":[18.260087,49.833918],"type":"Point"}
+}

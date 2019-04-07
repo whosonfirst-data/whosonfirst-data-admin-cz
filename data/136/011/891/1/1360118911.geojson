@@ -1,0 +1,66 @@
+{
+  "id": 1360118911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51442,50.34505,14.51442,50.34505",
+    "geom:latitude":50.34505,
+    "geom:longitude":14.51442,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Maly Borek",
+    "gn:country_code":"CZ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071090,
+    "gn:latitude":50.34505,
+    "gn:longitude":14.51442,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Mal\u00fd Borek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071090
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c1b82e0c43c7beeba0f6c7f7dc05f2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1360118911,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1360118911,
+    "wof:lastmodified":1536896710,
+    "wof:name":"Maly Borek",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51442,
+    50.34505,
+    14.51442,
+    50.34505
+],
+  "geometry": {"coordinates":[14.51442,50.34505],"type":"Point"}
+}

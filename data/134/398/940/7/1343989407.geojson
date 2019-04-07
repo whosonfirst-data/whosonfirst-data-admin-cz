@@ -1,0 +1,70 @@
+{
+  "id": 1343989407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.80347,49.82956,12.80347,49.82956",
+    "geom:latitude":49.82956,
+    "geom:longitude":12.80347,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Zliv",
+    "gn:country_code":"CZ",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061366,
+    "gn:latitude":49.82956,
+    "gn:longitude":12.80347,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Zliv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schlief",
+        "Zliv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061366
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8211a1f878c11b0bb4e79c92be719ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343989407,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343989407,
+    "wof:lastmodified":1537619252,
+    "wof:name":"Zliv",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.80347,
+    49.82956,
+    12.80347,
+    49.82956
+],
+  "geometry": {"coordinates":[12.80347,49.82956],"type":"Point"}
+}

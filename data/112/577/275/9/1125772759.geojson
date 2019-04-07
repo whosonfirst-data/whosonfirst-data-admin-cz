@@ -1,0 +1,129 @@
+{
+  "id": 1125772759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19672,49.98412,14.19672,49.98412",
+    "geom:latitude":49.98412,
+    "geom:longitude":14.19672,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":88,
+    "gn:population":88,
+    "iso:country":"CZ",
+    "lbl:latitude":49.98412,
+    "lbl:longitude":14.19672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:dut_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:eng_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:fre_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:ger_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:hun_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:ita_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:may_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648\u0698\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:por_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:slo_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0436\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Lu\u017ece"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3071340,
+    "qs_pg:gn_pop":88,
+    "qs_pg:name":"Lu\u017ece",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":190289,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793323,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071340,
+        "gp:id":793323,
+        "qs_pg:id":190289,
+        "wd:id":"Q2134009"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290129,
+    "wof:geomhash":"e60876bc5c2acd09eb14a30eb16c4819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125772759,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125772759,
+    "wof:lastmodified":1513945329,
+    "wof:name":"Lu\u017ece",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19672,
+    49.98412,
+    14.19672,
+    49.98412
+],
+  "geometry": {"coordinates":[14.19672,49.98412],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209846507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45157,49.20437,13.45157,49.20437",
+    "geom:latitude":49.20437,
+    "geom:longitude":13.45157,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Kojsice",
+    "gn:country_code":"CZ",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073396,
+    "gn:latitude":49.20437,
+    "gn:longitude":13.45157,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Koj\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073396
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6325bf5e18b94ebeb00e2444a3f2b35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209846507,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1209846507,
+    "wof:lastmodified":1536390411,
+    "wof:name":"Kojsice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45157,
+    49.20437,
+    13.45157,
+    49.20437
+],
+  "geometry": {"coordinates":[13.45157,49.20437],"type":"Point"}
+}

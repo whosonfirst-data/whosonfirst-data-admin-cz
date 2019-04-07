@@ -1,0 +1,66 @@
+{
+  "id": 1209746045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79603,49.22723,14.79603,49.22723",
+    "geom:latitude":49.22723,
+    "geom:longitude":14.79603,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Lzin",
+    "gn:country_code":"CZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071292,
+    "gn:latitude":49.22723,
+    "gn:longitude":14.79603,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"L\u017e\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071292
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"566947659dfc81ecda055c9856e720c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209746045,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1209746045,
+    "wof:lastmodified":1536394950,
+    "wof:name":"Lzin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79603,
+    49.22723,
+    14.79603,
+    49.22723
+],
+  "geometry": {"coordinates":[14.79603,49.22723],"type":"Point"}
+}

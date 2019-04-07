@@ -1,0 +1,66 @@
+{
+  "id": 1293034535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64704,50.42421,15.64704,50.42421",
+    "geom:latitude":50.42421,
+    "geom:longitude":15.64704,
+    "gn:admin1_code":"82",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Vidon",
+    "gn:country_code":"CZ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062921,
+    "gn:latitude":50.42421,
+    "gn:longitude":15.64704,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Vido\u0148",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062921
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"65ee70e6596f6915bb2fe87d91963c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293034535,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293034535,
+    "wof:lastmodified":1536943695,
+    "wof:name":"Vidon",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64704,
+    50.42421,
+    15.64704,
+    50.42421
+],
+  "geometry": {"coordinates":[15.64704,50.42421],"type":"Point"}
+}

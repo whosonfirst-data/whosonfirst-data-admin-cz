@@ -1,0 +1,145 @@
+{
+  "id": 1125871303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1723,48.79614,16.1723,48.79614",
+    "geom:latitude":48.79614,
+    "geom:longitude":16.1723,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":974,
+    "gn:population":974,
+    "iso:country":"CZ",
+    "lbl:latitude":48.79614,
+    "lbl:longitude":16.1723,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Strachotice"
+    ],
+    "name:dut_x_preferred":[
+        "Strachotice"
+    ],
+    "name:eng_x_preferred":[
+        "Strachotice"
+    ],
+    "name:fre_x_preferred":[
+        "Strachotice"
+    ],
+    "name:ger_x_preferred":[
+        "Strachotice"
+    ],
+    "name:hun_x_preferred":[
+        "Strachotice"
+    ],
+    "name:ita_x_preferred":[
+        "Strachotice"
+    ],
+    "name:may_x_preferred":[
+        "Strachotice"
+    ],
+    "name:nan_x_preferred":[
+        "Strachotice"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0631\u0627\u062e\u0648\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Strachotice"
+    ],
+    "name:por_x_preferred":[
+        "Strachotice"
+    ],
+    "name:rup_x_preferred":[
+        "Strachotice"
+    ],
+    "name:slo_x_preferred":[
+        "Strachotice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0445\u043e\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Strachotice"
+    ],
+    "name:unk_x_variant":[
+        "Rausenbruck"
+    ],
+    "name:vie_x_preferred":[
+        "Strachotice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065085,
+    "qs_pg:gn_pop":974,
+    "qs_pg:name":"Strachotice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":39208,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798934,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065085,
+        "gp:id":798934,
+        "qs_pg:id":39208,
+        "wd:id":"Q630722"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294313,
+    "wof:geomhash":"ce89025b5639e734b258aaeaedb23d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125871303,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125871303,
+    "wof:lastmodified":1513945729,
+    "wof:name":"Strachotice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":974,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1723,
+    48.79614,
+    16.1723,
+    48.79614
+],
+  "geometry": {"coordinates":[16.1723,48.79614],"type":"Point"}
+}

@@ -1,0 +1,146 @@
+{
+  "id": 85900985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7046803.27585,
+    "geom:bbox":"14.049481,50.633053,14.049481,50.633053",
+    "geom:latitude":50.633053,
+    "geom:longitude":14.049481,
+    "gn:latitude":50.62713,
+    "gn:longitude":14.05144,
+    "iso:country":"CZ",
+    "lbl:latitude":50.633053,
+    "lbl:longitude":14.049481,
+    "mps:latitude":50.624491,
+    "mps:longitude":14.050046,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646\u0648\u0641"
+    ],
+    "name:ces_x_preferred":[
+        "Vanov"
+    ],
+    "name:cze_x_colloquial":[
+        "Vanov"
+    ],
+    "name:cze_x_preferred":[
+        "Va\u0148ov"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Vanov"
+    ],
+    "name:hun_x_preferred":[
+        "Vanov"
+    ],
+    "name:ita_x_preferred":[
+        "Vanov"
+    ],
+    "name:msa_x_preferred":[
+        "Vanov"
+    ],
+    "name:nld_x_preferred":[
+        "Vanov"
+    ],
+    "name:por_x_preferred":[
+        "Vanov"
+    ],
+    "name:slk_x_preferred":[
+        "Vanov"
+    ],
+    "name:unk_x_variant":[
+        "Va\u0148ov"
+    ],
+    "name:vie_x_preferred":[
+        "Vanov"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3063548,
+    "qs:gn_nam_loc":"\u00dast\u00ed nad Labem, \u00dasteck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Va\u0148ov",
+    "qs:local_max":552,
+    "qs:local_sum":1115,
+    "qs:localhoods":8,
+    "qs:name":"Va\u0148ov",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs:name_adm2":"\u00dast\u00ed nad Labem",
+    "qs:name_lau":"\u00dast\u00ed nad Labem",
+    "qs:name_local":"\u00dast\u00ed nad Labem",
+    "qs:photo_max":11,
+    "qs:photo_sum":40,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070499,
+    "qs:woe_adm2":12582569,
+    "qs:woe_lau":12606615,
+    "qs:woe_local":800260,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        101748139,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063396,
+        "gp:id":800387,
+        "qs:id":342268,
+        "qs_pg:id":342268
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"91be27ad5fca8344eaac75008f81ec01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748139,
+            "neighbourhood_id":85900985,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":85900985,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932415,
+    "wof:name":"Va\u0148ov",
+    "wof:parent_id":101748139,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.049481,
+    50.633053,
+    14.049481,
+    50.633053
+],
+  "geometry": {"coordinates":[14.049481,50.633053],"type":"Point"}
+}

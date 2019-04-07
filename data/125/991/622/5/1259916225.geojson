@@ -1,0 +1,66 @@
+{
+  "id": 1259916225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19941,49.47892,15.19941,49.47892",
+    "geom:latitude":49.47892,
+    "geom:longitude":15.19941,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Techoraz",
+    "gn:country_code":"CZ",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064323,
+    "gn:latitude":49.47892,
+    "gn:longitude":15.19941,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"T\u011bchoraz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064323
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3cd07a583a5c02c7d29c38ce2fa03c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259916225,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1259916225,
+    "wof:lastmodified":1536732182,
+    "wof:name":"Techoraz",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19941,
+    49.47892,
+    15.19941,
+    49.47892
+],
+  "geometry": {"coordinates":[15.19941,49.47892],"type":"Point"}
+}

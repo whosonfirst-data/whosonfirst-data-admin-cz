@@ -1,0 +1,71 @@
+{
+  "id": 1293525809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.87022,50.36728,12.87022,50.36728",
+    "geom:latitude":50.36728,
+    "geom:longitude":12.87022,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Zalesi",
+    "gn:country_code":"CZ",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061936,
+    "gn:latitude":50.36728,
+    "gn:longitude":12.87022,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Z\u00e1les\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Werlsgruen",
+        "Werlsgr\u00fcn",
+        "Z\u00e1les\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061936
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b9d1d8cfd9716fb6cfb5990899e0c23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293525809,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1293525809,
+    "wof:lastmodified":1537619258,
+    "wof:name":"Zalesi",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.87022,
+    50.36728,
+    12.87022,
+    50.36728
+],
+  "geometry": {"coordinates":[12.87022,50.36728],"type":"Point"}
+}

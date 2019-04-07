@@ -1,0 +1,65 @@
+{
+  "id": 102536825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4439,50.0839,16.4439,50.0839",
+    "geom:latitude":50.0839,
+    "geom:longitude":16.4439,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1411",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582603,
+        "localadmin_id":12609419,
+        "planet_id":1,
+        "state_id":20070465
+    },
+    "wof:belongsto":[
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512584,
+        "icao:code":"LKZM",
+        "oa:id":"30576",
+        "wd:id":"Q12033128"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"aa50e0ef32fa00c99e7ae3762edc25e5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536825,
+            "country_id":85633105,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":102536825,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Zamberk Airport",
+    "wof:parent_id":85682443,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.4439,
+    50.0839,
+    16.4439,
+    50.0839
+],
+  "geometry": {"coordinates":[16.4439,50.0839],"type":"Point"}
+}

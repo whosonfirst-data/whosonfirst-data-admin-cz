@@ -1,0 +1,66 @@
+{
+  "id": 1226073685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85,48.83333,14.85,48.83333",
+    "geom:latitude":48.83333,
+    "geom:longitude":14.85,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Hranice u Noveho Hradu",
+    "gn:country_code":"CZ",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074887,
+    "gn:latitude":48.83333,
+    "gn:longitude":14.85,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Hranice u Nov\u00e9ho Hrad\u016f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074887
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4cee6894363c19b89b899f92e26b61ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226073685,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1226073685,
+    "wof:lastmodified":1536685043,
+    "wof:name":"Hranice u Noveho Hradu",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85,
+    48.83333,
+    14.85,
+    48.83333
+],
+  "geometry": {"coordinates":[14.85,48.83333],"type":"Point"}
+}

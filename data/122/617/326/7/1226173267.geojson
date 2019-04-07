@@ -1,0 +1,66 @@
+{
+  "id": 1226173267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91607,50.4692,13.91607,50.4692",
+    "geom:latitude":50.4692,
+    "geom:longitude":13.91607,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Dremcice",
+    "gn:country_code":"CZ",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076445,
+    "gn:latitude":50.4692,
+    "gn:longitude":13.91607,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"D\u0159em\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076445
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6850dc2325f5b9ab383ac38fe1eb5042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226173267,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1226173267,
+    "wof:lastmodified":1537036526,
+    "wof:name":"Dremcice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91607,
+    50.4692,
+    13.91607,
+    50.4692
+],
+  "geometry": {"coordinates":[13.91607,50.4692],"type":"Point"}
+}

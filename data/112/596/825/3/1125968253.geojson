@@ -1,0 +1,135 @@
+{
+  "id": 1125968253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50881,49.59636,15.50881,49.59636",
+    "geom:latitude":49.59636,
+    "geom:longitude":15.50881,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":222,
+    "gn:population":222,
+    "iso:country":"CZ",
+    "lbl:latitude":49.59636,
+    "lbl:longitude":15.50881,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:dut_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:eng_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:fre_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:hsb_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:hun_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:ita_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:may_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:nan_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:pol_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:por_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:rup_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:slo_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u0440\u0442\u043e\u0432\u0430 \u041b\u0445\u043e\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:vie_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3074691,
+    "qs_pg:gn_pop":222,
+    "qs_pg:name":"Hurtova Lhota",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398435,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":790372,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074691,
+        "gp:id":790372,
+        "qs_pg:id":398435,
+        "wd:id":"Q164577"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298058,
+    "wof:geomhash":"87b9516c6051804371659b2e87d17aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125968253,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125968253,
+    "wof:lastmodified":1513945075,
+    "wof:name":"Hurtova Lhota",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50881,
+    49.59636,
+    15.50881,
+    49.59636
+],
+  "geometry": {"coordinates":[15.50881,49.59636],"type":"Point"}
+}

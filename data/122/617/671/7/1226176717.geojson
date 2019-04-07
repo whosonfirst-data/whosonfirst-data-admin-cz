@@ -1,0 +1,70 @@
+{
+  "id": 1226176717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58748,49.33422,15.58748,49.33422",
+    "geom:latitude":49.33422,
+    "geom:longitude":15.58748,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Cerekvicka",
+    "gn:country_code":"CZ",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078117,
+    "gn:latitude":49.33422,
+    "gn:longitude":15.58748,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Cerekvi\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neustift bei Iglau",
+        "Cerekvi\u010dka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078117
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e9ce115593074327c1fe162cb6e0b23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226176717,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1226176717,
+    "wof:lastmodified":1537619448,
+    "wof:name":"Cerekvicka",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58748,
+    49.33422,
+    15.58748,
+    49.33422
+],
+  "geometry": {"coordinates":[15.58748,49.33422],"type":"Point"}
+}

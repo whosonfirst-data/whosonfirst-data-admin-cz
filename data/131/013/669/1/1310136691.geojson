@@ -1,0 +1,66 @@
+{
+  "id": 1310136691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60492,49.40862,13.60492,49.40862",
+    "geom:latitude":49.40862,
+    "geom:longitude":13.60492,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Milcice",
+    "gn:country_code":"CZ",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070700,
+    "gn:latitude":49.40862,
+    "gn:longitude":13.60492,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Mil\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070700
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cff7696bf0cecd2085442499c5333c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310136691,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1310136691,
+    "wof:lastmodified":1536951798,
+    "wof:name":"Milcice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60492,
+    49.40862,
+    13.60492,
+    49.40862
+],
+  "geometry": {"coordinates":[13.60492,49.40862],"type":"Point"}
+}

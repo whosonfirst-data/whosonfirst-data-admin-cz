@@ -1,0 +1,65 @@
+{
+  "id": 1209042889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94629,50.70733,13.94629,50.70733",
+    "geom:latitude":50.70733,
+    "geom:longitude":13.94629,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Zandov",
+    "gn:country_code":"CZ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061868,
+    "gn:latitude":50.70733,
+    "gn:longitude":13.94629,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"\u017dandov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Schanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061868
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"16a854459f8abe154cc6ca0af7fefce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209042889
+        }
+    ],
+    "wof:id":1209042889,
+    "wof:lastmodified":1537504012,
+    "wof:name":"Zandov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94629,
+    50.70733,
+    13.94629,
+    50.70733
+],
+  "geometry": {"coordinates":[13.94629,50.70733],"type":"Point"}
+}

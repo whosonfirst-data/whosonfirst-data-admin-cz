@@ -1,0 +1,66 @@
+{
+  "id": 1260111089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56501,48.93608,14.56501,48.93608",
+    "geom:latitude":48.93608,
+    "geom:longitude":14.56501,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Zborov",
+    "gn:country_code":"CZ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061770,
+    "gn:latitude":48.93608,
+    "gn:longitude":14.56501,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Zborov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061770
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"487d3e03b6ff8bfc1973df3be6a19922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260111089,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1260111089,
+    "wof:lastmodified":1536948717,
+    "wof:name":"Zborov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56501,
+    48.93608,
+    14.56501,
+    48.93608
+],
+  "geometry": {"coordinates":[14.56501,48.93608],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292941725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6447,49.92754,16.6447,49.92754",
+    "geom:latitude":49.92754,
+    "geom:longitude":16.6447,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Albrechtice",
+    "gn:country_code":"CZ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079822,
+    "gn:latitude":49.92754,
+    "gn:longitude":16.6447,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Albrechtice",
+    "gn:population":516,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olbersdorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079822,
+        "wk:page":"Albrechtice_%28%C3%9Ast%C3%AD_nad_Orlic%C3%AD_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"db82473deb722dae8c3b5f9f4eccf7f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292941725,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1292941725,
+    "wof:lastmodified":1537619467,
+    "wof:name":"Albrechtice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":516,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6447,
+    49.92754,
+    16.6447,
+    49.92754
+],
+  "geometry": {"coordinates":[16.6447,49.92754],"type":"Point"}
+}

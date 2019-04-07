@@ -1,0 +1,62 @@
+{
+  "id": 1209446015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21018,50.62723,15.21018,50.62723",
+    "geom:latitude":50.62723,
+    "geom:longitude":15.21018,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0512",
+    "gn:asciiname":"Besedice",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079461,
+    "gn:latitude":50.62723,
+    "gn:longitude":15.21018,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Besedice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079461
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"faaa371c010d0ab85d874c23ba49bb93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209446015
+        }
+    ],
+    "wof:id":1209446015,
+    "wof:lastmodified":1536286816,
+    "wof:name":"Besedice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21018,
+    50.62723,
+    15.21018,
+    50.62723
+],
+  "geometry": {"coordinates":[15.21018,50.62723],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276905737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96522,49.23688,16.96522,49.23688",
+    "geom:latitude":49.23688,
+    "geom:longitude":16.96522,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0626",
+    "gn:asciiname":"Rostenice",
+    "gn:country_code":"CZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066747,
+    "gn:latitude":49.23688,
+    "gn:longitude":16.96522,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Rost\u011bnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosternitz",
+        "Rost\u011bnice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066747
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9e4a6f3fd82d37c55889c2b9fd77d4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276905737,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1276905737,
+    "wof:lastmodified":1537619312,
+    "wof:name":"Rostenice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96522,
+    49.23688,
+    16.96522,
+    49.23688
+],
+  "geometry": {"coordinates":[16.96522,49.23688],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209546021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04466,49.55122,15.04466,49.55122",
+    "geom:latitude":49.55122,
+    "geom:longitude":15.04466,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Nove Vyklantice",
+    "gn:country_code":"CZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069419,
+    "gn:latitude":49.55122,
+    "gn:longitude":15.04466,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Nov\u00e9 Vyklantice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069419
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"890c44901a04ab11798a276d775fff03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209546021
+        }
+    ],
+    "wof:id":1209546021,
+    "wof:lastmodified":1536283840,
+    "wof:name":"Nove Vyklantice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04466,
+    49.55122,
+    15.04466,
+    49.55122
+],
+  "geometry": {"coordinates":[15.04466,49.55122],"type":"Point"}
+}

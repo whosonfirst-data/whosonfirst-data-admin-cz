@@ -1,0 +1,62 @@
+{
+  "id": 1209042933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02783,49.42619,16.02783,49.42619",
+    "geom:latitude":49.42619,
+    "geom:longitude":16.02783,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Horni Bory",
+    "gn:country_code":"CZ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075439,
+    "gn:latitude":49.42619,
+    "gn:longitude":16.02783,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Horn\u00ed Bory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075439
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c7ca962bc9021e7a3e09531d9afa9032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209042933
+        }
+    ],
+    "wof:id":1209042933,
+    "wof:lastmodified":1536299487,
+    "wof:name":"Horni Bory",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.027829999999998,
+    49.42619000000001,
+    16.027829999999998,
+    49.42619000000001
+],
+  "geometry": {"coordinates":[16.02783,49.42619000000001],"type":"Point"}
+}

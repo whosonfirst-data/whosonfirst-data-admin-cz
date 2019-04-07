@@ -1,0 +1,62 @@
+{
+  "id": 1209350775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3503,49.32288,17.3503,49.32288",
+    "geom:latitude":49.32288,
+    "geom:longitude":17.3503,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0721",
+    "gn:asciiname":"Hradisko",
+    "gn:country_code":"CZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074936,
+    "gn:latitude":49.32288,
+    "gn:longitude":17.3503,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Hradisko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074936
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9a1e624ccfe51f7e1dbc4cbdf7d08b1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209350775
+        }
+    ],
+    "wof:id":1209350775,
+    "wof:lastmodified":1536289749,
+    "wof:name":"Hradisko",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3503,
+    49.32288,
+    17.3503,
+    49.32288
+],
+  "geometry": {"coordinates":[17.3503,49.32288],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293338827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32381,49.67298,17.32381,49.67298",
+    "geom:latitude":49.67298,
+    "geom:longitude":17.32381,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Last'any",
+    "gn:country_code":"CZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072310,
+    "gn:latitude":49.67298,
+    "gn:longitude":17.32381,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"La\u0161\u0165any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laschtian",
+        "La\u0161\u0165any"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072310
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4fb37203db91acebca3194afeb791530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293338827,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1293338827,
+    "wof:lastmodified":1537619378,
+    "wof:name":"Last'any",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32381,
+    49.67298,
+    17.32381,
+    49.67298
+],
+  "geometry": {"coordinates":[17.32381,49.67298],"type":"Point"}
+}

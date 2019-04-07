@@ -1,0 +1,66 @@
+{
+  "id": 1243009241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34509,49.47265,18.34509,49.47265",
+    "geom:latitude":49.47265,
+    "geom:longitude":18.34509,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Pajurcanky",
+    "gn:country_code":"CZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068635,
+    "gn:latitude":49.47265,
+    "gn:longitude":18.34509,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pajurcanky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068635
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"315daffb768740ed69d7b8feb8508c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243009241,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1243009241,
+    "wof:lastmodified":1536939563,
+    "wof:name":"Pajurcanky",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34509,
+    49.47265,
+    18.34509,
+    49.47265
+],
+  "geometry": {"coordinates":[18.34509,49.47265],"type":"Point"}
+}

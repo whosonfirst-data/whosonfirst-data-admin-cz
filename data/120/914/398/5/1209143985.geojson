@@ -1,0 +1,69 @@
+{
+  "id": 1209143985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2107,49.64009,17.2107,49.64009",
+    "geom:latitude":49.64009,
+    "geom:longitude":17.2107,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Horka nad Moravou",
+    "gn:country_code":"CZ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075471,
+    "gn:latitude":49.64009,
+    "gn:longitude":17.2107,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Horka nad Moravou",
+    "gn:population":2101,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075471,
+        "wk:page":"Horka_nad_Moravou"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9ff4a25485b2c1b133b91f0dfbb725b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209143985
+        }
+    ],
+    "wof:id":1209143985,
+    "wof:lastmodified":1537619416,
+    "wof:name":"Horka nad Moravou",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:population":2101,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2107,
+    49.64009,
+    17.2107,
+    49.64009
+],
+  "geometry": {"coordinates":[17.2107,49.64009],"type":"Point"}
+}

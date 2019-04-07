@@ -1,0 +1,66 @@
+{
+  "id": 1293723013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81334,49.37405,17.81334,49.37405",
+    "geom:latitude":49.37405,
+    "geom:longitude":17.81334,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0721",
+    "gn:asciiname":"Kosovy",
+    "gn:country_code":"CZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073176,
+    "gn:latitude":49.37405,
+    "gn:longitude":17.81334,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Ko\u0161ovy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073176
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7b510d08d87cf36d2761ebe454cf6064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293723013,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1293723013,
+    "wof:lastmodified":1536945384,
+    "wof:name":"Kosovy",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81334,
+    49.37405,
+    17.81334,
+    49.37405
+],
+  "geometry": {"coordinates":[17.81334,49.37405],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309940989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30935,49.54276,14.30935,49.54276",
+    "geom:latitude":49.54276,
+    "geom:longitude":14.30935,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Vladycin",
+    "gn:country_code":"CZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062770,
+    "gn:latitude":49.54276,
+    "gn:longitude":14.30935,
+    "gn:modification_date":"2014-05-13",
+    "gn:name":"Vl\u00e1dy\u010d\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062770
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"277b7c4c9ac35d7b814fccc75dc4c11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309940989,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1309940989,
+    "wof:lastmodified":1536736328,
+    "wof:name":"Vladycin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30935,
+    49.54276,
+    14.30935,
+    49.54276
+],
+  "geometry": {"coordinates":[14.30935,49.54276],"type":"Point"}
+}

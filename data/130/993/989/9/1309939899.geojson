@@ -1,0 +1,66 @@
+{
+  "id": 1309939899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79941,49.59824,14.79941,49.59824",
+    "geom:latitude":49.59824,
+    "geom:longitude":14.79941,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Lhysov",
+    "gn:country_code":"CZ",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071994,
+    "gn:latitude":49.59824,
+    "gn:longitude":14.79941,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Lh\u00fd\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071994
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"acdc0c113812174410470edc6931e5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1309939899,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1309939899,
+    "wof:lastmodified":1536737864,
+    "wof:name":"Lhysov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79941,
+    49.59824,
+    14.79941,
+    49.59824
+],
+  "geometry": {"coordinates":[14.79941,49.59824],"type":"Point"}
+}

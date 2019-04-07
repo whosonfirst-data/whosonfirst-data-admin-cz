@@ -1,0 +1,66 @@
+{
+  "id": 1293625877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84394,49.61585,15.84394,49.61585",
+    "geom:latitude":49.61585,
+    "geom:longitude":15.84394,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0615",
+    "gn:asciiname":"Vepri",
+    "gn:country_code":"CZ",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063098,
+    "gn:latitude":49.61585,
+    "gn:longitude":15.84394,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Vep\u0159\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063098
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6f2d4f94a6702acd83f007ee33f198df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293625877,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1293625877,
+    "wof:lastmodified":1537081451,
+    "wof:name":"Vepri",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84394,
+    49.61585,
+    15.84394,
+    49.61585
+],
+  "geometry": {"coordinates":[15.84394,49.61585],"type":"Point"}
+}

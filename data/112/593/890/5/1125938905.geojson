@@ -1,0 +1,135 @@
+{
+  "id": 1125938905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58789,49.27367,17.58789,49.27367",
+    "geom:latitude":49.27367,
+    "geom:longitude":17.58789,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":394,
+    "gn:population":394,
+    "iso:country":"CZ",
+    "lbl:latitude":49.27367,
+    "lbl:longitude":17.58789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Lechotice"
+    ],
+    "name:dut_x_preferred":[
+        "Lechotice"
+    ],
+    "name:eng_x_preferred":[
+        "Lechotice"
+    ],
+    "name:fre_x_preferred":[
+        "Lechotice"
+    ],
+    "name:ger_x_preferred":[
+        "Lechotice"
+    ],
+    "name:hun_x_preferred":[
+        "Lechotice"
+    ],
+    "name:ita_x_preferred":[
+        "Lechotice"
+    ],
+    "name:may_x_preferred":[
+        "Lechotice"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u062e\u0648\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Lechotice"
+    ],
+    "name:por_x_preferred":[
+        "Lechotice"
+    ],
+    "name:rup_x_preferred":[
+        "Lechotice"
+    ],
+    "name:slo_x_preferred":[
+        "Lechotice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0445\u043e\u0442\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Lechotice"
+    ],
+    "name:vie_x_preferred":[
+        "Lechotice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3072249,
+    "qs_pg:gn_pop":394,
+    "qs_pg:name":"Lechotice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399005,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":792491,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072249,
+        "gp:id":792491,
+        "qs_pg:id":399005,
+        "wd:id":"Q1789618"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297053,
+    "wof:geomhash":"bce87d001b5ed833c1a8a9d1b11336f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125938905,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125938905,
+    "wof:lastmodified":1513945269,
+    "wof:name":"Lechotice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":394,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58789,
+    49.27367,
+    17.58789,
+    49.27367
+],
+  "geometry": {"coordinates":[17.58789,49.27367],"type":"Point"}
+}

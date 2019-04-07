@@ -1,0 +1,66 @@
+{
+  "id": 1243394565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35586,49.32623,14.35586,49.32623",
+    "geom:latitude":49.32623,
+    "geom:longitude":14.35586,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Nemejice",
+    "gn:country_code":"CZ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069891,
+    "gn:latitude":49.32623,
+    "gn:longitude":14.35586,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Nem\u011bjice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069891
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"335923e8f17ef0b378553ee4714760f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243394565,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243394565,
+    "wof:lastmodified":1536879710,
+    "wof:name":"Nemejice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35586,
+    49.32623,
+    14.35586,
+    49.32623
+],
+  "geometry": {"coordinates":[14.35586,49.32623],"type":"Point"}
+}

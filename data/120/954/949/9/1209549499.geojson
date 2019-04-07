@@ -1,0 +1,62 @@
+{
+  "id": 1209549499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45027,49.94456,15.45027,49.94456",
+    "geom:latitude":49.94456,
+    "geom:longitude":15.45027,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Vycapy",
+    "gn:country_code":"CZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062327,
+    "gn:latitude":49.94456,
+    "gn:longitude":15.45027,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Vy\u010dapy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062327
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0fa32a978eeb7de7b9feb49783325a7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209549499
+        }
+    ],
+    "wof:id":1209549499,
+    "wof:lastmodified":1536283739,
+    "wof:name":"Vycapy",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.450270000000002,
+    49.94456,
+    15.450270000000002,
+    49.94456
+],
+  "geometry": {"coordinates":[15.45027,49.94456],"type":"Point"}
+}

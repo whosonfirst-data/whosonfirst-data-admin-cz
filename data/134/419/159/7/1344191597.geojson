@@ -1,0 +1,66 @@
+{
+  "id": 1344191597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68407,49.36071,14.68407,49.36071",
+    "geom:latitude":49.36071,
+    "geom:longitude":14.68407,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Lhota Samoty",
+    "gn:country_code":"CZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072063,
+    "gn:latitude":49.36071,
+    "gn:longitude":14.68407,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Lhota Samoty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072063
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1b756dcef7360bc15c10b1f7b1149d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344191597,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1344191597,
+    "wof:lastmodified":1536686446,
+    "wof:name":"Lhota Samoty",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68407,
+    49.36071,
+    14.68407,
+    49.36071
+],
+  "geometry": {"coordinates":[14.68407,49.36071],"type":"Point"}
+}

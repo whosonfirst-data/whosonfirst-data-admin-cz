@@ -1,0 +1,133 @@
+{
+  "id": 85900727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000392,
+    "geom:area_square_m":3119794.038219,
+    "geom:bbox":"14.3665887718,49.9794874369,14.3975830078,50.0004020703",
+    "geom:latitude":49.991727,
+    "geom:longitude":14.383707,
+    "gn:latitude":49.98881,
+    "gn:longitude":14.39664,
+    "gn:population":334,
+    "iso:country":"CZ",
+    "lbl:latitude":49.996359,
+    "lbl:longitude":14.397076,
+    "mps:latitude":49.990085,
+    "mps:longitude":14.384002,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cze_x_preferred":[
+        "Lahovice"
+    ],
+    "name:cze_x_variant":[
+        "Lahowitz",
+        "Praha 5-Lahovice"
+    ],
+    "name:dut_x_preferred":[
+        "Lahovice"
+    ],
+    "name:eng_x_preferred":[
+        "Lahovice"
+    ],
+    "name:fre_x_preferred":[
+        "Lahovice"
+    ],
+    "name:pol_x_preferred":[
+        "Lahovice"
+    ],
+    "name:slo_x_preferred":[
+        "Lahovice"
+    ],
+    "name:swe_x_preferred":[
+        "Lahovice"
+    ],
+    "name:unk_x_variant":[
+        "Lahowitz",
+        "Lahovice"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:gn_name":"Lahovice",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Lahovice",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":20,
+    "qs:photo_sum":89,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072344,
+        "gp:id":792404,
+        "qs:id":1332136,
+        "qs_pg:id":1332136,
+        "wd:id":"Q2048241"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c87ed31bff880c75df3cd823226b7cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "neighbourhood_id":85900727,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":85900727,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1513945265,
+    "wof:name":"Lahovice",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":334,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36658877183464,
+    49.97948743687546,
+    14.39758300780022,
+    50.00040207030095
+],
+  "geometry": {"coordinates":[[[14.3674591874609,50.00040207030095],[14.3750123669368,49.99872342031001],[14.37985086016687,49.99955976950578],[14.38020928499617,49.99925951582937],[14.381103515625,49.99891172972509],[14.38659667967511,49.99891172972509],[14.38779001007885,49.99844761709171],[14.38868572513661,49.99891211872533],[14.39758300780022,49.99891211872533],[14.39758300780011,49.99714673960004],[14.39758300780011,49.99361546250005],[14.39758300780005,49.99361539770017],[14.39758300780005,49.99008392619994],[14.39758300780022,49.98831789867519],[14.39322521675967,49.98831789867519],[14.39208988540543,49.98655213050004],[14.39208984370009,49.98655206563622],[14.38981884752587,49.98302001065038],[14.38981851397421,49.98301975127528],[14.38886784264417,49.98301975127528],[14.3843250163581,49.97948743687546],[14.38337517894217,49.97948743687546],[14.37883235265627,49.98301975127528],[14.37691100699124,49.98301975127528],[14.37561035157523,49.98504263869997],[14.37561035158524,49.98655213049996],[14.37561035158552,49.99008386135013],[14.37561030988485,49.9900839262019],[14.37496035611599,49.99109486626635],[14.372863769525,49.99156073970876],[14.37189940523353,49.99134645248098],[14.37125233130035,49.99184971057512],[14.37011718308565,49.99361545966214],[14.36898208535808,49.9953811172755],[14.36658877183464,49.99724257165424],[14.3674591874609,50.00040207030095]]],"type":"Polygon"}
+}

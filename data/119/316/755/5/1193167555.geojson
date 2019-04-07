@@ -1,0 +1,66 @@
+{
+  "id": 1193167555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06667,49.26667,17.06667,49.26667",
+    "geom:latitude":49.26667,
+    "geom:longitude":17.06667,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0626",
+    "gn:asciiname":"Boskuvky",
+    "gn:country_code":"CZ",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078908,
+    "gn:latitude":49.26667,
+    "gn:longitude":17.06667,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Bo\u0161k\u016fvky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078908
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"603b9e77201c5aa7de87718c47b3ece0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193167555,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1193167555,
+    "wof:lastmodified":1536384027,
+    "wof:name":"Boskuvky",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06667,
+    49.26667,
+    17.06667,
+    49.26667
+],
+  "geometry": {"coordinates":[17.06667,49.26667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259614769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33333,49.3,17.33333,49.3",
+    "geom:latitude":49.3,
+    "geom:longitude":17.33333,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0721",
+    "gn:asciiname":"Merutky",
+    "gn:country_code":"CZ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070837,
+    "gn:latitude":49.3,
+    "gn:longitude":17.33333,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"M\u011br\u016ftky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070837
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"87b905a1bf1605bc7400d57cfccaf395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259614769,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1259614769,
+    "wof:lastmodified":1536669713,
+    "wof:name":"Merutky",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33333,
+    49.3,
+    17.33333,
+    49.3
+],
+  "geometry": {"coordinates":[17.33333,49.3],"type":"Point"}
+}

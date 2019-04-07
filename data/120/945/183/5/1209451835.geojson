@@ -1,0 +1,62 @@
+{
+  "id": 1209451835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5146,50.13945,16.5146,50.13945",
+    "geom:latitude":50.13945,
+    "geom:longitude":16.5146,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Bubnov",
+    "gn:country_code":"CZ",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078523,
+    "gn:latitude":50.13945,
+    "gn:longitude":16.5146,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Bubnov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078523
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4e85ab44e04c0b119d395738b35cf962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209451835
+        }
+    ],
+    "wof:id":1209451835,
+    "wof:lastmodified":1536286649,
+    "wof:name":"Bubnov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5146,
+    50.13945,
+    16.5146,
+    50.13945
+],
+  "geometry": {"coordinates":[16.5146,50.13945],"type":"Point"}
+}

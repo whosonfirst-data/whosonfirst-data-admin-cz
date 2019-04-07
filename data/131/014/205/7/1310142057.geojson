@@ -1,0 +1,66 @@
+{
+  "id": 1310142057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83226,49.51162,12.83226,49.51162",
+    "geom:latitude":49.51162,
+    "geom:longitude":12.83226,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Zamelic",
+    "gn:country_code":"CZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061881,
+    "gn:latitude":49.51162,
+    "gn:longitude":12.83226,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Z\u00e1m\u011bl\u00ed\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061881
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f3b8e90916bb28d26c0d82ed888fb60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310142057,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1310142057,
+    "wof:lastmodified":1536944255,
+    "wof:name":"Zamelic",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83226,
+    49.51162,
+    12.83226,
+    49.51162
+],
+  "geometry": {"coordinates":[12.83226,49.51162],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1292940453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20161,49.41437,13.20161,49.41437",
+    "geom:latitude":49.41437,
+    "geom:longitude":13.20161,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Veckovice",
+    "gn:country_code":"CZ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063342,
+    "gn:latitude":49.41437,
+    "gn:longitude":13.20161,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"V\u011bckovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063342
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"39c3ee6333db739f7290844777710843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292940453,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1292940453,
+    "wof:lastmodified":1537075618,
+    "wof:name":"Veckovice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20161,
+    49.41437,
+    13.20161,
+    49.41437
+],
+  "geometry": {"coordinates":[13.20161,49.41437],"type":"Point"}
+}

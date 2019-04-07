@@ -1,0 +1,130 @@
+{
+  "id": 85907663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000242,
+    "geom:area_square_m":1925962.743395,
+    "geom:bbox":"14.489206543,49.9641887707,14.5090127579,49.9832102209",
+    "geom:latitude":49.972653,
+    "geom:longitude":14.498013,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.040313,
+    "lbl:longitude":14.439583,
+    "mps:latitude":49.972044,
+    "mps:longitude":14.497822,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cze_x_preferred":[
+        "Praha 4"
+    ],
+    "name:dan_x_preferred":[
+        "Prag 4"
+    ],
+    "name:deu_x_preferred":[
+        "Prag 4"
+    ],
+    "name:eng_x_preferred":[
+        "Prague 4"
+    ],
+    "name:eng_x_variant":[
+        "Prague 4"
+    ],
+    "name:fra_x_preferred":[
+        "Prague 4"
+    ],
+    "name:ita_x_preferred":[
+        "Praga 4"
+    ],
+    "name:nld_x_preferred":[
+        "Praag 4"
+    ],
+    "name:por_x_preferred":[
+        "Praga 4"
+    ],
+    "name:spa_x_preferred":[
+        "Praga 4"
+    ],
+    "name:swe_x_preferred":[
+        "Prag 4"
+    ],
+    "name:unk_x_variant":[
+        "Praha 4"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3067696,
+    "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
+    "qs:gn_namadm1":"52",
+    "qs:local_max":54254,
+    "qs:local_sum":326892,
+    "qs:localhoods":132,
+    "qs:name":"Praha 4",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_adm2":"Hlavn\u00ed m\u011bsto Praha",
+    "qs:name_en":"Prague 4",
+    "qs:name_lau":"Praha",
+    "qs:name_local":"Praha",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070472,
+    "qs:woe_adm2":12582589,
+    "qs:woe_lau":12607749,
+    "qs:woe_local":796597,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23407539,
+        "qs:id":1329695
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"abf78b9d147a1f145932c4de1c6e97e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "neighbourhood_id":85907663,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":85907663,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1527268819,
+    "wof:name":"Praha 4",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48920654295023,
+    49.96418877074997,
+    14.50901275785742,
+    49.98321022094252
+],
+  "geometry": {"coordinates":[[[14.50901275785742,49.9722324681082],[14.50844533827535,49.97036193642647],[14.5075212390733,49.96863306841995],[14.50627761076203,49.96711770293824],[14.5047622452804,49.96587407462705],[14.50303337727388,49.964949975425],[14.50115744617034,49.96438091794609],[14.49920654295022,49.96418877074997],[14.4972556397301,49.96438091794609],[14.49537970862656,49.964949975425],[14.49365084062003,49.96587407462705],[14.49213547513841,49.96711770293824],[14.49089184682714,49.96863306841995],[14.48996774762509,49.97036193642647],[14.48939869014617,49.9722378675301],[14.48920654295023,49.97418877075013],[14.48939869014617,49.97613967397025],[14.48996774762509,49.97801560507368],[14.49089184682714,49.97974447308032],[14.49213547513841,49.98125983856194],[14.49365084062003,49.98250346687321],[14.49488790161155,49.98316468974905],[14.49489185424602,49.98320482152009],[14.49489349214304,49.98321022094252],[14.50901275785742,49.9722324681082]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310136473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29546,49.70723,15.29546,49.70723",
+    "geom:latitude":49.70723,
+    "geom:longitude":15.29546,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Hradec",
+    "gn:country_code":"CZ",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074977,
+    "gn:latitude":49.70723,
+    "gn:longitude":15.29546,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Hradec",
+    "gn:population":230,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074977,
+        "wk:page":"Hradec_%28Havl%C3%AD%C4%8Dk%C5%AFv_Brod_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b87db27bc882e7938ed09d7c6d9d616b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310136473,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1310136473,
+    "wof:lastmodified":1537504056,
+    "wof:name":"Hradec",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29546,
+    49.70723,
+    15.29546,
+    49.70723
+],
+  "geometry": {"coordinates":[15.29546,49.70723],"type":"Point"}
+}

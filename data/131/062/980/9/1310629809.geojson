@@ -1,0 +1,70 @@
+{
+  "id": 1310629809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86728,49.85632,12.86728,49.85632",
+    "geom:latitude":49.85632,
+    "geom:longitude":12.86728,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Dolni Viska",
+    "gn:country_code":"CZ",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076638,
+    "gn:latitude":49.85632,
+    "gn:longitude":12.86728,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Doln\u00ed V\u00edska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unter D\u00f6rfles",
+        "Doln\u00ed V\u00edska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076638
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6aaf394968aefb70be080721688221bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310629809,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1310629809,
+    "wof:lastmodified":1537619430,
+    "wof:name":"Dolni Viska",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86728,
+    49.85632,
+    12.86728,
+    49.85632
+],
+  "geometry": {"coordinates":[12.86728,49.85632],"type":"Point"}
+}

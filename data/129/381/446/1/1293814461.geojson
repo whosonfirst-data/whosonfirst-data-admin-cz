@@ -1,0 +1,70 @@
+{
+  "id": 1293814461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6889,50.36566,15.6889,50.36566",
+    "geom:latitude":50.36566,
+    "geom:longitude":15.6889,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Chloumek",
+    "gn:country_code":"CZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077804,
+    "gn:latitude":50.36566,
+    "gn:longitude":15.6889,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Chloumek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chlomek",
+        "Chloumek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077804
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c1243ebd951a958f69e10bc4bd4fa38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293814461,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293814461,
+    "wof:lastmodified":1537619444,
+    "wof:name":"Chloumek",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6889,
+    50.36566,
+    15.6889,
+    50.36566
+],
+  "geometry": {"coordinates":[15.6889,50.36566],"type":"Point"}
+}

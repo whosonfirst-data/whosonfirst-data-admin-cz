@@ -1,0 +1,65 @@
+{
+  "id": 1310219963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.5875,49.58573,12.5875,49.58573",
+    "geom:latitude":49.58573,
+    "geom:longitude":12.5875,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zelezna",
+    "gn:country_code":"CZ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076219,
+    "gn:latitude":49.58573,
+    "gn:longitude":12.5875,
+    "gn:modification_date":"2007-10-12",
+    "gn:name":"\u017delezn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076219
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"581f1a9e398670ff21ca39cd18e34d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310219963,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1310219963,
+    "wof:lastmodified":1536830336,
+    "wof:name":"Zelezna",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5875,
+    49.58573,
+    12.5875,
+    49.58573
+],
+  "geometry": {"coordinates":[12.5875,49.58573],"type":"Point"}
+}

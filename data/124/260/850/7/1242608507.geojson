@@ -1,0 +1,66 @@
+{
+  "id": 1242608507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3402,49.5331,14.3402,49.5331",
+    "geom:latitude":49.5331,
+    "geom:longitude":14.3402,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Masov",
+    "gn:country_code":"CZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070941,
+    "gn:latitude":49.5331,
+    "gn:longitude":14.3402,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Ma\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070941
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d7122e7b67d996c2e3ca94b79b6389e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242608507,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1242608507,
+    "wof:lastmodified":1537018419,
+    "wof:name":"Masov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3402,
+    49.5331,
+    14.3402,
+    49.5331
+],
+  "geometry": {"coordinates":[14.3402,49.5331],"type":"Point"}
+}

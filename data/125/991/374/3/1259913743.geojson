@@ -1,0 +1,70 @@
+{
+  "id": 1259913743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53333,48.96667,14.53333,48.96667",
+    "geom:latitude":48.96667,
+    "geom:longitude":14.53333,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Pohurka",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067931,
+    "gn:latitude":48.96667,
+    "gn:longitude":14.53333,
+    "gn:modification_date":"2014-05-13",
+    "gn:name":"Poh\u016frka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bucharten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067931
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a3ec22d5181194a9fb14a56440e7587f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259913743,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259913743,
+    "wof:lastmodified":1537619323,
+    "wof:name":"Pohurka",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53333,
+    48.96667,
+    14.53333,
+    48.96667
+],
+  "geometry": {"coordinates":[14.53333,48.96667],"type":"Point"}
+}

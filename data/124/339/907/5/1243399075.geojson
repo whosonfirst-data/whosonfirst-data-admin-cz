@@ -1,0 +1,66 @@
+{
+  "id": 1243399075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19929,49.10261,14.19929,49.10261",
+    "geom:latitude":49.10261,
+    "geom:longitude":14.19929,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Nestanice",
+    "gn:country_code":"CZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069826,
+    "gn:latitude":49.10261,
+    "gn:longitude":14.19929,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Nestanice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069826
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"727fae305bd21229f4ab75a6ae96cb35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243399075,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243399075,
+    "wof:lastmodified":1536872903,
+    "wof:name":"Nestanice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19929,
+    49.10261,
+    14.19929,
+    49.10261
+],
+  "geometry": {"coordinates":[14.19929,49.10261],"type":"Point"}
+}

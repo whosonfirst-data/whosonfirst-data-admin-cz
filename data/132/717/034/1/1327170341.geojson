@@ -1,0 +1,72 @@
+{
+  "id": 1327170341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64923,49.47975,15.64923,49.47975",
+    "geom:latitude":49.47975,
+    "geom:longitude":15.64923,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Strelecka",
+    "gn:country_code":"CZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064964,
+    "gn:latitude":49.47975,
+    "gn:longitude":15.64923,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"St\u0159eleck\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u011bmeck\u00fd \u0160iendorf",
+        "Deutsch Sch\u00fctzendorf",
+        "St\u0159eleck\u00e1",
+        "N\u011bmeck\u00fd \u0160icendorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064964
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"444dd49faa6acbf850b983e806db86ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327170341,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1327170341,
+    "wof:lastmodified":1537619290,
+    "wof:name":"Strelecka",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64923,
+    49.47975,
+    15.64923,
+    49.47975
+],
+  "geometry": {"coordinates":[15.64923,49.47975],"type":"Point"}
+}

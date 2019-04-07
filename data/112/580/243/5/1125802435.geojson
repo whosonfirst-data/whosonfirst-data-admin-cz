@@ -1,0 +1,132 @@
+{
+  "id": 1125802435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16845,49.32504,16.16845,49.32504",
+    "geom:latitude":49.32504,
+    "geom:longitude":16.16845,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":784,
+    "gn:population":784,
+    "iso:country":"CZ",
+    "lbl:latitude":49.32504,
+    "lbl:longitude":16.16845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:dut_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:eng_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:fre_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:ger_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:hun_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:ita_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:may_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0633\u0648\u0648\u0627 \u0628\u06cc\u062a\u06cc\u0634\u06a9\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:rup_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:slo_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:swe_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "name:unk_x_variant":[
+        "Ossowa Bittischka"
+    ],
+    "name:vie_x_preferred":[
+        "Osov\u00e1 B\u00edt\u00fd\u0161ka"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3068813,
+    "qs_pg:gn_pop":784,
+    "qs_pg:name":"Osov\u00e1 B\u00edt\u00fd\u0161ka",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":190405,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795597,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068813,
+        "gp:id":795597,
+        "qs_pg:id":190405,
+        "wd:id":"Q2034527"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497291325,
+    "wof:geomhash":"caf46aa83c181dfb9222631c7a0fcdc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125802435,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125802435,
+    "wof:lastmodified":1513945492,
+    "wof:name":"Osov\u00e1 B\u00edt\u00fd\u0161ka",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":784,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16845,
+    49.32504,
+    16.16845,
+    49.32504
+],
+  "geometry": {"coordinates":[16.16845,49.32504],"type":"Point"}
+}

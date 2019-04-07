@@ -1,0 +1,76 @@
+{
+  "id": 1125783937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42886,50.28951,15.42886,50.28951",
+    "geom:latitude":50.28951,
+    "geom:longitude":15.42886,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":457,
+    "gn:population":457,
+    "iso:country":"CZ",
+    "lbl:latitude":50.28951,
+    "lbl:longitude":15.42886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062877,
+    "qs_pg:gn_pop":457,
+    "qs_pg:name":"Vinary",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":580765,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062877,
+        "qs_pg:id":580765
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290599,
+    "wof:geomhash":"b62b48f2784611ca7643c3b293abc73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125783937,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125783937,
+    "wof:lastmodified":1509391796,
+    "wof:name":"Vinary",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":457,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42886,
+    50.28951,
+    15.42886,
+    50.28951
+],
+  "geometry": {"coordinates":[15.42886,50.28951],"type":"Point"}
+}

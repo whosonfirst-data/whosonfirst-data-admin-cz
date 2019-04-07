@@ -1,0 +1,158 @@
+{
+  "id": 1125773445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9859,50.06601,15.9859,50.06601",
+    "geom:latitude":50.06601,
+    "geom:longitude":15.9859,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6219,
+    "gn:population":6219,
+    "iso:country":"CZ",
+    "lbl:latitude":50.06601,
+    "lbl:longitude":15.9859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u970d\u5229\u91c7"
+    ],
+    "name:cze_x_preferred":[
+        "Holice"
+    ],
+    "name:dut_x_preferred":[
+        "Holice"
+    ],
+    "name:eng_x_preferred":[
+        "Holice"
+    ],
+    "name:epo_x_preferred":[
+        "Holice"
+    ],
+    "name:fre_x_preferred":[
+        "Holice"
+    ],
+    "name:ger_x_preferred":[
+        "Holice v \u010cech\u00e1ch"
+    ],
+    "name:hun_x_preferred":[
+        "Holice"
+    ],
+    "name:ita_x_preferred":[
+        "Holice"
+    ],
+    "name:lav_x_preferred":[
+        "Holice"
+    ],
+    "name:may_x_preferred":[
+        "Holice"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0648\u0644\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Holice"
+    ],
+    "name:por_x_preferred":[
+        "Holice"
+    ],
+    "name:rup_x_preferred":[
+        "Holice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Holice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Holice"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u043e\u043b\u0438\u0442\u0441\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Holitz"
+    ],
+    "name:vie_x_preferred":[
+        "Holice"
+    ],
+    "name:wel_x_preferred":[
+        "Holice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075599,
+    "qs_pg:gn_pop":6219,
+    "qs_pg:name":"Zaholice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":446858,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":29396651,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075599,
+        "gp:id":29396651,
+        "qs_pg:id":446858,
+        "wd:id":"Q1624693"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290154,
+    "wof:geomhash":"db1d0edceefcf0539a0149089e3a8acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125773445,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125773445,
+    "wof:lastmodified":1553816525,
+    "wof:name":"Zaholice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":6219,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9859,
+    50.06601,
+    15.9859,
+    50.06601
+],
+  "geometry": {"coordinates":[15.9859,50.06601],"type":"Point"}
+}

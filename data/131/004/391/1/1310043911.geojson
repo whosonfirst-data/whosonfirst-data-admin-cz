@@ -1,0 +1,70 @@
+{
+  "id": 1310043911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06667,50.33333,17.06667,50.33333",
+    "geom:latitude":50.33333,
+    "geom:longitude":17.06667,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Sedmlanu",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066258,
+    "gn:latitude":50.33333,
+    "gn:longitude":17.06667,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Sedml\u00e1n\u016f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siebenhuben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066258
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3d6f215b28a5acb08773d72b9bd1046c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310043911,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1310043911,
+    "wof:lastmodified":1537619305,
+    "wof:name":"Sedmlanu",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06667,
+    50.33333,
+    17.06667,
+    50.33333
+],
+  "geometry": {"coordinates":[17.06667,50.33333],"type":"Point"}
+}

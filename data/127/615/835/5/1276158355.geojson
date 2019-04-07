@@ -1,0 +1,66 @@
+{
+  "id": 1276158355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96644,49.37723,12.96644,49.37723",
+    "geom:latitude":49.37723,
+    "geom:longitude":12.96644,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Stitovky",
+    "gn:country_code":"CZ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065119,
+    "gn:latitude":49.37723,
+    "gn:longitude":12.96644,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"\u0160t\u00edtovky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065119
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7d1f46bf399990028731c0ecec506264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276158355,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1276158355,
+    "wof:lastmodified":1537012535,
+    "wof:name":"Stitovky",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96644,
+    49.37723,
+    12.96644,
+    49.37723
+],
+  "geometry": {"coordinates":[12.96644,49.37723],"type":"Point"}
+}

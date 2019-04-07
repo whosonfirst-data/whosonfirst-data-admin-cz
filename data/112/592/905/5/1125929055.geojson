@@ -1,0 +1,141 @@
+{
+  "id": 1125929055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42268,49.4437,15.42268,49.4437",
+    "geom:latitude":49.4437,
+    "geom:longitude":15.42268,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":162,
+    "gn:population":162,
+    "iso:country":"CZ",
+    "lbl:latitude":49.4437,
+    "lbl:longitude":15.42268,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0417\u0431\u0438\u043b\u0438\u0434\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:dut_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:eng_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:fre_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:ger_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:hun_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:ita_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:may_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:nan_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0628\u06cc\u0644\u06cc\u062f\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:por_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:rup_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:slo_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0431\u0438\u043b\u0438\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Zbilidy"
+    ],
+    "name:vie_x_preferred":[
+        "Zbilidy"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061782,
+    "qs_pg:gn_pop":162,
+    "qs_pg:name":"Zbilidy",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1268937,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801818,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061782,
+        "gp:id":801818,
+        "qs_pg:id":1268937,
+        "wd:id":"Q168220"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296742,
+    "wof:geomhash":"43e7c12aa7bbaf11fd96ac10057431f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125929055,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125929055,
+    "wof:lastmodified":1513945948,
+    "wof:name":"Zbilidy",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42268,
+    49.4437,
+    15.42268,
+    49.4437
+],
+  "geometry": {"coordinates":[15.42268,49.4437],"type":"Point"}
+}

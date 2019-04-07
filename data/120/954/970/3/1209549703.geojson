@@ -1,0 +1,66 @@
+{
+  "id": 1209549703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.59778,50.3202,12.59778,50.3202",
+    "geom:latitude":50.3202,
+    "geom:longitude":12.59778,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Obora",
+    "gn:country_code":"CZ",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069195,
+    "gn:latitude":50.3202,
+    "gn:longitude":12.59778,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Obora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hochgarth",
+        "Obora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069195
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c07aeb4b687fe4e1603793b765019cfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209549703
+        }
+    ],
+    "wof:id":1209549703,
+    "wof:lastmodified":1537619336,
+    "wof:name":"Obora",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59778,
+    50.3202,
+    12.59778,
+    50.3202
+],
+  "geometry": {"coordinates":[12.59778,50.3202],"type":"Point"}
+}

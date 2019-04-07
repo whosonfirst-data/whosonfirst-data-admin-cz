@@ -1,0 +1,147 @@
+{
+  "id": 101840909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000286,
+    "geom:area_square_m":2287632.603067,
+    "geom:bbox":"17.9792249366,49.6146340057,17.9965376712,49.6517140165",
+    "geom:latitude":49.633948,
+    "geom:longitude":17.989937,
+    "gn:population":1811,
+    "iso:country":"CZ",
+    "lbl:latitude":49.636422,
+    "lbl:longitude":17.988625,
+    "mps:latitude":49.636422,
+    "mps:longitude":17.988625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:ces_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:cze_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:deu_x_variant":[
+        "Kunewald"
+    ],
+    "name:dut_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:ger_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:hun_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:may_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:msa_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:pol_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:slk_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:slo_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u045a\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "name:unk_x_variant":[
+        "Kunvald"
+    ],
+    "name:vie_x_preferred":[
+        "Kun\u00edn"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Kun\u00edn",
+    "qs:la_lc":"*CZ0804568546",
+    "qs:level":"locality",
+    "qs:loc":"Kun\u00edn",
+    "qs:loc_alt":"Kunin",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072503,
+        "gp:id":792265,
+        "qs:id":341646,
+        "qs_pg:id":341646,
+        "wd:id":"Q1792751"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8c15886ae306adb72b914923508539dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101840909,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101840909,
+    "wof:lastmodified":1527715002,
+    "wof:name":"Kun\u00edn",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1811,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97922493659695,
+    49.61463400568789,
+    17.99653767123357,
+    49.65171401648536
+],
+  "geometry": {"coordinates":[[[17.99472110924671,49.61834956909115],[17.98675558569357,49.61463400568789],[17.98575885311658,49.61470466808402],[17.98590676604613,49.61559782070321],[17.98452992037295,49.61569539693068],[17.9846778151595,49.61658855107811],[17.98605468582036,49.61649097277962],[17.98620261244008,49.61738412431242],[17.98895638853134,49.61718891331611],[17.98954836340386,49.62076149743922],[17.98817137792867,49.62085911960293],[17.98876336241642,49.62443170332631],[17.98738627188538,49.62452931702654],[17.98797826597985,49.62810190035441],[17.9866010703729,49.62819950558992],[17.9870450628656,49.63087894360592],[17.98429050640107,49.63107411624219],[17.98473441050442,49.63375356181166],[17.97922493659695,49.63414373085322],[17.9793728182832,49.63503688657897],[17.98350500635883,49.6347442787212],[17.98394891762979,49.63742372400213],[17.98257145163393,49.63752128293021],[17.98301534951344,49.64020072955122],[17.98439289056216,49.64010316440573],[17.98454089524409,49.64099631012328],[17.98591845623719,49.64089872614363],[17.98710294063858,49.64804385579549],[17.98572517944899,49.64814145636262],[17.98631748609751,49.65171401648536],[17.98907320364646,49.65151878199401],[17.98892506663196,49.6506256469238],[17.99168071379097,49.65043034952117],[17.99153253357474,49.64953721805961],[17.99566589110105,49.64924415244764],[17.99536940108436,49.64745790035278],[17.993991670382,49.64755560150252],[17.99265803024878,49.63951742155507],[17.99403553575468,49.63941973908459],[17.9931466009445,49.63406094049469],[17.99452395129134,49.63396325371423],[17.99437579448573,49.63307012079122],[17.9957531147441,49.63297241932798],[17.99516045607726,49.62939989050636],[17.99653767123357,49.62930218058585],[17.9963894987099,49.6284090490978],[17.99501230855617,49.62850675694335],[17.99456790713475,49.62582735299503],[17.99594502228695,49.62572965137366],[17.99472110924671,49.61834956909115]]],"type":"Polygon"}
+}

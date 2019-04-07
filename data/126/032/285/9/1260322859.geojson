@@ -1,0 +1,71 @@
+{
+  "id": 1260322859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18342,50.75549,14.18342,50.75549",
+    "geom:latitude":50.75549,
+    "geom:longitude":14.18342,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Chrochvice",
+    "gn:country_code":"CZ",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077551,
+    "gn:latitude":50.75549,
+    "gn:longitude":14.18342,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Chrochvice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosawitz",
+        "Krochwitz",
+        "Chrochvice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077551
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"56fcd0960f574746f29cb96d44d20761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260322859,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1260322859,
+    "wof:lastmodified":1537619443,
+    "wof:name":"Chrochvice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18342,
+    50.75549,
+    14.18342,
+    50.75549
+],
+  "geometry": {"coordinates":[14.18342,50.75549],"type":"Point"}
+}

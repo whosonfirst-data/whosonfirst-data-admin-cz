@@ -1,0 +1,141 @@
+{
+  "id": 1126054005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83586,49.94366,16.83586,49.94366",
+    "geom:latitude":49.94366,
+    "geom:longitude":16.83586,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":219,
+    "gn:population":219,
+    "iso:country":"CZ",
+    "lbl:latitude":49.94366,
+    "lbl:longitude":16.83586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Zborov"
+    ],
+    "name:dut_x_preferred":[
+        "Zborov"
+    ],
+    "name:eng_x_preferred":[
+        "Zborov"
+    ],
+    "name:epo_x_preferred":[
+        "Zborov"
+    ],
+    "name:fre_x_preferred":[
+        "Zborov"
+    ],
+    "name:ger_x_preferred":[
+        "Zborov na Morav\u011b"
+    ],
+    "name:hun_x_preferred":[
+        "Zborov"
+    ],
+    "name:ita_x_preferred":[
+        "Zborov"
+    ],
+    "name:may_x_preferred":[
+        "Zborov"
+    ],
+    "name:nan_x_preferred":[
+        "Zborov"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0628\u0648\u0631\u0648\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Zborov"
+    ],
+    "name:por_x_preferred":[
+        "Zborov"
+    ],
+    "name:rup_x_preferred":[
+        "Zborov"
+    ],
+    "name:slo_x_preferred":[
+        "Zborov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0431\u043e\u0440\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Zborov"
+    ],
+    "name:vie_x_preferred":[
+        "Zborov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061769,
+    "qs_pg:gn_pop":219,
+    "qs_pg:name":"Zborov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":401517,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801830,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061769,
+        "gp:id":801830,
+        "qs_pg:id":401517,
+        "wd:id":"Q168253"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302969,
+    "wof:geomhash":"809a1b98c0cffd17ff0f53709d667589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126054005,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1126054005,
+    "wof:lastmodified":1553816729,
+    "wof:name":"Zborov",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83586,
+    49.94366,
+    16.83586,
+    49.94366
+],
+  "geometry": {"coordinates":[16.83586,49.94366],"type":"Point"}
+}

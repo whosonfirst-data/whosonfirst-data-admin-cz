@@ -1,0 +1,62 @@
+{
+  "id": 1209546805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00965,50.42826,16.00965,50.42826",
+    "geom:latitude":50.42826,
+    "geom:longitude":16.00965,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Hostinka",
+    "gn:country_code":"CZ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075059,
+    "gn:latitude":50.42826,
+    "gn:longitude":16.00965,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Hostinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075059
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"013aa17bb91453be2fcb5c6236f6c57e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209546805
+        }
+    ],
+    "wof:id":1209546805,
+    "wof:lastmodified":1536283819,
+    "wof:name":"Hostinka",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00965,
+    50.42826,
+    16.00965,
+    50.42826
+],
+  "geometry": {"coordinates":[16.00965,50.42826],"type":"Point"}
+}

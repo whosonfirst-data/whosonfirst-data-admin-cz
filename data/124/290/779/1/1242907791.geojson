@@ -1,0 +1,70 @@
+{
+  "id": 1242907791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24411,48.76359,14.24411,48.76359",
+    "geom:latitude":48.76359,
+    "geom:longitude":14.24411,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Slavkov",
+    "gn:country_code":"CZ",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065835,
+    "gn:latitude":48.76359,
+    "gn:longitude":14.24411,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Slavkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagau",
+        "Slavkov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065835
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a08902d0f4b27caa8dc858baed70748f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242907791,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1242907791,
+    "wof:lastmodified":1537619301,
+    "wof:name":"Slavkov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24411,
+    48.76359,
+    14.24411,
+    48.76359
+],
+  "geometry": {"coordinates":[14.24411,48.76359],"type":"Point"}
+}

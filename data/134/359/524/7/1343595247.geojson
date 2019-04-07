@@ -1,0 +1,66 @@
+{
+  "id": 1343595247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40085,49.71068,15.40085,49.71068",
+    "geom:latitude":49.71068,
+    "geom:longitude":15.40085,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Horni Dluziny",
+    "gn:country_code":"CZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075405,
+    "gn:latitude":49.71068,
+    "gn:longitude":15.40085,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Horn\u00ed Dlu\u017einy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075405
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"496e6ce1a05e60a7c16408ddb275e3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343595247,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1343595247,
+    "wof:lastmodified":1537047216,
+    "wof:name":"Horni Dluziny",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40085,
+    49.71068,
+    15.40085,
+    49.71068
+],
+  "geometry": {"coordinates":[15.40085,49.71068],"type":"Point"}
+}

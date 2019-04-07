@@ -1,0 +1,70 @@
+{
+  "id": 1226073931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26667,48.66667,14.26667,48.66667",
+    "geom:latitude":48.66667,
+    "geom:longitude":14.26667,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Borsov",
+    "gn:country_code":"CZ",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078929,
+    "gn:latitude":48.66667,
+    "gn:longitude":14.26667,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Bor\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giessh\u00fcbel",
+        "Bor\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078929
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"98cfcbb0ca25d9a217ea84a5d239fbd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226073931,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1226073931,
+    "wof:lastmodified":1537619456,
+    "wof:name":"Borsov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26667,
+    48.66667,
+    14.26667,
+    48.66667
+],
+  "geometry": {"coordinates":[14.26667,48.66667],"type":"Point"}
+}

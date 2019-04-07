@@ -1,0 +1,70 @@
+{
+  "id": 1226577669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87993,50.42569,14.87993,50.42569",
+    "geom:latitude":50.42569,
+    "geom:longitude":14.87993,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Dalovice",
+    "gn:country_code":"CZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077290,
+    "gn:latitude":50.42569,
+    "gn:longitude":14.87993,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Dalovice",
+    "gn:population":195,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077290,
+        "wk:page":"Dalovice_%28Mlad%C3%A1_Boleslav_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f910f54b17c168a97c59cd936f3ecd61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226577669,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226577669,
+    "wof:lastmodified":1537504066,
+    "wof:name":"Dalovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":195,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87993,
+    50.42569,
+    14.87993,
+    50.42569
+],
+  "geometry": {"coordinates":[14.87993,50.42569],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1292934829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83025,49.84999,15.83025,49.84999",
+    "geom:latitude":49.84999,
+    "geom:longitude":15.83025,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Oborice",
+    "gn:country_code":"CZ",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069189,
+    "gn:latitude":49.84999,
+    "gn:longitude":15.83025,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Obo\u0159ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069189
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1257fdd205e8358635475858ab767eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292934829,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1292934829,
+    "wof:lastmodified":1537083808,
+    "wof:name":"Oborice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83025,
+    49.84999000000001,
+    15.83025,
+    49.84999000000001
+],
+  "geometry": {"coordinates":[15.83025,49.84999000000001],"type":"Point"}
+}

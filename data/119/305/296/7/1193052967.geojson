@@ -1,0 +1,70 @@
+{
+  "id": 1193052967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.655,50.17515,14.655,50.17515",
+    "geom:latitude":50.17515,
+    "geom:longitude":14.655,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0209",
+    "gn:asciiname":"Vrabi",
+    "gn:country_code":"CZ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062552,
+    "gn:latitude":50.17515,
+    "gn:longitude":14.655,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Vr\u00e1b\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wrab",
+        "Vr\u00e1b\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062552
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e6b18182ebab9ef1c9d3bc64f1330fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193052967,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1193052967,
+    "wof:lastmodified":1537619265,
+    "wof:name":"Vrabi",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.655,
+    50.17515,
+    14.655,
+    50.17515
+],
+  "geometry": {"coordinates":[14.655,50.17515],"type":"Point"}
+}

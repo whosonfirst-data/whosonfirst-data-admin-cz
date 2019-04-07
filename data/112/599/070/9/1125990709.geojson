@@ -1,0 +1,132 @@
+{
+  "id": 1125990709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34819,49.90631,15.34819,49.90631",
+    "geom:latitude":49.90631,
+    "geom:longitude":15.34819,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":325,
+    "gn:population":325,
+    "iso:country":"CZ",
+    "lbl:latitude":49.90631,
+    "lbl:longitude":15.34819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:dut_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:eng_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:fre_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:hun_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:ita_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:may_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u062a\u0634\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:por_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:slo_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0447\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "name:unk_x_variant":[
+        "Mo\u010dowitz"
+    ],
+    "name:vie_x_preferred":[
+        "Mo\u010dovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070434,
+    "qs_pg:gn_pop":325,
+    "qs_pg:name":"Mo\u010dovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1157819,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794135,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070434,
+        "gp:id":794135,
+        "qs_pg:id":1157819,
+        "wd:id":"Q2561336"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299042,
+    "wof:geomhash":"ea0164f440c85c6d765103e53637adf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125990709,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125990709,
+    "wof:lastmodified":1513945395,
+    "wof:name":"Mo\u010dovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34819,
+    49.90631,
+    15.34819,
+    49.90631
+],
+  "geometry": {"coordinates":[15.34819,49.90631],"type":"Point"}
+}

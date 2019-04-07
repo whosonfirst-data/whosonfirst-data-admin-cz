@@ -1,0 +1,115 @@
+{
+  "id": 101841105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1136509.617705,
+    "geom:bbox":"14.133842048,50.6537583032,14.1525164231,50.6718571833",
+    "geom:latitude":50.665046,
+    "geom:longitude":14.14262,
+    "gn:population":1957,
+    "iso:country":"CZ",
+    "lbl:latitude":50.666609,
+    "lbl:longitude":14.141205,
+    "mps:latitude":50.666609,
+    "mps:longitude":14.141205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Velk\u00e9 B\u0159ezno"
+    ],
+    "name:ces_x_preferred":[
+        "Velk\u00e9 B\u0159ezno"
+    ],
+    "name:deu_x_preferred":[
+        "Velk\u00e9 B\u0159ezno"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06a9 \u0628\u0631\u0632\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Velk\u00e9 B\u0159ezno"
+    ],
+    "name:hun_x_preferred":[
+        "Velk\u00e9 B\u0159ezno"
+    ],
+    "name:ita_x_preferred":[
+        "Velk\u00e9 B\u0159ezno"
+    ],
+    "name:msa_x_preferred":[
+        "Velk\u00e9 B\u0159ezno"
+    ],
+    "name:nld_x_preferred":[
+        "Velk\u00e9 B\u0159ezno"
+    ],
+    "name:pol_x_preferred":[
+        "Velk\u00e9 B\u0159ezno"
+    ],
+    "name:unk_x_variant":[
+        "Gross Priesen"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*\u00dasteck\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Povrly",
+    "qs:la_lc":"*CZ0427568155",
+    "qs:level":"locality",
+    "qs:loc":"Velk\u00e9 B\u0159ezno",
+    "qs:loc_alt":"Velke Brezno",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063215,
+        "gp:id":800541,
+        "qs:id":145236,
+        "qs_pg:id":145236,
+        "wd:id":"Q1476325",
+        "wk:page":"Velk\u00e9 B\u0159ezno"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"30e927c417067e0f5683f316be94840a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101841105,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":101841105,
+    "wof:lastmodified":1527714688,
+    "wof:name":"Velk\u00e9 B\u0159ezno",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":1957,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13384204804004,
+    50.65375830317214,
+    14.15251642310039,
+    50.67185718331905
+],
+  "geometry": {"coordinates":[[[14.14981205476863,50.67000416576116],[14.15251642310039,50.66500517780139],[14.15220395466815,50.66501645217664],[14.15212439394656,50.66411913748135],[14.15071198340002,50.66417008201478],[14.15063245338223,50.66327276591602],[14.14922006693143,50.66332369201723],[14.14914056761461,50.66242637451546],[14.1434911013003,50.66262990132833],[14.14325294900135,50.65993793369586],[14.1418406561217,50.65998876876625],[14.14160261856847,50.65729679523537],[14.14019040360182,50.65734760964227],[14.13987318070497,50.65375830317214],[14.13563684179616,50.65391062913642],[14.13571606114868,50.65480795952828],[14.13712820382949,50.65475720039836],[14.13720745385825,50.6556545293912],[14.1386196206343,50.65560375183622],[14.13925397201677,50.66278236466962],[14.1378415899656,50.66283315116038],[14.13792087396757,50.66373047761067],[14.13650846219122,50.66378124790708],[14.13658772305291,50.66467857519194],[14.13517528155052,50.66472932929275],[14.1352545192691,50.66562665741213],[14.13384204804004,50.66567739531683],[14.13400048095929,50.667472052942],[14.13682552828851,50.66737055535407],[14.1370633675067,50.6700625329787],[14.13565076447696,50.67011329377959],[14.13573002484338,50.67101062020788],[14.13714265479865,50.67095985828951],[14.13722194586779,50.67185718331905],[14.13863459993922,50.67180640296863],[14.13855528194313,50.6709090790564],[14.14420576239309,50.67070578897562],[14.14412634047551,50.66980846925469],[14.1497766681797,50.66960490661739],[14.14981205476863,50.67000416576116]]],"type":"Polygon"}
+}

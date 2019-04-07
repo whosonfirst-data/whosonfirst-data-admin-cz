@@ -1,0 +1,138 @@
+{
+  "id": 1125925611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64068,50.30153,15.64068,50.30153",
+    "geom:latitude":50.30153,
+    "geom:longitude":15.64068,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":310,
+    "gn:population":310,
+    "iso:country":"CZ",
+    "lbl:latitude":50.30153,
+    "lbl:longitude":15.64068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u057f\u0580\u0561\u0579\u0578\u057e"
+    ],
+    "name:cze_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:dut_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:eng_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:fre_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:ger_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:hun_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:ita_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:may_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:pol_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:por_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0447\u043e\u0432"
+    ],
+    "name:slo_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:spa_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0447\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "name:vie_x_preferred":[
+        "Stra\u010dov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065077,
+    "qs_pg:gn_pop":310,
+    "qs_pg:name":"Stra\u010dov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1268275,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798942,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065077,
+        "gp:id":798942,
+        "qs_pg:id":1268275,
+        "wd:id":"Q2299312"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296629,
+    "wof:geomhash":"49522429a65c2df21441abf7ea844b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125925611,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125925611,
+    "wof:lastmodified":1513945732,
+    "wof:name":"Stra\u010dov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":310,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64068,
+    50.30153,
+    15.64068,
+    50.30153
+],
+  "geometry": {"coordinates":[15.64068,50.30153],"type":"Point"}
+}

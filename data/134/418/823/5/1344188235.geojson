@@ -1,0 +1,70 @@
+{
+  "id": 1344188235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60354,49.44272,15.60354,49.44272",
+    "geom:latitude":49.44272,
+    "geom:longitude":15.60354,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Stary Pavov",
+    "gn:country_code":"CZ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065253,
+    "gn:latitude":49.44272,
+    "gn:longitude":15.60354,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Star\u00fd P\u00e1vov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt Pfauendorf",
+        "Star\u00fd P\u00e1vov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065253
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7201d7709fb0f0c4303348fddd63f2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344188235,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1344188235,
+    "wof:lastmodified":1537619293,
+    "wof:name":"Stary Pavov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60354,
+    49.44272,
+    15.60354,
+    49.44272
+],
+  "geometry": {"coordinates":[15.60354,49.44272],"type":"Point"}
+}

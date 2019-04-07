@@ -1,0 +1,70 @@
+{
+  "id": 1242613667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.90387,49.47922,12.90387,49.47922",
+    "geom:latitude":49.47922,
+    "geom:longitude":12.90387,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Bozdis",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078883,
+    "gn:latitude":49.47922,
+    "gn:longitude":12.90387,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Bozd\u00ed\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wostirsehen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078883
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e6e875792b211cd2c87891050ac3820d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242613667,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1242613667,
+    "wof:lastmodified":1537619455,
+    "wof:name":"Bozdis",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.90387,
+    49.47922,
+    12.90387,
+    49.47922
+],
+  "geometry": {"coordinates":[12.90387,49.47922],"type":"Point"}
+}

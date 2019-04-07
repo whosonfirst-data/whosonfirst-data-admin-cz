@@ -1,0 +1,139 @@
+{
+  "id": 1125772375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47031,50.47293,15.47031,50.47293",
+    "geom:latitude":50.47293,
+    "geom:longitude":15.47031,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":339,
+    "gn:population":339,
+    "iso:country":"CZ",
+    "lbl:latitude":50.47293,
+    "lbl:longitude":15.47031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:dut_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:eng_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:fre_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:ita_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:may_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0628\u06cc\u0633\u0644\u0627\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:por_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:slo_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0431\u0438\u0441\u043b\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "name:unk_x_variant":[
+        "Auslauf"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u06cc\u0633\u0644\u0627\u0648\u0627\u0626\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "\u00dabislavice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3063782,
+    "qs_pg:gn_pop":339,
+    "qs_pg:name":"\u00dabislavice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos":42,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":42,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1159077,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":800077,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063782,
+        "gp:id":800077,
+        "qs_pg:id":1159077,
+        "wd:id":"Q2700529"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497290113,
+    "wof:geomhash":"ba9057d3689c6c543d51c259930aaaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125772375,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125772375,
+    "wof:lastmodified":1513945988,
+    "wof:name":"\u00dabislavice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":339,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47031,
+    50.47293,
+    15.47031,
+    50.47293
+],
+  "geometry": {"coordinates":[15.47031,50.47293],"type":"Point"}
+}

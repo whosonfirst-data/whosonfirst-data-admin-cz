@@ -1,0 +1,70 @@
+{
+  "id": 1260322741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.81667,50.43333,12.81667,50.43333",
+    "geom:latitude":50.43333,
+    "geom:longitude":12.81667,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Rozhrani",
+    "gn:country_code":"CZ",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066672,
+    "gn:latitude":50.43333,
+    "gn:longitude":12.81667,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Rozhran\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halbmeil",
+        "Rozhran\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066672
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6e270d119a384f298b27d9a4a4704f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260322741,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1260322741,
+    "wof:lastmodified":1537619311,
+    "wof:name":"Rozhrani",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.81667,
+    50.43333,
+    12.81667,
+    50.43333
+],
+  "geometry": {"coordinates":[12.81667,50.43333],"type":"Point"}
+}

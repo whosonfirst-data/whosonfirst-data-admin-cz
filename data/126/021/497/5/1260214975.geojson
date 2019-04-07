@@ -1,0 +1,66 @@
+{
+  "id": 1260214975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40391,49.6825,14.40391,49.6825",
+    "geom:latitude":49.6825,
+    "geom:longitude":14.40391,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Knovicky",
+    "gn:country_code":"CZ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073500,
+    "gn:latitude":49.6825,
+    "gn:longitude":14.40391,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"K\u0148ovi\u010dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073500
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"be753e4b8809eabef2e491f3c41317d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260214975,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1260214975,
+    "wof:lastmodified":1536804845,
+    "wof:name":"Knovicky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40391,
+    49.6825,
+    14.40391,
+    49.6825
+],
+  "geometry": {"coordinates":[14.40391,49.6825],"type":"Point"}
+}

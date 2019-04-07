@@ -1,0 +1,66 @@
+{
+  "id": 1310334317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25063,50.10184,16.25063,50.10184",
+    "geom:latitude":50.10184,
+    "geom:longitude":16.25063,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Prikazy",
+    "gn:country_code":"CZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067513,
+    "gn:latitude":50.10184,
+    "gn:longitude":16.25063,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"P\u0159\u00edkazy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067513
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b30415461be38bb9c064ef6612a279fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310334317,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1310334317,
+    "wof:lastmodified":1536666559,
+    "wof:name":"Prikazy",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25062999999999,
+    50.10184,
+    16.25062999999999,
+    50.10184
+],
+  "geometry": {"coordinates":[16.25062999999999,50.10184],"type":"Point"}
+}

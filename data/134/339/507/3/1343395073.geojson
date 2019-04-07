@@ -1,0 +1,70 @@
+{
+  "id": 1343395073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97649,49.81858,14.97649,49.81858",
+    "geom:latitude":49.81858,
+    "geom:longitude":14.97649,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Zalibena",
+    "gn:country_code":"CZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061925,
+    "gn:latitude":49.81858,
+    "gn:longitude":14.97649,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Zal\u00edben\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zal\u00edben\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061925,
+        "wk:page":"Zal%C3%ADben%C3%A1"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"522e50c3fdcedf07582bfdc4a7f44794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343395073,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1343395073,
+    "wof:lastmodified":1537619258,
+    "wof:name":"Zalibena",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97649,
+    49.81858,
+    14.97649,
+    49.81858
+],
+  "geometry": {"coordinates":[14.97649,49.81858],"type":"Point"}
+}

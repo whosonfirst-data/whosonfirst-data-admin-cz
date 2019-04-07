@@ -1,0 +1,66 @@
+{
+  "id": 1243007665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92901,50.21505,14.92901,50.21505",
+    "geom:latitude":50.21505,
+    "geom:longitude":14.92901,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0208",
+    "gn:asciiname":"Vapensko",
+    "gn:country_code":"CZ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063382,
+    "gn:latitude":50.21505,
+    "gn:longitude":14.92901,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"V\u00e1pensko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063382
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cd8578562968797eeeac5f4225746513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243007665,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1243007665,
+    "wof:lastmodified":1536941741,
+    "wof:name":"Vapensko",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92901,
+    50.21505,
+    14.92901,
+    50.21505
+],
+  "geometry": {"coordinates":[14.92901,50.21505],"type":"Point"}
+}

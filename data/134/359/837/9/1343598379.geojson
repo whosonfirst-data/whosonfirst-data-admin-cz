@@ -1,0 +1,70 @@
+{
+  "id": 1343598379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57769,48.74723,14.57769,48.74723",
+    "geom:latitude":48.74723,
+    "geom:longitude":14.57769,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Velke Skaliny",
+    "gn:country_code":"CZ",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063185,
+    "gn:latitude":48.74723,
+    "gn:longitude":14.57769,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Velk\u00e9 Skaliny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gross Gallein",
+        "Velk\u00e9 Skaliny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063185
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"96a7e6d04dc1341a78f04a4e3400aebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343598379,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343598379,
+    "wof:lastmodified":1537619272,
+    "wof:name":"Velke Skaliny",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57769,
+    48.74723,
+    14.57769,
+    48.74723
+],
+  "geometry": {"coordinates":[14.57769,48.74723],"type":"Point"}
+}

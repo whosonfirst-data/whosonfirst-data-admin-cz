@@ -1,0 +1,66 @@
+{
+  "id": 1343490767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09228,49.45029,15.09228,49.45029",
+    "geom:latitude":49.45029,
+    "geom:longitude":15.09228,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Litohosl'",
+    "gn:country_code":"CZ",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071681,
+    "gn:latitude":49.45029,
+    "gn:longitude":15.09228,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Litoho\u0161\u013e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071681
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5f7e8b25b459934e948497d8f70d8859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343490767,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1343490767,
+    "wof:lastmodified":1536702801,
+    "wof:name":"Litohosl'",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09228,
+    49.45029,
+    15.09228,
+    49.45029
+],
+  "geometry": {"coordinates":[15.09228,49.45029],"type":"Point"}
+}

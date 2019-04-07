@@ -1,0 +1,77 @@
+{
+  "id": 101875387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.229604,49.770844,18.229604,49.770844",
+    "geom:latitude":49.770844,
+    "geom:longitude":18.229604,
+    "iso:country":"CZ",
+    "lbl:latitude":49.770844,
+    "lbl:longitude":18.229604,
+    "mps:latitude":49.770844,
+    "mps:longitude":18.229604,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Altbiela"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Star\u00e1 B\u011bl\u00e1",
+    "qs:loc_alt":"Stara Bela",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065422,
+        "gp:id":798617,
+        "qs:id":288715
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6e621151cca2f569e45d92c6461c81d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101875387,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101875387,
+    "wof:lastmodified":1544751933,
+    "wof:name":"Star\u00e1 B\u011bl\u00e1",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.229604,
+    49.770844,
+    18.229604,
+    49.770844
+],
+  "geometry": {"coordinates":[18.229604,49.770844],"type":"Point"}
+}

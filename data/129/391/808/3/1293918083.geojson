@@ -1,0 +1,66 @@
+{
+  "id": 1293918083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97174,49.62605,14.97174,49.62605",
+    "geom:latitude":49.62605,
+    "geom:longitude":14.97174,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Dobrikovice",
+    "gn:country_code":"CZ",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077029,
+    "gn:latitude":49.62605,
+    "gn:longitude":14.97174,
+    "gn:modification_date":"2017-02-13",
+    "gn:name":"Dob\u0159\u00edkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077029
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"33c7d38c8902e3b1573fd77969318e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293918083,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293918083,
+    "wof:lastmodified":1536663512,
+    "wof:name":"Dobrikovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97174,
+    49.62605,
+    14.97174,
+    49.62605
+],
+  "geometry": {"coordinates":[14.97174,49.62605],"type":"Point"}
+}

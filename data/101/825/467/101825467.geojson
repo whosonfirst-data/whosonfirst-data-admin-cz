@@ -1,0 +1,153 @@
+{
+  "id": 101825467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:area_square_m":1116324.921901,
+    "geom:bbox":"17.5319474974,49.8257634181,17.5564554408,49.8397862155",
+    "geom:latitude":49.832458,
+    "geom:longitude":17.54467,
+    "gn:population":1518,
+    "iso:country":"CZ",
+    "lbl:latitude":49.833719,
+    "lbl:longitude":17.545877,
+    "mps:latitude":49.833719,
+    "mps:longitude":17.545877,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Dvorce"
+    ],
+    "name:ces_x_preferred":[
+        "Dvorce"
+    ],
+    "name:cze_x_preferred":[
+        "Dvorce"
+    ],
+    "name:deu_x_preferred":[
+        "Dvorce u Brunt\u00e1lu"
+    ],
+    "name:dut_x_preferred":[
+        "Dvorce"
+    ],
+    "name:eng_x_preferred":[
+        "Dvorce"
+    ],
+    "name:epo_x_preferred":[
+        "Dvorce"
+    ],
+    "name:ger_x_preferred":[
+        "Dvorce u Brunt\u00e1lu"
+    ],
+    "name:hun_x_preferred":[
+        "Dvorce"
+    ],
+    "name:ita_x_preferred":[
+        "Dvorce"
+    ],
+    "name:may_x_preferred":[
+        "Dvorce"
+    ],
+    "name:msa_x_preferred":[
+        "Dvorce"
+    ],
+    "name:nld_x_preferred":[
+        "Dvorce"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u0648\u0631\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Dvorce"
+    ],
+    "name:por_x_preferred":[
+        "Dvorce"
+    ],
+    "name:rup_x_preferred":[
+        "Dvorce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0432\u043e\u0440\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Dvorce"
+    ],
+    "name:slv_x_preferred":[
+        "Dvorce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0432\u043e\u0440\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dvorce"
+    ],
+    "name:unk_x_variant":[
+        "Hof"
+    ],
+    "name:vie_x_preferred":[
+        "Dvorce"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Dvorce",
+    "qs:la_lc":"*CZ0801597317",
+    "qs:level":"locality",
+    "qs:loc":"Dvorce",
+    "qs:loc_alt":"Dvorce",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076284,
+        "gp:id":788959,
+        "qs:id":1043077,
+        "qs_pg:id":1043077,
+        "wd:id":"Q1268370",
+        "wk:page":"Dvorce (Brunt\u00e1l District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"bc3943c932f44b6f9a9b333a6d9ce780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825467,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825467,
+    "wof:lastmodified":1553815527,
+    "wof:name":"Dvorce",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1518,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5319474973922,
+    49.8257634180585,
+    17.55645544083006,
+    49.83978621546692
+],
+  "geometry": {"coordinates":[[[17.55314943684624,49.83960150285725],[17.55230415030752,49.83423917469815],[17.55645544083006,49.83396201490007],[17.55617357904833,49.83217458000775],[17.55340615825838,49.83235936216226],[17.55326528788311,49.83146564001106],[17.5491141962749,49.83174268089994],[17.54897340847214,49.83084895232332],[17.54758972689484,49.83094126360123],[17.54744897098158,49.83004753254829],[17.54606530988781,49.83013982499756],[17.54550245307013,49.82656488786637],[17.54411888846784,49.82665715557056],[17.5439782159645,49.8257634180585],[17.53982756905356,49.82604011413252],[17.5401087685965,49.82782760048275],[17.53734154506617,49.82801198814434],[17.53748210397629,49.82890573450732],[17.5319474973922,49.8292743154496],[17.53208796148465,49.83016806918943],[17.53347164574018,49.83007594726797],[17.53389315326456,49.83275719956816],[17.54081188195426,49.83229630756591],[17.5409525242581,49.83319004747551],[17.54233628078788,49.83309781653338],[17.54275832300561,49.83577902733305],[17.53999065302332,49.83596348419104],[17.54013129616209,49.83685722406369],[17.54151515892727,49.83676500209179],[17.54165583396065,49.83765873949051],[17.54995906068996,49.83710504180175],[17.55038158137222,49.83978621546692],[17.55314943684624,49.83960150285725]]],"type":"Polygon"}
+}

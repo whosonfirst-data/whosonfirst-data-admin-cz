@@ -1,0 +1,142 @@
+{
+  "id": 101825763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":897049.965133,
+    "geom:bbox":"14.0383579407,49.8173648284,14.0535196146,49.8323769481",
+    "geom:latitude":49.824986,
+    "geom:longitude":14.046522,
+    "gn:population":1491,
+    "iso:country":"CZ",
+    "lbl:latitude":49.82437,
+    "lbl:longitude":14.04589,
+    "mps:latitude":49.82437,
+    "mps:longitude":14.04589,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u970d\u65af\u6258\u7c73\u91c7"
+    ],
+    "name:cze_x_preferred":[
+        "Hostomice"
+    ],
+    "name:dut_x_preferred":[
+        "Hostomice"
+    ],
+    "name:eng_x_preferred":[
+        "Hostomice"
+    ],
+    "name:ger_x_preferred":[
+        "Hostomice pod Brdy"
+    ],
+    "name:hun_x_preferred":[
+        "Hostomice"
+    ],
+    "name:ita_x_preferred":[
+        "Hostomice"
+    ],
+    "name:may_x_preferred":[
+        "Hostomice"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0648\u0633\u062a\u0648\u0645\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Hostomice"
+    ],
+    "name:por_x_preferred":[
+        "Hostomice"
+    ],
+    "name:rup_x_preferred":[
+        "Hostomice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u043e\u043c\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Hostomice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0441\u0442\u043e\u043c\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hostomice"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u043e\u0441\u0442\u043e\u043c\u0438\u0442\u0441\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Hostomitz"
+    ],
+    "name:vie_x_preferred":[
+        "Hostomice"
+    ],
+    "name:wel_x_preferred":[
+        "Hostomice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Stredocesk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la":"Hostomice",
+    "qs:la_lc":"*CZ0202531201",
+    "qs:level":"locality",
+    "qs:loc":"Hostomice",
+    "qs:loc_alt":"Hostomice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075044,
+        "gp:id":790063,
+        "qs:id":145438,
+        "qs_pg:id":145438,
+        "wd:id":"Q1630641",
+        "wk:page":"Hostomice (Beroun District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2059f91ead5ff99df85e39ac1b23b64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825763,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":101825763,
+    "wof:lastmodified":1553815527,
+    "wof:name":"Hostomice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":1491,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03835794065463,
+    49.81736482838181,
+    14.0535196145978,
+    49.83237694809623
+],
+  "geometry": {"coordinates":[[[14.0535196145978,49.83222818320922],[14.05344395480438,49.8313305636517],[14.05066796368385,49.83142975508423],[14.05036556602226,49.82783926505005],[14.05314135098109,49.82774008213005],[14.05283880370644,49.82414959534071],[14.05145101559799,49.82419919102847],[14.05129981468485,49.82240394352971],[14.04991207548164,49.82245352012376],[14.0497609402147,49.82065826917994],[14.04698555699707,49.82075736721885],[14.04691004617456,49.81985973912697],[14.04552237640132,49.81990926163627],[14.04544689486352,49.81901163215264],[14.04405924823357,49.81906113663513],[14.04398379597757,49.81816350576025],[14.04120854639274,49.81826246170857],[14.04113314917186,49.81736482838181],[14.03835794065463,49.81746371435145],[14.03843328636458,49.81836134979937],[14.03982091768376,49.81831191423618],[14.03989629266999,49.81920954829428],[14.04128394713621,49.81916009470604],[14.0415855853347,49.82275062340278],[14.04019782783041,49.82280008123456],[14.04034861654168,49.82459534573002],[14.04173642557276,49.82454588577622],[14.04196271235872,49.82723877686874],[14.04335059607547,49.82718929676338],[14.04342605782131,49.82808692540823],[14.04481396469265,49.82803742727305],[14.04511595002185,49.83162793431529],[14.0492799641948,49.83147932534644],[14.04935554666804,49.83237694809623],[14.0535196145978,49.83222818320922]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259717609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78857,50.07538,16.78857,50.07538",
+    "geom:latitude":50.07538,
+    "geom:longitude":16.78857,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Dolni Hedec",
+    "gn:country_code":"CZ",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076854,
+    "gn:latitude":50.07538,
+    "gn:longitude":16.78857,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Doln\u00ed Hede\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nieder-Heidisch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076854
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2b1b0e32f5ebf3d7e43ed06e92f46868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259717609,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1259717609,
+    "wof:lastmodified":1537619434,
+    "wof:name":"Dolni Hedec",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78857,
+    50.07538,
+    16.78857,
+    50.07538
+],
+  "geometry": {"coordinates":[16.78857,50.07538],"type":"Point"}
+}

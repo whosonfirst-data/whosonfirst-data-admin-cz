@@ -1,0 +1,66 @@
+{
+  "id": 1327060973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53055,50.47521,14.53055,50.47521",
+    "geom:latitude":50.47521,
+    "geom:longitude":14.53055,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Dolni Vidim",
+    "gn:country_code":"CZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076641,
+    "gn:latitude":50.47521,
+    "gn:longitude":14.53055,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Doln\u00ed Vidim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076641
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8ea3e375d6192b66329ec614c38afcbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327060973,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1327060973,
+    "wof:lastmodified":1536719646,
+    "wof:name":"Dolni Vidim",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53055,
+    50.47521,
+    14.53055,
+    50.47521
+],
+  "geometry": {"coordinates":[14.53055,50.47521],"type":"Point"}
+}

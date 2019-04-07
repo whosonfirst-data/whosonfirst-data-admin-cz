@@ -1,0 +1,66 @@
+{
+  "id": 1209040445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11335,50.76129,15.11335,50.76129",
+    "geom:latitude":50.76129,
+    "geom:longitude":15.11335,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0513",
+    "gn:asciiname":"Novy Harcov",
+    "gn:country_code":"CZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069314,
+    "gn:latitude":50.76129,
+    "gn:longitude":15.11335,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Nov\u00fd Harcov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neu-Harzdorf",
+        "Nov\u00fd Harcov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069314
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4449c15cd0eba3e51605f138fa9c21db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209040445
+        }
+    ],
+    "wof:id":1209040445,
+    "wof:lastmodified":1537619338,
+    "wof:name":"Novy Harcov",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11335,
+    50.76129,
+    15.11335,
+    50.76129
+],
+  "geometry": {"coordinates":[15.11335,50.76129],"type":"Point"}
+}

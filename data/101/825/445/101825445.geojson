@@ -1,0 +1,70 @@
+{
+  "id": 101825445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:bbox":"18.2093016488,49.8420313718,18.220059141,49.8569175205",
+    "geom:latitude":49.849091,
+    "geom:longitude":18.214141,
+    "iso:country":"CZ",
+    "lbl:latitude":49.847322,
+    "lbl:longitude":18.213611,
+    "mps:latitude":49.847322,
+    "mps:longitude":18.213611,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Ostrava",
+    "qs:la_lc":"*CZ0806554821",
+    "qs:level":"locality",
+    "qs:loc":"Ho\u0161\u0165\u00e1lkovice",
+    "qs:loc_alt":"Hostalkovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075090,
+        "gp:id":790019,
+        "qs:id":190123
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8cb1dde289e748c19f70352c9c0249d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825445,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825445,
+    "wof:lastmodified":1466626104,
+    "wof:name":"Ho\u0161\u0165\u00e1lkovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.20930164880207,
+    49.84203137184306,
+    18.22005914095297,
+    49.85691752046051
+],
+  "geometry": {"coordinates":[[[18.21651991602721,49.85661618711219],[18.21560009698584,49.85125991597283],[18.21698324212258,49.85115945073369],[18.21591026748689,49.84491045788468],[18.22005914095297,49.84460900625407],[18.21975248945006,49.84282358768269],[18.21836958739902,49.84292408409692],[18.21821629758227,49.84203137184306],[18.21545052811479,49.84223230988601],[18.21575701390424,49.84401774243236],[18.21022520964459,49.84441943371223],[18.21068468880952,49.8470976041765],[18.20930164880207,49.84719799135149],[18.20976111631535,49.84987616333132],[18.21252734255648,49.84967535927632],[18.21329351676178,49.85413894685712],[18.21052703796465,49.85433977236926],[18.2108334564968,49.85612521216046],[18.21221674905638,49.85602480353026],[18.21236999427254,49.85691752046051],[18.21651991602721,49.85661618711219]]],"type":"Polygon"}
+}

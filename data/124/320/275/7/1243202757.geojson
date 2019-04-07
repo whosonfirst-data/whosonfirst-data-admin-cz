@@ -1,0 +1,66 @@
+{
+  "id": 1243202757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54636,48.85765,14.54636,48.85765",
+    "geom:latitude":48.85765,
+    "geom:longitude":14.54636,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Sedlo",
+    "gn:country_code":"CZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066273,
+    "gn:latitude":48.85765,
+    "gn:longitude":14.54636,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Sedlo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066273
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e48254fa390e86c1c52e2ff577bc6b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243202757,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243202757,
+    "wof:lastmodified":1536660093,
+    "wof:name":"Sedlo",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54636,
+    48.85765,
+    14.54636,
+    48.85765
+],
+  "geometry": {"coordinates":[14.54636,48.85765],"type":"Point"}
+}

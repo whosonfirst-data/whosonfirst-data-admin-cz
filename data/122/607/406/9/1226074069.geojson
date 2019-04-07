@@ -1,0 +1,66 @@
+{
+  "id": 1226074069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56641,50.18453,13.56641,50.18453",
+    "geom:latitude":50.18453,
+    "geom:longitude":13.56641,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Vlkov",
+    "gn:country_code":"CZ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062675,
+    "gn:latitude":50.18453,
+    "gn:longitude":13.56641,
+    "gn:modification_date":"2017-02-13",
+    "gn:name":"Vlkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062675
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cf3b2dfb10cc85006b35cc1f966eecb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226074069,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1226074069,
+    "wof:lastmodified":1536684444,
+    "wof:name":"Vlkov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56641,
+    50.18453,
+    13.56641,
+    50.18453
+],
+  "geometry": {"coordinates":[13.56641,50.18453],"type":"Point"}
+}

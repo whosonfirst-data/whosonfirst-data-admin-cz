@@ -1,0 +1,69 @@
+{
+  "id": 1326864747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98899,49.41045,13.98899,49.41045",
+    "geom:latitude":49.41045,
+    "geom:longitude":13.98899,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0316",
+    "gn:asciiname":"Lom",
+    "gn:country_code":"CZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071624,
+    "gn:latitude":49.41045,
+    "gn:longitude":13.98899,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Lom",
+    "gn:population":126,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071624
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4af1aa31ebf791798dc0d3a09f561e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326864747,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1326864747,
+    "wof:lastmodified":1537001144,
+    "wof:name":"Lom",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98899,
+    49.41045,
+    13.98899,
+    49.41045
+],
+  "geometry": {"coordinates":[13.98899,49.41045],"type":"Point"}
+}

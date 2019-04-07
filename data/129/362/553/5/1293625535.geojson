@@ -1,0 +1,70 @@
+{
+  "id": 1293625535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.73213,49.56062,12.73213,49.56062",
+    "geom:latitude":49.56062,
+    "geom:longitude":12.73213,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Liskovec",
+    "gn:country_code":"CZ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071733,
+    "gn:latitude":49.56062,
+    "gn:longitude":12.73213,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"L\u00edskovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haselberg",
+        "L\u00edskovec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071733
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"01b94cc1e2434a958223b6fdc64985f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293625535,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293625535,
+    "wof:lastmodified":1537619371,
+    "wof:name":"Liskovec",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.73213,
+    49.56062,
+    12.73213,
+    49.56062
+],
+  "geometry": {"coordinates":[12.73213,49.56062],"type":"Point"}
+}

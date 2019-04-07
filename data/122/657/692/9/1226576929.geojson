@@ -1,0 +1,70 @@
+{
+  "id": 1226576929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41667,49.75,18.41667,49.75",
+    "geom:latitude":49.75,
+    "geom:longitude":18.41667,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"0803",
+    "gn:asciiname":"Spluchov",
+    "gn:country_code":"CZ",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065517,
+    "gn:latitude":49.75,
+    "gn:longitude":18.41667,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"\u0160pluchov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160pluckov",
+        "\u0160pluchov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065517
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"020708e82f64241945c37436b72c920b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226576929,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1226576929,
+    "wof:lastmodified":1537619297,
+    "wof:name":"Spluchov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41667,
+    49.75,
+    18.41667,
+    49.75
+],
+  "geometry": {"coordinates":[18.41667,49.75],"type":"Point"}
+}

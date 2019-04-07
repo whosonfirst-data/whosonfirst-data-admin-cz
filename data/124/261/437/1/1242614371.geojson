@@ -1,0 +1,70 @@
+{
+  "id": 1242614371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98384,49.53833,12.98384,49.53833",
+    "geom:latitude":49.53833,
+    "geom:longitude":12.98384,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Semosice",
+    "gn:country_code":"CZ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066213,
+    "gn:latitude":49.53833,
+    "gn:longitude":12.98384,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Semo\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Semeschitz",
+        "Semo\u0161ice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066213
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ef98559eae9fbe34a0e29245f02f0a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242614371,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1242614371,
+    "wof:lastmodified":1537619305,
+    "wof:name":"Semosice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98384,
+    49.53833,
+    12.98384,
+    49.53833
+],
+  "geometry": {"coordinates":[12.98384,49.53833],"type":"Point"}
+}

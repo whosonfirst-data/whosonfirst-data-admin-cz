@@ -1,0 +1,135 @@
+{
+  "id": 1125855559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19352,49.53625,17.19352,49.53625",
+    "geom:latitude":49.53625,
+    "geom:longitude":17.19352,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":592,
+    "gn:population":592,
+    "iso:country":"CZ",
+    "lbl:latitude":49.53625,
+    "lbl:longitude":17.19352,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:dut_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:eng_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:epo_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:fre_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:hun_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:ita_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:may_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0633\u062a\u0631\u0648\u062a\u0634\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:por_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:rup_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:slo_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u043e\u0447\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "name:vie_x_preferred":[
+        "Bystro\u010dice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078281,
+    "qs_pg:gn_pop":592,
+    "qs_pg:name":"Bystro\u010dice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Olomouck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265439,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787152,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Olomouck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078281,
+        "gp:id":787152,
+        "qs_pg:id":1265439,
+        "wd:id":"Q2350755"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293603,
+    "wof:geomhash":"59e282d4624c4e805bdc6dda22527f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125855559,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1125855559,
+    "wof:lastmodified":1513944840,
+    "wof:name":"Bystro\u010dice",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:population":592,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19352,
+    49.53625,
+    17.19352,
+    49.53625
+],
+  "geometry": {"coordinates":[17.19352,49.53625],"type":"Point"}
+}

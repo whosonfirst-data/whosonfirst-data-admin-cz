@@ -1,0 +1,73 @@
+{
+  "id": 1260015587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49037,49.37536,15.49037,49.37536",
+    "geom:latitude":49.37536,
+    "geom:longitude":15.49037,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Dvorce",
+    "gn:country_code":"CZ",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076286,
+    "gn:latitude":49.37536,
+    "gn:longitude":15.49037,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Dvorce",
+    "gn:population":157,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00f6fen"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076286,
+        "wk:page":"Dvorce_%28Jihlava_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a0c7361f00491d3276d86eae699af8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260015587,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1260015587,
+    "wof:lastmodified":1537619426,
+    "wof:name":"Dvorce",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49037,
+    49.37536,
+    15.49037,
+    49.37536
+],
+  "geometry": {"coordinates":[15.49037,49.37536],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276159735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7475,49.95321,17.7475,49.95321",
+    "geom:latitude":49.95321,
+    "geom:longitude":17.7475,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Sadek",
+    "gn:country_code":"CZ",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066453,
+    "gn:latitude":49.95321,
+    "gn:longitude":17.7475,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"S\u00e1dek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zattig",
+        "S\u00e1dek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066453
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e48504bc54a4d9c2c37db0c0863e4346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276159735,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1276159735,
+    "wof:lastmodified":1537619308,
+    "wof:name":"Sadek",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7475,
+    49.95321,
+    17.7475,
+    49.95321
+],
+  "geometry": {"coordinates":[17.7475,49.95321],"type":"Point"}
+}

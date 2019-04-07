@@ -1,0 +1,65 @@
+{
+  "id": 102536835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.687775,49.7983306,16.687775,49.7983306",
+    "geom:latitude":49.798331,
+    "geom:longitude":16.687775,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1319",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582601,
+        "localadmin_id":12609226,
+        "planet_id":1,
+        "state_id":20070465
+    },
+    "wof:belongsto":[
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512551,
+        "icao:code":"LKMK",
+        "oa:id":"30161",
+        "wd:id":"Q25471798"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cbd05614dd1845e44db38836f0b3c4fb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536835,
+            "country_id":85633105,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":102536835,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Moravska Trebova Airport",
+    "wof:parent_id":85682443,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.687775,
+    49.7983306,
+    16.687775,
+    49.7983306
+],
+  "geometry": {"coordinates":[16.687775,49.7983306],"type":"Point"}
+}

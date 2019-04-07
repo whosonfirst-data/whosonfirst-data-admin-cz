@@ -1,0 +1,70 @@
+{
+  "id": 1327164837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29969,50.08435,13.29969,50.08435",
+    "geom:latitude":50.08435,
+    "geom:longitude":13.29969,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0325",
+    "gn:asciiname":"Balkova",
+    "gn:country_code":"CZ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079677,
+    "gn:latitude":50.08435,
+    "gn:longitude":13.29969,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Balkov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Walkowa",
+        "Balkov\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079677
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"56eaf68ca6e35edab512995139f9eef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327164837,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1327164837,
+    "wof:lastmodified":1537619464,
+    "wof:name":"Balkova",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29969,
+    50.08435,
+    13.29969,
+    50.08435
+],
+  "geometry": {"coordinates":[13.29969,50.08435],"type":"Point"}
+}

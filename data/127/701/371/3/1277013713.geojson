@@ -1,0 +1,70 @@
+{
+  "id": 1277013713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23759,50.58109,16.23759,50.58109",
+    "geom:latitude":50.58109,
+    "geom:longitude":16.23759,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Hony",
+    "gn:country_code":"CZ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075539,
+    "gn:latitude":50.58109,
+    "gn:longitude":16.23759,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Hony",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hutberg",
+        "Hony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075539
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d46eece936f2402c9dad371a511e75f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1277013713,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1277013713,
+    "wof:lastmodified":1537619416,
+    "wof:name":"Hony",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23759,
+    50.58109,
+    16.23759,
+    50.58109
+],
+  "geometry": {"coordinates":[16.23759,50.58109],"type":"Point"}
+}

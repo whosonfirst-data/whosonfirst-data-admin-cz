@@ -1,0 +1,66 @@
+{
+  "id": 1293423889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06682,48.76524,16.06682,48.76524",
+    "geom:latitude":48.76524,
+    "geom:longitude":16.06682,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0627",
+    "gn:asciiname":"Hate",
+    "gn:country_code":"CZ",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7670509,
+    "gn:latitude":48.76524,
+    "gn:longitude":16.06682,
+    "gn:modification_date":"2014-05-13",
+    "gn:name":"Hate",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7670509
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"682f35fc909d73a0932c72b5ff05af88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293423889,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1293423889,
+    "wof:lastmodified":1536877971,
+    "wof:name":"Hate",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06682,
+    48.76524000000001,
+    16.06682,
+    48.76524000000001
+],
+  "geometry": {"coordinates":[16.06682,48.76524000000001],"type":"Point"}
+}

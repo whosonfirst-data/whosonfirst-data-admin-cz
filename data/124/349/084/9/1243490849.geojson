@@ -1,0 +1,66 @@
+{
+  "id": 1243490849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.43333,49.46667,18.43333,49.46667",
+    "geom:latitude":49.46667,
+    "geom:longitude":18.43333,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Lojkascanka",
+    "gn:country_code":"CZ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071631,
+    "gn:latitude":49.46667,
+    "gn:longitude":18.43333,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Lojka\u0161\u010danka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071631
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5f21cda8e2d7905a7b66101646efe5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243490849,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1243490849,
+    "wof:lastmodified":1536741231,
+    "wof:name":"Lojkascanka",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43333,
+    49.46667,
+    18.43333,
+    49.46667
+],
+  "geometry": {"coordinates":[18.43333,49.46667],"type":"Point"}
+}

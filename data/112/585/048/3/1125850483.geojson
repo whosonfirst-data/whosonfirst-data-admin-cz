@@ -1,0 +1,131 @@
+{
+  "id": 1125850483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25134,50.51022,13.25134,50.51022",
+    "geom:latitude":50.51022,
+    "geom:longitude":13.25134,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":253,
+    "gn:population":253,
+    "iso:country":"CZ",
+    "lbl:latitude":50.51022,
+    "lbl:longitude":13.25134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:dut_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:eng_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:epo_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:fre_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:ger_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:hun_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:ita_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:may_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0648\u0631\u0627 \u0633\u0648\u0627\u062a\u0647\u0648 \u0634\u0628\u0633\u062a\u06cc\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:por_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:rup_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:slo_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u0430 \u0421\u0432\u0430\u0442\u0435\u0445\u043e \u0428\u0435\u0431\u0435\u0441\u0442\u0438\u0458\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "name:unk_x_variant":[
+        "San Sebastian"
+    ],
+    "name:vie_x_preferred":[
+        "Hora Svat\u00e9ho \u0160ebesti\u00e1na"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3075526,
+    "qs_pg:gn_pop":253,
+    "qs_pg:name":"Hora Svat\u00e9ho \u0160ebesti\u00e1na",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":580851,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075526,
+        "qs_pg:id":580851,
+        "wd:id":"Q1627838"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293380,
+    "wof:geomhash":"8158f295d94ff295425152441252aa98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125850483,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125850483,
+    "wof:lastmodified":1513945015,
+    "wof:name":"Hora Svat\u00e9ho \u0160ebesti\u00e1na",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":253,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25134,
+    50.51022,
+    13.25134,
+    50.51022
+],
+  "geometry": {"coordinates":[13.25134,50.51022],"type":"Point"}
+}

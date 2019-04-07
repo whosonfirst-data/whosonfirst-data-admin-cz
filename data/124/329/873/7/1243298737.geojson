@@ -1,0 +1,66 @@
+{
+  "id": 1243298737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45627,49.71921,15.45627,49.71921",
+    "geom:latitude":49.71921,
+    "geom:longitude":15.45627,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Zbozi",
+    "gn:country_code":"CZ",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061765,
+    "gn:latitude":49.71921,
+    "gn:longitude":15.45627,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Zbo\u017e\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061765
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9fb893a89cf3d8e8ee2979155badb00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243298737,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1243298737,
+    "wof:lastmodified":1537017669,
+    "wof:name":"Zbozi",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45627,
+    49.71921,
+    15.45627,
+    49.71921
+],
+  "geometry": {"coordinates":[15.45627,49.71921],"type":"Point"}
+}

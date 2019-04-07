@@ -1,0 +1,70 @@
+{
+  "id": 1259814473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18105,49.07811,15.18105,49.07811",
+    "geom:latitude":49.07811,
+    "geom:longitude":15.18105,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0313",
+    "gn:asciiname":"Kaproun",
+    "gn:country_code":"CZ",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073857,
+    "gn:latitude":49.07811,
+    "gn:longitude":15.18105,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Kaproun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalfenbrunn",
+        "Kaproun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073857
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"faddbaa2ce7443240e557360b7abb082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259814473,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259814473,
+    "wof:lastmodified":1537619395,
+    "wof:name":"Kaproun",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18105,
+    49.07811,
+    15.18105,
+    49.07811
+],
+  "geometry": {"coordinates":[15.18105,49.07811],"type":"Point"}
+}

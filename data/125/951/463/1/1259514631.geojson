@@ -1,0 +1,66 @@
+{
+  "id": 1259514631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.52344,50.1482,16.52344,50.1482",
+    "geom:latitude":50.1482,
+    "geom:longitude":16.52344,
+    "gn:admin1_code":"86",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Zajeciny",
+    "gn:country_code":"CZ",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061971,
+    "gn:latitude":50.1482,
+    "gn:longitude":16.52344,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Zaje\u010diny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061971
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a1d583b78de58a531c1da86ce683c4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259514631,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1259514631,
+    "wof:lastmodified":1536813481,
+    "wof:name":"Zajeciny",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52344,
+    50.1482,
+    16.52344,
+    50.1482
+],
+  "geometry": {"coordinates":[16.52344,50.1482],"type":"Point"}
+}

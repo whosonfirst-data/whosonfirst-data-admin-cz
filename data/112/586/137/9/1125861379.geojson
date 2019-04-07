@@ -1,0 +1,137 @@
+{
+  "id": 1125861379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51827,49.81569,14.51827,49.81569",
+    "geom:latitude":49.81569,
+    "geom:longitude":14.51827,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1060,
+    "gn:population":1060,
+    "iso:country":"CZ",
+    "lbl:latitude":49.81569,
+    "lbl:longitude":14.51827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:dut_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:eng_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:fre_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:hun_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:ita_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30c8\u30f4\u30a9\u30b8\u30c4\u30a7"
+    ],
+    "name:may_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u062a\u0648\u0648\u0631\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:por_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:slo_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0442\u0432\u043e\u0440\u0436\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "name:unk_x_variant":[
+        "Networitz"
+    ],
+    "name:vie_x_preferred":[
+        "Netvo\u0159ice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069796,
+    "qs_pg:gn_pop":1060,
+    "qs_pg:name":"Netvo\u0159ice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":255257,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794701,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069796,
+        "gp:id":794701,
+        "qs_pg:id":255257,
+        "wd:id":"Q2190166"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293843,
+    "wof:geomhash":"c0e8905148c0bb661811932974576916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125861379,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125861379,
+    "wof:lastmodified":1513945423,
+    "wof:name":"Netvo\u0159ice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":1060,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51827,
+    49.81569,
+    14.51827,
+    49.81569
+],
+  "geometry": {"coordinates":[14.51827,49.81569],"type":"Point"}
+}

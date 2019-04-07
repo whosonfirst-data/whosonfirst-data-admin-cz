@@ -1,0 +1,66 @@
+{
+  "id": 1259911275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72011,49.67079,13.72011,49.67079",
+    "geom:latitude":49.67079,
+    "geom:longitude":13.72011,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Kreslovna",
+    "gn:country_code":"CZ",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072740,
+    "gn:latitude":49.67079,
+    "gn:longitude":13.72011,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Kreslovna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072740
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e880cc9ec275ba71663a7712cb4e57e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259911275,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1259911275,
+    "wof:lastmodified":1536739053,
+    "wof:name":"Kreslovna",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72011,
+    49.67079,
+    13.72011,
+    49.67079
+],
+  "geometry": {"coordinates":[13.72011,49.67079],"type":"Point"}
+}

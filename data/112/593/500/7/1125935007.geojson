@@ -1,0 +1,135 @@
+{
+  "id": 1125935007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47243,49.55715,13.47243,49.55715",
+    "geom:latitude":49.55715,
+    "geom:longitude":13.47243,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":132,
+    "gn:population":132,
+    "iso:country":"CZ",
+    "lbl:latitude":49.55715,
+    "lbl:longitude":13.47243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0430\u0445\u043a\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Drahkov"
+    ],
+    "name:dut_x_preferred":[
+        "Drahkov"
+    ],
+    "name:eng_x_preferred":[
+        "Drahkov"
+    ],
+    "name:fre_x_preferred":[
+        "Drahkov"
+    ],
+    "name:ger_x_preferred":[
+        "Drahkov"
+    ],
+    "name:hun_x_preferred":[
+        "Drahkov"
+    ],
+    "name:ita_x_preferred":[
+        "Drahkov"
+    ],
+    "name:may_x_preferred":[
+        "Drahkov"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0631\u0627\u0647\u06a9\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Drahkov"
+    ],
+    "name:por_x_preferred":[
+        "Drahkov"
+    ],
+    "name:slo_x_preferred":[
+        "Drahkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0430\u0445\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Drahkov"
+    ],
+    "name:vie_x_preferred":[
+        "Drahkov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3076499,
+    "qs_pg:gn_pop":132,
+    "qs_pg:name":"Drahkov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":398019,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":788758,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076499,
+        "gp:id":788758,
+        "qs_pg:id":398019,
+        "wd:id":"Q1255318"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296938,
+    "wof:geomhash":"32f0131e1962b4c358741f963d130bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125935007,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125935007,
+    "wof:lastmodified":1513944940,
+    "wof:name":"Drahkov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47243,
+    49.55715,
+    13.47243,
+    49.55715
+],
+  "geometry": {"coordinates":[13.47243,49.55715],"type":"Point"}
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1125932879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42575,49.46238,16.42575,49.46238",
+    "geom:latitude":49.46238,
+    "geom:longitude":16.42575,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":236,
+    "gn:population":236,
+    "iso:country":"CZ",
+    "lbl:latitude":49.46238,
+    "lbl:longitude":16.42575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09cb\u09ae\u09ad"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0443\u043c\u043e\u0432"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u9b6f\u83ab\u592b"
+    ],
+    "name:cze_x_preferred":[
+        "Brumov"
+    ],
+    "name:dut_x_preferred":[
+        "Brumov"
+    ],
+    "name:eng_x_preferred":[
+        "Brumov"
+    ],
+    "name:fre_x_preferred":[
+        "Brumov"
+    ],
+    "name:ger_x_preferred":[
+        "Brumov"
+    ],
+    "name:hun_x_preferred":[
+        "Brumov"
+    ],
+    "name:ita_x_preferred":[
+        "Brumov"
+    ],
+    "name:may_x_preferred":[
+        "Brumov"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0631\u0648\u0645\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Brumov"
+    ],
+    "name:por_x_preferred":[
+        "Brumov"
+    ],
+    "name:rup_x_preferred":[
+        "Brumov"
+    ],
+    "name:slo_x_preferred":[
+        "Brumov"
+    ],
+    "name:swe_x_preferred":[
+        "Brumov"
+    ],
+    "name:vie_x_preferred":[
+        "Brumov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078549,
+    "qs_pg:gn_pop":236,
+    "qs_pg:name":"Brumov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jihomoravsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":397504,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786920,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jihomoravsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078549,
+        "gp:id":786920,
+        "qs_pg:id":397504,
+        "wd:id":"Q992478"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296867,
+    "wof:geomhash":"cf982e2cbdf8dd53fc00e61264cd0d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125932879,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1125932879,
+    "wof:lastmodified":1553816640,
+    "wof:name":"Brumov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":236,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42575,
+    49.46238,
+    16.42575,
+    49.46238
+],
+  "geometry": {"coordinates":[16.42575,49.46238],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293818163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59537,49.15171,14.59537,49.15171",
+    "geom:latitude":49.15171,
+    "geom:longitude":14.59537,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Pelejovice",
+    "gn:country_code":"CZ",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068449,
+    "gn:latitude":49.15171,
+    "gn:longitude":14.59537,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Pelejovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068449
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4c5eeb70498c13c0de8a54743afbeaa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293818163,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293818163,
+    "wof:lastmodified":1536807178,
+    "wof:name":"Pelejovice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59537,
+    49.15171,
+    14.59537,
+    49.15171
+],
+  "geometry": {"coordinates":[14.59537,49.15171],"type":"Point"}
+}

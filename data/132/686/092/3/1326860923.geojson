@@ -1,0 +1,66 @@
+{
+  "id": 1326860923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94721,50.49153,13.94721,50.49153",
+    "geom:latitude":50.49153,
+    "geom:longitude":13.94721,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Chrastna",
+    "gn:country_code":"CZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077571,
+    "gn:latitude":50.49153,
+    "gn:longitude":13.94721,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Chrastn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077571
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0b58a2b26cfe658d7d342186ee070bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326860923,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1326860923,
+    "wof:lastmodified":1537006767,
+    "wof:name":"Chrastna",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94721,
+    50.49153,
+    13.94721,
+    50.49153
+],
+  "geometry": {"coordinates":[13.94721,50.49153],"type":"Point"}
+}

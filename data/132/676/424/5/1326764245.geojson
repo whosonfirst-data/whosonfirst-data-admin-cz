@@ -1,0 +1,66 @@
+{
+  "id": 1326764245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05087,50.65523,14.05087,50.65523",
+    "geom:latitude":50.65523,
+    "geom:longitude":14.05087,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0427",
+    "gn:asciiname":"Usti nad Labem Strekov",
+    "gn:country_code":"CZ",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11186166,
+    "gn:latitude":50.65523,
+    "gn:longitude":14.05087,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"\u00dast\u00ed nad Labem St\u0159ekov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11186166
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"15a614d6c25245d350d05187ef1d1708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326764245,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1326764245,
+    "wof:lastmodified":1536649326,
+    "wof:name":"Usti nad Labem Strekov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05087,
+    50.65523,
+    14.05087,
+    50.65523
+],
+  "geometry": {"coordinates":[14.05087,50.65523],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 85900885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8770673.796768,
+    "geom:bbox":"12.859036,50.231289,12.859036,50.231289",
+    "geom:latitude":50.231289,
+    "geom:longitude":12.859036,
+    "gn:latitude":50.23447,
+    "gn:longitude":12.85203,
+    "iso:country":"CZ",
+    "lbl:latitude":50.231289,
+    "lbl:longitude":12.859036,
+    "mps:latitude":50.238093,
+    "mps:longitude":12.850118,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:cze_x_colloquial":[
+        "Fischern Rybae",
+        "Fischern Rybare",
+        "Rybare"
+    ],
+    "name:cze_x_preferred":[
+        "Ryb\u00e1\u0159e"
+    ],
+    "name:cze_x_variant":[
+        "Fischern Ryb\u00e1e"
+    ],
+    "name:unk_x_variant":[
+        "Fischern Ryb\u00e1\u0159e",
+        "Ryb\u00e1\u0159e"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3073803,
+    "qs:gn_nam_loc":"Karlovy Vary, Karlovy Vary, Karlovy Vary, Karlovarsk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"81",
+    "qs:gn_name":"Ryb\u00e1\u0159e",
+    "qs:local_max":5100,
+    "qs:local_sum":6070,
+    "qs:localhoods":5,
+    "qs:name":"Ryb\u00e1\u0159e",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Karlovarsk\u00fd kraj",
+    "qs:name_adm2":"Karlovy Vary",
+    "qs:name_lau":"Karlovy Vary",
+    "qs:name_local":"Karlovy Vary",
+    "qs:photo_max":171,
+    "qs:photo_sum":907,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":39,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070500,
+    "qs:woe_adm2":12582606,
+    "qs:woe_lau":12609979,
+    "qs:woe_local":791140,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101840901,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066538,
+        "gp:id":797641,
+        "qs:id":2732,
+        "qs_pg:id":2732
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"18a259009f77e3cb7349b8952e6ad588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101840901,
+            "neighbourhood_id":85900885,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":85900885,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932399,
+    "wof:name":"Ryb\u00e1\u0159e",
+    "wof:parent_id":101840901,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.859036,
+    50.231289,
+    12.859036,
+    50.231289
+],
+  "geometry": {"coordinates":[12.859036,50.231289],"type":"Point"}
+}

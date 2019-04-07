@@ -1,0 +1,141 @@
+{
+  "id": 1125940899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98072,49.46695,12.98072,49.46695",
+    "geom:latitude":49.46695,
+    "geom:longitude":12.98072,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":586,
+    "gn:population":586,
+    "iso:country":"CZ",
+    "lbl:latitude":49.46695,
+    "lbl:longitude":12.98072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:dut_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:eng_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:fre_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:ger_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:hun_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:ita_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:may_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:nan_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u0644\u0627\u0648\u062a\u0634\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:por_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:rup_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:slo_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u0430\u0432\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Milav\u010de"
+    ],
+    "name:unk_x_variant":[
+        "Milav\u0161e"
+    ],
+    "name:vie_x_preferred":[
+        "Milav\u010de"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070705,
+    "qs_pg:gn_pop":586,
+    "qs_pg:name":"Milav\u010de",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399396,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793884,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070705,
+        "gp:id":793884,
+        "qs_pg:id":399396,
+        "wd:id":"Q923916"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297113,
+    "wof:geomhash":"7efe94fe22ec5c5af15691cf85fe935b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125940899,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125940899,
+    "wof:lastmodified":1513945360,
+    "wof:name":"Milav\u010de",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":586,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98072,
+    49.46695,
+    12.98072,
+    49.46695
+],
+  "geometry": {"coordinates":[12.98072,49.46695],"type":"Point"}
+}

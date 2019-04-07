@@ -1,0 +1,66 @@
+{
+  "id": 1259619557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19537,50.27088,16.19537,50.27088",
+    "geom:latitude":50.27088,
+    "geom:longitude":16.19537,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Chabory",
+    "gn:country_code":"CZ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077857,
+    "gn:latitude":50.27088,
+    "gn:longitude":16.19537,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Ch\u00e1bory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077857
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8fcdb9b4c6467173fa4aa52625ac9b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259619557,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1259619557,
+    "wof:lastmodified":1536662710,
+    "wof:name":"Chabory",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19537,
+    50.27088,
+    16.19537,
+    50.27088
+],
+  "geometry": {"coordinates":[16.19537,50.27088],"type":"Point"}
+}

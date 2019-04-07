@@ -1,0 +1,71 @@
+{
+  "id": 1209945683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83649,50.11019,12.83649,50.11019",
+    "geom:latitude":50.11019,
+    "geom:longitude":12.83649,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0413",
+    "gn:asciiname":"Milesov",
+    "gn:country_code":"CZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070689,
+    "gn:latitude":50.11019,
+    "gn:longitude":12.83649,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Mile\u0161ov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00fcllersgr\u00fcn",
+        "Millersgruen",
+        "Mile\u0161ov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070689
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"765d5ed4e294924a0eb95ea357996d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1209945683,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1209945683,
+    "wof:lastmodified":1537619358,
+    "wof:name":"Milesov",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83649,
+    50.11019,
+    12.83649,
+    50.11019
+],
+  "geometry": {"coordinates":[12.83649,50.11019],"type":"Point"}
+}

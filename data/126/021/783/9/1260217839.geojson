@@ -1,0 +1,76 @@
+{
+  "id": 1260217839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62937,49.43664,16.62937,49.43664",
+    "geom:latitude":49.43664,
+    "geom:longitude":16.62937,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Doubravice nad Svitavou",
+    "gn:country_code":"CZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076531,
+    "gn:latitude":49.43664,
+    "gn:longitude":16.62937,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Doubravice nad Svitavou",
+    "gn:population":1222,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0443\u0431\u0440\u0430\u0432\u0438\u0446\u0435 \u043d\u0430 \u0421\u0432\u0438\u0442\u0430\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Doubrawitz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076531,
+        "wk:page":"Doubravice_nad_Svitavou"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"392498afc249ca68b33db60e1727bed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1260217839,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1260217839,
+    "wof:lastmodified":1537619428,
+    "wof:name":"Doubravice nad Svitavou",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1222,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62937,
+    49.43664,
+    16.62937,
+    49.43664
+],
+  "geometry": {"coordinates":[16.62937,49.43664],"type":"Point"}
+}

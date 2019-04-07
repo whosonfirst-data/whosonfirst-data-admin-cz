@@ -1,0 +1,70 @@
+{
+  "id": 1310334555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44316,50.98055,14.44316,50.98055",
+    "geom:latitude":50.98055,
+    "geom:longitude":14.44316,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Kunratice",
+    "gn:country_code":"CZ",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072490,
+    "gn:latitude":50.98055,
+    "gn:longitude":14.44316,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Kunratice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunnersdorf",
+        "Kunratice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072490
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dfc7f7eadaf046fc5fda25a7dc787733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310334555,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1310334555,
+    "wof:lastmodified":1537619380,
+    "wof:name":"Kunratice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44316,
+    50.98055,
+    14.44316,
+    50.98055
+],
+  "geometry": {"coordinates":[14.44316,50.98055],"type":"Point"}
+}

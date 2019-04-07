@@ -1,0 +1,70 @@
+{
+  "id": 1226785993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21667,50.33333,13.21667,50.33333",
+    "geom:latitude":50.33333,
+    "geom:longitude":13.21667,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Dlouhy Luh",
+    "gn:country_code":"CZ",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077098,
+    "gn:latitude":50.33333,
+    "gn:longitude":13.21667,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Dlouh\u00fd Luh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Langenau",
+        "Dlouh\u00fd Luh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077098
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4e1224631674932134e11c168c3d1392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226785993,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1226785993,
+    "wof:lastmodified":1537619438,
+    "wof:name":"Dlouhy Luh",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21667,
+    50.33333,
+    13.21667,
+    50.33333
+],
+  "geometry": {"coordinates":[13.21667,50.33333],"type":"Point"}
+}

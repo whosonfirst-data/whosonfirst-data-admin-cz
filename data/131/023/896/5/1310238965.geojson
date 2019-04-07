@@ -1,0 +1,66 @@
+{
+  "id": 1310238965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22735,49.45218,15.22735,49.45218",
+    "geom:latitude":49.45218,
+    "geom:longitude":15.22735,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Radetin",
+    "gn:country_code":"CZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067221,
+    "gn:latitude":49.45218,
+    "gn:longitude":15.22735,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Rad\u011bt\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067221
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e74a6b9ef9c88f4184ee6376cee7a69f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310238965,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1310238965,
+    "wof:lastmodified":1536803848,
+    "wof:name":"Radetin",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22735,
+    49.45218,
+    15.22735,
+    49.45218
+],
+  "geometry": {"coordinates":[15.22735,49.45218],"type":"Point"}
+}

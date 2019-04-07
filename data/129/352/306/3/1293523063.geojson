@@ -1,0 +1,66 @@
+{
+  "id": 1293523063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82277,49.32863,14.82277,49.32863",
+    "geom:latitude":49.32863,
+    "geom:longitude":14.82277,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Kajetin",
+    "gn:country_code":"CZ",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074006,
+    "gn:latitude":49.32863,
+    "gn:longitude":14.82277,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Kajet\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074006
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"853f2c920df11ee728846427afe09320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293523063,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293523063,
+    "wof:lastmodified":1536735872,
+    "wof:name":"Kajetin",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82277,
+    49.32863,
+    14.82277,
+    49.32863
+],
+  "geometry": {"coordinates":[14.82277,49.32863],"type":"Point"}
+}

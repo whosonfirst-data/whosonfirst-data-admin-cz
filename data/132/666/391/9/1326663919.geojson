@@ -1,0 +1,70 @@
+{
+  "id": 1326663919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41667,48.96667,16.41667,48.96667",
+    "geom:latitude":48.96667,
+    "geom:longitude":16.41667,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0623",
+    "gn:asciiname":"Vinohradky",
+    "gn:country_code":"CZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062861,
+    "gn:latitude":48.96667,
+    "gn:longitude":16.41667,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Vinohr\u00e1dky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weinberg",
+        "Vinohr\u00e1dky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062861
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2e1e9b60327762e30dc8587d0888c2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326663919,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1326663919,
+    "wof:lastmodified":1537619268,
+    "wof:name":"Vinohradky",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41667,
+    48.96667,
+    16.41667,
+    48.96667
+],
+  "geometry": {"coordinates":[16.41667,48.96667],"type":"Point"}
+}

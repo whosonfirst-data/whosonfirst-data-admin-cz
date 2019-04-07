@@ -1,0 +1,66 @@
+{
+  "id": 1310630171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78183,50.29362,13.78183,50.29362",
+    "geom:latitude":50.29362,
+    "geom:longitude":13.78183,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0424",
+    "gn:asciiname":"Senkov",
+    "gn:country_code":"CZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066190,
+    "gn:latitude":50.29362,
+    "gn:longitude":13.78183,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Senkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066190
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6353f2beefb902f19863d8690f82e48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310630171,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1310630171,
+    "wof:lastmodified":1536737149,
+    "wof:name":"Senkov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78183,
+    50.29362,
+    13.78183,
+    50.29362
+],
+  "geometry": {"coordinates":[13.78183,50.29362],"type":"Point"}
+}

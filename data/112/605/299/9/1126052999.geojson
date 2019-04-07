@@ -1,0 +1,135 @@
+{
+  "id": 1126052999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4345,49.23059,17.4345,49.23059",
+    "geom:latitude":49.23059,
+    "geom:longitude":17.4345,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":225,
+    "gn:population":225,
+    "iso:country":"CZ",
+    "lbl:latitude":49.23059,
+    "lbl:longitude":17.4345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:dut_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:ger_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:hun_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:may_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:nan_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:pol_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:rup_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:slo_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u043b\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "name:vie_x_preferred":[
+        "Karol\u00edn"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3073795,
+    "qs_pg:gn_pop":225,
+    "qs_pg:name":"Karol\u00edn",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":398622,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":791145,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073795,
+        "gp:id":791145,
+        "qs_pg:id":398622,
+        "wd:id":"Q935260"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302900,
+    "wof:geomhash":"40e38c032a96e747af51fcdcfb2fad19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126052999,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1126052999,
+    "wof:lastmodified":1513945161,
+    "wof:name":"Karol\u00edn",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":225,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4345,
+    49.23059,
+    17.4345,
+    49.23059
+],
+  "geometry": {"coordinates":[17.4345,49.23059],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209349379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56643,49.59631,16.56643,49.59631",
+    "geom:latitude":49.59631,
+    "geom:longitude":16.56643,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Bahna",
+    "gn:country_code":"CZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079691,
+    "gn:latitude":49.59631,
+    "gn:longitude":16.56643,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Bahna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079691
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0920a316ad9b048734d93f78ea8f5ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209349379
+        }
+    ],
+    "wof:id":1209349379,
+    "wof:lastmodified":1536289797,
+    "wof:name":"Bahna",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56643,
+    49.59631,
+    16.56643,
+    49.59631
+],
+  "geometry": {"coordinates":[16.56643,49.59631],"type":"Point"}
+}

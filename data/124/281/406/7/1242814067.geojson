@@ -1,0 +1,66 @@
+{
+  "id": 1242814067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.42983,50.1031,12.42983,50.1031",
+    "geom:latitude":50.1031,
+    "geom:longitude":12.42983,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Sebenbach",
+    "gn:country_code":"CZ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066358,
+    "gn:latitude":50.1031,
+    "gn:longitude":12.42983,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Sebenbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066358
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d296712b1cc257a0581fcd98ac300b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242814067,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1242814067,
+    "wof:lastmodified":1536723405,
+    "wof:name":"Sebenbach",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.42983,
+    50.1031,
+    12.42983,
+    50.1031
+],
+  "geometry": {"coordinates":[12.42983,50.1031],"type":"Point"}
+}

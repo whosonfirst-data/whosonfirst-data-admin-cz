@@ -1,0 +1,66 @@
+{
+  "id": 1259719793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98741,49.58679,14.98741,49.58679",
+    "geom:latitude":49.58679,
+    "geom:longitude":14.98741,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Kopaniny",
+    "gn:country_code":"CZ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073270,
+    "gn:latitude":49.58679,
+    "gn:longitude":14.98741,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Kopaniny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073270
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"01d323b9cccc21ebc1e17468b57729b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259719793,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1259719793,
+    "wof:lastmodified":1537014001,
+    "wof:name":"Kopaniny",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98741,
+    49.58679,
+    14.98741,
+    49.58679
+],
+  "geometry": {"coordinates":[14.98741,49.58679],"type":"Point"}
+}

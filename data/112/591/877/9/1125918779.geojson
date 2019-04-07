@@ -1,0 +1,135 @@
+{
+  "id": 1125918779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42889,49.14781,15.42889,49.14781",
+    "geom:latitude":49.14781,
+    "geom:longitude":15.42889,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":64,
+    "gn:population":64,
+    "iso:country":"CZ",
+    "lbl:latitude":49.14781,
+    "lbl:longitude":15.42889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:hun_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:may_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0648\u0633\u062a\u0644\u0646\u06cc \u0645\u06cc\u0633\u0644\u0648\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:rup_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:slo_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043b\u045a\u0438 \u041c\u0438\u0441\u043b\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kirchmislau"
+    ],
+    "name:vie_x_preferred":[
+        "Kosteln\u00ed Myslov\u00e1"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3073135,
+    "qs_pg:gn_pop":64,
+    "qs_pg:name":"Kosteln\u00ed Myslov\u00e1",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1266562,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":791713,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073135,
+        "gp:id":791713,
+        "qs_pg:id":1266562,
+        "wd:id":"Q2349703"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296409,
+    "wof:geomhash":"6423e2d0cd153eabc9db482c1b0ef104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125918779,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125918779,
+    "wof:lastmodified":1513945204,
+    "wof:name":"Kosteln\u00ed Myslov\u00e1",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42889,
+    49.14781,
+    15.42889,
+    49.14781
+],
+  "geometry": {"coordinates":[15.42889,49.14781],"type":"Point"}
+}

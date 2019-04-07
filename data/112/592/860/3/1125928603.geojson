@@ -1,0 +1,135 @@
+{
+  "id": 1125928603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93733,49.17742,17.93733,49.17742",
+    "geom:latitude":49.17742,
+    "geom:longitude":17.93733,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":787,
+    "gn:population":787,
+    "iso:country":"CZ",
+    "lbl:latitude":49.17742,
+    "lbl:longitude":17.93733,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:dut_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:eng_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:fre_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:ger_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:hun_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:ita_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:may_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0633\u0648\u06a9\u0647 \u067e\u0648\u0644\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:por_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:rup_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:slo_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0435 \u041f\u043e\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "name:vie_x_preferred":[
+        "Vysok\u00e9 Pole"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062212,
+    "qs_pg:gn_pop":787,
+    "qs_pg:name":"Vysok\u00e9 Pole",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1268853,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801427,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062212,
+        "gp:id":801427,
+        "qs_pg:id":1268853,
+        "wd:id":"Q1683176"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296729,
+    "wof:geomhash":"144524dd0ca8ce769a4cddc2da80735a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125928603,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1125928603,
+    "wof:lastmodified":1513945911,
+    "wof:name":"Vysok\u00e9 Pole",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":787,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93733,
+    49.17742,
+    17.93733,
+    49.17742
+],
+  "geometry": {"coordinates":[17.93733,49.17742],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259914353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39245,49.51228,14.39245,49.51228",
+    "geom:latitude":49.51228,
+    "geom:longitude":14.39245,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Zaluzi",
+    "gn:country_code":"CZ",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061905,
+    "gn:latitude":49.51228,
+    "gn:longitude":14.39245,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Z\u00e1lu\u017e\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061905
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c69479f5497083a9900c55f38b47974f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259914353,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1259914353,
+    "wof:lastmodified":1536734838,
+    "wof:name":"Zaluzi",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39245,
+    49.51228,
+    14.39245,
+    49.51228
+],
+  "geometry": {"coordinates":[14.39245,49.51228],"type":"Point"}
+}

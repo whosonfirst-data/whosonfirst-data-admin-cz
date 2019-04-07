@@ -1,0 +1,107 @@
+{
+  "id": 85900571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2402610.290713,
+    "geom:bbox":"14.467654,48.981423,14.467654,48.981423",
+    "geom:latitude":48.981423,
+    "geom:longitude":14.467654,
+    "iso:country":"CZ",
+    "lbl:latitude":48.981423,
+    "lbl:longitude":14.467654,
+    "mps:latitude":48.989531,
+    "mps:longitude":14.462707,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:cze_x_colloquial":[
+        "Ctyi Dvory",
+        "Ctyri Dvory"
+    ],
+    "name:cze_x_preferred":[
+        "\u010ctyi Dvory"
+    ],
+    "name:unk_x_variant":[
+        "\u010ctyi Dvory"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3077916,
+    "qs:gn_nam_loc":"\u010cesk\u00e9 Bud\u011bjovice, \u010cesk\u00e9 Bud\u011bjovice, \u010cesk\u00e9 Bud\u011bjovice, Jiho\u010desk\u00fd kraj, CZ",
+    "qs:gn_namadm1":"79",
+    "qs:id":0,
+    "qs:local_max":3536,
+    "qs:local_sum":4450,
+    "qs:localhoods":3,
+    "qs:name":"\u010ctyi Dvory",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs:name_adm2":"\u010cesk\u00e9 Bud\u011bjovice",
+    "qs:name_lau":"\u010cesk\u00e9 Bud\u011bjovice",
+    "qs:name_local":"\u010cesk\u00e9 Bud\u011bjovice",
+    "qs:photo_max":763,
+    "qs:photo_sum":820,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070502,
+    "qs:woe_adm2":12582537,
+    "qs:woe_lau":12604814,
+    "qs:woe_local":787461,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748103,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":787987
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"288c3f7251ee0b68f90892797e0edc8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748103,
+            "neighbourhood_id":85900571,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":85900571,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932350,
+    "wof:name":"\u010ctyi Dvory",
+    "wof:parent_id":101748103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.467654,
+    48.981423,
+    14.467654,
+    48.981423
+],
+  "geometry": {"coordinates":[14.467654,48.981423],"type":"Point"}
+}

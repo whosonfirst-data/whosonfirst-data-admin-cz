@@ -1,0 +1,135 @@
+{
+  "id": 1125894529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84616,49.89766,14.84616,49.89766",
+    "geom:latitude":49.89766,
+    "geom:longitude":14.84616,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":935,
+    "gn:population":935,
+    "iso:country":"CZ",
+    "lbl:latitude":49.89766,
+    "lbl:longitude":14.84616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:dut_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:eng_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:fre_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:ger_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:hun_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:ita_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:may_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:pol_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:por_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:rup_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:slo_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0438\u0431\u0440\u043d\u0430 \u0421\u043a\u0430\u043b\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "name:unk_x_variant":[
+        "Silberskalitz"
+    ],
+    "name:vie_x_preferred":[
+        "St\u0159\u00edbrn\u00e1 Skalice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3064930,
+    "qs_pg:gn_pop":935,
+    "qs_pg:name":"St\u0159\u00edbrn\u00e1 Skalice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":383603,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":799057,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064930,
+        "gp:id":799057,
+        "qs_pg:id":383603,
+        "wd:id":"Q1827619"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497295484,
+    "wof:geomhash":"0764eee3ece68f746d8e787db0aea7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125894529,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125894529,
+    "wof:lastmodified":1513945760,
+    "wof:name":"St\u0159\u00edbrn\u00e1 Skalice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":935,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84616,
+    49.89766,
+    14.84616,
+    49.89766
+],
+  "geometry": {"coordinates":[14.84616,49.89766],"type":"Point"}
+}

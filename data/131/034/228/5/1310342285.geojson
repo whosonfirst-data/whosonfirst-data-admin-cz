@@ -1,0 +1,66 @@
+{
+  "id": 1310342285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82991,49.50955,14.82991,49.50955",
+    "geom:latitude":49.50955,
+    "geom:longitude":14.82991,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Radvanov",
+    "gn:country_code":"CZ",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067098,
+    "gn:latitude":49.50955,
+    "gn:longitude":14.82991,
+    "gn:modification_date":"2014-05-13",
+    "gn:name":"Radvanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067098
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8a3eea2ca01bd738c9741baeff175da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310342285,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1310342285,
+    "wof:lastmodified":1536654813,
+    "wof:name":"Radvanov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82991,
+    49.50955,
+    14.82991,
+    49.50955
+],
+  "geometry": {"coordinates":[14.82991,49.50955],"type":"Point"}
+}

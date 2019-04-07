@@ -1,0 +1,66 @@
+{
+  "id": 1243587691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33611,49.33189,13.33611,49.33189",
+    "geom:latitude":49.33189,
+    "geom:longitude":13.33611,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Strezimer",
+    "gn:country_code":"CZ",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064942,
+    "gn:latitude":49.33189,
+    "gn:longitude":13.33611,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"St\u0159ezim\u011b\u0159",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064942
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d57fb0092f9fa2ed5b4d985c4da72755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243587691,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1243587691,
+    "wof:lastmodified":1537095667,
+    "wof:name":"Strezimer",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33611,
+    49.33189,
+    13.33611,
+    49.33189
+],
+  "geometry": {"coordinates":[13.33611,49.33189],"type":"Point"}
+}

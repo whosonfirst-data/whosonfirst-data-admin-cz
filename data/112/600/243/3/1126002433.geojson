@@ -1,0 +1,143 @@
+{
+  "id": 1126002433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6824,50.01138,16.6824,50.01138",
+    "geom:latitude":50.01138,
+    "geom:longitude":16.6824,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":186,
+    "gn:population":186,
+    "iso:country":"CZ",
+    "lbl:latitude":50.01138,
+    "lbl:longitude":16.6824,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:hun_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:may_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:nan_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:por_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:rup_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u043d\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "name:unk_x_variant":[
+        "Tschenkowitz"
+    ],
+    "name:vie_x_preferred":[
+        "\u010cenkovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078138,
+    "qs_pg:gn_pop":186,
+    "qs_pg:name":"\u010cenkovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":292289,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787283,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078138,
+        "gp:id":787283,
+        "qs_pg:id":292289,
+        "wd:id":"Q338609"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299733,
+    "wof:geomhash":"c928bd11935d43984a9e7790afc1e182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126002433,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1126002433,
+    "wof:lastmodified":1513946023,
+    "wof:name":"\u010cenkovice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6824,
+    50.01138,
+    16.6824,
+    50.01138
+],
+  "geometry": {"coordinates":[16.6824,50.01138],"type":"Point"}
+}

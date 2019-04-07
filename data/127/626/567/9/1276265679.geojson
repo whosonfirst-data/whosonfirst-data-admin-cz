@@ -1,0 +1,66 @@
+{
+  "id": 1276265679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19368,49.65814,15.19368,49.65814",
+    "geom:latitude":49.65814,
+    "geom:longitude":15.19368,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Zahradcice",
+    "gn:country_code":"CZ",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062006,
+    "gn:latitude":49.65814,
+    "gn:longitude":15.19368,
+    "gn:modification_date":"2013-09-29",
+    "gn:name":"Zahr\u00e1d\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062006
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"02dfa34f64c7d93a78f541ac132cdf6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276265679,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276265679,
+    "wof:lastmodified":1536868068,
+    "wof:name":"Zahradcice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19368,
+    49.65814,
+    15.19368,
+    49.65814
+],
+  "geometry": {"coordinates":[15.19368,49.65814],"type":"Point"}
+}

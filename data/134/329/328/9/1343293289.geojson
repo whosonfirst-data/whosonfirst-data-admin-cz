@@ -1,0 +1,66 @@
+{
+  "id": 1343293289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68032,49.65007,14.68032,49.65007",
+    "geom:latitude":49.65007,
+    "geom:longitude":14.68032,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Budenin",
+    "gn:country_code":"CZ",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078488,
+    "gn:latitude":49.65007,
+    "gn:longitude":14.68032,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Buden\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078488
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0acac1f91843fcdbc96bc525fc0ec3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343293289,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1343293289,
+    "wof:lastmodified":1536986781,
+    "wof:name":"Budenin",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68032,
+    49.65007,
+    14.68032,
+    49.65007
+],
+  "geometry": {"coordinates":[14.68032,49.65007],"type":"Point"}
+}

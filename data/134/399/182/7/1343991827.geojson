@@ -1,0 +1,66 @@
+{
+  "id": 1343991827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6911,49.28017,14.6911,49.28017",
+    "geom:latitude":49.28017,
+    "geom:longitude":14.6911,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0317",
+    "gn:asciiname":"Veselka",
+    "gn:country_code":"CZ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063028,
+    "gn:latitude":49.28017,
+    "gn:longitude":14.6911,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Veselka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063028
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"290c0a75fed0faf01a2b5a09d0e97af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343991827,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343991827,
+    "wof:lastmodified":1536974277,
+    "wof:name":"Veselka",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6911,
+    49.28017,
+    14.6911,
+    49.28017
+],
+  "geometry": {"coordinates":[14.6911,49.28017],"type":"Point"}
+}

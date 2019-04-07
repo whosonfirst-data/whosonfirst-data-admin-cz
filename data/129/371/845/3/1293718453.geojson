@@ -1,0 +1,70 @@
+{
+  "id": 1293718453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8699,50.5525,15.8699,50.5525",
+    "geom:latitude":50.5525,
+    "geom:longitude":15.8699,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0525",
+    "gn:asciiname":"Oblanov",
+    "gn:country_code":"CZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069214,
+    "gn:latitude":50.5525,
+    "gn:longitude":15.8699,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Oblanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaltenhof",
+        "Oblanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069214
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4ada577ced62496d08d3a494d6ab3b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293718453,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293718453,
+    "wof:lastmodified":1537619337,
+    "wof:name":"Oblanov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8699,
+    50.5525,
+    15.8699,
+    50.5525
+],
+  "geometry": {"coordinates":[15.8699,50.5525],"type":"Point"}
+}

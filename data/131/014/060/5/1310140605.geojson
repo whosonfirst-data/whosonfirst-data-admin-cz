@@ -1,0 +1,70 @@
+{
+  "id": 1310140605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78762,49.99655,17.78762,49.99655",
+    "geom:latitude":49.99655,
+    "geom:longitude":17.78762,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Lodenice",
+    "gn:country_code":"CZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071641,
+    "gn:latitude":49.99655,
+    "gn:longitude":17.78762,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Lod\u011bnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lodnitz",
+        "Lod\u011bnice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071641
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ad95f6c64077b307d93f7951945ed421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310140605,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1310140605,
+    "wof:lastmodified":1537619370,
+    "wof:name":"Lodenice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78762,
+    49.99655,
+    17.78762,
+    49.99655
+],
+  "geometry": {"coordinates":[17.78762,49.99655],"type":"Point"}
+}

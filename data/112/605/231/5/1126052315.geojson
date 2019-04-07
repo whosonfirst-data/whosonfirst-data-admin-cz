@@ -1,0 +1,123 @@
+{
+  "id": 1126052315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62195,49.65581,13.62195,49.65581",
+    "geom:latitude":49.65581,
+    "geom:longitude":13.62195,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":92,
+    "gn:population":92,
+    "iso:country":"CZ",
+    "lbl:latitude":49.65581,
+    "lbl:longitude":13.62195,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Me\u0161no"
+    ],
+    "name:dut_x_preferred":[
+        "Me\u0161no"
+    ],
+    "name:eng_x_preferred":[
+        "Me\u0161no"
+    ],
+    "name:fre_x_preferred":[
+        "Me\u0161no"
+    ],
+    "name:hun_x_preferred":[
+        "Me\u0161no"
+    ],
+    "name:ita_x_preferred":[
+        "Me\u0161no"
+    ],
+    "name:may_x_preferred":[
+        "Me\u0161no"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0634\u0646\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Me\u0161no"
+    ],
+    "name:slo_x_preferred":[
+        "Me\u0161no"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0448\u043d\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Me\u0161no"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070831,
+    "qs_pg:gn_pop":92,
+    "qs_pg:name":"Me\u0161no",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1060613,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":793766,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070831,
+        "gp:id":793766,
+        "qs_pg:id":1060613,
+        "wd:id":"Q1815405"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497302848,
+    "wof:geomhash":"b27185fd79d41e9b07f70fbdde7ed73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126052315,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1126052315,
+    "wof:lastmodified":1513945357,
+    "wof:name":"Me\u0161no",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62195,
+    49.65581,
+    13.62195,
+    49.65581
+],
+  "geometry": {"coordinates":[13.62195,49.65581],"type":"Point"}
+}

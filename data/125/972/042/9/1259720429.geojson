@@ -1,0 +1,66 @@
+{
+  "id": 1259720429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06667,50.25,16.06667,50.25",
+    "geom:latitude":50.25,
+    "geom:longitude":16.06667,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0524",
+    "gn:asciiname":"Pelesov",
+    "gn:country_code":"CZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068447,
+    "gn:latitude":50.25,
+    "gn:longitude":16.06667,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Pelesov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068447
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b129134bbf0fde15c46c139560b661ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259720429,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1259720429,
+    "wof:lastmodified":1537013027,
+    "wof:name":"Pelesov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06667,
+    50.25,
+    16.06667,
+    50.25
+],
+  "geometry": {"coordinates":[16.06667,50.25],"type":"Point"}
+}

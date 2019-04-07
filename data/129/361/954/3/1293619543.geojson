@@ -1,0 +1,66 @@
+{
+  "id": 1293619543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62079,50.17467,13.62079,50.17467",
+    "geom:latitude":50.17467,
+    "geom:longitude":13.62079,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"020C",
+    "gn:asciiname":"Veclov",
+    "gn:country_code":"CZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063340,
+    "gn:latitude":50.17467,
+    "gn:longitude":13.62079,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Veclov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063340
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d36c3033e953b83ed4f0cffcdc40b2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293619543,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1293619543,
+    "wof:lastmodified":1537090760,
+    "wof:name":"Veclov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62079,
+    50.17467,
+    13.62079,
+    50.17467
+],
+  "geometry": {"coordinates":[13.62079,50.17467],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1210053209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48267,49.69485,14.48267,49.69485",
+    "geom:latitude":49.69485,
+    "geom:longitude":14.48267,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Prosenice",
+    "gn:country_code":"CZ",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067432,
+    "gn:latitude":49.69485,
+    "gn:longitude":14.48267,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Prosenice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067432
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"822296feeac6a7b601696b1bc7b3b2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1210053209,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1210053209,
+    "wof:lastmodified":1536371289,
+    "wof:name":"Prosenice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48267,
+    49.69485,
+    14.48267,
+    49.69485
+],
+  "geometry": {"coordinates":[14.48267,49.69485],"type":"Point"}
+}

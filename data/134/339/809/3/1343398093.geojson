@@ -1,0 +1,66 @@
+{
+  "id": 1343398093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9891,49.48597,12.9891,49.48597",
+    "geom:latitude":49.48597,
+    "geom:longitude":12.9891,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Nahosice",
+    "gn:country_code":"CZ",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070088,
+    "gn:latitude":49.48597,
+    "gn:longitude":12.9891,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Naho\u0161ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070088
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0a6c2cc0748c19c3fafc3eb2e6967060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343398093,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1343398093,
+    "wof:lastmodified":1536835080,
+    "wof:name":"Nahosice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9891,
+    49.48597,
+    12.9891,
+    49.48597
+],
+  "geometry": {"coordinates":[12.9891,49.48597],"type":"Point"}
+}

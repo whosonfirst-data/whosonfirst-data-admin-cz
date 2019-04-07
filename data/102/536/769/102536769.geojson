@@ -1,0 +1,65 @@
+{
+  "id": 102536769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1161083,49.3683306,16.1161083,49.3683306",
+    "geom:latitude":49.368331,
+    "geom:longitude":16.116108,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1831",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582556,
+        "localadmin_id":12605702,
+        "planet_id":1,
+        "state_id":20070467
+    },
+    "wof:belongsto":[
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512540,
+        "icao:code":"LKKA",
+        "oa:id":"30046",
+        "wd:id":"Q25471794"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"257e4fddf2dff45008b27eb8218b095e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536769,
+            "country_id":85633105,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":102536769,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Krizanov Airport",
+    "wof:parent_id":85682429,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.1161083,
+    49.3683306,
+    16.1161083,
+    49.3683306
+],
+  "geometry": {"coordinates":[16.1161083,49.3683306],"type":"Point"}
+}

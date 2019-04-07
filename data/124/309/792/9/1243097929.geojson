@@ -1,0 +1,70 @@
+{
+  "id": 1243097929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.15063,50.1559,13.15063,50.1559",
+    "geom:latitude":50.1559,
+    "geom:longitude":13.15063,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Luka",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071392,
+    "gn:latitude":50.1559,
+    "gn:longitude":13.15063,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Luka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071392
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4812a9afb76a34afad2dd6e7d89f3ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243097929,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":1243097929,
+    "wof:lastmodified":1537619367,
+    "wof:name":"Luka",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.15063,
+    50.1559,
+    13.15063,
+    50.1559
+],
+  "geometry": {"coordinates":[13.15063,50.1559],"type":"Point"}
+}

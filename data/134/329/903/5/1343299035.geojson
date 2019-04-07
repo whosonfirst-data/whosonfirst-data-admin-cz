@@ -1,0 +1,66 @@
+{
+  "id": 1343299035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11608,49.0032,14.11608,49.0032",
+    "geom:latitude":49.0032,
+    "geom:longitude":14.11608,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Ratiborova Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066989,
+    "gn:latitude":49.0032,
+    "gn:longitude":14.11608,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Ratiborova Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066989
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"085c5920c8e8425f4f8b6a41a7e301f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343299035,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343299035,
+    "wof:lastmodified":1536978496,
+    "wof:name":"Ratiborova Lhota",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11608,
+    49.0032,
+    14.11608,
+    49.0032
+],
+  "geometry": {"coordinates":[14.11608,49.0032],"type":"Point"}
+}

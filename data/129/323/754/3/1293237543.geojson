@@ -1,0 +1,66 @@
+{
+  "id": 1293237543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58309,50.47415,15.58309,50.47415",
+    "geom:latitude":50.47415,
+    "geom:longitude":15.58309,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Bela u Pecky",
+    "gn:country_code":"CZ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079554,
+    "gn:latitude":50.47415,
+    "gn:longitude":15.58309,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"B\u011bl\u00e1 u Pecky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079554
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ea33518592194f5c6598c7d1253ca6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293237543,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1293237543,
+    "wof:lastmodified":1536650138,
+    "wof:name":"Bela u Pecky",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58309,
+    50.47415,
+    15.58309,
+    50.47415
+],
+  "geometry": {"coordinates":[15.58309,50.47415],"type":"Point"}
+}

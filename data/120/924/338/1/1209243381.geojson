@@ -1,0 +1,66 @@
+{
+  "id": 1209243381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.60119,49.92647,12.60119,49.92647",
+    "geom:latitude":49.92647,
+    "geom:longitude":12.60119,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0411",
+    "gn:asciiname":"Planska Hut'",
+    "gn:country_code":"CZ",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068226,
+    "gn:latitude":49.92647,
+    "gn:longitude":12.60119,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Pl\u00e1nsk\u00e1 Hu\u0165",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plansk\u00fd \u0160melctal",
+        "Pl\u00e1nsk\u00e1 Hu\u0165"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068226
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4c47fd43376a66c67c65cd57a8d6e7e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209243381
+        }
+    ],
+    "wof:id":1209243381,
+    "wof:lastmodified":1537619326,
+    "wof:name":"Planska Hut'",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.60119,
+    49.92647,
+    12.60119,
+    49.92647
+],
+  "geometry": {"coordinates":[12.60119,49.92647],"type":"Point"}
+}

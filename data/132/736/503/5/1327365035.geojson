@@ -1,0 +1,66 @@
+{
+  "id": 1327365035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33333,50.46667,15.33333,50.46667",
+    "geom:latitude":50.46667,
+    "geom:longitude":15.33333,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Malobratrice",
+    "gn:country_code":"CZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071118,
+    "gn:latitude":50.46667,
+    "gn:longitude":15.33333,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Malobrat\u0159ice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071118
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"43bc514caeb541b61b5c127daf35485e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327365035,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1327365035,
+    "wof:lastmodified":1536778696,
+    "wof:name":"Malobratrice",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33333,
+    50.46667,
+    15.33333,
+    50.46667
+],
+  "geometry": {"coordinates":[15.33333,50.46667],"type":"Point"}
+}

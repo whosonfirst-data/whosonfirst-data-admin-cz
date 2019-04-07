@@ -1,0 +1,66 @@
+{
+  "id": 1243293245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5,50.45,15.5,50.45",
+    "geom:latitude":50.45,
+    "geom:longitude":15.5,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0522",
+    "gn:asciiname":"Horni Nova Ves",
+    "gn:country_code":"CZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075277,
+    "gn:latitude":50.45,
+    "gn:longitude":15.5,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Horn\u00ed Nov\u00e1 Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075277
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e609bb2f092845e75ce9ec3f59c2ad2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243293245,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1243293245,
+    "wof:lastmodified":1537025315,
+    "wof:name":"Horni Nova Ves",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5,
+    50.45,
+    15.5,
+    50.45
+],
+  "geometry": {"coordinates":[15.5,50.45],"type":"Point"}
+}

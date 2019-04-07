@@ -1,0 +1,70 @@
+{
+  "id": 1243298307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.75,49.76667,12.75,49.76667",
+    "geom:latitude":49.76667,
+    "geom:longitude":12.75,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Novy Strast",
+    "gn:country_code":"CZ",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069268,
+    "gn:latitude":49.76667,
+    "gn:longitude":12.75,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Nov\u00fd Strast",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neusorg",
+        "Nov\u00fd Strast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069268
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f47f62c0c8464f0dad51e2133ef06662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243298307,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1243298307,
+    "wof:lastmodified":1537619337,
+    "wof:name":"Novy Strast",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.75,
+    49.76667,
+    12.75,
+    49.76667
+],
+  "geometry": {"coordinates":[12.75,49.76667],"type":"Point"}
+}

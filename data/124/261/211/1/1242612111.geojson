@@ -1,0 +1,66 @@
+{
+  "id": 1242612111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50803,49.7866,15.50803,49.7866",
+    "geom:latitude":49.7866,
+    "geom:longitude":15.50803,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Zhor",
+    "gn:country_code":"CZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061498,
+    "gn:latitude":49.7866,
+    "gn:longitude":15.50803,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Zho\u0159",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061498
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0739cfae919415efebc5b14e4d85248c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242612111,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1242612111,
+    "wof:lastmodified":1537013258,
+    "wof:name":"Zhor",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50803,
+    49.7866,
+    15.50803,
+    49.7866
+],
+  "geometry": {"coordinates":[15.50803,49.7866],"type":"Point"}
+}

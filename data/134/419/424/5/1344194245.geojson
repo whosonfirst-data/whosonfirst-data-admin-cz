@@ -1,0 +1,70 @@
+{
+  "id": 1344194245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93022,49.47984,12.93022,49.47984",
+    "geom:latitude":49.47984,
+    "geom:longitude":12.93022,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Trebnice",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064090,
+    "gn:latitude":49.47984,
+    "gn:longitude":12.93022,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"T\u0159ebnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0159ebnitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064090
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"23f1a239e67e01f33d29d3868de38b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1344194245,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1344194245,
+    "wof:lastmodified":1537619280,
+    "wof:name":"Trebnice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93022,
+    49.47984,
+    12.93022,
+    49.47984
+],
+  "geometry": {"coordinates":[12.93022,49.47984],"type":"Point"}
+}

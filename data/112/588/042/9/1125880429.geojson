@@ -1,0 +1,146 @@
+{
+  "id": 1125880429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65723,50.72063,13.65723,50.72063",
+    "geom:latitude":50.72063,
+    "geom:longitude":13.65723,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":172,
+    "gn:population":172,
+    "iso:country":"CZ",
+    "lbl:latitude":50.72063,
+    "lbl:longitude":13.65723,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043b\u0434\u0430\u0432\u0430"
+    ],
+    "name:cze_x_preferred":[
+        "Moldava"
+    ],
+    "name:dut_x_preferred":[
+        "Moldava"
+    ],
+    "name:eng_x_preferred":[
+        "Moldava"
+    ],
+    "name:fre_x_preferred":[
+        "Moldava"
+    ],
+    "name:ger_x_preferred":[
+        "Moldava"
+    ],
+    "name:hun_x_preferred":[
+        "Moldava"
+    ],
+    "name:ita_x_preferred":[
+        "Moldava"
+    ],
+    "name:may_x_preferred":[
+        "Moldava"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u0644\u062f\u0627\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Moldava"
+    ],
+    "name:por_x_preferred":[
+        "Moldava"
+    ],
+    "name:rup_x_preferred":[
+        "Moldava"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u0434\u0430\u0432\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Moldava"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043b\u0434\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Moldava"
+    ],
+    "name:unk_x_variant":[
+        "Moldau"
+    ],
+    "name:vie_x_preferred":[
+        "Moldava"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070372,
+    "qs_pg:gn_pop":172,
+    "qs_pg:name":"Moldava",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1207199,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794189,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"\u00dasteck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070372,
+        "gp:id":794189,
+        "qs_pg:id":1207199,
+        "wd:id":"Q1740707"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294778,
+    "wof:geomhash":"9304d2eb071dc360fbe8761443bdb7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125880429,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1125880429,
+    "wof:lastmodified":1553816596,
+    "wof:name":"Moldava",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:population":172,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65723,
+    50.72063,
+    13.65723,
+    50.72063
+],
+  "geometry": {"coordinates":[13.65723,50.72063],"type":"Point"}
+}

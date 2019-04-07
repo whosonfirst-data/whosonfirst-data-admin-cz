@@ -1,0 +1,66 @@
+{
+  "id": 1243209237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69838,48.91843,14.69838,48.91843",
+    "geom:latitude":48.91843,
+    "geom:longitude":14.69838,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Lhota",
+    "gn:country_code":"CZ",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072106,
+    "gn:latitude":48.91843,
+    "gn:longitude":14.69838,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Lhota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072106
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5c3649efcf84204e1a10f9eefd25d2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1243209237,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1243209237,
+    "wof:lastmodified":1536650304,
+    "wof:name":"Lhota",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69838,
+    48.91843,
+    14.69838,
+    48.91843
+],
+  "geometry": {"coordinates":[14.69838,48.91843],"type":"Point"}
+}

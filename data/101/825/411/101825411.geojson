@@ -1,0 +1,103 @@
+{
+  "id": 101825411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:bbox":"18.3638070329,49.7523823086,18.3878920395,49.7588631182",
+    "geom:latitude":49.755218,
+    "geom:longitude":18.373617,
+    "geonames:id":"3063470,3063471",
+    "iso:country":"CZ",
+    "lbl:latitude":49.755204,
+    "lbl:longitude":18.372796,
+    "mps:latitude":49.755204,
+    "mps:longitude":18.372796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "V\u00e1clavovice"
+    ],
+    "name:ces_x_preferred":[
+        "V\u00e1clavovice"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1clavovice"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e1clavovice"
+    ],
+    "name:msa_x_preferred":[
+        "V\u00e1clavovice"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00e1clavovice"
+    ],
+    "name:pol_x_preferred":[
+        "Wi\u0119c\u0142owice"
+    ],
+    "name:por_x_preferred":[
+        "V\u00e1clavovice"
+    ],
+    "name:slk_x_preferred":[
+        "V\u00e1clavovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0446\u043b\u0430\u0432\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"V\u00e1clavovice",
+    "qs:la_lc":"*CZ0806598836",
+    "qs:level":"locality",
+    "qs:loc":"V\u00e1clavovice",
+    "qs:loc_alt":"Vaclavovice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":243,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":800321,
+        "qs:id":1082672,
+        "wd:id":"Q2326907"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d59a21d814f31b2d869bf8e13a7b80d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825411,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101825411,
+    "wof:lastmodified":1527715060,
+    "wof:name":"V\u00e1clavovice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36380703288211,
+    49.7523823086305,
+    18.38789203953962,
+    49.75886311821512
+],
+  "geometry": {"coordinates":[[[18.36750104503443,49.75876084696552],[18.36734539099916,49.75786834283605],[18.37286622134104,49.75745909865299],[18.37302197579714,49.75835159406336],[18.37440219510307,49.75824923886228],[18.37424641554247,49.75735674563253],[18.37562660438886,49.75725437582264],[18.37531501674391,49.7554693920361],[18.38083551775065,49.75505976235519],[18.38099140836204,49.7559522458032],[18.38789203953962,49.75543982004677],[18.38773602343326,49.75454734751503],[18.38635593301888,49.75464986405922],[18.38619994924665,49.7537573887796],[18.38067963437049,49.75416727834386],[18.38036788930378,49.7523823086305],[18.36932740398703,49.75320124703222],[18.36948307212037,49.75409374961583],[18.36534272651443,49.75440058104988],[18.36518713368162,49.75350807192979],[18.36380703288211,49.7536103133188],[18.36458494371863,49.75807286418683],[18.36596517003409,49.75797061190661],[18.36612079896304,49.75886311821512],[18.36750104503443,49.75876084696552]]],"type":"Polygon"}
+}

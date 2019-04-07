@@ -1,0 +1,70 @@
+{
+  "id": 1242910003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7201,49.85775,17.7201,49.85775",
+    "geom:latitude":49.85775,
+    "geom:longitude":17.7201,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Moravice",
+    "gn:country_code":"CZ",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070342,
+    "gn:latitude":49.85775,
+    "gn:longitude":17.7201,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Moravice",
+    "gn:population":268,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070342,
+        "wk:page":"Moravice%2C_Czech_Republic"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0b97424866a90687fae4b6e075c81f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242910003,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1242910003,
+    "wof:lastmodified":1537504040,
+    "wof:name":"Moravice",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":268,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7201,
+    49.85775,
+    17.7201,
+    49.85775
+],
+  "geometry": {"coordinates":[17.7201,49.85775],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209041257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47248,49.10061,13.47248,49.10061",
+    "geom:latitude":49.10061,
+    "geom:longitude":13.47248,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0322",
+    "gn:asciiname":"Sedlo",
+    "gn:country_code":"CZ",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066271,
+    "gn:latitude":49.10061,
+    "gn:longitude":13.47248,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Sedlo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sattelberg",
+        "Sedlo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066271
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6a47115a6c3d8a529084afd79e279020",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209041257
+        }
+    ],
+    "wof:id":1209041257,
+    "wof:lastmodified":1537619306,
+    "wof:name":"Sedlo",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47248,
+    49.10061,
+    13.47248,
+    49.10061
+],
+  "geometry": {"coordinates":[13.47248,49.10061],"type":"Point"}
+}

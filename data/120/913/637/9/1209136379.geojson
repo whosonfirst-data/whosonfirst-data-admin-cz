@@ -1,0 +1,66 @@
+{
+  "id": 1209136379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06752,50.1858,13.06752,50.1858",
+    "geom:latitude":50.1858,
+    "geom:longitude":13.06752,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"0412",
+    "gn:asciiname":"Javorna",
+    "gn:country_code":"CZ",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074411,
+    "gn:latitude":50.1858,
+    "gn:longitude":13.06752,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Javorn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ohorn",
+        "Javorn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074411
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"33264f83d858bff58954face0af869d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209136379
+        }
+    ],
+    "wof:id":1209136379,
+    "wof:lastmodified":1537619401,
+    "wof:name":"Javorna",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06752,
+    50.1858,
+    13.06752,
+    50.1858
+],
+  "geometry": {"coordinates":[13.06752,50.1858],"type":"Point"}
+}

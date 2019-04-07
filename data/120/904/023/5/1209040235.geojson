@@ -1,0 +1,62 @@
+{
+  "id": 1209040235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48738,49.46572,18.48738,49.46572",
+    "geom:latitude":49.46572,
+    "geom:longitude":18.48738,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Cerne Vroble",
+    "gn:country_code":"CZ",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3078055,
+    "gn:latitude":49.46572,
+    "gn:longitude":18.48738,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"\u010cern\u00e9 Vroble",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078055
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0ca313753d51070bd4c51fa8d736ee02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209040235
+        }
+    ],
+    "wof:id":1209040235,
+    "wof:lastmodified":1536299568,
+    "wof:name":"Cerne Vroble",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48738,
+    49.46572000000001,
+    18.48738,
+    49.46572000000001
+],
+  "geometry": {"coordinates":[18.48738,49.46572000000001],"type":"Point"}
+}

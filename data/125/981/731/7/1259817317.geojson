@@ -1,0 +1,66 @@
+{
+  "id": 1259817317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81528,50.5662,14.81528,50.5662",
+    "geom:latitude":50.5662,
+    "geom:longitude":14.81528,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Jezova",
+    "gn:country_code":"CZ",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074212,
+    "gn:latitude":50.5662,
+    "gn:longitude":14.81528,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Jezov\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074212
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e09687acd079075e3c4dd3f7db447bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259817317,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1259817317,
+    "wof:lastmodified":1536873632,
+    "wof:name":"Jezova",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81528,
+    50.5662,
+    14.81528,
+    50.5662
+],
+  "geometry": {"coordinates":[14.81528,50.5662],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276260487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.32462,49.35362,14.32462,49.35362",
+    "geom:latitude":49.35362,
+    "geom:longitude":14.32462,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Rastory",
+    "gn:country_code":"CZ",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067005,
+    "gn:latitude":49.35362,
+    "gn:longitude":14.32462,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Rastory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067005
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0bb58f3d00f0f6e0e6dcb94ad6399e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276260487,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1276260487,
+    "wof:lastmodified":1536875356,
+    "wof:name":"Rastory",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.32462,
+    49.35362,
+    14.32462,
+    49.35362
+],
+  "geometry": {"coordinates":[14.32462,49.35362],"type":"Point"}
+}

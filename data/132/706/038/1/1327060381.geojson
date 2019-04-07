@@ -1,0 +1,66 @@
+{
+  "id": 1327060381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77445,49.7528,13.77445,49.7528",
+    "geom:latitude":49.7528,
+    "geom:longitude":13.77445,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0326",
+    "gn:asciiname":"Smolarna",
+    "gn:country_code":"CZ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065726,
+    "gn:latitude":49.7528,
+    "gn:longitude":13.77445,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Smol\u00e1rna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065726
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6ef4014eff6b634ab0df311f53c67f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327060381,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1327060381,
+    "wof:lastmodified":1536720533,
+    "wof:name":"Smolarna",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77445,
+    49.7528,
+    13.77445,
+    49.7528
+],
+  "geometry": {"coordinates":[13.77445,49.7528],"type":"Point"}
+}

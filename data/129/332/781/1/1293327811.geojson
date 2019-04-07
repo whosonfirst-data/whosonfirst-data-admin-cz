@@ -1,0 +1,66 @@
+{
+  "id": 1293327811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.1412,49.48433,13.1412,49.48433",
+    "geom:latitude":49.48433,
+    "geom:longitude":13.1412,
+    "gn:admin1_code":"87",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Zichov",
+    "gn:country_code":"CZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061478,
+    "gn:latitude":49.48433,
+    "gn:longitude":13.1412,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Zichov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061478
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6a486604fae197cfc4f1b2153d896492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293327811,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1293327811,
+    "wof:lastmodified":1537016546,
+    "wof:name":"Zichov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.1412,
+    49.48433,
+    13.1412,
+    49.48433
+],
+  "geometry": {"coordinates":[13.1412,49.48433],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327270287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64811,49.09388,13.64811,49.09388",
+    "geom:latitude":49.09388,
+    "geom:longitude":13.64811,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Rihov",
+    "gn:country_code":"CZ",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066868,
+    "gn:latitude":49.09388,
+    "gn:longitude":13.64811,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"R\u00edhov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066868
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2d0644248c64eeeea6eabaf21b59326d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327270287,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1327270287,
+    "wof:lastmodified":1536915343,
+    "wof:name":"Rihov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64811,
+    49.09388,
+    13.64811,
+    49.09388
+],
+  "geometry": {"coordinates":[13.64811,49.09388],"type":"Point"}
+}

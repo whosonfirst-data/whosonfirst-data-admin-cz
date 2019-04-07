@@ -1,0 +1,88 @@
+{
+  "id": 101826519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":299024.502722,
+    "geom:bbox":"13.4229234493,49.7114587294,13.4341319892,49.7169732312",
+    "geom:latitude":49.714079,
+    "geom:longitude":13.428794,
+    "iso:country":"CZ",
+    "lbl:latitude":49.713776,
+    "lbl:longitude":13.428901,
+    "mps:latitude":49.713776,
+    "mps:longitude":13.428901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Koterov"
+    ],
+    "name:eng_x_preferred":[
+        "Koterov"
+    ],
+    "name:fre_x_preferred":[
+        "Koterov"
+    ],
+    "name:ger_x_preferred":[
+        "Koterov"
+    ],
+    "name:pol_x_preferred":[
+        "Koterov"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Plzensk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Plze\u0148",
+    "qs:la_lc":"*CZ0323554791",
+    "qs:level":"locality",
+    "qs:loc":"Koterov",
+    "qs:loc_alt":"Koterov",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073108,
+        "gp:id":791737,
+        "qs:id":1065809,
+        "wd:id":"Q12031162"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e4d7b8b4e8f8d05e1aa5f4ac6cd4ec8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101826519,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":101826519,
+    "wof:lastmodified":1513945206,
+    "wof:name":"Koterov",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.42292344926136,
+    49.71145872942384,
+    13.43413198924839,
+    49.71697323119662
+],
+  "geometry": {"coordinates":[[[13.42871894472802,49.71693128436283],[13.42865517108777,49.71603318161351],[13.43281069301793,49.71590724218879],[13.43274684534924,49.71500914181763],[13.43413198924839,49.71496712903627],[13.43400425151049,49.71317092914313],[13.43261915894186,49.71321294012677],[13.43255532020277,49.71231483880723],[13.43117025109268,49.71235683195823],[13.43110644099238,49.71145872942384],[13.42695129742765,49.71158460457701],[13.42701503053945,49.71248270980362],[13.42562995261738,49.71252463521665],[13.42569366303621,49.71342274102398],[13.42292344926136,49.71350654283833],[13.42305077634592,49.71530275709068],[13.42582109278595,49.71521895169093],[13.42588481211732,49.71611705655039],[13.42726999270371,49.71607512755003],[13.4273337406749,49.71697323119662],[13.42871894472802,49.71693128436283]]],"type":"Polygon"}
+}

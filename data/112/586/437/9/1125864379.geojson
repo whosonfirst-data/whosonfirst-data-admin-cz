@@ -1,0 +1,143 @@
+{
+  "id": 1125864379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17386,49.46668,13.17386,49.46668",
+    "geom:latitude":49.46668,
+    "geom:longitude":13.17386,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":699,
+    "gn:population":699,
+    "iso:country":"CZ",
+    "lbl:latitude":49.46668,
+    "lbl:longitude":13.17386,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0549\u0578\u0582\u0564\u0565\u0576\u056b\u057d\u0565"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0443\u0434\u0437\u0435\u043d\u0456\u0446\u044b"
+    ],
+    "name:cze_x_preferred":[
+        "Chudenice"
+    ],
+    "name:dut_x_preferred":[
+        "Chudenice"
+    ],
+    "name:eng_x_preferred":[
+        "Chudenice"
+    ],
+    "name:fre_x_preferred":[
+        "Chudenice"
+    ],
+    "name:ger_x_preferred":[
+        "Chudenice"
+    ],
+    "name:hun_x_preferred":[
+        "Chudenice"
+    ],
+    "name:ita_x_preferred":[
+        "Chudenice"
+    ],
+    "name:may_x_preferred":[
+        "Chudenice"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0648\u062f\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Chudenice"
+    ],
+    "name:por_x_preferred":[
+        "Chudenice"
+    ],
+    "name:slo_x_preferred":[
+        "Chudenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u0434\u0435\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Chudenice"
+    ],
+    "name:unk_x_variant":[
+        "Chudenitz"
+    ],
+    "name:vie_x_preferred":[
+        "Chudenice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077528,
+    "qs_pg:gn_pop":699,
+    "qs_pg:name":"Chudenice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1183867,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787809,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Plze\u0148sk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077528,
+        "gp:id":787809,
+        "qs_pg:id":1183867,
+        "wd:id":"Q2503857"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497293967,
+    "wof:geomhash":"37d0ced2405c119b3f6a7c2a2849759a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125864379,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1125864379,
+    "wof:lastmodified":1513944888,
+    "wof:name":"Chudenice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:population":699,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17386,
+    49.46668,
+    13.17386,
+    49.46668
+],
+  "geometry": {"coordinates":[13.17386,49.46668],"type":"Point"}
+}

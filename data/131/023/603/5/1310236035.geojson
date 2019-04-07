@@ -1,0 +1,70 @@
+{
+  "id": 1310236035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85501,50.37295,14.85501,50.37295",
+    "geom:latitude":50.37295,
+    "geom:longitude":14.85501,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0207",
+    "gn:asciiname":"Stranov",
+    "gn:country_code":"CZ",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065041,
+    "gn:latitude":50.37295,
+    "gn:longitude":14.85501,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Str\u00e1nov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Str\u00e1nov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065041,
+        "wk:page":"Stranov"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"240d20ddd56be9f4d84a7c3859ab8a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1310236035,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1310236035,
+    "wof:lastmodified":1537619291,
+    "wof:name":"Stranov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85501,
+    50.37295,
+    14.85501,
+    50.37295
+],
+  "geometry": {"coordinates":[14.85501,50.37295],"type":"Point"}
+}

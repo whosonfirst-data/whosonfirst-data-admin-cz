@@ -1,0 +1,114 @@
+{
+  "id": 101779817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":518359.496263,
+    "geom:bbox":"17.8313583002,49.2893417412,17.8569180273,49.3031592452",
+    "geom:latitude":49.297446,
+    "geom:longitude":17.843316,
+    "gn:population":1118,
+    "iso:country":"CZ",
+    "lbl:latitude":49.296047,
+    "lbl:longitude":17.842057,
+    "mps:latitude":49.296047,
+    "mps:longitude":17.842057,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Trnava"
+    ],
+    "name:ces_x_preferred":[
+        "Trnava"
+    ],
+    "name:deu_x_preferred":[
+        "Trnava u Zl\u00edna"
+    ],
+    "name:fra_x_preferred":[
+        "Trnava"
+    ],
+    "name:hun_x_preferred":[
+        "Trnava"
+    ],
+    "name:ita_x_preferred":[
+        "Trnava"
+    ],
+    "name:msa_x_preferred":[
+        "Trnava"
+    ],
+    "name:nld_x_preferred":[
+        "Trnava"
+    ],
+    "name:pol_x_preferred":[
+        "Trnava"
+    ],
+    "name:por_x_preferred":[
+        "Trnava"
+    ],
+    "name:unk_x_variant":[
+        "Tranawa"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Zl\u00ednsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Trnava",
+    "qs:la_lc":"*CZ0724585866",
+    "qs:level":"locality",
+    "qs:loc":"Trnava",
+    "qs:loc_alt":"Trnava",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063985,
+        "gp:id":799867,
+        "qs:id":145254,
+        "qs_pg:id":1072261,
+        "wd:id":"Q1725829",
+        "wk:page":"Trnava (Zl\u00edn District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6a30b3ee25e39ef08bd715f0efb9dace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779817,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":101779817,
+    "wof:lastmodified":1507750682,
+    "wof:name":"Trnava",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:population":1118,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83135830016005,
+    49.28934174124203,
+    17.85691802726342,
+    49.30315924521699
+],
+  "geometry": {"coordinates":[[[17.8444595049188,49.30207425747398],[17.84993262140557,49.3016910515874],[17.85007661871799,49.30258452410629],[17.85691802726342,49.3021051323887],[17.85677390690438,49.301211669954],[17.85540565959661,49.30130757954907],[17.85526157046911,49.30041411454579],[17.847052131471,49.30098921069941],[17.84690819661159,49.30009573304824],[17.84553996426251,49.30019152217278],[17.84482051221397,49.29572411558451],[17.84345239800399,49.29581987800327],[17.84302087992722,49.29313942140118],[17.84028478445617,49.29333088426046],[17.84014100751631,49.29243739359856],[17.838772977053,49.29253309806813],[17.83862923131943,49.29163960484311],[17.83726122057158,49.29173529066895],[17.8371175060422,49.29084179488137],[17.83438151909621,49.29103311261582],[17.83423786036633,49.29013961225468],[17.83286988417001,49.29023524416436],[17.83272625663864,49.28934174124203],[17.83135830016005,49.28943735451026],[17.83164551262684,49.29122436382625],[17.83301351830181,49.29112874653674],[17.83330080636733,49.29291574963082],[17.83740494170559,49.29262878590623],[17.83754866944406,49.29352228059298],[17.83891672939245,49.29342659074263],[17.83906048833779,49.29432008286665],[17.84042856800318,49.29422437437165],[17.84100376827388,49.29779832931291],[17.84237194146851,49.29770259613258],[17.84280348489369,49.30038305051903],[17.84143523787577,49.30047878974074],[17.84186676697556,49.30315924521699],[17.84460340378763,49.30296773805401],[17.8444595049188,49.30207425747398]]],"type":"Polygon"}
+}

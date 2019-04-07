@@ -1,0 +1,70 @@
+{
+  "id": 1276479057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02653,49.6865,15.02653,49.6865",
+    "geom:latitude":49.6865,
+    "geom:longitude":15.02653,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Javornik",
+    "gn:country_code":"CZ",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074402,
+    "gn:latitude":49.6865,
+    "gn:longitude":15.02653,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Javorn\u00edk",
+    "gn:population":126,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074402,
+        "wk:page":"Javorn%C3%ADk_%28Bene%C5%A1ov_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"868f6b18358dc8de50f25efebe956da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276479057,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276479057,
+    "wof:lastmodified":1537504054,
+    "wof:name":"Javornik",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02653,
+    49.6865,
+    15.02653,
+    49.6865
+],
+  "geometry": {"coordinates":[15.02653,49.6865],"type":"Point"}
+}

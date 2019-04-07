@@ -1,0 +1,62 @@
+{
+  "id": 1209142381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06476,50.45914,16.06476,50.45914",
+    "geom:latitude":50.45914,
+    "geom:longitude":16.06476,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"0523",
+    "gn:asciiname":"Mstetin",
+    "gn:country_code":"CZ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070217,
+    "gn:latitude":50.45914,
+    "gn:longitude":16.06476,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Mst\u011bt\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070217
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0b1dcfaff9261034ef3fba0c41c88afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209142381
+        }
+    ],
+    "wof:id":1209142381,
+    "wof:lastmodified":1536296462,
+    "wof:name":"Mstetin",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06476,
+    50.45914000000001,
+    16.06476,
+    50.45914000000001
+],
+  "geometry": {"coordinates":[16.06476,50.45914000000001],"type":"Point"}
+}

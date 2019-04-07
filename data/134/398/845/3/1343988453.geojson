@@ -1,0 +1,66 @@
+{
+  "id": 1343988453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50029,49.57327,14.50029,49.57327",
+    "geom:latitude":49.57327,
+    "geom:longitude":14.50029,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"020B",
+    "gn:asciiname":"Kvasejovice",
+    "gn:country_code":"CZ",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072454,
+    "gn:latitude":49.57327,
+    "gn:longitude":14.50029,
+    "gn:modification_date":"2017-02-12",
+    "gn:name":"Kvasejovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072454
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9f2bd284e028866c69d5d4fc6d230240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343988453,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1343988453,
+    "wof:lastmodified":1536979071,
+    "wof:name":"Kvasejovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50029,
+    49.57327,
+    14.50029,
+    49.57327
+],
+  "geometry": {"coordinates":[14.50029,49.57327],"type":"Point"}
+}

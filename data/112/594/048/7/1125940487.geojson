@@ -1,0 +1,137 @@
+{
+  "id": 1125940487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11664,50.40377,16.11664,50.40377",
+    "geom:latitude":50.40377,
+    "geom:longitude":16.11664,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":404,
+    "gn:population":404,
+    "iso:country":"CZ",
+    "lbl:latitude":50.40377,
+    "lbl:longitude":16.11664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u0439\u0441\u043e\u043a\u043e\u0432"
+    ],
+    "name:cze_x_preferred":[
+        "Vysokov"
+    ],
+    "name:dut_x_preferred":[
+        "Vysokov"
+    ],
+    "name:eng_x_preferred":[
+        "Vysokov"
+    ],
+    "name:fre_x_preferred":[
+        "Vysokov"
+    ],
+    "name:ger_x_preferred":[
+        "Vysokov"
+    ],
+    "name:hun_x_preferred":[
+        "Vysokov"
+    ],
+    "name:ita_x_preferred":[
+        "Vysokov"
+    ],
+    "name:may_x_preferred":[
+        "Vysokov"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0633\u0648\u06a9\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Vysokov"
+    ],
+    "name:por_x_preferred":[
+        "Vysokov"
+    ],
+    "name:slo_x_preferred":[
+        "Vysokov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Vysokov"
+    ],
+    "name:vie_x_preferred":[
+        "Vysokov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062203,
+    "qs_pg:gn_pop":404,
+    "qs_pg:name":"Vysokov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":84,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1140190,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801435,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062203,
+        "gp:id":801435,
+        "qs_pg:id":1140190,
+        "wd:id":"Q1658570"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297102,
+    "wof:geomhash":"0a4998b91f406350b98ddce9a5ca3534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125940487,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125940487,
+    "wof:lastmodified":1513945909,
+    "wof:name":"Vysokov",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":404,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11664,
+    50.40377,
+    16.11664,
+    50.40377
+],
+  "geometry": {"coordinates":[16.11664,50.40377],"type":"Point"}
+}

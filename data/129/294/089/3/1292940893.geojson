@@ -1,0 +1,66 @@
+{
+  "id": 1292940893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87988,49.99069,14.87988,49.99069",
+    "geom:latitude":49.99069,
+    "geom:longitude":14.87988,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0209",
+    "gn:asciiname":"Svatbin",
+    "gn:country_code":"CZ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064595,
+    "gn:latitude":49.99069,
+    "gn:longitude":14.87988,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Svatb\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064595
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"75fe82a90b2acb3ac10b700d7b12e7fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1292940893,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1292940893,
+    "wof:lastmodified":1537074966,
+    "wof:name":"Svatbin",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87988,
+    49.99069,
+    14.87988,
+    49.99069
+],
+  "geometry": {"coordinates":[14.87988,49.99069],"type":"Point"}
+}

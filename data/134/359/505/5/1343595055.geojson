@@ -1,0 +1,70 @@
+{
+  "id": 1343595055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11342,50.79127,15.11342,50.79127",
+    "geom:latitude":50.79127,
+    "geom:longitude":15.11342,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0513",
+    "gn:asciiname":"Rudolfov",
+    "gn:country_code":"CZ",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066589,
+    "gn:latitude":50.79127,
+    "gn:longitude":15.11342,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Rudolfov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rudolfsthal",
+        "Rudolfov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066589
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2b7902a8c7650f0e7900ee4337f3310c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343595055,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1343595055,
+    "wof:lastmodified":1537619311,
+    "wof:name":"Rudolfov",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11342,
+    50.79127,
+    15.11342,
+    50.79127
+],
+  "geometry": {"coordinates":[15.11342,50.79127],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102536783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0486083,49.5666639,13.0486083,49.5666639",
+    "geom:latitude":49.566664,
+    "geom:longitude":13.048608,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1404",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582605,
+        "localadmin_id":12610003,
+        "planet_id":1,
+        "state_id":20070501
+    },
+    "wof:belongsto":[
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512567,
+        "icao:code":"LKSA",
+        "oa:id":"30435",
+        "wd:id":"Q25471813"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0a16b789e2400acef77a02e5c7f721dd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536783,
+            "country_id":85633105,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":102536783,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Stankov Airport",
+    "wof:parent_id":85682433,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.0486083,
+    49.5666639,
+    13.0486083,
+    49.5666639
+],
+  "geometry": {"coordinates":[13.0486083,49.5666639],"type":"Point"}
+}

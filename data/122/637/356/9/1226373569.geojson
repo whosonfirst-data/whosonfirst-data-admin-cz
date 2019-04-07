@@ -1,0 +1,70 @@
+{
+  "id": 1226373569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.99633,49.71261,12.99633,49.71261",
+    "geom:latitude":49.71261,
+    "geom:longitude":12.99633,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0327",
+    "gn:asciiname":"Pozorka",
+    "gn:country_code":"CZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067722,
+    "gn:latitude":49.71261,
+    "gn:longitude":12.99633,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Pozorka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gibacht",
+        "Pozorka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067722
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ba73608c68cfb4efb2bcb0155d7faa88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226373569,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1226373569,
+    "wof:lastmodified":1537619321,
+    "wof:name":"Pozorka",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.99633,
+    49.71261,
+    12.99633,
+    49.71261
+],
+  "geometry": {"coordinates":[12.99633,49.71261],"type":"Point"}
+}

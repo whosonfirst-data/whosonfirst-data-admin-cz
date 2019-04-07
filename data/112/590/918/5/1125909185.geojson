@@ -1,0 +1,138 @@
+{
+  "id": 1125909185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91049,49.81875,17.91049,49.81875",
+    "geom:latitude":49.81875,
+    "geom:longitude":17.91049,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":999,
+    "gn:population":999,
+    "iso:country":"CZ",
+    "lbl:latitude":49.81875,
+    "lbl:longitude":17.91049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:dut_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:eng_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:epo_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:fre_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:hun_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:ita_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:may_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:nan_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:pol_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:por_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:rup_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:slo_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0440\u0438\u043f\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "name:unk_x_variant":[
+        "Sk\u0159ipp"
+    ],
+    "name:vie_x_preferred":[
+        "Sk\u0159ipov"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3065965,
+    "qs_pg:gn_pop":999,
+    "qs_pg:name":"Sk\u0159ipov",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":400503,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":798144,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065965,
+        "gp:id":798144,
+        "qs_pg:id":400503,
+        "wd:id":"Q651645"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296086,
+    "wof:geomhash":"2fedfa3881e7c90934f2ededd5fc1c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125909185,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":1125909185,
+    "wof:lastmodified":1513945686,
+    "wof:name":"Sk\u0159ipov",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":999,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91049,
+    49.81875,
+    17.91049,
+    49.81875
+],
+  "geometry": {"coordinates":[17.91049,49.81875],"type":"Point"}
+}

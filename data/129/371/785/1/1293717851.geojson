@@ -1,0 +1,66 @@
+{
+  "id": 1293717851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14325,49.59036,15.14325,49.59036",
+    "geom:latitude":49.59036,
+    "geom:longitude":15.14325,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0613",
+    "gn:asciiname":"Chlovy",
+    "gn:country_code":"CZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077800,
+    "gn:latitude":49.59036,
+    "gn:longitude":15.14325,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Chlovy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077800
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"049d5fcdfbba89a249757cf3bf2c224d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293717851,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1293717851,
+    "wof:lastmodified":1536952599,
+    "wof:name":"Chlovy",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14325,
+    49.59036,
+    15.14325,
+    49.59036
+],
+  "geometry": {"coordinates":[15.14325,49.59036],"type":"Point"}
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1125921819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55687,49.53444,15.55687,49.53444",
+    "geom:latitude":49.53444,
+    "geom:longitude":15.55687,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":198,
+    "gn:population":198,
+    "iso:country":"CZ",
+    "lbl:latitude":49.53444,
+    "lbl:longitude":15.55687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:dut_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:eng_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:fre_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:ger_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:hsb_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:ita_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:may_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:nan_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:pol_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:por_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:rup_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:slo_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u0440\u043e\u0443\u0445\u043b\u0438\u0447\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:unk_x_variant":[
+        "\u0160ejdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3069090,
+    "qs_pg:gn_pop":198,
+    "qs_pg:name":"Okrouhli\u010dka",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kraj Vyso\u010dina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1267402,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":795358,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kraj Vyso\u010dina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069090,
+        "gp:id":795358,
+        "qs_pg:id":1267402,
+        "wd:id":"Q158446"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296506,
+    "wof:geomhash":"16606051ece8ee88fbcb398ec986a291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125921819,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1125921819,
+    "wof:lastmodified":1513945460,
+    "wof:name":"Okrouhli\u010dka",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55687,
+    49.53444,
+    15.55687,
+    49.53444
+],
+  "geometry": {"coordinates":[15.55687,49.53444],"type":"Point"}
+}

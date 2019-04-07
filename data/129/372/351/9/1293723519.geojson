@@ -1,0 +1,70 @@
+{
+  "id": 1293723519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35654,49.64869,16.35654,49.64869",
+    "geom:latitude":49.64869,
+    "geom:longitude":16.35654,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Ctyri Dvory",
+    "gn:country_code":"CZ",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077329,
+    "gn:latitude":49.64869,
+    "gn:longitude":16.35654,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"\u010cty\u0159i Dvory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vierh\u00f6fen",
+        "\u010cty\u0159i Dvory"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077329
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1e81a44ceb54e2eef847e711df205f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293723519,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1293723519,
+    "wof:lastmodified":1537619441,
+    "wof:name":"Ctyri Dvory",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35654,
+    49.64869,
+    16.35654,
+    49.64869
+],
+  "geometry": {"coordinates":[16.35654,49.64869],"type":"Point"}
+}

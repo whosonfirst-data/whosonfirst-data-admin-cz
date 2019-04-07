@@ -1,0 +1,66 @@
+{
+  "id": 1259618345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.37085,49.59867,13.37085,49.59867",
+    "geom:latitude":49.59867,
+    "geom:longitude":13.37085,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0324",
+    "gn:asciiname":"Krasavce",
+    "gn:country_code":"CZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072911,
+    "gn:latitude":49.59867,
+    "gn:longitude":13.37085,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Krasavce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072911
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ec30b13885f3b33f4fe618c586dbe4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1259618345,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1259618345,
+    "wof:lastmodified":1536664528,
+    "wof:name":"Krasavce",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.37085,
+    49.59867,
+    13.37085,
+    49.59867
+],
+  "geometry": {"coordinates":[13.37085,49.59867],"type":"Point"}
+}

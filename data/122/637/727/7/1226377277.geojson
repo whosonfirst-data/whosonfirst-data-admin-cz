@@ -1,0 +1,66 @@
+{
+  "id": 1226377277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57311,49.21312,15.57311,49.21312",
+    "geom:latitude":49.21312,
+    "geom:longitude":15.57311,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0612",
+    "gn:asciiname":"Nepomuky",
+    "gn:country_code":"CZ",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069859,
+    "gn:latitude":49.21312,
+    "gn:longitude":15.57311,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Nepomuky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069859
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8362661c63ed0e09367ea3b64dede11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226377277,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1226377277,
+    "wof:lastmodified":1536743813,
+    "wof:name":"Nepomuky",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57311,
+    49.21312,
+    15.57311,
+    49.21312
+],
+  "geometry": {"coordinates":[15.57311,49.21312],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293518191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33641,48.64198,14.33641,48.64198",
+    "geom:latitude":48.64198,
+    "geom:longitude":14.33641,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0312",
+    "gn:asciiname":"Hlasna",
+    "gn:country_code":"CZ",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075813,
+    "gn:latitude":48.64198,
+    "gn:longitude":14.33641,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Hl\u00e1sn\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wachtern",
+        "Hl\u00e1sn\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075813
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1a79cc75a51c102b7aba8e6f5200b64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293518191,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293518191,
+    "wof:lastmodified":1537619419,
+    "wof:name":"Hlasna",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33641,
+    48.64198,
+    14.33641,
+    48.64198
+],
+  "geometry": {"coordinates":[14.33641,48.64198],"type":"Point"}
+}

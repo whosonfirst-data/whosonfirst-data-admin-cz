@@ -1,0 +1,66 @@
+{
+  "id": 1293420509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50997,50.97819,14.50997,50.97819",
+    "geom:latitude":50.97819,
+    "geom:longitude":14.50997,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Valdek",
+    "gn:country_code":"CZ",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063439,
+    "gn:latitude":50.97819,
+    "gn:longitude":14.50997,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Valdek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3063439
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"584610f2da1f688f27e8f1a7ecee1500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293420509,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1293420509,
+    "wof:lastmodified":1536883086,
+    "wof:name":"Valdek",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50997,
+    50.97819000000001,
+    14.50997,
+    50.97819000000001
+],
+  "geometry": {"coordinates":[14.50997,50.97819000000001],"type":"Point"}
+}

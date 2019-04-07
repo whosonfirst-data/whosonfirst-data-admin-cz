@@ -1,0 +1,66 @@
+{
+  "id": 1209649745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95,48.95284,13.95,48.95284",
+    "geom:latitude":48.95284,
+    "geom:longitude":13.95,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Blazejovice",
+    "gn:country_code":"CZ",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079236,
+    "gn:latitude":48.95284,
+    "gn:longitude":13.95,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Bla\u017eejovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plahetschlag",
+        "Bla\u017eejovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079236
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"29c7342b2cdcb8723096eb74941bf676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209649745
+        }
+    ],
+    "wof:id":1209649745,
+    "wof:lastmodified":1537619459,
+    "wof:name":"Blazejovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95,
+    48.95284,
+    13.95,
+    48.95284
+],
+  "geometry": {"coordinates":[13.95,48.95284],"type":"Point"}
+}

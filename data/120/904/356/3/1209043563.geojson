@@ -1,0 +1,62 @@
+{
+  "id": 1209043563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37675,49.99896,15.37675,49.99896",
+    "geom:latitude":49.99896,
+    "geom:longitude":15.37675,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Habrkovice",
+    "gn:country_code":"CZ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076062,
+    "gn:latitude":49.99896,
+    "gn:longitude":15.37675,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Habrkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3076062
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fafadcbdb8bb90c0912c0d4fdf44e821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209043563
+        }
+    ],
+    "wof:id":1209043563,
+    "wof:lastmodified":1536299467,
+    "wof:name":"Habrkovice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37675,
+    49.99896,
+    15.37675,
+    49.99896
+],
+  "geometry": {"coordinates":[15.37675,49.99896],"type":"Point"}
+}

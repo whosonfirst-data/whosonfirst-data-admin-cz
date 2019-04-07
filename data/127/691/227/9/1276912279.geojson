@@ -1,0 +1,66 @@
+{
+  "id": 1276912279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07255,49.80588,15.07255,49.80588",
+    "geom:latitude":49.80588,
+    "geom:longitude":15.07255,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Kasanice",
+    "gn:country_code":"CZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073785,
+    "gn:latitude":49.80588,
+    "gn:longitude":15.07255,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Kasanice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3073785
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c5f2e5aba10ac0a9b5a1f2a6c2960b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276912279,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1276912279,
+    "wof:lastmodified":1536996866,
+    "wof:name":"Kasanice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07255,
+    49.80588,
+    15.07255,
+    49.80588
+],
+  "geometry": {"coordinates":[15.07255,49.80588],"type":"Point"}
+}

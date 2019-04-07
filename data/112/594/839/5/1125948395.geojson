@@ -1,0 +1,132 @@
+{
+  "id": 1125948395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88254,49.56517,13.88254,49.56517",
+    "geom:latitude":49.56517,
+    "geom:longitude":13.88254,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":114,
+    "gn:population":114,
+    "iso:country":"CZ",
+    "lbl:latitude":49.56517,
+    "lbl:longitude":13.88254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:dut_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:eng_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:fre_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:hun_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:may_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:nan_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0634\u0648\u06cc\u0644\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:rup_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:slo_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0448\u0435\u0432\u0438\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "V\u0161evily"
+    ],
+    "name:vie_x_preferred":[
+        "V\u0161evily"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3062335,
+    "qs_pg:gn_pop":114,
+    "qs_pg:name":"V\u0161evily",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":401378,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":801326,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062335,
+        "gp:id":801326,
+        "qs_pg:id":401378,
+        "wd:id":"Q953125"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297369,
+    "wof:geomhash":"be50ac792fc3a795e8cea29d6977f4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125948395,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125948395,
+    "wof:lastmodified":1513945940,
+    "wof:name":"V\u0161evily",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88254,
+    49.56517,
+    13.88254,
+    49.56517
+],
+  "geometry": {"coordinates":[13.88254,49.56517],"type":"Point"}
+}

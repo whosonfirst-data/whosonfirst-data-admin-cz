@@ -1,0 +1,66 @@
+{
+  "id": 1225978771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64032,49.67299,14.64032,49.67299",
+    "geom:latitude":49.67299,
+    "geom:longitude":14.64032,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Olbramovice Ves",
+    "gn:country_code":"CZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069080,
+    "gn:latitude":49.67299,
+    "gn:longitude":14.64032,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Olbramovice Ves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069080
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f54f665be8f365cd4b3d2d370bae6d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1225978771,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1225978771,
+    "wof:lastmodified":1536820810,
+    "wof:name":"Olbramovice Ves",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64032,
+    49.67299000000001,
+    14.64032,
+    49.67299000000001
+],
+  "geometry": {"coordinates":[14.64032,49.67299000000001],"type":"Point"}
+}

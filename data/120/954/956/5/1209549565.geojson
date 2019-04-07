@@ -1,0 +1,62 @@
+{
+  "id": 1209549565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95612,49.20158,15.95612,49.20158",
+    "geom:latitude":49.20158,
+    "geom:longitude":15.95612,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0614",
+    "gn:asciiname":"Dobra Voda",
+    "gn:country_code":"CZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077063,
+    "gn:latitude":49.20158,
+    "gn:longitude":15.95612,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Dobr\u00e1 Voda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077063
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a315ff43371689f9e13274ae52f2a23c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209549565
+        }
+    ],
+    "wof:id":1209549565,
+    "wof:lastmodified":1536283737,
+    "wof:name":"Dobra Voda",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95612,
+    49.20158,
+    15.95612,
+    49.20158
+],
+  "geometry": {"coordinates":[15.95612,49.20158],"type":"Point"}
+}

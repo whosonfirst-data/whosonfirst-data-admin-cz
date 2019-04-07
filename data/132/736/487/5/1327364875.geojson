@@ -1,0 +1,70 @@
+{
+  "id": 1327364875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40198,49.98853,16.40198,49.98853",
+    "geom:latitude":49.98853,
+    "geom:longitude":16.40198,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0534",
+    "gn:asciiname":"Oldrichovice",
+    "gn:country_code":"CZ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069067,
+    "gn:latitude":49.98853,
+    "gn:longitude":16.40198,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Old\u0159ichovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dreih\u00f6f",
+        "Old\u0159ichovice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069067
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1a95853946eac343714390cbb68cd3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1327364875,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1327364875,
+    "wof:lastmodified":1537619335,
+    "wof:name":"Oldrichovice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40198,
+    49.98853,
+    16.40198,
+    49.98853
+],
+  "geometry": {"coordinates":[16.40198,49.98853],"type":"Point"}
+}

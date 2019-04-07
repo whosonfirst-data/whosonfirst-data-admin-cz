@@ -1,0 +1,135 @@
+{
+  "id": 1125874347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86462,49.89721,15.86462,49.89721",
+    "geom:latitude":49.89721,
+    "geom:longitude":15.86462,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":408,
+    "gn:population":408,
+    "iso:country":"CZ",
+    "lbl:latitude":49.89721,
+    "lbl:longitude":15.86462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:epo_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:may_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:por_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:rup_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:slo_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0442\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:unk_x_variant":[
+        "Bytowan"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3079293,
+    "qs_pg:gn_pop":408,
+    "qs_pg:name":"B\u00edtovany",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":397324,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":786260,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079293,
+        "gp:id":786260,
+        "qs_pg:id":397324,
+        "wd:id":"Q2201492"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497294464,
+    "wof:geomhash":"287b35a44b3446f358d51222a378b0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125874347,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125874347,
+    "wof:lastmodified":1513944849,
+    "wof:name":"B\u00edtovany",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86462,
+    49.89721,
+    15.86462,
+    49.89721
+],
+  "geometry": {"coordinates":[15.86462,49.89721],"type":"Point"}
+}

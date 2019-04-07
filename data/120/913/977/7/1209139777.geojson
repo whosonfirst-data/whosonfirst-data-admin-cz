@@ -1,0 +1,62 @@
+{
+  "id": 1209139777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33919,49.953,15.33919,49.953",
+    "geom:latitude":49.953,
+    "geom:longitude":15.33919,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0205",
+    "gn:asciiname":"Svaty Jakub",
+    "gn:country_code":"CZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064571,
+    "gn:latitude":49.953,
+    "gn:longitude":15.33919,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Svat\u00fd Jakub",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064571
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5a661d6c7cec32087b105f3f3bceb67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209139777
+        }
+    ],
+    "wof:id":1209139777,
+    "wof:lastmodified":1536296542,
+    "wof:name":"Svaty Jakub",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33919,
+    49.953,
+    15.33919,
+    49.953
+],
+  "geometry": {"coordinates":[15.33919,49.953],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276265555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95247,50.39586,13.95247,50.39586",
+    "geom:latitude":50.39586,
+    "geom:longitude":13.95247,
+    "gn:admin1_code":"89",
+    "gn:admin2_code":"0424",
+    "gn:asciiname":"Zelevice",
+    "gn:country_code":"CZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061572,
+    "gn:latitude":50.39586,
+    "gn:longitude":13.95247,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"\u017delevice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061572
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"683d1bbf7fdbbc8d92ef7cc66414e9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276265555,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276265555,
+    "wof:lastmodified":1536868248,
+    "wof:name":"Zelevice",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95247,
+    50.39586,
+    13.95247,
+    50.39586
+],
+  "geometry": {"coordinates":[13.95247,50.39586],"type":"Point"}
+}

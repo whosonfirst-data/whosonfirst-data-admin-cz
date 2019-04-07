@@ -1,0 +1,66 @@
+{
+  "id": 1276481405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92505,50.51177,13.92505,50.51177",
+    "geom:latitude":50.51177,
+    "geom:longitude":13.92505,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0423",
+    "gn:asciiname":"Lipa",
+    "gn:country_code":"CZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071834,
+    "gn:latitude":50.51177,
+    "gn:longitude":13.92505,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Lip\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071834
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"5d4c3c53d6dd4a234d44657d257cb026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276481405,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1276481405,
+    "wof:lastmodified":1537074386,
+    "wof:name":"Lipa",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92505,
+    50.51177,
+    13.92505,
+    50.51177
+],
+  "geometry": {"coordinates":[13.92505,50.51177],"type":"Point"}
+}

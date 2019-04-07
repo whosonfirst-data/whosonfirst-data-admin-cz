@@ -1,0 +1,145 @@
+{
+  "id": 101781035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":727740.061421,
+    "geom:bbox":"16.7291867389,49.0440400719,16.7460316565,49.055430074",
+    "geom:latitude":49.049285,
+    "geom:longitude":16.738118,
+    "gn:population":1139,
+    "iso:country":"CZ",
+    "lbl:latitude":49.049703,
+    "lbl:longitude":16.738692,
+    "mps:latitude":49.049703,
+    "mps:longitude":16.738692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Moutnice"
+    ],
+    "name:ces_x_preferred":[
+        "Moutnice"
+    ],
+    "name:cze_x_preferred":[
+        "Moutnice"
+    ],
+    "name:deu_x_preferred":[
+        "Moutnice"
+    ],
+    "name:dut_x_preferred":[
+        "Moutnice"
+    ],
+    "name:eng_x_preferred":[
+        "Moutnice"
+    ],
+    "name:fra_x_preferred":[
+        "Moutnice"
+    ],
+    "name:fre_x_preferred":[
+        "Moutnice"
+    ],
+    "name:ger_x_preferred":[
+        "Moutnice"
+    ],
+    "name:hun_x_preferred":[
+        "Moutnice"
+    ],
+    "name:ita_x_preferred":[
+        "Moutnice"
+    ],
+    "name:may_x_preferred":[
+        "Moutnice"
+    ],
+    "name:msa_x_preferred":[
+        "Moutnice"
+    ],
+    "name:nld_x_preferred":[
+        "Moutnice"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u0648\u062a\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Moutnice"
+    ],
+    "name:por_x_preferred":[
+        "Moutnice"
+    ],
+    "name:slk_x_preferred":[
+        "Moutnice"
+    ],
+    "name:slo_x_preferred":[
+        "Moutnice"
+    ],
+    "name:swe_x_preferred":[
+        "Moutnice"
+    ],
+    "name:vie_x_preferred":[
+        "Moutnice"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Moutnice",
+    "qs:la_lc":"*CZ0623583448",
+    "qs:level":"locality",
+    "qs:loc":"Moutnice",
+    "qs:loc_alt":"Moutnice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070264,
+        "gp:id":794282,
+        "qs:id":743572,
+        "qs_pg:id":743572,
+        "wd:id":"Q1620125",
+        "wk:page":"Moutnice"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"83e58cf2d1f18b4f7a0c8b20d9a2428a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101781035,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101781035,
+    "wof:lastmodified":1527715631,
+    "wof:name":"Moutnice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":1139,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72918673893969,
+    49.04404007193568,
+    16.74603165652849,
+    49.05543007400161
+],
+  "geometry": {"coordinates":[[[16.73895851453267,49.05534784586212],[16.73883580036778,49.05445273364046],[16.7429250897215,49.05420595488334],[16.74231123623099,49.04973041213077],[16.74367420207,49.04964812798312],[16.74342865110128,49.04785791084572],[16.74479156387343,49.04777561355888],[16.74466877236387,49.04688050596553],[16.74603165652849,49.04679819381977],[16.74590884618544,49.04590308744997],[16.74454598647537,49.04598539787492],[16.74442320620801,49.04509028928715],[16.74033467553897,49.04533711592325],[16.74045738244371,49.04623222967172],[16.73364295943327,49.04664328440185],[16.73339779578976,49.04485303921956],[16.73203494766295,49.0449351969894],[16.73191239871278,49.04404007193568],[16.72918673893969,49.04420433430204],[16.72943174463063,49.04599459078196],[16.73079462549816,49.04591246445437],[16.73091716121291,49.04680759023267],[16.73228006239503,49.04672544560736],[16.7328929474233,49.05120105846561],[16.73561898195027,49.05103670229147],[16.73610958671668,49.05461716989686],[16.73747269561642,49.05453496006027],[16.73759538531499,49.05543007400161],[16.73895851453267,49.05534784586212]]],"type":"Polygon"}
+}

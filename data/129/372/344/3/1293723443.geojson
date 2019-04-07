@@ -1,0 +1,70 @@
+{
+  "id": 1293723443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4235,50.78651,14.4235,50.78651",
+    "geom:latitude":50.78651,
+    "geom:longitude":14.4235,
+    "gn:admin1_code":"89.0",
+    "gn:admin2_code":"0421",
+    "gn:asciiname":"Hunikov",
+    "gn:country_code":"CZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074720,
+    "gn:latitude":50.78651,
+    "gn:longitude":14.4235,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Hun\u00edkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Henne",
+        "Hun\u00edkov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074720
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"86838ceece004bbf02fae7d1aed19cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293723443,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":1293723443,
+    "wof:lastmodified":1537619404,
+    "wof:name":"Hunikov",
+    "wof:parent_id":85682469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4235,
+    50.78651,
+    14.4235,
+    50.78651
+],
+  "geometry": {"coordinates":[14.4235,50.78651],"type":"Point"}
+}

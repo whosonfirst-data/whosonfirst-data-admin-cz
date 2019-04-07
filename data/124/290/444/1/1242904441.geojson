@@ -1,0 +1,70 @@
+{
+  "id": 1242904441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64853,49.79581,14.64853,49.79581",
+    "geom:latitude":49.79581,
+    "geom:longitude":14.64853,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"0201",
+    "gn:asciiname":"Zabovresky",
+    "gn:country_code":"CZ",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062121,
+    "gn:latitude":49.79581,
+    "gn:longitude":14.64853,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"\u017dabov\u0159esky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schaborschesk",
+        "\u017dabov\u0159esky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3062121
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7ff977d8d3f7e9083697a56060cd2ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1242904441,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1242904441,
+    "wof:lastmodified":1537619261,
+    "wof:name":"Zabovresky",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64853,
+    49.79581,
+    14.64853,
+    49.79581
+],
+  "geometry": {"coordinates":[14.64853,49.79581],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 85900945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5483361.779867,
+    "geom:bbox":"14.048496,50.662693,14.048496,50.662693",
+    "geom:latitude":50.662693,
+    "geom:longitude":14.048496,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.662693,
+    "lbl:longitude":14.048496,
+    "mps:latitude":50.666763,
+    "mps:longitude":14.053833,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "Stibrniky",
+        "Stribrniky"
+    ],
+    "name:cze_x_preferred":[
+        "St\u00edbrn\u00edky"
+    ],
+    "name:unk_x_variant":[
+        "St\u00edbrn\u00edky"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3063548,
+    "qs:gn_nam_loc":"\u00dast\u00ed nad Labem, \u00dasteck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"89",
+    "qs:local_max":552,
+    "qs:local_sum":1115,
+    "qs:localhoods":8,
+    "qs:name":"St\u00edbrn\u00edky",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"\u00dasteck\u00fd kraj",
+    "qs:name_adm2":"\u00dast\u00ed nad Labem",
+    "qs:name_lau":"\u00dast\u00ed nad Labem",
+    "qs:name_local":"\u00dast\u00ed nad Labem",
+    "qs:photo_max":71,
+    "qs:photo_sum":321,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070499,
+    "qs:woe_adm2":12582569,
+    "qs:woe_lau":12606615,
+    "qs:woe_local":800260,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748139,
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":799066,
+        "qs:id":221861,
+        "qs_pg:id":221861
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9376f07bcd6f0a39a6a0afe1aaba29c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748139,
+            "neighbourhood_id":85900945,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":85900945,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531932408,
+    "wof:name":"St\u00edbrn\u00edky",
+    "wof:parent_id":101748139,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.048496,
+    50.662693,
+    14.048496,
+    50.662693
+],
+  "geometry": {"coordinates":[14.048496,50.662693],"type":"Point"}
+}

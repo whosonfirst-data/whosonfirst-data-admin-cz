@@ -1,0 +1,150 @@
+{
+  "id": 101833049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000179,
+    "geom:area_square_m":1448125.909568,
+    "geom:bbox":"16.3509039571,49.1831654368,16.3783068457,49.1976865399",
+    "geom:latitude":49.189029,
+    "geom:longitude":16.362139,
+    "gn:population":2405,
+    "iso:country":"CZ",
+    "lbl:latitude":49.189726,
+    "lbl:longitude":16.359647,
+    "mps:latitude":49.189726,
+    "mps:longitude":16.359647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:ces_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:cze_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:deu_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:dut_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:eng_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:fra_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:fre_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:ger_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:hun_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:ita_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:may_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:msa_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:nan_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:nld_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0627\u0633\u062a\u0627\u0648\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:por_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:rup_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:slo_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:swe_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "name:unk_x_variant":[
+        "Segen Gottes"
+    ],
+    "name:vie_x_preferred":[
+        "Zast\u00e1vka"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Jihomoravsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Babice u Rosic",
+    "qs:la_lc":"*CZ0623582808",
+    "qs:level":"locality",
+    "qs:loc":"Zast\u00e1vka",
+    "qs:loc_alt":"Zastavka",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061830,
+        "gp:id":801774,
+        "qs:id":2855,
+        "qs_pg:id":2855,
+        "wd:id":"Q148299",
+        "wk:page":"Zast\u00e1vka (Brno-Country District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e5485f4ad70087300d0cbc1b45400b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101833049,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":101833049,
+    "wof:lastmodified":1553815531,
+    "wof:name":"Zast\u00e1vka",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:population":2405,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35090395708835,
+    49.18316543676946,
+    16.37830684569747,
+    49.19768653993253
+],
+  "geometry": {"coordinates":[[[16.37830684569747,49.18928839078347],[16.37671433414192,49.1839661293281],[16.37504921215532,49.18406095618468],[16.37493265130473,49.18316543676946],[16.3708311850894,49.18339885820751],[16.37094767190922,49.18429438252514],[16.36547889621721,49.1846053845976],[16.36536250810917,49.18370985374776],[16.35579217130203,49.18425345505915],[16.35590838665405,49.18514899732634],[16.35454115521236,49.18522658969971],[16.35477355257115,49.18701767608917],[16.35340626781976,49.18709525507433],[16.353522449823,49.1879907991966],[16.3521551364426,49.18806836316287],[16.35227129909862,49.18896390844685],[16.35090395708835,49.18904145739367],[16.35125240301915,49.1917280953266],[16.35261981909389,49.19165054149227],[16.35273600310211,49.19254608490559],[16.35410343992135,49.19246851279206],[16.35421965395972,49.19336405410797],[16.35558711152379,49.19328646371417],[16.35581960500673,49.19507754168313],[16.35718710800791,49.19499993137788],[16.35753596238493,49.19768653993253],[16.35890353552111,49.19760890808334],[16.35878722068918,49.19671337399717],[16.36152230571878,49.19655806360646],[16.36140594684315,49.19566253231574],[16.36277345873674,49.19558485377536],[16.36265708051519,49.19468932364902],[16.36402456376396,49.19461163008987],[16.3639081661986,49.19371610112796],[16.36527562080329,49.19363839255078],[16.36480998527117,49.19005627855051],[16.36617733717009,49.18997855985452],[16.36606091697303,49.18908303181632],[16.37016287489303,49.18884978073635],[16.3698134242527,49.18616320850873],[16.37118066160377,49.18608542975392],[16.37106416408051,49.18518990637403],[16.37516577836089,49.18495647513078],[16.37563209674039,49.18853854622353],[16.37426479721449,49.18861637982371],[16.37438136551742,49.18951189805944],[16.37830684569747,49.18928839078347]]],"type":"Polygon"}
+}

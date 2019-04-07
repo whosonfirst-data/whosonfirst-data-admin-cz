@@ -1,0 +1,66 @@
+{
+  "id": 1293035317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77309,49.10986,13.77309,49.10986",
+    "geom:latitude":49.10986,
+    "geom:longitude":13.77309,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Onsovice",
+    "gn:country_code":"CZ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068955,
+    "gn:latitude":49.10986,
+    "gn:longitude":13.77309,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"On\u0161ovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068955
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1917512dc11273c222f7ab0fd22d53c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293035317,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293035317,
+    "wof:lastmodified":1536942577,
+    "wof:name":"Onsovice",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77309,
+    49.10986,
+    13.77309,
+    49.10986
+],
+  "geometry": {"coordinates":[13.77309,49.10986],"type":"Point"}
+}

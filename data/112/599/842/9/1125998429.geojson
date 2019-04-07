@@ -1,0 +1,137 @@
+{
+  "id": 1125998429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93291,48.87921,14.93291,48.87921",
+    "geom:latitude":48.87921,
+    "geom:longitude":14.93291,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":543,
+    "gn:population":543,
+    "iso:country":"CZ",
+    "lbl:latitude":48.87921,
+    "lbl:longitude":14.93291,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:deu_x_preferred":[
+        "Rapschach"
+    ],
+    "name:dut_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:eng_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:fre_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:ger_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:hun_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:ita_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:may_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0627\u067e\u0634\u0627\u062e"
+    ],
+    "name:pol_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:por_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:slo_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043f\u0448\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "name:vie_x_preferred":[
+        "Rap\u0161ach"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067025,
+    "qs_pg:gn_pop":543,
+    "qs_pg:name":"Rap\u0161ach",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":289132,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":797211,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067025,
+        "gp:id":797211,
+        "qs_pg:id":289132,
+        "wd:id":"Q1237365"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497299502,
+    "wof:geomhash":"ac30edd318eb1fd9981efb5b5fda3572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125998429,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1125998429,
+    "wof:lastmodified":1513945632,
+    "wof:name":"Rap\u0161ach",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:population":543,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93291,
+    48.87921,
+    14.93291,
+    48.87921
+],
+  "geometry": {"coordinates":[14.93291,48.87921],"type":"Point"}
+}

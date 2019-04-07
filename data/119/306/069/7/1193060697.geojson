@@ -1,0 +1,70 @@
+{
+  "id": 1193060697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01323,50.35169,17.01323,50.35169",
+    "geom:latitude":50.35169,
+    "geom:longitude":17.01323,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"0711",
+    "gn:asciiname":"Zastavka",
+    "gn:country_code":"CZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3061828,
+    "gn:latitude":50.35169,
+    "gn:longitude":17.01323,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Zast\u00e1vka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stillstand",
+        "Zast\u00e1vka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061828
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"08c8e6f139524a27d002927f1e4d3b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1193060697,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":1193060697,
+    "wof:lastmodified":1537619257,
+    "wof:name":"Zastavka",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01323,
+    50.35169000000001,
+    17.01323,
+    50.35169000000001
+],
+  "geometry": {"coordinates":[17.01323,50.35169000000001],"type":"Point"}
+}

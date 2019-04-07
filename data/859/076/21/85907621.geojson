@@ -1,0 +1,113 @@
+{
+  "id": 85907621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3725900.137796,
+    "geom:bbox":"15.779485,50.03878,15.779485,50.03878",
+    "geom:latitude":50.03878,
+    "geom:longitude":15.779485,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.03878,
+    "lbl:longitude":15.779485,
+    "mps:latitude":50.04287,
+    "mps:longitude":15.786668,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "Pardubice-Stare Mesto",
+        "Pardubice-stare Misto"
+    ],
+    "name:cze_x_preferred":[
+        "Pardubice-Star\u00e9 M\u011bsto"
+    ],
+    "name:cze_x_variant":[
+        "Pardubice-Star\u00e9 M\u00ecsto"
+    ],
+    "name:unk_x_variant":[
+        "Pardubice-Star\u00e9 M\u011bsto"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3068582,
+    "qs:gn_nam_loc":"Pardubice, Pardubice, Pardubice, Pardubick\u00fd kraj, CZ",
+    "qs:gn_namadm1":"86",
+    "qs:local_max":718,
+    "qs:local_sum":1556,
+    "qs:localhoods":5,
+    "qs:name":"Pardubice-Star\u00e9 M\u011bsto",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Pardubick\u00fd kraj",
+    "qs:name_adm2":"Pardubice",
+    "qs:name_lau":"Pardubice",
+    "qs:name_local":"Pardubice",
+    "qs:photo_max":46,
+    "qs:photo_sum":235,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070465,
+    "qs:woe_adm2":12582598,
+    "qs:woe_lau":12608891,
+    "qs:woe_local":795793,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748115,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23406470,
+        "qs:id":230527,
+        "qs_pg:id":230527
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"76193aaa0522bf3c4eabacfb0fca64bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748115,
+            "neighbourhood_id":85907621,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":85907621,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531936610,
+    "wof:name":"Pardubice-Star\u00e9 M\u011bsto",
+    "wof:parent_id":101748115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.779485,
+    50.03878,
+    15.779485,
+    50.03878
+],
+  "geometry": {"coordinates":[15.779485,50.03878],"type":"Point"}
+}

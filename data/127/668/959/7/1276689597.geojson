@@ -1,0 +1,66 @@
+{
+  "id": 1276689597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17979,49.82585,16.17979,49.82585",
+    "geom:latitude":49.82585,
+    "geom:longitude":16.17979,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0533",
+    "gn:asciiname":"Olsany",
+    "gn:country_code":"CZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3068999,
+    "gn:latitude":49.82585,
+    "gn:longitude":16.17979,
+    "gn:modification_date":"2017-02-02",
+    "gn:name":"Ol\u0161any",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3068999
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f30a17500969368f77675cb911695bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276689597,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1276689597,
+    "wof:lastmodified":1536798550,
+    "wof:name":"Olsany",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17979,
+    49.82585,
+    16.17979,
+    49.82585
+],
+  "geometry": {"coordinates":[16.17979,49.82585],"type":"Point"}
+}

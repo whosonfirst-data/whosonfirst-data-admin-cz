@@ -1,0 +1,114 @@
+{
+  "id": 101825713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:area_square_m":1046489.619489,
+    "geom:bbox":"13.4642109566,50.0909040038,13.4843464115,50.1023219063",
+    "geom:latitude":50.097171,
+    "geom:longitude":13.473549,
+    "gn:population":1660,
+    "iso:country":"CZ",
+    "lbl:latitude":50.09633,
+    "lbl:longitude":13.471718,
+    "mps:latitude":50.09633,
+    "mps:longitude":13.471718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jesenice"
+    ],
+    "name:ces_x_preferred":[
+        "Jesenice"
+    ],
+    "name:deu_x_preferred":[
+        "Jesenice u Rakovn\u00edka"
+    ],
+    "name:hun_x_preferred":[
+        "Jesenice"
+    ],
+    "name:ita_x_preferred":[
+        "Jesenice"
+    ],
+    "name:msa_x_preferred":[
+        "Jesenice"
+    ],
+    "name:nld_x_preferred":[
+        "Jesenice"
+    ],
+    "name:pol_x_preferred":[
+        "Jesenice"
+    ],
+    "name:por_x_preferred":[
+        "Jesenice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0441\u0435\u043d\u0438\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Jechnitz"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Stredocesk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"Jesenice",
+    "qs:la_lc":"*CZ020C541834",
+    "qs:level":"locality",
+    "qs:loc":"Jesenice",
+    "qs:loc_alt":"Jesenice",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074284,
+        "gp:id":790733,
+        "qs:id":876967,
+        "qs_pg:id":876967,
+        "wd:id":"Q1688065",
+        "wk:page":"Jesenice (Rakovn\u00edk District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"73eac01f03eb7f7ac5231c482f5ce89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101825713,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":101825713,
+    "wof:lastmodified":1505338174,
+    "wof:name":"Jesenice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":1660,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46421095655069,
+    50.09090400381888,
+    13.48434641152267,
+    50.10232190631825
+],
+  "geometry": {"coordinates":[[[13.48434641152267,50.10223656623464],[13.48408405147131,50.09864475102756],[13.4826878486964,50.09868742592141],[13.48262229257568,50.0977894704605],[13.48122611369314,50.09783212734067],[13.4811605868349,50.09693417066239],[13.47976443184382,50.09697680952979],[13.47969893424533,50.09607885163439],[13.47830280314645,50.09612147248981],[13.4782373348051,50.09522351337779],[13.47684122759784,50.09526611622186],[13.47671035250312,50.09347019527127],[13.47531429536298,50.09351277918313],[13.47524888860528,50.09261481734507],[13.47385285535574,50.09265738324734],[13.47378747784666,50.09175942019374],[13.4723914684879,50.09180196808751],[13.47232612022452,50.09090400381888],[13.46813815698221,50.09103154221293],[13.46826869954617,50.0928274759741],[13.46687265489544,50.0928699564347],[13.46693790460648,50.09376792379277],[13.46554183150351,50.09381038808368],[13.46560705810737,50.09470835606629],[13.46421095655069,50.0947508041865],[13.46434136660503,50.09654674110658],[13.46573752051802,50.09650429114947],[13.46580275632499,50.0974022582501],[13.4671989341403,50.09735979028409],[13.46739473851909,50.10005368706567],[13.46599848215681,50.10009615778858],[13.46612898138812,50.10189208934531],[13.46892159657506,50.101807127131],[13.46885629305302,50.10090916333803],[13.47723392675107,50.10065387200973],[13.47729938738479,50.10155183027814],[13.48148825194698,50.10142395111097],[13.48155379421695,50.10232190631825],[13.48434641152267,50.10223656623464]]],"type":"Polygon"}
+}

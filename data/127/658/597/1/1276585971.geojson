@@ -1,0 +1,66 @@
+{
+  "id": 1276585971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11029,49.54426,13.11029,49.54426",
+    "geom:latitude":49.54426,
+    "geom:longitude":13.11029,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Krchleby",
+    "gn:country_code":"CZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072824,
+    "gn:latitude":49.54426,
+    "gn:longitude":13.11029,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Krchleby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072824
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"a036132961b285aa151ba6e77bee45b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276585971,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1276585971,
+    "wof:lastmodified":1536938551,
+    "wof:name":"Krchleby",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11029,
+    49.54426,
+    13.11029,
+    49.54426
+],
+  "geometry": {"coordinates":[13.11029,49.54426],"type":"Point"}
+}

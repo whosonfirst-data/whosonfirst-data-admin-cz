@@ -1,0 +1,66 @@
+{
+  "id": 1326664767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64175,49.10359,13.64175,49.10359",
+    "geom:latitude":49.10359,
+    "geom:longitude":13.64175,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Jachymov",
+    "gn:country_code":"CZ",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3074590,
+    "gn:latitude":49.10359,
+    "gn:longitude":13.64175,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"J\u00e1chymov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074590
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"fcb85cd98ff42be4bf1bd23892b5630c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326664767,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1326664767,
+    "wof:lastmodified":1536793268,
+    "wof:name":"Jachymov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64175,
+    49.10359,
+    13.64175,
+    49.10359
+],
+  "geometry": {"coordinates":[13.64175,49.10359],"type":"Point"}
+}

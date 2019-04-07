@@ -1,0 +1,108 @@
+{
+  "id": 85907615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11648066.856804,
+    "geom:bbox":"15.115226,50.768477,15.115226,50.768477",
+    "geom:latitude":50.768477,
+    "geom:longitude":15.115226,
+    "gn:id":"",
+    "iso:country":"CZ",
+    "lbl:latitude":50.768477,
+    "lbl:longitude":15.115226,
+    "mps:latitude":50.776171,
+    "mps:longitude":15.131167,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:cze_x_colloquial":[
+        "Liberec XVI-Novy Harcov"
+    ],
+    "name:cze_x_preferred":[
+        "Liberec XVI-Nov\u00fd Harcov"
+    ],
+    "name:unk_x_variant":[
+        "Liberec XVI-Nov\u00fd Harcov"
+    ],
+    "qs:gn_adm0_cc":"CZ",
+    "qs:gn_id":0,
+    "qs:gn_local":3071961,
+    "qs:gn_nam_loc":"Liberec, Liberec, Liberec, Libereck\u00fd kraj, CZ",
+    "qs:gn_namadm1":"83",
+    "qs:local_max":1246,
+    "qs:local_sum":2097,
+    "qs:localhoods":7,
+    "qs:name":"Liberec XVI-Nov\u00fd Harcov",
+    "qs:name_adm0":"\u010cesk\u00e1 republika",
+    "qs:name_adm1":"Libereck\u00fd kraj",
+    "qs:name_adm2":"Liberec",
+    "qs:name_lau":"Liberec",
+    "qs:name_local":"Liberec",
+    "qs:photo_max":4,
+    "qs:photo_sum":14,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424810,
+    "qs:woe_adm1":20070498,
+    "qs:woe_adm2":12582564,
+    "qs:woe_lau":12606600,
+    "qs:woe_local":792768,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23406450,
+        "qs:id":509143,
+        "qs_pg:id":509143
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3da7bd194511d6c426879e5f833583c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":85907615,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":85907615,
+    "wof:lang":[
+        "cze"
+    ],
+    "wof:lastmodified":1531936608,
+    "wof:name":"Liberec XVI-Nov\u00fd Harcov",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.115226,
+    50.768477,
+    15.115226,
+    50.768477
+],
+  "geometry": {"coordinates":[15.115226,50.768477],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343894299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.27389,49.19254,14.27389,49.19254",
+    "geom:latitude":49.19254,
+    "geom:longitude":14.27389,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0314",
+    "gn:asciiname":"Tesinov",
+    "gn:country_code":"CZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064248,
+    "gn:latitude":49.19254,
+    "gn:longitude":14.27389,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"T\u011b\u0161\u00ednov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064248
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"80ec7398148b00ee700bcce386167364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343894299,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1343894299,
+    "wof:lastmodified":1536615329,
+    "wof:name":"Tesinov",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27389,
+    49.19254,
+    14.27389,
+    49.19254
+],
+  "geometry": {"coordinates":[14.27389,49.19254],"type":"Point"}
+}

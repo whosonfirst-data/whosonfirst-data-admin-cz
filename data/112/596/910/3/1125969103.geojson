@@ -1,0 +1,141 @@
+{
+  "id": 1125969103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68583,50.27503,15.68583,50.27503",
+    "geom:latitude":50.27503,
+    "geom:longitude":15.68583,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":267,
+    "gn:population":267,
+    "iso:country":"CZ",
+    "lbl:latitude":50.27503,
+    "lbl:longitude":15.68583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u043e\u0432\u043e\u0443\u0441\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:dut_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:eng_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:fre_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:ger_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:hun_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:ita_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:may_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:nan_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u06a9\u0631\u0648\u0648\u0648\u0648\u0633\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:por_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:rup_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:slo_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u043e\u0432\u043e\u0443\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mokrovousy"
+    ],
+    "name:vie_x_preferred":[
+        "Mokrovousy"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3070377,
+    "qs_pg:gn_pop":267,
+    "qs_pg:name":"Mokrovousy",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":399475,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":794184,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3070377,
+        "gp:id":794184,
+        "qs_pg:id":399475,
+        "wd:id":"Q615723"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497298095,
+    "wof:geomhash":"0c923bb29e87bd9215289f0fd9f83f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125969103,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":1125969103,
+    "wof:lastmodified":1513945379,
+    "wof:name":"Mokrovousy",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:population":267,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68583,
+    50.27503,
+    15.68583,
+    50.27503
+],
+  "geometry": {"coordinates":[15.68583,50.27503],"type":"Point"}
+}

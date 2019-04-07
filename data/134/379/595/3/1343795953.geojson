@@ -1,0 +1,66 @@
+{
+  "id": 1343795953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88028,49.93011,15.88028,49.93011",
+    "geom:latitude":49.93011,
+    "geom:longitude":15.88028,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"0531",
+    "gn:asciiname":"Libanice",
+    "gn:country_code":"CZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071989,
+    "gn:latitude":49.93011,
+    "gn:longitude":15.88028,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Libanice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3071989
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c6c97b95ca1a80c06d143c9492b55de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1343795953,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1343795953,
+    "wof:lastmodified":1536759979,
+    "wof:name":"Libanice",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88028,
+    49.93011,
+    15.88028,
+    49.93011
+],
+  "geometry": {"coordinates":[15.88028,49.93011],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1326566045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95071,49.50774,17.95071,49.50774",
+    "geom:latitude":49.50774,
+    "geom:longitude":17.95071,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0723",
+    "gn:asciiname":"Priluky",
+    "gn:country_code":"CZ",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067501,
+    "gn:latitude":49.50774,
+    "gn:longitude":17.95071,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"P\u0159\u00edluky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067501
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2983d05ab307b0337e2eecbdb1b07239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1326566045,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":1326566045,
+    "wof:lastmodified":1536935955,
+    "wof:name":"Priluky",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95071,
+    49.50774000000001,
+    17.95071,
+    49.50774000000001
+],
+  "geometry": {"coordinates":[17.95071,49.50774000000001],"type":"Point"}
+}

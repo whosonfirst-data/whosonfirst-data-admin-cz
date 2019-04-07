@@ -1,0 +1,114 @@
+{
+  "id": 101754461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":543038.111734,
+    "geom:bbox":"18.3596519659,49.6609618677,18.374014443,49.6732903016",
+    "geom:latitude":49.668506,
+    "geom:longitude":18.36627,
+    "gn:population":1205,
+    "iso:country":"CZ",
+    "lbl:latitude":49.669983,
+    "lbl:longitude":18.366379,
+    "mps:latitude":49.669983,
+    "mps:longitude":18.366379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:ces_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:deu_x_preferred":[
+        "Star\u00e9 M\u011bsto u Fr\u00fddku-M\u00edstku"
+    ],
+    "name:fra_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:hun_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:ita_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:msa_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:nld_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:pol_x_preferred":[
+        "Stare Miasto"
+    ],
+    "name:por_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:unk_x_variant":[
+        "Stare Miasto"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:la":"\u017dabe\u0148",
+    "qs:la_lc":"*CZ0802552691",
+    "qs:level":"locality",
+    "qs:loc":"Star\u00e9 M\u011bsto",
+    "qs:loc_alt":"Stare Mesto",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065334,
+        "gp:id":798698,
+        "qs:id":1042982,
+        "qs_pg:id":1042982,
+        "wd:id":"Q2035082",
+        "wk:page":"Star\u00e9 M\u011bsto (Fr\u00fddek-M\u00edstek District)"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c0a15e98cfd3c54ec1e9afc958431f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101754461,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101754461,
+    "wof:lastmodified":1505337744,
+    "wof:name":"Star\u00e9 M\u011bsto",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:population":1205,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35965196587392,
+    49.66096186765481,
+    18.37401444300809,
+    49.67329030160164
+],
+  "geometry": {"coordinates":[[[18.36794353979116,49.67308381850893],[18.36774701871531,49.67195408732994],[18.36912479590205,49.6718518237048],[18.36850378737569,49.6682816914302],[18.37401444300809,49.66787250415183],[18.37385910889526,49.66697997836008],[18.37110384170467,49.66718460116022],[18.37094856475585,49.66629207045344],[18.36957094815978,49.66639435454914],[18.36910523539916,49.66371675250485],[18.37048277704042,49.66361447492858],[18.37007593247512,49.66127533178485],[18.36862616087313,49.66096186765481],[18.36879479615789,49.66193168163898],[18.3674172991586,49.6620339381173],[18.36772768843446,49.66381901332829],[18.36635013614836,49.66392125739878],[18.36650531657972,49.66481379632563],[18.36512773398755,49.66491602581505],[18.36543806643135,49.66670110631213],[18.36406042854475,49.66680332339138],[18.36437073974798,49.66858840596507],[18.36072047131717,49.66885915701221],[18.35965196587392,49.67142357007583],[18.36067018306983,49.67244178727168],[18.36474305185305,49.67329030160164],[18.36794353979116,49.67308381850893]]],"type":"Polygon"}
+}

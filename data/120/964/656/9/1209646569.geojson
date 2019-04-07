@@ -1,0 +1,66 @@
+{
+  "id": 1209646569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47603,50.47466,14.47603,50.47466",
+    "geom:latitude":50.47466,
+    "geom:longitude":14.47603,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0206",
+    "gn:asciiname":"Chudolazy",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3077515,
+    "gn:latitude":50.47466,
+    "gn:longitude":14.47603,
+    "gn:modification_date":"2013-09-22",
+    "gn:name":"Chudolazy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chudolas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077515
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"af4e018d61aeab75aab0b1b85b7071bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209646569
+        }
+    ],
+    "wof:id":1209646569,
+    "wof:lastmodified":1537619442,
+    "wof:name":"Chudolazy",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47603,
+    50.47466,
+    14.47603,
+    50.47466
+],
+  "geometry": {"coordinates":[14.47603,50.47466],"type":"Point"}
+}

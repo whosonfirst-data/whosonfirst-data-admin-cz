@@ -1,0 +1,62 @@
+{
+  "id": 1209140065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96856,49.30543,16.96856,49.30543",
+    "geom:latitude":49.30543,
+    "geom:longitude":16.96856,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0626",
+    "gn:asciiname":"Hamiltony",
+    "gn:country_code":"CZ",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075987,
+    "gn:latitude":49.30543,
+    "gn:longitude":16.96856,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Hamiltony",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3075987
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"90f44c0d8af5c762344011aff1c4bf96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209140065
+        }
+    ],
+    "wof:id":1209140065,
+    "wof:lastmodified":1536296533,
+    "wof:name":"Hamiltony",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96856,
+    49.30543,
+    16.96856,
+    49.30543
+],
+  "geometry": {"coordinates":[16.96856,49.30543],"type":"Point"}
+}

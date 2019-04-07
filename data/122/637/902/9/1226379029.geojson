@@ -1,0 +1,70 @@
+{
+  "id": 1226379029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58998,49.79181,15.58998,49.79181",
+    "geom:latitude":49.79181,
+    "geom:longitude":15.58998,
+    "gn:admin1_code":"80.0",
+    "gn:admin2_code":"0611",
+    "gn:asciiname":"Borek",
+    "gn:country_code":"CZ",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079017,
+    "gn:latitude":49.79181,
+    "gn:longitude":15.58998,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Borek",
+    "gn:population":140,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3079017,
+        "wk:page":"Borek_%28Havl%C3%AD%C4%8Dk%C5%AFv_Brod_District%29"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"feecc701e59178ac0cf96fdfbcc67d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1226379029,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":1226379029,
+    "wof:lastmodified":1537504071,
+    "wof:name":"Borek",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58998,
+    49.79181,
+    15.58998,
+    49.79181
+],
+  "geometry": {"coordinates":[15.58998,49.79181],"type":"Point"}
+}

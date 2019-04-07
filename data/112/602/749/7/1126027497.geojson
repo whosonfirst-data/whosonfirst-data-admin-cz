@@ -1,0 +1,137 @@
+{
+  "id": 1126027497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05046,51.00446,15.05046,51.00446",
+    "geom:latitude":51.00446,
+    "geom:longitude":15.05046,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":322,
+    "gn:population":322,
+    "iso:country":"CZ",
+    "lbl:latitude":51.00446,
+    "lbl:longitude":15.05046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:ger_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:hun_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:may_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:por_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:rup_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0443\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cernousy"
+    ],
+    "name:unk_x_variant":[
+        "Tschernhausen"
+    ],
+    "name:vie_x_preferred":[
+        "\u010cernousy"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3078023,
+    "qs_pg:gn_pop":322,
+    "qs_pg:name":"\u010cernousy",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Libereck\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":318882,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787376,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Libereck\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078023,
+        "gp:id":787376,
+        "qs_pg:id":318882,
+        "wd:id":"Q338979"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497301235,
+    "wof:geomhash":"10e14bcd43f563421606a47154907194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1126027497,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":1126027497,
+    "wof:lastmodified":1513946025,
+    "wof:name":"\u010cernousy",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:population":322,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05046,
+    51.00446,
+    15.05046,
+    51.00446
+],
+  "geometry": {"coordinates":[15.05046,51.00446],"type":"Point"}
+}

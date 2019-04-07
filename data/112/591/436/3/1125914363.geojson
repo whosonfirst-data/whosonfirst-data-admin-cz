@@ -1,0 +1,135 @@
+{
+  "id": 1125914363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25333,49.83461,15.25333,49.83461",
+    "geom:latitude":49.83461,
+    "geom:longitude":15.25333,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":709,
+    "gn:population":709,
+    "iso:country":"CZ",
+    "lbl:latitude":49.83461,
+    "lbl:longitude":15.25333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:fre_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:hun_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:may_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0634\u0631\u0648\u0646\u0647 \u06cc\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:por_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:rup_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:slo_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u0435 \u0408\u0430\u043d\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "name:unk_x_variant":[
+        "Roth Janowitz"
+    ],
+    "name:vie_x_preferred":[
+        "\u010cerven\u00e9 Janovice"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3077969,
+    "qs_pg:gn_pop":709,
+    "qs_pg:name":"\u010cerven\u00e9 Janovice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1265514,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":787418,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3077969,
+        "gp:id":787418,
+        "qs_pg:id":1265514,
+        "wd:id":"Q1896437"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497296263,
+    "wof:geomhash":"a6ceb5890c3d980b7738782bae3a152a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125914363,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125914363,
+    "wof:lastmodified":1513946032,
+    "wof:name":"\u010cerven\u00e9 Janovice",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":709,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25333,
+    49.83461,
+    15.25333,
+    49.83461
+],
+  "geometry": {"coordinates":[15.25333,49.83461],"type":"Point"}
+}

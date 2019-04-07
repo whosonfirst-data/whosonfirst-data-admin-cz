@@ -1,0 +1,66 @@
+{
+  "id": 1276478693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61682,49.5918,16.61682,49.5918",
+    "geom:latitude":49.5918,
+    "geom:longitude":16.61682,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Svarov",
+    "gn:country_code":"CZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3064634,
+    "gn:latitude":49.5918,
+    "gn:longitude":16.61682,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Sv\u00e1rov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064634
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b0fb3af2666ccdd4366c09a440b129c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1276478693,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":1276478693,
+    "wof:lastmodified":1537078101,
+    "wof:name":"Svarov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61682,
+    49.5918,
+    16.61682,
+    49.5918
+],
+  "geometry": {"coordinates":[16.61682,49.5918],"type":"Point"}
+}

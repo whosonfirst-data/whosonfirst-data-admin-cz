@@ -1,0 +1,96 @@
+{
+  "id": 101841995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":519332.091834,
+    "geom:bbox":"18.3606755585,49.5705568907,18.3834236494,49.5843332808",
+    "geom:latitude":49.577499,
+    "geom:longitude":18.36879,
+    "iso:country":"CZ",
+    "lbl:latitude":49.578993,
+    "lbl:longitude":18.363878,
+    "mps:latitude":49.578993,
+    "mps:longitude":18.363878,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:eng_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:epo_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:fre_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "name:slo_x_preferred":[
+        "Nov\u00e1 Ves"
+    ],
+    "qs:a0":"Cesk\u00e1 republika",
+    "qs:a1":"*Moravskoslezsk\u00fd",
+    "qs:a1r":"0",
+    "qs:adm0":"Cesk\u00e1 republika",
+    "qs:id":0,
+    "qs:la":"Metylovice",
+    "qs:la_lc":"*CZ0802512184",
+    "qs:level":"locality",
+    "qs:loc":"Nov\u00e1 Ves",
+    "qs:loc_alt":"Nova Ves",
+    "qs:pop":0,
+    "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069628,
+        "gp:id":794926,
+        "qs:id":399679,
+        "qs_pg:id":277646,
+        "wd:id":"Q3509519"
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e00ba98dba9532b81fc119425e2c956c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101841995,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":101841995,
+    "wof:lastmodified":1527714695,
+    "wof:name":"Nov\u00e1 Ves",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36067555852333,
+    49.57055689067118,
+    18.38342364935301,
+    49.58433328080224
+],
+  "geometry": {"coordinates":[[[18.36067555852333,49.57755270251124],[18.36368605459535,49.58433328080224],[18.36341557676587,49.58277356736068],[18.36479084271355,49.58267138460417],[18.36448134477234,49.58088624163793],[18.3658565556679,49.58078404649223],[18.36570179254647,49.57989147631804],[18.36845214869868,49.57968704019845],[18.36829734297845,49.57879447378531],[18.38342364935301,49.57766890353389],[18.38311351220489,49.57588381669609],[18.37898836875263,49.57619097800898],[18.37914335913689,49.57708352822317],[18.3722678896724,49.57759514022518],[18.37211302364091,49.57670257916936],[18.37073793872247,49.5768048492464],[18.37042827786587,49.57501972108486],[18.36905323739165,49.57512197010976],[18.3685888743592,49.57244426707814],[18.36996384023047,49.57234202455277],[18.36965425090119,49.57055689067118],[18.36827933475899,49.57065912886401],[18.3684341009839,49.57155169825717],[18.36705915468383,49.57165392189955],[18.36798775299565,49.57700933924434],[18.36386243469394,49.57731594884996],[18.36355302254896,49.575530799028],[18.36080288337268,49.57573511317656],[18.36111219602782,49.57752027165822],[18.36067555852333,49.57755270251124]]],"type":"Polygon"}
+}

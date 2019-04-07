@@ -1,0 +1,128 @@
+{
+  "id": 1125959713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62415,50.13178,15.62415,50.13178",
+    "geom:latitude":50.13178,
+    "geom:longitude":15.62415,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":87,
+    "gn:population":87,
+    "iso:country":"CZ",
+    "lbl:latitude":50.13178,
+    "lbl:longitude":15.62415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Pravy"
+    ],
+    "name:dut_x_preferred":[
+        "Pravy"
+    ],
+    "name:eng_x_preferred":[
+        "Pravy"
+    ],
+    "name:epo_x_preferred":[
+        "Pravy"
+    ],
+    "name:fre_x_preferred":[
+        "Pravy"
+    ],
+    "name:hun_x_preferred":[
+        "Pravy"
+    ],
+    "name:ita_x_preferred":[
+        "Pravy"
+    ],
+    "name:may_x_preferred":[
+        "Pravy"
+    ],
+    "name:pol_x_preferred":[
+        "Pravy"
+    ],
+    "name:por_x_preferred":[
+        "Pravy"
+    ],
+    "name:slo_x_preferred":[
+        "Pravy"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Pravy"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3067664,
+    "qs_pg:gn_pop":87,
+    "qs_pg:name":"Pravy",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Pardubick\u00fd kraj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":939061,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":796621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Pardubick\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3067664,
+        "gp:id":796621,
+        "qs_pg:id":939061,
+        "wd:id":"Q1882178"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297751,
+    "wof:geomhash":"5b79d21eb53126cc05f50ad487d849c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125959713,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":1125959713,
+    "wof:lastmodified":1513945589,
+    "wof:name":"Pravy",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62415,
+    50.13178,
+    15.62415,
+    50.13178
+],
+  "geometry": {"coordinates":[15.62415,50.13178],"type":"Point"}
+}

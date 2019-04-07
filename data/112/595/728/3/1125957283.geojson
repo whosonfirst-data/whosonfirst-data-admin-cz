@@ -1,0 +1,129 @@
+{
+  "id": 1125957283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18221,50.23115,14.18221,50.23115",
+    "geom:latitude":50.23115,
+    "geom:longitude":14.18221,
+    "gn:gn_country":"CZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":813,
+    "gn:population":813,
+    "iso:country":"CZ",
+    "lbl:latitude":50.23115,
+    "lbl:longitude":14.18221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "name:dut_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "name:eng_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "name:fre_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "name:hun_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "name:ita_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "name:may_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0648\u0648\u0644\u0646\u06cc\u0648\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "name:slo_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0432\u043e\u043b\u0435\u045a\u0435\u0432\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "name:unk_x_variant":[
+        "Swolenowes"
+    ],
+    "name:vie_x_preferred":[
+        "Zvolen\u011bves"
+    ],
+    "qs_pg:aaroncc":"CZ",
+    "qs_pg:gn_country":"CZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3061291,
+    "qs_pg:gn_pop":813,
+    "qs_pg:name":"Zvolen\u011bves",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1247670,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":802269,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3061291,
+        "gp:id":802269,
+        "qs_pg:id":1247670,
+        "wd:id":"Q2241218"
+    },
+    "wof:country":"CZ",
+    "wof:created":1497297661,
+    "wof:geomhash":"75a199afca88e4d0befe9bdd24e61278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1125957283,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":1125957283,
+    "wof:lastmodified":1513945973,
+    "wof:name":"Zvolen\u011bves",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:population":813,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18221,
+    50.23115,
+    14.18221,
+    50.23115
+],
+  "geometry": {"coordinates":[14.18221,50.23115],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209248369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.62054,49.58535,12.62054,49.58535",
+    "geom:latitude":49.58535,
+    "geom:longitude":12.62054,
+    "gn:admin1_code":"87.0",
+    "gn:admin2_code":"0321",
+    "gn:asciiname":"Rustejn",
+    "gn:country_code":"CZ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066566,
+    "gn:latitude":49.58535,
+    "gn:longitude":12.62054,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ru\u0161tejn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066566
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"09df3e5dfb7dd690e54c44d12e995d41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209248369
+        }
+    ],
+    "wof:id":1209248369,
+    "wof:lastmodified":1536293085,
+    "wof:name":"Rustejn",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.62054,
+    49.58535,
+    12.62054,
+    49.58535
+],
+  "geometry": {"coordinates":[12.62054,49.58535],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209550413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63619,50.70857,14.63619,50.70857",
+    "geom:latitude":50.70857,
+    "geom:longitude":14.63619,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0511",
+    "gn:asciiname":"Lasvice",
+    "gn:country_code":"CZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3072308,
+    "gn:latitude":50.70857,
+    "gn:longitude":14.63619,
+    "gn:modification_date":"2017-01-27",
+    "gn:name":"Lasvice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klemensdorf",
+        "Lasvice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3072308
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cd7e57cee45e00997a8e57768b016457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633105,
+            "locality_id":1209550413
+        }
+    ],
+    "wof:id":1209550413,
+    "wof:lastmodified":1537619378,
+    "wof:name":"Lasvice",
+    "wof:parent_id":85633105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63619,
+    50.70857,
+    14.63619,
+    50.70857
+],
+  "geometry": {"coordinates":[14.63619,50.70857],"type":"Point"}
+}

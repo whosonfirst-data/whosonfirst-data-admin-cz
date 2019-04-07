@@ -1,0 +1,70 @@
+{
+  "id": 1293136643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64633,49.03846,13.64633,49.03846",
+    "geom:latitude":49.03846,
+    "geom:longitude":13.64633,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"0315",
+    "gn:asciiname":"Stare Hute",
+    "gn:country_code":"CZ",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3065350,
+    "gn:latitude":49.03846,
+    "gn:longitude":13.64633,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Star\u00e9 Hut\u011b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alth\u00fctte",
+        "Star\u00e9 Hut\u011b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3065350
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"d55002d14ec9338f0cf16c5b43297eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":1293136643,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":1293136643,
+    "wof:lastmodified":1537619295,
+    "wof:name":"Stare Hute",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64633,
+    49.03846,
+    13.64633,
+    49.03846
+],
+  "geometry": {"coordinates":[13.64633,49.03846],"type":"Point"}
+}
