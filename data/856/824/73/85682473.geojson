@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.403505,
-    "geom:area_square_m":3159831329.752354,
+    "geom:area_square_m":3159831329.752395,
     "geom:bbox":"14.342648,50.471985,15.6325675,51.0239755",
     "geom:latitude":50.705432,
     "geom:longitude":14.999233,
@@ -30,9 +30,6 @@
     "name:aze_x_preferred":[
         "Liberets diyar\u0131"
     ],
-    "name:baq_x_preferred":[
-        "Liberec eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0987\u09ac\u09c7\u09b0\u09c7\u0995 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -51,20 +48,17 @@
     "name:ces_x_preferred":[
         "Libereck\u00fd kraj"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u8d1d\u96f7\u8328\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Libereck\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "Liberec"
+    ],
+    "name:deu_x_preferred":[
+        "Libereck\u00fd kraj"
     ],
     "name:diq_x_preferred":[
         "Libereck\u00fd kraj"
     ],
-    "name:dut_x_preferred":[
-        "Liberec"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039b\u03af\u03bc\u03c0\u03b5\u03c1\u03b5\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Libereck\u00fd"
@@ -75,20 +69,17 @@
     "name:est_x_preferred":[
         "Libereci maakond"
     ],
+    "name:eus_x_preferred":[
+        "Liberec eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0644\u06cc\u0628\u0631\u062a\u0633"
+    ],
     "name:fin_x_preferred":[
         "Liberecin l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "r\u00e9gion de Liberec"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10d1\u10d4\u10e0\u10d4\u10ea\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Libereck\u00fd kraj"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039b\u03af\u03bc\u03c0\u03b5\u03c1\u03b5\u03c4\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aac\u0acd\u0ab0\u0ac7\u0a95 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -117,6 +108,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cbf\u0cac\u0cb0\u0cc6\u0c95\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d1\u10d4\u10e0\u10d4\u10ea\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ub9ac\ubca0\ub808\uce20 \uc8fc"
     ],
@@ -126,17 +120,20 @@
     "name:lit_x_preferred":[
         "Libereco kra\u0161tas"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u0431\u0435\u0440\u0435\u0447\u043a\u0438 \u043a\u0440\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u092c\u0930\u0947\u0915 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u0431\u0435\u0440\u0435\u0447\u043a\u0438 \u043a\u0440\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Liberec"
     ],
     "name:nan_x_preferred":[
         "Liberec Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Liberec"
     ],
     "name:nob_x_preferred":[
         "Liberec"
@@ -147,9 +144,6 @@
     "name:pam_x_preferred":[
         "Liberec Labuad"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0644\u06cc\u0628\u0631\u062a\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u06cc\u0628\u0631\u062a\u0633 \u0639\u0644\u0627\u0642\u06c1"
     ],
@@ -159,7 +153,7 @@
     "name:por_x_preferred":[
         "Liberec"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Liberec"
     ],
     "name:rus_x_preferred":[
@@ -168,7 +162,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd2\u0db6\u0dd9\u0dbb\u0dd9\u0d9a\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Libereck\u00fd kraj"
     ],
     "name:spa_x_preferred":[
@@ -206,6 +200,9 @@
     ],
     "name:war_x_preferred":[
         "Liberec"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u8d1d\u96f7\u8328\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CZE",
@@ -323,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1553814872,
+    "wof:lastmodified":1561772300,
     "wof:name":"Libereck\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

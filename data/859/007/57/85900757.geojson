@@ -26,18 +26,12 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u057d\u0578\u056c\u0561\u0575\u0565"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Praha-Lysolaje"
     ],
     "name:cze_x_variant":[
         "Lysolaje",
         "Praha-Lysolaje"
-    ],
-    "name:dut_x_preferred":[
-        "Praag-Lysolaje"
     ],
     "name:eng_x_preferred":[
         "Lysolaje"
@@ -45,13 +39,19 @@
     "name:eng_x_preferred_x_preferred":[
         "Praha-Lysolaje"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lysolaje"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u057d\u0578\u056c\u0561\u0575\u0565"
+    ],
+    "name:nld_x_preferred":[
+        "Praag-Lysolaje"
     ],
     "name:pol_x_preferred":[
         "Lysolaje"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lysolaje"
     ],
     "src:geom":"quattroshapes",
@@ -84,7 +84,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1513945331,
+    "wof:lastmodified":1561772283,
     "wof:name":"Lysolaje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

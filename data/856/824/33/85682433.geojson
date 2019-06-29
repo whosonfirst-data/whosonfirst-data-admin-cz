@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.940092,
-    "geom:area_square_m":7534379033.202098,
+    "geom:area_square_m":7534379033.202215,
     "geom:bbox":"12.4014595,48.941422,13.8342535,50.1043215",
     "geom:latitude":49.597197,
     "geom:longitude":13.221974,
@@ -29,9 +29,6 @@
     ],
     "name:aze_x_preferred":[
         "Plzen diyar\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Pilsen eskualdea"
     ],
     "name:bel_x_preferred":[
         "\u041f\u043b\u044c\u0437\u0435\u043d\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
@@ -57,20 +54,17 @@
     "name:ces_x_preferred":[
         "Plze\u0148sk\u00fd kraj"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u723e\u68ee\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Plze\u0148sk\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "Plze\u0148"
+    ],
+    "name:deu_x_preferred":[
+        "Plze\u0148sk\u00fd kraj"
     ],
     "name:diq_x_preferred":[
         "Plze\u0148sk\u00fd kraj"
     ],
-    "name:dut_x_preferred":[
-        "Pilsen"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03af\u03bb\u03c3\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Plzensk\u00fd"
@@ -81,20 +75,17 @@
     "name:est_x_preferred":[
         "Plze\u0148i maakond"
     ],
+    "name:eus_x_preferred":[
+        "Pilsen eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u067e\u0644\u0632\u0646"
+    ],
     "name:fin_x_preferred":[
         "Plze\u0148in l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "r\u00e9gion de Plze\u0148"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10da\u10d6\u10d4\u10dc\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Plze\u0148sk\u00fd kraj"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03af\u03bb\u03c3\u03b5\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac0\u0ab2\u0acd\u0a9d\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -123,6 +114,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccd\u0cb2\u0cc6\u0c9d\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10da\u10d6\u10d4\u10dc\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ud50c\uc820 \uc8fc"
     ],
@@ -132,17 +126,20 @@
     "name:lit_x_preferred":[
         "Pilzeno kra\u0161tas"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u2019\u043b\u0437\u0435\u045a\u0441\u043a\u0438 \u043a\u0440\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0932\u0945\u091c\u093c\u0947\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u2019\u043b\u0437\u0435\u045a\u0441\u043a\u0438 \u043a\u0440\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Plze\u0148"
     ],
     "name:nan_x_preferred":[
         "Plze\u0148 Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Pilsen"
     ],
     "name:nob_x_preferred":[
         "Plze\u0148 region"
@@ -153,9 +150,6 @@
     "name:pam_x_preferred":[
         "Plze\u0148 Labuad"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u067e\u0644\u0632\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0644\u0632\u06cc\u0646 \u0639\u0644\u0627\u0642\u06c1"
     ],
@@ -165,7 +159,7 @@
     "name:por_x_preferred":[
         "Plze\u0148"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Plze\u0148"
     ],
     "name:rus_x_preferred":[
@@ -174,7 +168,7 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dca\u0dbd\u0dca\u0dc3\u0dd9\u0db1\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Plzensk\u00fd kraj"
     ],
     "name:spa_x_preferred":[
@@ -212,6 +206,9 @@
     ],
     "name:war_x_preferred":[
         "Plze\u0148"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u723e\u68ee\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CZE",
@@ -327,7 +324,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1553814871,
+    "wof:lastmodified":1561772300,
     "wof:name":"Plze\u0148sk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

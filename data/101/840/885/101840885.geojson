@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000931,
-    "geom:area_square_m":7398506.685063,
+    "geom:area_square_m":7398506.685061,
     "geom:bbox":"16.3552385765,49.9543014689,16.414623604,50.0367340987",
     "geom:latitude":49.98456,
     "geom:longitude":16.391046,
@@ -36,15 +36,12 @@
     "name:ces_x_preferred":[
         "Okres \u00dast\u00ed nad Orlic\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u723e\u5229\u91c7\u6cb3\u7554\u70cf\u65af\u5b63"
+    "name:ces_x_variant":[
+        "\u00dast\u00ed nad Orlic\u00ed"
     ],
     "name:cze_x_colloquial":[
         "Usti nad Orlici",
         "Ustin Orl"
-    ],
-    "name:cze_x_preferred":[
-        "\u00dast\u00ed nad Orlic\u00ed"
     ],
     "name:cze_x_variant":[
         "\u00dastin Orl"
@@ -53,9 +50,7 @@
         "Okres \u00dast\u00ed nad Orlic\u00ed"
     ],
     "name:deu_x_variant":[
-        "Wildenschwert"
-    ],
-    "name:dut_x_preferred":[
+        "Wildenschwert",
         "\u00dast\u00ed nad Orlic\u00ed"
     ],
     "name:eng_x_preferred":[
@@ -67,16 +62,13 @@
     "name:est_x_preferred":[
         "\u00dast\u00ed nad Orlic\u00ed"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u062a\u06cc \u0646\u0627\u062f \u0627\u0648\u0631\u0644\u06cc\u062a\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "District d'\u00dast\u00ed nad Orlic\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "\u00dast\u00ed nad Orlic\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e1\u10e2\u10d8-\u10dc\u10d0\u10d3-\u10dd\u10e0\u10da\u10d8\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "\u00dast\u00ed nad Orlic\u00ed"
     ],
     "name:heb_x_preferred":[
@@ -106,17 +98,17 @@
     "name:lmo_x_preferred":[
         "\u00dast\u00ed nad Orlic\u00ed"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "\u00dast\u00ed nad Orlic\u00ed"
     ],
     "name:nan_x_preferred":[
         "\u00dast\u00ed nad Orlic\u00ed"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "\u00dast\u00ed nad Orlic\u00ed"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0633\u062a\u06cc \u0646\u0627\u062f \u0627\u0648\u0631\u0644\u06cc\u062a\u0633\u06cc"
+    "name:nob_x_preferred":[
+        "\u00dast\u00ed nad Orlic\u00ed"
     ],
     "name:pms_x_preferred":[
         "\u00dast\u00ed nad Orlic\u00ed"
@@ -133,7 +125,7 @@
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u0438-\u043d\u0430\u0434-\u041e\u0440\u043b\u0438\u0446\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00dast\u00ed nad Orlic\u00ed"
     ],
     "name:srp_x_preferred":[
@@ -205,7 +197,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1553815537,
+    "wof:lastmodified":1561772379,
     "wof:name":"\u00dast\u00ed nad Orlic\u00ed",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

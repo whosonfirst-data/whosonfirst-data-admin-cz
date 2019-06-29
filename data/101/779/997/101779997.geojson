@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001027,
-    "geom:area_square_m":8293907.030376,
+    "geom:area_square_m":8293907.030375,
     "geom:bbox":"15.8408101788,49.2000657124,15.908293818,49.2308593258",
     "geom:latitude":49.215038,
     "geom:longitude":15.881992,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0628\u064a\u062a\u0634"
-    ],
-    "name:arm_x_preferred":[
-        "\u054f\u0580\u0577\u0565\u0562\u056b\u0579"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0440\u0448\u044d\u0431\u0456\u0447"
@@ -41,14 +38,11 @@
     "name:ces_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u70ed\u6bd4\u5947"
+    "name:cym_x_preferred":[
+        "T\u0159eb\u00ed\u010d"
     ],
     "name:cze_x_colloquial":[
         "Trebic"
-    ],
-    "name:cze_x_preferred":[
-        "T\u0159eb\u00ed\u010d"
     ],
     "name:deu_x_preferred":[
         "T\u0159eb\u00ed\u010d"
@@ -56,22 +50,19 @@
     "name:deu_x_variant":[
         "Trebitsch-Stadt"
     ],
-    "name:dut_x_preferred":[
-        "T\u0159eb\u00ed\u010d"
-    ],
     "name:eng_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
     "name:epo_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0698\u0628\u06cc\u0686"
+    ],
     "name:fin_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
-    "name:fre_x_preferred":[
-        "T\u0159eb\u00ed\u010d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
     "name:heb_x_preferred":[
@@ -82,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "T\u0159eb\u00ed\u010d"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0577\u0565\u0562\u056b\u0579"
     ],
     "name:ita_x_preferred":[
         "T\u0159eb\u00ed\u010d"
@@ -101,20 +95,20 @@
     "name:lit_x_preferred":[
         "Tr\u0161eby\u010dius"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u0448\u0435\u0431\u0438\u0447"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
     "name:nan_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0698\u0628\u06cc\u0686"
+    "name:nob_x_preferred":[
+        "T\u0159eb\u00ed\u010d"
     ],
     "name:pol_x_preferred":[
         "T\u0159eb\u00ed\u010d"
@@ -122,7 +116,7 @@
     "name:por_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
     "name:rup_x_preferred":[
@@ -131,7 +125,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u0448\u0435\u0431\u0438\u0447"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
     "name:slv_x_preferred":[
@@ -164,8 +158,8 @@
     "name:war_x_preferred":[
         "T\u0159eb\u00ed\u010d"
     ],
-    "name:wel_x_preferred":[
-        "T\u0159eb\u00ed\u010d"
+    "name:zho_x_preferred":[
+        "\u7279\u70ed\u6bd4\u5947"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Vysocina",
@@ -216,7 +210,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527688548,
+    "wof:lastmodified":1561772364,
     "wof:name":"T\u0159eb\u00ed\u010d",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

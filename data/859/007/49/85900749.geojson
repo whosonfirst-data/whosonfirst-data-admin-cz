@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7394013.488107,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.56942,49.167126,16.56942,49.167126",
     "geom:latitude":49.167126,
     "geom:longitude":16.56942,
@@ -24,12 +24,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Brno-Star\u00fd L\u00edskovec"
+    ],
     "name:cze_x_colloquial":[
         "Brno-Stary Liskovec",
         "Liskovec"
-    ],
-    "name:cze_x_preferred":[
-        "Brno-Star\u00fd L\u00edskovec"
     ],
     "name:cze_x_variant":[
         "L\u00edskovec",
@@ -41,13 +41,13 @@
     "name:epo_x_preferred":[
         "Brno-Star\u00fd L\u00edskovec"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Star\u00fd L\u00edskovec"
     ],
     "name:pol_x_preferred":[
         "Star\u00fd L\u00edskovec"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Brno-Star\u00fd L\u00edskovec"
     ],
     "name:unk_x_variant":[
@@ -110,7 +110,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932376,
+    "wof:lastmodified":1561772286,
     "wof:name":"Brno-Star\u00fd L\u00edskovec",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

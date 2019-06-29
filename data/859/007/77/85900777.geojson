@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11428265.921466,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.568811,49.234759,16.568811,49.234759",
     "geom:latitude":49.234759,
     "geom:longitude":16.568811,
@@ -24,11 +24,11 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Brno-Medl\u00e1nky"
+    ],
     "name:cze_x_colloquial":[
         "Brno-Medlanky"
-    ],
-    "name:cze_x_preferred":[
-        "Brno-Medl\u00e1nky"
     ],
     "name:cze_x_variant":[
         "Medlanka",
@@ -38,13 +38,13 @@
     "name:eng_x_preferred":[
         "Brno-Medl\u00e1nky"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Medl\u00e1nky"
     ],
     "name:pol_x_preferred":[
         "Medl\u00e1nky"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Brno-Medl\u00e1nky"
     ],
     "name:unk_x_variant":[
@@ -105,7 +105,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932381,
+    "wof:lastmodified":1561772285,
     "wof:name":"Brno-Medl\u00e1nky",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

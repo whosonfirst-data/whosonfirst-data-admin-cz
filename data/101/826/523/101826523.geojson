@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":847248.62413,
+    "geom:area_square_m":847248.624131,
     "geom:bbox":"16.5040851576,49.6375957073,16.5234084433,49.6581659177",
     "geom:latitude":49.649825,
     "geom:longitude":16.516448,
@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "B\u0159ezov\u00e1 nad Svitavou"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7dad\u5854\u74e6\u6cb3\u7554\u5e03\u71b1\u4f50\u74e6"
-    ],
-    "name:cze_x_preferred":[
-        "B\u0159ezov\u00e1 nad Svitavou"
-    ],
     "name:deu_x_preferred":[
-        "B\u0159ezov\u00e1 nad Svitavou"
-    ],
-    "name:dut_x_preferred":[
         "B\u0159ezov\u00e1 nad Svitavou"
     ],
     "name:eng_x_preferred":[
@@ -41,13 +32,10 @@
     "name:epo_x_preferred":[
         "B\u0159ezov\u00e1 nad Svitavou"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0632\u0648\u0648\u0627 \u0646\u0627\u062f \u0633\u0648\u06cc\u062a\u0627\u0648\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
-        "B\u0159ezov\u00e1 nad Svitavou"
-    ],
-    "name:fre_x_preferred":[
-        "B\u0159ezov\u00e1 nad Svitavou"
-    ],
-    "name:ger_x_preferred":[
         "B\u0159ezov\u00e1 nad Svitavou"
     ],
     "name:hun_x_preferred":[
@@ -59,9 +47,6 @@
     "name:lav_x_preferred":[
         "Br\u017eezova pie Svitavas"
     ],
-    "name:may_x_preferred":[
-        "B\u0159ezov\u00e1 nad Svitavou"
-    ],
     "name:msa_x_preferred":[
         "B\u0159ezov\u00e1 nad Svitavou"
     ],
@@ -70,9 +55,6 @@
     ],
     "name:nld_x_preferred":[
         "B\u0159ezov\u00e1 nad Svitavou"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0632\u0648\u0648\u0627 \u0646\u0627\u062f \u0633\u0648\u06cc\u062a\u0627\u0648\u0648\u0648"
     ],
     "name:pol_x_preferred":[
         "B\u0159ezov\u00e1 nad Svitavou"
@@ -83,7 +65,7 @@
     "name:rup_x_preferred":[
         "B\u0159ezov\u00e1 nad Svitavou"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "B\u0159ezov\u00e1 nad Svitavou"
     ],
     "name:srp_x_preferred":[
@@ -100,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u0159ezov\u00e1 nad Svitavou"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7dad\u5854\u74e6\u6cb3\u7554\u5e03\u71b1\u4f50\u74e6"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Pardubick\u00fd",
@@ -145,7 +130,7 @@
         }
     ],
     "wof:id":101826523,
-    "wof:lastmodified":1527642516,
+    "wof:lastmodified":1561772359,
     "wof:name":"B\u0159ezov\u00e1 nad Svitavou",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

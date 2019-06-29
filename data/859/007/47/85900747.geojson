@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":33416013.131554,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.699318,49.209279,16.699318,49.209279",
     "geom:latitude":49.209279,
     "geom:longitude":16.699318,
@@ -24,12 +24,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Brno-Laacea"
+    ],
     "name:cze_x_colloquial":[
         "Brno-Laaaceaa",
         "Brno-Lisen"
-    ],
-    "name:cze_x_preferred":[
-        "Brno-Laacea"
     ],
     "name:cze_x_variant":[
         "Lisen",
@@ -92,7 +92,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932375,
+    "wof:lastmodified":1561772286,
     "wof:name":"Brno-Laacea",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

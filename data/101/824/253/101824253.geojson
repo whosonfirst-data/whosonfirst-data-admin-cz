@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000378,
-    "geom:area_square_m":2989828.732655,
+    "geom:area_square_m":2989828.732654,
     "geom:bbox":"16.1220163637,50.2804094834,16.1807827495,50.3060747613",
     "geom:latitude":50.293284,
     "geom:longitude":16.154614,
@@ -23,25 +23,16 @@
     "name:ces_x_preferred":[
         "Dobru\u0161ka"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u5e03\u9b6f\u4ec0\u5361"
-    ],
-    "name:cze_x_preferred":[
-        "Dobru\u0161ka"
-    ],
     "name:deu_x_preferred":[
-        "Dobru\u0161ka"
-    ],
-    "name:dut_x_preferred":[
         "Dobru\u0161ka"
     ],
     "name:eng_x_preferred":[
         "Dobru\u0161ka"
     ],
-    "name:fre_x_preferred":[
-        "Dobru\u0161ka"
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u0634\u06a9\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dobru\u0161ka"
     ],
     "name:hun_x_preferred":[
@@ -50,17 +41,11 @@
     "name:ita_x_preferred":[
         "Dobru\u0161ka"
     ],
-    "name:may_x_preferred":[
-        "Dobru\u0161ka"
-    ],
     "name:msa_x_preferred":[
         "Dobru\u0161ka"
     ],
     "name:nld_x_preferred":[
         "Dobru\u0161ka"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0628\u0631\u0648\u0634\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Dobru\u0161ka"
@@ -74,7 +59,7 @@
     "name:rus_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0443\u0448\u043a\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dobru\u0161ka"
     ],
     "name:srp_x_preferred":[
@@ -91,6 +76,9 @@
     ],
     "name:vie_x_preferred":[
         "Dobru\u0161ka"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u5e03\u9b6f\u4ec0\u5361"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Kr\u00e1lov\u00e9hradeck\u00fd",
@@ -136,7 +124,7 @@
         }
     ],
     "wof:id":101824253,
-    "wof:lastmodified":1527714854,
+    "wof:lastmodified":1561772376,
     "wof:name":"Dobru\u0161ka",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

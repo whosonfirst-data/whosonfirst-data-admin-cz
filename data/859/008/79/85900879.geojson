@@ -25,8 +25,8 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u053a\u0565\u057a\u0578\u0580\u0575\u0565"
+    "name:ces_x_preferred":[
+        "Praha-\u00c5eporyje"
     ],
     "name:cze_x_colloquial":[
         "Praha 5-Aaeporyje",
@@ -37,9 +37,6 @@
         "Repora",
         "Reporyje"
     ],
-    "name:cze_x_preferred":[
-        "Praha-\u00c5eporyje"
-    ],
     "name:cze_x_variant":[
         "Praha 5-\u00c5eporyje",
         "Praha-Reporyje",
@@ -47,8 +44,8 @@
         "\u0158eporyje",
         "Praha-\u0158eporyje"
     ],
-    "name:dut_x_preferred":[
-        "Praag-\u0158eporyje"
+    "name:deu_x_preferred":[
+        "\u0158eporyje"
     ],
     "name:eng_x_preferred":[
         "\u0158eporyje"
@@ -56,22 +53,25 @@
     "name:eng_x_preferred_x_preferred":[
         "Praha-\u00c5eporyje"
     ],
-    "name:fre_x_preferred":[
-        "\u0158eporyje"
+    "name:fas_x_preferred":[
+        "\u0631\u067e\u0648\u0631\u06cc\u06cc\u0647"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0158eporyje"
     ],
     "name:hun_x_preferred":[
         "\u0158eporyje"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u067e\u0648\u0631\u06cc\u06cc\u0647"
+    "name:hye_x_preferred":[
+        "\u053a\u0565\u057a\u0578\u0580\u0575\u0565"
+    ],
+    "name:nld_x_preferred":[
+        "Praag-\u0158eporyje"
     ],
     "name:pol_x_preferred":[
         "\u0158eporyje"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0158eporyje"
     ],
     "qs:gn_id":0,
@@ -108,7 +108,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1536864509,
+    "wof:lastmodified":1561772291,
     "wof:name":"Reporyje",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

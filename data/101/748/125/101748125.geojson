@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010801,
-    "geom:area_square_m":86170232.04856,
+    "geom:area_square_m":86170232.048571,
     "geom:bbox":"18.1449975,49.7553725,18.3631615,49.8707335",
     "geom:latitude":49.819774,
     "geom:longitude":18.272262,
@@ -21,13 +21,7 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u062a\u0631\u0627\u0641\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u057d\u057f\u0580\u0561\u057e\u0561"
-    ],
     "name:aze_x_preferred":[
-        "Ostrava"
-    ],
-    "name:baq_x_preferred":[
         "Ostrava"
     ],
     "name:bel_x_preferred":[
@@ -54,10 +48,7 @@
     "name:che_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0430\u0432\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u4fc4\u65af\u7279\u62c9\u53d1"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Ostrava"
     ],
     "name:dan_x_preferred":[
@@ -72,9 +63,6 @@
     "name:diq_x_preferred":[
         "Ostrava"
     ],
-    "name:dut_x_preferred":[
-        "Ostrava"
-    ],
     "name:ell_x_preferred":[
         "\u039f\u03c3\u03c4\u03c1\u03ac\u03b2\u03b1"
     ],
@@ -87,8 +75,14 @@
     "name:est_x_preferred":[
         "Ostrava"
     ],
+    "name:eus_x_preferred":[
+        "Ostrava"
+    ],
     "name:fao_x_preferred":[
         "Ostrava"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0631\u0627\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Ostrava"
@@ -96,16 +90,7 @@
     "name:fra_x_preferred":[
         "Ostrava"
     ],
-    "name:fre_x_preferred":[
-        "Ostrava"
-    ],
     "name:fry_x_preferred":[
-        "Ostrava"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e1\u10e2\u10e0\u10d0\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Ostrava"
     ],
     "name:gla_x_preferred":[
@@ -113,9 +98,6 @@
     ],
     "name:glg_x_preferred":[
         "Ostrava"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c3\u03c4\u03c1\u03ac\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a91\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abe\u0ab5\u0abe"
@@ -132,8 +114,8 @@
     "name:hun_x_preferred":[
         "Ostrava"
     ],
-    "name:ice_x_preferred":[
-        "Ostrava"
+    "name:hye_x_preferred":[
+        "\u0555\u057d\u057f\u0580\u0561\u057e\u0561"
     ],
     "name:ile_x_preferred":[
         "Ostrava"
@@ -153,6 +135,9 @@
     "name:kan_x_preferred":[
         "\u0c92\u0cb8\u0ccd\u0ca4\u0ccd\u0cb0\u0cb5"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e1\u10e2\u10e0\u10d0\u10d5\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0430\u0432\u0430"
     ],
@@ -171,13 +156,13 @@
     "name:lit_x_preferred":[
         "Ostrava"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0441\u0442\u0440\u0430\u0432\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0913\u0938\u094d\u0924\u094d\u0930\u093e\u0935\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0430\u0432\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Ostrava"
     ],
     "name:nan_x_preferred":[
@@ -201,9 +186,6 @@
     "name:oss_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0430\u0432\u00e6"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0631\u0627\u0648\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u0633\u062a\u0631\u0627\u0648\u0627"
     ],
@@ -219,9 +201,6 @@
     "name:ron_x_preferred":[
         "Ostrava"
     ],
-    "name:rum_x_preferred":[
-        "Ostrava"
-    ],
     "name:rup_x_preferred":[
         "Ostrava"
     ],
@@ -235,9 +214,6 @@
         "\u0d94\u0dc3\u0dca\u0da7\u0dca\u0dbb\u0dcf\u0dc0\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Ostrava"
-    ],
-    "name:slo_x_preferred":[
         "Ostrava"
     ],
     "name:slv_x_preferred":[
@@ -297,9 +273,6 @@
     "name:war_x_preferred":[
         "Ostrava"
     ],
-    "name:wel_x_preferred":[
-        "Ostrava"
-    ],
     "name:xmf_x_preferred":[
         "\u10dd\u10e1\u10e2\u10e0\u10d0\u10d5\u10d0"
     ],
@@ -310,7 +283,8 @@
         "\u4fc4\u65af\u7279\u62c9\u767c"
     ],
     "name:zho_x_variant":[
-        "\u5965\u65af\u7279\u62c9\u74e6"
+        "\u5965\u65af\u7279\u62c9\u74e6",
+        "\u4fc4\u65af\u7279\u62c9\u53d1"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Czech Republic",
@@ -452,7 +426,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527688483,
+    "wof:lastmodified":1561772363,
     "wof:name":"Ostrava",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

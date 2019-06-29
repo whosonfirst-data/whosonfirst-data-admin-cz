@@ -26,16 +26,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u053a\u056b\u056a\u056f\u0578\u057e"
-    ],
     "name:bel_x_preferred":[
         "\u0416\u044b\u0436\u043a\u0430\u045e"
     ],
     "name:ces_x_preferred":[
         "\u017di\u017ekov"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Zizkov"
     ],
     "name:cze_x_variant":[
@@ -46,8 +43,8 @@
     "name:deu_x_preferred":[
         "\u017di\u017ekov"
     ],
-    "name:dut_x_preferred":[
-        "\u017di\u017ekov"
+    "name:ell_x_preferred":[
+        "\u0396\u03af\u03b6\u03ba\u03bf\u03c6"
     ],
     "name:eng_x_preferred":[
         "\u017di\u017ekov"
@@ -67,17 +64,11 @@
     "name:fra_x_preferred":[
         "\u017di\u017ekov"
     ],
-    "name:fre_x_preferred":[
-        "\u017di\u017ekov"
-    ],
-    "name:ger_x_preferred":[
-        "\u017di\u017ekov"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03af\u03b6\u03ba\u03bf\u03c6"
-    ],
     "name:hun_x_preferred":[
         "\u017di\u017ekov"
+    ],
+    "name:hye_x_preferred":[
+        "\u053a\u056b\u056a\u056f\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "\u017di\u017ekov"
@@ -85,8 +76,8 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30b7\u30e5\u30b3\u30d5"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u06cc\u0698\u06a9\u0648\u0641"
+    "name:nld_x_preferred":[
+        "\u017di\u017ekov"
     ],
     "name:pol_x_preferred":[
         "\u017di\u017ekov"
@@ -94,7 +85,7 @@
     "name:rus_x_preferred":[
         "\u0416\u0438\u0436\u043a\u043e\u0432"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u017di\u017ekov"
     ],
     "name:spa_x_preferred":[
@@ -170,7 +161,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1513945958,
+    "wof:lastmodified":1561772295,
     "wof:name":"Zizkov",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

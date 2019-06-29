@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":697835.910572,
+    "geom:area_square_m":697835.910571,
     "geom:bbox":"13.9791542457,49.0469228526,14.001519519,49.0576007154",
     "geom:latitude":49.052697,
     "geom:longitude":13.988015,
@@ -17,17 +17,14 @@
     "mps:longitude":13.987253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u0582\u057d\u056b\u0576\u0565\u0581"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u0443\u0441\u0456\u043d\u0435\u0446"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Husinec"
     ],
-    "name:dut_x_preferred":[
-        "Husinec"
+    "name:deu_x_preferred":[
+        "Husinec u Netolic"
     ],
     "name:eng_x_preferred":[
         "Husinec"
@@ -35,11 +32,11 @@
     "name:epo_x_preferred":[
         "Husinec"
     ],
-    "name:fre_x_preferred":[
-        "Husinec"
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0633\u06cc\u0646\u062a\u0633"
     ],
-    "name:ger_x_preferred":[
-        "Husinec u Netolic"
+    "name:fra_x_preferred":[
+        "Husinec"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05e1\u05d9\u05e0\u05e5"
@@ -47,17 +44,20 @@
     "name:hun_x_preferred":[
         "Husinec"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0582\u057d\u056b\u0576\u0565\u0581"
+    ],
     "name:ita_x_preferred":[
         "Husinec"
     ],
     "name:lat_x_preferred":[
         "Husinec"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Husinec"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0633\u06cc\u0646\u062a\u0633"
+    "name:nld_x_preferred":[
+        "Husinec"
     ],
     "name:pol_x_preferred":[
         "Husinec"
@@ -71,7 +71,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0443\u0441\u0438\u043d\u0435\u0446"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Husinec"
     ],
     "name:slv_x_preferred":[
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":101780897,
-    "wof:lastmodified":1553815496,
+    "wof:lastmodified":1561772399,
     "wof:name":"Husinec",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

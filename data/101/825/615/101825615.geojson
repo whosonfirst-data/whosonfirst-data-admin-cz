@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
-    "geom:area_square_m":338872.968534,
+    "geom:area_square_m":338872.968533,
     "geom:bbox":"17.034894926,50.0036057891,17.0527584014,50.0110517174",
     "geom:latitude":50.006818,
     "geom:longitude":17.044198,
@@ -19,28 +19,16 @@
     "name:ces_x_preferred":[
         "Petrov nad Desnou"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u7279\u7f85\u592b\u7d0d\u5fb7\u5fb7\u65af\u7459"
-    ],
-    "name:cze_x_preferred":[
-        "Petrov nad Desnou"
-    ],
     "name:deu_x_preferred":[
-        "Petrov nad Desnou"
-    ],
-    "name:dut_x_preferred":[
         "Petrov nad Desnou"
     ],
     "name:eng_x_preferred":[
         "Petrov nad Desnou"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0631\u0648\u0641 \u0646\u0627\u062f \u062f\u0633\u0646\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
-        "Petrov nad Desnou"
-    ],
-    "name:fre_x_preferred":[
-        "Petrov nad Desnou"
-    ],
-    "name:ger_x_preferred":[
         "Petrov nad Desnou"
     ],
     "name:hun_x_preferred":[
@@ -49,17 +37,11 @@
     "name:ita_x_preferred":[
         "Petrov nad Desnou"
     ],
-    "name:may_x_preferred":[
-        "Petrov nad Desnou"
-    ],
     "name:msa_x_preferred":[
         "Petrov nad Desnou"
     ],
     "name:nld_x_preferred":[
         "Petrov nad Desnou"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u062a\u0631\u0648\u0641 \u0646\u0627\u062f \u062f\u0633\u0646\u0648\u0648"
     ],
     "name:pol_x_preferred":[
         "Petrov nad Desnou"
@@ -70,9 +52,6 @@
     "name:slk_x_preferred":[
         "Petrov nad Desnou"
     ],
-    "name:slo_x_preferred":[
-        "Petrov nad Desnou"
-    ],
     "name:srp_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432 \u043d\u0430 \u0414\u0435\u0441\u043d\u0438"
     ],
@@ -81,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Petrov nad Desnou"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u7279\u7f85\u592b\u7d0d\u5fb7\u5fb7\u65af\u7459"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Olomouck\u00fd",
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101825615,
-    "wof:lastmodified":1527715060,
+    "wof:lastmodified":1561772389,
     "wof:name":"Petrov nad Desnou",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

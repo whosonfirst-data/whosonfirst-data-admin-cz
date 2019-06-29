@@ -19,22 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u6885\u5716\u8036\u6cb3\u7554\u7279\u666e\u5229\u91c7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
     "name:eng_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Teplice nad Metuj\u00ed"
+    "name:fas_x_preferred":[
+        "\u062a\u067e\u0644\u06cc\u062a\u0633\u0647 \u0646\u0627\u062f \u0645\u062a\u0648\u06cc\u06cc"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
     "name:hun_x_preferred":[
@@ -43,14 +40,14 @@
     "name:ita_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
     "name:nan_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u067e\u0644\u06cc\u062a\u0633\u0647 \u0646\u0627\u062f \u0645\u062a\u0648\u06cc\u06cc"
+    "name:nld_x_preferred":[
+        "Teplice nad Metuj\u00ed"
     ],
     "name:pol_x_preferred":[
         "Teplice nad Metuj\u00ed"
@@ -58,13 +55,13 @@
     "name:por_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
     "name:rup_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Teplice nad Metuj\u00ed"
     ],
     "name:srp_x_preferred":[
@@ -81,6 +78,9 @@
     ],
     "name:vie_x_preferred":[
         "Teplice nad Metuj\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5716\u8036\u6cb3\u7554\u7279\u666e\u5229\u91c7"
     ],
     "qs_pg:aaroncc":"CZ",
     "qs_pg:gn_country":"CZ",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1126029859,
-    "wof:lastmodified":1513945789,
+    "wof:lastmodified":1561772451,
     "wof:name":"Teplice nad Metuj\u00ed",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

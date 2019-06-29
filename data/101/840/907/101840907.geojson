@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000736,
-    "geom:area_square_m":5898728.551754,
+    "geom:area_square_m":5898728.551755,
     "geom:bbox":"17.9760704473,49.5560240604,18.0487040396,49.6086979314",
     "geom:latitude":49.591358,
     "geom:longitude":18.019703,
@@ -35,14 +35,11 @@
     "name:ces_x_preferred":[
         "Okres Nov\u00fd Ji\u010d\u00edn"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u4f0a\u94a6"
+    "name:ces_x_variant":[
+        "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:cze_x_colloquial":[
         "Novy Jicin"
-    ],
-    "name:cze_x_preferred":[
-        "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:dan_x_preferred":[
         "Nov\u00fd Ji\u010d\u00edn"
@@ -51,9 +48,7 @@
         "Okres Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:deu_x_variant":[
-        "Neutitschein"
-    ],
-    "name:dut_x_preferred":[
+        "Neutitschein",
         "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:eng_x_preferred":[
@@ -62,16 +57,16 @@
     "name:epo_x_preferred":[
         "Distrikto Nov\u00fd Ji\u010d\u00edn"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc \u06cc\u06cc\u0686\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:fra_x_preferred":[
         "District de Nov\u00fd Ji\u010d\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "Nov\u00fd Ji\u010d\u00edn"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:hun_x_preferred":[
@@ -98,10 +93,13 @@
     "name:lit_x_preferred":[
         "Novy Ji\u010dynas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:nan_x_preferred":[
+        "Nov\u00fd Ji\u010d\u00edn"
+    ],
+    "name:nld_x_preferred":[
         "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:nob_x_preferred":[
@@ -109,9 +107,6 @@
     ],
     "name:oci_x_preferred":[
         "Nov\u00fd Ji\u010d\u00edn"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u06cc \u06cc\u06cc\u0686\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Nowy Jiczyn"
@@ -125,7 +120,7 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0438-\u0419\u0438\u0447\u0438\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:slv_x_preferred":[
@@ -160,6 +155,9 @@
     ],
     "name:war_x_preferred":[
         "Nov\u00fd Ji\u010d\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u4f0a\u94a6"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Moravskoslezsk\u00fd",
@@ -208,7 +206,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1513945443,
+    "wof:lastmodified":1561772377,
     "wof:name":"Nov\u00fd Ji\u010d\u00edn",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

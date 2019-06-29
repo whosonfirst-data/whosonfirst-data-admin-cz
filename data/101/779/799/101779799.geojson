@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
-    "geom:area_square_m":1614969.702343,
+    "geom:area_square_m":1614969.702342,
     "geom:bbox":"17.3250133455,49.0726443514,17.3659533505,49.0959917483",
     "geom:latitude":49.085389,
     "geom:longitude":17.341415,
@@ -23,7 +23,7 @@
     "name:ces_x_preferred":[
         "Buchlovice"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Buchlovice"
     ],
     "name:deu_x_historical":[
@@ -35,19 +35,13 @@
     "name:deu_x_variant":[
         "Buchlowitz"
     ],
-    "name:dut_x_preferred":[
-        "Buchlovice"
-    ],
     "name:eng_x_preferred":[
         "Buchlovice"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062e\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
-        "Buchlovice"
-    ],
-    "name:fre_x_preferred":[
-        "Buchlovice"
-    ],
-    "name:ger_x_preferred":[
         "Buchlovice"
     ],
     "name:hun_x_preferred":[
@@ -62,17 +56,11 @@
     "name:kur_x_variant":[
         "Buxlov\u00eetse"
     ],
-    "name:may_x_preferred":[
-        "Buchlovice"
-    ],
     "name:msa_x_preferred":[
         "Buchlovice"
     ],
     "name:nld_x_preferred":[
         "Buchlovice"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u062e\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
     "name:pol_x_preferred":[
         "Buchlovice"
@@ -89,9 +77,6 @@
     "name:slk_x_preferred":[
         "Buchlovice"
     ],
-    "name:slo_x_preferred":[
-        "Buchlovice"
-    ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0445\u043b\u043e\u0432\u0438\u0446\u0435"
     ],
@@ -102,9 +87,6 @@
         "Buchlowitz"
     ],
     "name:vie_x_preferred":[
-        "Buchlovice"
-    ],
-    "name:wel_x_preferred":[
         "Buchlovice"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -151,7 +133,7 @@
         }
     ],
     "wof:id":101779799,
-    "wof:lastmodified":1527688547,
+    "wof:lastmodified":1561772363,
     "wof:name":"Buchlovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

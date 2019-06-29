@@ -35,9 +35,6 @@
     "name:afr_x_preferred":[
         "Hostiva\u0159"
     ],
-    "name:alb_x_preferred":[
-        "Hostiva\u0159"
-    ],
     "name:ang_x_preferred":[
         "Hostiva\u0159"
     ],
@@ -51,9 +48,6 @@
         "Hostiva\u0159"
     ],
     "name:bam_x_preferred":[
-        "Hostiva\u0159"
-    ],
-    "name:baq_x_preferred":[
         "Hostiva\u0159"
     ],
     "name:bar_x_preferred":[
@@ -71,9 +65,6 @@
     "name:bre_x_preferred":[
         "Hostiva\u0159"
     ],
-    "name:bur_x_preferred":[
-        "Hostiva\u0159"
-    ],
     "name:cat_x_preferred":[
         "Hostiva\u0159"
     ],
@@ -82,6 +73,9 @@
     ],
     "name:ces_x_preferred":[
         "Depo Hostiva\u0159"
+    ],
+    "name:ces_x_variant":[
+        "Hostivar"
     ],
     "name:cha_x_preferred":[
         "Hostiva\u0159"
@@ -107,8 +101,8 @@
     "name:csb_x_preferred":[
         "Hostiva\u0159"
     ],
-    "name:cze_x_preferred":[
-        "Hostivar"
+    "name:cym_x_preferred":[
+        "Hostiva\u0159"
     ],
     "name:cze_x_variant":[
         "Praha 10-Hostivar",
@@ -117,13 +111,13 @@
     "name:dan_x_preferred":[
         "Hostiva\u0159"
     ],
+    "name:deu_x_preferred":[
+        "Hostiva\u0159"
+    ],
     "name:diq_x_preferred":[
         "Hostiva\u0159"
     ],
     "name:dsb_x_preferred":[
-        "Hostiva\u0159"
-    ],
-    "name:dut_x_preferred":[
         "Hostiva\u0159"
     ],
     "name:eml_x_preferred":[
@@ -138,6 +132,9 @@
     "name:est_x_preferred":[
         "Hostiva\u0159"
     ],
+    "name:eus_x_preferred":[
+        "Hostiva\u0159"
+    ],
     "name:ext_x_preferred":[
         "Hostiva\u0159"
     ],
@@ -150,7 +147,7 @@
     "name:fin_x_preferred":[
         "Hostiva\u0159"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hostiva\u0159"
     ],
     "name:frp_x_preferred":[
@@ -166,9 +163,6 @@
         "Hostiva\u0159"
     ],
     "name:fur_x_preferred":[
-        "Hostiva\u0159"
-    ],
-    "name:ger_x_preferred":[
         "Hostiva\u0159"
     ],
     "name:gla_x_preferred":[
@@ -222,9 +216,6 @@
     "name:ibo_x_preferred":[
         "Hostiva\u0159"
     ],
-    "name:ice_x_preferred":[
-        "Hostiva\u0159"
-    ],
     "name:ido_x_preferred":[
         "Hostiva\u0159"
     ],
@@ -241,6 +232,9 @@
         "Hostiva\u0159"
     ],
     "name:ipk_x_preferred":[
+        "Hostiva\u0159"
+    ],
+    "name:isl_x_preferred":[
         "Hostiva\u0159"
     ],
     "name:ita_x_preferred":[
@@ -324,12 +318,6 @@
     "name:mah_x_preferred":[
         "Hostiva\u0159"
     ],
-    "name:mao_x_preferred":[
-        "Hostiva\u0159"
-    ],
-    "name:may_x_preferred":[
-        "Hostiva\u0159"
-    ],
     "name:min_x_preferred":[
         "Hostiva\u0159"
     ],
@@ -339,10 +327,19 @@
     "name:mlt_x_preferred":[
         "Hostiva\u0159"
     ],
+    "name:mri_x_preferred":[
+        "Hostiva\u0159"
+    ],
+    "name:msa_x_preferred":[
+        "Hostiva\u0159"
+    ],
     "name:mus_x_preferred":[
         "Hostiva\u0159"
     ],
     "name:mwl_x_preferred":[
+        "Hostiva\u0159"
+    ],
+    "name:mya_x_preferred":[
         "Hostiva\u0159"
     ],
     "name:nah_x_preferred":[
@@ -362,6 +359,9 @@
     ],
     "name:nld_x_preferred":[
         "Depo Hostiva\u0159"
+    ],
+    "name:nld_x_variant":[
+        "Hostiva\u0159"
     ],
     "name:nno_x_preferred":[
         "Hostiva\u0159"
@@ -423,7 +423,7 @@
     "name:ron_x_preferred":[
         "Depo Hostiva\u0159"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Hostiva\u0159"
     ],
     "name:run_x_preferred":[
@@ -444,7 +444,7 @@
     "name:slk_x_preferred":[
         "Depo Hostiva\u0159"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Hostiva\u0159"
     ],
     "name:slv_x_preferred":[
@@ -466,6 +466,9 @@
         "Hostiva\u0159"
     ],
     "name:spa_x_preferred":[
+        "Hostiva\u0159"
+    ],
+    "name:sqi_x_preferred":[
         "Hostiva\u0159"
     ],
     "name:srd_x_preferred":[
@@ -552,9 +555,6 @@
     "name:war_x_preferred":[
         "Hostiva\u0159"
     ],
-    "name:wel_x_preferred":[
-        "Hostiva\u0159"
-    ],
     "name:wln_x_preferred":[
         "Hostiva\u0159"
     ],
@@ -610,7 +610,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1536864509,
+    "wof:lastmodified":1561772293,
     "wof:name":"Hostivar",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

@@ -19,22 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u99ac\u4ec0\u55ac\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ma\u0161\u0165ov"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ma\u0161\u0165ov"
     ],
     "name:eng_x_preferred":[
         "Ma\u0161\u0165ov"
     ],
-    "name:fre_x_preferred":[
-        "Ma\u0161\u0165ov"
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0634\u0633\u0648\u0648"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ma\u0161\u0165ov"
     ],
     "name:hun_x_preferred":[
@@ -43,11 +40,11 @@
     "name:ita_x_preferred":[
         "Ma\u0161\u0165ov"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ma\u0161\u0165ov"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0634\u0633\u0648\u0648"
+    "name:nld_x_preferred":[
+        "Ma\u0161\u0165ov"
     ],
     "name:pol_x_preferred":[
         "Ma\u0161\u0165ov"
@@ -55,7 +52,7 @@
     "name:por_x_preferred":[
         "Ma\u0161\u0165ov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ma\u0161\u0165ov"
     ],
     "name:srp_x_preferred":[
@@ -72,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "Ma\u0161\u0165ov"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4ec0\u55ac\u592b"
     ],
     "qs_pg:aaroncc":"CZ",
     "qs_pg:gn_country":"CZ",
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":1126021315,
-    "wof:lastmodified":1513945351,
+    "wof:lastmodified":1561772452,
     "wof:name":"Ma\u0161\u0165ov",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

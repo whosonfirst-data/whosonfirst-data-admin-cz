@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000734,
-    "geom:area_square_m":5813613.575365,
+    "geom:area_square_m":5813613.575366,
     "geom:bbox":"14.4905602638,50.1452259458,14.5421655274,50.164026079",
     "geom:latitude":50.154492,
     "geom:longitude":14.517636,
@@ -26,8 +26,8 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u056f\u0578\u057e\u056b\u0581\u0565"
+    "name:ces_x_preferred":[
+        "\u010cakovice"
     ],
     "name:cze_x_colloquial":[
         "Cakovice",
@@ -37,9 +37,6 @@
         "Praha-Aakovice",
         "Praha-Aeakovice"
     ],
-    "name:cze_x_preferred":[
-        "\u010cakovice"
-    ],
     "name:cze_x_variant":[
         "Praha 9-\u00c4akovice",
         "Praha-Cakovice",
@@ -47,22 +44,25 @@
         "Praha-\u00c4akovice",
         "Cakowice"
     ],
+    "name:deu_x_preferred":[
+        "\u010cakovice"
+    ],
     "name:eng_x_preferred":[
         "\u010cakovice"
     ],
-    "name:fre_x_preferred":[
-        "\u010cakovice"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cakovice"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u062a\u0634\u0627\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u056f\u0578\u057e\u056b\u0581\u0565"
     ],
     "name:pol_x_preferred":[
         "\u010cakovice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cakovice"
     ],
     "name:slv_x_preferred":[
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":85900551,
-    "wof:lastmodified":1513944860,
+    "wof:lastmodified":1561772297,
     "wof:name":"Cakovice",
     "wof:parent_id":101754435,
     "wof:placetype":"neighbourhood",

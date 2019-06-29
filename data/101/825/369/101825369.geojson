@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
-    "geom:area_square_m":996644.423943,
+    "geom:area_square_m":996644.423944,
     "geom:bbox":"12.3519556503,50.1641313127,12.3743410936,50.177058545",
     "geom:latitude":50.171362,
     "geom:longitude":12.362802,
@@ -27,14 +27,8 @@
     "name:ces_x_variant":[
         "Vild\u0161tejn"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5361\u723e\u7d0d"
-    ],
     "name:cze_x_colloquial":[
         "Skalna"
-    ],
-    "name:cze_x_preferred":[
-        "Skaln\u00e1"
     ],
     "name:deu_x_preferred":[
         "Skaln\u00e1"
@@ -42,19 +36,13 @@
     "name:deu_x_variant":[
         "Wildstein"
     ],
-    "name:dut_x_preferred":[
-        "Skaln\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Skaln\u00e1"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06a9\u0627\u0644\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
-        "Skaln\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Skaln\u00e1"
-    ],
-    "name:ger_x_preferred":[
         "Skaln\u00e1"
     ],
     "name:heb_x_preferred":[
@@ -66,9 +54,6 @@
     "name:ita_x_preferred":[
         "Skaln\u00e1"
     ],
-    "name:may_x_preferred":[
-        "Skaln\u00e1"
-    ],
     "name:msa_x_preferred":[
         "Skaln\u00e1"
     ],
@@ -77,9 +62,6 @@
     ],
     "name:nld_x_preferred":[
         "Skaln\u00e1"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06a9\u0627\u0644\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Skaln\u00e1"
@@ -93,7 +75,7 @@
     "name:rus_x_preferred":[
         "\u0421\u043a\u0430\u043b\u044c\u043d\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Skaln\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -107,6 +89,9 @@
     ],
     "name:vie_x_preferred":[
         "Skaln\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5361\u723e\u7d0d"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Karlovarsk\u00fd",
@@ -154,7 +139,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527715058,
+    "wof:lastmodified":1561772388,
     "wof:name":"Skaln\u00e1",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

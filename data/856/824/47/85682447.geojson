@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.415996,
-    "geom:area_square_m":3294451971.055439,
+    "geom:area_square_m":3294451971.055384,
     "geom:bbox":"12.0909805,49.8903415,13.301651,50.4582975",
     "geom:latitude":50.173679,
     "geom:longitude":12.754144,
@@ -30,9 +30,6 @@
     "name:aze_x_preferred":[
         "Karlov\u0131 Var\u0131 diyar\u0131"
     ],
-    "name:baq_x_preferred":[
-        "Karlovy Vary eskualdea"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0440\u043b\u0430\u0432\u0430\u0440\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -54,17 +51,14 @@
     "name:ces_x_preferred":[
         "Karlovarsk\u00fd kraj"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u7f85\u7dad\u767c\u5229\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Karlovarsk\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "Karlovy Vary"
     ],
-    "name:dut_x_preferred":[
-        "Karlsbad"
+    "name:deu_x_preferred":[
+        "Karlovarsk\u00fd kraj"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03ac\u03c1\u03bb\u03bf\u03b2\u03c5 \u0392\u03ac\u03c1\u03c5"
     ],
     "name:eng_x_preferred":[
         "Karlovarsk\u00fd"
@@ -75,20 +69,17 @@
     "name:est_x_preferred":[
         "Karlovy Vary maakond"
     ],
+    "name:eus_x_preferred":[
+        "Karlovy Vary eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u06a9\u0627\u0631\u0644\u0648\u0648\u06cc \u0648\u0627\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Karlovy Varyn l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "r\u00e9gion de Karlovy Vary"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10da\u10dd\u10d5\u10d8-\u10d5\u10d0\u10e0\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Karlovarsk\u00fd kraj"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03ac\u03c1\u03bb\u03bf\u03b2\u03c5 \u0392\u03ac\u03c1\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab0\u0acd\u0ab2\u0acb\u0ab5\u0ac0 \u0ab5\u0ac7\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -117,6 +108,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cbe\u0cb0\u0ccd\u0cb2\u0ccb\u0cb5\u0cbf \u0cb5\u0cc7\u0cb0\u0cbf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10da\u10dd\u10d5\u10d8-\u10d5\u10d0\u10e0\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ub97c\ub85c\ube44\ubc14\ub9ac \uc8fc"
     ],
@@ -126,17 +120,20 @@
     "name:lit_x_preferred":[
         "Karlovi Var\u0173 kra\u0161tas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0440\u0441\u043a\u0438 \u043a\u0440\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0930\u094d\u0932\u094b\u0935\u094d\u0939\u0940 \u0935\u0947\u0930\u0947 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0440\u0441\u043a\u0438 \u043a\u0440\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Karlovy Vary"
     ],
     "name:nan_x_preferred":[
         "Karlovy Vary Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Karlsbad"
     ],
     "name:nob_x_preferred":[
         "Karlovy Vary region"
@@ -147,9 +144,6 @@
     "name:pam_x_preferred":[
         "Karlovy Vary Labuad"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u06a9\u0627\u0631\u0644\u0648\u0648\u06cc \u0648\u0627\u0631\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0627\u0631\u0644\u0648\u0648\u06cc \u0648\u0627\u0631\u06cc \u0639\u0644\u0627\u0642\u06c1"
     ],
@@ -159,7 +153,7 @@
     "name:por_x_preferred":[
         "Karlovy Vary"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Karlovy Vary"
     ],
     "name:rus_x_preferred":[
@@ -168,7 +162,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dbb\u0dca\u0dbd\u0ddc\u0dc0\u0dd3 \u0dc0\u0dd9\u0dbb\u0dd2 \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Karlovarsk\u00fd kraj"
     ],
     "name:spa_x_preferred":[
@@ -206,6 +200,9 @@
     ],
     "name:war_x_preferred":[
         "Karlovy Vary"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7f85\u7dad\u767c\u5229\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CZE",
@@ -323,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1553814871,
+    "wof:lastmodified":1561772302,
     "wof:name":"Karlovarsk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

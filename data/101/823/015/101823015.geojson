@@ -20,14 +20,11 @@
     "mps:longitude":15.182201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d77\u5c3c\u91c7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hejnice"
     ],
-    "name:dut_x_preferred":[
-        "Hejnice"
+    "name:deu_x_preferred":[
+        "Haindorf"
     ],
     "name:eng_x_preferred":[
         "Hejnice"
@@ -35,11 +32,11 @@
     "name:epo_x_preferred":[
         "Hejnice"
     ],
-    "name:fre_x_preferred":[
-        "Hejnice"
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0646\u06cc\u062a\u0633\u0647"
     ],
-    "name:ger_x_preferred":[
-        "Haindorf"
+    "name:fra_x_preferred":[
+        "Hejnice"
     ],
     "name:hun_x_preferred":[
         "Hejnice"
@@ -50,10 +47,13 @@
     "name:jpn_x_preferred":[
         "\u30d8\u30a4\u30cb\u30c4\u30a7"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hejnice"
     ],
     "name:nan_x_preferred":[
+        "Hejnice"
+    ],
+    "name:nld_x_preferred":[
         "Hejnice"
     ],
     "name:nno_x_preferred":[
@@ -61,9 +61,6 @@
     ],
     "name:nob_x_preferred":[
         "Hejnice"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u0646\u06cc\u062a\u0633\u0647"
     ],
     "name:pol_x_preferred":[
         "Hejnice"
@@ -77,7 +74,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0435\u0439\u043d\u0438\u0446\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hejnice"
     ],
     "name:srp_x_preferred":[
@@ -94,6 +91,9 @@
     ],
     "name:vie_x_preferred":[
         "Hejnice"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5c3c\u91c7"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Libereck\u00fd",
@@ -167,7 +167,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1534379266,
+    "wof:lastmodified":1561772371,
     "wof:name":"Hejnice",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

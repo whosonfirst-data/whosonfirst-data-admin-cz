@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000787,
-    "geom:area_square_m":6259175.217972,
+    "geom:area_square_m":6259175.217973,
     "geom:bbox":"17.4382030465,49.9728575821,17.5143394635,50.0113109854",
     "geom:latitude":49.993133,
     "geom:longitude":17.468679,
@@ -32,14 +32,8 @@
     "name:ces_x_preferred":[
         "Brunt\u00e1l"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u502b\u5854\u723e"
-    ],
     "name:cze_x_colloquial":[
         "Bruntal"
-    ],
-    "name:cze_x_preferred":[
-        "Brunt\u00e1l"
     ],
     "name:cze_x_variant":[
         "Freudenthal"
@@ -54,9 +48,6 @@
         "Brauntal",
         "Freudenthal"
     ],
-    "name:dut_x_preferred":[
-        "Brunt\u00e1l"
-    ],
     "name:eng_x_preferred":[
         "Brunt\u00e1l"
     ],
@@ -65,12 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Brunt\u00e1l"
-    ],
-    "name:fre_x_preferred":[
-        "Brunt\u00e1l"
-    ],
-    "name:ger_x_preferred":[
-        "Freudenthal"
     ],
     "name:hun_x_preferred":[
         "Brunt\u00e1l"
@@ -87,7 +72,10 @@
     "name:lit_x_preferred":[
         "Bruntalas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Brunt\u00e1l"
+    ],
+    "name:nld_x_preferred":[
         "Brunt\u00e1l"
     ],
     "name:pol_x_preferred":[
@@ -105,7 +93,7 @@
     "name:sco_x_preferred":[
         "Brunt\u00e1l"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Brunt\u00e1l"
     ],
     "name:slv_x_preferred":[
@@ -131,6 +119,9 @@
     ],
     "name:war_x_preferred":[
         "Brunt\u00e1l"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u502b\u5854\u723e"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Moravskoslezsk\u00fd",
@@ -183,7 +174,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1553815526,
+    "wof:lastmodified":1561772390,
     "wof:name":"Brunt\u00e1l",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

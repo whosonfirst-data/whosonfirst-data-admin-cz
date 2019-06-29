@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002496,
-    "geom:area_square_m":19634401.977645,
+    "geom:area_square_m":19634401.977647,
     "geom:bbox":"13.5896336651,50.4641845948,13.6877240969,50.5297595692",
     "geom:latitude":50.49735,
     "geom:longitude":13.639647,
@@ -20,12 +20,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u057d\u057f"
-    ],
-    "name:baq_x_preferred":[
-        "Most"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u0441\u0442"
     ],
@@ -38,14 +32,8 @@
     "name:ces_x_preferred":[
         "Most"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u65af\u7279"
-    ],
     "name:cze_x_colloquial":[
         "Brux"
-    ],
-    "name:cze_x_preferred":[
-        "Most"
     ],
     "name:dan_x_preferred":[
         "Most"
@@ -65,8 +53,8 @@
     "name:dsb_x_preferred":[
         "M\u00f3st"
     ],
-    "name:dut_x_preferred":[
-        "Most"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c3\u03c4"
     ],
     "name:eng_x_preferred":[
         "Most"
@@ -74,23 +62,17 @@
     "name:epo_x_preferred":[
         "Most"
     ],
+    "name:eus_x_preferred":[
+        "Most"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u062a"
+    ],
     "name:fin_x_preferred":[
         "Most"
     ],
     "name:fra_x_preferred":[
         "Most"
-    ],
-    "name:fre_x_preferred":[
-        "Most"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10e1\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Most"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c3\u03c4"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e1\u05d8"
@@ -107,6 +89,9 @@
     "name:hun_x_preferred":[
         "Most"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u057d\u057f"
+    ],
     "name:ind_x_preferred":[
         "Most"
     ],
@@ -115,6 +100,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30b9\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e1\u10e2\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u0441\u0442"
@@ -131,10 +119,10 @@
     "name:lit_x_preferred":[
         "Mostas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u043e\u0441\u0442"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Most"
     ],
     "name:nan_x_preferred":[
@@ -149,9 +137,6 @@
     "name:nor_x_preferred":[
         "Most"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0633\u062a"
-    ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u0633\u062a"
     ],
@@ -164,9 +149,6 @@
     "name:ron_x_preferred":[
         "Most"
     ],
-    "name:rum_x_preferred":[
-        "Most"
-    ],
     "name:rup_x_preferred":[
         "Most"
     ],
@@ -177,9 +159,6 @@
         "Most"
     ],
     "name:slk_x_preferred":[
-        "Most"
-    ],
-    "name:slo_x_preferred":[
         "Most"
     ],
     "name:slv_x_preferred":[
@@ -211,6 +190,9 @@
     ],
     "name:war_x_preferred":[
         "Most"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u7279"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*\u00dasteck\u00fd",
@@ -259,7 +241,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527688472,
+    "wof:lastmodified":1561772362,
     "wof:name":"Most",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

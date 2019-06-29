@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002022,
-    "geom:area_square_m":16089206.595379,
+    "geom:area_square_m":16089206.595382,
     "geom:bbox":"17.8557361829,49.9094075,17.9455948068,49.9684261823",
     "geom:latitude":49.938715,
     "geom:longitude":17.898504,
@@ -20,13 +20,7 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0627\u0641\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u057a\u0561\u057e\u0561"
-    ],
     "name:aze_x_preferred":[
-        "Opava"
-    ],
-    "name:baq_x_preferred":[
         "Opava"
     ],
     "name:bel_x_preferred":[
@@ -47,10 +41,7 @@
     "name:ces_x_preferred":[
         "Opava"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u5e15\u74e6"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Opava"
     ],
     "name:dan_x_preferred":[
@@ -62,11 +53,11 @@
     "name:deu_x_variant":[
         "Troppau"
     ],
-    "name:dut_x_preferred":[
-        "Opava"
-    ],
     "name:ell_x_preferred":[
         "\u038c\u03c0\u03b1\u03b2\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c0\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Opava"
@@ -89,18 +80,6 @@
     "name:fra_x_preferred":[
         "Opava"
     ],
-    "name:fre_x_preferred":[
-        "Opava"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10de\u10d0\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Opava"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c0\u03ac\u03b2\u03b1"
-    ],
     "name:hbs_x_preferred":[
         "Opava"
     ],
@@ -118,6 +97,9 @@
     ],
     "name:hun_x_preferred":[
         "Opava"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u057a\u0561\u057e\u0561"
     ],
     "name:ind_x_preferred":[
         "Opava"
@@ -146,11 +128,8 @@
     "name:lit_x_preferred":[
         "Opava"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041e\u043f\u0430\u0432\u0430"
-    ],
-    "name:may_x_preferred":[
-        "Opava"
     ],
     "name:mon_x_preferred":[
         "\u041e\u043f\u0430\u0432\u0430"
@@ -170,9 +149,6 @@
     "name:nor_x_preferred":[
         "Opava"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u067e\u0627\u0648\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u067e\u0627\u0648\u0627"
     ],
@@ -185,9 +161,6 @@
     "name:ron_x_preferred":[
         "Opava"
     ],
-    "name:rum_x_preferred":[
-        "Opava"
-    ],
     "name:rup_x_preferred":[
         "Opava"
     ],
@@ -198,9 +171,6 @@
         "Opava"
     ],
     "name:slk_x_preferred":[
-        "Opava"
-    ],
-    "name:slo_x_preferred":[
         "Opava"
     ],
     "name:slv_x_preferred":[
@@ -240,9 +210,6 @@
         "Opava"
     ],
     "name:war_x_preferred":[
-        "Opava"
-    ],
-    "name:wel_x_preferred":[
         "Opava"
     ],
     "name:zho_x_preferred":[
@@ -299,7 +266,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527688474,
+    "wof:lastmodified":1561772362,
     "wof:name":"Opava",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

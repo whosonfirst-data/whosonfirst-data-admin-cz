@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00046,
-    "geom:area_square_m":3718356.450612,
+    "geom:area_square_m":3718356.450609,
     "geom:bbox":"16.8572718741,49.1406163248,16.8970133825,49.1710710282",
     "geom:latitude":49.153619,
     "geom:longitude":16.875131,
@@ -29,12 +29,6 @@
     "name:ces_x_preferred":[
         "Slavkov u Brna"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5c14\u8bfa\u9644\u8fd1\u65af\u62c9\u592b\u79d1\u592b"
-    ],
-    "name:cze_x_preferred":[
-        "Slavkov u Brna"
-    ],
     "name:dan_x_preferred":[
         "Slavkov u Brna"
     ],
@@ -44,14 +38,14 @@
     "name:deu_x_variant":[
         "Austerlitz"
     ],
-    "name:dut_x_preferred":[
-        "Slavkov u Brna"
-    ],
     "name:eng_x_preferred":[
         "Slavkov u Brna"
     ],
     "name:epo_x_preferred":[
         "Slavkov u Brna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0627\u0648\u06a9\u0648\u0641 \u0648 \u0628\u0631\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Slavkov u Brna"
@@ -59,11 +53,8 @@
     "name:fra_x_preferred":[
         "Slavkov u Brna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Austerlitz"
-    ],
-    "name:ger_x_preferred":[
-        "Slavkov u Brna"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05d0\u05d5\u05e7\u05d5\u05d1"
@@ -95,11 +86,8 @@
     "name:lit_x_preferred":[
         "Slavkovas prie Brno"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u043b\u0430\u0432\u043a\u043e\u0432 \u043a\u0430\u0458 \u0411\u0440\u043d\u043e"
-    ],
-    "name:may_x_preferred":[
-        "Slavkov u Brna"
     ],
     "name:msa_x_preferred":[
         "Slavkov u Brna"
@@ -119,9 +107,6 @@
     "name:nor_x_variant":[
         "Austerlitz"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0644\u0627\u0648\u06a9\u0648\u0641 \u0648 \u0628\u0631\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "S\u0142awk\u00f3w"
     ],
@@ -131,9 +116,6 @@
     "name:ron_x_preferred":[
         "Slavkov u Brna"
     ],
-    "name:rum_x_preferred":[
-        "Slavkov u Brna"
-    ],
     "name:rup_x_preferred":[
         "Slavkov u Brna"
     ],
@@ -141,9 +123,6 @@
         "\u0421\u043b\u0430\u0432\u043a\u043e\u0432-\u0443-\u0411\u0440\u043d\u0430"
     ],
     "name:slk_x_preferred":[
-        "Slavkov u Brna"
-    ],
-    "name:slo_x_preferred":[
         "Slavkov u Brna"
     ],
     "name:slv_x_preferred":[
@@ -217,7 +196,7 @@
         }
     ],
     "wof:id":101779951,
-    "wof:lastmodified":1527688553,
+    "wof:lastmodified":1561772366,
     "wof:name":"Slavkov u Brna",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

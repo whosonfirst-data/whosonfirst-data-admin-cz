@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000579,
-    "geom:area_square_m":4585015.253005,
+    "geom:area_square_m":4585015.253003,
     "geom:bbox":"14.4882202148,50.1311428309,14.5417212272,50.1509812334",
     "geom:latitude":50.141431,
     "geom:longitude":14.51421,
@@ -25,7 +25,7 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Praha 18"
     ],
     "name:dan_x_preferred":[
@@ -33,9 +33,6 @@
     ],
     "name:deu_x_preferred":[
         "Prag 18"
-    ],
-    "name:dut_x_preferred":[
-        "Praag 18-Let\u0148any"
     ],
     "name:eng_x_preferred":[
         "Prague 18"
@@ -46,11 +43,8 @@
     "name:fra_x_preferred":[
         "Prague 18"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Let\u0148any"
-    ],
-    "name:ger_x_preferred":[
-        "Prag 18"
     ],
     "name:hun_x_preferred":[
         "Let\u0148any"
@@ -64,6 +58,9 @@
     "name:nld_x_preferred":[
         "Praag 18"
     ],
+    "name:nld_x_variant":[
+        "Praag 18-Let\u0148any"
+    ],
     "name:pol_x_preferred":[
         "Praga 18"
     ],
@@ -73,7 +70,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u0442\u043d\u044f\u043d\u044b"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Let\u0148any"
     ],
     "name:spa_x_preferred":[
@@ -143,7 +140,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527268757,
+    "wof:lastmodified":1561772280,
     "wof:name":"Praha 18",
     "wof:parent_id":101754431,
     "wof:placetype":"neighbourhood",

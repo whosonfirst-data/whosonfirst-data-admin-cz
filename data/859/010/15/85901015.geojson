@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3516618.683332,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.630643,49.199411,16.630643,49.199411",
     "geom:latitude":49.199411,
     "geom:longitude":16.630643,
@@ -25,11 +25,11 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Z\u00e1brdovice"
+    ],
     "name:cze_x_colloquial":[
         "Zabrdovice"
-    ],
-    "name:cze_x_preferred":[
-        "Z\u00e1brdovice"
     ],
     "name:deu_x_preferred":[
         "Obrowitz"
@@ -37,13 +37,13 @@
     "name:eng_x_preferred":[
         "Z\u00e1brdovice"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Z\u00e1brdovice"
     ],
     "name:pol_x_preferred":[
         "Z\u00e1brdovice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Z\u00e1brdovice"
     ],
     "src:geom":"mz",
@@ -81,7 +81,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932418,
+    "wof:lastmodified":1561772296,
     "wof:name":"Z\u00e1brdovice",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

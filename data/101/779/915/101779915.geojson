@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000974,
-    "geom:area_square_m":7855141.650324,
+    "geom:area_square_m":7855141.650321,
     "geom:bbox":"16.9674383042,49.2636680855,17.0198996029,49.3278741658",
     "geom:latitude":49.287241,
     "geom:longitude":16.990477,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0634\u0643\u0648\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u0577\u056f\u0578\u057e"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u044b\u0448\u043a\u0430\u045e"
     ],
@@ -35,14 +32,8 @@
     "name:ces_x_preferred":[
         "Vy\u0161kov"
     ],
-    "name:chi_x_preferred":[
-        "\u7ef4\u4ec0\u79d1\u592b"
-    ],
     "name:cze_x_colloquial":[
         "Vyskov"
-    ],
-    "name:cze_x_preferred":[
-        "Vy\u0161kov"
     ],
     "name:dan_x_preferred":[
         "Vy\u0161kov"
@@ -56,9 +47,6 @@
     "name:deu_x_variant":[
         "Wischau"
     ],
-    "name:dut_x_preferred":[
-        "Vy\u0161kov"
-    ],
     "name:eng_x_preferred":[
         "Vy\u0161kov"
     ],
@@ -71,17 +59,14 @@
     "name:fra_x_preferred":[
         "Vy\u0161kov"
     ],
-    "name:fre_x_preferred":[
-        "Vy\u0161kov"
-    ],
-    "name:ger_x_preferred":[
-        "Vy\u0161kov"
-    ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05e9\u05e7\u05d5\u05d1"
     ],
     "name:hun_x_preferred":[
         "Vy\u0161kov"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0577\u056f\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "Vy\u0161kov"
@@ -101,7 +86,7 @@
     "name:lit_x_preferred":[
         "Vi\u0161kovas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Vy\u0161kov"
     ],
     "name:nan_x_preferred":[
@@ -110,8 +95,8 @@
     "name:nld_x_preferred":[
         "Vyskov"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0634\u06a9\u0648"
+    "name:nld_x_variant":[
+        "Vy\u0161kov"
     ],
     "name:pol_x_preferred":[
         "Vy\u0161kov"
@@ -128,7 +113,7 @@
     "name:sgs_x_preferred":[
         "V\u0117\u0161kuovs"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vy\u0161kov"
     ],
     "name:srp_x_preferred":[
@@ -145,6 +130,9 @@
     ],
     "name:war_x_preferred":[
         "Vy\u0161kov"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u4ec0\u79d1\u592b"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Jihomoravsk\u00fd",
@@ -194,7 +182,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527688551,
+    "wof:lastmodified":1561772365,
     "wof:name":"Vy\u0161kov",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

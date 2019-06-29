@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000912,
-    "geom:area_square_m":7356760.875218,
+    "geom:area_square_m":7356760.875216,
     "geom:bbox":"13.8773509346,49.2431088219,13.929996277,49.277229486",
     "geom:latitude":49.259346,
     "geom:longitude":13.905945,
@@ -20,19 +20,13 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u0627\u0643\u0648\u0646\u064a\u062a\u0633\u0647"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u057f\u0580\u0561\u056f\u0578\u0576\u056b\u0581\u0565"
-    ],
-    "name:chi_x_preferred":[
-        "\u65af\u7279\u62c9\u79d1\u5c3c\u91c7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Strakonice"
     ],
     "name:deu_x_preferred":[
         "Strakonitz"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Strakonice"
     ],
     "name:eng_x_preferred":[
@@ -47,14 +41,14 @@
     "name:fin_x_preferred":[
         "Strakonice"
     ],
-    "name:fre_x_preferred":[
-        "Strakonice"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Strakonice"
     ],
     "name:hun_x_preferred":[
         "Strakonice"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0580\u0561\u056f\u0578\u0576\u056b\u0581\u0565"
     ],
     "name:ita_x_preferred":[
         "Strakonice"
@@ -65,17 +59,17 @@
     "name:lit_x_preferred":[
         "Strakonic\u0117s"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0442\u0440\u0430\u043a\u043e\u043d\u0438\u0446\u0435"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Strakonice"
     ],
     "name:nan_x_preferred":[
         "Strakonice"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u062a\u0631\u0627\u06a9\u0646\u06cc\u062a\u0633\u0647"
+    "name:nld_x_preferred":[
+        "Strakonice"
     ],
     "name:pol_x_preferred":[
         "Strakonice"
@@ -83,7 +77,7 @@
     "name:por_x_preferred":[
         "Strakonice"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Strakonice"
     ],
     "name:rup_x_preferred":[
@@ -92,7 +86,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0440\u0430\u043a\u043e\u043d\u0438\u0446\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Strakonice"
     ],
     "name:slv_x_preferred":[
@@ -170,7 +164,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1553815495,
+    "wof:lastmodified":1561772366,
     "wof:name":"Strakonice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

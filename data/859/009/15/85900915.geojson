@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":1870494.140175,
+    "geom:area_square_m":1870494.140176,
     "geom:bbox":"14.3856271798,50.0641916719,14.4116794761,50.0782945474",
     "geom:latitude":50.071918,
     "geom:longitude":14.396715,
@@ -26,14 +26,14 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u054d\u0574\u056b\u0579\u0578\u057e"
-    ],
     "name:ces_x_preferred":[
         "Sm\u00edchov"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Smichov"
+    ],
+    "name:cym_x_preferred":[
+        "Sm\u00edchov"
     ],
     "name:cze_x_variant":[
         "Praha 5-Smichov",
@@ -42,8 +42,8 @@
     "name:deu_x_preferred":[
         "Sm\u00edchov"
     ],
-    "name:dut_x_preferred":[
-        "Sm\u00edchov"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bc\u03af\u03c4\u03c3\u03bf\u03c6"
     ],
     "name:eng_x_preferred":[
         "Sm\u00edchov"
@@ -51,25 +51,19 @@
     "name:fra_x_preferred":[
         "Sm\u00edchov"
     ],
-    "name:fre_x_preferred":[
-        "Sm\u00edchov"
-    ],
-    "name:ger_x_preferred":[
-        "Sm\u00edchov"
-    ],
     "name:glg_x_preferred":[
         "Sm\u00edchov"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bc\u03af\u03c4\u03c3\u03bf\u03c6"
     ],
     "name:hun_x_preferred":[
         "Sm\u00edchov"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0574\u056b\u0579\u0578\u057e"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\ubbf8\ud638\ud504"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u043c\u0438\u0445\u043e\u0432"
     ],
     "name:nld_x_preferred":[
@@ -84,17 +78,11 @@
     "name:slk_x_preferred":[
         "Sm\u00edchov"
     ],
-    "name:slo_x_preferred":[
-        "Sm\u00edchov"
-    ],
     "name:srp_x_preferred":[
         "\u0421\u043c\u0438\u0445\u043e\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043c\u0456\u0445\u043e\u0432"
-    ],
-    "name:wel_x_preferred":[
-        "Sm\u00edchov"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -132,7 +120,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527638493,
+    "wof:lastmodified":1561772289,
     "wof:name":"Smichov",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4500776.213412,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.551367,49.221124,16.551367,49.221124",
     "geom:latitude":49.221124,
     "geom:longitude":16.551367,
@@ -24,11 +24,11 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Brno-Kom\u00edn"
+    ],
     "name:cze_x_colloquial":[
         "Brno-Komin"
-    ],
-    "name:cze_x_preferred":[
-        "Brno-Kom\u00edn"
     ],
     "name:cze_x_variant":[
         "Komin",
@@ -37,13 +37,13 @@
     "name:eng_x_preferred":[
         "Brno-Kom\u00edn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kom\u00edn"
     ],
     "name:pol_x_preferred":[
         "Kom\u00edn"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Brno-Kom\u00edn"
     ],
     "name:unk_x_variant":[
@@ -105,7 +105,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932371,
+    "wof:lastmodified":1561772283,
     "wof:name":"Brno-Kom\u00edn",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12694466.721199,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.342117,49.679159,18.342117,49.679159",
     "geom:latitude":49.679159,
     "geom:longitude":18.342117,
@@ -24,12 +24,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ces_x_preferred":[
+        "HavAAov"
+    ],
     "name:cze_x_colloquial":[
         "HavAAaov",
         "Havirov"
-    ],
-    "name:cze_x_preferred":[
-        "HavAAov"
     ],
     "name:unk_x_variant":[
         "HavAAov"
@@ -91,7 +91,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531936665,
+    "wof:lastmodified":1561772280,
     "wof:name":"HavAAov",
     "wof:parent_id":101748127,
     "wof:placetype":"neighbourhood",

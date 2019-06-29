@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000651,
-    "geom:area_square_m":5168330.00194,
+    "geom:area_square_m":5168330.001941,
     "geom:bbox":"14.5431518555,50.07467771,14.5837028335,50.1012026079",
     "geom:latitude":50.088457,
     "geom:longitude":14.563597,
@@ -36,9 +36,6 @@
     "name:afr_x_preferred":[
         "Hostavice"
     ],
-    "name:alb_x_preferred":[
-        "Hostavice"
-    ],
     "name:ang_x_preferred":[
         "Hostavice"
     ],
@@ -52,9 +49,6 @@
         "Hostavice"
     ],
     "name:bam_x_preferred":[
-        "Hostavice"
-    ],
-    "name:baq_x_preferred":[
         "Hostavice"
     ],
     "name:bar_x_preferred":[
@@ -72,13 +66,13 @@
     "name:bre_x_preferred":[
         "Hostavice"
     ],
-    "name:bur_x_preferred":[
-        "Hostavice"
-    ],
     "name:cat_x_preferred":[
         "Hostavice"
     ],
     "name:cdo_x_preferred":[
+        "Hostavice"
+    ],
+    "name:ces_x_preferred":[
         "Hostavice"
     ],
     "name:cha_x_preferred":[
@@ -105,7 +99,7 @@
     "name:csb_x_preferred":[
         "Hostavice"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Hostavice"
     ],
     "name:cze_x_variant":[
@@ -114,13 +108,13 @@
     "name:dan_x_preferred":[
         "Hostavice"
     ],
+    "name:deu_x_preferred":[
+        "Hostavice"
+    ],
     "name:diq_x_preferred":[
         "Hostavice"
     ],
     "name:dsb_x_preferred":[
-        "Hostavice"
-    ],
-    "name:dut_x_preferred":[
         "Hostavice"
     ],
     "name:eml_x_preferred":[
@@ -135,6 +129,9 @@
     "name:est_x_preferred":[
         "Hostavice"
     ],
+    "name:eus_x_preferred":[
+        "Hostavice"
+    ],
     "name:ext_x_preferred":[
         "Hostavice"
     ],
@@ -147,7 +144,7 @@
     "name:fin_x_preferred":[
         "Hostavice"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hostavice"
     ],
     "name:frp_x_preferred":[
@@ -163,9 +160,6 @@
         "Hostavice"
     ],
     "name:fur_x_preferred":[
-        "Hostavice"
-    ],
-    "name:ger_x_preferred":[
         "Hostavice"
     ],
     "name:gla_x_preferred":[
@@ -219,9 +213,6 @@
     "name:ibo_x_preferred":[
         "Hostavice"
     ],
-    "name:ice_x_preferred":[
-        "Hostavice"
-    ],
     "name:ido_x_preferred":[
         "Hostavice"
     ],
@@ -238,6 +229,9 @@
         "Hostavice"
     ],
     "name:ipk_x_preferred":[
+        "Hostavice"
+    ],
+    "name:isl_x_preferred":[
         "Hostavice"
     ],
     "name:ita_x_preferred":[
@@ -318,12 +312,6 @@
     "name:mah_x_preferred":[
         "Hostavice"
     ],
-    "name:mao_x_preferred":[
-        "Hostavice"
-    ],
-    "name:may_x_preferred":[
-        "Hostavice"
-    ],
     "name:min_x_preferred":[
         "Hostavice"
     ],
@@ -333,10 +321,19 @@
     "name:mlt_x_preferred":[
         "Hostavice"
     ],
+    "name:mri_x_preferred":[
+        "Hostavice"
+    ],
+    "name:msa_x_preferred":[
+        "Hostavice"
+    ],
     "name:mus_x_preferred":[
         "Hostavice"
     ],
     "name:mwl_x_preferred":[
+        "Hostavice"
+    ],
+    "name:mya_x_preferred":[
         "Hostavice"
     ],
     "name:nah_x_preferred":[
@@ -352,6 +349,9 @@
         "Hostavice"
     ],
     "name:nds_x_preferred":[
+        "Hostavice"
+    ],
+    "name:nld_x_preferred":[
         "Hostavice"
     ],
     "name:nno_x_preferred":[
@@ -411,7 +411,7 @@
     "name:roh_x_preferred":[
         "Hostavice"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hostavice"
     ],
     "name:run_x_preferred":[
@@ -426,7 +426,7 @@
     "name:sco_x_preferred":[
         "Hostavice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hostavice"
     ],
     "name:slv_x_preferred":[
@@ -448,6 +448,9 @@
         "Hostavice"
     ],
     "name:spa_x_preferred":[
+        "Hostavice"
+    ],
+    "name:sqi_x_preferred":[
         "Hostavice"
     ],
     "name:srd_x_preferred":[
@@ -534,9 +537,6 @@
     "name:war_x_preferred":[
         "Hostavice"
     ],
-    "name:wel_x_preferred":[
-        "Hostavice"
-    ],
     "name:wln_x_preferred":[
         "Hostavice"
     ],
@@ -590,7 +590,7 @@
         }
     ],
     "wof:id":85900643,
-    "wof:lastmodified":1513945045,
+    "wof:lastmodified":1561772294,
     "wof:name":"Hostavice",
     "wof:parent_id":101758551,
     "wof:placetype":"neighbourhood",

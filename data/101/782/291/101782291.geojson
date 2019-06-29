@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000779,
-    "geom:area_square_m":6340644.109366,
+    "geom:area_square_m":6340644.109367,
     "geom:bbox":"14.2892420687,48.7935541866,14.3479836662,48.8384437236",
     "geom:latitude":48.816463,
     "geom:longitude":14.319994,
@@ -20,9 +20,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0633\u0643\u064a \u0643\u0631\u0648\u0645\u0644\u0648\u0641"
-    ],
-    "name:arm_x_preferred":[
-        "\u0549\u0565\u057d\u056f\u056b-\u053f\u0580\u0578\u0582\u0574\u056c\u0578\u057e"
     ],
     "name:aze_x_preferred":[
         "\u00c7eski Krumlov"
@@ -49,16 +46,13 @@
     "name:ces_x_preferred":[
         "\u010cesk\u00fd Krumlov"
     ],
-    "name:chi_x_preferred":[
-        "\u6377\u514b\u514b\u9c81\u59c6\u6d1b\u592b"
+    "name:cym_x_preferred":[
+        "\u010cesk\u00fd Krumlov"
     ],
     "name:cze_x_colloquial":[
         "Boehmisch Krumau",
         "Bohmisch Krumau",
         "Cesky Krumlov"
-    ],
-    "name:cze_x_preferred":[
-        "\u010cesk\u00fd Krumlov"
     ],
     "name:cze_x_variant":[
         "B\u00f6hmisch Krumau",
@@ -73,11 +67,11 @@
         "Krumau",
         "B\u00f6hmisch Krumau"
     ],
-    "name:dut_x_preferred":[
-        "\u010cesk\u00fd Krumlov"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03ad\u03c3\u03ba\u03b9 \u039a\u03c1\u03bf\u03cd\u03bc\u03bb\u03bf\u03b2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c3\u03b5\u03c3\u03ba\u03cd \u039a\u03c1\u03bf\u03cd\u03bc\u03bb\u03bf\u03b2"
     ],
     "name:eng_x_preferred":[
         "\u010cesk\u00fd Krumlov"
@@ -85,26 +79,17 @@
     "name:epo_x_preferred":[
         "\u010cesk\u00fd Krumlov"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0633\u06a9\u06cc \u06a9\u0631\u0648\u0645\u0644\u0648\u0641"
+    ],
     "name:fin_x_preferred":[
         "\u010cesk\u00fd Krumlov"
     ],
     "name:fra_x_preferred":[
         "\u010cesk\u00fd Krumlov"
     ],
-    "name:fre_x_preferred":[
-        "\u010cesk\u00fd Krumlov"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d4\u10e1\u10d9\u10d8-\u10d9\u10e0\u10e3\u10db\u10da\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "\u010cesk\u00fd Krumlov"
-    ],
     "name:gla_x_preferred":[
         "\u010cesk\u00fd Krumlov"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b5\u03c3\u03ba\u03cd \u039a\u03c1\u03bf\u03cd\u03bc\u03bb\u03bf\u03b2"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05e1\u05e7\u05d9 \u05e7\u05e8\u05d5\u05de\u05dc\u05d5\u05d1"
@@ -114,6 +99,9 @@
     ],
     "name:hun_x_preferred":[
         "\u010cesk\u00fd Krumlov"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0565\u057d\u056f\u056b-\u053f\u0580\u0578\u0582\u0574\u056c\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "\u010cesk\u00fd Krumlov"
@@ -139,14 +127,11 @@
     "name:lit_x_preferred":[
         "\u010cesky Krumlovas"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u0435\u0448\u043a\u0438 \u041a\u0440\u0443\u043c\u043b\u043e\u0432"
-    ],
-    "name:may_x_preferred":[
-        "\u010cesk\u00fd Krumlov"
-    ],
     "name:mkd_x_preferred":[
         "\u0427\u0435\u0448\u043a\u0438 \u041a\u0440\u0443\u043c\u043b\u043e\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cesk\u00fd Krumlov"
     ],
     "name:nan_x_preferred":[
         "\u010cesk\u00fd Krumlov"
@@ -157,16 +142,13 @@
     "name:nob_x_preferred":[
         "\u010cesk\u00fd Krumlov"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0633\u06a9\u06cc \u06a9\u0631\u0648\u0645\u0644\u0648\u0641"
-    ],
     "name:pol_x_preferred":[
         "\u010cesk\u00fd Krumlov"
     ],
     "name:por_x_preferred":[
         "\u010cesk\u00fd Krumlov"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u010cesk\u00fd Krumlov"
     ],
     "name:rup_x_preferred":[
@@ -182,9 +164,6 @@
         "\u010cesk\u00fd Krumlov"
     ],
     "name:slk_x_preferred":[
-        "\u010cesk\u00fd Krumlov"
-    ],
-    "name:slo_x_preferred":[
         "\u010cesk\u00fd Krumlov"
     ],
     "name:slv_x_preferred":[
@@ -221,9 +200,6 @@
         "\u010cesk\u00fd Krumlov"
     ],
     "name:war_x_preferred":[
-        "\u010cesk\u00fd Krumlov"
-    ],
-    "name:wel_x_preferred":[
         "\u010cesk\u00fd Krumlov"
     ],
     "name:zho_x_preferred":[
@@ -277,7 +253,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527688323,
+    "wof:lastmodified":1561772361,
     "wof:name":"\u010cesk\u00fd Krumlov",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

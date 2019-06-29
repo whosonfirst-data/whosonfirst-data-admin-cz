@@ -17,10 +17,7 @@
     "mps:longitude":16.308942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:cze_x_preferred":[
-        "Sloupnice"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Sloupnice"
     ],
     "name:eng_x_preferred":[
@@ -29,7 +26,10 @@
     "name:epo_x_preferred":[
         "Sloupnice"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0648\u0648\u067e\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Sloupnice"
     ],
     "name:hun_x_preferred":[
@@ -38,16 +38,16 @@
     "name:ita_x_preferred":[
         "Sloupnice"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sloupnice"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0644\u0648\u0648\u067e\u0646\u06cc\u062a\u0633\u0647"
+    "name:nld_x_preferred":[
+        "Sloupnice"
     ],
     "name:por_x_preferred":[
         "Sloupnice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sloupnice"
     ],
     "name:srp_x_preferred":[
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101825317,
-    "wof:lastmodified":1513945034,
+    "wof:lastmodified":1561772391,
     "wof:name":"Horn\u00ed Sloupnice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

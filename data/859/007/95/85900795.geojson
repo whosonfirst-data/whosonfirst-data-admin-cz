@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000512,
-    "geom:area_square_m":4063193.098259,
+    "geom:area_square_m":4063193.09826,
     "geom:bbox":"14.3123904657,50.057138452,14.3559006964,50.0747692335",
     "geom:latitude":50.066483,
     "geom:longitude":14.334013,
@@ -44,17 +44,11 @@
     "name:ces_x_variant":[
         "Motol"
     ],
-    "name:cze_x_preferred":[
-        "Motol"
-    ],
     "name:cze_x_variant":[
         "Praha 5-Motol"
     ],
     "name:deu_x_preferred":[
         "Motal"
-    ],
-    "name:dut_x_preferred":[
-        "Motol"
     ],
     "name:eng_x_preferred":[
         "Motol"
@@ -71,7 +65,7 @@
     "name:fra_x_preferred":[
         "Motal"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Motol"
     ],
     "name:fry_x_preferred":[
@@ -92,13 +86,16 @@
     "name:nld_x_preferred":[
         "Motal"
     ],
+    "name:nld_x_variant":[
+        "Motol"
+    ],
     "name:pol_x_preferred":[
         "Motol"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0442\u043e\u043b\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Motol"
     ],
     "name:ukr_x_preferred":[
@@ -174,7 +171,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527638474,
+    "wof:lastmodified":1561772283,
     "wof:name":"Motol",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

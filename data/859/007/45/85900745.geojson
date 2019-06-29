@@ -26,21 +26,12 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0562\u0578\u0582\u0577"
-    ],
     "name:ces_x_preferred":[
-        "Libu\u0161"
-    ],
-    "name:cze_x_preferred":[
         "Libu\u0161"
     ],
     "name:cze_x_variant":[
         "Praha-Libu\u00e5\u010d",
         "Libusch"
-    ],
-    "name:dut_x_preferred":[
-        "Praag-Libu\u0161"
     ],
     "name:eng_x_preferred":[
         "Libu\u0161"
@@ -48,19 +39,22 @@
     "name:eng_x_preferred_x_preferred":[
         "Libusch"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Libu\u0161"
     ],
     "name:ger_x_variant":[
         "Libusch"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0562\u0578\u0582\u0577"
+    ],
+    "name:nld_x_preferred":[
+        "Praag-Libu\u0161"
+    ],
     "name:pol_x_preferred":[
         "Libu\u0161"
     ],
     "name:slk_x_preferred":[
-        "Libu\u0161"
-    ],
-    "name:slo_x_preferred":[
         "Libu\u0161"
     ],
     "name:unk_x_variant":[
@@ -127,7 +121,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1536864509,
+    "wof:lastmodified":1561772284,
     "wof:name":"Libus",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

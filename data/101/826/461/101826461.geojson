@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000897,
-    "geom:area_square_m":7216994.734692,
+    "geom:area_square_m":7216994.73469,
     "geom:bbox":"13.2491886056,49.371435977,13.3124365213,49.4135220873",
     "geom:latitude":49.395659,
     "geom:longitude":13.288435,
@@ -26,16 +26,13 @@
     "name:cat_x_preferred":[
         "Klatovy"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u62c9\u6258\u7dad"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Klatovy"
     ],
     "name:deu_x_preferred":[
         "Klattau"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Klatovy"
     ],
     "name:eng_x_preferred":[
@@ -47,10 +44,7 @@
     "name:fas_x_preferred":[
         "\u06a9\u0644\u0627\u062a\u0648\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Klatovy"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Klatovy"
     ],
     "name:heb_x_preferred":[
@@ -68,14 +62,14 @@
     "name:lit_x_preferred":[
         "Klatovai"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Klatovy"
     ],
     "name:nan_x_preferred":[
         "Klatovy"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0644\u0627\u062a\u0648\u06cc"
+    "name:nld_x_preferred":[
+        "Klatovy"
     ],
     "name:pol_x_preferred":[
         "Klatovy"
@@ -92,7 +86,7 @@
     "name:rus_x_variant":[
         "\u041a\u043b\u0430\u0442\u043e\u0432\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Klatovy"
     ],
     "name:slv_x_preferred":[
@@ -164,7 +158,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527642514,
+    "wof:lastmodified":1561772358,
     "wof:name":"Klatovy",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

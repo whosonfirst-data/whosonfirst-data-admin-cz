@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000484,
-    "geom:area_square_m":3848731.235694,
+    "geom:area_square_m":3848731.235693,
     "geom:bbox":"14.3628637696,49.9288474705,14.3934135661,49.9488474705",
     "geom:latitude":49.938529,
     "geom:longitude":14.377454,
@@ -26,18 +26,15 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u0536\u0562\u0580\u0561\u057d\u056c\u0561\u057e"
-    ],
     "name:bel_x_preferred":[
         "\u0417\u0431\u0440\u0430\u0441\u043b\u0430\u045e"
+    ],
+    "name:ces_x_preferred":[
+        "Praha-Zbraslav"
     ],
     "name:cze_x_colloquial":[
         "Koenigsaal",
         "Konigsaal"
-    ],
-    "name:cze_x_preferred":[
-        "Praha-Zbraslav"
     ],
     "name:cze_x_preferred_x_preferred":[
         "Praha-Zbraslav"
@@ -47,26 +44,26 @@
         "Praha-Zbraslav",
         "Zbraslav"
     ],
-    "name:dut_x_preferred":[
-        "Praag-Zbraslav"
+    "name:deu_x_preferred":[
+        "Zbraslav"
     ],
     "name:eng_x_preferred":[
         "Zbraslav"
     ],
-    "name:fre_x_preferred":[
-        "Zbraslav"
+    "name:fas_x_preferred":[
+        "\u0632\u0628\u0631\u0627\u0633\u0644\u0627\u0648"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zbraslav"
     ],
     "name:hun_x_preferred":[
         "Zbraslav"
     ],
+    "name:hye_x_preferred":[
+        "\u0536\u0562\u0580\u0561\u057d\u056c\u0561\u057e"
+    ],
     "name:nld_x_preferred":[
         "Praag-Zbraslav"
-    ],
-    "name:per_x_preferred":[
-        "\u0632\u0628\u0631\u0627\u0633\u0644\u0627\u0648"
     ],
     "name:pol_x_preferred":[
         "Zbras\u0142aw"
@@ -74,7 +71,7 @@
     "name:rus_x_preferred":[
         "\u0417\u0431\u0440\u0430\u0441\u043b\u0430\u0432"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zbraslav"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +106,7 @@
         }
     ],
     "wof:id":85901021,
-    "wof:lastmodified":1553814913,
+    "wof:lastmodified":1561772296,
     "wof:name":"Zbraslav",
     "wof:parent_id":101825641,
     "wof:placetype":"neighbourhood",

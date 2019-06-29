@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000914,
-    "geom:area_square_m":7437213.786754,
+    "geom:area_square_m":7437213.786751,
     "geom:bbox":"17.099975074,48.8397205994,17.1578116295,48.8739792131",
     "geom:latitude":48.856735,
     "geom:longitude":17.124304,
@@ -20,12 +20,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u062f\u0648\u0646\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u0564\u0578\u0576\u056b\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Hodon\u00edn"
-    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u0434\u043e\u043d\u0438\u043d"
     ],
@@ -38,14 +32,8 @@
     "name:ces_x_preferred":[
         "Hodon\u00edn"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u591a\u5b81"
-    ],
     "name:cze_x_colloquial":[
         "Hodonin"
-    ],
-    "name:cze_x_preferred":[
-        "Hodon\u00edn"
     ],
     "name:deu_x_colloquial":[
         "Goding",
@@ -56,9 +44,6 @@
     ],
     "name:deu_x_variant":[
         "G\u00f6ding"
-    ],
-    "name:dut_x_preferred":[
-        "Hodon\u00edn"
     ],
     "name:eng_x_preferred":[
         "Hodon\u00edn"
@@ -75,14 +60,11 @@
     "name:fra_x_preferred":[
         "Hodon\u00edn"
     ],
-    "name:fre_x_preferred":[
-        "Hodon\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "Hodon\u00edn"
-    ],
     "name:hun_x_preferred":[
         "Hodon\u00edn"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0564\u0578\u0576\u056b\u0576"
     ],
     "name:ind_x_preferred":[
         "Hodon\u00edn"
@@ -105,17 +87,17 @@
     "name:lit_x_preferred":[
         "Hodonynas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hodon\u00edn"
     ],
     "name:nan_x_preferred":[
         "Hodon\u00edn"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Hodon\u00edn"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u062f\u0646\u06cc\u0646"
+    "name:nob_x_preferred":[
+        "Hodon\u00edn"
     ],
     "name:pol_x_preferred":[
         "Hodon\u00edn"
@@ -123,7 +105,7 @@
     "name:por_x_preferred":[
         "Hodon\u00edn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hodon\u00edn"
     ],
     "name:rup_x_preferred":[
@@ -135,7 +117,7 @@
     "name:sco_x_preferred":[
         "Hodon\u00edn"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hodon\u00edn"
     ],
     "name:spa_x_preferred":[
@@ -164,6 +146,9 @@
     ],
     "name:war_x_preferred":[
         "Hodon\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u591a\u5b81"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Jihomoravsk\u00fd",
@@ -213,7 +198,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527715632,
+    "wof:lastmodified":1561772397,
     "wof:name":"Hodon\u00edn",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

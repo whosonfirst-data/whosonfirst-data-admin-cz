@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1136453.031014,
+    "geom:area_square_m":1136453.031013,
     "geom:bbox":"16.7469578813,49.095120708,16.7700293975,49.1096068197",
     "geom:latitude":49.103908,
     "geom:longitude":16.759563,
@@ -19,28 +19,16 @@
     "name:ces_x_preferred":[
         "\u00dajezd u Brna"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u723e\u8afe\u9644\u8fd1\u70cf\u8036\u8332\u5fb7"
-    ],
-    "name:cze_x_preferred":[
-        "\u00dajezd u Brna"
-    ],
     "name:deu_x_preferred":[
-        "\u00dajezd u Brna"
-    ],
-    "name:dut_x_preferred":[
         "\u00dajezd u Brna"
     ],
     "name:eng_x_preferred":[
         "\u00dajezd u Brna"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06cc\u0632\u062f \u0648 \u0628\u0631\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
-        "\u00dajezd u Brna"
-    ],
-    "name:fre_x_preferred":[
-        "\u00dajezd u Brna"
-    ],
-    "name:ger_x_preferred":[
         "\u00dajezd u Brna"
     ],
     "name:hun_x_preferred":[
@@ -52,9 +40,6 @@
     "name:lav_x_preferred":[
         "\u016ajezda pie Brno"
     ],
-    "name:may_x_preferred":[
-        "\u00dajezd u Brna"
-    ],
     "name:msa_x_preferred":[
         "\u00dajezd u Brna"
     ],
@@ -64,22 +49,19 @@
     "name:nld_x_preferred":[
         "\u00dajezd u Brna"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u06cc\u0632\u062f \u0648 \u0628\u0631\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "\u00dajezd u Brna"
     ],
     "name:por_x_preferred":[
         "\u00dajezd u Brna"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u00dajezd u Brna"
     ],
     "name:rup_x_preferred":[
         "\u00dajezd u Brna"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00dajezd u Brna"
     ],
     "name:srp_x_preferred":[
@@ -93,6 +75,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00dajezd u Brna"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u723e\u8afe\u9644\u8fd1\u70cf\u8036\u8332\u5fb7"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Jihomoravsk\u00fd",
@@ -132,7 +117,7 @@
         }
     ],
     "wof:id":101779973,
-    "wof:lastmodified":1527688557,
+    "wof:lastmodified":1561772367,
     "wof:name":"\u00dajezd u Brna",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

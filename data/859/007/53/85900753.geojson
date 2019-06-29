@@ -25,10 +25,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u053c\u0578\u0579\u056f\u0578\u057e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Praha-Lochkov"
     ],
     "name:cze_x_preferred_x_preferred":[
@@ -39,14 +36,17 @@
         "Praha 5-Lochkov",
         "Praha-Lochkov"
     ],
-    "name:dut_x_preferred":[
-        "Praag-Lochkov"
-    ],
     "name:eng_x_preferred":[
         "Lochkov"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lochkov"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0579\u056f\u0578\u057e"
+    ],
+    "name:nld_x_preferred":[
+        "Praag-Lochkov"
     ],
     "name:pol_x_preferred":[
         "Lochkov"
@@ -54,7 +54,7 @@
     "name:scn_x_preferred":[
         "Lochkov"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lochkov"
     ],
     "qs:gn_id":0,
@@ -87,7 +87,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527268873,
+    "wof:lastmodified":1561772285,
     "wof:name":"Lochkov",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

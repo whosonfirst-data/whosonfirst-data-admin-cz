@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.680668,
-    "geom:area_square_m":5430141847.173327,
+    "geom:area_square_m":5430141847.173503,
     "geom:bbox":"17.1465365,49.3929215,18.861025,50.3268665",
     "geom:latitude":49.821194,
     "geom:longitude":17.98037,
@@ -30,9 +30,6 @@
     "name:aze_x_preferred":[
         "Moraviya-Sileziya diyar\u0131"
     ],
-    "name:baq_x_preferred":[
-        "Moravia-Silesia eskualdea"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u0430\u045e\u0441\u043a\u0430\u0441\u0456\u043b\u0435\u0437\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -54,23 +51,20 @@
     "name:ces_x_preferred":[
         "Moravskoslezsk\u00fd kraj"
     ],
-    "name:chi_x_preferred":[
-        "\u6469\u62c9\u7dad\u4e9e-\u897f\u91cc\u897f\u4e9e\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Moravskoslezsk\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "M\u00e4hren-Schlesien"
     ],
     "name:deu_x_preferred":[
         "M\u00e4hrisch-Schlesische Region"
     ],
+    "name:deu_x_variant":[
+        "Moravskoslezsk\u00fd kraj"
+    ],
     "name:diq_x_preferred":[
         "Moravskoslezsk\u00fd kraj"
     ],
-    "name:dut_x_preferred":[
-        "Moravi\u00eb-Silezi\u00eb"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039c\u03bf\u03c1\u03b1\u03b2\u03af\u03b1\u03c2 \u03a3\u03b9\u03bb\u03b5\u03c3\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Moravskoslezsk\u00fd"
@@ -81,29 +75,26 @@
     "name:est_x_preferred":[
         "Morava-Sileesia maakond"
     ],
+    "name:eus_x_preferred":[
+        "Moravia-Silesia eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0645\u0648\u0631\u0627\u0648\u06cc-\u0633\u06cc\u0644\u0632\u06cc"
+    ],
     "name:fin_x_preferred":[
         "M\u00e4\u00e4rin-Sleesian l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
         "Moravie-Sil\u00e9sie"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "r\u00e9gion de Moravie-Sil\u00e9sie"
     ],
     "name:fry_x_preferred":[
         "Moraavje-Sileezje"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10e0\u10d0\u10d5\u10d8\u10d0-\u10e1\u10d8\u10da\u10d4\u10d6\u10d8\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Moravskoslezsk\u00fd kraj"
-    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Moravia-Silesia"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039c\u03bf\u03c1\u03b1\u03b2\u03af\u03b1\u03c2 \u03a3\u03b9\u03bb\u03b5\u03c3\u03af\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab0\u0abe\u0ab5\u0abf\u0aaf\u0aa8-\u0ab8\u0abf\u0ab2\u0ac7\u0ab8\u0abf\u0a85\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -132,6 +123,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cca\u0cb0\u0cbe\u0cb5\u0cbf\u0caf\u0ca8\u0ccd-\u0cb8\u0cbf\u0cb2\u0cc7\u0cb6\u0cbf\u0caf\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e0\u10d0\u10d5\u10d8\u10d0-\u10e1\u10d8\u10da\u10d4\u10d6\u10d8\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ubaa8\ub77c\ubc14\uc2ac\ub808\uc2a4\ucf54 \uc8fc"
     ],
@@ -141,17 +135,20 @@
     "name:lit_x_preferred":[
         "Moravijos-Silezijos kra\u0161tas"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u043e-\u0448\u043b\u0435\u0437\u0438\u0441\u043a\u0438 \u043a\u0440\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0930\u093e\u0935\u093f\u092f\u0928-\u0938\u093f\u0932\u0947\u0938\u093f\u092f\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u043e-\u0448\u043b\u0435\u0437\u0438\u0441\u043a\u0438 \u043a\u0440\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Moravia-Silesia"
     ],
     "name:nan_x_preferred":[
         "Moravia-Silesia Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Moravi\u00eb-Silezi\u00eb"
     ],
     "name:nob_x_preferred":[
         "M\u00e4hren-Schlesien"
@@ -162,9 +159,6 @@
     "name:pam_x_preferred":[
         "Moravian-Silesian Labuad"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0645\u0648\u0631\u0627\u0648\u06cc-\u0633\u06cc\u0644\u0632\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u0631\u0627\u0648\u06cc\u0627\u0626\u06cc \u0633\u06cc\u0644\u06cc\u0633\u06cc\u0627\u0626\u06cc \u0639\u0644\u0627\u0642\u06c1"
     ],
@@ -174,7 +168,7 @@
     "name:por_x_preferred":[
         "Mor\u00e1via-Sil\u00e9sia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Moravia-Silezia"
     ],
     "name:rus_x_preferred":[
@@ -183,7 +177,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0dbb\u0dc0\u0dd2\u0dba\u0db1\u0dca-\u0dc3\u0dd2\u0dbd\u0dd9\u0dc3\u0dd2\u0dba\u0db1\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Moravsko-sliezsky kraj"
     ],
     "name:spa_x_preferred":[
@@ -221,6 +215,9 @@
     ],
     "name:war_x_preferred":[
         "Moravian-Silesian"
+    ],
+    "name:zho_x_preferred":[
+        "\u6469\u62c9\u7dad\u4e9e-\u897f\u91cc\u897f\u4e9e\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CZE",
@@ -338,7 +335,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1553814871,
+    "wof:lastmodified":1561772300,
     "wof:name":"Moravskoslezsk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

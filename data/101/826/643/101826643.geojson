@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":926971.344529,
+    "geom:area_square_m":926971.344528,
     "geom:bbox":"14.6615370575,49.7267180295,14.6759867834,49.7428664888",
     "geom:latitude":49.734289,
     "geom:longitude":14.667142,
@@ -23,37 +23,22 @@
     "name:ces_x_preferred":[
         "Byst\u0159ice"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u65af\u7279\u65e5\u91c7"
-    ],
-    "name:cze_x_preferred":[
-        "Byst\u0159ice"
-    ],
     "name:deu_x_preferred":[
         "Byst\u0159ice u Bene\u0161ova"
-    ],
-    "name:dut_x_preferred":[
-        "Byst\u0159ice"
     ],
     "name:eng_x_preferred":[
         "Byst\u0159ice"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Byst\u0159ice"
-    ],
-    "name:fre_x_preferred":[
-        "Byst\u0159ice"
-    ],
-    "name:ger_x_preferred":[
-        "Byst\u0159ice u Bene\u0161ova"
     ],
     "name:hun_x_preferred":[
         "Byst\u0159ice"
     ],
     "name:ita_x_preferred":[
-        "Byst\u0159ice"
-    ],
-    "name:may_x_preferred":[
         "Byst\u0159ice"
     ],
     "name:msa_x_preferred":[
@@ -64,9 +49,6 @@
     ],
     "name:nld_x_preferred":[
         "Byst\u0159ice"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0647"
     ],
     "name:pol_x_preferred":[
         "Byst\u0159ice u Bene\u0161ova"
@@ -80,7 +62,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0448\u0438\u0446\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Byst\u0159ice"
     ],
     "name:srp_x_preferred":[
@@ -97,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "Byst\u0159ice"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u65af\u7279\u65e5\u91c7"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Stredocesk\u00fd",
@@ -141,7 +126,7 @@
         }
     ],
     "wof:id":101826643,
-    "wof:lastmodified":1553815528,
+    "wof:lastmodified":1561772353,
     "wof:name":"Byst\u0159ice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

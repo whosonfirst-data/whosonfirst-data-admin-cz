@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000884,
-    "geom:area_square_m":6995696.582743,
+    "geom:area_square_m":6995696.582738,
     "geom:bbox":"17.1758126169,50.1504022574,17.2225781778,50.2440001758",
     "geom:latitude":50.215612,
     "geom:longitude":17.198111,
@@ -33,20 +33,11 @@
     "name:ces_x_preferred":[
         "Jesen\u00edk"
     ],
-    "name:chi_x_preferred":[
-        "\u8036\u585e\u5c3c\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Jesen\u00edk"
-    ],
     "name:deu_x_preferred":[
         "Jesen\u00edk"
     ],
     "name:deu_x_variant":[
         "Freiwaldau"
-    ],
-    "name:dut_x_preferred":[
-        "Jesen\u00edk"
     ],
     "name:eng_x_preferred":[
         "Jesen\u00edk"
@@ -54,13 +45,10 @@
     "name:epo_x_preferred":[
         "Jesen\u00edk"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0633\u0646\u06cc\u06a9"
+    ],
     "name:fra_x_preferred":[
-        "Jesen\u00edk"
-    ],
-    "name:fre_x_preferred":[
-        "Jesen\u00edk"
-    ],
-    "name:ger_x_preferred":[
         "Jesen\u00edk"
     ],
     "name:glg_x_preferred":[
@@ -87,17 +75,17 @@
     "name:lit_x_preferred":[
         "Jesenykas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jesen\u00edk"
     ],
     "name:nan_x_preferred":[
         "Jesen\u00edk"
     ],
+    "name:nld_x_preferred":[
+        "Jesen\u00edk"
+    ],
     "name:nob_x_preferred":[
         "Jesenik"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0633\u0646\u06cc\u06a9"
     ],
     "name:pol_x_preferred":[
         "Jesionik"
@@ -111,7 +99,7 @@
     "name:rus_x_preferred":[
         "\u0415\u0441\u0435\u043d\u0438\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Jesen\u00edk"
     ],
     "name:srp_x_preferred":[
@@ -140,6 +128,9 @@
     ],
     "name:war_x_preferred":[
         "Jesen\u00edk"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u585e\u5c3c\u514b"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Olomouck\u00fd",
@@ -185,7 +176,7 @@
         }
     ],
     "wof:id":101840971,
-    "wof:lastmodified":1553815537,
+    "wof:lastmodified":1561772378,
     "wof:name":"Jesen\u00edk",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

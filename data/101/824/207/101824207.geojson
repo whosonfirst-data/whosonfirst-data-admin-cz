@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000841,
-    "geom:area_square_m":6657553.470123,
+    "geom:area_square_m":6657553.470127,
     "geom:bbox":"15.0010195603,50.1699239354,15.0705538918,50.2042522549",
     "geom:latitude":50.185167,
     "geom:longitude":15.039671,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0645\u0628\u0648\u0631\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u056b\u0574\u0562\u0578\u0582\u0580\u056f"
-    ],
     "name:bel_x_preferred":[
         "\u041d\u0456\u043c\u0431\u0443\u0440\u043a"
     ],
@@ -32,20 +29,11 @@
     "name:ces_x_preferred":[
         "Nymburk"
     ],
-    "name:chi_x_preferred":[
-        "\u5be7\u5e03\u723e\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Nymburk"
-    ],
     "name:deu_x_preferred":[
         "Nymburk"
     ],
     "name:deu_x_variant":[
         "Nimburg"
-    ],
-    "name:dut_x_preferred":[
-        "Nymburk"
     ],
     "name:eng_x_preferred":[
         "Nymburk"
@@ -53,13 +41,10 @@
     "name:epo_x_preferred":[
         "Nymburk"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0645\u0628\u0648\u0631\u06a9"
+    ],
     "name:fra_x_preferred":[
-        "Nymburk"
-    ],
-    "name:fre_x_preferred":[
-        "Nymburk"
-    ],
-    "name:ger_x_preferred":[
         "Nymburk"
     ],
     "name:hun_x_preferred":[
@@ -77,9 +62,6 @@
     "name:kaz_x_preferred":[
         "\u041d\u0438\u043c\u0431\u0443\u0440\u043a"
     ],
-    "name:may_x_preferred":[
-        "Nymburk"
-    ],
     "name:msa_x_preferred":[
         "Nymburk"
     ],
@@ -95,9 +77,6 @@
     "name:nor_x_preferred":[
         "Nymburk"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0645\u0628\u0648\u0631\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Nymburk"
     ],
@@ -111,9 +90,6 @@
         "\u041d\u0438\u043c\u0431\u0443\u0440\u043a"
     ],
     "name:slk_x_preferred":[
-        "Nymburk"
-    ],
-    "name:slo_x_preferred":[
         "Nymburk"
     ],
     "name:slv_x_preferred":[
@@ -194,7 +170,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527714854,
+    "wof:lastmodified":1561772376,
     "wof:name":"Nymburk",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

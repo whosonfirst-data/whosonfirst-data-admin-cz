@@ -26,10 +26,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u054a\u0565\u057f\u0580\u0578\u057e\u0578\u0581\u0565"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Praha-Petrovice"
     ],
     "name:cze_x_variant":[
@@ -40,13 +37,16 @@
     "name:eng_x_preferred":[
         "Petrovice"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Petrovice"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u057f\u0580\u0578\u057e\u0578\u0581\u0565"
     ],
     "name:pol_x_preferred":[
         "Petrovice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Petrovice"
     ],
     "src:geom":"quattroshapes",
@@ -84,7 +84,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1513945526,
+    "wof:lastmodified":1561772291,
     "wof:name":"Petrovice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

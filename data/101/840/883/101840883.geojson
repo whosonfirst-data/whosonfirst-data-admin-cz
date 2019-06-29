@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000638,
-    "geom:area_square_m":5097392.711747,
+    "geom:area_square_m":5097392.711748,
     "geom:bbox":"16.4461892004,49.7347861216,16.4914772513,49.7681572903",
     "geom:latitude":49.755068,
     "geom:longitude":16.468737,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0641\u064a\u062a\u0627\u0641\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u057e\u056b\u057f\u0561\u057e\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0432\u0438\u0442\u0430\u0432\u0438"
     ],
@@ -30,12 +27,6 @@
         "Svitavy"
     ],
     "name:ces_x_preferred":[
-        "Svitavy"
-    ],
-    "name:chi_x_preferred":[
-        "\u65af\u7dad\u5854\u7dad"
-    ],
-    "name:cze_x_preferred":[
         "Svitavy"
     ],
     "name:cze_x_variant":[
@@ -47,22 +38,16 @@
     "name:deu_x_variant":[
         "Zwittau"
     ],
-    "name:dut_x_preferred":[
-        "Svitavy"
-    ],
     "name:eng_x_preferred":[
         "Svitavy"
     ],
     "name:epo_x_preferred":[
         "Svitavy"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06cc\u062a\u0627\u0648\u06cc"
+    ],
     "name:fra_x_preferred":[
-        "Svitavy"
-    ],
-    "name:fre_x_preferred":[
-        "Svitavy"
-    ],
-    "name:ger_x_preferred":[
         "Svitavy"
     ],
     "name:heb_x_preferred":[
@@ -70,6 +55,9 @@
     ],
     "name:hun_x_preferred":[
         "Svitavy"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057e\u056b\u057f\u0561\u057e\u056b"
     ],
     "name:ita_x_preferred":[
         "Svitavy"
@@ -85,9 +73,6 @@
     ],
     "name:lit_x_preferred":[
         "Svitavai"
-    ],
-    "name:may_x_preferred":[
-        "Svitavy"
     ],
     "name:msa_x_preferred":[
         "Svitavy"
@@ -107,9 +92,6 @@
     "name:nor_x_preferred":[
         "Svitavy"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u06cc\u062a\u0627\u0648\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Svitavy"
     ],
@@ -119,9 +101,6 @@
     "name:ron_x_preferred":[
         "Svitavy"
     ],
-    "name:rum_x_preferred":[
-        "Svitavy"
-    ],
     "name:rup_x_preferred":[
         "Svitavy"
     ],
@@ -129,9 +108,6 @@
         "\u0421\u0432\u0438\u0442\u0430\u0432\u0438"
     ],
     "name:slk_x_preferred":[
-        "Svitavy"
-    ],
-    "name:slo_x_preferred":[
         "Svitavy"
     ],
     "name:slv_x_preferred":[
@@ -210,7 +186,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527715013,
+    "wof:lastmodified":1561772379,
     "wof:name":"Svitavy",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",
