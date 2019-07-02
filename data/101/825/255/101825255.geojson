@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000361,
-    "geom:area_square_m":2870409.196592,
+    "geom:area_square_m":2870409.196593,
     "geom:bbox":"15.5437721033,50.0312022604,15.5959153475,50.0432610361",
     "geom:latitude":50.037025,
     "geom:longitude":15.565057,
@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "P\u0159elou\u010d"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u71b1\u6d1b\u70cf\u5947"
-    ],
-    "name:cze_x_preferred":[
-        "P\u0159elou\u010d"
-    ],
     "name:deu_x_preferred":[
-        "P\u0159elou\u010d"
-    ],
-    "name:dut_x_preferred":[
         "P\u0159elou\u010d"
     ],
     "name:eng_x_preferred":[
@@ -41,13 +32,10 @@
     "name:epo_x_preferred":[
         "P\u0159elou\u010d"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0644\u0648\u0648\u062a\u0634"
+    ],
     "name:fra_x_preferred":[
-        "P\u0159elou\u010d"
-    ],
-    "name:fre_x_preferred":[
-        "P\u0159elou\u010d"
-    ],
-    "name:ger_x_preferred":[
         "P\u0159elou\u010d"
     ],
     "name:hun_x_preferred":[
@@ -59,17 +47,11 @@
     "name:lav_x_preferred":[
         "Pr\u0161elou\u010da"
     ],
-    "name:may_x_preferred":[
-        "P\u0159elou\u010d"
-    ],
     "name:msa_x_preferred":[
         "P\u0159elou\u010d"
     ],
     "name:nld_x_preferred":[
         "P\u0159elou\u010d"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0644\u0648\u0648\u062a\u0634"
     ],
     "name:pol_x_preferred":[
         "P\u0159elou\u010d"
@@ -83,7 +65,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u0448\u0435\u043b\u043e\u0443\u0447"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "P\u0159elou\u010d"
     ],
     "name:srp_x_preferred":[
@@ -100,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "P\u0159elou\u010d"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u71b1\u6d1b\u70cf\u5947"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Pardubick\u00fd",
@@ -145,7 +130,7 @@
         }
     ],
     "wof:id":101825255,
-    "wof:lastmodified":1527715062,
+    "wof:lastmodified":1561772391,
     "wof:name":"P\u0159elou\u010d",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

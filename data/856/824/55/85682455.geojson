@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.658127,
-    "geom:area_square_m":5254924652.366904,
+    "geom:area_square_m":5254924652.366596,
     "geom:bbox":"16.7119775,49.2675625,17.918106,50.449543",
     "geom:latitude":49.778446,
     "geom:longitude":17.191678,
@@ -30,9 +30,6 @@
     "name:aze_x_preferred":[
         "Olomoutskiy diyar\u0131"
     ],
-    "name:baq_x_preferred":[
-        "Olomouc eskualdea"
-    ],
     "name:bel_x_preferred":[
         "\u041e\u043b\u0430\u043c\u0430\u045e\u0446\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -54,20 +51,17 @@
     "name:ces_x_preferred":[
         "Olomouck\u00fd kraj"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u6d1b\u7a46\u514b\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Olomouck\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "Olomouc"
+    ],
+    "name:deu_x_preferred":[
+        "Olomouck\u00fd kraj"
     ],
     "name:diq_x_preferred":[
         "Olomouck\u00fd kraj"
     ],
-    "name:dut_x_preferred":[
-        "Olomouc"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u038c\u03bb\u03bf\u03bc\u03bf\u03c5\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Olomouck\u00fd"
@@ -78,20 +72,17 @@
     "name:est_x_preferred":[
         "Olomouci maakond"
     ],
+    "name:eus_x_preferred":[
+        "Olomouc eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0648\u0644\u0648\u0645\u0648\u062a\u0633"
+    ],
     "name:fin_x_preferred":[
         "Olomoucin l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "r\u00e9gion d'Olomouc"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10da\u10dd\u10db\u10dd\u10e3\u10ea\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Olomouck\u00fd kraj"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u038c\u03bb\u03bf\u03bc\u03bf\u03c5\u03c4\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab2\u0acb\u0aae\u0acc\u0a95 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -120,6 +111,9 @@
     "name:kan_x_preferred":[
         "\u0c93\u0cb2\u0ccb\u0cae\u0ccc\u0c95\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10da\u10dd\u10db\u10dd\u10e3\u10ea\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uc62c\ub85c\ubaa8\uc6b0\uce20 \uc8fc"
     ],
@@ -129,17 +123,20 @@
     "name:lit_x_preferred":[
         "Olomouco kra\u0161tas"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043b\u043e\u043c\u043e\u0443\u0447\u043a\u0438 \u043a\u0440\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u0911\u0932\u094b\u0915\u093f\u0915 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041e\u043b\u043e\u043c\u043e\u0443\u0447\u043a\u0438 \u043a\u0440\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Olomouc"
     ],
     "name:nan_x_preferred":[
         "Olomouc Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Olomouc"
     ],
     "name:nob_x_preferred":[
         "Olomouc region"
@@ -150,9 +147,6 @@
     "name:pam_x_preferred":[
         "Olomouc Labuad"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0648\u0644\u0648\u0645\u0648\u062a\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u0644\u0648\u0645\u0648\u062a\u0633 \u0639\u0644\u0627\u0642\u06c1"
     ],
@@ -162,7 +156,7 @@
     "name:por_x_preferred":[
         "Olomouc"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Olomouc"
     ],
     "name:rus_x_preferred":[
@@ -171,7 +165,7 @@
     "name:sin_x_preferred":[
         "\u0d94\u0dbd\u0ddc\u0db8\u0ddc\u0d8b\u0d9a\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Olomouck\u00fd kraj"
     ],
     "name:spa_x_preferred":[
@@ -209,6 +203,9 @@
     ],
     "name:war_x_preferred":[
         "Olomouc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u6d1b\u7a46\u514b\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CZE",
@@ -326,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1553814872,
+    "wof:lastmodified":1561772301,
     "wof:name":"Olomouck\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

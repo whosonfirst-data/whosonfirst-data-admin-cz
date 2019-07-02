@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000788,
-    "geom:area_square_m":6268764.83582,
+    "geom:area_square_m":6268764.835819,
     "geom:bbox":"14.0500013443,49.9452758755,14.0983135495,49.9846693051",
     "geom:latitude":49.962666,
     "geom:longitude":14.070613,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0648\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0580\u0578\u0578\u0582\u0576"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0443\u043d"
     ],
@@ -35,10 +32,7 @@
     "name:ces_x_preferred":[
         "Beroun"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u9f8d"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Beroun"
     ],
     "name:deu_x_preferred":[
@@ -47,26 +41,23 @@
     "name:deu_x_variant":[
         "Beraun"
     ],
-    "name:dut_x_preferred":[
-        "Beroun"
-    ],
     "name:eng_x_preferred":[
         "Beroun"
     ],
     "name:epo_x_preferred":[
         "Beroun"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
-        "Beroun"
-    ],
-    "name:fre_x_preferred":[
-        "Beroun"
-    ],
-    "name:ger_x_preferred":[
         "Beroun"
     ],
     "name:hun_x_preferred":[
         "Beroun"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0578\u0578\u0582\u0576"
     ],
     "name:ita_x_preferred":[
         "Beroun"
@@ -83,11 +74,8 @@
     "name:lat_x_preferred":[
         "Verona"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0443\u043d"
-    ],
-    "name:may_x_preferred":[
-        "Beroun"
     ],
     "name:msa_x_preferred":[
         "Beroun"
@@ -107,9 +95,6 @@
     "name:pam_x_preferred":[
         "Beroun"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0648\u0648\u0646"
-    ],
     "name:pol_x_preferred":[
         "Beroun"
     ],
@@ -123,9 +108,6 @@
         "\u0411\u0435\u0440\u043e\u0443\u043d"
     ],
     "name:slk_x_preferred":[
-        "Beroun"
-    ],
-    "name:slo_x_preferred":[
         "Beroun"
     ],
     "name:slv_x_preferred":[
@@ -147,9 +129,6 @@
         "Beroun"
     ],
     "name:war_x_preferred":[
-        "Beroun"
-    ],
-    "name:wel_x_preferred":[
         "Beroun"
     ],
     "name:zho_x_preferred":[
@@ -203,7 +182,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527714692,
+    "wof:lastmodified":1561772369,
     "wof:name":"Beroun",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

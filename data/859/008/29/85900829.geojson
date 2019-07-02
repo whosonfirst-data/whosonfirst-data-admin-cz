@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14131867.637462,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.594263,49.293916,16.594263,49.293916",
     "geom:latitude":49.293916,
     "geom:longitude":16.594263,
@@ -24,13 +24,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Brno-O\u00e5e\u00e5\u010d\u00e3n"
+    ],
     "name:cze_x_colloquial":[
         "Brno-Oaaeaacan",
         "Brno-Oaeacan",
         "Brno-Oresin"
-    ],
-    "name:cze_x_preferred":[
-        "Brno-O\u00e5e\u00e5\u010d\u00e3n"
     ],
     "name:cze_x_variant":[
         "Oresin"
@@ -92,7 +92,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932392,
+    "wof:lastmodified":1561772290,
     "wof:name":"Brno-O\u00e5e\u00e5\u010d\u00e3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

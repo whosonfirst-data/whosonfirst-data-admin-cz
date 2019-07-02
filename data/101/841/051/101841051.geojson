@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000577,
-    "geom:area_square_m":4548039.392409,
+    "geom:area_square_m":4548039.39241,
     "geom:bbox":"16.14741302,50.4047984685,16.1984066032,50.4304378578",
     "geom:latitude":50.417511,
     "geom:longitude":16.170146,
@@ -29,19 +29,10 @@
     "name:ces_x_preferred":[
         "N\u00e1chod"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u970d\u5fb7"
-    ],
     "name:cze_x_colloquial":[
         "Nachod"
     ],
-    "name:cze_x_preferred":[
-        "N\u00e1chod"
-    ],
     "name:deu_x_preferred":[
-        "N\u00e1chod"
-    ],
-    "name:dut_x_preferred":[
         "N\u00e1chod"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u0646\u0627\u062e\u0648\u062f"
     ],
     "name:fra_x_preferred":[
-        "N\u00e1chod"
-    ],
-    "name:fre_x_preferred":[
-        "N\u00e1chod"
-    ],
-    "name:ger_x_preferred":[
         "N\u00e1chod"
     ],
     "name:heb_x_preferred":[
@@ -86,17 +71,17 @@
     "name:lit_x_preferred":[
         "Nachodas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "N\u00e1chod"
     ],
     "name:nan_x_preferred":[
         "N\u00e1chod"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "N\u00e1chod"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062e\u0648\u062f"
+    "name:nob_x_preferred":[
+        "N\u00e1chod"
     ],
     "name:pol_x_preferred":[
         "N\u00e1chod"
@@ -104,7 +89,7 @@
     "name:por_x_preferred":[
         "N\u00e1chod"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "N\u00e1chod"
     ],
     "name:rup_x_preferred":[
@@ -113,7 +98,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u0445\u043e\u0434"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "N\u00e1chod"
     ],
     "name:slv_x_preferred":[
@@ -142,6 +127,9 @@
     ],
     "name:war_x_preferred":[
         "N\u00e1chod"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u970d\u5fb7"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Kr\u00e1lov\u00e9hradeck\u00fd",
@@ -191,7 +179,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527714701,
+    "wof:lastmodified":1561772370,
     "wof:name":"N\u00e1chod",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

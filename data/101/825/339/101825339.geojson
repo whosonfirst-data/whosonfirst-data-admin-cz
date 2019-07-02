@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000953,
-    "geom:area_square_m":7564683.709309,
+    "geom:area_square_m":7564683.709313,
     "geom:bbox":"12.3429856442,50.0543595178,12.4080649413,50.0979227786",
     "geom:latitude":50.074344,
     "geom:longitude":12.374932,
@@ -22,9 +22,6 @@
     ],
     "name:ara_x_preferred":[
         "\u062e\u0628"
-    ],
-    "name:arm_x_preferred":[
-        "\u053d\u0565\u0562"
     ],
     "name:bar_x_preferred":[
         "Eger"
@@ -44,12 +41,6 @@
     "name:ces_x_preferred":[
         "Cheb"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u5e03"
-    ],
-    "name:cze_x_preferred":[
-        "Cheb"
-    ],
     "name:dan_x_preferred":[
         "Cheb"
     ],
@@ -59,8 +50,8 @@
     "name:deu_x_variant":[
         "Eger"
     ],
-    "name:dut_x_preferred":[
-        "Cheb"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Cheb"
@@ -74,15 +65,6 @@
     "name:fra_x_preferred":[
         "Egra"
     ],
-    "name:fre_x_preferred":[
-        "Egra"
-    ],
-    "name:ger_x_preferred":[
-        "Cheb"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b5\u03bc\u03c0"
-    ],
     "name:heb_x_preferred":[
         "\u05d7\u05d1"
     ],
@@ -92,8 +74,8 @@
     "name:hun_x_preferred":[
         "Cheb"
     ],
-    "name:ice_x_preferred":[
-        "Cheb"
+    "name:hye_x_preferred":[
+        "\u053d\u0565\u0562"
     ],
     "name:ind_x_preferred":[
         "Cheb"
@@ -119,11 +101,8 @@
     "name:lit_x_preferred":[
         "Chebas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0425\u0435\u0431"
-    ],
-    "name:may_x_preferred":[
-        "Cheb"
     ],
     "name:msa_x_preferred":[
         "Cheb"
@@ -140,9 +119,6 @@
     "name:nor_x_preferred":[
         "Cheb"
     ],
-    "name:per_x_preferred":[
-        "\u062e\u067e"
-    ],
     "name:pol_x_preferred":[
         "Cheb"
     ],
@@ -152,9 +128,6 @@
     "name:ron_x_preferred":[
         "Cheb"
     ],
-    "name:rum_x_preferred":[
-        "Cheb"
-    ],
     "name:rup_x_preferred":[
         "Cheb"
     ],
@@ -162,9 +135,6 @@
         "\u0425\u0435\u0431"
     ],
     "name:slk_x_preferred":[
-        "Cheb"
-    ],
-    "name:slo_x_preferred":[
         "Cheb"
     ],
     "name:spa_x_preferred":[
@@ -245,7 +215,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527715051,
+    "wof:lastmodified":1561772382,
     "wof:name":"Cheb",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

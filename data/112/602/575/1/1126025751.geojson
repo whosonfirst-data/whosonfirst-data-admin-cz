@@ -19,41 +19,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u057e\u056c\u056b\u0579\u056f\u0578\u057e\u0561 \u0532\u0578\u0580\u0578\u057e\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u54c8\u592b\u5229\u6208\u74e6\u6ce2\u6d1b\u74e6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
     ],
     "name:eng_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Havl\u00ed\u010dkova Borov\u00e1"
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0648\u0644\u06cc\u062a\u0634\u06a9\u0648\u0648\u0627 \u0628\u0648\u0631\u0648\u0648\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
     ],
     "name:hun_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u057e\u056c\u056b\u0579\u056f\u0578\u057e\u0561 \u0532\u0578\u0580\u0578\u057e\u0561"
+    ],
     "name:ita_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
     ],
     "name:nan_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0648\u0644\u06cc\u062a\u0634\u06a9\u0648\u0648\u0627 \u0628\u0648\u0631\u0648\u0648\u0627"
+    "name:nld_x_preferred":[
+        "Havl\u00ed\u010dkova Borov\u00e1"
     ],
     "name:por_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
@@ -61,7 +58,7 @@
     "name:rup_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
     ],
     "name:srp_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "Havl\u00ed\u010dkova Borov\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u592b\u5229\u6208\u74e6\u6ce2\u6d1b\u74e6"
     ],
     "qs_pg:aaroncc":"CZ",
     "qs_pg:gn_country":"CZ",
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1126025751,
-    "wof:lastmodified":1513944979,
+    "wof:lastmodified":1561772451,
     "wof:name":"Havl\u00ed\u010dkova Borov\u00e1",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

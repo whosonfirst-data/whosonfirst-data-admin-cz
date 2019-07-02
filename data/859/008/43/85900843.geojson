@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22759501.079036,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.205331,50.775203,14.205331,50.775203",
     "geom:latitude":50.775203,
     "geom:longitude":14.205331,
@@ -26,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:ces_x_preferred":[
-        "Podmokly"
-    ],
-    "name:cze_x_preferred":[
         "Podmokly"
     ],
     "name:cze_x_variant":[
@@ -52,11 +49,8 @@
     "name:fra_x_preferred":[
         "Podmokly"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "D\u011b\u010d\u00edn IV-Podmokly"
-    ],
-    "name:ger_x_preferred":[
-        "Podmokly"
     ],
     "name:ita_x_preferred":[
         "Podmokly"
@@ -135,7 +129,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932392,
+    "wof:lastmodified":1561772291,
     "wof:name":"Podmokly",
     "wof:parent_id":101748137,
     "wof:placetype":"neighbourhood",

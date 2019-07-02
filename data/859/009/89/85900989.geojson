@@ -26,25 +26,19 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u056c\u056f\u0561 \u0549\u0578\u0582\u0579\u056c\u0565"
-    ],
     "name:ces_x_preferred":[
         "Velk\u00e1 Chuchle"
+    ],
+    "name:ces_x_variant":[
+        "Praha-Velk\u00e1 Chuchle"
     ],
     "name:cze_x_colloquial":[
         "Praha 5-Velka Chuchle",
         "Praha-Velka Chuchle",
         "Velka Chuchle"
     ],
-    "name:cze_x_preferred":[
-        "Praha-Velk\u00e1 Chuchle"
-    ],
     "name:cze_x_variant":[
         "Praha 5-Velk\u00e1 Chuchle"
-    ],
-    "name:dut_x_preferred":[
-        "Praag-Velk\u00e1 Chuchle"
     ],
     "name:eng_x_preferred":[
         "Velk\u00e1 Chuchle"
@@ -52,8 +46,11 @@
     "name:eng_x_preferred_x_preferred":[
         "Praha-Velk\u00e1 Chuchle"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Velk\u00e1 Chuchle"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u056c\u056f\u0561 \u0549\u0578\u0582\u0579\u056c\u0565"
     ],
     "name:nld_x_preferred":[
         "Praag-Velk\u00e1 Chuchle"
@@ -62,9 +59,6 @@
         "Velk\u00e1 Chuchle"
     ],
     "name:slk_x_preferred":[
-        "Velk\u00e1 Chuchle"
-    ],
-    "name:slo_x_preferred":[
         "Velk\u00e1 Chuchle"
     ],
     "src:geom":"quattroshapes",
@@ -103,7 +97,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1536864509,
+    "wof:lastmodified":1561772287,
     "wof:name":"Velka Chuchle",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

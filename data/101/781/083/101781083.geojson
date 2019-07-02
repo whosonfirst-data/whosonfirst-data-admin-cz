@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1186363.659332,
+    "geom:area_square_m":1186363.659333,
     "geom:bbox":"17.1703569478,48.8707771766,17.1904037553,48.885810093",
     "geom:latitude":48.877749,
     "geom:longitude":17.179798,
@@ -23,10 +23,7 @@
     "name:ces_x_preferred":[
         "Rohatec"
     ],
-    "name:cze_x_preferred":[
-        "Rohatec"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rohatec"
     ],
     "name:eng_x_preferred":[
@@ -35,13 +32,10 @@
     "name:epo_x_preferred":[
         "Rohatec"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0647\u0627\u062a\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
-        "Rohatec"
-    ],
-    "name:fre_x_preferred":[
-        "Rohatec"
-    ],
-    "name:ger_x_preferred":[
         "Rohatec"
     ],
     "name:hun_x_preferred":[
@@ -50,17 +44,11 @@
     "name:ita_x_preferred":[
         "Rohatec"
     ],
-    "name:may_x_preferred":[
-        "Rohatec"
-    ],
     "name:msa_x_preferred":[
         "Rohatec"
     ],
     "name:nld_x_preferred":[
         "Rohatec"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0647\u0627\u062a\u062a\u0633"
     ],
     "name:pol_x_preferred":[
         "Rohatec"
@@ -69,9 +57,6 @@
         "Rohatec"
     ],
     "name:slk_x_preferred":[
-        "Rohatec"
-    ],
-    "name:slo_x_preferred":[
         "Rohatec"
     ],
     "name:srp_x_preferred":[
@@ -127,7 +112,7 @@
         }
     ],
     "wof:id":101781083,
-    "wof:lastmodified":1527715624,
+    "wof:lastmodified":1561772395,
     "wof:name":"Rohatec",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
-    "geom:area_square_m":1454393.212262,
+    "geom:area_square_m":1454393.212263,
     "geom:bbox":"14.4470214844,50.0253875555,14.4646343498,50.0418254201",
     "geom:latitude":50.032155,
     "geom:longitude":14.454757,
@@ -35,14 +35,8 @@
         "Praha 4-KrAe",
         "Praha 4-Krc"
     ],
-    "name:cze_x_preferred":[
-        "Kr\u010d"
-    ],
     "name:cze_x_variant":[
         "Praha 4-Kr\u00e4"
-    ],
-    "name:dut_x_preferred":[
-        "Kr\u010d"
     ],
     "name:eng_x_preferred":[
         "Kr\u010d"
@@ -50,7 +44,7 @@
     "name:eng_x_preferred_x_preferred":[
         "Kr\u010d"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kr\u010d"
     ],
     "name:hun_x_preferred":[
@@ -63,9 +57,6 @@
         "Kr\u010d"
     ],
     "name:slk_x_preferred":[
-        "Kr\u010d"
-    ],
-    "name:slo_x_preferred":[
         "Kr\u010d"
     ],
     "src:geom":"quattroshapes",
@@ -104,7 +95,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527638475,
+    "wof:lastmodified":1561772285,
     "wof:name":"Krc",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

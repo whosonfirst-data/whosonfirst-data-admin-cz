@@ -28,9 +28,6 @@
     "name:ast_x_preferred":[
         "D\u011bdice"
     ],
-    "name:baq_x_preferred":[
-        "D\u011bdice"
-    ],
     "name:bar_x_preferred":[
         "D\u011bdice"
     ],
@@ -40,16 +37,19 @@
     "name:cat_x_preferred":[
         "D\u011bdice"
     ],
+    "name:ces_x_preferred":[
+        "D\u011bdice"
+    ],
     "name:cos_x_preferred":[
         "D\u011bdice"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "D\u011bdice"
     ],
     "name:dan_x_preferred":[
         "D\u011bdice"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "D\u011bdice"
     ],
     "name:eng_x_preferred":[
@@ -61,19 +61,22 @@
     "name:est_x_preferred":[
         "D\u011bdice"
     ],
+    "name:eus_x_preferred":[
+        "D\u011bdice"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u062f\u06cc\u062a\u0633\u0647"
+    ],
     "name:fin_x_preferred":[
         "D\u011bdice"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "D\u011bdice"
     ],
     "name:frp_x_preferred":[
         "D\u011bdice"
     ],
     "name:fur_x_preferred":[
-        "D\u011bdice"
-    ],
-    "name:ger_x_preferred":[
         "D\u011bdice"
     ],
     "name:gla_x_preferred":[
@@ -94,9 +97,6 @@
     "name:hun_x_preferred":[
         "D\u011bdice"
     ],
-    "name:ice_x_preferred":[
-        "D\u011bdice"
-    ],
     "name:ido_x_preferred":[
         "D\u011bdice"
     ],
@@ -107,6 +107,9 @@
         "D\u011bdice"
     ],
     "name:ind_x_preferred":[
+        "D\u011bdice"
+    ],
+    "name:isl_x_preferred":[
         "D\u011bdice"
     ],
     "name:ita_x_preferred":[
@@ -124,13 +127,13 @@
     "name:ltz_x_preferred":[
         "D\u011bdice"
     ],
-    "name:may_x_preferred":[
-        "D\u011bdice"
-    ],
     "name:min_x_preferred":[
         "D\u011bdice"
     ],
     "name:mlg_x_preferred":[
+        "D\u011bdice"
+    ],
+    "name:msa_x_preferred":[
         "D\u011bdice"
     ],
     "name:nan_x_preferred":[
@@ -140,6 +143,9 @@
         "D\u011bdice"
     ],
     "name:nds_x_preferred":[
+        "D\u011bdice"
+    ],
+    "name:nld_x_preferred":[
         "D\u011bdice"
     ],
     "name:nno_x_preferred":[
@@ -157,9 +163,6 @@
     "name:pcd_x_preferred":[
         "D\u011bdice"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u062f\u06cc\u062a\u0633\u0647"
-    ],
     "name:pms_x_preferred":[
         "D\u011bdice"
     ],
@@ -172,7 +175,7 @@
     "name:roh_x_preferred":[
         "D\u011bdice"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "D\u011bdice"
     ],
     "name:rup_x_preferred":[
@@ -184,7 +187,7 @@
     "name:sco_x_preferred":[
         "D\u011bdice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "D\u011bdice"
     ],
     "name:slv_x_preferred":[
@@ -215,9 +218,6 @@
         "D\u011bdice"
     ],
     "name:vol_x_preferred":[
-        "D\u011bdice"
-    ],
-    "name:wel_x_preferred":[
         "D\u011bdice"
     ],
     "name:wln_x_preferred":[
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":1125915285,
-    "wof:lastmodified":1513944957,
+    "wof:lastmodified":1561772517,
     "wof:name":"D\u011bdice",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

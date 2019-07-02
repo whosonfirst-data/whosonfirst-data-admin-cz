@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004533,
-    "geom:area_square_m":36218771.401355,
+    "geom:area_square_m":36218771.401358,
     "geom:bbox":"13.3119135,49.6930365,13.44244,49.783645",
     "geom:latitude":49.741425,
     "geom:longitude":13.381261,
@@ -27,14 +27,8 @@
     "name:arg_x_preferred":[
         "Plze\u0148"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u056c\u0566\u0565\u0576"
-    ],
     "name:aze_x_preferred":[
         "Plzen"
-    ],
-    "name:baq_x_preferred":[
-        "Pilsen"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043b\u044c\u0437\u0435\u043d\u044c"
@@ -63,10 +57,7 @@
     "name:che_x_preferred":[
         "\u041f\u043b\u044c\u0437\u0435\u043d\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u5c14\u68ee"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Plze\u0148"
     ],
     "name:dan_x_preferred":[
@@ -75,14 +66,14 @@
     "name:deu_x_preferred":[
         "Pilsen"
     ],
+    "name:deu_x_variant":[
+        "Plze\u0148"
+    ],
     "name:diq_x_preferred":[
         "Plze\u0148"
     ],
     "name:dsb_x_preferred":[
         "Plze\u0148"
-    ],
-    "name:dut_x_preferred":[
-        "Pilsen"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03af\u03bb\u03c3\u03b5\u03bd"
@@ -111,26 +102,17 @@
     "name:fra_x_preferred":[
         "Pilsen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Plze\u0148"
     ],
     "name:fry_x_preferred":[
         "Pilsen"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10da\u10d6\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Plze\u0148"
     ],
     "name:gla_x_preferred":[
         "Plze\u0148"
     ],
     "name:glg_x_preferred":[
         "Plze\u0148"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03af\u03bb\u03b6\u03b5\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab2\u0abf\u0ab8\u0ac7\u0aa8"
@@ -150,13 +132,16 @@
     "name:hun_x_preferred":[
         "Plze\u0148"
     ],
-    "name:ice_x_preferred":[
-        "Plze\u0148"
+    "name:hye_x_preferred":[
+        "\u054a\u056c\u0566\u0565\u0576"
     ],
     "name:ile_x_preferred":[
         "Plze\u0148"
     ],
     "name:ind_x_preferred":[
+        "Plze\u0148"
+    ],
+    "name:isl_x_preferred":[
         "Plze\u0148"
     ],
     "name:ita_x_preferred":[
@@ -195,17 +180,14 @@
     "name:ltz_x_preferred":[
         "Plze\u0148"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u2019\u043b\u0437\u0435\u045a"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0947\u0932\u091c\u093e\u0908\u0928"
     ],
-    "name:may_x_preferred":[
-        "Plze\u0148"
-    ],
     "name:mkd_x_preferred":[
         "\u041f\u2019\u043b\u0437\u0435\u045a"
+    ],
+    "name:msa_x_preferred":[
+        "Plze\u0148"
     ],
     "name:nan_x_preferred":[
         "Plze\u0148"
@@ -231,9 +213,6 @@
     "name:pcd_x_preferred":[
         "Plze\u0148"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0644\u0632\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0644\u0632\u06cc\u0646"
     ],
@@ -246,7 +225,7 @@
     "name:pus_x_preferred":[
         "\u067e\u0644\u0632\u0646"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Plze\u0148"
     ],
     "name:rup_x_preferred":[
@@ -262,9 +241,6 @@
         "\u0db4\u0dca\u0dbd\u0dca\u0dc3\u0dd9\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Plze\u0148"
-    ],
-    "name:slo_x_preferred":[
         "Plze\u0148"
     ],
     "name:slv_x_preferred":[
@@ -319,9 +295,6 @@
         "Plze\u0148"
     ],
     "name:war_x_preferred":[
-        "Plze\u0148"
-    ],
-    "name:wel_x_preferred":[
         "Plze\u0148"
     ],
     "name:yid_x_preferred":[
@@ -472,7 +445,7 @@
         }
     ],
     "wof:id":101748111,
-    "wof:lastmodified":1527688472,
+    "wof:lastmodified":1561772362,
     "wof:name":"Plze\u0148",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

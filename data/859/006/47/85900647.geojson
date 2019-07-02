@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000377,
-    "geom:area_square_m":2988329.23833,
+    "geom:area_square_m":2988329.238331,
     "geom:bbox":"14.3756103516,50.0767839043,14.4030761719,50.0974280619",
     "geom:latitude":50.087507,
     "geom:longitude":14.388204,
@@ -40,9 +40,6 @@
     "name:ces_x_preferred":[
         "Hrad\u010dany"
     ],
-    "name:chi_x_preferred":[
-        "\u57ce\u5821\u533a"
-    ],
     "name:cze_x_colloquial":[
         "Hradcany",
         "Praha 1-HradAany",
@@ -51,9 +48,6 @@
         "Praha 6-HradAany",
         "Praha 6-HradAeany",
         "Praha 6-Hradcany"
-    ],
-    "name:cze_x_preferred":[
-        "Hrad\u010dany"
     ],
     "name:cze_x_variant":[
         "Praha 1-Hrad\u00e4any",
@@ -71,9 +65,6 @@
     "name:deu_x_variant":[
         "Hradschin"
     ],
-    "name:dut_x_preferred":[
-        "Hrad\u010dany"
-    ],
     "name:eng_x_preferred":[
         "Hrad\u010dany"
     ],
@@ -89,10 +80,7 @@
     "name:fin_x_preferred":[
         "Hrad\u010dany"
     ],
-    "name:fre_x_preferred":[
-        "Hrad\u010dany"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hrad\u010dany"
     ],
     "name:glg_x_preferred":[
@@ -128,7 +116,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0447\u0430\u043d\u044b"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hrad\u010dany"
     ],
     "name:slv_x_preferred":[
@@ -148,6 +136,9 @@
     ],
     "name:vie_x_preferred":[
         "Ph\u1ed1 Hrad\u010dany"
+    ],
+    "name:zho_x_preferred":[
+        "\u57ce\u5821\u533a"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -186,7 +177,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527638565,
+    "wof:lastmodified":1561772295,
     "wof:name":"Hradcany",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

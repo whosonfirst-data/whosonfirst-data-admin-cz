@@ -26,9 +26,6 @@
     "name:aka_x_preferred":[
         "Prague"
     ],
-    "name:alb_x_preferred":[
-        "Praga"
-    ],
     "name:amh_x_preferred":[
         "\u1355\u122b\u130d"
     ],
@@ -44,9 +41,6 @@
     "name:arg_x_preferred":[
         "Praga"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0580\u0561\u0570\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0628\u0631\u0627\u062c"
     ],
@@ -58,9 +52,6 @@
     ],
     "name:aze_x_preferred":[
         "Praqa"
-    ],
-    "name:baq_x_preferred":[
-        "Praga"
     ],
     "name:bar_x_preferred":[
         "Prag"
@@ -80,6 +71,9 @@
     "name:bod_x_preferred":[
         "\u0f54\u0f74\u0f0b\u0f63\u0f0b\u0f41\u0f7a"
     ],
+    "name:bod_x_variant":[
+        "\u0f54\u0f74\u0f0b\u0f63\u0f0b\u0f41\u0f7a\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Prag"
     ],
@@ -88,9 +82,6 @@
     ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
-    ],
-    "name:bur_x_preferred":[
-        "\u1015\u101b\u1000\u103a\u1002\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:cat_x_preferred":[
         "Praga"
@@ -103,9 +94,6 @@
     ],
     "name:che_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u683c"
     ],
     "name:chu_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
@@ -131,9 +119,6 @@
     "name:cym_x_variant":[
         "Prag"
     ],
-    "name:cze_x_preferred":[
-        "Praha"
-    ],
     "name:dan_x_preferred":[
         "Prag"
     ],
@@ -145,9 +130,6 @@
     ],
     "name:dsb_x_preferred":[
         "Praha"
-    ],
-    "name:dut_x_preferred":[
-        "Praag"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03ac\u03b3\u03b1"
@@ -185,9 +167,6 @@
     "name:fra_x_preferred":[
         "Prague"
     ],
-    "name:fre_x_preferred":[
-        "Prague"
-    ],
     "name:frr_x_preferred":[
         "Prag"
     ],
@@ -200,12 +179,6 @@
     "name:gag_x_preferred":[
         "Praga"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e0\u10d0\u10e6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Prag"
-    ],
     "name:gla_x_preferred":[
         "Pr\u00e0g"
     ],
@@ -217,9 +190,6 @@
     ],
     "name:glv_x_preferred":[
         "Praag"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c1\u03ac\u03b3\u03b1"
     ],
     "name:grn_x_preferred":[
         "Praga"
@@ -263,8 +233,8 @@
     "name:hun_x_variant":[
         "Pr\u00e1ga"
     ],
-    "name:ice_x_preferred":[
-        "Prag"
+    "name:hye_x_preferred":[
+        "\u054a\u0580\u0561\u0570\u0561"
     ],
     "name:ido_x_preferred":[
         "Praha"
@@ -368,25 +338,19 @@
     "name:lzh_x_preferred":[
         "\u5e03\u62c9\u683c"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0440\u0430\u0433\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d4d\u0d30\u0d3e\u0d17\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Prague"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u093e\u0917"
-    ],
-    "name:may_x_preferred":[
-        "Praha"
     ],
     "name:mdf_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
     "name:mhr_x_preferred":[
+        "\u041f\u0440\u0430\u0433\u0430"
+    ],
+    "name:mkd_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
     "name:mlg_x_preferred":[
@@ -397,6 +361,15 @@
     ],
     "name:mon_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Prague"
+    ],
+    "name:msa_x_preferred":[
+        "Praha"
+    ],
+    "name:mya_x_preferred":[
+        "\u1015\u101b\u1000\u103a\u1002\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:myv_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430 \u043e\u0448"
@@ -470,9 +443,6 @@
     "name:pdc_x_preferred":[
         "Prag"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0627\u06af"
-    ],
     "name:pms_x_preferred":[
         "Praga"
     ],
@@ -503,9 +473,6 @@
     "name:rue_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Praga"
-    ],
     "name:rup_x_preferred":[
         "Praga"
     ],
@@ -528,9 +495,6 @@
         "\u0db4\u0dca\u200d\u0dbb\u0dcf\u0d9c\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Praha"
-    ],
-    "name:slo_x_preferred":[
         "Praha"
     ],
     "name:slv_x_preferred":[
@@ -587,9 +551,6 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e32\u0e01"
     ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f74\u0f0b\u0f63\u0f0b\u0f41\u0f7a\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Praga"
     ],
@@ -628,9 +589,6 @@
     ],
     "name:war_x_preferred":[
         "Praga"
-    ],
-    "name:wel_x_preferred":[
-        "Prag"
     ],
     "name:wol_x_preferred":[
         "Prag"
@@ -706,7 +664,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1536881192,
+    "wof:lastmodified":1561772363,
     "wof:name":"Praha",
     "wof:parent_id":85682437,
     "wof:placetype":"locality",

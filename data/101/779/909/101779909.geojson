@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000189,
-    "geom:area_square_m":1525174.640068,
+    "geom:area_square_m":1525174.64007,
     "geom:bbox":"17.0782878859,49.2902727992,17.1042409131,49.3110207073",
     "geom:latitude":49.301778,
     "geom:longitude":17.093206,
@@ -26,25 +26,16 @@
     "name:ces_x_preferred":[
         "Ivanovice na Han\u00e9"
     ],
-    "name:cze_x_preferred":[
-        "Ivanovice na Han\u00e9"
-    ],
     "name:deu_x_preferred":[
-        "Ivanovice na Han\u00e9"
-    ],
-    "name:dut_x_preferred":[
         "Ivanovice na Han\u00e9"
     ],
     "name:eng_x_preferred":[
         "Ivanovice na Han\u00e9"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0648\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0647 \u0646\u0627 \u0647\u0627\u0646\u0647"
+    ],
     "name:fra_x_preferred":[
-        "Ivanovice na Han\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Ivanovice na Han\u00e9"
-    ],
-    "name:ger_x_preferred":[
         "Ivanovice na Han\u00e9"
     ],
     "name:hun_x_preferred":[
@@ -56,9 +47,6 @@
     "name:lav_x_preferred":[
         "Ivanovice pie Hanas"
     ],
-    "name:may_x_preferred":[
-        "Ivanovice na Han\u00e9"
-    ],
     "name:msa_x_preferred":[
         "Ivanovice na Han\u00e9"
     ],
@@ -67,9 +55,6 @@
     ],
     "name:nld_x_preferred":[
         "Ivanovice na Han\u00e9"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0648\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0647 \u0646\u0627 \u0647\u0627\u0646\u0647"
     ],
     "name:pol_x_preferred":[
         "Ivanovice na Han\u00e9"
@@ -80,7 +65,7 @@
     "name:rup_x_preferred":[
         "Ivanovice na Han\u00e9"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ivanovice na Han\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -142,7 +127,7 @@
         }
     ],
     "wof:id":101779909,
-    "wof:lastmodified":1527688547,
+    "wof:lastmodified":1561772363,
     "wof:name":"Ivanovice na Han\u00e9",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

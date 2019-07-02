@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1585119.614593,
+    "geom:area_square_m":1585119.614592,
     "geom:bbox":"16.3010320453,48.9388570833,16.3266577383,48.9530630831",
     "geom:latitude":48.946312,
     "geom:longitude":16.315411,
@@ -23,13 +23,10 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0440\u043e\u0441\u043b\u0430\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u7f85\u65af\u62c9\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Miroslav"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Miroslav"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +35,10 @@
     "name:epo_x_preferred":[
         "Miroslav"
     ],
-    "name:fre_x_preferred":[
-        "Miroslav"
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0648\u0633\u0644\u0627\u0641"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Miroslav"
     ],
     "name:hun_x_preferred":[
@@ -53,14 +50,14 @@
     "name:lav_x_preferred":[
         "Miroslava"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Miroslav"
     ],
     "name:nan_x_preferred":[
         "Miroslav"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0631\u0648\u0633\u0644\u0627\u0641"
+    "name:nld_x_preferred":[
+        "Miroslav"
     ],
     "name:pol_x_preferred":[
         "Miroslav"
@@ -74,7 +71,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u0440\u043e\u0441\u043b\u0430\u0432"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Miroslav"
     ],
     "name:srp_x_preferred":[
@@ -91,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "Miroslav"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u7f85\u65af\u62c9\u592b"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Jihomoravsk\u00fd",
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":101781039,
-    "wof:lastmodified":1553815496,
+    "wof:lastmodified":1561772395,
     "wof:name":"Miroslav",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

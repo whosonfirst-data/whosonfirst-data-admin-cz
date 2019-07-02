@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":1046546.131038,
+    "geom:area_square_m":1046546.131039,
     "geom:bbox":"18.0866685946,49.8925764158,18.1111390279,49.9035866776",
     "geom:latitude":49.897938,
     "geom:longitude":18.097912,
@@ -16,19 +16,13 @@
     "mps:longitude":18.092999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0575 \u057e\u0565 \u054d\u056c\u0565\u0566\u057d\u056f\u0578\u0582"
-    ],
     "name:ceb_x_preferred":[
         "H\u00e1j ve Slezsku"
     ],
     "name:ces_x_preferred":[
         "H\u00e1j ve Slezsku"
     ],
-    "name:cze_x_preferred":[
-        "H\u00e1j ve Slezsku"
-    ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "H\u00e1j ve Slezsku"
     ],
     "name:eng_x_preferred":[
@@ -37,16 +31,19 @@
     "name:epo_x_preferred":[
         "H\u00e1j ve Slezsku"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06cc \u0648\u0647 \u0633\u0644\u0632\u0633\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
         "H\u00e1j ve Slezsku"
     ],
     "name:hun_x_preferred":[
         "H\u00e1j ve Slezsku"
     ],
-    "name:ita_x_preferred":[
-        "H\u00e1j ve Slezsku"
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0575 \u057e\u0565 \u054d\u056c\u0565\u0566\u057d\u056f\u0578\u0582"
     ],
-    "name:may_x_preferred":[
+    "name:ita_x_preferred":[
         "H\u00e1j ve Slezsku"
     ],
     "name:msa_x_preferred":[
@@ -54,9 +51,6 @@
     ],
     "name:nld_x_preferred":[
         "H\u00e1j ve Slezsku"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u06cc \u0648\u0647 \u0633\u0644\u0632\u0633\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "H\u00e1j ve Slezsku"
@@ -67,7 +61,7 @@
     "name:rup_x_preferred":[
         "H\u00e1j ve Slezsku"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "H\u00e1j ve Slezsku"
     ],
     "name:spa_x_preferred":[
@@ -83,9 +77,6 @@
         "Chabitschau"
     ],
     "name:vie_x_preferred":[
-        "H\u00e1j ve Slezsku"
-    ],
-    "name:wel_x_preferred":[
         "H\u00e1j ve Slezsku"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -129,7 +120,7 @@
         }
     ],
     "wof:id":101825459,
-    "wof:lastmodified":1513944864,
+    "wof:lastmodified":1561772390,
     "wof:name":"Chabi\u010dov",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

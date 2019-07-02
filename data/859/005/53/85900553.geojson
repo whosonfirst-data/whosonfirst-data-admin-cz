@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3308479.927663,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.636515,49.183913,16.636515,49.183913",
     "geom:latitude":49.183913,
     "geom:longitude":16.636515,
@@ -24,13 +24,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Brno-\u00c4ernovice"
+    ],
     "name:cze_x_colloquial":[
         "Brno-Aeernovice",
         "Brno-Aernovice",
         "Brno-Cernovice"
-    ],
-    "name:cze_x_preferred":[
-        "Brno-\u00c4ernovice"
     ],
     "name:cze_x_variant":[
         "Cernovice",
@@ -40,13 +40,13 @@
     "name:eng_x_preferred":[
         "Brno-\u010cernovice"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u010cernovice"
     ],
     "name:pol_x_preferred":[
         "\u010cernovice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Brno-\u010cernovice"
     ],
     "name:unk_x_variant":[
@@ -108,7 +108,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932347,
+    "wof:lastmodified":1561772298,
     "wof:name":"Brno-\u00c4ernovice",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

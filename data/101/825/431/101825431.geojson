@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":727605.159257,
+    "geom:area_square_m":727605.159256,
     "geom:bbox":"17.9935655769,49.8441065984,18.007061536,49.8541257966",
     "geom:latitude":49.848741,
     "geom:longitude":18.000374,
@@ -23,14 +23,8 @@
     "name:ces_x_preferred":[
         "Pust\u00e1 Polom"
     ],
-    "name:cze_x_preferred":[
-        "Pust\u00e1 Polom"
-    ],
     "name:deu_x_preferred":[
         "W\u00fcst Pohlom"
-    ],
-    "name:dut_x_preferred":[
-        "Pust\u00e1 Polom"
     ],
     "name:eng_x_preferred":[
         "Pust\u00e1 Polom"
@@ -38,7 +32,10 @@
     "name:epo_x_preferred":[
         "Pust\u00e1 Polom"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0633\u062a\u0627 \u067e\u0648\u0644\u0648\u0645"
+    ],
+    "name:fra_x_preferred":[
         "Pust\u00e1 Polom"
     ],
     "name:hun_x_preferred":[
@@ -47,17 +44,11 @@
     "name:ita_x_preferred":[
         "Pust\u00e1 Polom"
     ],
-    "name:may_x_preferred":[
-        "Pust\u00e1 Polom"
-    ],
     "name:msa_x_preferred":[
         "Pust\u00e1 Polom"
     ],
     "name:nld_x_preferred":[
         "Pust\u00e1 Polom"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0633\u062a\u0627 \u067e\u0648\u0644\u0648\u0645"
     ],
     "name:pol_x_preferred":[
         "Pust\u00e1 Polom"
@@ -69,9 +60,6 @@
         "Pust\u00e1 Polom"
     ],
     "name:slk_x_preferred":[
-        "Pust\u00e1 Polom"
-    ],
-    "name:slo_x_preferred":[
         "Pust\u00e1 Polom"
     ],
     "name:srp_x_preferred":[
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":101825431,
-    "wof:lastmodified":1527715054,
+    "wof:lastmodified":1561772385,
     "wof:name":"Pust\u00e1 Polom",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

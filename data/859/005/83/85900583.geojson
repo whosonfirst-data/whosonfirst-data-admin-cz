@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9046054.777431,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.600683,49.134132,16.600683,49.134132",
     "geom:latitude":49.134132,
     "geom:longitude":16.600683,
@@ -25,13 +25,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Doln\u00ed Her\u0161pice"
+    ],
     "name:cze_x_colloquial":[
         "Dolni Herpice",
         "Dolni Herspice",
         "Dolni Hertpice"
-    ],
-    "name:cze_x_preferred":[
-        "Doln\u00ed Her\u0161pice"
     ],
     "name:cze_x_variant":[
         "Doln\u00ed Herpice"
@@ -39,13 +39,13 @@
     "name:eng_x_preferred":[
         "Doln\u00ed Her\u0161pice"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Doln\u00ed Her\u0161pice"
     ],
     "name:pol_x_preferred":[
         "Doln\u00ed Her\u0161pice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Doln\u00ed Her\u0161pice"
     ],
     "src:geom":"mz",
@@ -83,7 +83,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932351,
+    "wof:lastmodified":1561772298,
     "wof:name":"Doln\u00ed Her\u0161pice",
     "wof:parent_id":101754429,
     "wof:placetype":"neighbourhood",

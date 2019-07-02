@@ -21,25 +21,25 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u057a\u0565\u0576\u0581\u0565"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lipence"
-    ],
-    "name:dut_x_preferred":[
-        "Praag-Lipence"
     ],
     "name:eng_x_preferred":[
         "Lipence"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lipence"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u057a\u0565\u0576\u0581\u0565"
+    ],
+    "name:nld_x_preferred":[
+        "Praag-Lipence"
     ],
     "name:pol_x_preferred":[
         "Lipence"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lipence"
     ],
     "src:lbl:centroid":"mz",
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1108938389,
-    "wof:lastmodified":1513945300,
+    "wof:lastmodified":1561772339,
     "wof:name":"Lipence",
     "wof:parent_id":101841983,
     "wof:placetype":"neighbourhood",

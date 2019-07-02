@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9793503.148882,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.623553,49.155974,16.623553,49.155974",
     "geom:latitude":49.155974,
     "geom:longitude":16.623553,
@@ -28,13 +28,13 @@
     "name:ces_x_preferred":[
         "Brno hlavn\u00ed n\u00e1dra\u017e\u00ed"
     ],
+    "name:ces_x_variant":[
+        "Horn\u00ed Her\u0161pice"
+    ],
     "name:cze_x_colloquial":[
         "Horni Herpice",
         "Horni Herspice",
         "Horni Hertpice"
-    ],
-    "name:cze_x_preferred":[
-        "Horn\u00ed Her\u0161pice"
     ],
     "name:cze_x_variant":[
         "Horn\u00ed Herpice"
@@ -45,7 +45,7 @@
     "name:eng_x_preferred":[
         "Horn\u00ed Her\u0161pice"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Horn\u00ed Her\u0161pice"
     ],
     "name:hsb_x_preferred":[
@@ -66,7 +66,7 @@
     "name:slk_x_preferred":[
         "Brno hlavn\u00ed n\u00e1dra\u017e\u00ed"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Horn\u00ed Her\u0161pice"
     ],
     "name:szl_x_preferred":[
@@ -134,7 +134,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932358,
+    "wof:lastmodified":1561772293,
     "wof:name":"Horn\u00ed Her\u0161pice",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

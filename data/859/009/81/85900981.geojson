@@ -26,23 +26,17 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0575\u0565\u0566\u0564"
+    "name:ces_x_preferred":[
+        "\u00dajezd u Pr\u00fehonic"
     ],
     "name:cze_x_colloquial":[
         "Ujezd u Prthhonic",
         "Ujezd u Prthonic",
         "Ujezd u Pruhonic"
     ],
-    "name:cze_x_preferred":[
-        "\u00dajezd u Pr\u00fehonic"
-    ],
     "name:cze_x_variant":[
         "Praha-\u00dajezd",
         "\u00dajezd u Pr\u016fhonic"
-    ],
-    "name:dut_x_preferred":[
-        "Praag-\u00dajezd"
     ],
     "name:eng_x_preferred":[
         "\u00dajezd"
@@ -50,13 +44,19 @@
     "name:eng_x_preferred_x_preferred":[
         "\u00dajezd u Pr\u00fehonic"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00dajezd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0575\u0565\u0566\u0564"
+    ],
+    "name:nld_x_preferred":[
+        "Praag-\u00dajezd"
     ],
     "name:pol_x_preferred":[
         "\u00dajezd"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00dajezd"
     ],
     "src:geom":"quattroshapes",
@@ -89,7 +89,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1536864509,
+    "wof:lastmodified":1561772287,
     "wof:name":"Ujezd u Pruhonic",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

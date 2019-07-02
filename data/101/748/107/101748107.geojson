@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002319,
-    "geom:area_square_m":18729363.075814,
+    "geom:area_square_m":18729363.075819,
     "geom:bbox":"17.6039715,49.2101678006,17.7341072203,49.253156",
     "geom:latitude":49.227781,
     "geom:longitude":17.665865,
@@ -23,14 +23,8 @@
     "name:ara_x_preferred":[
         "\u0632\u0644\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0536\u056c\u056b\u0576"
-    ],
     "name:aze_x_preferred":[
         "Zlin"
-    ],
-    "name:baq_x_preferred":[
-        "Zl\u00edn"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0417\u043b\u0456\u043d"
@@ -63,14 +57,8 @@
     "name:che_x_preferred":[
         "\u0417\u043b\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5179\u6797"
-    ],
     "name:cze_x_colloquial":[
         "Zlin"
-    ],
-    "name:cze_x_preferred":[
-        "Zl\u00edn"
     ],
     "name:cze_x_variant":[
         "Gottvoldov",
@@ -83,10 +71,10 @@
     "name:deu_x_preferred":[
         "Sillein"
     ],
-    "name:diq_x_preferred":[
+    "name:deu_x_variant":[
         "Zl\u00edn"
     ],
-    "name:dut_x_preferred":[
+    "name:diq_x_preferred":[
         "Zl\u00edn"
     ],
     "name:ell_x_preferred":[
@@ -101,23 +89,17 @@
     "name:est_x_preferred":[
         "Zl\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Zl\u00edn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0644\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Zl\u00edn"
     ],
     "name:fra_x_preferred":[
         "Zl\u00edn"
-    ],
-    "name:fre_x_preferred":[
-        "Zl\u00edn"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10da\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Zl\u00edn"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bb\u03b9\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0acd\u0ab2\u0abf\u0aa8"
@@ -137,6 +119,9 @@
     "name:hun_x_preferred":[
         "Zl\u00edn"
     ],
+    "name:hye_x_preferred":[
+        "\u0536\u056c\u056b\u0576"
+    ],
     "name:ind_x_preferred":[
         "Zl\u00edn"
     ],
@@ -148,6 +133,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9d\u0ccd\u0cb2\u0cbf\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10da\u10d8\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0417\u043b\u0438\u043d"
@@ -164,16 +152,19 @@
     "name:lmo_x_preferred":[
         "Zl\u00edn"
     ],
-    "name:mac_x_preferred":[
-        "\u0417\u043b\u0438\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u094d\u0932\u093f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0417\u043b\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Zl\u00edn"
     ],
     "name:nan_x_preferred":[
+        "Zl\u00edn"
+    ],
+    "name:nld_x_preferred":[
         "Zl\u00edn"
     ],
     "name:nno_x_preferred":[
@@ -181,9 +172,6 @@
     ],
     "name:nob_x_preferred":[
         "Zl\u00edn"
-    ],
-    "name:per_x_preferred":[
-        "\u0632\u0644\u06cc\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0632\u0644\u06cc\u0646"
@@ -194,7 +182,7 @@
     "name:por_x_preferred":[
         "Zl\u00edn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zl\u00edn"
     ],
     "name:rup_x_preferred":[
@@ -210,9 +198,6 @@
         "\u0dc3\u0dca\u0dbd\u0dd2\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Zl\u00edn"
-    ],
-    "name:slo_x_preferred":[
         "Zl\u00edn"
     ],
     "name:slv_x_preferred":[
@@ -256,6 +241,9 @@
     ],
     "name:war_x_preferred":[
         "Zl\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u5179\u6797"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Zl\u00ednsk\u00fd",
@@ -308,7 +296,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527688474,
+    "wof:lastmodified":1561772362,
     "wof:name":"Zl\u00edn",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5294192.99289,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.090778,50.743007,15.090778,50.743007",
     "geom:latitude":50.743007,
     "geom:longitude":15.090778,
@@ -31,8 +31,11 @@
     "name:ces_x_preferred":[
         "Vratislavice nad Nisou"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Liberec-Vratislavice nad Nisou"
+    ],
+    "name:cym_x_preferred":[
+        "Vratislavice nad Nisou"
     ],
     "name:cze_x_variant":[
         "Maffersdorf",
@@ -47,16 +50,10 @@
     "name:deu_x_variant":[
         "Maffersdorf"
     ],
-    "name:dut_x_preferred":[
-        "Vratislavice nad Nisou"
-    ],
     "name:eng_x_preferred":[
         "Vratislavice nad Nisou"
     ],
-    "name:fre_x_preferred":[
-        "Vratislavice nad Nisou"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vratislavice nad Nisou"
     ],
     "name:hbs_x_preferred":[
@@ -95,9 +92,6 @@
     "name:unk_x_variant":[
         "Vratislavice nad Nisou",
         "Liberec-Vratislavice nad Nisou"
-    ],
-    "name:wel_x_preferred":[
-        "Vratislavice nad Nisou"
     ],
     "src:geom":"mz",
     "src:geom_alt":[
@@ -138,7 +132,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932417,
+    "wof:lastmodified":1561772296,
     "wof:name":"Liberec-Vratislavice nad Nisou",
     "wof:parent_id":101748147,
     "wof:placetype":"neighbourhood",

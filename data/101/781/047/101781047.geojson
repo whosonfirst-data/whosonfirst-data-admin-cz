@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":967004.349892,
+    "geom:area_square_m":967004.349893,
     "geom:bbox":"15.8283033612,48.9934851236,15.852426531,49.0044228604",
     "geom:latitude":48.99937,
     "geom:longitude":15.838521,
@@ -23,16 +23,13 @@
     "name:ces_x_preferred":[
         "Bl\u00ed\u017ekovice"
     ],
-    "name:cze_x_preferred":[
-        "Bl\u00ed\u017ekovice"
-    ],
-    "name:dut_x_preferred":[
-        "Bl\u00ed\u017ekovice"
-    ],
     "name:eng_x_preferred":[
         "Bl\u00ed\u017ekovice"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06cc\u0698\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Bl\u00ed\u017ekovice"
     ],
     "name:hun_x_preferred":[
@@ -41,17 +38,11 @@
     "name:ita_x_preferred":[
         "Bl\u00ed\u017ekovice"
     ],
-    "name:may_x_preferred":[
-        "Bl\u00ed\u017ekovice"
-    ],
     "name:msa_x_preferred":[
         "Bl\u00ed\u017ekovice"
     ],
     "name:nld_x_preferred":[
         "Bl\u00ed\u017ekovice"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u06cc\u0698\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
     "name:pol_x_preferred":[
         "Bl\u00ed\u017ekovice"
@@ -63,9 +54,6 @@
         "Bl\u00ed\u017ekovice"
     ],
     "name:slk_x_preferred":[
-        "Bl\u00ed\u017ekovice"
-    ],
-    "name:slo_x_preferred":[
         "Bl\u00ed\u017ekovice"
     ],
     "name:srp_x_preferred":[
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":101781047,
-    "wof:lastmodified":1527715625,
+    "wof:lastmodified":1561772395,
     "wof:name":"Bl\u00ed\u017ekovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

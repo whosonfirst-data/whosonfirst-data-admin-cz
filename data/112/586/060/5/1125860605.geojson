@@ -19,22 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0562\u0580\u056a\u056b\u0576"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0436\u044b\u043d\u044c"
     ],
     "name:cat_x_preferred":[
         "Dob\u0159\u00ed\u0148"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Dob\u0159\u00ed\u0148"
     ],
     "name:deu_x_preferred":[
         "Dobrin a.d. Elbe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Dob\u0159\u00ed\u0148"
     ],
     "name:eng_x_preferred":[
@@ -43,23 +40,26 @@
     "name:epo_x_preferred":[
         "Dob\u0159\u00ed\u0148"
     ],
-    "name:fre_x_preferred":[
-        "Dob\u0159\u00ed\u0148"
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u06cc\u0646"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dob\u0159\u00ed\u0148"
     ],
     "name:hun_x_preferred":[
         "Dob\u0159\u00ed\u0148"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0562\u0580\u056a\u056b\u0576"
+    ],
     "name:ita_x_preferred":[
         "Dob\u0159\u00ed\u0148"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dob\u0159\u00ed\u0148"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0628\u0631\u06cc\u0646"
+    "name:nld_x_preferred":[
+        "Dob\u0159\u00ed\u0148"
     ],
     "name:pol_x_preferred":[
         "Dob\u0159\u00ed\u0148"
@@ -67,7 +67,7 @@
     "name:por_x_preferred":[
         "Dob\u0159\u00ed\u0148"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dob\u0159\u00ed\u0148"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":1125860605,
-    "wof:lastmodified":1513944915,
+    "wof:lastmodified":1561772475,
     "wof:name":"Dob\u0159\u00ed\u0148",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

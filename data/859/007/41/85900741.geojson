@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":5989225.93221,
+    "geom:area_square_m":5989225.932209,
     "geom:bbox":"14.4399628271,49.9853811011,14.4813016558,50.0165639657",
     "geom:latitude":50.001271,
     "geom:longitude":14.46173,
@@ -25,8 +25,8 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0562\u0578\u0582\u0577"
+    "name:ces_x_preferred":[
+        "Praha-Libu\u00e5\u010d"
     ],
     "name:cze_x_colloquial":[
         "Libus",
@@ -38,27 +38,27 @@
         "Praha-Libus",
         "Praha-Libut"
     ],
-    "name:cze_x_preferred":[
-        "Praha-Libu\u00e5\u010d"
-    ],
     "name:cze_x_variant":[
         "Libu\u0161",
         "Praha 4-Libu\u00e5\u010d",
         "Praha-Libu"
     ],
-    "name:dut_x_preferred":[
-        "Praag-Libu\u0161"
-    ],
     "name:eng_x_preferred":[
         "Libu\u0161"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Libu\u0161"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0562\u0578\u0582\u0577"
+    ],
+    "name:nld_x_preferred":[
+        "Praag-Libu\u0161"
     ],
     "name:pol_x_preferred":[
         "Libu\u0161"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Libu\u0161"
     ],
     "qs:gn_id":0,
@@ -95,7 +95,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527268873,
+    "wof:lastmodified":1561772285,
     "wof:name":"Praha-Libu\u00e5\u010d",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

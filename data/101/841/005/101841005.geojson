@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000449,
-    "geom:area_square_m":3554948.13131,
+    "geom:area_square_m":3554948.131312,
     "geom:bbox":"14.8327940014,50.2190155944,14.8835538563,50.2392817291",
     "geom:latitude":50.229873,
     "geom:longitude":14.862579,
@@ -19,11 +19,14 @@
     "name:ces_x_preferred":[
         "Mlad\u00e1 fronta DNES"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Mlad\u00e1"
     ],
     "name:deu_x_preferred":[
         "Mlad\u00e1 fronta Dnes"
+    ],
+    "name:deu_x_variant":[
+        "Mlad\u00e1"
     ],
     "name:eng_x_preferred":[
         "Mlad\u00e1"
@@ -34,10 +37,7 @@
     "name:fra_x_preferred":[
         "Mlad\u00e1 Fronta Dnes"
     ],
-    "name:fre_x_preferred":[
-        "Mlad\u00e1"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Mlad\u00e1"
     ],
     "name:kor_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101841005,
-    "wof:lastmodified":1513945370,
+    "wof:lastmodified":1561772370,
     "wof:name":"Mlad\u00e1",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

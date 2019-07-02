@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":31011480.305599,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.452433,49.205239,16.452433,49.205239",
     "geom:latitude":49.205239,
     "geom:longitude":16.452433,
@@ -24,13 +24,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ces_x_preferred":[
+        "Brno-\u00c5eb\u00e4\u0167t\u00e3n"
+    ],
     "name:cze_x_colloquial":[
         "Brno-Aaebaettan",
         "Brno-Aebattan",
         "Brno-Zebetin"
-    ],
-    "name:cze_x_preferred":[
-        "Brno-\u00c5eb\u00e4\u0167t\u00e3n"
     ],
     "name:cze_x_variant":[
         "Schebetein",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1531932421,
+    "wof:lastmodified":1561772296,
     "wof:name":"Brno-\u00c5eb\u00e4\u0167t\u00e3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

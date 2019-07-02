@@ -25,10 +25,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u0582\u056d\u0578\u0564\u0578\u056c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Praha-Suchdol"
     ],
     "name:cze_x_preferred_x_preferred":[
@@ -39,22 +36,25 @@
         "Suchdol",
         "Sukdol"
     ],
-    "name:dut_x_preferred":[
-        "Praag-Suchdol"
+    "name:deu_x_preferred":[
+        "Praha-Suchdol"
     ],
     "name:eng_x_preferred":[
         "Suchdol"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Suchdol"
     ],
-    "name:ger_x_preferred":[
-        "Praha-Suchdol"
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u056d\u0578\u0564\u0578\u056c"
+    ],
+    "name:nld_x_preferred":[
+        "Praag-Suchdol"
     ],
     "name:pol_x_preferred":[
         "Suchdol"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Suchdol"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +94,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527268878,
+    "wof:lastmodified":1561772289,
     "wof:name":"Suchdol",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

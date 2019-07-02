@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000184,
-    "geom:area_square_m":1444965.901567,
+    "geom:area_square_m":1444965.901568,
     "geom:bbox":"14.6243370949,50.6641744443,14.6532994573,50.6911952168",
     "geom:latitude":50.681027,
     "geom:longitude":14.644566,
@@ -26,16 +26,7 @@
     "name:ces_x_preferred":[
         "Z\u00e1kupy"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u5eab\u76ae"
-    ],
-    "name:cze_x_preferred":[
-        "Z\u00e1kupy"
-    ],
     "name:deu_x_preferred":[
-        "Z\u00e1kupy"
-    ],
-    "name:dut_x_preferred":[
         "Z\u00e1kupy"
     ],
     "name:eng_x_preferred":[
@@ -44,25 +35,19 @@
     "name:epo_x_preferred":[
         "Z\u00e1kupy"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u06a9\u0648\u067e\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Z\u00e1kupy"
     ],
     "name:fra_x_variant":[
         "Reichstadt"
     ],
-    "name:fre_x_preferred":[
-        "Z\u00e1kupy"
-    ],
-    "name:ger_x_preferred":[
-        "Z\u00e1kupy"
-    ],
     "name:hun_x_preferred":[
         "Z\u00e1kupy"
     ],
     "name:ita_x_preferred":[
-        "Z\u00e1kupy"
-    ],
-    "name:may_x_preferred":[
         "Z\u00e1kupy"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
     "name:nld_x_preferred":[
         "Z\u00e1kupy"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u06a9\u0648\u067e\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Z\u00e1kupy"
     ],
@@ -86,16 +68,13 @@
     "name:ron_x_preferred":[
         "Z\u00e1kupy"
     ],
-    "name:rum_x_preferred":[
-        "Z\u00e1kupy"
-    ],
     "name:rup_x_preferred":[
         "Z\u00e1kupy"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043a\u0443\u043f\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Z\u00e1kupy"
     ],
     "name:srp_x_preferred":[
@@ -115,6 +94,9 @@
     ],
     "name:vie_x_preferred":[
         "Z\u00e1kupy"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u5eab\u76ae"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Libereck\u00fd",
@@ -160,7 +142,7 @@
         }
     ],
     "wof:id":101823033,
-    "wof:lastmodified":1527714837,
+    "wof:lastmodified":1561772372,
     "wof:name":"Z\u00e1kupy",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

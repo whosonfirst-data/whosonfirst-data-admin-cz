@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000786,
-    "geom:area_square_m":6235725.922741,
+    "geom:area_square_m":6235725.922739,
     "geom:bbox":"14.5557548864,50.0906309428,14.6025903321,50.1172713466",
     "geom:latitude":50.10408,
     "geom:longitude":14.580435,
@@ -41,23 +41,17 @@
         "Praha 9-AernA Most",
         "Praha 9-Cerny Most"
     ],
-    "name:cze_x_preferred":[
-        "\u010cern\u00fd Most"
-    ],
     "name:cze_x_variant":[
         "Praha 9-\u00c4ern\u00e3 Most",
         "\u00c8ern\u00fd Most"
     ],
+    "name:deu_x_preferred":[
+        "\u010cern\u00fd Most"
+    ],
     "name:eng_x_preferred":[
         "\u010cern\u00fd Most"
     ],
-    "name:fre_x_preferred":[
-        "\u010cern\u00fd Most"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d4\u10e0\u10dc\u10d8-\u10db\u10dd\u10e1\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u010cern\u00fd Most"
     ],
     "name:hun_x_preferred":[
@@ -70,9 +64,6 @@
         "\u010cern\u00fd Most"
     ],
     "name:slk_x_preferred":[
-        "\u010cern\u00fd Most"
-    ],
-    "name:slo_x_preferred":[
         "\u010cern\u00fd Most"
     ],
     "name:swe_x_preferred":[
@@ -143,7 +134,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527638522,
+    "wof:lastmodified":1561772289,
     "wof:name":"Cerny Most",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

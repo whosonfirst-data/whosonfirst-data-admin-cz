@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000649,
-    "geom:area_square_m":5205047.091625,
+    "geom:area_square_m":5205047.091624,
     "geom:bbox":"18.130748284,49.5776761044,18.1677666596,49.6141829298",
     "geom:latitude":49.598443,
     "geom:longitude":18.14835,
@@ -29,20 +29,11 @@
     "name:ces_x_preferred":[
         "Kop\u0159ivnice"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u666e\u65e5\u592b\u5c3c\u91c7"
-    ],
-    "name:cze_x_preferred":[
-        "Kop\u0159ivnice"
-    ],
     "name:deu_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:deu_x_variant":[
         "Nesselsdorf"
-    ],
-    "name:dut_x_preferred":[
-        "Kop\u0159ivnice"
     ],
     "name:eng_x_preferred":[
         "Kop\u0159ivnice"
@@ -57,12 +48,6 @@
         "Kop\u0159ivnice"
     ],
     "name:fra_x_preferred":[
-        "Kop\u0159ivnice"
-    ],
-    "name:fre_x_preferred":[
-        "Kop\u0159ivnice"
-    ],
-    "name:ger_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:hrv_x_preferred":[
@@ -83,10 +68,13 @@
     "name:lit_x_preferred":[
         "Kopr\u0161ivnic\u0117s"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:nan_x_preferred":[
+        "Kop\u0159ivnice"
+    ],
+    "name:nld_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:nob_x_preferred":[
@@ -95,16 +83,13 @@
     "name:oci_x_preferred":[
         "Kop\u0159ivnice"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u067e\u0631\u0698\u06cc\u0648\u0646\u06cc\u062a\u0633\u0647"
-    ],
     "name:pol_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:por_x_preferred":[
         "Kop\u0159ivnice"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:rup_x_preferred":[
@@ -116,7 +101,7 @@
     "name:rus_x_variant":[
         "\u041a\u043e\u043f\u0440\u0448\u0438\u0432\u043d\u0438\u0446\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:slv_x_preferred":[
@@ -188,7 +173,7 @@
         }
     ],
     "wof:id":101840939,
-    "wof:lastmodified":1527715004,
+    "wof:lastmodified":1561772377,
     "wof:name":"Kop\u0159ivnice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

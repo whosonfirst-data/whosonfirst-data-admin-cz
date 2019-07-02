@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
-    "geom:area_square_m":438485.555083,
+    "geom:area_square_m":438485.555082,
     "geom:bbox":"14.0181625967,50.4811776406,14.0402942473,50.4924408154",
     "geom:latitude":50.485581,
     "geom:longitude":14.027911,
@@ -23,9 +23,6 @@
     "name:ces_x_preferred":[
         "\u010c\u00ed\u017ekovice"
     ],
-    "name:cze_x_preferred":[
-        "\u010c\u00ed\u017ekovice"
-    ],
     "name:deu_x_historical":[
         "Tschischkowitz"
     ],
@@ -35,14 +32,14 @@
     "name:deu_x_variant":[
         "Tschischkowitz"
     ],
-    "name:dut_x_preferred":[
-        "\u010c\u00ed\u017ekovice"
-    ],
     "name:eng_x_preferred":[
         "\u010c\u00ed\u017ekovice"
     ],
     "name:epo_x_preferred":[
         "\u010c\u00ed\u017ekovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0634\u06cc\u0698\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
     "name:fin_x_preferred":[
         "\u010c\u00ed\u017ekovice"
@@ -50,19 +47,10 @@
     "name:fra_x_preferred":[
         "\u010c\u00ed\u017ekovice"
     ],
-    "name:fre_x_preferred":[
-        "\u010c\u00ed\u017ekovice"
-    ],
-    "name:ger_x_preferred":[
-        "\u010c\u00ed\u017ekovice"
-    ],
     "name:hun_x_preferred":[
         "\u010c\u00ed\u017ekovice"
     ],
     "name:ita_x_preferred":[
-        "\u010c\u00ed\u017ekovice"
-    ],
-    "name:may_x_preferred":[
         "\u010c\u00ed\u017ekovice"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +62,6 @@
     "name:nld_x_preferred":[
         "\u010c\u00ed\u017ekovice"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0634\u06cc\u0698\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
-    ],
     "name:pol_x_preferred":[
         "\u010c\u00ed\u017ekovice"
     ],
@@ -86,7 +71,7 @@
     "name:rup_x_preferred":[
         "\u010c\u00ed\u017ekovice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010c\u00ed\u017ekovice"
     ],
     "name:srp_x_preferred":[
@@ -142,7 +127,7 @@
         }
     ],
     "wof:id":101824339,
-    "wof:lastmodified":1527714842,
+    "wof:lastmodified":1561772372,
     "wof:name":"\u010c\u00ed\u017ekovice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

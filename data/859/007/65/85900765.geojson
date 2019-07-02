@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
-    "geom:area_square_m":2011074.253975,
+    "geom:area_square_m":2011074.253976,
     "geom:bbox":"14.3939882305,50.0746685862,14.4120428967,50.0959172202",
     "geom:latitude":50.085236,
     "geom:longitude":14.40397,
@@ -30,9 +30,6 @@
     "name:als_x_preferred":[
         "Prager Kleinseite"
     ],
-    "name:baq_x_preferred":[
-        "Mal\u00e1 Strana"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u043b\u0430-\u0421\u0442\u0440\u0430\u043d\u0430"
     ],
@@ -45,16 +42,10 @@
     "name:ces_x_preferred":[
         "Mal\u00e1 Strana"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u683c\u5c0f\u57ce"
-    ],
     "name:cze_x_colloquial":[
         "Mala Strana",
         "Praha 1-Mala Strana",
         "Praha 5-Mala Strana"
-    ],
-    "name:cze_x_preferred":[
-        "Mal\u00e1 Strana"
     ],
     "name:cze_x_variant":[
         "Praha 1-Mal\u00e1 Strana",
@@ -65,9 +56,6 @@
     ],
     "name:deu_x_preferred":[
         "Prager Kleinseite"
-    ],
-    "name:dut_x_preferred":[
-        "Mal\u00e1 Strana"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03bb\u03b1 \u03a3\u03c4\u03c1\u03ac\u03bd\u03b1"
@@ -81,23 +69,17 @@
     "name:epo_x_preferred":[
         "Malgranda Kvartalo"
     ],
+    "name:eus_x_preferred":[
+        "Mal\u00e1 Strana"
+    ],
     "name:fin_x_preferred":[
         "Mal\u00e1 Strana"
     ],
     "name:fra_x_preferred":[
         "Mal\u00e1 Strana"
     ],
-    "name:fre_x_preferred":[
-        "Mal\u00e1 Strana"
-    ],
-    "name:ger_x_preferred":[
-        "Prager Kleinseite"
-    ],
     "name:glg_x_preferred":[
         "Mal\u00e1 Strana"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03bb\u03b1 \u03a3\u03c4\u03c1\u03ac\u03bd\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Prager Kleinseite"
@@ -114,6 +96,9 @@
     "name:kor_x_preferred":[
         "\ub9d0\ub77c\uc2a4\ud2b8\ub77c\ub098"
     ],
+    "name:nld_x_preferred":[
+        "Mal\u00e1 Strana"
+    ],
     "name:pol_x_preferred":[
         "Mal\u00e1 Strana"
     ],
@@ -124,9 +109,6 @@
         "\u041c\u0430\u043b\u0430-\u0421\u0442\u0440\u0430\u043d\u0430"
     ],
     "name:slk_x_preferred":[
-        "Mal\u00e1 Strana"
-    ],
-    "name:slo_x_preferred":[
         "Mal\u00e1 Strana"
     ],
     "name:slv_x_preferred":[
@@ -211,7 +193,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527638475,
+    "wof:lastmodified":1561772284,
     "wof:name":"Mala Strana",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

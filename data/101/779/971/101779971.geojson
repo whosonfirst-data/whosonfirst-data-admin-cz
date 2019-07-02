@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":667915.894637,
+    "geom:area_square_m":667915.894638,
     "geom:bbox":"16.7051666069,49.0963752168,16.7233938413,49.105408427",
     "geom:latitude":49.100804,
     "geom:longitude":16.714328,
@@ -23,37 +23,26 @@
     "name:ces_x_preferred":[
         "Telnice"
     ],
-    "name:cze_x_preferred":[
-        "Telnice"
-    ],
     "name:deu_x_preferred":[
         "Telnice"
     ],
     "name:deu_x_variant":[
-        "Telnitz"
-    ],
-    "name:dut_x_preferred":[
-        "Telnice"
+        "Telnitz",
+        "Telnice u Brna"
     ],
     "name:eng_x_preferred":[
         "Telnice"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u0646\u06cc\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Telnice"
-    ],
-    "name:fre_x_preferred":[
-        "Telnice"
-    ],
-    "name:ger_x_preferred":[
-        "Telnice u Brna"
     ],
     "name:hun_x_preferred":[
         "Telnice"
     ],
     "name:ita_x_preferred":[
-        "Telnice"
-    ],
-    "name:may_x_preferred":[
         "Telnice"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +54,6 @@
     "name:nob_x_preferred":[
         "Telnice"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0644\u0646\u06cc\u062a\u0633\u0647"
-    ],
     "name:por_x_preferred":[
         "Telnice"
     ],
@@ -78,9 +64,6 @@
         "\u0422\u0435\u043b\u043d\u0438\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Telnice"
-    ],
-    "name:slo_x_preferred":[
         "Telnice"
     ],
     "name:swe_x_preferred":[
@@ -129,7 +112,7 @@
         }
     ],
     "wof:id":101779971,
-    "wof:lastmodified":1553815495,
+    "wof:lastmodified":1561772365,
     "wof:name":"Telnice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

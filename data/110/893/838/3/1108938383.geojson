@@ -21,22 +21,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u053f\u057c\u0561\u056c\u0578\u057e\u056b\u0581\u0565"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kr\u00e1lovice"
     ],
     "name:eng_x_preferred":[
         "Kr\u00e1lovice"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kr\u00e1lovice"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u057c\u0561\u056c\u0578\u057e\u056b\u0581\u0565"
     ],
     "name:pol_x_preferred":[
         "Kr\u00e1lovice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kr\u00e1lovice"
     ],
     "src:lbl:centroid":"mz",
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1108938383,
-    "wof:lastmodified":1513945217,
+    "wof:lastmodified":1561772339,
     "wof:name":"Kralovice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

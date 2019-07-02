@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001354,
-    "geom:area_square_m":10885163.56924,
+    "geom:area_square_m":10885163.569239,
     "geom:bbox":"17.40830047,49.4217781397,17.4792932619,49.4756163574",
     "geom:latitude":49.450644,
     "geom:longitude":17.44921,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0634\u064a\u0631\u0648\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0580\u0577\u0565\u0580\u0578\u057e"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0448\u044d\u0440\u0430\u045e"
     ],
@@ -35,14 +32,8 @@
     "name:ces_x_preferred":[
         "P\u0159erov"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u71b1\u7f85\u592b"
-    ],
     "name:cze_x_colloquial":[
         "Prerov"
-    ],
-    "name:cze_x_preferred":[
-        "P\u0159erov"
     ],
     "name:dan_x_preferred":[
         "P\u0159erov"
@@ -52,9 +43,6 @@
     ],
     "name:deu_x_variant":[
         "Prerau"
-    ],
-    "name:dut_x_preferred":[
-        "P\u0159erov"
     ],
     "name:eng_x_preferred":[
         "P\u0159erov"
@@ -71,20 +59,14 @@
     "name:fra_x_preferred":[
         "P\u0159erov"
     ],
-    "name:fre_x_preferred":[
-        "P\u0159erov"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e0\u10e8\u10d4\u10e0\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "P\u0159erov"
-    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d6'\u05e8\u05d5\u05d1"
     ],
     "name:hun_x_preferred":[
         "P\u0159erov"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0580\u0577\u0565\u0580\u0578\u057e"
     ],
     "name:ind_x_preferred":[
         "P\u0159erov"
@@ -110,14 +92,14 @@
     "name:lit_x_preferred":[
         "Pr\u0161erovas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "P\u0159erov"
     ],
     "name:nan_x_preferred":[
         "P\u0159erov"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0698\u0631\u0648"
+    "name:nld_x_preferred":[
+        "P\u0159erov"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u0631\u0634\u06cc\u0631\u0648\u0641"
@@ -138,9 +120,6 @@
         "\u041f\u0440\u0448\u0435\u0440\u043e\u0432"
     ],
     "name:slk_x_preferred":[
-        "P\u0159erov"
-    ],
-    "name:slo_x_preferred":[
         "P\u0159erov"
     ],
     "name:slv_x_preferred":[
@@ -230,7 +209,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1527642500,
+    "wof:lastmodified":1561772351,
     "wof:name":"P\u0159erov",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",
