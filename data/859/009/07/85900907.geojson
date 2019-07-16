@@ -24,8 +24,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Slatina"
+    ],
     "name:ces_x_preferred":[
         "Brno-Slatina"
+    ],
+    "name:ces_x_variant":[
+        "Slatina"
     ],
     "name:cze_x_variant":[
         "Larein",
@@ -87,7 +93,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772287,
+    "wof:lastmodified":1563246381,
     "wof:name":"Brno-Slatina",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

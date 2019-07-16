@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Karlovy Vary"
     ],
+    "name:ceb_x_preferred":[
+        "Karlovarsk\u00fd kraj"
+    ],
     "name:ces_x_preferred":[
         "Karlovarsk\u00fd kraj"
     ],
@@ -81,6 +84,12 @@
     "name:fra_x_preferred":[
         "r\u00e9gion de Karlovy Vary"
     ],
+    "name:fra_x_variant":[
+        "Karlovy Vary"
+    ],
+    "name:frr_x_preferred":[
+        "Karlovy Vary"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab0\u0acd\u0ab2\u0acb\u0ab5\u0ac0 \u0ab5\u0ac7\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -92,6 +101,9 @@
     ],
     "name:hrv_x_preferred":[
         "Karlovarski kraj"
+    ],
+    "name:hsb_x_preferred":[
+        "Karlovarsk\u00fd kraj"
     ],
     "name:hun_x_preferred":[
         "Karlovy Vary-i ker\u00fclet"
@@ -113,6 +125,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ub97c\ub85c\ube44\ubc14\ub9ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ub97c\ub85c\ube44\ubc14\ub9ac\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Karlovi Varu re\u0123ions"
@@ -155,6 +170,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Karlovy Vary"
+    ],
+    "name:ron_x_variant":[
+        "Karlovy Vary"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
@@ -320,7 +338,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1561772302,
+    "wof:lastmodified":1563246441,
     "wof:name":"Karlovarsk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

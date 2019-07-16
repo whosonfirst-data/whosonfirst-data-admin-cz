@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":936991.991074,
+    "geom:area_square_m":936991.991073,
     "geom:bbox":"17.3694262505,49.4603826546,17.400597774,49.4681508689",
     "geom:latitude":49.464685,
     "geom:longitude":17.384468,
@@ -17,11 +17,26 @@
     "mps:longitude":17.379273,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0631\u0648\u06a9\u06cc\u062a\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Rokytnice"
+    ],
     "name:ces_x_preferred":[
         "Rokytnice"
     ],
     "name:deu_x_preferred":[
         "Rokytnice u Slavi\u010d\u00edna"
+    ],
+    "name:eng_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:eus_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u06a9\u06cc\u062a\u0646\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
         "Rokytnice"
@@ -35,6 +50,9 @@
     "name:msa_x_preferred":[
         "Rokytnice"
     ],
+    "name:nan_x_preferred":[
+        "Rokytnice"
+    ],
     "name:nld_x_preferred":[
         "Rokytnice"
     ],
@@ -44,11 +62,26 @@
     "name:por_x_preferred":[
         "Rokytnice"
     ],
+    "name:rup_x_preferred":[
+        "Rokytnice"
+    ],
     "name:slk_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:spa_x_preferred":[
+        "Rokytnice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u043a\u0438\u0442\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Rokytnice"
     ],
     "name:unk_x_variant":[
         "Roketnitz"
+    ],
+    "name:vie_x_preferred":[
+        "Rokytnice"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Olomouck\u00fd",
@@ -93,7 +126,7 @@
         }
     ],
     "wof:id":101826595,
-    "wof:lastmodified":1527642501,
+    "wof:lastmodified":1563247275,
     "wof:name":"Rokytnice",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

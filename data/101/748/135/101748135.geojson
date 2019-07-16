@@ -64,6 +64,9 @@
     "name:epo_x_preferred":[
         "Teplice"
     ],
+    "name:eus_x_preferred":[
+        "Teplice"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u067e\u0644\u06cc\u062a\u0633\u0647"
     ],
@@ -112,8 +115,14 @@
     "name:lat_x_preferred":[
         "Toplicium"
     ],
+    "name:lav_x_preferred":[
+        "Teplice"
+    ],
     "name:lit_x_preferred":[
         "Teplic\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Teplice"
     ],
     "name:msa_x_preferred":[
         "Teplice"
@@ -168,6 +177,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0422\u0435\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:tat_x_variant":[
+        "\u0422\u0435\u043f\u043b\u0438\u0442\u0441\u0435"
     ],
     "name:tgk_x_preferred":[
         "\u0422\u0435\u043f\u043b\u0438\u0442\u0441\u0435"
@@ -244,7 +256,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772362,
+    "wof:lastmodified":1563247373,
     "wof:name":"Teplice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

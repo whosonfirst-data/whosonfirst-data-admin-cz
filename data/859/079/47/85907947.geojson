@@ -25,11 +25,20 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Let\u0148any"
+    ],
     "name:ces_x_preferred":[
         "Praha 18"
     ],
+    "name:ces_x_variant":[
+        "Let\u0148any"
+    ],
     "name:dan_x_preferred":[
         "Prag 18"
+    ],
+    "name:dan_x_variant":[
+        "Let\u0148any"
     ],
     "name:deu_x_preferred":[
         "Prag 18"
@@ -38,7 +47,7 @@
         "Prague 18"
     ],
     "name:eng_x_variant":[
-        "Prague 18"
+        "Let\u0148any"
     ],
     "name:fra_x_preferred":[
         "Prague 18"
@@ -51,6 +60,9 @@
     ],
     "name:ita_x_preferred":[
         "Praga 18"
+    ],
+    "name:ita_x_variant":[
+        "Let\u0148any"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30c8\u30ca\u30cb\u30fc"
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Prag 18"
+    ],
+    "name:swe_x_variant":[
+        "Let\u0148any"
     ],
     "name:unk_x_variant":[
         "Praha 18"
@@ -140,7 +155,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772280,
+    "wof:lastmodified":1563246351,
     "wof:name":"Praha 18",
     "wof:parent_id":101754431,
     "wof:placetype":"neighbourhood",

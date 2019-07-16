@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0698\u0627\u0631\u0648\u0634\u06cc\u062a\u0633\u0647"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u0430\u0440\u043e\u0448\u0438\u0446\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017daro\u0161ice"
     ],
     "name:ces_x_preferred":[
         "\u017daro\u0161ice"
@@ -29,6 +35,9 @@
         "\u017daro\u0161ice"
     ],
     "name:eng_x_preferred":[
+        "\u017daro\u0161ice"
+    ],
+    "name:eus_x_preferred":[
         "\u017daro\u0161ice"
     ],
     "name:fas_x_preferred":[
@@ -64,11 +73,17 @@
     "name:slk_x_preferred":[
         "\u017daro\u0161ice"
     ],
+    "name:spa_x_preferred":[
+        "\u017daro\u0161ice"
+    ],
     "name:srp_x_preferred":[
         "\u0416\u0430\u0440\u043e\u0448\u0438\u0446\u0435"
     ],
     "name:swe_x_preferred":[
         "\u017daro\u0161ice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u0440\u043e\u0448\u0456\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "\u017darno\u0161ice"
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1125896837,
-    "wof:lastmodified":1561772484,
+    "wof:lastmodified":1563249283,
     "wof:name":"\u017daro\u0161ice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

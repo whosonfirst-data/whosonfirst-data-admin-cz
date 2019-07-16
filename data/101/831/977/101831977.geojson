@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":840030.522196,
+    "geom:area_square_m":840030.522195,
     "geom:bbox":"17.697243502,49.2558766289,17.715122719,49.2761494702",
     "geom:latitude":49.262873,
     "geom:longitude":17.704847,
@@ -16,10 +16,16 @@
     "mps:longitude":17.702147,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kostelec"
+    ],
     "name:ces_x_preferred":[
         "Kostelec"
     ],
     "name:deu_x_preferred":[
+        "Kostelec"
+    ],
+    "name:eng_x_preferred":[
         "Kostelec"
     ],
     "name:fra_x_preferred":[
@@ -35,6 +41,12 @@
         "Kostelec"
     ],
     "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043b\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Kostelec"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0435\u043b\u0435\u0446"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":101831977,
-    "wof:lastmodified":1527715141,
+    "wof:lastmodified":1563247796,
     "wof:name":"Kostelec",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

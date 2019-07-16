@@ -17,6 +17,9 @@
     "mps:longitude":17.051209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0648\u0644\u06a9 \u0644\u0633\u06cc\u0646\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "Velk\u00e9 Losiny"
     ],
@@ -33,6 +36,9 @@
         "Velk\u00e9 Losiny"
     ],
     "name:epo_x_preferred":[
+        "Velk\u00e9 Losiny"
+    ],
+    "name:eus_x_preferred":[
         "Velk\u00e9 Losiny"
     ],
     "name:fas_x_preferred":[
@@ -74,11 +80,20 @@
     "name:slk_x_preferred":[
         "Velk\u00e9 Losiny"
     ],
+    "name:spa_x_preferred":[
+        "Velk\u00e9 Losiny"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u043a\u0435 \u041b\u043e\u0441\u0438\u043d\u0438"
     ],
+    "name:srp_x_variant":[
+        "Velike Losini"
+    ],
     "name:swe_x_preferred":[
         "Velk\u00e9 Losiny"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u043a\u0435 \u041b\u043e\u0441\u0456\u043d\u0438"
     ],
     "name:unk_x_variant":[
         "Gross-Ullersdorf"
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":101825575,
-    "wof:lastmodified":1561772386,
+    "wof:lastmodified":1563247692,
     "wof:name":"Velk\u00e9 Losiny",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

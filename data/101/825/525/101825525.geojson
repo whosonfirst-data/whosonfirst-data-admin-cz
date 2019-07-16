@@ -17,6 +17,9 @@
     "mps:longitude":18.293766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u0633\u06a9\u0648\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0441\u043a\u043e\u0432"
     ],
@@ -32,11 +35,17 @@
     "name:eng_x_preferred":[
         "Paskov"
     ],
+    "name:eus_x_preferred":[
+        "Paskov"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0633\u06a9\u0648\u0648"
     ],
     "name:fra_x_preferred":[
         "Paskov"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e1\u05e7\u05d5\u05d1"
     ],
     "name:hun_x_preferred":[
         "Paskov"
@@ -48,6 +57,9 @@
         "Paskova"
     ],
     "name:msa_x_preferred":[
+        "Paskov"
+    ],
+    "name:nan_x_preferred":[
         "Paskov"
     ],
     "name:nld_x_preferred":[
@@ -65,6 +77,9 @@
     "name:slk_x_preferred":[
         "Paskov"
     ],
+    "name:spa_x_preferred":[
+        "Paskov"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u0441\u043a\u043e\u0432"
     ],
@@ -72,6 +87,9 @@
         "Paskov"
     ],
     "name:tat_x_preferred":[
+        "\u041f\u0430\u0441\u043a\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u0430\u0441\u043a\u043e\u0432"
     ],
     "name:unk_x_variant":[
@@ -124,7 +142,7 @@
         }
     ],
     "wof:id":101825525,
-    "wof:lastmodified":1561772391,
+    "wof:lastmodified":1563247766,
     "wof:name":"Paskov",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

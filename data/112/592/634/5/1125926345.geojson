@@ -19,10 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0631\u0627\u0628\u0648\u0648"
+    ],
     "name:ces_x_preferred":[
         "Svrabov"
     ],
+    "name:deu_x_preferred":[
+        "Svrabov"
+    ],
     "name:eng_x_preferred":[
+        "Svrabov"
+    ],
+    "name:eus_x_preferred":[
         "Svrabov"
     ],
     "name:fas_x_preferred":[
@@ -40,6 +49,9 @@
     "name:msa_x_preferred":[
         "Svrabov"
     ],
+    "name:nan_x_preferred":[
+        "Svrabov"
+    ],
     "name:nld_x_preferred":[
         "Svrabov"
     ],
@@ -50,6 +62,9 @@
         "Svrabov"
     ],
     "name:slk_x_preferred":[
+        "Svrabov"
+    ],
+    "name:spa_x_preferred":[
         "Svrabov"
     ],
     "name:srp_x_preferred":[
@@ -105,7 +120,7 @@
         }
     ],
     "wof:id":1125926345,
-    "wof:lastmodified":1561772435,
+    "wof:lastmodified":1563248478,
     "wof:name":"Svrabov",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

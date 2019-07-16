@@ -23,10 +23,16 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0440\u0448\u0438\u0432\u043d\u0438\u0446\u0435"
     ],
+    "name:bul_x_variant":[
+        "\u041a\u043e\u043f\u0440\u0438\u0432\u043d\u0438\u0446\u0435"
+    ],
     "name:ceb_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:ces_x_preferred":[
+        "Kop\u0159ivnice"
+    ],
+    "name:dan_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:deu_x_preferred":[
@@ -39,6 +45,9 @@
         "Kop\u0159ivnice"
     ],
     "name:epo_x_preferred":[
+        "Kop\u0159ivnice"
+    ],
+    "name:eus_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:fas_x_preferred":[
@@ -59,6 +68,9 @@
     "name:ita_x_preferred":[
         "Kop\u0159ivnice"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30d7\u30b8\u30f4\u30cb\u30c4\u30a7"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ud504\ub974\uc9c0\ube0c\ub2c8\uccb4"
     ],
@@ -67,6 +79,9 @@
     ],
     "name:lit_x_preferred":[
         "Kopr\u0161ivnic\u0117s"
+    ],
+    "name:lit_x_variant":[
+        "Kopr\u0161ivnic\u0117"
     ],
     "name:msa_x_preferred":[
         "Kop\u0159ivnice"
@@ -113,11 +128,17 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u043f\u0440\u0438\u0432\u045a\u0438\u0446\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u043f\u0440\u0438\u0432\u043d\u0438\u0446\u0435"
+    ],
     "name:swe_x_preferred":[
         "Kop\u0159ivnice"
     ],
     "name:tat_x_preferred":[
         "\u041a\u043e\u043f\u0440\u0448\u0438\u0432\u043d\u0438\u0442\u0441\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Kop\u0159ivnice"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u0440\u0436\u0438\u0432\u043d\u0456\u0446\u0435"
@@ -173,7 +194,7 @@
         }
     ],
     "wof:id":101840939,
-    "wof:lastmodified":1561772377,
+    "wof:lastmodified":1563247594,
     "wof:name":"Kop\u0159ivnice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

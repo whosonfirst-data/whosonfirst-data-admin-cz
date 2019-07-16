@@ -20,6 +20,9 @@
     "mps:longitude":17.475571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0628\u06cc\u0633"
+    ],
     "name:ceb_x_preferred":[
         "Babice"
     ],
@@ -29,11 +32,20 @@
     "name:deu_x_preferred":[
         "Babice u Uhersk\u00e9ho Hradi\u0161t\u011b"
     ],
+    "name:deu_x_variant":[
+        "Babice"
+    ],
     "name:eng_x_preferred":[
         "Babice"
     ],
     "name:epo_x_preferred":[
         "Babice"
+    ],
+    "name:eus_x_preferred":[
+        "Babice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u06cc\u0633"
     ],
     "name:fra_x_preferred":[
         "Babice"
@@ -66,6 +78,9 @@
         "Babice"
     ],
     "name:slk_x_preferred":[
+        "Babice"
+    ],
+    "name:spa_x_preferred":[
         "Babice"
     ],
     "name:srp_x_preferred":[
@@ -143,7 +158,7 @@
         }
     ],
     "wof:id":101779897,
-    "wof:lastmodified":1561772367,
+    "wof:lastmodified":1563247448,
     "wof:name":"Babice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

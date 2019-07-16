@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0634\u062a\u06cc\u067e\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160t\u011bp\u00e1novice"
+    ],
     "name:ces_x_preferred":[
         "\u0160t\u011bp\u00e1novice"
     ],
@@ -26,6 +32,9 @@
         "\u0160t\u011bp\u00e1novice u \u010cesk\u00fdch Bud\u011bjovic"
     ],
     "name:eng_x_preferred":[
+        "\u0160t\u011bp\u00e1novice"
+    ],
+    "name:eus_x_preferred":[
         "\u0160t\u011bp\u00e1novice"
     ],
     "name:fas_x_preferred":[
@@ -61,8 +70,14 @@
     "name:slk_x_preferred":[
         "\u0160t\u011bp\u00e1novice"
     ],
+    "name:spa_x_preferred":[
+        "\u0160t\u011bp\u00e1novice"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u0442\u0458\u0435\u043f\u0430\u043d\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160t\u011bp\u00e1novice"
     ],
     "name:unk_x_variant":[
         "\u0160t\u011bpanowitz"
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":1125894495,
-    "wof:lastmodified":1561772482,
+    "wof:lastmodified":1563249238,
     "wof:name":"\u0160t\u011bp\u00e1novice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

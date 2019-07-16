@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
+    "geom:area_square_m":1217329.449718,
     "geom:bbox":"16.4704294575,49.7610796947,16.4875691323,49.7905092879",
     "geom:latitude":49.773242,
     "geom:longitude":16.478594,
@@ -15,6 +16,9 @@
     "mps:longitude":16.476769,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u0627\u062a\u0634\u0646\u0648\u0648"
+    ],
     "name:ceb_x_preferred":[
         "La\u010dnov"
     ],
@@ -24,8 +28,17 @@
     "name:deu_x_preferred":[
         "La\u010dnov"
     ],
+    "name:eng_x_preferred":[
+        "La\u010dnov"
+    ],
     "name:epo_x_preferred":[
         "La\u010dnov"
+    ],
+    "name:eus_x_preferred":[
+        "La\u010dnov"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u062a\u0634\u0646\u0648\u0648"
     ],
     "name:fra_x_preferred":[
         "La\u010dnov"
@@ -39,10 +52,37 @@
     "name:msa_x_preferred":[
         "La\u010dnov"
     ],
+    "name:nan_x_preferred":[
+        "La\u010dnov"
+    ],
     "name:nld_x_preferred":[
         "La\u010dnov"
     ],
     "name:pol_x_preferred":[
+        "La\u010dnov"
+    ],
+    "name:por_x_preferred":[
+        "La\u010dnov"
+    ],
+    "name:rue_x_preferred":[
+        "\u041b\u0430\u0447\u043d\u0456\u0432"
+    ],
+    "name:rup_x_preferred":[
+        "La\u010dnov"
+    ],
+    "name:slk_x_preferred":[
+        "La\u010dnov"
+    ],
+    "name:spa_x_preferred":[
+        "La\u010dnov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0447\u043d\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "La\u010dnov"
+    ],
+    "name:vie_x_preferred":[
         "La\u010dnov"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -87,7 +127,7 @@
         }
     ],
     "wof:id":101840891,
-    "wof:lastmodified":1527715016,
+    "wof:lastmodified":1563247618,
     "wof:name":"La\u010dnov",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

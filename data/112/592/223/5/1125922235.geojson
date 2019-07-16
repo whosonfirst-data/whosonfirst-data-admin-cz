@@ -19,13 +19,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u067e\u062a\u0631\u0648\u0648\u067e\u06cc\u0645"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0443\u043f\u0438\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Petroupim"
     ],
     "name:ces_x_preferred":[
         "Petroupim"
     ],
     "name:eng_x_preferred":[
+        "Petroupim"
+    ],
+    "name:eus_x_preferred":[
         "Petroupim"
     ],
     "name:fas_x_preferred":[
@@ -43,7 +52,13 @@
     "name:msa_x_preferred":[
         "Petroupim"
     ],
+    "name:nan_x_preferred":[
+        "Petroupim"
+    ],
     "name:nld_x_preferred":[
+        "Petroupim"
+    ],
+    "name:oci_x_preferred":[
         "Petroupim"
     ],
     "name:pol_x_preferred":[
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":1125922235,
-    "wof:lastmodified":1561772441,
+    "wof:lastmodified":1563248565,
     "wof:name":"Petroupim",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

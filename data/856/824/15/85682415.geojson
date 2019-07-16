@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062c\u0646\u0648\u0628 \u0628\u0648\u0647\u064a\u0645\u064a\u0627"
     ],
+    "name:arg_x_preferred":[
+        "Bohemia Meridional"
+    ],
     "name:aze_x_preferred":[
         "C\u0259nubi \u00c7exiya diyar\u0131"
     ],
@@ -45,8 +48,14 @@
     "name:bul_x_preferred":[
         "\u042e\u0436\u043d\u043e\u0447\u0435\u0448\u043a\u0438 \u043a\u0440\u0430\u0439"
     ],
+    "name:bul_x_variant":[
+        "\u042e\u0436\u043d\u043e\u0431\u043e\u0445\u0435\u043c\u0441\u043a\u0438 \u043a\u0440\u0430\u0439"
+    ],
     "name:cat_x_preferred":[
         "Boh\u00e8mia Meridional"
+    ],
+    "name:ceb_x_preferred":[
+        "Jiho\u010desk\u00fd kraj"
     ],
     "name:ces_x_preferred":[
         "Jiho\u010desk\u00fd kraj"
@@ -90,6 +99,9 @@
     "name:fra_x_variant":[
         "Boh\u00eame du Sud"
     ],
+    "name:frr_x_preferred":[
+        "S\u00fc\u00fcdb\u00f6\u00f6misk Regiuun"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0aac\u0acb\u0ab9\u0ac7\u0aae\u0abf\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -102,6 +114,9 @@
     "name:hrv_x_preferred":[
         "Ju\u017ena \u010ce\u0161ka"
     ],
+    "name:hsb_x_preferred":[
+        "Jiho\u010desk\u00fd kraj"
+    ],
     "name:hun_x_preferred":[
         "D\u00e9l-csehorsz\u00e1gi ker\u00fclet"
     ],
@@ -110,6 +125,9 @@
     ],
     "name:ita_x_preferred":[
         "Boemia meridionale"
+    ],
+    "name:ita_x_variant":[
+        "Boemia Meridionale"
     ],
     "name:jpn_x_preferred":[
         "\u5357\u30dc\u30d8\u30df\u30a2\u5dde"
@@ -122,6 +140,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ubcf4\ud5e4\ubbf8\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ubcf4\ud5e4\ubbf8\uc544\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Dienvid\u010dehijas apgabals"
@@ -339,7 +360,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1561772302,
+    "wof:lastmodified":1563246441,
     "wof:name":"Jiho\u010desk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

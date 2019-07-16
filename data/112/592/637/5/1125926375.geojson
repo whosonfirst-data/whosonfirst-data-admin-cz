@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062a\u0646\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0439\u0442\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Sytno"
     ],
     "name:ces_x_preferred":[
         "Sytno"
@@ -29,6 +35,9 @@
         "Sytno"
     ],
     "name:eng_x_preferred":[
+        "Sytno"
+    ],
+    "name:eus_x_preferred":[
         "Sytno"
     ],
     "name:fas_x_preferred":[
@@ -62,6 +71,9 @@
         "Sytno"
     ],
     "name:slk_x_preferred":[
+        "Sytno"
+    ],
+    "name:spa_x_preferred":[
         "Sytno"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":1125926375,
-    "wof:lastmodified":1561772443,
+    "wof:lastmodified":1563248597,
     "wof:name":"Sytno",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

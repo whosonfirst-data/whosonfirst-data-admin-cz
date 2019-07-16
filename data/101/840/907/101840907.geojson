@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0648\u0641\u064a \u064a\u062a\u0634\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0648\u0641\u064a \u064a\u062a\u0634\u064a\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u043e\u0432\u0456-\u0419\u0456\u0447\u044b\u043d"
     ],
@@ -29,13 +32,22 @@
     "name:cat_x_preferred":[
         "Districte de Nov\u00fd Ji\u010d\u00edn"
     ],
+    "name:cat_x_variant":[
+        "Nov\u00fd Ji\u010d\u00edn"
+    ],
     "name:ceb_x_preferred":[
         "Okres Nov\u00fd Ji\u010d\u00edn"
+    ],
+    "name:ceb_x_variant":[
+        "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:ces_x_preferred":[
         "Okres Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:ces_x_variant":[
+        "Nov\u00fd Ji\u010d\u00edn"
+    ],
+    "name:cym_x_preferred":[
         "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:cze_x_colloquial":[
@@ -57,6 +69,12 @@
     "name:epo_x_preferred":[
         "Distrikto Nov\u00fd Ji\u010d\u00edn"
     ],
+    "name:epo_x_variant":[
+        "Novaji\u0109ino"
+    ],
+    "name:eus_x_preferred":[
+        "Nov\u00fd Ji\u010d\u00edn"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u06cc \u06cc\u06cc\u0686\u06cc\u0646"
     ],
@@ -71,6 +89,9 @@
     ],
     "name:hun_x_preferred":[
         "Nov\u00fd Ji\u010d\u00edn-i j\u00e1r\u00e1s"
+    ],
+    "name:hun_x_variant":[
+        "Nov\u00fd Ji\u010d\u00edn"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u057e\u056b \u0545\u056b\u0579\u056b\u0576\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -206,7 +227,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772377,
+    "wof:lastmodified":1563247590,
     "wof:name":"Nov\u00fd Ji\u010d\u00edn",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

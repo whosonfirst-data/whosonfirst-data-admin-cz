@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0425\u043b\u0443\u0447\u0438\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
     "name:ceb_x_preferred":[
         "Hlu\u010d\u00edn"
     ],
@@ -38,11 +41,17 @@
     "name:epo_x_preferred":[
         "Hlu\u010d\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0644\u0648\u062a\u0634\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
         "Hlu\u010d\u00edn"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05dc\u05d5\u05e6'\u05d9\u05df"
     ],
     "name:hsb_x_preferred":[
         "Hlu\u010d\u00edn"
@@ -58,6 +67,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0413\u043b\u0443\u0447\u0438\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ud758\ub8e8\uce5c"
     ],
     "name:lav_x_preferred":[
         "Hlu\u010d\u012bna"
@@ -89,6 +101,9 @@
     "name:slk_x_preferred":[
         "Hlu\u010d\u00edn"
     ],
+    "name:spa_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u043b\u0443\u0447\u0438\u043d"
     ],
@@ -97,6 +112,12 @@
     ],
     "name:tat_x_preferred":[
         "\u04ba\u043b\u0443\u0447\u0438\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0443\u0447\u0456\u043d"
     ],
     "name:unk_x_variant":[
         "Hulczyn"
@@ -151,7 +172,7 @@
         }
     ],
     "wof:id":101825389,
-    "wof:lastmodified":1561772391,
+    "wof:lastmodified":1563247763,
     "wof:name":"Hlu\u010d\u00edn",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

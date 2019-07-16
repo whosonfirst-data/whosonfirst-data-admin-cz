@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011218,
-    "geom:area_square_m":90646346.46605,
+    "geom:area_square_m":90646346.466045,
     "geom:bbox":"16.4965898614,49.123485112,16.7058085,49.2751069886",
     "geom:latitude":49.196481,
     "geom:longitude":16.61176,
@@ -18,11 +18,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
+    "name:afr_x_preferred":[
+        "Brno"
+    ],
+    "name:amh_x_preferred":[
+        "\u1265\u122d\u1296"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u0646\u0648"
     ],
+    "name:arg_x_preferred":[
+        "Brno"
+    ],
+    "name:ast_x_preferred":[
+        "Brno"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0646\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Brno"
+    ],
+    "name:bar_x_preferred":[
+        "Br\u00fcnn"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0440\u043d\u043e"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0440\u043d\u043e"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09a8\u09cb"
     ],
     "name:bos_x_preferred":[
         "Brno"
@@ -36,17 +63,29 @@
     "name:cat_x_preferred":[
         "Brno"
     ],
+    "name:ceb_x_preferred":[
+        "Brno"
+    ],
     "name:ces_x_preferred":[
         "Brno"
     ],
     "name:che_x_preferred":[
         "\u0411\u0440\u043d\u043e"
     ],
+    "name:cym_x_preferred":[
+        "Brno"
+    ],
     "name:dan_x_preferred":[
         "Brno"
     ],
     "name:deu_x_preferred":[
         "Br\u00fcnn"
+    ],
+    "name:diq_x_preferred":[
+        "Brno"
+    ],
+    "name:dsb_x_preferred":[
+        "Brno"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03c1\u03bd\u03bf"
@@ -60,6 +99,12 @@
     "name:est_x_preferred":[
         "Brno"
     ],
+    "name:eus_x_preferred":[
+        "Brno"
+    ],
+    "name:fao_x_preferred":[
+        "Brno"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u0646\u0648"
     ],
@@ -69,13 +114,31 @@
     "name:fra_x_preferred":[
         "Brno"
     ],
+    "name:fry_x_preferred":[
+        "Brno"
+    ],
+    "name:gla_x_preferred":[
+        "Brno"
+    ],
+    "name:gle_x_preferred":[
+        "Brno"
+    ],
     "name:glg_x_preferred":[
         "Brno"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0ab0\u0aa8\u0acb"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05e0\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0930\u0928\u094b"
+    ],
     "name:hrv_x_preferred":[
+        "Brno"
+    ],
+    "name:hsb_x_preferred":[
         "Brno"
     ],
     "name:hun_x_preferred":[
@@ -86,6 +149,12 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u057c\u0576\u0578"
+    ],
+    "name:ido_x_preferred":[
+        "Brno"
+    ],
+    "name:ile_x_preferred":[
+        "Brno"
     ],
     "name:ind_x_preferred":[
         "Brno"
@@ -98,6 +167,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30eb\u30ce"
+    ],
+    "name:kal_x_preferred":[
+        "Brno"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccd\u0cb0\u0ccd\u0ca8\u0ccb"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e0\u10dc\u10dd"
@@ -117,17 +192,32 @@
     "name:lav_x_preferred":[
         "Brno"
     ],
+    "name:lim_x_preferred":[
+        "Brno"
+    ],
     "name:lit_x_preferred":[
         "Brno"
     ],
+    "name:lmo_x_preferred":[
+        "Bruna"
+    ],
+    "name:ltz_x_preferred":[
+        "Br\u00fcnn"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0928\u094b"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0411\u0440\u043d\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u043d\u043e"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0440\u043d\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Brno"
     ],
     "name:myv_x_preferred":[
         "\u0411\u0440\u043d\u043e \u043e\u0448"
@@ -138,11 +228,26 @@
     "name:nno_x_preferred":[
         "Brno"
     ],
+    "name:nob_x_preferred":[
+        "Brno"
+    ],
     "name:nor_x_preferred":[
+        "Brno"
+    ],
+    "name:oci_x_preferred":[
         "Brno"
     ],
     "name:oss_x_preferred":[
         "\u0411\u0440\u043d\u043e"
+    ],
+    "name:pcd_x_preferred":[
+        "Brno"
+    ],
+    "name:pms_x_preferred":[
+        "Brno"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0631\u0646\u0648"
     ],
     "name:pol_x_preferred":[
         "Brno"
@@ -153,13 +258,43 @@
     "name:pus_x_preferred":[
         "\u0628\u0631\u0646\u0648"
     ],
+    "name:ron_x_preferred":[
+        "Brno"
+    ],
+    "name:rup_x_preferred":[
+        "Brno"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u043d\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Brno"
+    ],
+    "name:sco_x_preferred":[
+        "Brno"
+    ],
+    "name:sgs_x_preferred":[
+        "Brno"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dca\u0dbb\u0dca\u0db1\u0ddd"
     ],
     "name:slk_x_preferred":[
         "Brno"
     ],
+    "name:slv_x_preferred":[
+        "Brno"
+    ],
+    "name:sme_x_preferred":[
+        "Brno"
+    ],
     "name:spa_x_preferred":[
+        "Brno"
+    ],
+    "name:sqi_x_preferred":[
+        "Brno"
+    ],
+    "name:srd_x_preferred":[
         "Brno"
     ],
     "name:srp_x_preferred":[
@@ -168,11 +303,32 @@
     "name:swe_x_preferred":[
         "Brno"
     ],
+    "name:szl_x_preferred":[
+        "Brno"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcd\u0bb0\u0ba3\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u043d\u043e"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c30\u0c4b\u0c28\u0c4b"
+    ],
     "name:tgk_x_preferred":[
         "\u0411\u0440\u043d\u043e"
     ],
+    "name:tgl_x_preferred":[
+        "Brno"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e42\u0e19"
+    ],
+    "name:tuk_x_preferred":[
+        "Brno"
+    ],
+    "name:tur_x_preferred":[
+        "Brno"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u043d\u043e"
@@ -183,11 +339,32 @@
     "name:urd_x_preferred":[
         "\u0628\u0631\u0646\u0648"
     ],
+    "name:uzb_x_preferred":[
+        "Brno"
+    ],
+    "name:vep_x_preferred":[
+        "Brno"
+    ],
+    "name:vie_x_preferred":[
+        "Brno"
+    ],
+    "name:vol_x_preferred":[
+        "Brno"
+    ],
+    "name:war_x_preferred":[
+        "Brno"
+    ],
     "name:yid_x_preferred":[
         "\u05d1\u05e8\u05d9\u05df"
     ],
+    "name:yue_x_preferred":[
+        "\u5e03\u723e\u8afe"
+    ],
     "name:zho_x_preferred":[
         "\u5e03\u723e\u8afe"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u5c14\u8bfa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Czech Republic",
@@ -325,7 +502,7 @@
         }
     ],
     "wof:id":101748109,
-    "wof:lastmodified":1527688474,
+    "wof:lastmodified":1563247388,
     "wof:name":"Brno",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

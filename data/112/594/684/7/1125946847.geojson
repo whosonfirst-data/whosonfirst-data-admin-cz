@@ -19,10 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0644\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00dalice"
+    ],
     "name:ces_x_preferred":[
         "\u00dalice"
     ],
     "name:eng_x_preferred":[
+        "\u00dalice"
+    ],
+    "name:eus_x_preferred":[
         "\u00dalice"
     ],
     "name:fas_x_preferred":[
@@ -40,6 +49,9 @@
     "name:msa_x_preferred":[
         "\u00dalice"
     ],
+    "name:nan_x_preferred":[
+        "\u00dalice"
+    ],
     "name:nld_x_preferred":[
         "\u00dalice"
     ],
@@ -50,6 +62,9 @@
         "\u00dalice"
     ],
     "name:slk_x_preferred":[
+        "\u00dalice"
+    ],
+    "name:spa_x_preferred":[
         "\u00dalice"
     ],
     "name:srp_x_preferred":[
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1125946847,
-    "wof:lastmodified":1561772412,
+    "wof:lastmodified":1563248090,
     "wof:name":"\u00dalice",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

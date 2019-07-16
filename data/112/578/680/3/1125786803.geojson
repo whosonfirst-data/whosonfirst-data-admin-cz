@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u062a\u0631\u06cc\u062a\u0698"
+    ],
+    "name:ceb_x_preferred":[
+        "St\u0159\u00edte\u017e"
+    ],
     "name:ces_x_preferred":[
         "St\u0159\u00edte\u017e"
     ],
@@ -28,14 +34,23 @@
     "name:deu_x_preferred":[
         "St\u0159\u00edte\u017e u \u010cesk\u00e9ho T\u011b\u0161\u00edna"
     ],
+    "name:deu_x_variant":[
+        "St\u0159\u00edte\u017e"
+    ],
     "name:eng_x_preferred":[
         "St\u0159\u00edte\u017e"
     ],
     "name:epo_x_preferred":[
         "St\u0159\u00edte\u017e"
     ],
+    "name:eus_x_preferred":[
+        "St\u0159\u00edte\u017e"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u062a\u0631\u06cc\u062a\u0698"
+    ],
+    "name:fra_x_preferred":[
+        "St\u0159\u00edte\u017e"
     ],
     "name:hun_x_preferred":[
         "St\u0159\u00edte\u017e"
@@ -44,6 +59,9 @@
         "St\u0159\u00edte\u017e"
     ],
     "name:msa_x_preferred":[
+        "St\u0159\u00edte\u017e"
+    ],
+    "name:nan_x_preferred":[
         "St\u0159\u00edte\u017e"
     ],
     "name:nld_x_preferred":[
@@ -59,6 +77,9 @@
         "St\u0159\u00edte\u017e"
     ],
     "name:slk_x_preferred":[
+        "St\u0159\u00edte\u017e"
+    ],
+    "name:spa_x_preferred":[
         "St\u0159\u00edte\u017e"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +140,7 @@
         }
     ],
     "wof:id":1125786803,
-    "wof:lastmodified":1561772550,
+    "wof:lastmodified":1563250518,
     "wof:name":"St\u0159\u00edte\u017e",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0634\u0627\u0633\u062a\u06a9\u0648\u0641"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
     "name:ces_x_preferred":[
         "\u010c\u00e1stkov"
     ],
@@ -26,6 +32,9 @@
         "\u010c\u00e1stkov u Tachova"
     ],
     "name:eng_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
+    "name:eus_x_preferred":[
         "\u010c\u00e1stkov"
     ],
     "name:fas_x_preferred":[
@@ -61,8 +70,14 @@
     "name:slk_x_preferred":[
         "\u010c\u00e1stkov"
     ],
+    "name:spa_x_preferred":[
+        "\u010c\u00e1stkov"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0430\u0441\u0442\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "\u010c\u00e1stkov"
     ],
     "name:unk_x_variant":[
         "Schossenreith"
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":1125914199,
-    "wof:lastmodified":1561772520,
+    "wof:lastmodified":1563250010,
     "wof:name":"\u010c\u00e1stkov",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",
