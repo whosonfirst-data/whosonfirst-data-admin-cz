@@ -24,10 +24,10 @@
     "name:aze_x_preferred":[
         "Pardubitse"
     ],
-    "name:bel_x_preferred":[
-        "\u041f\u0430\u0440\u0434\u0443\u0431\u0456\u0446\u044b"
+    "name:aze_x_variant":[
+        "Pardubi\u00e7e"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u0434\u0443\u0431\u0456\u0446\u044b"
     ],
     "name:ben_x_preferred":[
@@ -219,6 +219,9 @@
     "name:tat_x_preferred":[
         "\u041f\u0430\u0440\u0434\u0443\u0431\u0438\u0446\u0435"
     ],
+    "name:tat_x_variant":[
+        "\u041f\u0430\u0440\u0434\u0443\u0431\u0438\u0442\u0441\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c30\u0c4d\u0c26\u0c41\u0c2c\u0c3f\u0c38\u0c4d"
     ],
@@ -233,6 +236,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0434\u0443\u0431\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u0440\u0434\u0443\u0431\u0456\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Pardubitz"
@@ -392,7 +398,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772363,
+    "wof:lastmodified":1563247393,
     "wof:name":"Pardubice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

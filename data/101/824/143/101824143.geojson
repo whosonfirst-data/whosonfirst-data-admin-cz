@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":986678.542751,
+    "geom:area_square_m":986678.542752,
     "geom:bbox":"16.9404453862,50.1555216992,16.956043974,50.1719621825",
     "geom:latitude":50.162985,
     "geom:longitude":16.946357,
@@ -26,6 +26,24 @@
     "name:deu_x_preferred":[
         "Star\u00e9 M\u011bsto pod Sn\u011b\u017en\u00edkem"
     ],
+    "name:deu_x_variant":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:eng_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:epo_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:eus_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u0647 \u0645\u06cc\u0633\u062a\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
     "name:hun_x_preferred":[
         "Star\u00e9 M\u011bsto"
     ],
@@ -38,6 +56,9 @@
     "name:msa_x_preferred":[
         "Star\u00e9 M\u011bsto"
     ],
+    "name:nan_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
     "name:nld_x_preferred":[
         "Star\u00e9 M\u011bsto"
     ],
@@ -47,11 +68,29 @@
     "name:por_x_preferred":[
         "Star\u00e9 M\u011bsto"
     ],
+    "name:rup_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:slk_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:spa_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0435 \u041c\u0458\u0435\u0441\u0442\u043e"
     ],
+    "name:swe_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0435-\u041c\u0435\u0441\u0442\u043e"
+    ],
     "name:unk_x_variant":[
         "M\u00e4hrisch-Altstadt"
+    ],
+    "name:vie_x_preferred":[
+        "Star\u00e9 M\u011bsto"
     ],
     "name:zho_x_preferred":[
         "\u65af\u5854\u96f7\u6885\u65af\u6258"
@@ -99,7 +138,7 @@
         }
     ],
     "wof:id":101824143,
-    "wof:lastmodified":1505338164,
+    "wof:lastmodified":1563247548,
     "wof:name":"Star\u00e9 M\u011bsto",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

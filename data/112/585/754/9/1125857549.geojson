@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u062f\u0648\u062e\u0648\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0438\u0434\u043e\u0447\u043e\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "Vidochov"
     ],
     "name:ces_x_preferred":[
         "Vidochov"
@@ -29,6 +35,9 @@
         "Vidochov"
     ],
     "name:eng_x_preferred":[
+        "Vidochov"
+    ],
+    "name:eus_x_preferred":[
         "Vidochov"
     ],
     "name:fas_x_preferred":[
@@ -62,6 +71,9 @@
         "Vidochov"
     ],
     "name:slk_x_preferred":[
+        "Vidochov"
+    ],
+    "name:spa_x_preferred":[
         "Vidochov"
     ],
     "name:srp_x_preferred":[
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":1125857549,
-    "wof:lastmodified":1561772542,
+    "wof:lastmodified":1563250389,
     "wof:name":"Vidochov",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

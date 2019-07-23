@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0633\u0648\u0631\u062a\u0634\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Cvr\u010dovice"
+    ],
     "name:ces_x_preferred":[
         "Cvr\u010dovice"
     ],
@@ -26,6 +32,9 @@
         "Cvr\u010dovice u Poho\u0159elic"
     ],
     "name:eng_x_preferred":[
+        "Cvr\u010dovice"
+    ],
+    "name:eus_x_preferred":[
         "Cvr\u010dovice"
     ],
     "name:fas_x_preferred":[
@@ -59,6 +68,9 @@
         "Cvr\u010dovice"
     ],
     "name:slk_x_preferred":[
+        "Cvr\u010dovice"
+    ],
+    "name:spa_x_preferred":[
         "Cvr\u010dovice"
     ],
     "name:swe_x_preferred":[
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":1125934171,
-    "wof:lastmodified":1561772424,
+    "wof:lastmodified":1563248289,
     "wof:name":"Cvr\u010dovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

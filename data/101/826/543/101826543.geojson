@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
-    "geom:area_square_m":1315752.503472,
+    "geom:area_square_m":1315752.503473,
     "geom:bbox":"18.0944356733,49.5307461218,18.1361417397,49.5414605458",
     "geom:latitude":49.537514,
     "geom:longitude":18.119352,
@@ -17,10 +17,28 @@
     "mps:longitude":18.124564,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u0631\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Ve\u0159ovice"
     ],
     "name:ces_x_preferred":[
+        "Ve\u0159ovice"
+    ],
+    "name:deu_x_preferred":[
+        "Ve\u0159ovice"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u0159ovice"
+    ],
+    "name:eus_x_preferred":[
+        "Ve\u0159ovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Ve\u0159ovice"
     ],
     "name:hun_x_preferred":[
@@ -30,6 +48,9 @@
         "Ve\u0159ovice"
     ],
     "name:msa_x_preferred":[
+        "Ve\u0159ovice"
+    ],
+    "name:nan_x_preferred":[
         "Ve\u0159ovice"
     ],
     "name:nld_x_preferred":[
@@ -44,11 +65,20 @@
     "name:slk_x_preferred":[
         "Ve\u0159ovice"
     ],
+    "name:spa_x_preferred":[
+        "Ve\u0159ovice"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u0440\u0436\u043e\u0432\u0438\u0446\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Ve\u0159ovice"
+    ],
     "name:unk_x_variant":[
         "Wernsdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Ve\u0159ovice"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Moravskoslezsk\u00fd",
@@ -94,7 +124,7 @@
         }
     ],
     "wof:id":101826543,
-    "wof:lastmodified":1527642507,
+    "wof:lastmodified":1563247305,
     "wof:name":"Ve\u0159ovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

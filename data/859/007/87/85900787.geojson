@@ -29,10 +29,14 @@
         "MFK Fr\u00fddek-M\u00edstek"
     ],
     "name:ces_x_variant":[
-        "Mistek"
+        "Mistek",
+        "M\u00edstek"
     ],
     "name:deu_x_preferred":[
         "MFK Fr\u00fddek-M\u00edstek"
+    ],
+    "name:deu_x_variant":[
+        "M\u00edstek"
     ],
     "name:eng_x_preferred":[
         "M\u00edstek"
@@ -48,6 +52,12 @@
     ],
     "name:pol_x_preferred":[
         "MFK Fr\u00fddek-M\u00edstek"
+    ],
+    "name:pol_x_variant":[
+        "Mistek"
+    ],
+    "name:rue_x_preferred":[
+        "\u041c\u0456\u0441\u0442\u0435\u043a"
     ],
     "name:spa_x_preferred":[
         "MFK Fr\u00fddek-M\u00edstek"
@@ -114,7 +124,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772284,
+    "wof:lastmodified":1563246366,
     "wof:name":"Mistek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

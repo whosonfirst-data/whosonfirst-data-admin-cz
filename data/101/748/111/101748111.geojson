@@ -27,8 +27,14 @@
     "name:arg_x_preferred":[
         "Plze\u0148"
     ],
+    "name:ast_x_preferred":[
+        "Pilsen"
+    ],
     "name:aze_x_preferred":[
         "Plzen"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u043b\u044c\u0437\u0435\u043d\u044c"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043b\u044c\u0437\u0435\u043d\u044c"
@@ -50,6 +56,9 @@
     ],
     "name:cat_x_preferred":[
         "Plze\u0148"
+    ],
+    "name:ceb_x_preferred":[
+        "Pilsen"
     ],
     "name:ces_x_preferred":[
         "Plze\u0148"
@@ -83,6 +92,9 @@
     ],
     "name:eng_x_preferred":[
         "Pilsen"
+    ],
+    "name:eng_x_variant":[
+        "Plze\u0148"
     ],
     "name:epo_x_preferred":[
         "Plze\u0148"
@@ -120,6 +132,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05dc\u05d6\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05e4\u05dc\u05d6\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u094d\u0932\u091c\u093c\u0947\u0928"
     ],
@@ -135,6 +150,9 @@
     "name:hye_x_preferred":[
         "\u054a\u056c\u0566\u0565\u0576"
     ],
+    "name:ido_x_preferred":[
+        "Plze\u0148"
+    ],
     "name:ile_x_preferred":[
         "Plze\u0148"
     ],
@@ -146,6 +164,9 @@
     ],
     "name:ita_x_preferred":[
         "Pilsen"
+    ],
+    "name:ita_x_variant":[
+        "Plze\u0148"
     ],
     "name:jav_x_preferred":[
         "Pilzno"
@@ -213,6 +234,9 @@
     "name:pcd_x_preferred":[
         "Plze\u0148"
     ],
+    "name:pms_x_preferred":[
+        "Plze\u0148"
+    ],
     "name:pnb_x_preferred":[
         "\u067e\u0644\u0632\u06cc\u0646"
     ],
@@ -224,6 +248,9 @@
     ],
     "name:pus_x_preferred":[
         "\u067e\u0644\u0632\u0646"
+    ],
+    "name:que_x_preferred":[
+        "Plze\u0148"
     ],
     "name:ron_x_preferred":[
         "Plze\u0148"
@@ -256,6 +283,9 @@
         "\u041f\u043b\u0437\u0435\u045a"
     ],
     "name:swe_x_preferred":[
+        "Plze\u0148"
+    ],
+    "name:szl_x_preferred":[
         "Plze\u0148"
     ],
     "name:tam_x_preferred":[
@@ -445,7 +475,7 @@
         }
     ],
     "wof:id":101748111,
-    "wof:lastmodified":1561772362,
+    "wof:lastmodified":1563247380,
     "wof:name":"Plze\u0148",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

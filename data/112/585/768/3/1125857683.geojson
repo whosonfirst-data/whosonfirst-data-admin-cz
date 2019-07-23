@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0632\u0627\u062e\u0644\u0648\u0645\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Z\u00e1chlum\u00ed"
+    ],
     "name:ces_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
@@ -26,6 +32,9 @@
         "Z\u00e1chlum\u00ed u St\u0159\u00edbra"
     ],
     "name:eng_x_preferred":[
+        "Z\u00e1chlum\u00ed"
+    ],
+    "name:eus_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
     "name:fas_x_preferred":[
@@ -61,8 +70,14 @@
     "name:slk_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
+    "name:spa_x_preferred":[
+        "Z\u00e1chlum\u00ed"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u0430\u0445\u043b\u0443\u043c\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Z\u00e1chlum\u00ed"
     ],
     "name:unk_x_variant":[
         "Eisenh\u00fcttel"
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":1125857683,
-    "wof:lastmodified":1561772546,
+    "wof:lastmodified":1563250458,
     "wof:name":"Z\u00e1chlum\u00ed",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

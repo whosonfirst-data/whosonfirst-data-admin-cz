@@ -27,8 +27,14 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0644\u064a\u0628\u064a\u0631\u064a\u062a\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0628\u0631\u062a\u0633 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Liberets diyar\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u0431\u0435\u0440\u0430\u0446\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0987\u09ac\u09c7\u09b0\u09c7\u0995 \u0985\u099e\u09cd\u099a\u09b2"
@@ -44,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Liberec"
+    ],
+    "name:ceb_x_preferred":[
+        "Libereck\u00fd kraj"
     ],
     "name:ces_x_preferred":[
         "Libereck\u00fd kraj"
@@ -63,6 +72,9 @@
     "name:eng_x_preferred":[
         "Libereck\u00fd"
     ],
+    "name:eng_x_variant":[
+        "Liberec Region"
+    ],
     "name:epo_x_preferred":[
         "Regiono Liberec"
     ],
@@ -81,6 +93,12 @@
     "name:fra_x_preferred":[
         "r\u00e9gion de Liberec"
     ],
+    "name:fra_x_variant":[
+        "Liberec"
+    ],
+    "name:frr_x_preferred":[
+        "Liberec"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aac\u0acd\u0ab0\u0ac7\u0a95 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -92,6 +110,9 @@
     ],
     "name:hrv_x_preferred":[
         "Libere\u010dki kraj"
+    ],
+    "name:hsb_x_preferred":[
+        "Libereck\u00fd kraj"
     ],
     "name:hun_x_preferred":[
         "Libereci ker\u00fclet"
@@ -113,6 +134,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\ubca0\ub808\uce20 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\ubca0\ub808\uce20\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Liberecas apri\u0146\u0137is"
@@ -155,6 +179,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Liberec"
+    ],
+    "name:ron_x_variant":[
+        "Liberec"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0431\u0435\u0440\u0435\u0446\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
@@ -320,7 +347,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1561772300,
+    "wof:lastmodified":1563246437,
     "wof:name":"Libereck\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

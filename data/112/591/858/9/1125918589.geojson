@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u0631\u0646\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Kom\u00e1rno"
+    ],
     "name:ces_x_preferred":[
         "Kom\u00e1rno"
     ],
@@ -29,6 +35,9 @@
         "Kom\u00e1rno"
     ],
     "name:epo_x_preferred":[
+        "Kom\u00e1rno"
+    ],
+    "name:eus_x_preferred":[
         "Kom\u00e1rno"
     ],
     "name:fas_x_preferred":[
@@ -46,6 +55,9 @@
     "name:msa_x_preferred":[
         "Kom\u00e1rno"
     ],
+    "name:nan_x_preferred":[
+        "Kom\u00e1rno"
+    ],
     "name:nld_x_preferred":[
         "Kom\u00e1rno"
     ],
@@ -61,11 +73,17 @@
     "name:slk_x_preferred":[
         "Kom\u00e1rno"
     ],
+    "name:spa_x_preferred":[
+        "Kom\u00e1rno"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u043d\u043e"
     ],
     "name:swe_x_preferred":[
         "Kom\u00e1rno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u043d\u043e"
     ],
     "name:vie_x_preferred":[
         "Kom\u00e1rno"
@@ -117,7 +135,7 @@
         }
     ],
     "wof:id":1125918589,
-    "wof:lastmodified":1561772517,
+    "wof:lastmodified":1563249945,
     "wof:name":"Kom\u00e1rno",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

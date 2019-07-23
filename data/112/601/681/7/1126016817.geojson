@@ -19,10 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u067e\u0631\u0646\u0627\u0631\u062a\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Pernarec"
+    ],
     "name:ces_x_preferred":[
         "Pernarec"
     ],
     "name:eng_x_preferred":[
+        "Pernarec"
+    ],
+    "name:eus_x_preferred":[
         "Pernarec"
     ],
     "name:fas_x_preferred":[
@@ -40,6 +49,9 @@
     "name:msa_x_preferred":[
         "Pernarec"
     ],
+    "name:nan_x_preferred":[
+        "Pernarec"
+    ],
     "name:nld_x_preferred":[
         "Pernarec"
     ],
@@ -50,6 +62,9 @@
         "Pernarec"
     ],
     "name:slk_x_preferred":[
+        "Pernarec"
+    ],
+    "name:spa_x_preferred":[
         "Pernarec"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":1126016817,
-    "wof:lastmodified":1561772528,
+    "wof:lastmodified":1563250141,
     "wof:name":"Pernarec",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

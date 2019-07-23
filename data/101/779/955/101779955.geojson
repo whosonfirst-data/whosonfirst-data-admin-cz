@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":887241.987213,
+    "geom:area_square_m":887241.987212,
     "geom:bbox":"16.8302838162,49.0455535463,16.8466325432,49.0632256708",
     "geom:latitude":49.053915,
     "geom:longitude":16.837051,
@@ -17,6 +17,9 @@
     "mps:longitude":16.837051,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0634\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Bo\u0161ovice"
     ],
@@ -25,6 +28,15 @@
     ],
     "name:deu_x_preferred":[
         "Bo\u0161ovice"
+    ],
+    "name:eng_x_preferred":[
+        "Bo\u0161ovice"
+    ],
+    "name:eus_x_preferred":[
+        "Bo\u0161ovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0634\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
         "Bo\u0161ovice"
@@ -38,6 +50,9 @@
     "name:msa_x_preferred":[
         "Bo\u0161ovice"
     ],
+    "name:nan_x_preferred":[
+        "Bo\u0161ovice"
+    ],
     "name:nld_x_preferred":[
         "Bo\u0161ovice"
     ],
@@ -47,8 +62,20 @@
     "name:slk_x_preferred":[
         "Bo\u0161ovice"
     ],
+    "name:spa_x_preferred":[
+        "Bo\u0161ovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0448\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bo\u0161ovice"
+    ],
     "name:unk_x_variant":[
         "Boschowitz"
+    ],
+    "name:vie_x_preferred":[
+        "Bo\u0161ovice"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Jihomoravsk\u00fd",
@@ -94,7 +121,7 @@
         }
     ],
     "wof:id":101779955,
-    "wof:lastmodified":1527688548,
+    "wof:lastmodified":1563247408,
     "wof:name":"Bo\u0161ovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0421\u043c\u0456\u0445\u0430\u045e"
+    ],
     "name:ces_x_preferred":[
         "Sm\u00edchov"
     ],
@@ -60,8 +63,14 @@
     "name:hye_x_preferred":[
         "\u054d\u0574\u056b\u0579\u0578\u057e"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30df\u30fc\u30c1\u30e7\u30d5"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\ubbf8\ud638\ud504"
+    ],
+    "name:ltz_x_preferred":[
+        "Sm\u00edchov"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043c\u0438\u0445\u043e\u0432"
@@ -120,7 +129,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772289,
+    "wof:lastmodified":1563246387,
     "wof:name":"Smichov",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

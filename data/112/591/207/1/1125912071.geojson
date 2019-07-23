@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0632\u0627\u0647\u0648\u0631\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
     "name:ces_x_preferred":[
         "Z\u00e1ho\u0159\u00ed"
     ],
@@ -27,6 +33,12 @@
     ],
     "name:eng_x_preferred":[
         "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:eus_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0647\u0648\u0631\u06cc"
     ],
     "name:fra_x_preferred":[
         "Z\u00e1ho\u0159\u00ed"
@@ -55,7 +67,13 @@
     "name:rup_x_preferred":[
         "Z\u00e1ho\u0159\u00ed"
     ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0445\u043e\u0440\u0436\u0438"
+    ],
     "name:slk_x_preferred":[
+        "Z\u00e1ho\u0159\u00ed"
+    ],
+    "name:spa_x_preferred":[
         "Z\u00e1ho\u0159\u00ed"
     ],
     "name:srp_x_preferred":[
@@ -117,7 +135,7 @@
         }
     ],
     "wof:id":1125912071,
-    "wof:lastmodified":1561772522,
+    "wof:lastmodified":1563250046,
     "wof:name":"Z\u00e1ho\u0159\u00ed",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

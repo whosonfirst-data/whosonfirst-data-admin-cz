@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0648\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u045e\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0443\u043d"
     ],
@@ -47,11 +50,17 @@
     "name:epo_x_preferred":[
         "Beroun"
     ],
+    "name:eus_x_preferred":[
+        "Beroun"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u0648\u0648\u0646"
     ],
     "name:fra_x_preferred":[
         "Beroun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d5\u05df"
     ],
     "name:hun_x_preferred":[
         "Beroun"
@@ -74,6 +83,12 @@
     "name:lat_x_preferred":[
         "Verona"
     ],
+    "name:lav_x_preferred":[
+        "Berouna"
+    ],
+    "name:lit_x_preferred":[
+        "Berounas"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0443\u043d"
     ],
@@ -90,6 +105,9 @@
         "Beroun"
     ],
     "name:nor_x_preferred":[
+        "Beroun"
+    ],
+    "name:oci_x_preferred":[
         "Beroun"
     ],
     "name:pam_x_preferred":[
@@ -125,6 +143,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0443\u043d"
     ],
+    "name:tur_x_preferred":[
+        "Beroun"
+    ],
     "name:vie_x_preferred":[
         "Beroun"
     ],
@@ -133,6 +154,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u9f8d"
+    ],
+    "name:zho_x_variant":[
+        "\u8d1d\u9f99"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Stredocesk\u00fd",
@@ -182,7 +206,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772369,
+    "wof:lastmodified":1563247472,
     "wof:name":"Beroun",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

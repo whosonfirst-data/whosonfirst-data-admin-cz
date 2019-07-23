@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u043b\u0430\u0448\u043a\u0435 \u041c\u0435\u0437\u0438\u0440\u0436\u0438\u0447\u0438"
     ],
+    "name:bul_x_variant":[
+        "\u0412\u0430\u043b\u0430\u0448\u0441\u043a\u0435 \u041c\u0435\u0437\u0438\u0440\u0436\u0438\u0447\u0438"
+    ],
     "name:cat_x_preferred":[
         "Vala\u0161sk\u00e9 Mezi\u0159\u00ed\u010d\u00ed"
     ],
@@ -50,6 +53,9 @@
     "name:epo_x_preferred":[
         "Vala\u0161sk\u00e9 Mezi\u0159\u00ed\u010d\u00ed"
     ],
+    "name:eus_x_preferred":[
+        "Vala\u0161sk\u00e9 Mezi\u0159\u00ed\u010d\u00ed"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u0644\u0627\u0634\u0633\u06a9\u0647 \u0645\u0632\u06cc\u0631\u0698\u06cc\u0686\u06cc"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a1\u30e9\u30b7\u30e5\u30b9\u30b1\u30fc\u30fb\u30e1\u30b8\u30b8\u30fc\u30c1\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc1c\ub77c\uc288\uc2a4\ucf00\uba54\uc9c0\ub974\uc9c0\uce58"
     ],
     "name:lav_x_preferred":[
         "Vala\u0161ske Mezir\u017e\u012b\u010di"
@@ -116,6 +125,9 @@
     "name:slv_x_preferred":[
         "Vala\u0161sk\u00e9 Mezi\u0159\u00ed\u010d\u00ed"
     ],
+    "name:spa_x_preferred":[
+        "Vala\u0161sk\u00e9 Mezi\u0159\u00ed\u010d\u00ed"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0430\u043b\u0430\u0448\u043a\u0438 \u041c\u0435\u0437\u0438\u0440\u0438\u0447\u0438"
     ],
@@ -124,6 +136,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0412\u0430\u043b\u0430\u0448\u0441\u043a\u0435-\u041c\u0435\u0437\u0438\u0440\u0436\u0438\u0447\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Valasske Mezirici"
     ],
     "name:unk_x_variant":[
         "Walachison Mesiritsch"
@@ -178,7 +193,7 @@
         }
     ],
     "wof:id":101840849,
-    "wof:lastmodified":1561772379,
+    "wof:lastmodified":1563247615,
     "wof:name":"Vala\u0161sk\u00e9 Mezi\u0159\u00ed\u010d\u00ed",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

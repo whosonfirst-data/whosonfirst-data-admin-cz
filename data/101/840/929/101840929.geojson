@@ -26,7 +26,19 @@
     "name:deu_x_preferred":[
         "P\u00edsek u Jablunkova"
     ],
+    "name:eng_x_preferred":[
+        "P\u00edsek"
+    ],
     "name:epo_x_preferred":[
+        "P\u00edsek"
+    ],
+    "name:eus_x_preferred":[
+        "P\u00edsek"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0633\u06a9"
+    ],
+    "name:fra_x_preferred":[
         "P\u00edsek"
     ],
     "name:hun_x_preferred":[
@@ -38,6 +50,9 @@
     "name:msa_x_preferred":[
         "P\u00edsek"
     ],
+    "name:nan_x_preferred":[
+        "P\u00edsek"
+    ],
     "name:nld_x_preferred":[
         "P\u00edsek"
     ],
@@ -47,11 +62,29 @@
     "name:por_x_preferred":[
         "P\u00edsek"
     ],
+    "name:rup_x_preferred":[
+        "P\u00edsek"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0441\u0435\u043a"
     ],
+    "name:slk_x_preferred":[
+        "P\u00edsek"
+    ],
+    "name:spa_x_preferred":[
+        "P\u00edsek"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0441\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00edsek"
+    ],
     "name:unk_x_variant":[
         "Piasek"
+    ],
+    "name:vie_x_preferred":[
+        "P\u00edsek"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Moravskoslezsk\u00fd",
@@ -96,7 +129,7 @@
         }
     ],
     "wof:id":101840929,
-    "wof:lastmodified":1505338268,
+    "wof:lastmodified":1563247621,
     "wof:name":"P\u00edsek",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

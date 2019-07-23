@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u0646\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Sentice"
+    ],
     "name:ces_x_preferred":[
         "Sentice"
     ],
@@ -26,6 +32,9 @@
         "Sentice"
     ],
     "name:eng_x_preferred":[
+        "Sentice"
+    ],
+    "name:eus_x_preferred":[
         "Sentice"
     ],
     "name:fas_x_preferred":[
@@ -43,13 +52,22 @@
     "name:msa_x_preferred":[
         "Sentice"
     ],
+    "name:nan_x_preferred":[
+        "Sentice"
+    ],
     "name:nld_x_preferred":[
+        "Sentice"
+    ],
+    "name:pol_x_preferred":[
         "Sentice"
     ],
     "name:por_x_preferred":[
         "Sentice"
     ],
     "name:slk_x_preferred":[
+        "Sentice"
+    ],
+    "name:spa_x_preferred":[
         "Sentice"
     ],
     "name:swe_x_preferred":[
@@ -105,7 +123,7 @@
         }
     ],
     "wof:id":1125773463,
-    "wof:lastmodified":1561772561,
+    "wof:lastmodified":1563250669,
     "wof:name":"Sentice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

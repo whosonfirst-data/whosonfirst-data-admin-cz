@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1595097.987247,
+    "geom:area_square_m":1595097.987248,
     "geom:bbox":"14.6344913594,48.8870452688,14.6565212863,48.9080830454",
     "geom:latitude":48.896964,
     "geom:longitude":14.64379,
@@ -26,8 +26,17 @@
     "name:deu_x_preferred":[
         "Borovany"
     ],
+    "name:eng_x_preferred":[
+        "Borovany"
+    ],
     "name:epo_x_preferred":[
         "Borovany"
+    ],
+    "name:eus_x_preferred":[
+        "Borovany"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0648\u0627\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
         "Borovany"
@@ -41,17 +50,41 @@
     "name:msa_x_preferred":[
         "Borovany"
     ],
+    "name:nan_x_preferred":[
+        "Borovany"
+    ],
     "name:nld_x_preferred":[
         "Borovany"
     ],
     "name:pol_x_preferred":[
         "Borovany"
     ],
+    "name:por_x_preferred":[
+        "Borovany"
+    ],
+    "name:rup_x_preferred":[
+        "Borovany"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0430\u043d\u0438"
     ],
+    "name:slk_x_preferred":[
+        "Borovany"
+    ],
+    "name:spa_x_preferred":[
+        "Borovany"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Borovany"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Borovany"
     ],
     "name:zho_x_preferred":[
         "\u535a\u7f85\u74e6\u5c3c"
@@ -99,7 +132,7 @@
         }
     ],
     "wof:id":101780881,
-    "wof:lastmodified":1505337902,
+    "wof:lastmodified":1563247868,
     "wof:name":"Borovany",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

@@ -27,8 +27,14 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0623\u0648\u0644\u0648\u0645\u0648\u062a\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0644\u0648\u0645\u0648\u062a\u0633 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Olomoutskiy diyar\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u041e\u043b\u043e\u043c\u043e\u0443\u0446 \u043a\u0440\u0430\u0439\u044b"
     ],
     "name:bel_x_preferred":[
         "\u041e\u043b\u0430\u043c\u0430\u045e\u0446\u043a\u0456 \u043a\u0440\u0430\u0439"
@@ -48,6 +54,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Olomouc"
     ],
+    "name:ceb_x_preferred":[
+        "Olomouck\u00fd kraj"
+    ],
     "name:ces_x_preferred":[
         "Olomouck\u00fd kraj"
     ],
@@ -65,6 +74,9 @@
     ],
     "name:eng_x_preferred":[
         "Olomouck\u00fd"
+    ],
+    "name:eng_x_variant":[
+        "Olomouc Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Olomouc"
@@ -84,6 +96,12 @@
     "name:fra_x_preferred":[
         "r\u00e9gion d'Olomouc"
     ],
+    "name:fra_x_variant":[
+        "Olomouc"
+    ],
+    "name:frr_x_preferred":[
+        "Olomouc"
+    ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab2\u0acb\u0aae\u0acc\u0a95 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -95,6 +113,9 @@
     ],
     "name:hrv_x_preferred":[
         "Olomou\u010dki kraj"
+    ],
+    "name:hsb_x_preferred":[
+        "Olomouck\u00fd kraj"
     ],
     "name:hun_x_preferred":[
         "Olomouci ker\u00fclet"
@@ -116,6 +137,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc62c\ub85c\ubaa8\uc6b0\uce20 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc62c\ub85c\ubaa8\uc6b0\uce20\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Olomoucas apgabals"
@@ -158,6 +182,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Olomouc"
+    ],
+    "name:ron_x_variant":[
+        "Olomouc"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u043e\u043c\u043e\u0443\u0446\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
@@ -323,7 +350,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1561772301,
+    "wof:lastmodified":1563246439,
     "wof:name":"Olomouck\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

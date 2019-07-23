@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0440\u0443\u043d\u0442\u0430\u043b\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0440\u0443\u043d\u0442\u0430\u043b"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0442\u0430\u043b"
     ],
@@ -54,6 +57,9 @@
     "name:epo_x_preferred":[
         "Brunt\u00e1l"
     ],
+    "name:eus_x_preferred":[
+        "Brunt\u00e1l"
+    ],
     "name:fra_x_preferred":[
         "Brunt\u00e1l"
     ],
@@ -66,6 +72,9 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30eb\u30f3\u30bf\u30fc\u30eb"
     ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub8ec\ud0c8"
+    ],
     "name:lav_x_preferred":[
         "Brunt\u0101la"
     ],
@@ -73,6 +82,9 @@
         "Bruntalas"
     ],
     "name:msa_x_preferred":[
+        "Brunt\u00e1l"
+    ],
+    "name:nan_x_preferred":[
         "Brunt\u00e1l"
     ],
     "name:nld_x_preferred":[
@@ -113,6 +125,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0442\u0430\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0648\u0646\u062a\u0627\u0644"
     ],
     "name:vie_x_preferred":[
         "Brunt\u00e1l"
@@ -174,7 +189,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772390,
+    "wof:lastmodified":1563247754,
     "wof:name":"Brunt\u00e1l",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

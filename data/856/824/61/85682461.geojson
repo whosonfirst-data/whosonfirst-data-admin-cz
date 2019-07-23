@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0628\u0648\u0647\u064a\u0645\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
     ],
+    "name:arg_x_preferred":[
+        "Bohemia Central"
+    ],
     "name:aze_x_preferred":[
         "Orta \u00c7exiya diyar\u0131"
     ],
@@ -45,8 +48,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u0434\u043d\u043e\u0447\u0435\u0448\u043a\u0438 \u043a\u0440\u0430\u0439"
     ],
+    "name:bul_x_variant":[
+        "\u0421\u0440\u0435\u0434\u043d\u043e\u0431\u043e\u0445\u0435\u043c\u0441\u043a\u0438 \u043a\u0440\u0430\u0439"
+    ],
     "name:cat_x_preferred":[
         "Boh\u00e8mia Central"
+    ],
+    "name:ceb_x_preferred":[
+        "St\u0159edo\u010desk\u00fd kraj"
     ],
     "name:ces_x_preferred":[
         "St\u0159edo\u010desk\u00fd kraj"
@@ -115,14 +124,23 @@
     "name:hrv_x_preferred":[
         "Sredi\u0161nja \u010ce\u0161ka"
     ],
+    "name:hsb_x_preferred":[
+        "St\u0159edo\u010desk\u00fd kraj"
+    ],
     "name:hun_x_preferred":[
         "K\u00f6z\u00e9p-csehorsz\u00e1gi ker\u00fclet"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u0579\u0565\u056d\u0561\u056f\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Daerah Bohemia Tengah"
     ],
     "name:ita_x_preferred":[
         "Boemia centrale"
+    ],
+    "name:ita_x_variant":[
+        "Boemia Centrale"
     ],
     "name:jpn_x_preferred":[
         "\u4e2d\u592e\u30dc\u30d8\u30df\u30a2\u5dde"
@@ -136,11 +154,17 @@
     "name:kor_x_preferred":[
         "\uc911\uc559\ubcf4\ud5e4\ubbf8\uc544 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc911\uc559\ubcf4\ud5e4\ubbf8\uc544\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Centr\u0101l\u010dehijas apgabals"
     ],
     "name:lit_x_preferred":[
         "Vidurio \u010cekijos kra\u0161tas"
+    ],
+    "name:lmo_x_preferred":[
+        "Boemia centrala"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u092c\u094b\u0939\u0947\u092e\u093f\u092f\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -181,8 +205,14 @@
     "name:por_x_preferred":[
         "Bo\u00eamia Central"
     ],
+    "name:por_x_variant":[
+        "Bo\u00e9mia Central"
+    ],
     "name:ron_x_preferred":[
         "Regiunea Boemia Central\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Boemia Central\u0103"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0440\u0435\u0434\u043d\u0435\u0447\u0435\u0448\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
@@ -195,6 +225,9 @@
     ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Bohemia Central"
+    ],
+    "name:spa_x_variant":[
+        "Bohemia Central"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0440\u0435\u0434\u045a\u043e\u0447\u0435\u0448\u043a\u0438 \u043a\u0440\u0430\u0458"
@@ -225,6 +258,9 @@
     ],
     "name:vie_x_preferred":[
         "\u010cechy Trung"
+    ],
+    "name:vie_x_variant":[
+        "Trung Bohemia"
     ],
     "name:war_x_preferred":[
         "Butnga nga Bohemia"
@@ -346,7 +382,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1561772299,
+    "wof:lastmodified":1563246434,
     "wof:name":"St\u0159edo\u010desk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

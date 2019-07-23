@@ -26,7 +26,19 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:bos_x_preferred":[
+        "Dvorce"
+    ],
+    "name:ceb_x_preferred":[
+        "Dvorce"
+    ],
     "name:ces_x_preferred":[
+        "Dvorce"
+    ],
+    "name:eng_x_preferred":[
+        "Dvorce"
+    ],
+    "name:fra_x_preferred":[
         "Dvorce"
     ],
     "name:hbs_x_preferred":[
@@ -36,6 +48,9 @@
         "Dvorce"
     ],
     "name:nld_x_preferred":[
+        "Dvorce"
+    ],
+    "name:pol_x_preferred":[
         "Dvorce"
     ],
     "name:ron_x_preferred":[
@@ -110,7 +125,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772293,
+    "wof:lastmodified":1563246405,
     "wof:name":"Dvorce",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
-    "geom:area_square_m":1456925.228357,
+    "geom:area_square_m":1456925.228356,
     "geom:bbox":"18.1123880717,49.817277265,18.1337521909,49.834397603",
     "geom:latitude":49.826283,
     "geom:longitude":18.123972,
@@ -17,10 +17,25 @@
     "mps:longitude":18.125024,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "V\u0159esina"
+    ],
     "name:ces_x_preferred":[
         "V\u0159esina"
     ],
+    "name:deu_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:eng_x_preferred":[
+        "V\u0159esina"
+    ],
     "name:epo_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:fra_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:frr_x_preferred":[
         "V\u0159esina"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +52,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0440\u0435\u0441\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "V\u0159esina"
     ],
     "name:unk_x_variant":[
         "Wrzessin"
@@ -84,7 +102,7 @@
         }
     ],
     "wof:id":101840965,
-    "wof:lastmodified":1527715003,
+    "wof:lastmodified":1563247591,
     "wof:name":"V\u0159esina",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

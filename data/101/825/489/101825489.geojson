@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":657817.765769,
+    "geom:area_square_m":657817.76577,
     "geom:bbox":"18.1826150935,49.9409630841,18.1989335048,49.9502820101",
     "geom:latitude":49.945813,
     "geom:longitude":18.190547,
@@ -20,10 +20,25 @@
     "name:ceb_x_preferred":[
         "V\u0159esina"
     ],
+    "name:ceb_x_variant":[
+        "Vresina"
+    ],
     "name:ces_x_preferred":[
         "V\u0159esina"
     ],
+    "name:deu_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:eng_x_preferred":[
+        "V\u0159esina"
+    ],
     "name:epo_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:eus_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:fra_x_preferred":[
         "V\u0159esina"
     ],
     "name:hun_x_preferred":[
@@ -35,6 +50,9 @@
     "name:msa_x_preferred":[
         "V\u0159esina"
     ],
+    "name:nan_x_preferred":[
+        "V\u0159esina"
+    ],
     "name:nld_x_preferred":[
         "V\u0159esina"
     ],
@@ -44,7 +62,22 @@
     "name:por_x_preferred":[
         "V\u0159esina"
     ],
+    "name:rup_x_preferred":[
+        "V\u0159esina"
+    ],
     "name:slk_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:spa_x_preferred":[
+        "V\u0159esina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0435\u0441\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vresina"
+    ],
+    "name:vie_x_preferred":[
         "V\u0159esina"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -90,7 +123,7 @@
         }
     ],
     "wof:id":101825489,
-    "wof:lastmodified":1505338172,
+    "wof:lastmodified":1563247740,
     "wof:name":"V\u0159esina",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

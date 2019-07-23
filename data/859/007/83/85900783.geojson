@@ -26,12 +26,18 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0445\u043b\u0435"
+    ],
     "name:ces_x_preferred":[
         "Michle"
     ],
     "name:cze_x_variant":[
         "Praha 10-Michle",
         "Praha 4-Michle"
+    ],
+    "name:deu_x_preferred":[
+        "Michle"
     ],
     "name:eng_x_preferred":[
         "Michle"
@@ -84,7 +90,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772285,
+    "wof:lastmodified":1563246372,
     "wof:name":"Michle",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

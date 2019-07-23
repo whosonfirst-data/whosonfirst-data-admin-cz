@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
-    "geom:area_square_m":1096660.17491,
+    "geom:area_square_m":1096660.174909,
     "geom:bbox":"16.9615903835,48.7858003342,16.9845093744,48.7990946164",
     "geom:latitude":48.793007,
     "geom:longitude":16.972448,
@@ -17,6 +17,9 @@
     "mps:longitude":16.970712,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0647\u0631\u0648\u0634\u06a9\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "Hru\u0161ky"
     ],
@@ -25,6 +28,15 @@
     ],
     "name:deu_x_preferred":[
         "Hru\u0161ky"
+    ],
+    "name:eng_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:eus_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0648\u0634\u06a9\u06cc"
     ],
     "name:fra_x_preferred":[
         "Hru\u0161ky"
@@ -38,6 +50,9 @@
     "name:msa_x_preferred":[
         "Hru\u0161ky"
     ],
+    "name:nan_x_preferred":[
+        "Hru\u0161ky"
+    ],
     "name:nld_x_preferred":[
         "Hru\u0161ky"
     ],
@@ -47,8 +62,26 @@
     "name:por_x_preferred":[
         "Hru\u0161ky"
     ],
+    "name:rup_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:slk_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:spa_x_preferred":[
+        "Hru\u0161ky"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0443\u0448\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Hru\u0161ky"
+    ],
     "name:unk_x_variant":[
         "Birnbaum"
+    ],
+    "name:vie_x_preferred":[
+        "Hru\u0161ky"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Jihomoravsk\u00fd",
@@ -93,7 +126,7 @@
         }
     ],
     "wof:id":101781023,
-    "wof:lastmodified":1507750683,
+    "wof:lastmodified":1563247818,
     "wof:name":"Hru\u0161ky",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

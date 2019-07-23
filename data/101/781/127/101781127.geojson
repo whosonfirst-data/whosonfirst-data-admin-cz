@@ -17,6 +17,12 @@
     "mps:longitude":16.397811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0644\u0628\u0631\u0627\u0645\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Olbramovice"
+    ],
     "name:ces_x_preferred":[
         "Olbramovice"
     ],
@@ -26,11 +32,17 @@
     "name:eng_x_preferred":[
         "Olbramovice"
     ],
+    "name:eus_x_preferred":[
+        "Olbramovice"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0644\u0628\u0631\u0627\u0645\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
         "Olbramovice"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05dc\u05e4\u05e8\u05de\u05d9\u05e5"
     ],
     "name:hun_x_preferred":[
         "Olbramovice"
@@ -63,6 +75,9 @@
         "Olbramovice"
     ],
     "name:slv_x_preferred":[
+        "Olbramovice"
+    ],
+    "name:spa_x_preferred":[
         "Olbramovice"
     ],
     "name:srp_x_preferred":[
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":101781127,
-    "wof:lastmodified":1561772395,
+    "wof:lastmodified":1563247832,
     "wof:name":"Olbramovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

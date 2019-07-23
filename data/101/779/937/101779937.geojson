@@ -17,6 +17,9 @@
     "mps:longitude":16.722165,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u062f\u0648\u0644\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "Podol\u00ed"
     ],
@@ -35,6 +38,12 @@
     "name:eng_x_preferred":[
         "Podol\u00ed"
     ],
+    "name:eus_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062f\u0648\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Podol\u00ed"
     ],
@@ -47,6 +56,9 @@
     "name:msa_x_preferred":[
         "Podol\u00ed"
     ],
+    "name:nan_x_preferred":[
+        "Podol\u00ed"
+    ],
     "name:nld_x_preferred":[
         "Podol\u00ed"
     ],
@@ -56,10 +68,19 @@
     "name:por_x_preferred":[
         "Podol\u00ed"
     ],
+    "name:rup_x_preferred":[
+        "Podol\u00ed"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0434\u043e\u043b\u0438"
     ],
     "name:slk_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:swe_x_preferred":[
         "Podol\u00ed"
     ],
     "name:unk_x_variant":[
@@ -112,7 +133,7 @@
         }
     ],
     "wof:id":101779937,
-    "wof:lastmodified":1507750682,
+    "wof:lastmodified":1563247405,
     "wof:name":"Podol\u00ed",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

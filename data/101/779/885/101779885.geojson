@@ -17,6 +17,9 @@
     "mps:longitude":17.525721,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u067e\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Popovice"
     ],
@@ -25,6 +28,15 @@
     ],
     "name:deu_x_preferred":[
         "Popovice u Uhersk\u00e9ho Hradi\u0161t\u011b"
+    ],
+    "name:eng_x_preferred":[
+        "Popovice"
+    ],
+    "name:eus_x_preferred":[
+        "Popovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u067e\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
         "Popovice"
@@ -38,6 +50,9 @@
     "name:msa_x_preferred":[
         "Popovice"
     ],
+    "name:nan_x_preferred":[
+        "Popovice"
+    ],
     "name:nld_x_preferred":[
         "Popovice"
     ],
@@ -47,8 +62,26 @@
     "name:por_x_preferred":[
         "Popovice"
     ],
+    "name:rup_x_preferred":[
+        "Popovice"
+    ],
+    "name:slk_x_preferred":[
+        "Popovice"
+    ],
+    "name:spa_x_preferred":[
+        "Popovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Popovice"
+    ],
     "name:unk_x_variant":[
         "Popowitz"
+    ],
+    "name:vie_x_preferred":[
+        "Popovice"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Zl\u00ednsk\u00fd",
@@ -94,7 +127,7 @@
         }
     ],
     "wof:id":101779885,
-    "wof:lastmodified":1507750682,
+    "wof:lastmodified":1563247441,
     "wof:name":"Popovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0631\u0648\u0632\u0633\u0648\u062e\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u0437\u0441\u043e\u0447\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Rozsochy"
     ],
     "name:ces_x_preferred":[
         "Rozsochy"
@@ -29,6 +35,9 @@
         "Rozsochy"
     ],
     "name:eng_x_preferred":[
+        "Rozsochy"
+    ],
+    "name:eus_x_preferred":[
         "Rozsochy"
     ],
     "name:fas_x_preferred":[
@@ -59,6 +68,9 @@
         "Rozsochy"
     ],
     "name:slk_x_preferred":[
+        "Rozsochy"
+    ],
+    "name:spa_x_preferred":[
         "Rozsochy"
     ],
     "name:swe_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125844211,
-    "wof:lastmodified":1561772557,
+    "wof:lastmodified":1563250625,
     "wof:name":"Rozsocha",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

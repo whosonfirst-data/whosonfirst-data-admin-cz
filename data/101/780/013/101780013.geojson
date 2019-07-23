@@ -17,6 +17,9 @@
     "mps:longitude":15.394345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062a\u0644\u0648\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0442\u0435\u043b\u043e\u0432"
     ],
@@ -26,10 +29,16 @@
     "name:ces_x_preferred":[
         "Batelov"
     ],
+    "name:deu_x_preferred":[
+        "Batelov"
+    ],
     "name:eng_x_preferred":[
         "Batelov"
     ],
     "name:epo_x_preferred":[
+        "Batelov"
+    ],
+    "name:eus_x_preferred":[
         "Batelov"
     ],
     "name:fas_x_preferred":[
@@ -47,6 +56,9 @@
     "name:msa_x_preferred":[
         "Batelov"
     ],
+    "name:nan_x_preferred":[
+        "Batelov"
+    ],
     "name:nld_x_preferred":[
         "Batelov"
     ],
@@ -56,7 +68,13 @@
     "name:por_x_preferred":[
         "Batelov"
     ],
+    "name:por_x_variant":[
+        "Bo\u017eejov"
+    ],
     "name:slk_x_preferred":[
+        "Batelov"
+    ],
+    "name:spa_x_preferred":[
         "Batelov"
     ],
     "name:srp_x_preferred":[
@@ -70,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "Batelov"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u6cf0\u6d1b\u592b"
     ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Vysocina",
@@ -115,7 +136,7 @@
         }
     ],
     "wof:id":101780013,
-    "wof:lastmodified":1561772398,
+    "wof:lastmodified":1563247867,
     "wof:name":"Batelov",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

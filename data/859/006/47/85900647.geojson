@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u0627\u062f\u0634\u0627\u0646\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0647\u0631\u0627\u062f\u0634\u0627\u0646\u064a"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0447\u0430\u043d\u044b"
     ],
@@ -95,11 +98,17 @@
     "name:hun_x_preferred":[
         "Hradzsin"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0580\u0561\u0564\u0579\u0561\u0576\u056b"
+    ],
     "name:ita_x_preferred":[
         "Hrad\u010dany"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30e9\u30c3\u30c1\u30e3\u30cb"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0440\u0430\u0434\u0447\u0430\u043d\u0438"
     ],
     "name:nld_x_preferred":[
         "Hrad\u010dany"
@@ -177,7 +186,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772295,
+    "wof:lastmodified":1563246414,
     "wof:name":"Hradcany",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

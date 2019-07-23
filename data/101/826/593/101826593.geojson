@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":508366.839248,
+    "geom:area_square_m":508366.839249,
     "geom:bbox":"17.5076075056,49.473637835,17.5246468721,49.4802622865",
     "geom:latitude":49.477051,
     "geom:longitude":17.516167,
@@ -17,6 +17,9 @@
     "mps:longitude":17.516167,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0631\u0627\u062f\u0633\u0644\u0627\u0648\u06cc\u062a\u0633\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Radslavice"
     ],
@@ -26,6 +29,18 @@
     "name:deu_x_preferred":[
         "Radslavice u P\u0159erova"
     ],
+    "name:eng_x_preferred":[
+        "Radslavice"
+    ],
+    "name:eus_x_preferred":[
+        "Radslavice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u062f\u0633\u0644\u0627\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Radslavice"
+    ],
     "name:hun_x_preferred":[
         "Radslavice"
     ],
@@ -33,6 +48,9 @@
         "Radslavice"
     ],
     "name:msa_x_preferred":[
+        "Radslavice"
+    ],
+    "name:nan_x_preferred":[
         "Radslavice"
     ],
     "name:nld_x_preferred":[
@@ -44,7 +62,22 @@
     "name:por_x_preferred":[
         "Radslavice"
     ],
+    "name:rup_x_preferred":[
+        "Radslavice"
+    ],
     "name:slk_x_preferred":[
+        "Radslavice"
+    ],
+    "name:spa_x_preferred":[
+        "Radslavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0441\u043b\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Radslavice"
+    ],
+    "name:vie_x_preferred":[
         "Radslavice"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -90,7 +123,7 @@
         }
     ],
     "wof:id":101826593,
-    "wof:lastmodified":1507750720,
+    "wof:lastmodified":1563247270,
     "wof:name":"Radslavice",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",
