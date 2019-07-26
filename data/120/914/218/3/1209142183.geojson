@@ -26,6 +26,39 @@
     "iso:country":"CZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Obora"
+    ],
+    "name:ces_x_preferred":[
+        "Obora"
+    ],
+    "name:deu_x_preferred":[
+        "Obora"
+    ],
+    "name:fra_x_preferred":[
+        "Obora"
+    ],
+    "name:ita_x_preferred":[
+        "Obora"
+    ],
+    "name:nld_x_preferred":[
+        "Obora"
+    ],
+    "name:pol_x_preferred":[
+        "Obora"
+    ],
+    "name:slk_x_preferred":[
+        "Obora"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0431\u043e\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Obora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u043e\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +68,7 @@
         "gn:id":3069203
     },
     "wof:country":"CZ",
-    "wof:geomhash":"2852dc5a961c1ed398294c088b31a0b5",
+    "wof:geomhash":"4418708b047f4573a0c552c04b147fb9",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +76,7 @@
         }
     ],
     "wof:id":1209142183,
-    "wof:lastmodified":1536296468,
+    "wof:lastmodified":1564101722,
     "wof:name":"Obora",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +86,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.116879999999998,
+    14.11688,
     49.06351,
-    14.116879999999998,
+    14.11688,
     49.06351
 ],
   "geometry": {"coordinates":[14.11688,49.06351],"type":"Point"}

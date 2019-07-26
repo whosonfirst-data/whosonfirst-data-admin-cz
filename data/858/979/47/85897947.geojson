@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":27783615.829022,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.159864,50.342584,18.159864,50.342584",
     "geom:latitude":50.342584,
     "geom:longitude":18.159864,
@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Kosel"
     ],
+    "name:ces_x_preferred":[
+        "Kosel"
+    ],
     "name:deu_x_preferred":[
         "Kosel"
     ],
@@ -33,6 +36,9 @@
         "Kosel"
     ],
     "name:pol_x_preferred":[
+        "Kosel"
+    ],
+    "name:swe_x_preferred":[
         "Kosel"
     ],
     "name:unk_x_variant":[
@@ -70,10 +76,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85687313,
         102191581,
         85633723,
-        102079523,
-        85687313
+        102079523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +103,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1531931979,
+    "wof:lastmodified":1564101260,
     "wof:name":"Kosel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

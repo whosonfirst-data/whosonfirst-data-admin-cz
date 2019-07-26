@@ -26,6 +26,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Gro\u00dfer Garten"
+    ],
     "name:deu_x_colloquial":[
         "Grosser Garten"
     ],
@@ -34,6 +37,18 @@
     ],
     "name:deu_x_variant":[
         "Gro\u00dfergarten"
+    ],
+    "name:nld_x_preferred":[
+        "Gro\u00dfer Garten"
+    ],
+    "name:nor_x_preferred":[
+        "Grosser Garten"
+    ],
+    "name:pol_x_preferred":[
+        "Gro\u00dfer Garten"
+    ],
+    "name:spa_x_preferred":[
+        "Gro\u00dfer Garten"
     ],
     "name:unk_x_variant":[
         "Pfaffendorf",
@@ -68,12 +83,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682523,
         102191581,
         1377686581,
         85633111,
         101752773,
-        102064219
+        102064219,
+        85682523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +113,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1558999240,
+    "wof:lastmodified":1564101259,
     "wof:name":"Gro\u00dfer Garten",
     "wof:parent_id":101752773,
     "wof:placetype":"neighbourhood",
