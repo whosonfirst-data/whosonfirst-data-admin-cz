@@ -29,6 +29,24 @@
     "name:deu_x_preferred":[
         "Suchey"
     ],
+    "name:deu_x_variant":[
+        "Suche"
+    ],
+    "name:fra_x_preferred":[
+        "Suche"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u056d\u0578\u0565"
+    ],
+    "name:pol_x_preferred":[
+        "Suche"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0445\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0445\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1226783345,
-    "wof:lastmodified":1537504021,
+    "wof:lastmodified":1564103313,
     "wof:name":"Suche",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"CZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Nova Ves"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +38,7 @@
         "gn:id":3069646
     },
     "wof:country":"CZ",
-    "wof:geomhash":"6c7b8f485d0de7c575d78393b9e39b29",
+    "wof:geomhash":"7e07c8c044a18b93def271fb761da4e2",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209550381,
-    "wof:lastmodified":1536283714,
+    "wof:lastmodified":1564101671,
     "wof:name":"Nova Ves",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.983770000000002,
+    14.98377,
     48.90088,
-    14.983770000000002,
+    14.98377,
     48.90088
 ],
   "geometry": {"coordinates":[14.98377,48.90088],"type":"Point"}

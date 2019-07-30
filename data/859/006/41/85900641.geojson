@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0631\u0646\u06cc \u0648\u0633"
+    ],
     "name:ceb_x_preferred":[
         "Horn\u00ed Ves"
     ],
@@ -40,6 +43,15 @@
     "name:deu_x_preferred":[
         "Horn\u00ed Ves"
     ],
+    "name:eus_x_preferred":[
+        "Horn\u00ed Ves"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0631\u0646\u06cc \u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Horn\u00ed Ves"
+    ],
     "name:hun_x_preferred":[
         "Horn\u00ed Ves"
     ],
@@ -52,17 +64,29 @@
     "name:nld_x_preferred":[
         "Horn\u00ed Ves"
     ],
+    "name:pol_x_preferred":[
+        "Horn\u00ed Ves"
+    ],
     "name:por_x_preferred":[
         "Horn\u00ed Ves"
     ],
     "name:slk_x_preferred":[
         "Horn\u00ed Ves"
     ],
+    "name:spa_x_preferred":[
+        "Horn\u00ed Ves"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0440\u045a\u0438 \u0412\u0435\u0441"
     ],
+    "name:swe_x_preferred":[
+        "Horn\u00ed Ves"
+    ],
     "name:unk_x_variant":[
         "Oberdorf",
+        "Horn\u00ed Ves"
+    ],
+    "name:vie_x_preferred":[
         "Horn\u00ed Ves"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -124,7 +148,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772295,
+    "wof:lastmodified":1564101255,
     "wof:name":"Horn\u00ed Ves",
     "wof:parent_id":101748145,
     "wof:placetype":"neighbourhood",

@@ -26,6 +26,36 @@
     "iso:country":"CZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Srbice"
+    ],
+    "name:ces_x_preferred":[
+        "Srbice"
+    ],
+    "name:deu_x_preferred":[
+        "Srbice"
+    ],
+    "name:fra_x_preferred":[
+        "Srbice"
+    ],
+    "name:ita_x_preferred":[
+        "Srbice"
+    ],
+    "name:nld_x_preferred":[
+        "Srbice"
+    ],
+    "name:pol_x_preferred":[
+        "Srbice"
+    ],
+    "name:slk_x_preferred":[
+        "Srbice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0431\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Srbice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +65,7 @@
         "gn:id":3065490
     },
     "wof:country":"CZ",
-    "wof:geomhash":"86ee1ef0b9d65a6718c815620bbb101a",
+    "wof:geomhash":"56c78e385b974e1b52420b69fd0554ed",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +73,7 @@
         }
     ],
     "wof:id":1209446041,
-    "wof:lastmodified":1536286816,
+    "wof:lastmodified":1564101805,
     "wof:name":"Srbice",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +83,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.344779999999998,
+    13.34478,
     49.35174,
-    13.344779999999998,
+    13.34478,
     49.35174
 ],
   "geometry": {"coordinates":[13.34478,49.35174],"type":"Point"}

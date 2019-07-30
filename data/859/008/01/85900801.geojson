@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:azb_x_preferred":[
+        "\u0646\u0645\u0627\u0646\u06cc\u062a\u0633\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Nemanice"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:deu_x_preferred":[
         "Nemanice"
+    ],
+    "name:eus_x_preferred":[
+        "Nemanice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0645\u0627\u0646\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
         "Nemanice"
@@ -56,6 +65,9 @@
         "Nemanice"
     ],
     "name:slk_x_preferred":[
+        "Nemanice"
+    ],
+    "name:spa_x_preferred":[
         "Nemanice"
     ],
     "name:srp_x_preferred":[
@@ -130,7 +142,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772291,
+    "wof:lastmodified":1564101250,
     "wof:name":"Nemanice",
     "wof:parent_id":101748103,
     "wof:placetype":"neighbourhood",
