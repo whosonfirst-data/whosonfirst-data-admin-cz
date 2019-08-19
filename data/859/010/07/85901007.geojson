@@ -79,7 +79,11 @@
         "Vyso\u010dany"
     ],
     "name:ces_x_variant":[
-        "Vysocany"
+        "Vysocany",
+        "Praha 3-Vysocany",
+        "Praha 9-Vysocany",
+        "Vysocan",
+        "Wysocan"
     ],
     "name:cha_x_preferred":[
         "Vyso\u010dany"
@@ -106,13 +110,6 @@
         "Vyso\u010dany"
     ],
     "name:cym_x_preferred":[
-        "Vyso\u010dany"
-    ],
-    "name:cze_x_variant":[
-        "Praha 3-Vysocany",
-        "Praha 9-Vysocany",
-        "Vysocan",
-        "Wysocan",
         "Vyso\u010dany"
     ],
     "name:dan_x_preferred":[
@@ -579,7 +576,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -611,7 +608,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246417,
+    "wof:lastmodified":1566247485,
     "wof:name":"Vysocany",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

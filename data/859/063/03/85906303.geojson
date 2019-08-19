@@ -31,17 +31,17 @@
     "name:ceb_x_preferred":[
         "\u010cern\u00fd Most"
     ],
-    "name:ces_x_preferred":[
-        "\u010cern\u00fd Most"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Cerny Most",
         "Eerny Most",
         "Praha 9-AeernA Most",
         "Praha 9-AernA Most",
         "Praha 9-Cerny Most"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "\u010cern\u00fd Most"
+    ],
+    "name:ces_x_variant":[
         "Praha 9-\u00c4ern\u00e3 Most",
         "\u00c8ern\u00fd Most"
     ],
@@ -101,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":340,
     "wof:belongsto":[
@@ -134,7 +134,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772289,
+    "wof:lastmodified":1566247485,
     "wof:name":"Cerny Most",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

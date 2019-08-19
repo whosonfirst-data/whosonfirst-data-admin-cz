@@ -25,17 +25,14 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ces_x_colloquial":[
+        "Komooany",
+        "Komooeany"
+    ],
     "name:ces_x_preferred":[
         "Komo\u00f8any"
     ],
     "name:ces_x_variant":[
-        "Komo\u0159any"
-    ],
-    "name:cze_x_colloquial":[
-        "Komooany",
-        "Komooeany"
-    ],
-    "name:cze_x_variant":[
         "Komo\u0159any"
     ],
     "name:eng_x_preferred":[
@@ -58,7 +55,7 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101825701,
@@ -86,7 +83,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246390,
+    "wof:lastmodified":1566247484,
     "wof:name":"Komorany",
     "wof:parent_id":101825701,
     "wof:placetype":"neighbourhood",

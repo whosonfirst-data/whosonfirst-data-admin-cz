@@ -25,10 +25,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "B\u011bchovice"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Bechovice",
         "Bechowitz",
         "Praha 9-BATchovice",
@@ -37,7 +34,10 @@
         "Praha-Baetchovice",
         "Praha-Batchovice"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "B\u011bchovice"
+    ],
+    "name:ces_x_variant":[
         "Praha-Bechovice",
         "Bchowitz",
         "Praha 9-B\u00e4\u0167chovice",
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101825233,
@@ -114,7 +114,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246427,
+    "wof:lastmodified":1566247483,
     "wof:name":"Bechovice",
     "wof:parent_id":101825233,
     "wof:placetype":"neighbourhood",

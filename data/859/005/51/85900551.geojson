@@ -26,10 +26,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "\u010cakovice"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Cakovice",
         "Praha 9-Aakovice",
         "Praha 9-Aeakovice",
@@ -37,7 +34,10 @@
         "Praha-Aakovice",
         "Praha-Aeakovice"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "\u010cakovice"
+    ],
+    "name:ces_x_variant":[
         "Praha 9-\u00c4akovice",
         "Praha-Cakovice",
         "Gross Cakowitz",
@@ -101,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101754435,
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":85900551,
-    "wof:lastmodified":1561772297,
+    "wof:lastmodified":1566247483,
     "wof:name":"Cakovice",
     "wof:parent_id":101754435,
     "wof:placetype":"neighbourhood",

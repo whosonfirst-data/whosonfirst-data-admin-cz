@@ -25,13 +25,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "\u010e\u00e1blice"
-    ],
-    "name:ces_x_variant":[
-        "Praha-D\u00e1blice"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Dablice",
         "Praha 8-AOAcblice",
         "Praha 8-AeOAcblice",
@@ -40,8 +34,12 @@
         "Praha-Aoacblice",
         "Praha-Dablice"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
         "\u010e\u00e1blice"
+    ],
+    "name:ces_x_variant":[
+        "Praha-D\u00e1blice",
+        "D\u00e1blice"
     ],
     "name:deu_x_preferred":[
         "\u010e\u00e1blice"
@@ -75,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -104,7 +102,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772297,
+    "wof:lastmodified":1566247481,
     "wof:name":"Dablice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

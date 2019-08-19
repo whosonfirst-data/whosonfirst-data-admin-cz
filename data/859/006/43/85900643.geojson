@@ -78,6 +78,9 @@
     "name:ces_x_preferred":[
         "Hostavice"
     ],
+    "name:ces_x_variant":[
+        "Praha 9-Hostavice"
+    ],
     "name:cha_x_preferred":[
         "Hostavice"
     ],
@@ -104,9 +107,6 @@
     ],
     "name:cym_x_preferred":[
         "Hostavice"
-    ],
-    "name:cze_x_variant":[
-        "Praha 9-Hostavice"
     ],
     "name:dan_x_preferred":[
         "Hostavice"
@@ -565,7 +565,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -593,7 +593,7 @@
         }
     ],
     "wof:id":85900643,
-    "wof:lastmodified":1563246408,
+    "wof:lastmodified":1566247483,
     "wof:name":"Hostavice",
     "wof:parent_id":101758551,
     "wof:placetype":"neighbourhood",

@@ -33,14 +33,14 @@
     "name:ceb_x_preferred":[
         "Karl\u00edn"
     ],
-    "name:ces_x_preferred":[
-        "Karl\u00edn"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Karlin",
         "Praha 8-Karlin"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Karl\u00edn"
+    ],
+    "name:ces_x_variant":[
         "Karolinenthal",
         "Praha 8-Karl\u00edn"
     ],
@@ -119,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":367,
     "wof:belongsto":[
@@ -152,7 +152,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246411,
+    "wof:lastmodified":1566247482,
     "wof:name":"Karlin",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

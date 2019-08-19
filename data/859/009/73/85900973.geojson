@@ -30,13 +30,10 @@
         "Uhrineves"
     ],
     "name:ces_x_variant":[
-        "Uh\u0159\u00edn\u011bves"
-    ],
-    "name:cze_x_variant":[
+        "Uh\u0159\u00edn\u011bves",
         "Aurinowes",
         "Praha 10-Uhrineves",
-        "Praha-Uhrineves",
-        "Uh\u0159\u00edn\u011bves"
+        "Praha-Uhrineves"
     ],
     "name:deu_x_preferred":[
         "Uh\u0159\u00edn\u011bves"
@@ -95,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101754445,
@@ -125,7 +122,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246379,
+    "wof:lastmodified":1566247485,
     "wof:name":"Uhrineves",
     "wof:parent_id":101754445,
     "wof:placetype":"neighbourhood",

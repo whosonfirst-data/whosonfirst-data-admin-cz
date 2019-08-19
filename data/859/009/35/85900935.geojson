@@ -25,24 +25,21 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Praha-\u00c5t\u00e4\u0167rboholy"
-    ],
-    "name:ces_x_variant":[
-        "\u0160t\u011brboholy"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha-Aataetrboholy",
         "Praha-Atatrboholy",
         "Praha-Sterboholy"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Praha-\u00c5t\u00e4\u0167rboholy"
+    ],
+    "name:ces_x_variant":[
+        "\u0160t\u011brboholy",
         "Iterboholy",
         "Praha 10-Sterboholy",
         "Praha-Iterboholy",
         "Sterboholy",
-        "Praha-\u0160t\u011brboholy",
-        "\u0160t\u011brboholy"
+        "Praha-\u0160t\u011brboholy"
     ],
     "name:deu_x_preferred":[
         "\u0160t\u011brboholy"
@@ -70,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -99,7 +96,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246375,
+    "wof:lastmodified":1566247484,
     "wof:name":"Sterboholy",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

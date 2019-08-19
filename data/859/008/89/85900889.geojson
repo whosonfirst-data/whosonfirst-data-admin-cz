@@ -26,16 +26,14 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ces_x_colloquial":[
+        "Santoska"
+    ],
     "name:ces_x_preferred":[
         "Santo\u0161ka"
     ],
     "name:ces_x_variant":[
-        "Santo\u00b5ka"
-    ],
-    "name:cze_x_colloquial":[
-        "Santoska"
-    ],
-    "name:cze_x_variant":[
+        "Santo\u00b5ka",
         "Sto.\u00b5ka",
         "Sto\u00b5ka"
     ],
@@ -71,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -100,7 +98,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772290,
+    "wof:lastmodified":1566247484,
     "wof:name":"Santo\u00b5ka",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

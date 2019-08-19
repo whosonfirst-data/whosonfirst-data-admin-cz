@@ -25,13 +25,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Praha-Libu\u00e5\u010d"
-    ],
-    "name:ces_x_variant":[
-        "Libu\u0161"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Libus",
         "Praha 4-LibuAac",
         "Praha 4-LibuAc",
@@ -41,7 +35,10 @@
         "Praha-Libus",
         "Praha-Libut"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Praha-Libu\u00e5\u010d"
+    ],
+    "name:ces_x_variant":[
         "Libu\u0161",
         "Praha 4-Libu\u00e5\u010d",
         "Praha-Libu"
@@ -72,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -101,7 +98,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246372,
+    "wof:lastmodified":1566247482,
     "wof:name":"Praha-Libu\u00e5\u010d",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

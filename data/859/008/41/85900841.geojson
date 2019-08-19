@@ -25,12 +25,12 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Podho\u00ed"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Podhoi",
         "Podhori"
+    ],
+    "name:ces_x_preferred":[
+        "Podho\u00ed"
     ],
     "name:unk_x_variant":[
         "Podho\u00ed"
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -91,7 +91,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772291,
+    "wof:lastmodified":1566247483,
     "wof:name":"Podho\u00ed",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

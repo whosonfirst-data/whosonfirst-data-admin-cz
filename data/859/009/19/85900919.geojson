@@ -26,14 +26,14 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Sob\u00edn"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha 5-Sobin",
         "Sobin"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Sob\u00edn"
+    ],
+    "name:ces_x_variant":[
         "Praha 5-Sob\u00edn"
     ],
     "name:eng_x_preferred":[
@@ -53,7 +53,7 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682461
@@ -78,7 +78,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772287,
+    "wof:lastmodified":1566247484,
     "wof:name":"Sobin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

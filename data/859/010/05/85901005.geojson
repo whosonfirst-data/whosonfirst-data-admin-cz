@@ -34,16 +34,16 @@
     "name:ceb_x_preferred":[
         "Vy\u0161ehrad"
     ],
-    "name:ces_x_preferred":[
-        "Vy\u0161ehrad"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha 2-VyAacehrad",
         "Praha 2-VyAcehrad",
         "Praha 2-Vysehrad",
         "Vysehrad"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Vy\u0161ehrad"
+    ],
+    "name:ces_x_variant":[
         "Praha 2-Vy\u00e5\u010dehrad"
     ],
     "name:dan_x_preferred":[
@@ -164,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":697,
     "wof:belongsto":[
         102191581,
@@ -194,7 +194,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246415,
+    "wof:lastmodified":1566247485,
     "wof:name":"Vysehrad",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

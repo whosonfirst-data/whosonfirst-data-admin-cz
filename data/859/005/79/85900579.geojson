@@ -26,19 +26,17 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Doln\u00ed Chabry"
-    ],
-    "name:ces_x_variant":[
-        "Praha-Doln\u00ed Chabry"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Dolni Chabry",
         "Praha 8-Dolni Chabry",
         "Praha 8-yDolni Chabry",
         "Praha-Dolni Chabry"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Doln\u00ed Chabry"
+    ],
+    "name:ces_x_variant":[
+        "Praha-Doln\u00ed Chabry",
         "Praha 8-yDoln\u00ed Chabry"
     ],
     "name:deu_x_preferred":[
@@ -69,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":47,
     "wof:belongsto":[
         85633105,
@@ -97,7 +95,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246426,
+    "wof:lastmodified":1566247481,
     "wof:name":"Dolni Chabry",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

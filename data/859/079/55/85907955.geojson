@@ -37,9 +37,6 @@
     "name:eng_x_preferred":[
         "Prague 1"
     ],
-    "name:eng_x_variant":[
-        "Prague 1"
-    ],
     "name:fra_x_preferred":[
         "Prague 1"
     ],
@@ -90,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -118,7 +115,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772280,
+    "wof:lastmodified":1566247485,
     "wof:name":"Praha 1",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

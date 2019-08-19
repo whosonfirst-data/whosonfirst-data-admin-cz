@@ -42,9 +42,7 @@
         "Motal"
     ],
     "name:ces_x_variant":[
-        "Motol"
-    ],
-    "name:cze_x_variant":[
+        "Motol",
         "Praha 5-Motol"
     ],
     "name:deu_x_preferred":[
@@ -139,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"wk",
     "wd:latitude":52.315278,
     "wd:longitude":25.614444,
@@ -174,7 +172,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246360,
+    "wof:lastmodified":1566247483,
     "wof:name":"Motol",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

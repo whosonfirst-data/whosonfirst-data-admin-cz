@@ -29,19 +29,17 @@
     "name:ceb_x_preferred":[
         "\u010c\u00edmice"
     ],
-    "name:ces_x_preferred":[
-        "\u010c\u00edmice"
-    ],
-    "name:ces_x_variant":[
-        "\u010cimice"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Cimice",
         "Praha 8-Aeimice",
         "Praha 8-Aimice",
         "Praha 8-Cimice"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "\u010c\u00edmice"
+    ],
+    "name:ces_x_variant":[
+        "\u010cimice",
         "Praha 8-\u00c4imice"
     ],
     "name:deu_x_preferred":[
@@ -87,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":77,
     "wof:belongsto":[
         85633105,
@@ -114,7 +112,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246424,
+    "wof:lastmodified":1566247481,
     "wof:name":"Cimice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

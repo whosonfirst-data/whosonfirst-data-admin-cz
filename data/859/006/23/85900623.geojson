@@ -26,16 +26,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Holyn\u011b"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Holyne",
         "Praha 5-HolynAT",
         "Praha 5-HolynAeT",
         "Praha 5-Holyne"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Holyn\u011b"
+    ],
+    "name:ces_x_variant":[
         "Praha 5-Holyn\u00e4\u0167"
     ],
     "name:eng_x_preferred":[
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682437
@@ -83,7 +83,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772295,
+    "wof:lastmodified":1566247483,
     "wof:name":"Holyne",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

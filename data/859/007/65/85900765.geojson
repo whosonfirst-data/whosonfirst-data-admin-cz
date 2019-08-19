@@ -39,15 +39,15 @@
     "name:ceb_x_preferred":[
         "Mal\u00e1 Strana"
     ],
-    "name:ces_x_preferred":[
-        "Mal\u00e1 Strana"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Mala Strana",
         "Praha 1-Mala Strana",
         "Praha 5-Mala Strana"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Mal\u00e1 Strana"
+    ],
+    "name:ces_x_variant":[
         "Praha 1-Mal\u00e1 Strana",
         "Praha 5-Mal\u00e1 Strana"
     ],
@@ -161,7 +161,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:latitude":50.088056,
     "wd:longitude":14.403889,
@@ -196,7 +196,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246369,
+    "wof:lastmodified":1566247482,
     "wof:name":"Mala Strana",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

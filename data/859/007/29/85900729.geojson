@@ -26,11 +26,11 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ces_x_colloquial":[
+        "Lahovicky"
+    ],
     "name:ces_x_preferred":[
         "Lahovi\u010dky"
-    ],
-    "name:cze_x_colloquial":[
-        "Lahovicky"
     ],
     "name:unk_x_variant":[
         "Lahovi\u010dky"
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -93,7 +93,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772284,
+    "wof:lastmodified":1566247482,
     "wof:name":"Lahovi\u010dky",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

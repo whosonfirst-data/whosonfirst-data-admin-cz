@@ -25,13 +25,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Praha-Dube\u00e4"
-    ],
-    "name:ces_x_variant":[
-        "Dube\u010d"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Dubec",
         "Praha 10-DubeA",
         "Praha 10-DubeAe",
@@ -39,7 +33,10 @@
         "Praha-Dubea",
         "Praha-Dubeae"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Praha-Dube\u00e4"
+    ],
+    "name:ces_x_variant":[
         "Dube\u010d",
         "Praha 10-Dube\u00e4",
         "Praha-Dubec",
@@ -74,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101825237,
@@ -103,7 +100,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246410,
+    "wof:lastmodified":1566247483,
     "wof:name":"Dubec",
     "wof:parent_id":101825237,
     "wof:placetype":"neighbourhood",

@@ -28,11 +28,8 @@
         "Hrdlo\u0159ezy"
     ],
     "name:ces_x_variant":[
-        "Hrdlorezy"
-    ],
-    "name:cze_x_variant":[
-        "Praha 9-Hrdlorezy",
-        "Hrdlo\u0159ezy"
+        "Hrdlorezy",
+        "Praha 9-Hrdlorezy"
     ],
     "name:deu_x_preferred":[
         "Hrdlo\u0159ezy"
@@ -78,7 +75,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":16,
     "wof:belongsto":[
         102191581,
@@ -106,7 +103,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246413,
+    "wof:lastmodified":1566247482,
     "wof:name":"Hrdlorezy",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

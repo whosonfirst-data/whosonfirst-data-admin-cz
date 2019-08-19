@@ -34,13 +34,10 @@
         "Libe\u0148"
     ],
     "name:ces_x_variant":[
-        "Liben"
-    ],
-    "name:cze_x_variant":[
+        "Liben",
         "Praha 7-Liben",
         "Praha 8-Liben",
-        "Praha 9-Liben",
-        "Libe\u0148"
+        "Praha 9-Liben"
     ],
     "name:deu_x_preferred":[
         "Libe\u0148"
@@ -113,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -146,7 +143,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246370,
+    "wof:lastmodified":1566247482,
     "wof:name":"Liben",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

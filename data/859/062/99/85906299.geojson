@@ -26,13 +26,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Vino\u00f8"
-    ],
-    "name:ces_x_variant":[
-        "Vino\u0159"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha 9-VinoA",
         "Praha 9-VinoAa",
         "Praha 9-Vinor",
@@ -42,11 +36,14 @@
         "Vinooe",
         "Vinor"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Vino\u00f8"
+    ],
+    "name:ces_x_variant":[
+        "Vino\u0159",
         "Praha 9-Vino\u00e5",
         "Praha-Vinor",
-        "Praha-Vino\u00e5",
-        "Vino\u0159"
+        "Praha-Vino\u00e5"
     ],
     "name:deu_x_preferred":[
         "Vino\u0159"
@@ -100,7 +97,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682461
@@ -125,7 +122,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246360,
+    "wof:lastmodified":1566247484,
     "wof:name":"Vinor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

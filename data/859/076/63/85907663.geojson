@@ -37,9 +37,6 @@
     "name:eng_x_preferred":[
         "Prague 4"
     ],
-    "name:eng_x_variant":[
-        "Prague 4"
-    ],
     "name:fra_x_preferred":[
         "Prague 4"
     ],
@@ -88,7 +85,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682461
@@ -111,7 +108,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772282,
+    "wof:lastmodified":1566247484,
     "wof:name":"Praha 4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -33,12 +33,9 @@
         "\u017di\u017ekov"
     ],
     "name:ces_x_variant":[
-        "Zizkov"
-    ],
-    "name:cze_x_variant":[
+        "Zizkov",
         "Praha 3-Zizkov",
-        "Praha 8-Zizkov",
-        "\u017di\u017ekov"
+        "Praha 8-Zizkov"
     ],
     "name:dan_x_preferred":[
         "\u017di\u017ekov"
@@ -139,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -170,7 +167,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246415,
+    "wof:lastmodified":1566247485,
     "wof:name":"Zizkov",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

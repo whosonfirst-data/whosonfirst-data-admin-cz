@@ -32,13 +32,13 @@
     "name:bre_x_preferred":[
         "Nov\u00e9 M\u011bsto"
     ],
+    "name:ces_x_colloquial":[
+        "Nove Mesto"
+    ],
     "name:ces_x_preferred":[
         "Nov\u00e9 M\u011bsto"
     ],
-    "name:cze_x_colloquial":[
-        "Nove Mesto"
-    ],
-    "name:cze_x_variant":[
+    "name:ces_x_variant":[
         "Nove Mestro",
         "Praha 1-Nove Mesto",
         "Praha 2-Nove Mesto",
@@ -154,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -185,7 +185,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246401,
+    "wof:lastmodified":1566247483,
     "wof:name":"Nove Mesto",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

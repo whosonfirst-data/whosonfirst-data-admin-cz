@@ -29,12 +29,8 @@
         "Praha-Kunratice"
     ],
     "name:ces_x_variant":[
-        "Kunratice"
-    ],
-    "name:cze_x_variant":[
         "Kunratice",
-        "Praha 4-Kunratice",
-        "Praha-Kunratice"
+        "Praha 4-Kunratice"
     ],
     "name:deu_x_preferred":[
         "Kunratice"
@@ -74,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -103,7 +99,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246357,
+    "wof:lastmodified":1566247485,
     "wof:name":"Kunratice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

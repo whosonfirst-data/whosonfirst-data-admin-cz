@@ -30,13 +30,10 @@
         "Hole\u0161ovice"
     ],
     "name:ces_x_variant":[
-        "Holesovice"
-    ],
-    "name:cze_x_variant":[
+        "Holesovice",
         "Holesovice Bubny",
         "Praha 1-Holesovice",
-        "Praha 7-Holesovice",
-        "Hole\u0161ovice"
+        "Praha 7-Holesovice"
     ],
     "name:deu_x_preferred":[
         "Hole\u0161ovice"
@@ -107,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":104,
     "wof:belongsto":[
         102191581,
@@ -139,7 +136,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246407,
+    "wof:lastmodified":1566247482,
     "wof:name":"Holesovice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

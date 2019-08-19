@@ -34,12 +34,9 @@
         "Letnany"
     ],
     "name:ces_x_variant":[
-        "Let\u0148any"
-    ],
-    "name:cze_x_variant":[
+        "Let\u0148any",
         "Praha 9-Letnany",
-        "Praha-Letnany",
-        "Let\u0148any"
+        "Praha-Letnany"
     ],
     "name:dan_x_preferred":[
         "Let\u0148any"
@@ -110,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -139,7 +136,7 @@
         }
     ],
     "wof:id":85900733,
-    "wof:lastmodified":1563246363,
+    "wof:lastmodified":1566247483,
     "wof:name":"Letnany",
     "wof:parent_id":101754431,
     "wof:placetype":"neighbourhood",

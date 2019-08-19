@@ -32,10 +32,6 @@
     "name:ces_x_variant":[
         "Lysolaje"
     ],
-    "name:cze_x_variant":[
-        "Lysolaje",
-        "Praha-Lysolaje"
-    ],
     "name:eng_x_preferred":[
         "Lysolaje"
     ],
@@ -61,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682437
@@ -87,7 +83,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246361,
+    "wof:lastmodified":1566247483,
     "wof:name":"Lysolaje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

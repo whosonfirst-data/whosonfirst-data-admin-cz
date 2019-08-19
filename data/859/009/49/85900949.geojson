@@ -29,15 +29,11 @@
         "Praha-Suchdol"
     ],
     "name:ces_x_variant":[
-        "Suchdol"
+        "Suchdol",
+        "Sukdol"
     ],
     "name:cze_x_preferred_x_preferred":[
         "Praha-Suchdol"
-    ],
-    "name:cze_x_variant":[
-        "Praha-Suchdol",
-        "Suchdol",
-        "Sukdol"
     ],
     "name:deu_x_preferred":[
         "Praha-Suchdol"
@@ -68,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -97,7 +93,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246388,
+    "wof:lastmodified":1566247484,
     "wof:name":"Suchdol",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

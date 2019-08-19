@@ -30,12 +30,9 @@
         "Hloub\u011bt\u00edn"
     ],
     "name:ces_x_variant":[
-        "Hloubetin"
-    ],
-    "name:cze_x_variant":[
+        "Hloubetin",
         "Hlaupetin",
-        "Praha 9-Hloubetin",
-        "Hloub\u011bt\u00edn"
+        "Praha 9-Hloubetin"
     ],
     "name:deu_x_preferred":[
         "Hloub\u011bt\u00edn"
@@ -88,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":291,
     "wof:belongsto":[
         102191581,
@@ -120,7 +117,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246414,
+    "wof:lastmodified":1566247482,
     "wof:name":"Hloubetin",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",
