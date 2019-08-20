@@ -29,10 +29,7 @@
     "name:azb_x_preferred":[
         "\u0633\u062a\u0631\u0634\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
-    "name:ces_x_preferred":[
-        "St\u0159e\u0161ovice"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha 6-StAaeAacovice",
         "Praha 6-StAeAcovice",
         "Praha 6-Stresovice",
@@ -42,7 +39,10 @@
         "Streschowitz",
         "Stresovice"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "St\u0159e\u0161ovice"
+    ],
+    "name:ces_x_variant":[
         "Praha 6-St\u00e5e\u00e5\u010dovice",
         "St\u00f8eovice",
         "Steschowitz"
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":335,
     "wof:belongsto":[
         102191581,
@@ -145,7 +145,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246381,
+    "wof:lastmodified":1566247484,
     "wof:name":"Stresovice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

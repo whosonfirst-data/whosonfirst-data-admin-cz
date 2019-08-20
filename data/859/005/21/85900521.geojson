@@ -30,8 +30,11 @@
     "name:ces_x_preferred":[
         "Bohnice"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_variant":[
         "Praha 8-Bohnice"
+    ],
+    "name:deu_x_variant":[
+        "Bohnitz"
     ],
     "name:eng_x_preferred":[
         "Bohnice"
@@ -41,9 +44,6 @@
     ],
     "name:fra_x_preferred":[
         "Bohnice"
-    ],
-    "name:ger_x_variant":[
-        "Bohnitz"
     ],
     "name:nld_x_preferred":[
         "Bohnice"
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191581,
@@ -91,7 +91,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246423,
+    "wof:lastmodified":1566247481,
     "wof:name":"Bohnice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

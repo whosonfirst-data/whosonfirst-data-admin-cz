@@ -26,25 +26,22 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Hlubo\u010depy"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Hlubocepy",
         "Praha 5-HluboAeepy",
         "Praha 5-HluboAepy",
         "Praha 5-Hlubocepy"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Hlubo\u010depy"
+    ],
+    "name:ces_x_variant":[
         "Praha 5-Hlubo\u00e4epy"
     ],
     "name:deu_x_preferred":[
         "Hlubo\u010depy"
     ],
     "name:eng_x_preferred":[
-        "Hlubo\u010depy"
-    ],
-    "name:eng_x_preferred_x_preferred":[
         "Hlubo\u010depy"
     ],
     "name:fra_x_preferred":[
@@ -66,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -96,7 +93,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246412,
+    "wof:lastmodified":1566326119,
     "wof:name":"Hlubocepy",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

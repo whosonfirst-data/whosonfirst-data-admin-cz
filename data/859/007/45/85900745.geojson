@@ -29,24 +29,25 @@
     "name:ces_x_preferred":[
         "Libu\u0161"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_variant":[
         "Praha-Libu\u00e5\u010d",
         "Libusch"
     ],
     "name:deu_x_preferred":[
         "Libu\u0161"
     ],
-    "name:eng_x_preferred":[
-        "Libu\u0161"
-    ],
-    "name:eng_x_preferred_x_preferred":[
+    "name:deu_x_variant":[
         "Libusch"
+    ],
+    "name:eng_x_preferred":[
+        "Libus"
+    ],
+    "name:eng_x_variant":[
+        "Libusch",
+        "Libu\u0161"
     ],
     "name:fra_x_preferred":[
         "Libu\u0161"
-    ],
-    "name:ger_x_variant":[
-        "Libusch"
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0562\u0578\u0582\u0577"
@@ -93,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -124,7 +125,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246365,
+    "wof:lastmodified":1566326114,
     "wof:name":"Libus",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

@@ -29,15 +29,8 @@
         "Praha-Lochkov"
     ],
     "name:ces_x_variant":[
-        "Lochkov"
-    ],
-    "name:cze_x_preferred_x_preferred":[
-        "Praha-Lochkov"
-    ],
-    "name:cze_x_variant":[
         "Lochkov",
-        "Praha 5-Lochkov",
-        "Praha-Lochkov"
+        "Praha 5-Lochkov"
     ],
     "name:deu_x_preferred":[
         "Lochkov"
@@ -68,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682437
@@ -93,7 +86,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246370,
+    "wof:lastmodified":1566326309,
     "wof:name":"Lochkov",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

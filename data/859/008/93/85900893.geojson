@@ -34,16 +34,9 @@
         "Praha-Satalice"
     ],
     "name:ces_x_variant":[
-        "Satalice"
-    ],
-    "name:cze_x_preferred_x_preferred":[
-        "Praha-Satalice"
-    ],
-    "name:cze_x_variant":[
-        "Praha 9-Satalice",
-        "Praha-Satalice",
-        "Satalic",
         "Satalice",
+        "Praha 9-Satalice",
+        "Satalic",
         "Satalitz"
     ],
     "name:eng_x_preferred":[
@@ -100,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -128,7 +121,7 @@
         }
     ],
     "wof:id":85900893,
-    "wof:lastmodified":1563246392,
+    "wof:lastmodified":1566326131,
     "wof:name":"Satalice",
     "wof:parent_id":101754439,
     "wof:placetype":"neighbourhood",

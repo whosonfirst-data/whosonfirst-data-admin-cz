@@ -26,16 +26,16 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Ruzyn\u011b"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha 6-RuzynAT",
         "Praha 6-RuzynAeT",
         "Praha 6-Ruzyne",
         "Ruzyne"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Ruzyn\u011b"
+    ],
+    "name:ces_x_variant":[
         "Praha 6-Ruzyn\u00e4\u0167"
     ],
     "name:deu_x_preferred":[
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":171,
     "wof:belongsto":[
         85633105,
@@ -120,7 +120,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772292,
+    "wof:lastmodified":1566247484,
     "wof:name":"Ruzyne",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

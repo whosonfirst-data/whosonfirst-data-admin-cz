@@ -34,13 +34,10 @@
         "Horni Pocernice"
     ],
     "name:ces_x_variant":[
-        "Horn\u00ed Po\u010dernice"
-    ],
-    "name:cze_x_variant":[
+        "Horn\u00ed Po\u010dernice",
         "Ober Pocernitz",
         "Praha 9-Horni Pocernice",
-        "Praha-Horni Pocernice",
-        "Horn\u00ed Po\u010dernice"
+        "Praha-Horni Pocernice"
     ],
     "name:deu_x_preferred":[
         "Prag 20"
@@ -99,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -127,7 +124,7 @@
         }
     ],
     "wof:id":85900633,
-    "wof:lastmodified":1563246404,
+    "wof:lastmodified":1566247483,
     "wof:name":"Horni Pocernice",
     "wof:parent_id":101754433,
     "wof:placetype":"neighbourhood",

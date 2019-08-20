@@ -26,20 +26,17 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Ka\u010derov"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Kacerov",
         "Kaeerov"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Ka\u010derov"
+    ],
+    "name:ces_x_variant":[
         "Ka\u00e8erov"
     ],
     "name:eng_x_preferred":[
-        "Ka\u010derov"
-    ],
-    "name:eng_x_preferred_x_preferred":[
         "Ka\u010derov"
     ],
     "name:epo_x_preferred":[
@@ -104,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":12,
     "wof:belongsto":[
         102191581,
@@ -135,7 +132,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246360,
+    "wof:lastmodified":1566326130,
     "wof:name":"Kacerov",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

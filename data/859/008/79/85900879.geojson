@@ -25,13 +25,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Praha-\u00c5eporyje"
-    ],
-    "name:ces_x_variant":[
-        "\u0158eporyje"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha 5-Aaeporyje",
         "Praha 5-Aeporyje",
         "Praha 5-Reporyje",
@@ -40,21 +34,25 @@
         "Repora",
         "Reporyje"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Praha-\u00c5eporyje"
+    ],
+    "name:ces_x_variant":[
+        "\u0158eporyje",
         "Praha 5-\u00c5eporyje",
         "Praha-Reporyje",
         "epora",
-        "\u0158eporyje",
         "Praha-\u0158eporyje"
     ],
     "name:deu_x_preferred":[
         "\u0158eporyje"
     ],
     "name:eng_x_preferred":[
-        "\u0158eporyje"
+        "Reporyje"
     ],
-    "name:eng_x_preferred_x_preferred":[
-        "Praha-\u00c5eporyje"
+    "name:eng_x_variant":[
+        "Praha-\u00c5eporyje",
+        "\u0158eporyje"
     ],
     "name:epo_x_preferred":[
         "\u0158eporyje"
@@ -85,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -114,7 +112,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246398,
+    "wof:lastmodified":1566326120,
     "wof:name":"Reporyje",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

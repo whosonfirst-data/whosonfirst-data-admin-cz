@@ -26,23 +26,23 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Mal\u00e1 Chuchle"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Mala Chuchle",
         "Praha 5-Mala Chuchle"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Mal\u00e1 Chuchle"
+    ],
+    "name:ces_x_variant":[
         "Praha 5-Mal\u00e1 Chuchle"
     ],
     "name:deu_x_preferred":[
         "Mal\u00e1 Chuchle"
     ],
     "name:eng_x_preferred":[
-        "Mal\u00e1 Chuchle"
+        "Mala Chuchle"
     ],
-    "name:eng_x_preferred_x_preferred":[
+    "name:eng_x_variant":[
         "Mal\u00e1 Chuchle"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":134,
     "wof:belongsto":[
         102191581,
@@ -92,7 +92,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246372,
+    "wof:lastmodified":1566326114,
     "wof:name":"Mala Chuchle",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

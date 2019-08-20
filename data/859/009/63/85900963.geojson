@@ -26,22 +26,23 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Zli\u010d\u00edn"
-    ],
-    "name:ces_x_variant":[
-        "T\u0159ebonice"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha 5-TAaebonice",
         "Praha 5-TAebonice",
         "Praha 5-Trebonice",
         "Trebonice"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Zli\u010d\u00edn"
+    ],
+    "name:ces_x_variant":[
+        "T\u0159ebonice",
         "Praha 5-T\u00e5ebonice"
     ],
-    "name:eng_x_preferred_x_preferred":[
+    "name:eng_x_preferred":[
+        "Trebonice"
+    ],
+    "name:eng_x_variant":[
         "T\u0159ebonice"
     ],
     "name:fra_x_preferred":[
@@ -89,7 +90,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682461
@@ -113,7 +114,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772288,
+    "wof:lastmodified":1566326121,
     "wof:name":"Trebonice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

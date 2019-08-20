@@ -28,13 +28,7 @@
     "name:ceb_x_preferred":[
         "Doln\u00ed Po\u010dernice"
     ],
-    "name:ces_x_preferred":[
-        "Praha-Doln\u00e3 Po\u00e4ernice"
-    ],
-    "name:ces_x_variant":[
-        "Doln\u00ed Po\u010dernice"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Dolni Pocernice",
         "Praha 9-DolnA PoAeernice",
         "Praha 9-DolnA PoAernice",
@@ -44,7 +38,10 @@
         "Praha-Dolni Pocernice",
         "Unter Pocernitz"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Praha-Doln\u00e3 Po\u00e4ernice"
+    ],
+    "name:ces_x_variant":[
         "Doln\u00ed Po\u010dernice",
         "Praha 9-Doln\u00e3 Po\u00e4ernice",
         "Praha-Doln\u00ed Pocernice",
@@ -55,10 +52,11 @@
         "Doln\u00ed Po\u010dernice"
     ],
     "name:eng_x_preferred":[
-        "Doln\u00ed Po\u010dernice"
+        "Dolni Pocernice"
     ],
-    "name:eng_x_preferred_x_preferred":[
-        "Praha-Doln\u00e3 Po\u00e4ernice"
+    "name:eng_x_variant":[
+        "Praha-Doln\u00e3 Po\u00e4ernice",
+        "Doln\u00ed Po\u010dernice"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0644\u0646\u06cc \u067e\u0648\u062a\u0634\u0631\u0646\u06cc\u062a\u0633\u0647"
@@ -89,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682437
@@ -115,7 +113,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246428,
+    "wof:lastmodified":1566326118,
     "wof:name":"Dolni Pocernice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

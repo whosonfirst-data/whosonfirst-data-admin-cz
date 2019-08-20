@@ -25,13 +25,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Praha-P\u00e5edn\u00e3 Kopanina"
-    ],
-    "name:ces_x_variant":[
-        "P\u0159edn\u00ed Kopanina"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha 6-PAaednA Kopanina",
         "Praha 6-PAednA Kopanina",
         "Praha 6-Predni Kopanina",
@@ -40,20 +34,24 @@
         "Praha-Predni Kopanina",
         "Predni Kopanina"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Praha-P\u00e5edn\u00e3 Kopanina"
+    ],
+    "name:ces_x_variant":[
+        "P\u0159edn\u00ed Kopanina",
         "Praha 6-P\u00e5edn\u00e3 Kopanina",
         "Praha-Predn\u00ed Kopanina",
-        "P\u0159edn\u00ed Kopanina",
         "Praha-P\u0159edn\u00ed Kopanina"
     ],
     "name:deu_x_preferred":[
         "P\u0159edn\u00ed Kopanina"
     ],
     "name:eng_x_preferred":[
-        "P\u0159edn\u00ed Kopanina"
+        "Predni Kopanina"
     ],
-    "name:eng_x_preferred_x_preferred":[
-        "Praha-P\u00e5edn\u00e3 Kopanina"
+    "name:eng_x_variant":[
+        "Praha-P\u00e5edn\u00e3 Kopanina",
+        "P\u0159edn\u00ed Kopanina"
     ],
     "name:fra_x_preferred":[
         "P\u0159edn\u00ed Kopanina"
@@ -73,7 +71,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682461
@@ -97,7 +95,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246391,
+    "wof:lastmodified":1566326124,
     "wof:name":"Predni Kopanina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

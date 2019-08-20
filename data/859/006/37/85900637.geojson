@@ -26,16 +26,19 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ces_x_colloquial":[
+        "Horni Roztyly"
+    ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed M\u011bsto"
     ],
     "name:ces_x_variant":[
         "Horn\u00ed Roztyly"
     ],
-    "name:cze_x_colloquial":[
+    "name:eng_x_preferred":[
         "Horni Roztyly"
     ],
-    "name:eng_x_preferred_x_preferred":[
+    "name:eng_x_variant":[
         "Horn\u00ed Roztyly"
     ],
     "name:slk_x_preferred":[
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -102,7 +105,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772294,
+    "wof:lastmodified":1566326112,
     "wof:name":"Horni Roztyly",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

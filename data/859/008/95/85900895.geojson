@@ -11,8 +11,8 @@
     "geom:longitude":14.519692,
     "gn:id":"",
     "iso:country":"CZ",
-    "lbl:latitude":50.011227,
-    "lbl:longitude":14.514072,
+    "lbl:latitude":50.008152,
+    "lbl:longitude":14.515572,
     "mps:latitude":50.016232,
     "mps:longitude":14.521582,
     "mz:categories":[],
@@ -26,10 +26,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "\u0160eberov"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "A eberov",
         "Aa eberov",
         "Praha 4-Aaeberov",
@@ -41,20 +38,25 @@
         "Praha-Seberov",
         "Seberov"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "\u0160eberov"
+    ],
+    "name:ces_x_variant":[
         "Praha 4-\u00c5eberov",
         "Praha-Eberov",
         "\u00c5 eberov",
-        "Praha-\u00c5eberov"
+        "Praha-\u00c5eberov",
+        "Praha-\u0160eberov"
     ],
     "name:deu_x_preferred":[
         "\u0160eberov"
     ],
     "name:eng_x_preferred":[
-        "\u0160eberov"
+        "Seberov"
     ],
-    "name:eng_x_preferred_x_preferred":[
-        "Praha-\u00c5eberov"
+    "name:eng_x_variant":[
+        "Praha-\u00c5eberov",
+        "\u0160eberov"
     ],
     "name:fra_x_preferred":[
         "\u0160eberov"
@@ -101,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         101754447,
@@ -130,7 +132,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772289,
+    "wof:lastmodified":1566326121,
     "wof:name":"Seberov",
     "wof:parent_id":101754447,
     "wof:placetype":"neighbourhood",

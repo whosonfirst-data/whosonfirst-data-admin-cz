@@ -25,18 +25,21 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Nov\u00e9 Stra\u00b5nice"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Nove Strasnice",
         "Nove Stra\u00b5nice"
     ],
-    "name:cze_x_variant":[
-        "Neu-Straschnitz",
-        "Nov\u00e9 Stra\u0161nice"
+    "name:ces_x_preferred":[
+        "Nov\u00e9 Stra\u00b5nice"
     ],
-    "name:eng_x_preferred_x_preferred":[
+    "name:ces_x_variant":[
+        "Nov\u00e9 Stra\u0161nice",
+        "Neu-Straschnitz"
+    ],
+    "name:eng_x_preferred":[
+        "Nove Strasnice"
+    ],
+    "name:eng_x_variant":[
         "Nov\u00e9 Stra\u00b5nice"
     ],
     "name:unk_x_variant":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -98,7 +101,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772290,
+    "wof:lastmodified":1566326116,
     "wof:name":"Nove Strasnice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

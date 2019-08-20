@@ -30,12 +30,8 @@
         "Praha-Petrovice"
     ],
     "name:ces_x_variant":[
-        "Petrovice"
-    ],
-    "name:cze_x_variant":[
         "Petrovice",
-        "Praha 10-Petrovice",
-        "Praha-Petrovice"
+        "Praha 10-Petrovice"
     ],
     "name:eng_x_preferred":[
         "Petrovice"
@@ -56,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -87,7 +83,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246397,
+    "wof:lastmodified":1566247483,
     "wof:name":"Petrovice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

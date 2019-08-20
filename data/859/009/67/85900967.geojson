@@ -30,13 +30,9 @@
         "Praha-Troja"
     ],
     "name:ces_x_variant":[
-        "Troja"
-    ],
-    "name:cze_x_variant":[
+        "Troja",
         "Praha 7-Troja",
-        "Praha 8-Troja",
-        "Praha-Troja",
-        "Troja"
+        "Praha 8-Troja"
     ],
     "name:deu_x_preferred":[
         "Prag-Troja"
@@ -110,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -141,7 +137,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246376,
+    "wof:lastmodified":1566247484,
     "wof:name":"Praha-Troja",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

@@ -79,7 +79,8 @@
     ],
     "name:ces_x_variant":[
         "Hostivar",
-        "Hostiva\u0159"
+        "Hostiva\u0159",
+        "Praha 10-Hostivar"
     ],
     "name:cha_x_preferred":[
         "Hostiva\u0159"
@@ -106,10 +107,6 @@
         "Hostiva\u0159"
     ],
     "name:cym_x_preferred":[
-        "Hostiva\u0159"
-    ],
-    "name:cze_x_variant":[
-        "Praha 10-Hostivar",
         "Hostiva\u0159"
     ],
     "name:dan_x_preferred":[
@@ -593,7 +590,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -623,7 +620,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246406,
+    "wof:lastmodified":1566247482,
     "wof:name":"Hostivar",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

@@ -30,15 +30,8 @@
         "Praha-Slivenec"
     ],
     "name:ces_x_variant":[
-        "Slivenec"
-    ],
-    "name:cze_x_preferred_x_preferred":[
-        "Praha-Slivenec"
-    ],
-    "name:cze_x_variant":[
-        "Praha 5-Slivenec",
-        "Praha-Slivenec",
-        "Slivenec"
+        "Slivenec",
+        "Praha 5-Slivenec"
     ],
     "name:deu_x_preferred":[
         "Slivenec"
@@ -94,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101754451,
@@ -124,7 +117,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246389,
+    "wof:lastmodified":1566326131,
     "wof:name":"Slivenec",
     "wof:parent_id":101754451,
     "wof:placetype":"neighbourhood",

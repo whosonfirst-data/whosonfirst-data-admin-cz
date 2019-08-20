@@ -30,12 +30,9 @@
         "Radot\u00edn"
     ],
     "name:ces_x_variant":[
-        "Radotin"
-    ],
-    "name:cze_x_variant":[
+        "Radotin",
         "Praha 5-Radotin",
-        "Praha-Radotin",
-        "Radot\u00edn"
+        "Praha-Radotin"
     ],
     "name:deu_x_preferred":[
         "Prag 16"
@@ -99,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682437
@@ -122,7 +119,7 @@
         }
     ],
     "wof:id":85900875,
-    "wof:lastmodified":1561772291,
+    "wof:lastmodified":1566247485,
     "wof:name":"Radotin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

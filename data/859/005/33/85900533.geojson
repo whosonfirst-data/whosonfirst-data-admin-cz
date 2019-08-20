@@ -30,19 +30,19 @@
     "name:ceb_x_preferred":[
         "Bran\u00edk"
     ],
+    "name:ces_x_colloquial":[
+        "Branik"
+    ],
     "name:ces_x_preferred":[
         "Bran\u00edk"
     ],
-    "name:cze_x_colloquial":[
-        "Branik"
-    ],
-    "name:cze_x_variant":[
+    "name:ces_x_variant":[
         "Praha 4-Branik"
     ],
     "name:eng_x_preferred":[
-        "Bran\u00edk"
+        "Branik"
     ],
-    "name:eng_x_preferred_x_preferred":[
+    "name:eng_x_variant":[
         "Bran\u00edk"
     ],
     "name:epo_x_preferred":[
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":124,
     "wof:belongsto":[
@@ -128,7 +128,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772297,
+    "wof:lastmodified":1566326110,
     "wof:name":"Branik",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

@@ -26,16 +26,19 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ces_x_colloquial":[
+        "Malesice"
+    ],
     "name:ces_x_preferred":[
         "Stra\u0161nice"
     ],
     "name:ces_x_variant":[
         "Male\u0161ice"
     ],
-    "name:cze_x_colloquial":[
+    "name:eng_x_preferred":[
         "Malesice"
     ],
-    "name:eng_x_preferred_x_preferred":[
+    "name:eng_x_variant":[
         "Male\u0161ice"
     ],
     "name:nld_x_preferred":[
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -108,7 +111,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772283,
+    "wof:lastmodified":1566326115,
     "wof:name":"Malesice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

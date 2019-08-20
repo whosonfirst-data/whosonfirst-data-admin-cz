@@ -26,25 +26,25 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Kr\u010d"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Krc",
         "Praha 4-KrA",
         "Praha 4-KrAe",
         "Praha 4-Krc"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Kr\u010d"
+    ],
+    "name:ces_x_variant":[
         "Praha 4-Kr\u00e4"
     ],
     "name:deu_x_preferred":[
         "Kr\u010d"
     ],
     "name:eng_x_preferred":[
-        "Kr\u010d"
+        "Krc"
     ],
-    "name:eng_x_preferred_x_preferred":[
+    "name:eng_x_variant":[
         "Kr\u010d"
     ],
     "name:fas_x_preferred":[
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":297,
     "wof:belongsto":[
         102191581,
@@ -101,7 +101,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246373,
+    "wof:lastmodified":1566326114,
     "wof:name":"Krc",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

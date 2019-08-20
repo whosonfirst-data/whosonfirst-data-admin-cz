@@ -25,13 +25,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Praha-Zli\u00e4\u00e3n"
-    ],
-    "name:ces_x_variant":[
-        "Zli\u010d\u00edn"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha 5-ZliAAn",
         "Praha 5-ZliAeAn",
         "Praha 5-Zlicin",
@@ -40,20 +34,24 @@
         "Praha-Zlicin",
         "Zlicin"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Praha-Zli\u00e4\u00e3n"
+    ],
+    "name:ces_x_variant":[
+        "Zli\u010d\u00edn",
         "Praha 5-Zli\u00e4\u00e3n",
         "Praha-Zlic\u00edn",
-        "Zli\u010d\u00edn",
         "Praha-Zli\u010d\u00edn"
     ],
     "name:deu_x_preferred":[
         "Zli\u010d\u00edn"
     ],
     "name:eng_x_preferred":[
-        "Zli\u010d\u00edn"
+        "Zlicin"
     ],
-    "name:eng_x_preferred_x_preferred":[
-        "Praha-Zli\u00e4\u00e3n"
+    "name:eng_x_variant":[
+        "Praha-Zli\u00e4\u00e3n",
+        "Zli\u010d\u00edn"
     ],
     "name:fra_x_preferred":[
         "Zli\u010d\u00edn"
@@ -78,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682437
@@ -103,7 +101,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246416,
+    "wof:lastmodified":1566326129,
     "wof:name":"Zlicin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,14 +25,17 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "\u017dabovesky"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Zabovesky",
         "Zabovresky"
     ],
-    "name:eng_x_preferred_x_preferred":[
+    "name:ces_x_preferred":[
+        "\u017dabovesky"
+    ],
+    "name:eng_x_preferred":[
+        "Zabovesky"
+    ],
+    "name:eng_x_variant":[
         "\u017dabovesky"
     ],
     "name:unk_x_variant":[
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101825227,
@@ -94,7 +97,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772296,
+    "wof:lastmodified":1566326132,
     "wof:name":"Zabovesky",
     "wof:parent_id":101825227,
     "wof:placetype":"neighbourhood",

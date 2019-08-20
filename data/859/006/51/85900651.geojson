@@ -26,20 +26,20 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Hrn\u010d\u00ed\u0159e"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Hrncire",
         "Hroeioe",
         "Hroeioee"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "Hrn\u010d\u00ed\u0159e"
+    ],
+    "name:ces_x_variant":[
         "Hr\u00f2\u00e8\u00ed\u00f8e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682461
@@ -63,7 +63,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772293,
+    "wof:lastmodified":1566247483,
     "wof:name":"Hrncire",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

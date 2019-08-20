@@ -25,21 +25,17 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Praha-\u00dajezd"
-    ],
-    "name:ces_x_variant":[
-        "\u00dajezd"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Praha 4-Ujezd",
         "Praha-Ujezd",
         "Ujezd"
     ],
-    "name:cze_x_variant":[
-        "Praha 4-\u00dajezd",
-        "Praha-\u00dajezd",
-        "\u00dajezd"
+    "name:ces_x_preferred":[
+        "Praha-\u00dajezd"
+    ],
+    "name:ces_x_variant":[
+        "\u00dajezd",
+        "Praha 4-\u00dajezd"
     ],
     "name:eng_x_preferred":[
         "\u00dajezd"
@@ -62,7 +58,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101825635,
@@ -90,7 +86,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246386,
+    "wof:lastmodified":1566247485,
     "wof:name":"Praha-\u00dajezd",
     "wof:parent_id":101825635,
     "wof:placetype":"neighbourhood",

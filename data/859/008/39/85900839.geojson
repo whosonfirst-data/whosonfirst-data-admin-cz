@@ -26,13 +26,10 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Pitkovi\u010dky"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Pitkovicky"
     ],
-    "name:eng_x_preferred_x_preferred":[
+    "name:ces_x_preferred":[
         "Pitkovi\u010dky"
     ],
     "name:unk_x_variant":[
@@ -65,7 +62,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85633105,
         85682461
@@ -89,7 +86,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772291,
+    "wof:lastmodified":1566326120,
     "wof:name":"Pitkovicky",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

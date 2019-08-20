@@ -26,14 +26,14 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "H\u00e1je"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Haje",
         "Praha 4-Haje"
     ],
-    "name:cze_x_variant":[
+    "name:ces_x_preferred":[
+        "H\u00e1je"
+    ],
+    "name:ces_x_variant":[
         "Praha 4-H\u00e1je"
     ],
     "name:eng_x_preferred":[
@@ -55,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -85,7 +85,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772294,
+    "wof:lastmodified":1566247481,
     "wof:name":"Haje",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

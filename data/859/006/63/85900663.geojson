@@ -25,13 +25,13 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:ces_x_preferred":[
-        "Jalov\u00fd Dv\u00fer"
-    ],
-    "name:cze_x_colloquial":[
+    "name:ces_x_colloquial":[
         "Jalovy Dvthr",
         "Jalovy Dvtr",
         "Jalovy Dvur"
+    ],
+    "name:ces_x_preferred":[
+        "Jalov\u00fd Dv\u00fer"
     ],
     "name:unk_x_variant":[
         "Jalov\u00fd Dv\u00fer"
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -92,7 +92,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772294,
+    "wof:lastmodified":1566247482,
     "wof:name":"Jalov\u00fd Dv\u00fer",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",
