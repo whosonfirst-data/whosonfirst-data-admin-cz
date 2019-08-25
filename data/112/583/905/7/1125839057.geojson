@@ -9,15 +9,18 @@
     "geom:bbox":"15.59518,48.90408,15.59518,48.90408",
     "geom:latitude":48.90408,
     "geom:longitude":15.59518,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":291,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":291,
     "iso:country":"CZ",
+    "lbl:bbox":"15.57518,48.88408,15.61518,48.92408",
     "lbl:latitude":48.90408,
     "lbl:longitude":15.59518,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0631\u0627\u062a\u06cc\u0646\u06cc\u0646"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Vrat\u011bn\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fratting"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":801174,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125839057,
-    "wof:lastmodified":1563250751,
+    "wof:lastmodified":1566711154,
     "wof:name":"Vrat\u011bn\u00edn",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

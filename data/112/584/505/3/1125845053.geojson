@@ -9,15 +9,18 @@
     "geom:bbox":"18.67078,49.67763,18.67078,49.67763",
     "geom:latitude":49.67763,
     "geom:longitude":18.67078,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":38415,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":38415,
     "iso:country":"CZ",
+    "lbl:bbox":"18.65078,49.65763,18.69078,49.69763",
     "lbl:latitude":49.67763,
     "lbl:longitude":18.67078,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062a\u0631\u062c\u064a\u0646\u062a\u0633"
@@ -124,9 +127,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0448\u0456\u043d\u0435\u0446"
     ],
-    "name:unk_x_variant":[
-        "Trzyniec"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0646\u06cc\u062a\u0633"
     ],
@@ -157,7 +157,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":799859,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":1125845053,
-    "wof:lastmodified":1563250610,
+    "wof:lastmodified":1566711130,
     "wof:name":"Trinec",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

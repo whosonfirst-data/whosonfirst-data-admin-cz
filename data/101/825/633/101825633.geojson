@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.970013,
     "lbl:longitude":14.51819,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.970013,
     "mps:longitude":14.51819,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Jesenice"
     ],
@@ -203,7 +206,7 @@
     "name:swe_x_preferred":[
         "Jesenice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jessenitz"
     ],
     "name:vec_x_preferred":[
@@ -243,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -255,7 +258,6 @@
     "wof:concordances":{
         "gn:id":3074286,
         "gp:id":790734,
-        "qs:id":471433,
         "qs_pg:id":471433,
         "wd:id":"Q345013"
     },
@@ -270,7 +272,7 @@
         }
     ],
     "wof:id":101825633,
-    "wof:lastmodified":1563247668,
+    "wof:lastmodified":1566710629,
     "wof:name":"Jesenice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

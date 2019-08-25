@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.522751,
     "lbl:longitude":18.235416,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.522751,
     "mps:longitude":18.235416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062a\u0631\u0648\u06cc\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Trojanovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trojanowitz"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3063955,
         "gp:id":799892,
-        "qs:id":145253,
         "qs_pg:id":145253,
         "wd:id":"Q973536",
         "wk:page":"Trojanovice"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101826541,
-    "wof:lastmodified":1563247348,
+    "wof:lastmodified":1566710580,
     "wof:name":"Trojanovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

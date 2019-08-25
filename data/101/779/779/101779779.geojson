@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.363043,
     "lbl:longitude":14.583402,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.363043,
     "mps:longitude":14.583402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u0644\u0634\u06cc\u062a\u0633\u0647"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Mal\u0161ice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malschitz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3071099,
         "gp:id":793529,
-        "qs:id":1247478,
         "qs_pg:id":1247478,
         "wd:id":"Q2735270",
         "wk:page":"Mal\u0161ice"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101779779,
-    "wof:lastmodified":1563247426,
+    "wof:lastmodified":1566710591,
     "wof:name":"Mal\u0161ice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.366171,
     "lbl:longitude":14.96228,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.366171,
     "mps:longitude":14.96228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dobrovice"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0432\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dobrowitz"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":13,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3076991,
         "gp:id":788289,
-        "qs:id":1085107,
         "qs_pg:id":1085107,
         "wd:id":"Q1028040",
         "wk:page":"Dobrovice"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101824181,
-    "wof:lastmodified":1563247549,
+    "wof:lastmodified":1566710610,
     "wof:name":"Dobrovice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

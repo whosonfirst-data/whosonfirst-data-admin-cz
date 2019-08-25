@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.723307,
     "lbl:longitude":13.242889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.723307,
     "mps:longitude":13.242889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062a\u0644\u0648\u062a\u0634\u0646\u0627"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -104,7 +107,7 @@
         "fct:id":"07047d02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3064185,
         "gp:id":12610557,
-        "qs:id":189629,
+        "qs_pg:id":189629,
         "wd:id":"Q2467602",
         "wk:page":"Tlu\u010dn\u00e1"
     },
@@ -122,7 +125,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247617,
+    "wof:lastmodified":1566710620,
     "wof:name":"Tlu\u010dn\u00e1",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

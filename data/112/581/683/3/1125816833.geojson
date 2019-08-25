@@ -9,14 +9,18 @@
     "geom:bbox":"15.93016,50.33905,15.93016,50.33905",
     "geom:latitude":50.33905,
     "geom:longitude":15.93016,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"15.91016,50.31905,15.95016,50.35905",
     "lbl:latitude":50.33905,
     "lbl:longitude":15.93016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Josefov"
@@ -51,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u042f\u0440\u043e\u043c\u0435\u0440\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Josefstadt"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +82,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":790921,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1125816833,
-    "wof:lastmodified":1563249114,
+    "wof:lastmodified":1566710873,
     "wof:name":"Josefov",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

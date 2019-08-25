@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.426818,
     "lbl:longitude":13.881426,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.426818,
     "mps:longitude":13.881426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Blatn\u00e1"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1687,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":3079252,
         "gp:id":786291,
-        "qs:id":971293,
         "qs_pg:id":971293,
         "wd:id":"Q804395",
         "wk:page":"Blatn\u00e1"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101826335,
-    "wof:lastmodified":1563247319,
+    "wof:lastmodified":1566710575,
     "wof:name":"Blatn\u00e1",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

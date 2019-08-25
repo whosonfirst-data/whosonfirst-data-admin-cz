@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.891467,
     "lbl:longitude":16.029711,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.891467,
     "mps:longitude":16.029711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lu\u017ee"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":3071339,
         "gp:id":793324,
-        "qs:id":1043028,
         "qs_pg:id":1043028,
         "wd:id":"Q1020927",
         "wk:page":"Lu\u017ee (Chrudim District)"
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":101825303,
-    "wof:lastmodified":1563247712,
+    "wof:lastmodified":1566710636,
     "wof:name":"Lu\u017ee",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

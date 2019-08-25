@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.7872,50.07144,14.8272,50.11144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "B\u0159e\u017eany"
     ],
@@ -56,9 +60,6 @@
     "name:swe_x_preferred":[
         "B\u0159e\u017eany"
     ],
-    "name:und_x_variant":[
-        "B\u0159e\u017eany"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1327468997,
-    "wof:lastmodified":1564100985,
+    "wof:lastmodified":1566710067,
     "wof:name":"Brezany",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

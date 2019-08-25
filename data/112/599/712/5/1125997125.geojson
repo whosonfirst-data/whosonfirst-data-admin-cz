@@ -9,14 +9,18 @@
     "geom:bbox":"17.22166,49.88003,17.22166,49.88003",
     "geom:latitude":49.88003,
     "geom:longitude":17.22166,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"17.20166,49.86003,17.24166,49.90003",
     "lbl:latitude":49.88003,
     "lbl:longitude":17.22166,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Re\u0161ov"
@@ -69,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u044f\u0448\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reschen"
     ],
     "name:war_x_preferred":[
@@ -96,7 +100,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":797327,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1125997125,
-    "wof:lastmodified":1564102610,
+    "wof:lastmodified":1566710951,
     "wof:name":"Re\u0161ov",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

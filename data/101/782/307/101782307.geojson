@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.755454,
     "lbl:longitude":16.232819,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.755454,
     "mps:longitude":16.232819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u06cc\u0627\u0631\u0648\u0633\u0644\u0627\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Jaroslavice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Joslowitz"
     ],
     "name:urd_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -117,10 +120,12 @@
     "wof:concordances":{
         "gn:id":3074450,
         "gp:id":790592,
-        "qs:id":1043054,
         "qs_pg:id":292452,
         "wd:id":"Q787877",
         "wk:page":"Jaroslavice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043054
     },
     "wof:country":"CZ",
     "wof:geomhash":"bf9f3a2bab2d4b35cfea99bc6807adef",
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":101782307,
-    "wof:lastmodified":1563247363,
+    "wof:lastmodified":1566710583,
     "wof:name":"Jaroslavice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

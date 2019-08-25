@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.911742,
     "lbl:longitude":18.00848,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.911742,
     "mps:longitude":18.00848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u0160t\u00edtina"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":117,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":3065125,
         "gp:id":12607596,
-        "qs:id":94418,
         "qs_pg:id":94418,
         "wd:id":"Q392532",
         "wk:page":"\u0160t\u00edtina"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101825513,
-    "wof:lastmodified":1563247765,
+    "wof:lastmodified":1566710644,
     "wof:name":"\u0160t\u00edtina",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

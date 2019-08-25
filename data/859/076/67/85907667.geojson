@@ -11,8 +11,10 @@
     "geom:longitude":16.601963,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"16.596963,49.221495,16.606963,49.231495",
     "lbl:latitude":49.226495,
     "lbl:longitude":16.601963,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.236523,
     "mps:longitude":16.601567,
     "mz:hierarchy_label":0,
@@ -72,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":317,
     "wof:belongsto":[
         102191581,
@@ -83,7 +85,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23407615,
-        "qs:id":1085754,
         "qs_pg:id":1085754,
         "wd:id":"Q12050809"
     },
@@ -102,7 +103,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772281,
+    "wof:lastmodified":1566710176,
     "wof:name":"Sadov\u00e1",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

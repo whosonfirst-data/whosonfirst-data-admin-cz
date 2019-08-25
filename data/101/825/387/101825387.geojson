@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.931677,
     "lbl:longitude":18.003469,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.931677,
     "mps:longitude":18.003469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Krava\u0159e"
     ],
@@ -98,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0432\u0430\u0440\u0436\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Deutsch"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":220,
     "wof:belongsto":[
@@ -135,10 +138,12 @@
     "wof:concordances":{
         "gn:id":3072840,
         "gp:id":791980,
-        "qs:id":847875,
         "qs_pg:id":255239,
         "wd:id":"Q303478",
         "wk:page":"Krava\u0159e"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":847875
     },
     "wof:country":"CZ",
     "wof:geomhash":"3ec4f4240a47e94d5d37b4f8fa701065",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101825387,
-    "wof:lastmodified":1563247767,
+    "wof:lastmodified":1566710644,
     "wof:name":"Krava\u0159e",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

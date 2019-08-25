@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"13.41807,49.30067,13.45807,49.34067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3062714
     },
     "wof:country":"CZ",
-    "wof:geomhash":"0ea11151207bc97d65f08cc68f3b4cd8",
+    "wof:geomhash":"805d683aab72809ea3aab4ad8841d180",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209140213,
-    "wof:lastmodified":1536296529,
+    "wof:lastmodified":1566710387,
     "wof:name":"Vlckovice",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.438070000000002,
+    13.43807,
     49.32067,
-    13.438070000000002,
+    13.43807,
     49.32067
 ],
   "geometry": {"coordinates":[13.43807,49.32067],"type":"Point"}

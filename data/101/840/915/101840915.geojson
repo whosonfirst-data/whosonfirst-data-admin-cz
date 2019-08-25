@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.896777,
     "lbl:longitude":18.343723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.896777,
     "mps:longitude":18.343723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Pudlov"
     ],
@@ -31,7 +34,7 @@
     "name:pol_x_preferred":[
         "Pud\u0142\u00f3w"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pudlau"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -48,7 +51,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.896389,
     "wd:longitude":18.329722,
     "wd:wordcount":340,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3067340,
         "gp:id":796921,
-        "qs:id":998146,
+        "qs_pg:id":998146,
         "wd:id":"Q3500176",
         "wk:page":"Pudlov"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101840915,
-    "wof:lastmodified":1563247606,
+    "wof:lastmodified":1566710619,
     "wof:name":"Pudlov",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":50.73761,
     "gn:longitude":15.0567,
     "iso:country":"CZ",
+    "lbl:bbox":"15.06416,50.733754,15.07416,50.743754",
     "lbl:latitude":50.738754,
     "lbl:longitude":15.06916,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.729644,
     "mps:longitude":15.071207,
     "mz:hierarchy_label":0,
@@ -67,10 +69,6 @@
     "name:por_x_preferred":[
         "\u010ctve\u0159\u00edn"
     ],
-    "name:unk_x_variant":[
-        "Eichicht",
-        "Doub\u00ed"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3071961,
@@ -101,7 +99,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748147,
@@ -112,7 +110,9 @@
     "wof:concordances":{
         "gn:id":3076565,
         "gp:id":788702,
-        "qs:id":136466,
+        "qs_pg:id":136466
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1019785
     },
     "wof:country":"CZ",
@@ -130,7 +130,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772298,
+    "wof:lastmodified":1566710195,
     "wof:name":"Doub\u00ed",
     "wof:parent_id":101748147,
     "wof:placetype":"neighbourhood",

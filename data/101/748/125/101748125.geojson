@@ -13,6 +13,8 @@
     "iso:country":"CZ",
     "lbl:latitude":49.817521,
     "lbl:longitude":18.283419,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.817521,
     "mps:longitude":18.283419,
     "mz:hierarchy_label":1,
@@ -416,7 +418,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":49.835556,
     "wd:longitude":18.2925,
@@ -432,7 +434,7 @@
         "fct:id":"06fb939a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3068799,
         "gp:id":12607114,
-        "qs:id":248439,
+        "qs_pg:id":248439,
         "wd:id":"Q8385",
         "wk:page":"Ostrava"
     },
@@ -450,7 +452,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247395,
+    "wof:lastmodified":1566710586,
     "wof:name":"Ostrava",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

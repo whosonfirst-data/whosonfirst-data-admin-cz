@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.03025,
     "lbl:longitude":17.725707,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.03025,
     "mps:longitude":17.725707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0634\u0648\u0645\u06cc\u062a\u0633\u0647"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "\u0160umice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schumitz"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,10 +119,12 @@
     "wof:concordances":{
         "gn:id":3064678,
         "gp:id":12606307,
-        "qs:id":1042975,
         "qs_pg:id":94432,
         "wd:id":"Q392676",
         "wk:page":"\u0160umice (Uhersk\u00e9 Hradi\u0161t\u011b District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1042975
     },
     "wof:country":"CZ",
     "wof:geomhash":"12a63bc3458e365f3975d286800b520b",
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":101780953,
-    "wof:lastmodified":1563247861,
+    "wof:lastmodified":1566710659,
     "wof:name":"\u0160umice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

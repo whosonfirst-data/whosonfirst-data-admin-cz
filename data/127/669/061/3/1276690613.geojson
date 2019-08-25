@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.98749,49.29499,13.02749,49.33499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sruby"
     ],
@@ -72,8 +76,7 @@
         "Sruby"
     ],
     "name:und_x_variant":[
-        "Heuhof",
-        "Sruby"
+        "Heuhof"
     ],
     "name:vie_x_preferred":[
         "Sruby"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1276690613,
-    "wof:lastmodified":1564101525,
+    "wof:lastmodified":1566710305,
     "wof:name":"Sruby",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

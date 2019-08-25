@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.381121,
     "lbl:longitude":16.761801,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.381121,
     "mps:longitude":16.761801,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u062a\u0631\u0648\u0641 \u0648 \u0645\u0627\u062a\u0633\u0648\u062e\u06cc"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Ostrov u Macochy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostrow"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3068753,
         "gp:id":795644,
-        "qs:id":1043005,
         "qs_pg:id":1043005,
         "wd:id":"Q2035980",
         "wk:page":"Ostrov u Macochy"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101826381,
-    "wof:lastmodified":1563247352,
+    "wof:lastmodified":1566710580,
     "wof:name":"Ostrov u Macochy",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

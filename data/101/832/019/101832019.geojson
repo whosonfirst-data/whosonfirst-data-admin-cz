@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.986274,
     "lbl:longitude":17.096108,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.986274,
     "mps:longitude":17.096108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Svatobo\u0159ice-Mist\u0159\u00edn"
     ],
@@ -93,7 +96,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3064587,
         "gp:id":799346,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q646659"
     },
     "wof:country":"CZ",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101832019,
-    "wof:lastmodified":1563247361,
+    "wof:lastmodified":1566710582,
     "wof:name":"Svatobo\u0159ice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

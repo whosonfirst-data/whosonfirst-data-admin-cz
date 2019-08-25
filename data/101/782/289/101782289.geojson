@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.79004,
     "lbl:longitude":14.788213,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.79004,
     "mps:longitude":14.788213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Nov\u00e9 Hrady"
     ],
@@ -95,7 +98,7 @@
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u0435-\u04ba\u0440\u0430\u0434\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gratzen"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -131,10 +134,12 @@
     "wof:concordances":{
         "gn:id":3069492,
         "gp:id":795000,
-        "qs:id":1168786,
         "qs_pg:id":261782,
         "wd:id":"Q1019355",
         "wk:page":"Nov\u00e9 Hrady (\u010cesk\u00e9 Bud\u011bjovice District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1168786
     },
     "wof:country":"CZ",
     "wof:geomhash":"2cfed2db541318d97aa902048d67dc43",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":101782289,
-    "wof:lastmodified":1563247365,
+    "wof:lastmodified":1566710583,
     "wof:name":"Nov\u00e9 Hrady",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

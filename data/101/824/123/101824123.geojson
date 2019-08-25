@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.123005,
     "lbl:longitude":17.375618,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.123005,
     "mps:longitude":17.375618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0631\u0628\u0646\u0648 \u067e\u0648\u062f \u067e\u0631\u0627\u062f\u06cc\u062f\u0645"
     ],
@@ -98,7 +101,7 @@
     "name:tat_x_preferred":[
         "\u0412\u0440\u0431\u043d\u043e-\u043f\u043e\u0434-\u041f\u0440\u0430\u0434\u0435\u0434\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vrbno"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":205,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
     "wof:concordances":{
         "gn:id":3062446,
         "gp:id":801224,
-        "qs:id":1042948,
         "qs_pg:id":1042948,
         "wd:id":"Q158435",
         "wk:page":"Vrbno pod Prad\u011bdem"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101824123,
-    "wof:lastmodified":1563247580,
+    "wof:lastmodified":1566710614,
     "wof:name":"Vrbno pod Prad\u011bdem",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

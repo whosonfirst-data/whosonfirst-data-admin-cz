@@ -9,15 +9,18 @@
     "geom:bbox":"17.1654,49.30689,17.1654,49.30689",
     "geom:latitude":49.30689,
     "geom:longitude":17.1654,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":530,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":530,
     "iso:country":"CZ",
+    "lbl:bbox":"17.1454,49.28689,17.1854,49.32689",
     "lbl:latitude":49.30689,
     "lbl:longitude":17.1654,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062a\u06cc\u0634\u062a\u06cc\u0646"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "T\u00ed\u0161t\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tischtin"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":799683,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125875161,
-    "wof:lastmodified":1563249377,
+    "wof:lastmodified":1566710920,
     "wof:name":"Ti\u0161t\u00edn",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

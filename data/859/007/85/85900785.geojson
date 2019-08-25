@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.040428,
     "lbl:longitude":14.550542,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.030801,
     "mps:longitude":14.553306,
     "mz:hierarchy_label":1,
@@ -86,9 +87,6 @@
     "name:swe_x_preferred":[
         "Mil\u00ed\u010dov"
     ],
-    "name:unk_x_variant":[
-        "Mil\u00ed\u010dov"
-    ],
     "name:vie_x_preferred":[
         "Mil\u00ed\u010dov"
     ],
@@ -133,7 +131,6 @@
     "wof:concordances":{
         "gn:id":3070669,
         "gp:id":793919,
-        "qs:id":1116037,
         "qs_pg:id":1116037,
         "wd:id":"Q1841845"
     },
@@ -152,7 +149,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247483,
+    "wof:lastmodified":1566710182,
     "wof:name":"Mil\u00ed\u010dov",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

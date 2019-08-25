@@ -9,15 +9,18 @@
     "geom:bbox":"17.684,49.9151,17.684,49.9151",
     "geom:latitude":49.9151,
     "geom:longitude":17.684,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1054,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1054,
     "iso:country":"CZ",
+    "lbl:bbox":"17.664,49.8951,17.704,49.9351",
     "lbl:latitude":49.9151,
     "lbl:longitude":17.684,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Jakartovice"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Jakartovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eckersdorf"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +97,7 @@
     "qs_pg:qs_id":94489,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1125847283,
-    "wof:lastmodified":1563250630,
+    "wof:lastmodified":1566711133,
     "wof:name":"Jakartovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

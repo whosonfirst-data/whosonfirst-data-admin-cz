@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.009651,
     "lbl:longitude":14.461753,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.004874,
     "mps:longitude":14.439891,
     "mz:hierarchy_label":1,
@@ -61,10 +62,6 @@
     "name:slk_x_preferred":[
         "Libu\u0161"
     ],
-    "name:unk_x_variant":[
-        "Libusch",
-        "Libusch"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3067696,
@@ -105,7 +102,6 @@
     "wof:concordances":{
         "gn:id":3071882,
         "gp:id":792840,
-        "qs:id":326051,
         "qs_pg:id":326051,
         "wd:id":"Q3489926",
         "wk:page":"Libu\u0161"
@@ -125,7 +121,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326114,
+    "wof:lastmodified":1566710179,
     "wof:name":"Libus",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

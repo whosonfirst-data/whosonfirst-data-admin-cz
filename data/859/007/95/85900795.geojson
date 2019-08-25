@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.070373,
     "lbl:longitude":14.342259,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.066804,
     "mps:longitude":14.340947,
     "mz:hierarchy_label":1,
@@ -102,9 +103,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0442\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Motol"
-    ],
     "name:zho_x_preferred":[
         "\u83ab\u6258\u5229"
     ],
@@ -153,7 +151,6 @@
     "wof:concordances":{
         "gn:id":3070270,
         "gp:id":794277,
-        "qs:id":183071,
         "qs_pg:id":183071,
         "wd:id":"Q2041885"
     },
@@ -172,7 +169,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247483,
+    "wof:lastmodified":1566710178,
     "wof:name":"Motol",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

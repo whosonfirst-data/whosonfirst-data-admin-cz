@@ -9,15 +9,18 @@
     "geom:bbox":"12.98072,49.46695,12.98072,49.46695",
     "geom:latitude":49.46695,
     "geom:longitude":12.98072,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":586,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":586,
     "iso:country":"CZ",
+    "lbl:bbox":"12.96072,49.44695,13.00072,49.48695",
     "lbl:latitude":49.46695,
     "lbl:longitude":12.98072,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0644\u0627\u0648\u062a\u0634\u0647"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Milav\u010de"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Milav\u0161e"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":793884,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125940899,
-    "wof:lastmodified":1563248068,
+    "wof:lastmodified":1566710704,
     "wof:name":"Milav\u010de",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

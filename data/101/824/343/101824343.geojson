@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.362151,
     "lbl:longitude":13.847587,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.362151,
     "mps:longitude":13.847587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062a\u0634\u0631\u0646\u062a\u0634\u06cc\u062a\u0633\u0647"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3078065,
         "gp:id":787338,
-        "qs:id":1043092,
         "qs_pg:id":1043092,
         "wd:id":"Q339627",
         "wk:page":"\u010cern\u010dice (Louny District)"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101824343,
-    "wof:lastmodified":1563247588,
+    "wof:lastmodified":1566710616,
     "wof:name":"\u010cern\u010dice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

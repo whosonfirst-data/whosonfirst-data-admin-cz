@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.539534,
     "lbl:longitude":15.729871,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.539534,
     "mps:longitude":15.729871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hostinn\u00e9"
     ],
@@ -98,9 +101,6 @@
     "name:tat_x_preferred":[
         "\u04ba\u043e\u0441\u0442\u0438\u043d\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Arnau"
-    ],
     "name:vie_x_preferred":[
         "Hostinn\u00e9"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -136,7 +136,6 @@
         "fct:id":"06ff122c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3075058,
         "gp:id":790050,
-        "qs:id":1085162,
         "qs_pg:id":1085162,
         "wd:id":"Q1000467",
         "wk:page":"Hostinn\u00e9"
@@ -155,7 +154,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247488,
+    "wof:lastmodified":1566710601,
     "wof:name":"Hostinn\u00e9",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

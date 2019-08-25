@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.304513,
     "lbl:longitude":18.061004,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.304513,
     "mps:longitude":18.061004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0648\u06cc\u0632\u06cc"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Hov\u011bz\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Howiezy"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":92,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3075025,
         "gp:id":790080,
-        "qs:id":858594,
         "qs_pg:id":858594,
         "wd:id":"Q1022360",
         "wk:page":"Hov\u011bz\u00ed"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101779789,
-    "wof:lastmodified":1563247455,
+    "wof:lastmodified":1566710596,
     "wof:name":"Hov\u011bz\u00ed",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":18.264282,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"18.259282,49.782874,18.269282,49.792874",
     "lbl:latitude":49.787874,
     "lbl:longitude":18.264282,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.783962,
     "mps:longitude":18.26593,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     ],
     "name:epo_x_preferred":[
         "Gimnazio T\u0159eb\u00ed\u010d"
-    ],
-    "name:unk_x_variant":[
-        "Obchodn\u00ed akademie"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748125,
@@ -75,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24928625,
-        "qs:id":1053824,
         "qs_pg:id":1053824
     },
     "wof:country":"CZ",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772279,
+    "wof:lastmodified":1566710174,
     "wof:name":"Obchodn\u00ed akademie",
     "wof:parent_id":101748125,
     "wof:placetype":"neighbourhood",

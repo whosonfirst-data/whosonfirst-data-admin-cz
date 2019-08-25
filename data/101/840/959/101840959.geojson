@@ -5,16 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000294,
+    "geom:area_square_m":2349453.983043,
     "geom:bbox":"18.1452947432,49.7742077936,18.1878627058,49.7951418723",
     "geom:latitude":49.784666,
     "geom:longitude":18.164158,
     "iso:country":"CZ",
     "lbl:latitude":49.787305,
     "lbl:longitude":18.162696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.787305,
     "mps:longitude":18.162696,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Polanka"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -31,7 +36,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -41,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3067911,
         "gp:id":796397,
-        "qs:id":326166
+        "qs_pg:id":326166
     },
     "wof:country":"CZ",
     "wof:geomhash":"23067041400316c92e84b4eca3b00719",
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101840959,
-    "wof:lastmodified":1501265235,
+    "wof:lastmodified":1566710619,
     "wof:name":"Polanka nad Odrou",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

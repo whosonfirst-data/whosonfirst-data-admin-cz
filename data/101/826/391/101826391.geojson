@@ -9,17 +9,19 @@
     "geom:bbox":"15.9226663514,49.5474888912,15.9645121858,49.5889660702",
     "geom:latitude":49.563094,
     "geom:longitude":15.940573,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":24030,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":24030,
     "iso:country":"CZ",
     "lbl:latitude":49.5598,
     "lbl:longitude":15.941999,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.5598,
     "mps:longitude":15.941999,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062c\u062f\u064a\u0627\u0631 \u0646\u0627\u062f \u0633\u0627\u0632\u0627\u0641\u0648"
     ],
@@ -139,7 +141,7 @@
     "name:ukr_x_variant":[
         "\u0416\u0434\u044f\u0440-\u043d\u0430\u0434-\u0421\u0430\u0437\u0430\u0432\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u011bsto \u017d\u010far"
     ],
     "name:vie_x_preferred":[
@@ -187,7 +189,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":339,
     "wof:belongsto":[
@@ -200,15 +202,14 @@
         "fct:id":"0705cb80-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3061718,
         "gp:id":801889,
-        "qs:id":459856,
-        "qs_pg:id":939378,
+        "qs_pg:id":459856,
         "wd:id":"Q394453",
         "wk:page":"\u017d\u010f\u00e1r nad S\u00e1zavou"
     },
     "wof:concordances_alt":{
         "gn:id":3061695,
         "gp:id":801895,
-        "qs_pg:id":459856
+        "qs_pg:id":939378
     },
     "wof:country":"CZ",
     "wof:geomhash":"c001a1b0d9e7bfe0ea4ccebcb304d4f8",
@@ -224,7 +225,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247272,
+    "wof:lastmodified":1566710568,
     "wof:name":"\u017d\u010f\u00e1r nad S\u00e1zavou",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"14.78127,50.25548,14.78127,50.25548",
     "geom:latitude":50.25548,
     "geom:longitude":14.78127,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":650,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":650,
     "iso:country":"CZ",
+    "lbl:bbox":"14.76127,50.23548,14.80127,50.27548",
     "lbl:latitude":50.25548,
     "lbl:longitude":14.78127,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "P\u0159edm\u011b\u0159ice nad Jizerou"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "P\u0159edm\u011b\u0159ice nad Jizerou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u0159edm\u011b\u0159ice"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +96,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":796655,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125990961,
-    "wof:lastmodified":1563249524,
+    "wof:lastmodified":1566710948,
     "wof:name":"P\u0159edm\u011b\u0159ice nad Jizerou",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

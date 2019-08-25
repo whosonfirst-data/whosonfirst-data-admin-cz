@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.281679,
     "lbl:longitude":14.238349,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.281679,
     "mps:longitude":14.238349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0644\u0648\u0627\u0631\u06cc"
     ],
@@ -107,7 +110,7 @@
     "name:tat_x_preferred":[
         "\u0412\u0435\u043b\u0432\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Welwarn"
     ],
     "name:vie_x_preferred":[
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":148,
     "wof:belongsto":[
@@ -144,7 +147,6 @@
     "wof:concordances":{
         "gn:id":3063109,
         "gp:id":800626,
-        "qs:id":240845,
         "qs_pg:id":240845,
         "wd:id":"Q1024881",
         "wk:page":"Velvary"
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101824189,
-    "wof:lastmodified":1563247544,
+    "wof:lastmodified":1566710609,
     "wof:name":"Velvary",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

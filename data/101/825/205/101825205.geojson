@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.893314,
     "lbl:longitude":12.728478,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.893314,
     "mps:longitude":12.728478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chodov\u00e1 Plan\u00e1"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Chodov\u00e1 Plan\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuttenplan"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":486,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3077705,
         "gp:id":787650,
-        "qs:id":215201,
         "qs_pg:id":215201,
         "wd:id":"Q1075695",
         "wk:page":"Chodov\u00e1 Plan\u00e1"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101825205,
-    "wof:lastmodified":1563247683,
+    "wof:lastmodified":1566710631,
     "wof:name":"Chodov\u00e1 Plan\u00e1",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

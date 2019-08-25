@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.07469,
     "lbl:longitude":14.717495,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.07469,
     "mps:longitude":14.717495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00davaly"
     ],
@@ -92,7 +95,7 @@
     "name:tat_x_preferred":[
         "\u0423\u0432\u0430\u043b\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Auwal"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":24,
     "wof:belongsto":[
@@ -130,7 +133,6 @@
     "wof:concordances":{
         "gn:id":3063502,
         "gp:id":800285,
-        "qs:id":2830,
         "qs_pg:id":2830,
         "wd:id":"Q330653",
         "wk:page":"\u00davaly"
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101825715,
-    "wof:lastmodified":1563247696,
+    "wof:lastmodified":1566710633,
     "wof:name":"\u00davaly",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

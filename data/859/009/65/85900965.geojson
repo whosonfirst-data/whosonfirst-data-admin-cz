@@ -12,8 +12,10 @@
     "gn:latitude":50.65235,
     "gn:longitude":13.85356,
     "iso:country":"CZ",
+    "lbl:bbox":"13.828693,50.635686,13.838693,50.645686",
     "lbl:latitude":50.640686,
     "lbl:longitude":13.833693,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.645972,
     "mps:longitude":13.838237,
     "mz:hierarchy_label":0,
@@ -76,10 +78,6 @@
     "name:ukr_x_variant":[
         "\u0422\u0440\u043d\u043e\u0432\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Turn",
-        "Trnovany"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3064288,
@@ -110,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748135,
@@ -121,7 +119,6 @@
     "wof:concordances":{
         "gn:id":3063962,
         "gp:id":799887,
-        "qs:id":183379,
         "qs_pg:id":183379,
         "wd:id":"Q12059689"
     },
@@ -140,7 +137,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246382,
+    "wof:lastmodified":1566710184,
     "wof:name":"Trnovany",
     "wof:parent_id":101748135,
     "wof:placetype":"neighbourhood",

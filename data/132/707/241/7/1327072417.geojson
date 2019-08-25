@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.96788,50.31411,17.00788,50.35411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Nov\u00e9 Vil\u00e9movice"
     ],
@@ -39,8 +43,7 @@
         "Nov\u00e9 Vil\u00e9movice"
     ],
     "name:und_x_variant":[
-        "Neu Wilmsdorf",
-        "Nov\u00e9 Vil\u00e9movice"
+        "Neu Wilmsdorf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1327072417,
-    "wof:lastmodified":1564100910,
+    "wof:lastmodified":1566710035,
     "wof:name":"Nove Vilemovice",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":49.25363,
     "gn:longitude":16.62086,
     "iso:country":"CZ",
+    "lbl:bbox":"16.613286,49.25426,16.623286,49.26426",
     "lbl:latitude":49.25926,
     "lbl:longitude":16.618286,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.260933,
     "mps:longitude":16.621406,
     "mz:hierarchy_label":0,
@@ -69,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101779945,
@@ -80,7 +82,6 @@
     "wof:concordances":{
         "gn:id":3065647,
         "gp:id":798435,
-        "qs:id":1085430,
         "qs_pg:id":1085430,
         "wd:id":"Q12055198"
     },
@@ -99,7 +100,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772287,
+    "wof:lastmodified":1566710184,
     "wof:name":"Sobesice",
     "wof:parent_id":101779945,
     "wof:placetype":"neighbourhood",

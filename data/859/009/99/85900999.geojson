@@ -12,8 +12,10 @@
     "gn:latitude":49.48512,
     "gn:longitude":17.15143,
     "iso:country":"CZ",
+    "lbl:bbox":"17.135863,49.469687,17.145863,49.479687",
     "lbl:latitude":49.474687,
     "lbl:longitude":17.140863,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.478537,
     "mps:longitude":17.151009,
     "mz:hierarchy_label":0,
@@ -334,9 +336,6 @@
     "name:ukr_x_variant":[
         "\u0412\u0440\u0430\u0433\u043e\u0432\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Vrahovice"
-    ],
     "name:uzb_x_preferred":[
         "Vrahovice"
     ],
@@ -403,7 +402,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":49.480833,
     "wd:longitude":17.148333,
     "wd:wordcount":1073,
@@ -416,7 +415,6 @@
     "wof:concordances":{
         "gn:id":3062541,
         "gp:id":801142,
-        "qs:id":348764,
         "qs_pg:id":348764,
         "wd:id":"Q1023574",
         "wk:page":"Vrahovice"
@@ -436,7 +434,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246385,
+    "wof:lastmodified":1566710184,
     "wof:name":"Vrahovice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

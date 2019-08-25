@@ -10,8 +10,10 @@
     "geom:latitude":50.208836,
     "geom:longitude":15.832133,
     "iso:country":"CZ",
+    "lbl:bbox":"15.827133,50.203836,15.837133,50.213836",
     "lbl:latitude":50.208836,
     "lbl:longitude":15.832133,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.178657,
     "mps:longitude":15.795593,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0443\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Kluky"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
     "qs:gn_local":3074967,
@@ -88,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191581,
@@ -117,7 +116,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1564101253,
+    "wof:lastmodified":1566710190,
     "wof:name":"Kluky",
     "wof:parent_id":101748133,
     "wof:placetype":"neighbourhood",

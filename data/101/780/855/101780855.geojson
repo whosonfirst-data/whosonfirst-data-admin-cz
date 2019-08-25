@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.115016,
     "lbl:longitude":16.578093,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.115016,
     "mps:longitude":16.578093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0698\u0644\u0634\u06cc\u062a\u0633\u0647"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "\u017dele\u0161ice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sch\u00f6llschitz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":72,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3061578,
         "gp:id":802010,
-        "qs:id":434330,
         "qs_pg:id":434330,
         "wd:id":"Q393599",
         "wk:page":"\u017dele\u0161ice"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101780855,
-    "wof:lastmodified":1563247896,
+    "wof:lastmodified":1566710664,
     "wof:name":"\u017dele\u0161ice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

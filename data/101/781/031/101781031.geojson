@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.982446,
     "lbl:longitude":16.149571,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.982446,
     "mps:longitude":16.149571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0634\u0646\u0648\u0648\u0647"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Vi\u0161\u0148ov\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vi\u0161\u0148ov\u00e1"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":3062835,
         "gp:id":800876,
-        "qs:id":344745,
         "qs_pg:id":344745,
         "wd:id":"Q671535",
         "wk:page":"Vi\u0161\u0148ov\u00e9 (Znojmo District)"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101781031,
-    "wof:lastmodified":1563247827,
+    "wof:lastmodified":1566710653,
     "wof:name":"Vi\u0161\u0148ov\u00e9",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

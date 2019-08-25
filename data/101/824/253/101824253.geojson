@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.290649,
     "lbl:longitude":16.156618,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.290649,
     "mps:longitude":16.156618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Dobru\u0161ka"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0443\u0448\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dobruschka"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":307,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3076985,
         "gp:id":788295,
-        "qs:id":947068,
         "qs_pg:id":947068,
         "wd:id":"Q1228928",
         "wk:page":"Dobru\u0161ka"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101824253,
-    "wof:lastmodified":1563247572,
+    "wof:lastmodified":1566710613,
     "wof:name":"Dobru\u0161ka",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":50.46667,
     "gn:longitude":13.4,
     "iso:country":"CZ",
+    "lbl:bbox":"13.398303,50.449876,13.408303,50.459876",
     "lbl:latitude":50.454876,
     "lbl:longitude":13.403303,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.464414,
     "mps:longitude":13.41837,
     "mz:hierarchy_label":0,
@@ -82,10 +84,6 @@
     "name:swe_x_preferred":[
         "Horn\u00ed Ves"
     ],
-    "name:unk_x_variant":[
-        "Oberdorf",
-        "Horn\u00ed Ves"
-    ],
     "name:vie_x_preferred":[
         "Horn\u00ed Ves"
     ],
@@ -119,7 +117,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748145,
@@ -130,7 +128,6 @@
     "wof:concordances":{
         "gn:id":3075160,
         "gp:id":789949,
-        "qs:id":1116035,
         "qs_pg:id":1116035
     },
     "wof:country":"CZ",
@@ -148,7 +145,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1564101255,
+    "wof:lastmodified":1566710192,
     "wof:name":"Horn\u00ed Ves",
     "wof:parent_id":101748145,
     "wof:placetype":"neighbourhood",

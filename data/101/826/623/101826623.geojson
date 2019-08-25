@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.632332,
     "lbl:longitude":14.04145,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.632332,
     "mps:longitude":14.04145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mil\u00edn"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":3070661,
         "gp:id":793927,
-        "qs:id":231308,
         "qs_pg:id":231308,
         "wd:id":"Q2697759",
         "wk:page":"Mil\u00edn"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101826623,
-    "wof:lastmodified":1563247329,
+    "wof:lastmodified":1566710577,
     "wof:name":"Mil\u00edn",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

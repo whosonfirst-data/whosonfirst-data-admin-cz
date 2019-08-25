@@ -9,15 +9,18 @@
     "geom:bbox":"15.27316,50.57124,15.27316,50.57124",
     "geom:latitude":50.57124,
     "geom:longitude":15.27316,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":530,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":530,
     "iso:country":"CZ",
+    "lbl:bbox":"15.25316,50.55124,15.29316,50.59124",
     "lbl:latitude":50.57124,
     "lbl:longitude":15.27316,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0430\u0442\u043e\u0431\u0438\u0442\u0439"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Tatobity"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tatobyt"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +101,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":799547,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1126002729,
-    "wof:lastmodified":1563250265,
+    "wof:lastmodified":1566711071,
     "wof:name":"Tatobity",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

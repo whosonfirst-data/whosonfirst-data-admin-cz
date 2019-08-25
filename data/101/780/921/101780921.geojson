@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.080418,
     "lbl:longitude":15.433741,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.080418,
     "mps:longitude":15.433741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Da\u010dice"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0414\u0430\u0447\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Datschitz"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":122,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":3077304,
         "gp:id":788006,
-        "qs:id":218399,
         "qs_pg:id":218399,
         "wd:id":"Q1013843",
         "wk:page":"Da\u010dice"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101780921,
-    "wof:lastmodified":1563247901,
+    "wof:lastmodified":1566710665,
     "wof:name":"Da\u010dice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.834363,
     "lbl:longitude":16.069371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.834363,
     "mps:longitude":16.069371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Oblekovice"
     ],
@@ -31,7 +34,7 @@
     "name:slk_x_preferred":[
         "Oblekovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oblassee"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":3069213,
         "gp:id":795249,
-        "qs:id":1157820,
         "qs_pg:id":1157820,
         "wd:id":"Q12041928"
     },
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":101832001,
-    "wof:lastmodified":1563247359,
+    "wof:lastmodified":1566710582,
     "wof:name":"Oblekovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

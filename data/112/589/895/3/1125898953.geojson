@@ -9,15 +9,18 @@
     "geom:bbox":"15.46947,50.01291,15.46947,50.01291",
     "geom:latitude":50.01291,
     "geom:longitude":15.46947,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":655,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":655,
     "iso:country":"CZ",
+    "lbl:bbox":"15.44947,49.99291,15.48947,50.03291",
     "lbl:latitude":50.01291,
     "lbl:longitude":15.46947,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Zdechovice"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Zdechovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zdechowitz"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":1152269,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125898953,
-    "wof:lastmodified":1564102483,
+    "wof:lastmodified":1566710898,
     "wof:name":"Zdechovice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

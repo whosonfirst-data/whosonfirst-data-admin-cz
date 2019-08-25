@@ -10,8 +10,10 @@
     "geom:latitude":49.46696,
     "geom:longitude":17.027256,
     "iso:country":"CZ",
+    "lbl:bbox":"17.022256,49.46196,17.032256,49.47196",
     "lbl:latitude":49.46696,
     "lbl:longitude":17.027256,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.470156,
     "mps:longitude":17.033478,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ces_x_preferred":[
-        "Domamyslice"
-    ],
-    "name:unk_x_variant":[
         "Domamyslice"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -58,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -83,7 +82,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772297,
+    "wof:lastmodified":1566710195,
     "wof:name":"Domamyslice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

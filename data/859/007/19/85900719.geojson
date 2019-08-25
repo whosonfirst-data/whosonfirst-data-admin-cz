@@ -12,8 +12,10 @@
     "gn:latitude":50.2042,
     "gn:longitude":15.79202,
     "iso:country":"CZ",
+    "lbl:bbox":"15.801663,50.201207,15.811663,50.211207",
     "lbl:latitude":50.206207,
     "lbl:longitude":15.806663,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.205352,
     "mps:longitude":15.798232,
     "mz:hierarchy_label":0,
@@ -41,10 +43,6 @@
         "Kukleny"
     ],
     "name:pol_x_preferred":[
-        "Kukleny"
-    ],
-    "name:unk_x_variant":[
-        "Kuklena",
         "Kukleny"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -77,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748133,
@@ -88,7 +86,6 @@
     "wof:concordances":{
         "gn:id":3072551,
         "gp:id":792224,
-        "qs:id":221967,
         "qs_pg:id":221967,
         "wd:id":"Q12031853"
     },
@@ -107,7 +104,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772284,
+    "wof:lastmodified":1566710180,
     "wof:name":"Kukleny",
     "wof:parent_id":101748133,
     "wof:placetype":"neighbourhood",

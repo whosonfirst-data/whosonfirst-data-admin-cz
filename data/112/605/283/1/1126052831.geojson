@@ -9,15 +9,18 @@
     "geom:bbox":"15.37025,49.10682,15.37025,49.10682",
     "geom:latitude":49.10682,
     "geom:longitude":15.37025,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":655,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":655,
     "iso:country":"CZ",
+    "lbl:bbox":"15.35025,49.08682,15.39025,49.12682",
     "lbl:latitude":49.10682,
     "lbl:longitude":15.37025,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0648\u0644\u0641\u06cc\u0631\u0648\u0648"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Volf\u00ed\u0159ov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wolfirz"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":801109,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1126052831,
-    "wof:lastmodified":1563248867,
+    "wof:lastmodified":1566710830,
     "wof:name":"Volf\u00ed\u0159ov",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

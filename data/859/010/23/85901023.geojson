@@ -11,8 +11,10 @@
     "geom:longitude":15.938806,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"15.933806,49.574509,15.943806,49.584509",
     "lbl:latitude":49.579509,
     "lbl:longitude":15.938806,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.577304,
     "mps:longitude":15.93899,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:cze_x_variant":[
         "Saar Schloss"
-    ],
-    "name:unk_x_variant":[
-        "\u017d\u00e1r nad S\u00e1zavou II"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -66,7 +65,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101826391,
@@ -76,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":801897,
-        "qs:id":210385,
         "qs_pg:id":210385
     },
     "wof:country":"CZ",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772296,
+    "wof:lastmodified":1566710193,
     "wof:name":"\u017d\u00e1r nad S\u00e1zavou II",
     "wof:parent_id":101826391,
     "wof:placetype":"neighbourhood",

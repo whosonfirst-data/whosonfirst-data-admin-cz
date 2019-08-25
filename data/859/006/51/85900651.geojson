@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":49.998315,
     "lbl:longitude":14.516443,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.98035,
     "mps:longitude":14.525103,
     "mz:hierarchy_label":1,
@@ -48,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3074818,
         "gp:id":790262,
-        "qs:id":480905
+        "qs_pg:id":480905
     },
     "wof:country":"CZ",
     "wof:geomhash":"d0027f8f28bd9944651eb463759aa90d",
@@ -63,7 +64,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247483,
+    "wof:lastmodified":1566710190,
     "wof:name":"Hrncire",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

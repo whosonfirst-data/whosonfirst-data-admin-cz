@@ -9,15 +9,18 @@
     "geom:bbox":"14.99942,50.19291,14.99942,50.19291",
     "geom:latitude":50.19291,
     "geom:longitude":14.99942,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":528,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":528,
     "iso:country":"CZ",
+    "lbl:bbox":"14.97942,50.17291,15.01942,50.21291",
     "lbl:latitude":50.19291,
     "lbl:longitude":14.99942,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0645\u0646\u0646\u0647 \u0632\u0628\u0648\u0698\u06cc"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Kamenn\u00e9 Zbo\u017e\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zbo\u017e\u00ed"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":791055,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125936825,
-    "wof:lastmodified":1563248293,
+    "wof:lastmodified":1566710738,
     "wof:name":"Kamenn\u00e9 Zbo\u017e\u00ed",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

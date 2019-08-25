@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.816474,
     "lbl:longitude":15.477626,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.816474,
     "mps:longitude":15.477626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u0447\u0443\u0432 \u0419\u0435\u043d\u0438\u043a\u043e\u0432"
     ],
@@ -104,7 +107,7 @@
     "name:tat_x_preferred":[
         "\u0413\u043e\u043b\u0447\u0443\u0432-\u0415\u043d\u0438\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goltsch Jenikau"
     ],
     "name:vie_x_preferred":[
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":756,
     "wof:belongsto":[
@@ -141,7 +144,6 @@
     "wof:concordances":{
         "gn:id":3076098,
         "gp:id":789107,
-        "qs:id":1043071,
         "qs_pg:id":1043071,
         "wd:id":"Q1011641",
         "wk:page":"Gol\u010d\u016fv Jen\u00edkov"
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101825197,
-    "wof:lastmodified":1563247718,
+    "wof:lastmodified":1566710637,
     "wof:name":"Gol\u010d\u016fv Jen\u00edkov",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

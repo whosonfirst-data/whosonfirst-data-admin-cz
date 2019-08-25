@@ -9,14 +9,18 @@
     "geom:bbox":"12.778,50.43745,12.778,50.43745",
     "geom:latitude":50.43745,
     "geom:longitude":12.778,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"12.758,50.41745,12.798,50.45745",
     "lbl:latitude":50.43745,
     "lbl:longitude":12.778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Podles\u00ed"
@@ -48,7 +52,7 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u0434\u043b\u0435\u0441\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Streitseifen"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -68,7 +72,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":24929715,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"Karlovarsk\u00fd kraj",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1126055335,
-    "wof:lastmodified":1564102367,
+    "wof:lastmodified":1566710817,
     "wof:name":"Podles\u00ed",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

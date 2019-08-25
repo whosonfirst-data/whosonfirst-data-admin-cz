@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.905901,
     "lbl:longitude":18.02889,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.905901,
     "mps:longitude":18.02889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mokr\u00e9 Lazce"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Mokr\u00e9 Lazce"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gauendorf"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
@@ -108,10 +111,12 @@
     "wof:concordances":{
         "gn:id":3070385,
         "gp:id":794176,
-        "qs:id":383483,
-        "qs_pg:id":1247511,
+        "qs_pg:id":383483,
         "wd:id":"Q379026",
         "wk:page":"Mokr\u00e9 Lazce"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1247511
     },
     "wof:country":"CZ",
     "wof:geomhash":"25842901d80a0d0249d76775b4933dcc",
@@ -124,7 +129,7 @@
         }
     ],
     "wof:id":101825511,
-    "wof:lastmodified":1563247700,
+    "wof:lastmodified":1566710634,
     "wof:name":"Mokr\u00e9 Lazce",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

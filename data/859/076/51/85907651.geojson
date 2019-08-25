@@ -12,8 +12,10 @@
     "gn:latitude":49.57989,
     "gn:longitude":17.24849,
     "iso:country":"CZ",
+    "lbl:bbox":"17.244199,49.585294,17.254199,49.595294",
     "lbl:latitude":49.590294,
     "lbl:longitude":17.249199,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.580176,
     "mps:longitude":17.245615,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ces_x_preferred":[
-        "Povel"
-    ],
-    "name:unk_x_variant":[
         "Povel"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748129,
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":6694360,
         "gp:id":23407525,
-        "qs:id":1058859,
         "qs_pg:id":1058859
     },
     "wof:country":"CZ",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772281,
+    "wof:lastmodified":1566710176,
     "wof:name":"Povel",
     "wof:parent_id":101748129,
     "wof:placetype":"neighbourhood",

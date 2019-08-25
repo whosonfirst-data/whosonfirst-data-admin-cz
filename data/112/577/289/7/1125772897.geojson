@@ -9,15 +9,18 @@
     "geom:bbox":"14.72993,50.13056,14.72993,50.13056",
     "geom:latitude":50.13056,
     "geom:longitude":14.72993,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1045,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1045,
     "iso:country":"CZ",
+    "lbl:bbox":"14.70993,50.11056,14.74993,50.15056",
     "lbl:latitude":50.13056,
     "lbl:longitude":14.72993,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041d\u0435\u0445\u0432\u0438\u0437\u0434\u0439"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Nehvizdy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross-Nehwizd"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":794564,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125772897,
-    "wof:lastmodified":1563250652,
+    "wof:lastmodified":1566711136,
     "wof:name":"Nehvizdy",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

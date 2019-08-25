@@ -11,8 +11,10 @@
     "geom:longitude":16.56942,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"16.56442,49.162126,16.57442,49.172126",
     "lbl:latitude":49.167126,
     "lbl:longitude":16.56942,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.163309,
     "mps:longitude":16.566121,
     "mz:hierarchy_label":0,
@@ -53,9 +55,6 @@
     "name:slk_x_preferred":[
         "Brno-Star\u00fd L\u00edskovec"
     ],
-    "name:unk_x_variant":[
-        "Brno-Star\u00fd L\u00edskovec"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
     "qs:gn_local":3078610,
@@ -83,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748109,
@@ -94,9 +93,11 @@
     "wof:concordances":{
         "gn:id":3071732,
         "gp:id":792976,
-        "qs:id":1152981,
         "qs_pg:id":399163,
         "wd:id":"Q3565077"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152981
     },
     "wof:country":"CZ",
     "wof:geomhash":"c14f060e246a8efca56f80d97727f264",
@@ -113,7 +114,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246374,
+    "wof:lastmodified":1566710182,
     "wof:name":"Brno-Star\u00fd L\u00edskovec",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

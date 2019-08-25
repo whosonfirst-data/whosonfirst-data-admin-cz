@@ -13,6 +13,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.074589,
     "lbl:longitude":14.512266,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.067332,
     "mps:longitude":14.523342,
     "mz:hierarchy_label":1,
@@ -40,9 +41,6 @@
         "Nove Strasnice"
     ],
     "name:eng_x_variant":[
-        "Nov\u00e9 Stra\u00b5nice"
-    ],
-    "name:unk_x_variant":[
         "Nov\u00e9 Stra\u00b5nice"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -83,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":795063,
-        "qs:id":974249,
         "qs_pg:id":974249
     },
     "wof:country":"CZ",
@@ -101,7 +98,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326116,
+    "wof:lastmodified":1566710187,
     "wof:name":"Nove Strasnice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

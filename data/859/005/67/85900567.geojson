@@ -12,8 +12,10 @@
     "gn:latitude":50.59051,
     "gn:longitude":14.03779,
     "iso:country":"CZ",
+    "lbl:bbox":"14.022448,50.57753,14.032448,50.58753",
     "lbl:latitude":50.58253,
     "lbl:longitude":14.027448,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.582368,
     "mps:longitude":14.037711,
     "mz:hierarchy_label":0,
@@ -58,9 +60,6 @@
     "name:swe_x_preferred":[
         "C\u00edrkvice"
     ],
-    "name:unk_x_variant":[
-        "C\u00edrkvice"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3063548,
@@ -91,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191581,
@@ -102,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3077390,
         "gp:id":787932,
-        "qs:id":1013971,
         "qs_pg:id":1013971
     },
     "wof:country":"CZ",
@@ -120,7 +118,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1564101257,
+    "wof:lastmodified":1566710194,
     "wof:name":"C\u00edrkvice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

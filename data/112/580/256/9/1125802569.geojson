@@ -9,15 +9,18 @@
     "geom:bbox":"15.41356,49.61302,15.41356,49.61302",
     "geom:latitude":49.61302,
     "geom:longitude":15.41356,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":620,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":620,
     "iso:country":"CZ",
+    "lbl:bbox":"15.39356,49.59302,15.43356,49.63302",
     "lbl:latitude":49.61302,
     "lbl:longitude":15.41356,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041b\u0456\u043f\u043d\u0456\u0446\u044b-\u043d\u0430\u0434-\u0421\u0430\u0437\u0430\u0432\u0430\u0443"
@@ -94,7 +97,7 @@
     "name:swe_x_preferred":[
         "Lipnice nad S\u00e1zavou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipnitz"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +127,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":792920,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":1125802569,
-    "wof:lastmodified":1563249319,
+    "wof:lastmodified":1566710911,
     "wof:name":"Lipnice nad S\u00e1zavou",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

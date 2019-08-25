@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"13.80958,50.19724,13.84958,50.23724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3076310
     },
     "wof:country":"CZ",
-    "wof:geomhash":"1d44caebb2c12ce8d84ecc957b0da0bd",
+    "wof:geomhash":"88c4d864d2a6e5e902e34f1a99b949c4",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209251275,
-    "wof:lastmodified":1536292996,
+    "wof:lastmodified":1566710379,
     "wof:name":"Ducice",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.829579999999998,
+    13.82958,
     50.21724,
-    13.829579999999998,
+    13.82958,
     50.21724
 ],
   "geometry": {"coordinates":[13.82958,50.21724],"type":"Point"}

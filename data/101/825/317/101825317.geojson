@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.921133,
     "lbl:longitude":16.308942,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.921133,
     "mps:longitude":16.308942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Horn\u00ed Sloupnice"
     ],
@@ -68,9 +71,6 @@
     "name:swe_x_preferred":[
         "Horn\u00ed Sloupnice"
     ],
-    "name:unk_x_variant":[
-        "Sloupnice"
-    ],
     "name:vie_x_preferred":[
         "Sloupnice"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,9 +101,11 @@
     "wof:concordances":{
         "gn:id":3075206,
         "gp:id":788587,
-        "qs:id":145472,
         "qs_pg:id":145451,
         "wd:id":"Q2067993"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":145472
     },
     "wof:country":"CZ",
     "wof:geomhash":"f205f03569eb5c3b5639d678d5bf8b81",
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101825317,
-    "wof:lastmodified":1563247768,
+    "wof:lastmodified":1566710644,
     "wof:name":"Horn\u00ed Sloupnice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"14.92262,48.80733,14.92262,48.80733",
     "geom:latitude":48.80733,
     "geom:longitude":14.92262,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":84,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":84,
     "iso:country":"CZ",
+    "lbl:bbox":"14.90262,48.78733,14.94262,48.82733",
     "lbl:latitude":48.80733,
     "lbl:longitude":14.92262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Z\u00e1blat\u00ed"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Z\u00e1blat\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moosh\u00e4user"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":580752,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125783853,
-    "wof:lastmodified":1564102797,
+    "wof:lastmodified":1566711116,
     "wof:name":"Z\u00e1blat\u00ed",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

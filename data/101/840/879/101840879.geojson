@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
+    "geom:area_square_m":616480.590172,
     "geom:bbox":"16.0011511817,50.0674051105,16.0297145079,50.0770477793",
     "geom:latitude":50.072562,
     "geom:longitude":16.015514,
     "iso:country":"CZ",
     "lbl:latitude":50.072043,
     "lbl:longitude":16.01216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.072043,
     "mps:longitude":16.01216,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Pardubick\u00fd",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24930344,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"CZ",
-    "wof:geomhash":"f20951ce4400ae83c72b43bf9e10e52b",
+    "wof:geomhash":"0a38ef167921b2091f6ef7bc8bdc19c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101840879,
-    "wof:lastmodified":1477508570,
+    "wof:lastmodified":1566710620,
     "wof:name":"Star\u00e9 Holice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

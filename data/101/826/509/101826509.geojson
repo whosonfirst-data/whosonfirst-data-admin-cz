@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.652972,
     "lbl:longitude":13.294365,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.652972,
     "mps:longitude":13.294365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dob\u0159any"
     ],
@@ -83,7 +86,7 @@
     "name:tat_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0436\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dobrzan"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":3077073,
         "gp:id":788227,
-        "qs:id":2548,
         "qs_pg:id":2548,
         "wd:id":"Q1019360",
         "wk:page":"Dob\u0159any (Plze\u0148-South District)"
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":101826509,
-    "wof:lastmodified":1563247322,
+    "wof:lastmodified":1566710576,
     "wof:name":"Dob\u0159any",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

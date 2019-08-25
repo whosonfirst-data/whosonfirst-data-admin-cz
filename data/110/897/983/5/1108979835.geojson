@@ -9,14 +9,18 @@
     "geom:bbox":"14.68177,50.19614,14.68177,50.19614",
     "geom:latitude":50.19614,
     "geom:longitude":14.68177,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"14.66177,50.17614,14.70177,50.21614",
     "lbl:latitude":50.19614,
     "lbl:longitude":14.68177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Star\u00e1 Boleslav"
@@ -27,7 +31,7 @@
     "name:fra_x_preferred":[
         "Star\u00e1 Boleslav"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alt Bunzlau"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -51,7 +55,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":798619,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1108979835,
-    "wof:lastmodified":1561772340,
+    "wof:lastmodified":1566710481,
     "wof:name":"Star\u00e1 Boleslav",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

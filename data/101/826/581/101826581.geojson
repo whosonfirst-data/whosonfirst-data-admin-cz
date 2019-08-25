@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.555966,
     "lbl:longitude":17.138527,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.555966,
     "mps:longitude":17.138527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u062a\u06cc\u0646"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Lut\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luttein"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":70,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3071350,
         "gp:id":793314,
-        "qs:id":190286,
         "qs_pg:id":190286,
         "wd:id":"Q1878269",
         "wk:page":"Lut\u00edn"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101826581,
-    "wof:lastmodified":1563247303,
+    "wof:lastmodified":1566710573,
     "wof:name":"Lut\u00edn",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.88478,49.60416,12.92478,49.64416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0632\u0647\u0648\u0644\u0632\u06cc"
     ],
@@ -54,8 +58,7 @@
         "\u041c\u0435\u0437\u0445\u043e\u043b\u0435\u0437\u0438"
     ],
     "name:und_x_variant":[
-        "Messhals",
-        "Mezholezy"
+        "Messhals"
     ],
     "name:vie_x_preferred":[
         "Mezholezy"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1326959551,
-    "wof:lastmodified":1564100967,
+    "wof:lastmodified":1566710059,
     "wof:name":"Mezholezy",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

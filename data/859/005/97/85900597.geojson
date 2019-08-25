@@ -12,8 +12,10 @@
     "gn:latitude":50.23496,
     "gn:longitude":12.87881,
     "iso:country":"CZ",
+    "lbl:bbox":"12.8721,50.222389,12.8821,50.232389",
     "lbl:latitude":50.227389,
     "lbl:longitude":12.8771,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.22235,
     "mps:longitude":12.8813,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ces_x_preferred":[
-        "Drahovice"
-    ],
-    "name:unk_x_variant":[
         "Drahovice"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101840901,
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3076474,
         "gp:id":788783,
-        "qs:id":1168771,
         "qs_pg:id":1168771
     },
     "wof:country":"CZ",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772298,
+    "wof:lastmodified":1566710196,
     "wof:name":"Drahovice",
     "wof:parent_id":101840901,
     "wof:placetype":"neighbourhood",

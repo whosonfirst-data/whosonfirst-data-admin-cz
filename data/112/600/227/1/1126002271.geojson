@@ -9,15 +9,18 @@
     "geom:bbox":"17.89295,49.46096,17.89295,49.46096",
     "geom:latitude":49.46096,
     "geom:longitude":17.89295,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":874,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":874,
     "iso:country":"CZ",
+    "lbl:bbox":"17.87295,49.44096,17.91295,49.48096",
     "lbl:latitude":49.46096,
     "lbl:longitude":17.89295,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u0631\u0627\u0646\u06a9\u06cc"
@@ -88,7 +91,7 @@
     "name:swe_x_preferred":[
         "Branky"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Branek"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":786681,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1126002271,
-    "wof:lastmodified":1563250257,
+    "wof:lastmodified":1566711070,
     "wof:name":"Branky",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

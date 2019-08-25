@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.404608,
     "lbl:longitude":15.668269,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.404608,
     "mps:longitude":15.668269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0644\u06a9\u06cc \u0628\u0631\u0646\u0648"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Velk\u00fd Beranov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beranov"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -111,10 +114,12 @@
     "wof:concordances":{
         "gn:id":3079486,
         "gp:id":786098,
-        "qs:id":1268656,
         "qs_pg:id":383254,
         "wd:id":"Q963341",
         "wk:page":"Velk\u00fd Beranov"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1268656
     },
     "wof:country":"CZ",
     "wof:geomhash":"082e525be9dd2c77071d8a27814526b5",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":101826389,
-    "wof:lastmodified":1563247346,
+    "wof:lastmodified":1566710580,
     "wof:name":"Velk\u00fd Beranov",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

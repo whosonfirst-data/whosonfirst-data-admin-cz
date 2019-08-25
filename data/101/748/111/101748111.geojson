@@ -13,6 +13,8 @@
     "iso:country":"CZ",
     "lbl:latitude":49.734736,
     "lbl:longitude":13.375817,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":49.734736,
     "mps:longitude":13.375817,
     "mz:hierarchy_label":1,
@@ -444,7 +446,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":49.741389,
     "wd:longitude":13.3825,
@@ -459,10 +461,12 @@
     "wof:concordances":{
         "gn:id":3068160,
         "gp:id":796166,
-        "qs:id":352898,
-        "qs_pg:id":398770,
+        "qs_pg:id":352898,
         "wd:id":"Q43453",
         "wk:page":"Plze\u0148"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":398770
     },
     "wof:country":"CZ",
     "wof:geomhash":"5f20f8cac96751c3901c396f4859b0eb",
@@ -475,7 +479,7 @@
         }
     ],
     "wof:id":101748111,
-    "wof:lastmodified":1563247380,
+    "wof:lastmodified":1566710585,
     "wof:name":"Plze\u0148",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

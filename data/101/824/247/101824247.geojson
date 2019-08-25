@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.476901,
     "lbl:longitude":16.088098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.476901,
     "mps:longitude":16.088098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u010cerven\u00fd Kostelec"
     ],
@@ -80,7 +83,7 @@
     "name:tat_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d\u0438-\u041a\u043e\u0441\u0442\u0435\u043b\u0435\u0442\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roth-Kosteletz"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":112,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":3077955,
         "gp:id":787429,
-        "qs:id":1240774,
         "qs_pg:id":1240774,
         "wd:id":"Q158420",
         "wk:page":"\u010cerven\u00fd Kostelec"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101824247,
-    "wof:lastmodified":1563247566,
+    "wof:lastmodified":1566710613,
     "wof:name":"\u010cerven\u00fd Kostelec",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

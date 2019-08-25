@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.164097,
     "lbl:longitude":16.278157,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.164097,
     "mps:longitude":16.278157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u062e\u0646\u0648\u0641 \u0646\u0627\u062f \u0643\u0646\u064a\u062c\u0646\u0648"
     ],
@@ -113,7 +116,7 @@
     "name:tur_x_preferred":[
         "Rychnov nad Kn\u011b\u017enou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reichenau"
     ],
     "name:vie_x_preferred":[
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":218,
     "wof:belongsto":[
@@ -154,7 +157,6 @@
         "fct:id":"06f8926c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3066503,
         "gp:id":797674,
-        "qs:id":1283766,
         "qs_pg:id":1283766,
         "wd:id":"Q1000091"
     },
@@ -172,7 +174,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247577,
+    "wof:lastmodified":1566710614,
     "wof:name":"Rychnov nad Kn\u011b\u017enou",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

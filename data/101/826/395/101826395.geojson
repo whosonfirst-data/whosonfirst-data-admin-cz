@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.695333,
     "lbl:longitude":15.277669,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.695333,
     "mps:longitude":15.277669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lede\u010d nad S\u00e1zavou"
     ],
@@ -95,9 +98,6 @@
     "name:tat_x_preferred":[
         "\u041b\u0435\u0434\u0435\u0447-\u043d\u0430\u0434-\u0421\u0430\u0437\u0430\u0432\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Lede\u010d na Sazav\u00e9"
-    ],
     "name:vie_x_preferred":[
         "Lede\u010d nad S\u00e1zavou"
     ],
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -133,7 +133,6 @@
         "fct:id":"07007e82-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3072235,
         "gp:id":792503,
-        "qs:id":145373,
         "qs_pg:id":145373,
         "wd:id":"Q1290479",
         "wk:page":"Lede\u010d nad S\u00e1zavou"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247314,
+    "wof:lastmodified":1566710575,
     "wof:name":"Lede\u010d nad S\u00e1zavou",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

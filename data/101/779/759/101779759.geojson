@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.169539,
     "lbl:longitude":14.580283,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.169539,
     "mps:longitude":14.580283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Doln\u00ed Bukovsko"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Doln\u00ed Bukovsko"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bukowsko"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":16,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3076907,
         "gp:id":788371,
-        "qs:id":868554,
         "qs_pg:id":868554,
         "wd:id":"Q1146788",
         "wk:page":"Doln\u00ed Bukovsko"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101779759,
-    "wof:lastmodified":1563247436,
+    "wof:lastmodified":1566710593,
     "wof:name":"Doln\u00ed Bukovsko",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

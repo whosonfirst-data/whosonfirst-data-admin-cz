@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.576553,
     "lbl:longitude":15.075816,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.576553,
     "mps:longitude":15.075816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "P\u0159\u00ed\u0161ovice"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3067485,
         "gp:id":796788,
-        "qs:id":388290,
         "qs_pg:id":388290,
         "wd:id":"Q2058582"
     },
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101820689,
-    "wof:lastmodified":1563247265,
+    "wof:lastmodified":1566710567,
     "wof:name":"P\u0159\u00ed\u0161ovice",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

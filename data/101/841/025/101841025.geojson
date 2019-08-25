@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
-    "geom:area_square_m":1826491.36699,
+    "geom:area_square_m":1826491.366989,
     "geom:bbox":"14.0119413707,49.9226732128,14.0353391451,49.9549381428",
     "geom:latitude":49.936072,
     "geom:longitude":14.023339,
@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.931647,
     "lbl:longitude":14.020845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":49.931647,
     "mps:longitude":14.020845,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Po\u010daply"
     ],
@@ -41,7 +44,7 @@
     "name:slk_x_preferred":[
         "Po\u010daply"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pod\u010dapl"
     ],
     "name:vie_x_preferred":[
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,8 +77,10 @@
     "wof:concordances":{
         "gn:id":3068144,
         "gp:id":796181,
-        "qs:id":1267609,
         "qs_pg:id":1247544
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1267609
     },
     "wof:country":"CZ",
     "wof:geomhash":"d6506ee003b79bf8fe4d2faba4dd7d71",
@@ -88,7 +93,7 @@
         }
     ],
     "wof:id":101841025,
-    "wof:lastmodified":1505338269,
+    "wof:lastmodified":1566710598,
     "wof:name":"Po\u010daply",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

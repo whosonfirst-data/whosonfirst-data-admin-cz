@@ -9,15 +9,18 @@
     "geom:bbox":"14.53876,48.98107,14.53876,48.98107",
     "geom:latitude":48.98107,
     "geom:longitude":14.53876,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":307,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":307,
     "iso:country":"CZ",
+    "lbl:bbox":"14.51876,48.96107,14.55876,49.00107",
     "lbl:latitude":48.98107,
     "lbl:longitude":14.53876,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u0648\u0628\u06cc\u062a\u0634\u0646\u0647"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Dubi\u010dn\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dubiken"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":788910,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125915871,
-    "wof:lastmodified":1563249980,
+    "wof:lastmodified":1566711025,
     "wof:name":"Dubi\u010dn\u00e9",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

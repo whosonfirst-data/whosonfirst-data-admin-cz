@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.122555,
     "lbl:longitude":14.413702,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.127601,
     "mps:longitude":14.409646,
     "mz:hierarchy_label":1,
@@ -49,10 +50,6 @@
     ],
     "name:slk_x_preferred":[
         "Bohnice"
-    ],
-    "name:unk_x_variant":[
-        "Bohnice",
-        "Bohnitz"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
@@ -95,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3079145,
         "gp:id":786383,
-        "qs:id":182498,
         "qs_pg:id":182498,
         "wd:id":"Q2442419",
         "wk:page":"Bohnice"
@@ -115,7 +111,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247481,
+    "wof:lastmodified":1566710196,
     "wof:name":"Bohnitz",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

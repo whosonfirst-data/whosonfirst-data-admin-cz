@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.123199,
     "lbl:longitude":13.772535,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.123199,
     "mps:longitude":13.772535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lu\u017en\u00e1"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,10 +104,12 @@
     "wof:concordances":{
         "gn:id":3071323,
         "gp:id":793343,
-        "qs:id":145369,
-        "qs_pg:id":938883,
+        "qs_pg:id":145369,
         "wd:id":"Q1878490",
         "wk:page":"Lu\u017en\u00e1 (Rakovn\u00edk District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":938883
     },
     "wof:country":"CZ",
     "wof:geomhash":"76bedf62cc6a382fbfeab360097d1931",
@@ -117,7 +122,7 @@
         }
     ],
     "wof:id":101825697,
-    "wof:lastmodified":1563247745,
+    "wof:lastmodified":1566710641,
     "wof:name":"Lu\u017en\u00e1",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

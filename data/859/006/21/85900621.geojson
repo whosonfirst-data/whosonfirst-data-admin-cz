@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.103861,
     "lbl:longitude":14.443024,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.106794,
     "mps:longitude":14.449598,
     "mz:hierarchy_label":1,
@@ -71,9 +72,8 @@
     "name:swe_x_preferred":[
         "Hole\u0161ovice"
     ],
-    "name:unk_x_variant":[
-        "Hole\u0161ovice Bubny",
-        "Holesovice"
+    "name:und_x_variant":[
+        "Hole\u0161ovice Bubny"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
@@ -116,7 +116,6 @@
     "wof:concordances":{
         "gn:id":3075605,
         "gp:id":789546,
-        "qs:id":182816,
         "qs_pg:id":182816,
         "wd:id":"Q1624461",
         "wk:page":"Hole\u0161ovice"
@@ -136,7 +135,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247482,
+    "wof:lastmodified":1566710191,
     "wof:name":"Holesovice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.945033,
     "lbl:longitude":14.037166,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.945033,
     "mps:longitude":14.037166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kr\u00e1l\u016fv Dv\u016fr"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u041a\u0440\u0430\u043b\u0443\u0432-\u0414\u0432\u0443\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6nigshof"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":103,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3072927,
         "gp:id":791901,
-        "qs:id":471449,
         "qs_pg:id":471449,
         "wd:id":"Q1790512",
         "wk:page":"Kr\u00e1l\u016fv Dv\u016fr"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101841027,
-    "wof:lastmodified":1563247488,
+    "wof:lastmodified":1566710601,
     "wof:name":"Kr\u00e1l\u016fv Dv\u016fr",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

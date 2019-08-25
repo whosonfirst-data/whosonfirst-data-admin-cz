@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.640255,
     "lbl:longitude":14.639625,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.640255,
     "mps:longitude":14.639625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0648\u062a\u06cc\u062a\u0633\u0647"
     ],
@@ -95,7 +98,7 @@
     "name:tat_x_preferred":[
         "\u0412\u043e\u0442\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wotitz"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":87,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
     "wof:concordances":{
         "gn:id":3062559,
         "gp:id":798555,
-        "qs:id":279625,
         "qs_pg:id":279625,
         "wd:id":"Q781530",
         "wk:page":"Votice"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101826645,
-    "wof:lastmodified":1563247287,
+    "wof:lastmodified":1566710570,
     "wof:name":"Votice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

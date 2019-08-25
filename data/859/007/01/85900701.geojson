@@ -12,8 +12,10 @@
     "gn:latitude":49.17884,
     "gn:longitude":16.62532,
     "iso:country":"CZ",
+    "lbl:bbox":"16.616195,49.174138,16.626195,49.184138",
     "lbl:latitude":49.179138,
     "lbl:longitude":16.621195,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.178743,
     "mps:longitude":16.624067,
     "mz:hierarchy_label":0,
@@ -61,10 +63,6 @@
     "name:slk_x_preferred":[
         "Kom\u00e1rov"
     ],
-    "name:unk_x_variant":[
-        "Kumrowitz",
-        "Kom\u00e1rov"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3078610,
@@ -94,7 +92,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748109,
@@ -105,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3073337,
         "gp:id":791542,
-        "qs:id":1080917,
         "qs_pg:id":1080917,
         "wd:id":"Q12029978"
     },
@@ -124,7 +121,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772285,
+    "wof:lastmodified":1566710180,
     "wof:name":"Kom\u00e1rov",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

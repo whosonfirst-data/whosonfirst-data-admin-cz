@@ -10,8 +10,10 @@
     "geom:latitude":49.228162,
     "geom:longitude":17.655826,
     "iso:country":"CZ",
+    "lbl:bbox":"17.650826,49.223162,17.660826,49.233162",
     "lbl:latitude":49.228162,
     "lbl:longitude":17.655826,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.240461,
     "mps:longitude":17.655655,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
     ],
     "name:swe_x_preferred":[
         "Franti\u0161ek Barto\u0161"
-    ],
-    "name:unk_x_variant":[
-        "Mladcov\u00e1"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -73,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748107,
@@ -99,7 +98,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772284,
+    "wof:lastmodified":1566710179,
     "wof:name":"Mladcov\u00e1",
     "wof:parent_id":101748107,
     "wof:placetype":"neighbourhood",

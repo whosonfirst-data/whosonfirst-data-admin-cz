@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.25575,48.58036,14.29575,48.62036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mnichovice"
     ],
@@ -72,8 +76,7 @@
         "\u041c\u045a\u0438\u0445\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Minichschlag",
-        "Mnichovice"
+        "Minichschlag"
     ],
     "name:vie_x_preferred":[
         "Mnichovice"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1242708739,
-    "wof:lastmodified":1564102982,
+    "wof:lastmodified":1566711205,
     "wof:name":"Mnichovice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

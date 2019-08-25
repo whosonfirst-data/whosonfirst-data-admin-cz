@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.778882,
     "lbl:longitude":14.631336,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.778882,
     "mps:longitude":14.631336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Cvikov"
     ],
@@ -95,7 +98,7 @@
     "name:tat_x_preferred":[
         "\u0421\u0432\u0438\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zwickau"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
     "wof:concordances":{
         "gn:id":3077318,
         "gp:id":787995,
-        "qs:id":2539,
         "qs_pg:id":2539,
         "wd:id":"Q1008656",
         "wk:page":"Cvikov"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101822981,
-    "wof:lastmodified":1563247791,
+    "wof:lastmodified":1566710647,
     "wof:name":"Cvikov II",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

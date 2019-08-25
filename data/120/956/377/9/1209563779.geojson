@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.90903,49.65913,16.94903,49.69913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3064952
     },
     "wof:country":"CZ",
-    "wof:geomhash":"9e1a0d39d351776f1a32021337ce0b96",
+    "wof:geomhash":"b724a5e04604c19dc7bed7634b7f8d6a",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209563779,
-    "wof:lastmodified":1536283310,
+    "wof:lastmodified":1566710406,
     "wof:name":"Stremenicko",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.929029999999994,
+    16.92902999999999,
     49.67913,
-    16.929029999999994,
+    16.92902999999999,
     49.67913
 ],
   "geometry": {"coordinates":[16.92902999999999,49.67913],"type":"Point"}

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.300597,
     "lbl:longitude":14.47272,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.300597,
     "mps:longitude":14.47272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Bechyn\u011b"
     ],
@@ -101,7 +104,7 @@
     "name:tat_x_preferred":[
         "\u0411\u0435\u0445\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bechyn"
     ],
     "name:vie_x_preferred":[
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":183,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
         "fct:id":"06f78318-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3079616,
         "gp:id":785981,
-        "qs:id":1043110,
         "qs_pg:id":1043110,
         "wd:id":"Q20492",
         "wk:page":"Bechyn\u011b"
@@ -158,7 +160,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247424,
+    "wof:lastmodified":1566710591,
     "wof:name":"Bechyn\u011b",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

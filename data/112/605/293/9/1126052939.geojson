@@ -9,15 +9,18 @@
     "geom:bbox":"14.8754,50.45139,14.8754,50.45139",
     "geom:latitude":50.45139,
     "geom:longitude":14.8754,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":533,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":533,
     "iso:country":"CZ",
+    "lbl:bbox":"14.8554,50.43139,14.8954,50.47139",
     "lbl:latitude":50.45139,
     "lbl:longitude":14.8754,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Hrdlo\u0159ezy"
@@ -28,7 +31,7 @@
     "name:srp_x_preferred":[
         "\u0425\u0440\u0434\u043b\u043e\u0440\u0436\u0435\u0437\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hrdlo\u0159ez"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":790227,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126052939,
-    "wof:lastmodified":1564102372,
+    "wof:lastmodified":1566710824,
     "wof:name":"Hrdlo\u0159ezy",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

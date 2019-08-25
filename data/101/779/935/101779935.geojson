@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.172301,
     "lbl:longitude":16.508868,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.172301,
     "mps:longitude":16.508868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u043e\u0443\u0431\u0441\u043a\u043e"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Troubsko"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Strutz"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":480,
     "wof:belongsto":[
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":3063938,
         "gp:id":799906,
-        "qs:id":886024,
         "qs_pg:id":886024,
         "wd:id":"Q164530",
         "wk:page":"Troubsko"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101779935,
-    "wof:lastmodified":1563247430,
+    "wof:lastmodified":1566710592,
     "wof:name":"Troubsko",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

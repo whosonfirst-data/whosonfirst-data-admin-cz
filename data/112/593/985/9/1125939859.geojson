@@ -9,15 +9,18 @@
     "geom:bbox":"13.16472,49.60349,13.16472,49.60349",
     "geom:latitude":49.60349,
     "geom:longitude":13.16472,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":148,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":148,
     "iso:country":"CZ",
+    "lbl:bbox":"13.14472,49.58349,13.18472,49.62349",
     "lbl:latitude":49.60349,
     "lbl:longitude":13.16472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0634\u06cc\u0646\u0627"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "L\u00ed\u0161ina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lischin"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":792969,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125939859,
-    "wof:lastmodified":1563248243,
+    "wof:lastmodified":1566710731,
     "wof:name":"L\u00ed\u0161ina",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

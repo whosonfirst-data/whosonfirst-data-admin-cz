@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.247772,
     "lbl:longitude":17.209943,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.247772,
     "mps:longitude":17.209943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Morkovice-Sl\u00ed\u017eany"
     ],
@@ -79,9 +82,6 @@
     "name:tat_x_preferred":[
         "\u041c\u043e\u0440\u043a\u043e\u0432\u0438\u0442\u0441\u0435-\u0421\u043b\u0438\u0436\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Morkovice-Sl\u00ed\u017eany"
-    ],
     "name:vie_x_preferred":[
         "Morkovice-Sl\u00ed\u017eany"
     ],
@@ -99,7 +99,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -109,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3065786,
         "gp:id":794250,
-        "qs:id":1267177,
+        "qs_pg:id":1267177,
         "wd:id":"Q1948234",
         "wk:page":"Morkovice-Sl\u00ed\u017eany"
     },
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":101779811,
-    "wof:lastmodified":1563247409,
+    "wof:lastmodified":1566710588,
     "wof:name":"Morkovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

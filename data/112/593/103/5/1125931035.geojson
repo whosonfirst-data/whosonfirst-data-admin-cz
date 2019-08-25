@@ -9,15 +9,18 @@
     "geom:bbox":"16.35871,49.36099,16.35871,49.36099",
     "geom:latitude":49.36099,
     "geom:longitude":16.35871,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1111,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1111,
     "iso:country":"CZ",
+    "lbl:bbox":"16.33871,49.34099,16.37871,49.38099",
     "lbl:latitude":49.36099,
     "lbl:longitude":16.35871,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u0648\u0644\u0646\u06cc \u0644\u0648\u0648\u062a\u0634\u06a9\u06cc"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Doln\u00ed Lou\u0107ky"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unter-Loucka"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":788495,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1125931035,
-    "wof:lastmodified":1563248149,
+    "wof:lastmodified":1566710716,
     "wof:name":"Doln\u00ed Lou\u010dky",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

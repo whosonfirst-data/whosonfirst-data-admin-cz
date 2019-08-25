@@ -9,15 +9,18 @@
     "geom:bbox":"12.61001,49.82722,12.61001,49.82722",
     "geom:latitude":49.82722,
     "geom:longitude":12.61001,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":338,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":338,
     "iso:country":"CZ",
+    "lbl:bbox":"12.59001,49.80722,12.63001,49.84722",
     "lbl:latitude":49.82722,
     "lbl:longitude":12.61001,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062a\u0633\u062a\u06cc\u0628\u0648\u0631"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Ctibo\u0159"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stiebenreith"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":787981,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125915171,
-    "wof:lastmodified":1563249956,
+    "wof:lastmodified":1566711021,
     "wof:name":"Ctibo\u0159",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

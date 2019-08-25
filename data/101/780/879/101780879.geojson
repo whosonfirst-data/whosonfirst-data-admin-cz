@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.900164,
     "lbl:longitude":14.883184,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.900164,
     "mps:longitude":14.883184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Suchdol nad Lu\u017enic\u00ed"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -115,10 +118,12 @@
         "fct:id":"0704375c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3064748,
         "gp:id":799221,
-        "qs:id":904990,
         "qs_pg:id":400770,
         "wd:id":"Q2305015",
         "wk:page":"Suchdol nad Lu\u017enic\u00ed"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":904990
     },
     "wof:country":"CZ",
     "wof:geomhash":"81d5e59bfe061a6ef82f3544ab9a45a4",
@@ -134,7 +139,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247887,
+    "wof:lastmodified":1566710663,
     "wof:name":"Suchdol nad Lu\u017enic\u00ed",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

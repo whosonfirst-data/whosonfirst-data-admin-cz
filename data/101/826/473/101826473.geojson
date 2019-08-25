@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.481772,
     "lbl:longitude":13.284159,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.481772,
     "mps:longitude":13.284159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "\u0160vihov"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,10 +122,12 @@
     "wof:concordances":{
         "gn:id":3064489,
         "gp:id":799418,
-        "qs:id":982490,
-        "qs_pg:id":1033351,
+        "qs_pg:id":982490,
         "wd:id":"Q392779",
         "wk:page":"\u0160vihov (Klatovy District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1033351
     },
     "wof:country":"CZ",
     "wof:geomhash":"cda8300b109bde7d1971df303c9c6ade",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101826473,
-    "wof:lastmodified":1563247333,
+    "wof:lastmodified":1566710577,
     "wof:name":"\u0160vihov",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

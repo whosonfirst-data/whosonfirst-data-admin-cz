@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":49.986981,
     "lbl:longitude":14.354425,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.979475,
     "mps:longitude":14.354654,
     "mz:hierarchy_label":1,
@@ -64,9 +65,6 @@
     "name:swe_x_preferred":[
         "Praha 16"
     ],
-    "name:unk_x_variant":[
-        "Radotin"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3067696,
@@ -105,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3067124,
         "gp:id":797121,
-        "qs:id":1145185,
         "qs_pg:id":1145185,
         "wd:id":"Q1987157"
     },
@@ -119,7 +116,7 @@
         }
     ],
     "wof:id":85900875,
-    "wof:lastmodified":1566247485,
+    "wof:lastmodified":1566710187,
     "wof:name":"Radotin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

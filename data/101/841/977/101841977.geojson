@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.47375,
     "lbl:longitude":17.988457,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.47375,
     "mps:longitude":17.988457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Rudolf Pernick\u00fd"
     ],
@@ -61,7 +64,7 @@
     "name:srp_x_preferred":[
         "\u041a\u0440\u0445\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krhow"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":3072730,
         "gp:id":792074,
-        "qs:id":1220648,
         "qs_pg:id":1220648,
         "wd:id":"Q1788526"
     },
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101841977,
-    "wof:lastmodified":1563247476,
+    "wof:lastmodified":1566710599,
     "wof:name":"Krhov\u00e1",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

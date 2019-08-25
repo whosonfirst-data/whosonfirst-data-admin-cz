@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.830018,
     "lbl:longitude":14.461865,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.830018,
     "mps:longitude":14.461865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vele\u0161\u00edn"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":35,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
         "fct:id":"06f73890-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3063307,
         "gp:id":800463,
-        "qs:id":307425,
         "qs_pg:id":307425,
         "wd:id":"Q2092152",
         "wk:page":"Vele\u0161\u00edn"
@@ -134,7 +136,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247372,
+    "wof:lastmodified":1566710584,
     "wof:name":"Vele\u0161\u00edn",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

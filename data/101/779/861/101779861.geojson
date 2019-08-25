@@ -9,14 +9,17 @@
     "geom:bbox":"17.5057023309,49.1892656419,17.5525398474,49.2264937861",
     "geom:latitude":49.206684,
     "geom:longitude":17.526418,
-    "geonames:id":"3068689,3068690",
+    "gn:id":"3068689,3068690",
     "iso:country":"CZ",
     "lbl:latitude":49.203029,
     "lbl:longitude":17.526063,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.203029,
     "mps:longitude":17.526063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Otrokovice"
     ],
@@ -95,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0440\u043e\u043a\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otrokovice-Kv\u00edtkovice"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":302,
     "wof:belongsto":[
         102191581,
@@ -131,7 +134,6 @@
     "wof:concordances":{
         "gn:id":3068689,
         "gp:id":795702,
-        "qs:id":398778,
         "qs_pg:id":398778,
         "wd:id":"Q1009095"
     },
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101779861,
-    "wof:lastmodified":1563247416,
+    "wof:lastmodified":1566710589,
     "wof:name":"Otrokovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

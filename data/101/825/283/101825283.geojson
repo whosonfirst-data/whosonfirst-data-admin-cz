@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.960663,
     "lbl:longitude":15.910602,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.960663,
     "mps:longitude":15.910602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hroch\u016fv T\u00fdnec"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":3074808,
         "gp:id":790272,
-        "qs:id":876704,
         "qs_pg:id":876704,
         "wd:id":"Q2064097",
         "wk:page":"Hroch\u016fv T\u00fdnec"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101825283,
-    "wof:lastmodified":1563247725,
+    "wof:lastmodified":1566710638,
     "wof:name":"Hroch\u016fv T\u00fdnec",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

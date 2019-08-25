@@ -9,15 +9,18 @@
     "geom:bbox":"15.22209,50.87374,15.22209,50.87374",
     "geom:latitude":50.87374,
     "geom:longitude":15.22209,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":639,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":639,
     "iso:country":"CZ",
+    "lbl:bbox":"15.20209,50.85374,15.24209,50.89374",
     "lbl:latitude":50.87374,
     "lbl:longitude":15.22209,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "B\u00edl\u00fd Potok"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "B\u00edl\u00fd Potok"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weissbach"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +96,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":786237,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125932083,
-    "wof:lastmodified":1563248331,
+    "wof:lastmodified":1566710744,
     "wof:name":"B\u00edl\u00fd Potok",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":49.22589,
     "gn:longitude":16.62583,
     "iso:country":"CZ",
+    "lbl:bbox":"16.621481,49.220414,16.631481,49.230414",
     "lbl:latitude":49.225414,
     "lbl:longitude":16.626481,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.228919,
     "mps:longitude":16.627309,
     "mz:hierarchy_label":0,
@@ -89,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748109,
@@ -100,7 +102,6 @@
     "wof:concordances":{
         "gn:id":6639703,
         "gp:id":23416560,
-        "qs:id":1164015,
         "qs_pg:id":1164015,
         "wd:id":"Q10816747"
     },
@@ -119,7 +120,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772280,
+    "wof:lastmodified":1566710175,
     "wof:name":"Lesn\u00e1",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

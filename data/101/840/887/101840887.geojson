@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.902108,
     "lbl:longitude":16.446738,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.902108,
     "mps:longitude":16.446738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "\u010cesk\u00e1 T\u0159ebov\u00e1"
     ],
@@ -104,7 +107,7 @@
     "name:tur_x_preferred":[
         "\u010cesk\u00e1 T\u0159ebov\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00f6hmisch-Tr\u00fcbau"
     ],
     "name:vie_x_preferred":[
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":466,
     "wof:belongsto":[
@@ -141,7 +144,6 @@
     "wof:concordances":{
         "gn:id":3077920,
         "gp:id":787457,
-        "qs:id":1312236,
         "qs_pg:id":1312236,
         "wd:id":"Q341056",
         "wk:page":"\u010cesk\u00e1 T\u0159ebov\u00e1"
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101840887,
-    "wof:lastmodified":1563247597,
+    "wof:lastmodified":1566710617,
     "wof:name":"\u010cesk\u00e1 T\u0159ebov\u00e1",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

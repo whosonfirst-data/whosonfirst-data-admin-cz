@@ -9,15 +9,18 @@
     "geom:bbox":"15.58846,49.36246,15.58846,49.36246",
     "geom:latitude":49.36246,
     "geom:longitude":15.58846,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":197,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":197,
     "iso:country":"CZ",
+    "lbl:bbox":"15.56846,49.34246,15.60846,49.38246",
     "lbl:latitude":49.36246,
     "lbl:longitude":15.58846,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Ran\u010d\u00ed\u0159ov"
@@ -214,7 +217,7 @@
     "name:swe_x_preferred":[
         "Ran\u010d\u00ed\u0159ov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ranzern"
     ],
     "name:vec_x_preferred":[
@@ -255,7 +258,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":797199,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":1125773281,
-    "wof:lastmodified":1563250715,
+    "wof:lastmodified":1566711148,
     "wof:name":"Ran\u010d\u00ed\u0159ov",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

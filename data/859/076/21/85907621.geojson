@@ -11,8 +11,10 @@
     "geom:longitude":15.779485,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"15.774485,50.03378,15.784485,50.04378",
     "lbl:latitude":50.03878,
     "lbl:longitude":15.779485,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.04287,
     "mps:longitude":15.786668,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:cze_x_variant":[
         "Pardubice-Star\u00e9 M\u00ecsto"
-    ],
-    "name:unk_x_variant":[
-        "Pardubice-Star\u00e9 M\u011bsto"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -66,7 +65,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748115,
@@ -76,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23406470,
-        "qs:id":230527,
         "qs_pg:id":230527
     },
     "wof:country":"CZ",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772281,
+    "wof:lastmodified":1566710176,
     "wof:name":"Pardubice-Star\u00e9 M\u011bsto",
     "wof:parent_id":101748115,
     "wof:placetype":"neighbourhood",

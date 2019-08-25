@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.036942,
     "lbl:longitude":17.811263,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.036942,
     "mps:longitude":17.811263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bojkovice"
     ],
@@ -95,7 +98,7 @@
     "name:tur_x_preferred":[
         "Bojkovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bojkowitz"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":229,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
     "wof:concordances":{
         "gn:id":3079082,
         "gp:id":786443,
-        "qs:id":564281,
         "qs_pg:id":564281,
         "wd:id":"Q891190",
         "wk:page":"Bojkovice"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101779879,
-    "wof:lastmodified":1563247437,
+    "wof:lastmodified":1566710593,
     "wof:name":"Bojkovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

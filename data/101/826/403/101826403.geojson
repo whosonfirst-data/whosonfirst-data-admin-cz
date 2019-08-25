@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.471667,
     "lbl:longitude":15.002368,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.471667,
     "mps:longitude":15.002368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Pacov"
     ],
@@ -98,7 +101,7 @@
     "name:tat_x_preferred":[
         "\u041f\u0430\u0442\u0441\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Patzau"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":231,
     "wof:belongsto":[
@@ -135,10 +138,12 @@
     "wof:concordances":{
         "gn:id":3068645,
         "gp:id":795740,
-        "qs:id":145332,
-        "qs_pg:id":288910,
+        "qs_pg:id":145332,
         "wd:id":"Q746111",
         "wk:page":"Pacov"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":288910
     },
     "wof:country":"CZ",
     "wof:geomhash":"ce196ce99a726f01c611bb55d233fac3",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101826403,
-    "wof:lastmodified":1563247341,
+    "wof:lastmodified":1566710579,
     "wof:name":"Pacov",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

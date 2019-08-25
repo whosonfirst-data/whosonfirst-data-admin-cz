@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.71481,
     "lbl:longitude":16.262285,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.71481,
     "mps:longitude":16.262285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Poli\u010dka"
     ],
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1179,
     "wof:belongsto":[
@@ -144,7 +147,6 @@
     "wof:concordances":{
         "gn:id":3067882,
         "gp:id":796426,
-        "qs:id":326132,
         "qs_pg:id":326132,
         "wd:id":"Q1013914",
         "wk:page":"Poli\u010dka"
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101824079,
-    "wof:lastmodified":1563247526,
+    "wof:lastmodified":1566710607,
     "wof:name":"Poli\u010dka",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

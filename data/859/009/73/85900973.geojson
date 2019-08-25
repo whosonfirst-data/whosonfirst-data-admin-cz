@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.036216,
     "lbl:longitude":14.600634,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.039236,
     "mps:longitude":14.595826,
     "mz:hierarchy_label":1,
@@ -59,9 +60,8 @@
     "name:slv_x_preferred":[
         "Uh\u0159\u00edn\u011bves"
     ],
-    "name:unk_x_variant":[
-        "Au\u0159inowes",
-        "Uhrineves"
+    "name:und_x_variant":[
+        "Au\u0159inowes"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -103,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3063708,
         "gp:id":800137,
-        "qs:id":1000575,
         "qs_pg:id":1000575,
         "wd:id":"Q840751"
     },
@@ -122,7 +121,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247485,
+    "wof:lastmodified":1566710183,
     "wof:name":"Uhrineves",
     "wof:parent_id":101754445,
     "wof:placetype":"neighbourhood",

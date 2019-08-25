@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"15.19226,48.99034,15.23226,49.03034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skalka"
     ],
@@ -60,8 +64,7 @@
         "\u0421\u043a\u0430\u043b\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Kebharec",
-        "Skalka"
+        "Kebharec"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1343798583,
-    "wof:lastmodified":1564101116,
+    "wof:lastmodified":1566710124,
     "wof:name":"Skalka",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

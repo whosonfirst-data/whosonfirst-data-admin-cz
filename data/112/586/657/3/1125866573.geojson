@@ -9,15 +9,18 @@
     "geom:bbox":"16.48013,49.8053,16.48013,49.8053",
     "geom:latitude":49.8053,
     "geom:longitude":16.48013,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":592,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":592,
     "iso:country":"CZ",
+    "lbl:bbox":"16.46013,49.7853,16.50013,49.8253",
     "lbl:latitude":49.8053,
     "lbl:longitude":16.48013,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0648\u067e\u0627\u062a\u0648\u0648\u062a\u0633"
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Opatovec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00dcberd\u00f6rfel"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":795488,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1125866573,
-    "wof:lastmodified":1563249031,
+    "wof:lastmodified":1566710859,
     "wof:name":"Opatovec",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

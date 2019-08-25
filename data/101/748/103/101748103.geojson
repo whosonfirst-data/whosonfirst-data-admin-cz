@@ -14,6 +14,8 @@
     "iso:country":"CZ",
     "lbl:latitude":48.977235,
     "lbl:longitude":14.477586,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":48.977235,
     "mps:longitude":14.477586,
     "mz:hierarchy_label":1,
@@ -269,7 +271,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0441\u044c\u043a\u0435 \u0411\u0443\u0434\u0435\u0439\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Budejovice"
     ],
     "name:urd_x_preferred":[
@@ -398,7 +400,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1745,
     "wof:belongsto":[
@@ -411,7 +413,6 @@
         "fct:id":"06f71ce8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3077916,
         "gp:id":787461,
-        "qs:id":239926,
         "qs_pg:id":239926,
         "wd:id":"Q16506",
         "wk:page":"\u010cesk\u00e9 Bud\u011bjovice"
@@ -430,7 +431,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247375,
+    "wof:lastmodified":1566710584,
     "wof:name":"\u010cesk\u00e9 Bud\u011bjovice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

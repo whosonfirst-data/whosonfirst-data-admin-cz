@@ -9,17 +9,19 @@
     "geom:bbox":"17.175667879,49.7545807463,17.1897150017,49.7759553222",
     "geom:latitude":49.765553,
     "geom:longitude":17.182345,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1341,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1341,
     "iso:country":"CZ",
     "lbl:latitude":49.765386,
     "lbl:longitude":17.180589,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.765386,
     "mps:longitude":17.180589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u06cc\u0632\u062f"
     ],
@@ -86,7 +88,7 @@
     "name:swe_x_preferred":[
         "\u00dajezd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Augezd"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -136,7 +138,6 @@
     "wof:concordances":{
         "gn:id":3063682,
         "gp:id":800155,
-        "qs:id":401020,
         "qs_pg:id":401013,
         "wd:id":"Q330085",
         "wk:page":"\u00dajezd (Olomouc District)"
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":101825585,
-    "wof:lastmodified":1563247761,
+    "wof:lastmodified":1566710643,
     "wof:name":"\u00dajezd",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

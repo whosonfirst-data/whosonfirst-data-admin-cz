@@ -9,17 +9,20 @@
     "geom:bbox":"15.91511,50.48857,15.91511,50.48857",
     "geom:latitude":50.48857,
     "geom:longitude":15.91511,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":46,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":46,
     "iso:country":"CZ",
+    "lbl:bbox":"15.89511,50.46857,15.93511,50.50857",
     "lbl:latitude":50.48857,
     "lbl:longitude":15.91511,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaile"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":94486,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1125822707,
-    "wof:lastmodified":1509394180,
+    "wof:lastmodified":1566711085,
     "wof:name":"Kyje",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

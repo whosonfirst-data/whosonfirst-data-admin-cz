@@ -9,15 +9,18 @@
     "geom:bbox":"17.05441,49.6561,17.05441,49.6561",
     "geom:latitude":49.6561,
     "geom:longitude":17.05441,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":664,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":664,
     "iso:country":"CZ",
+    "lbl:bbox":"17.03441,49.6361,17.07441,49.6761",
     "lbl:latitude":49.6561,
     "lbl:longitude":17.05441,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0427\u043e\u043b\u0438\u043d\u0430"
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Cholina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6llein"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":787658,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1125860547,
-    "wof:lastmodified":1563249022,
+    "wof:lastmodified":1566710857,
     "wof:name":"Cholina",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

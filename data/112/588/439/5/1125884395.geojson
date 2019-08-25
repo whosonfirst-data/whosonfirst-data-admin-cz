@@ -9,15 +9,18 @@
     "geom:bbox":"12.60332,50.31865,12.60332,50.31865",
     "geom:latitude":50.31865,
     "geom:longitude":12.60332,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":266,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":266,
     "iso:country":"CZ",
+    "lbl:bbox":"12.58332,50.29865,12.62332,50.33865",
     "lbl:latitude":50.31865,
     "lbl:longitude":12.60332,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0634\u06cc\u0646\u062f\u0644\u0648\u0648\u0627"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "\u0160indelov\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schindlwald"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +100,7 @@
     "qs_pg:qs_id":374730,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1125884395,
-    "wof:lastmodified":1563249138,
+    "wof:lastmodified":1566710877,
     "wof:name":"\u0160indelov\u00e1",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

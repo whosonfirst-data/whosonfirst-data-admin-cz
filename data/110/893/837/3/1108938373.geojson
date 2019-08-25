@@ -10,8 +10,10 @@
     "geom:latitude":50.021213,
     "geom:longitude":14.562767,
     "iso:country":"CZ",
+    "lbl:bbox":"14.5577672907,50.0162134298,14.5677672907,50.0262134298",
     "lbl:latitude":50.021213,
     "lbl:longitude":14.562767,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -45,7 +47,7 @@
     "name:slk_x_preferred":[
         "K\u0159eslice"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1108938373,
-    "wof:lastmodified":1561772339,
+    "wof:lastmodified":1566710480,
     "wof:name":"Kreslice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

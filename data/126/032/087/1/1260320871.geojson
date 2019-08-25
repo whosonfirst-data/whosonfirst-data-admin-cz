@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.73528,49.77532,12.77528,49.81532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Janov"
     ],
@@ -63,8 +67,7 @@
         "Janov"
     ],
     "name:und_x_variant":[
-        "Johannesdorf",
-        "Janov"
+        "Johannesdorf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1260320871,
-    "wof:lastmodified":1564101947,
+    "wof:lastmodified":1566710476,
     "wof:name":"Janov",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

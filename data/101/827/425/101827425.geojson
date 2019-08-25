@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.56542,
     "lbl:longitude":17.413147,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.56542,
     "mps:longitude":17.413147,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0644\u0648\u067e\u0644\u0627\u0632\u06cc"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Doloplazy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Doloplas"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,10 +113,12 @@
     "wof:concordances":{
         "gn:id":3076616,
         "gp:id":788654,
-        "qs:id":1265798,
         "qs_pg:id":1060580,
         "wd:id":"Q1236326",
         "wk:page":"Doloplazy (Olomouc District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1265798
     },
     "wof:country":"CZ",
     "wof:geomhash":"79b894212699fe57e64a9bd8e858a31d",
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":101827425,
-    "wof:lastmodified":1563247262,
+    "wof:lastmodified":1566710566,
     "wof:name":"Doloplazy",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

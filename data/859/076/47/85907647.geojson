@@ -11,8 +11,10 @@
     "geom:longitude":13.348389,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"13.343389,49.677637,13.353389,49.687637",
     "lbl:latitude":49.682637,
     "lbl:longitude":13.348389,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.687604,
     "mps:longitude":13.353766,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
     ],
     "name:cze_x_variant":[
         "Litice"
-    ],
-    "name:unk_x_variant":[
-        "Plze\u00e5 6-Litice"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -73,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23407454,
-        "qs:id":1102677,
         "qs_pg:id":1102677
     },
     "wof:country":"CZ",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772282,
+    "wof:lastmodified":1566710177,
     "wof:name":"Plze\u00e5 6-Litice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

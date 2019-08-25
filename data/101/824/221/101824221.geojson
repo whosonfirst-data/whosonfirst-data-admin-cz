@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.269715,
     "lbl:longitude":16.109886,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.269715,
     "mps:longitude":16.109886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041e\u043f\u0430\u0447\u043d\u0430"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":362,
     "wof:belongsto":[
@@ -135,10 +138,12 @@
     "wof:concordances":{
         "gn:id":3068914,
         "gp:id":795510,
-        "qs:id":1256901,
         "qs_pg:id":938963,
         "wd:id":"Q1019967",
         "wk:page":"Opo\u010dno"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1256901
     },
     "wof:country":"CZ",
     "wof:geomhash":"ce98ecc6da1ba9a2b40cd85219f51da4",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101824221,
-    "wof:lastmodified":1563247529,
+    "wof:lastmodified":1566710607,
     "wof:name":"Opo\u010dno",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

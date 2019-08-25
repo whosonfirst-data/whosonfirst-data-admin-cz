@@ -9,15 +9,18 @@
     "geom:bbox":"13.17428,50.14154,13.17428,50.14154",
     "geom:latitude":50.14154,
     "geom:longitude":13.17428,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":331,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":331,
     "iso:country":"CZ",
+    "lbl:bbox":"13.15428,50.12154,13.19428,50.16154",
     "lbl:latitude":50.14154,
     "lbl:longitude":13.17428,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0631\u0648\u0634\u06cc\u062a\u0634\u06a9\u06cc"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Veru\u0161i\u010dky"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klein Werscheditz"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":800655,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125804417,
-    "wof:lastmodified":1563249310,
+    "wof:lastmodified":1566710910,
     "wof:name":"Veru\u0161i\u010dky",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

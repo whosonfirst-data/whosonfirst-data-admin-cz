@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.90128,
     "lbl:longitude":16.939159,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.90128,
     "mps:longitude":16.939159,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u010cejkovice"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":24,
     "wof:belongsto":[
@@ -81,9 +84,11 @@
     "wof:concordances":{
         "gn:id":3078179,
         "gp:id":787242,
-        "qs:id":374812,
-        "qs_pg:id":904944,
+        "qs_pg:id":374812,
         "wd:id":"Q338259"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":904944
     },
     "wof:country":"CZ",
     "wof:geomhash":"243b74a6ffb9be7a03be4f952e0ec934",
@@ -96,7 +101,7 @@
         }
     ],
     "wof:id":101781107,
-    "wof:lastmodified":1563247838,
+    "wof:lastmodified":1566710655,
     "wof:name":"\u010cejkovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

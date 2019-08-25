@@ -11,12 +11,16 @@
     "geom:longitude":18.569125,
     "gn:population":1050,
     "iso:country":"CZ",
+    "lbl:bbox":"18.549125,49.748497,18.589125,49.788497",
     "lbl:latitude":49.768497,
     "lbl:longitude":18.569125,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.768497,
     "mps:longitude":18.569125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chot\u011bbuz"
     ],
@@ -100,7 +104,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":773,
     "wof:belongsto":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3077665,
         "gp:id":787684,
-        "qs:id":1226515,
+        "qs_pg:id":1226515,
         "wd:id":"Q1115905",
         "wk:page":"Chot\u011bbuz"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":101863103,
-    "wof:lastmodified":1563247808,
+    "wof:lastmodified":1566710650,
     "wof:name":"Chot\u011bbuz",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.764536,
     "lbl:longitude":14.107532,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.764536,
     "mps:longitude":14.107532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "J\u00edlov\u00e9"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0407\u043b\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eulau"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":247,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3074181,
         "gp:id":790816,
-        "qs:id":938780,
         "qs_pg:id":938780,
         "wd:id":"Q1715023",
         "wk:page":"J\u00edlov\u00e9"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101841103,
-    "wof:lastmodified":1563247460,
+    "wof:lastmodified":1566710597,
     "wof:name":"J\u00edlov\u00e9",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

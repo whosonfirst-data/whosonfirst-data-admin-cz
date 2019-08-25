@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.817503,
     "lbl:longitude":17.185377,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.817503,
     "mps:longitude":17.185377,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0644\u0648\u0648\u0647\u0627 \u0644\u0648\u0648\u062a\u0634\u06a9\u0627"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Dlouh\u00e1 Lou\u010dka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unter-Langendorf"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191581,
@@ -112,9 +115,11 @@
     "wof:concordances":{
         "gn:id":3071561,
         "gp:id":793129,
-        "qs:id":1265768,
         "qs_pg:id":399204,
         "wd:id":"Q2351896"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1265768
     },
     "wof:country":"CZ",
     "wof:geomhash":"979bdb2f49714c6b9c1b28afe1f3e3e6",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":101825571,
-    "wof:lastmodified":1563247759,
+    "wof:lastmodified":1566710643,
     "wof:name":"Dlouh\u00e1 Lou\u010dka",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

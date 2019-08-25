@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.184963,
     "lbl:longitude":14.855013,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.184963,
     "mps:longitude":14.855013,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Karda\u0161ova \u0158e\u010dice"
     ],
@@ -80,7 +83,7 @@
     "name:tat_x_preferred":[
         "\u041a\u0430\u0440\u0434\u0430\u0448\u043e\u0432\u0430-\u0420\u0436\u0435\u0447\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kardasch \u0158e\u010dice"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":60,
     "wof:belongsto":[
@@ -117,10 +120,12 @@
     "wof:concordances":{
         "gn:id":3066970,
         "gp:id":797260,
-        "qs:id":145418,
-        "qs_pg:id":966053,
+        "qs_pg:id":145418,
         "wd:id":"Q1729076",
         "wk:page":"Karda\u0161ova \u0158e\u010dice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":966053
     },
     "wof:country":"CZ",
     "wof:geomhash":"a4bf53429af183b1eb72a2c3bab87f2c",
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":101780903,
-    "wof:lastmodified":1563247883,
+    "wof:lastmodified":1566710662,
     "wof:name":"Karda\u0161ova \u0158e\u010dice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

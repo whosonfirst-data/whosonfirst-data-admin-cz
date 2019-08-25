@@ -14,10 +14,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.054932,
     "lbl:longitude":16.64863,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.054932,
     "mps:longitude":16.64863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0644\u0648\u062a\u0634\u06cc\u0646\u0627"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":3079199,
         "gp:id":786340,
-        "qs:id":189919,
         "qs_pg:id":189919,
         "wd:id":"Q301595",
         "wk:page":"Blu\u010dina"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101781131,
-    "wof:lastmodified":1563247837,
+    "wof:lastmodified":1566710655,
     "wof:name":"Blu\u010dina",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

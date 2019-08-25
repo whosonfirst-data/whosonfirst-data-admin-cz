@@ -11,8 +11,10 @@
     "geom:longitude":16.63189,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"16.62689,49.132392,16.63689,49.142392",
     "lbl:latitude":49.137392,
     "lbl:longitude":16.63189,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.127281,
     "mps:longitude":16.64207,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
     ],
     "name:cze_x_variant":[
         "Roznberk"
-    ],
-    "name:unk_x_variant":[
-        "R\u00fe\u017eov\u00fd"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101754429,
@@ -75,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":797632,
-        "qs:id":215452,
         "qs_pg:id":215452
     },
     "wof:country":"CZ",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772291,
+    "wof:lastmodified":1566710187,
     "wof:name":"R\u00fe\u017eov\u00fd",
     "wof:parent_id":101754429,
     "wof:placetype":"neighbourhood",

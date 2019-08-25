@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.897521,
     "lbl:longitude":14.49539,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.897521,
     "mps:longitude":14.49539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "J\u00edlov\u00e9 u Prahy"
     ],
@@ -94,9 +97,6 @@
     "name:tat_x_preferred":[
         "\u0419\u0438\u043b\u043e\u0432\u0435-\u0443-\u041f\u0440\u0430\u04bb\u0438"
     ],
-    "name:unk_x_variant":[
-        "Eule"
-    ],
     "name:vie_x_preferred":[
         "J\u00edlov\u00e9 u Prahy"
     ],
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":14,
     "wof:belongsto":[
@@ -133,7 +133,6 @@
         "fct:id":"06ff82de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3074178,
         "gp:id":790818,
-        "qs:id":1043051,
         "qs_pg:id":1043051,
         "wd:id":"Q1019335",
         "wk:page":"J\u00edlov\u00e9 u Prahy"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247642,
+    "wof:lastmodified":1566710625,
     "wof:name":"J\u00edlov\u00e9 u Prahy",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":50.007412,
     "lbl:longitude":15.002641,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.007412,
     "mps:longitude":15.002641,
     "mz:hierarchy_label":1,
@@ -239,7 +240,7 @@
         "Mellersta B\u00f6hmen"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd  \u0baa\u0bca\u0bb9\u0bc0\u0bae\u0bbf\u0baf\u0bbe\u0ba9\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd \u0baa\u0bca\u0bb9\u0bc0\u0bae\u0bbf\u0baf\u0bbe\u0ba9\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c27\u0c4d\u0c2f \u0c2c\u0c4a\u0c39\u0c40\u0c2e\u0c3f\u0c2f\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c2e\u0c41"
@@ -252,9 +253,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0447\u0435\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
-    ],
-    "name:unk_x_variant":[
-        "St\u0159edo\u010desk\u00fd kraj"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u06a9\u0632\u06cc \u0628\u0648\u06c1\u06cc\u0645\u06cc\u0627\u0626\u06cc \u0639\u0644\u0627\u0642\u06c1"
@@ -341,9 +339,9 @@
     "qs:type":"Kraj",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-26",
+    "src:population_date":"2011-03-26",
     "statoids:area_km":"11,016",
     "statoids:area_mi":"4,253",
     "statoids:as_of_date":"2011-03-26",
@@ -385,11 +383,10 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1565671026,
+    "wof:lastmodified":1566710197,
     "wof:name":"St\u0159edo\u010desk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1289211,
     "wof:population_rank":12,

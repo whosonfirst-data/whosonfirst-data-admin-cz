@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.96592,50.0308,17.00592,50.0708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0631\u0627\u0645\u0646\u06cc"
     ],
@@ -79,8 +83,7 @@
     ],
     "name:und_x_variant":[
         "\u0160tolnava",
-        "Stollenhau",
-        "Prameny"
+        "Stollenhau"
     ],
     "name:vie_x_preferred":[
         "Prameny"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1209156899,
-    "wof:lastmodified":1564101688,
+    "wof:lastmodified":1566710369,
     "wof:name":"Prameny",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",

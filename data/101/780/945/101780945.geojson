@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.161688,
     "lbl:longitude":15.202932,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.161688,
     "mps:longitude":15.202932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u043c\u0438\u043b\u043e\u0432"
     ],
@@ -80,7 +83,7 @@
     "name:tat_x_preferred":[
         "\u0421\u0442\u0440\u043c\u0438\u043b\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tremles"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":3064877,
         "gp:id":799110,
-        "qs:id":244674,
         "qs_pg:id":244674,
         "wd:id":"Q937688",
         "wk:page":"Strmilov"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101780945,
-    "wof:lastmodified":1563247900,
+    "wof:lastmodified":1566710665,
     "wof:name":"Strmilov",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

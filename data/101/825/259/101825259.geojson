@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.841147,
     "lbl:longitude":15.996513,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.841147,
     "mps:longitude":15.996513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u043a\u0443\u0442\u0430\u0447"
     ],
@@ -101,7 +104,7 @@
     "name:tat_x_preferred":[
         "\u0421\u043a\u0443\u0442\u0435\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skutsch"
     ],
     "name:vie_x_preferred":[
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":32,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":3065921,
         "gp:id":798187,
-        "qs:id":145284,
         "qs_pg:id":145284,
         "wd:id":"Q1332942",
         "wk:page":"Skute\u010d"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101825259,
-    "wof:lastmodified":1563247669,
+    "wof:lastmodified":1566710629,
     "wof:name":"Skute\u010d",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
+    "geom:area_square_m":687836.712257,
     "geom:bbox":"17.6775459653,49.196184717,17.6928499439,49.2104352751",
     "geom:latitude":49.201915,
     "geom:longitude":17.68503,
     "iso:country":"CZ",
     "lbl:latitude":49.200897,
     "lbl:longitude":17.684392,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.200897,
     "mps:longitude":17.684392,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Zl\u00ednsk\u00fd",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":3072558,
         "gp:id":792219,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"CZ",
-    "wof:geomhash":"15aa3099ac2cc3d73c0d3ce78f9f6893",
+    "wof:geomhash":"188195df2c5b96dd2a7c43bb14e0fd26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101779855,
-    "wof:lastmodified":1477508542,
+    "wof:lastmodified":1566710595,
     "wof:name":"Kudlov",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

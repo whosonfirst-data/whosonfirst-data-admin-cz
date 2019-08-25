@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.598491,
     "lbl:longitude":18.073772,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.598491,
     "mps:longitude":18.073772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ryb\u00ed"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Ryb\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reimrich"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":276,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3066537,
         "gp:id":797642,
-        "qs:id":1247570,
         "qs_pg:id":1247570,
         "wd:id":"Q2290119"
     },
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101825457,
-    "wof:lastmodified":1563247752,
+    "wof:lastmodified":1566710642,
     "wof:name":"Ryb\u00ed",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":16.511417,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"16.506417,49.231261,16.516417,49.241261",
     "lbl:latitude":49.236261,
     "lbl:longitude":16.511417,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.242458,
     "mps:longitude":16.509554,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     "name:cze_x_variant":[
         "Klein Kinitz",
         "Kninicky"
-    ],
-    "name:unk_x_variant":[
-        "Brno-Kn\u00e3ni\u00e4ky"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -66,7 +65,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -75,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":791391,
-        "qs:id":1120350,
         "qs_pg:id":1120350
     },
     "wof:country":"CZ",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772292,
+    "wof:lastmodified":1566710189,
     "wof:name":"Brno-Kn\u00e3ni\u00e4ky",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

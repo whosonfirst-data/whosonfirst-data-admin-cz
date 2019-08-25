@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.853661,
     "lbl:longitude":16.591168,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.853661,
     "mps:longitude":16.591168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0414\u043e\u043b\u044c\u043d\u0456 \u0414\u0443\u043d\u0430\u0451\u0432\u0456\u0446\u044b"
     ],
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Doln\u00ed Dunajovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unter-Tannowitz"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":100,
     "wof:belongsto":[
@@ -133,10 +136,12 @@
         "fct:id":"06f6b3e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3076302,
         "gp:id":788939,
-        "qs:id":212356,
-        "qs_pg:id":398070,
+        "qs_pg:id":212356,
         "wd:id":"Q1023844",
         "wk:page":"Doln\u00ed Dunajovice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":398070
     },
     "wof:country":"CZ",
     "wof:geomhash":"c2c5da1c7fc8356a7ce15c937117bf78",
@@ -152,7 +157,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247828,
+    "wof:lastmodified":1566710653,
     "wof:name":"Doln\u00ed Dunajovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

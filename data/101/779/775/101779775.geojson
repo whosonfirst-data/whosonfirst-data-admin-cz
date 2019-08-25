@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
+    "geom:area_square_m":697790.323074,
     "geom:bbox":"13.8587065167,49.2614055709,13.8756944221,49.2772374798",
     "geom:latitude":49.26902,
     "geom:longitude":13.867328,
     "iso:country":"CZ",
     "lbl:latitude":49.272857,
     "lbl:longitude":13.866492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.272857,
     "mps:longitude":13.866492,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Jihocesk\u00fd",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":3076466,
         "gp:id":788788,
-        "qs:id":1265834
+        "qs_pg:id":1265834
     },
     "wof:country":"CZ",
-    "wof:geomhash":"aa1a202abbc5bf13912d10892194d797",
+    "wof:geomhash":"367290b0826bf67d8220b52a27abd23d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101779775,
-    "wof:lastmodified":1466625908,
+    "wof:lastmodified":1566710595,
     "wof:name":"Dra\u017eejov",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

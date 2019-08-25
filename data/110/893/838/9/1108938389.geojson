@@ -10,8 +10,10 @@
     "geom:latitude":49.960514,
     "geom:longitude":14.353569,
     "iso:country":"CZ",
+    "lbl:bbox":"14.3485691874,49.9555138846,14.3585691874,49.9655138846",
     "lbl:latitude":49.960514,
     "lbl:longitude":14.353569,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -48,7 +50,7 @@
     "name:slk_x_preferred":[
         "Lipence"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101841983,
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1108938389,
-    "wof:lastmodified":1563247062,
+    "wof:lastmodified":1566710479,
     "wof:name":"Lipence",
     "wof:parent_id":101841983,
     "wof:placetype":"neighbourhood",

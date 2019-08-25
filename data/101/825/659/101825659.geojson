@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.978804,
     "lbl:longitude":15.207427,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.978804,
     "mps:longitude":15.207427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062a\u0634\u0631\u0648\u0646\u0647 \u067e\u062a\u0634\u06a9\u06cc"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "\u010cerven\u00e9 Pe\u010dky"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petschkau"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3077968,
         "gp:id":787419,
-        "qs:id":28565,
         "qs_pg:id":28565,
         "wd:id":"Q679866",
         "wk:page":"\u010cerven\u00e9 Pe\u010dky"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101825659,
-    "wof:lastmodified":1563247681,
+    "wof:lastmodified":1566710631,
     "wof:name":"\u010cerven\u00e9 Pe\u010dky",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

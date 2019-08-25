@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.800102,
     "lbl:longitude":13.417686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.800102,
     "mps:longitude":13.417686,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Senec"
     ],
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -63,7 +66,9 @@
     "wof:concordances":{
         "gn:id":3066202,
         "gp:id":797941,
-        "qs:id":4,
+        "qs_pg:id":4
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1268039
     },
     "wof:country":"CZ",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":101840863,
-    "wof:lastmodified":1564102172,
+    "wof:lastmodified":1566710621,
     "wof:name":"Senec",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.926742,
     "lbl:longitude":14.275064,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.926742,
     "mps:longitude":14.275064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dob\u0159ichovice"
     ],
@@ -98,7 +101,7 @@
     "name:tat_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0436\u0438\u0445\u043e\u0432\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dobrichowitz"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":265,
     "wof:belongsto":[
@@ -135,7 +138,6 @@
     "wof:concordances":{
         "gn:id":3077034,
         "gp:id":788249,
-        "qs:id":1085109,
         "qs_pg:id":1085109,
         "wd:id":"Q158280",
         "wk:page":"Dob\u0159ichovice"
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":101843297,
-    "wof:lastmodified":1563247356,
+    "wof:lastmodified":1566710581,
     "wof:name":"Dob\u0159ichovice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

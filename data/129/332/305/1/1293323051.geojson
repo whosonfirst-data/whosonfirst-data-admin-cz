@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.90405,49.93082,12.94405,49.97082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0648\u0646"
     ],
@@ -111,8 +115,7 @@
         "Beroun"
     ],
     "name:und_x_variant":[
-        "Pern",
-        "Beroun"
+        "Pern"
     ],
     "name:vie_x_preferred":[
         "Beroun"
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1293323051,
-    "wof:lastmodified":1564101414,
+    "wof:lastmodified":1566710259,
     "wof:name":"Beroun",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

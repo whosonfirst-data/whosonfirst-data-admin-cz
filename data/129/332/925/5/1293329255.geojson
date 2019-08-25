@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.63343,50.45304,14.67343,50.49304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0628\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -75,8 +79,7 @@
         "Libovice"
     ],
     "name:und_x_variant":[
-        "Libowis",
-        "Libovice"
+        "Libowis"
     ],
     "name:vie_x_preferred":[
         "Libovice"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1293329255,
-    "wof:lastmodified":1564101411,
+    "wof:lastmodified":1566710258,
     "wof:name":"Libovice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

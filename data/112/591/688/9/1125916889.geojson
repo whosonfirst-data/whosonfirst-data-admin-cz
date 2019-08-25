@@ -9,15 +9,18 @@
     "geom:bbox":"15.08553,49.12856,15.08553,49.12856",
     "geom:latitude":49.12856,
     "geom:longitude":15.08553,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":375,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":375,
     "iso:country":"CZ",
+    "lbl:bbox":"15.06553,49.10856,15.10553,49.14856",
     "lbl:latitude":49.12856,
     "lbl:longitude":15.08553,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0647\u0648\u0633\u067e\u0631\u06cc\u0632"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Hosp\u0159\u00edz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6pferschlag"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":790015,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125916889,
-    "wof:lastmodified":1563249903,
+    "wof:lastmodified":1566711014,
     "wof:name":"Hosp\u0159\u00edz",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

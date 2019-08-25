@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.73313,
     "lbl:longitude":14.667032,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.73313,
     "mps:longitude":14.667032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Byst\u0159ice"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bistritz"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3078300,
         "gp:id":787143,
-        "qs:id":688988,
         "qs_pg:id":688988,
         "wd:id":"Q775776",
         "wk:page":"Byst\u0159ice (Bene\u0161ov District)"
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101826643,
-    "wof:lastmodified":1563247282,
+    "wof:lastmodified":1566710570,
     "wof:name":"Byst\u0159ice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

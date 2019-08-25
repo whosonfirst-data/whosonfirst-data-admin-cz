@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.500841,
     "lbl:longitude":13.642919,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.500841,
     "mps:longitude":13.642919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u062a"
     ],
@@ -216,7 +219,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":189,
     "wof:belongsto":[
@@ -229,7 +232,6 @@
         "fct:id":"07017f58-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3070291,
         "gp:id":794257,
-        "qs:id":239927,
         "qs_pg:id":239927,
         "wd:id":"Q146363"
     },
@@ -247,7 +249,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247382,
+    "wof:lastmodified":1566710585,
     "wof:name":"Most",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

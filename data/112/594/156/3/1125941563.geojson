@@ -9,15 +9,18 @@
     "geom:bbox":"16.37276,48.96853,16.37276,48.96853",
     "geom:latitude":48.96853,
     "geom:longitude":16.37276,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":211,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":211,
     "iso:country":"CZ",
+    "lbl:bbox":"16.35276,48.94853,16.39276,48.98853",
     "lbl:latitude":48.96853,
     "lbl:longitude":16.37276,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0646\u0627\u0634\u06cc\u0645\u06cc\u0631\u06cc\u062a\u0633\u0647"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Na\u0161im\u011b\u0159ice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naschmeritz"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":794494,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125941563,
-    "wof:lastmodified":1563247975,
+    "wof:lastmodified":1566710690,
     "wof:name":"Na\u0161im\u011b\u0159ice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

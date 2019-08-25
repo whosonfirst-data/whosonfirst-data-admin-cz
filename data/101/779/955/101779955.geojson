@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.053899,
     "lbl:longitude":16.837051,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.053899,
     "mps:longitude":16.837051,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0634\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Bo\u0161ovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boschowitz"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":3078903,
         "gp:id":786607,
-        "qs:id":1246351,
         "qs_pg:id":1246351,
         "wd:id":"Q896329",
         "wk:page":"Bo\u0161ovice"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101779955,
-    "wof:lastmodified":1563247408,
+    "wof:lastmodified":1566710588,
     "wof:name":"Bo\u0161ovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

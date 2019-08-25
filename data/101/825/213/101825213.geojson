@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.842225,
     "lbl:longitude":13.362181,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.842225,
     "mps:longitude":13.362181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Horn\u00ed B\u0159\u00edza"
     ],
@@ -80,7 +83,7 @@
     "name:tat_x_preferred":[
         "\u04ba\u043e\u0440\u043d\u0438-\u0411\u0440\u0436\u0438\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ober B\u0159is"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":209,
     "wof:belongsto":[
@@ -117,10 +120,12 @@
     "wof:concordances":{
         "gn:id":3078637,
         "gp:id":24929856,
-        "qs:id":876833,
-        "qs_pg:id":1061800,
+        "qs_pg:id":876833,
         "wd:id":"Q1407742",
         "wk:page":"Horn\u00ed B\u0159\u00edza"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1061800
     },
     "wof:country":"CZ",
     "wof:geomhash":"6044a371fe1fb3b454035b2d4050f07c",
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":101825213,
-    "wof:lastmodified":1563247742,
+    "wof:lastmodified":1566710640,
     "wof:name":"Horn\u00ed B\u0159\u00edza",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

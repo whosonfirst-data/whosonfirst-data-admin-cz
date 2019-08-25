@@ -9,15 +9,18 @@
     "geom:bbox":"13.00567,50.18311,13.00567,50.18311",
     "geom:latitude":50.18311,
     "geom:longitude":13.00567,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":511,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":511,
     "iso:country":"CZ",
+    "lbl:bbox":"12.98567,50.16311,13.02567,50.20311",
     "lbl:latitude":50.18311,
     "lbl:longitude":13.00567,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0633\u062a\u0631\u0648\u0698\u0646\u0627"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Stru\u017en\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kysibl"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":799137,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125910165,
-    "wof:lastmodified":1563250023,
+    "wof:lastmodified":1566711031,
     "wof:name":"Stru\u017en\u00e1",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

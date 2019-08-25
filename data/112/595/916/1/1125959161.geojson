@@ -9,15 +9,18 @@
     "geom:bbox":"15.07588,50.29426,15.07588,50.29426",
     "geom:latitude":50.29426,
     "geom:longitude":15.07588,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":372,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":372,
     "iso:country":"CZ",
+    "lbl:bbox":"15.05588,50.27426,15.09588,50.31426",
     "lbl:latitude":50.29426,
     "lbl:longitude":15.07588,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u062a\u0633\u0644\u06cc"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Mcely"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mzell"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":793697,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1125959161,
-    "wof:lastmodified":1563248700,
+    "wof:lastmodified":1566710800,
     "wof:name":"Mcely",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.598583,
     "lbl:longitude":18.148647,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.598583,
     "mps:longitude":18.148647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043f\u0440\u0448\u044b\u045e\u043d\u0456\u0446\u044d"
     ],
@@ -166,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":502,
     "wof:belongsto":[
@@ -178,7 +181,6 @@
     "wof:concordances":{
         "gn:id":3073254,
         "gp:id":791605,
-        "qs:id":459737,
         "qs_pg:id":459737,
         "wd:id":"Q849439",
         "wk:page":"Kop\u0159ivnice"
@@ -194,7 +196,7 @@
         }
     ],
     "wof:id":101840939,
-    "wof:lastmodified":1563247594,
+    "wof:lastmodified":1566710616,
     "wof:name":"Kop\u0159ivnice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

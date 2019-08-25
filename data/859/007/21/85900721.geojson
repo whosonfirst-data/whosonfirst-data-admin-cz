@@ -13,8 +13,10 @@
     "gn:longitude":17.53944,
     "gn:population":18857,
     "iso:country":"CZ",
+    "lbl:bbox":"17.513955,49.171746,17.523955,49.181746",
     "lbl:latitude":49.176746,
     "lbl:longitude":17.518955,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.175449,
     "mps:longitude":17.525472,
     "mz:hierarchy_label":0,
@@ -107,9 +109,8 @@
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0440\u043e\u043a\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Kv\u00edtkovice",
-        "Kvitkovice"
+    "name:und_x_variant":[
+        "Kv\u00edtkovice"
     ],
     "name:vie_x_preferred":[
         "Otrokovice"
@@ -147,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -159,7 +160,6 @@
     "wof:concordances":{
         "gn:id":3068690,
         "gp:id":792344,
-        "qs:id":459750,
         "qs_pg:id":459750,
         "wd:id":"Q1009095",
         "wk:page":"Otrokovice"
@@ -179,7 +179,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246367,
+    "wof:lastmodified":1566710180,
     "wof:name":"Kvitkovice",
     "wof:parent_id":101779863,
     "wof:placetype":"neighbourhood",

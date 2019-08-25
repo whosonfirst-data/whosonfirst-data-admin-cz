@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.988646,
     "lbl:longitude":17.719801,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.988646,
     "mps:longitude":17.719801,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0646\u0648\u0641"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":3079671,
         "gp:id":785934,
-        "qs:id":875498,
         "qs_pg:id":875498,
         "wd:id":"Q1018837",
         "wk:page":"B\u00e1nov (Uhersk\u00e9 Hradi\u0161t\u011b District)"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101780963,
-    "wof:lastmodified":1563247863,
+    "wof:lastmodified":1566710659,
     "wof:name":"B\u00e1nov",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

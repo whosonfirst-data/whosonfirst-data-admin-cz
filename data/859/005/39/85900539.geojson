@@ -12,8 +12,10 @@
     "gn:latitude":50.61933,
     "gn:longitude":14.07951,
     "iso:country":"CZ",
+    "lbl:bbox":"14.067571,50.6097,14.077571,50.6197",
     "lbl:latitude":50.6147,
     "lbl:longitude":14.072571,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.609789,
     "mps:longitude":14.073435,
     "mz:hierarchy_label":0,
@@ -51,10 +53,6 @@
     "name:fra_x_preferred":[
         "Brn\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Birnai",
-        "Brn\u00e1 nad Labem"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3063548,
@@ -85,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":50.619722,
     "wd:longitude":14.079167,
     "wd:wordcount":164,
@@ -98,7 +96,6 @@
     "wof:concordances":{
         "gn:id":3078623,
         "gp:id":786857,
-        "qs:id":468896,
         "qs_pg:id":468896,
         "wd:id":"Q266791",
         "wk:page":"Brn\u00e1 nad Labem"
@@ -118,7 +115,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246425,
+    "wof:lastmodified":1566710196,
     "wof:name":"Brn\u00e1 nad Labem",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

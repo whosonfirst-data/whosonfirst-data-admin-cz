@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.616138,
     "lbl:longitude":18.330435,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.616138,
     "mps:longitude":18.330435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u062a\u06cc\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3070800,
         "gp:id":793794,
-        "qs:id":145357,
         "qs_pg:id":145357,
         "wd:id":"Q677593",
         "wk:page":"Metylovice"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101825533,
-    "wof:lastmodified":1563247633,
+    "wof:lastmodified":1566710624,
     "wof:name":"Metylovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

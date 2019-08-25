@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.951588,
     "lbl:longitude":16.259419,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.951588,
     "mps:longitude":16.259419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0633\u062a\u06cc\u0631\u0627\u062f\u06cc\u062a\u0633\u0647"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Host\u011bradice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hosterlitz"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3075079,
         "gp:id":790030,
-        "qs:id":255221,
         "qs_pg:id":255221,
         "wd:id":"Q1630651",
         "wk:page":"Host\u011bradice"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101781001,
-    "wof:lastmodified":1563247829,
+    "wof:lastmodified":1566710653,
     "wof:name":"Host\u011bradice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

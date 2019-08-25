@@ -9,15 +9,18 @@
     "geom:bbox":"14.06575,49.92089,14.06575,49.92089",
     "geom:latitude":49.92089,
     "geom:longitude":14.06575,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":187,
-    "gn:population":218,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":187,
     "iso:country":"CZ",
+    "lbl:bbox":"14.04575,49.90089,14.08575,49.94089",
     "lbl:latitude":49.92089,
     "lbl:longitude":14.06575,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0646\u06cc\u067e\u0631\u0648\u0633\u06cc"
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Kon\u011bprusy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koneprus"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":791569,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1125935817,
-    "wof:lastmodified":1563248232,
+    "wof:lastmodified":1566710729,
     "wof:name":"Kon\u011bprusy",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

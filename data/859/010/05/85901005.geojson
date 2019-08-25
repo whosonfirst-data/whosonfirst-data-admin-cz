@@ -13,6 +13,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.065518,
     "lbl:longitude":14.417229,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.06331,
     "mps:longitude":14.420453,
     "mz:hierarchy_label":1,
@@ -124,9 +125,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u0435\u0433\u0440\u0430\u0434"
     ],
-    "name:unk_x_variant":[
-        "Vy\u0161ehrad"
-    ],
     "name:vie_x_preferred":[
         "Vy\u0161ehrad"
     ],
@@ -172,7 +170,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":801358,
-        "qs:id":887261,
         "qs_pg:id":887261,
         "wd:id":"Q616334"
     },
@@ -191,7 +188,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326129,
+    "wof:lastmodified":1566710193,
     "wof:name":"Vysehrad",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

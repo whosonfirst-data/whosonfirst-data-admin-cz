@@ -10,12 +10,16 @@
     "geom:latitude":49.652842,
     "geom:longitude":18.630654,
     "iso:country":"CZ",
+    "lbl:bbox":"18.610654,49.632842,18.650654,49.672842",
     "lbl:latitude":49.652842,
     "lbl:longitude":18.630654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.652842,
     "mps:longitude":18.630654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Old\u0159ichovice"
     ],
@@ -34,7 +38,7 @@
     "name:pol_x_preferred":[
         "Oldrzychowice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ond\u0159ichowitz"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -64,10 +68,12 @@
     "wof:concordances":{
         "gn:id":3069070,
         "gp:id":795382,
-        "qs:id":3,
-        "qs_pg:id":1267408,
+        "qs_pg:id":3,
         "wd:id":"Q847035",
         "wk:page":"Old\u0159ichovice (T\u0159inec)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1267408
     },
     "wof:country":"CZ",
     "wof:geomhash":"7864f4c0488d7f044bc3c60c8000313f",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":101863111,
-    "wof:lastmodified":1561772394,
+    "wof:lastmodified":1566710650,
     "wof:name":"Old\u0159ichovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

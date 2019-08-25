@@ -12,8 +12,10 @@
     "gn:latitude":49.6047,
     "gn:longitude":17.24184,
     "iso:country":"CZ",
+    "lbl:bbox":"17.236747,49.592386,17.246747,49.602386",
     "lbl:latitude":49.597386,
     "lbl:longitude":17.241747,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.600563,
     "mps:longitude":17.238493,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
     ],
     "name:cze_x_variant":[
         "Hej\u00e8\u00edn"
-    ],
-    "name:unk_x_variant":[
-        "Hej\u010d\u00edn"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748129,
@@ -79,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6694361,
         "gp:id":23406786,
-        "qs:id":1164007,
         "qs_pg:id":1164007
     },
     "wof:country":"CZ",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772281,
+    "wof:lastmodified":1566710177,
     "wof:name":"Hej\u010d\u00edn",
     "wof:parent_id":101748129,
     "wof:placetype":"neighbourhood",

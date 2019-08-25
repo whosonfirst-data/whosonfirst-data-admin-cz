@@ -9,17 +9,19 @@
     "geom:bbox":"17.9638628341,49.9261287118,17.9797485122,49.9420909763",
     "geom:latitude":49.934561,
     "geom:longitude":17.97353,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1675,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1675,
     "iso:country":"CZ",
     "lbl:latitude":49.936881,
     "lbl:longitude":17.972326,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.936881,
     "mps:longitude":17.972326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Velk\u00e9 Ho\u0161tice"
     ],
@@ -92,7 +94,7 @@
     "name:swe_x_preferred":[
         "Velk\u00e9 Ho\u0161tice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross Hosch\u00fctz"
     ],
     "name:vie_x_preferred":[
@@ -132,7 +134,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
     "wof:belongsto":[
@@ -144,15 +146,14 @@
     "wof:concordances":{
         "gn:id":3075072,
         "gp:id":790041,
-        "qs:id":328880,
-        "qs_pg:id":1266134,
+        "qs_pg:id":328880,
         "wd:id":"Q165010",
         "wk:page":"Velk\u00e9 Ho\u0161tice"
     },
     "wof:concordances_alt":{
         "gn:id":3063205,
         "gp:id":800550,
-        "qs_pg:id":328880
+        "qs_pg:id":1266134
     },
     "wof:country":"CZ",
     "wof:geomhash":"47320d03da16b694f69c4c2b43832787",
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":101825425,
-    "wof:lastmodified":1563247654,
+    "wof:lastmodified":1566710627,
     "wof:name":"Velk\u00e9 Ho\u0161tice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

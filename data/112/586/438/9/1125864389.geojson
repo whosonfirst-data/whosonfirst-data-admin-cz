@@ -9,15 +9,18 @@
     "geom:bbox":"14.04617,50.68865,14.04617,50.68865",
     "geom:latitude":50.68865,
     "geom:longitude":14.04617,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":792,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":792,
     "iso:country":"CZ",
+    "lbl:bbox":"14.02617,50.66865,14.06617,50.70865",
     "lbl:latitude":50.68865,
     "lbl:longitude":14.04617,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0427\u0443\u0434\u0435\u0440\u043e\u0432"
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Chuderov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross Kaudern"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":787815,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1125864389,
-    "wof:lastmodified":1563249026,
+    "wof:lastmodified":1566710858,
     "wof:name":"Chuderov",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

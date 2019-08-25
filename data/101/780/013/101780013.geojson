@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.314877,
     "lbl:longitude":15.394345,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.314877,
     "mps:longitude":15.394345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u062a\u0644\u0648\u0648"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Batelov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Battelau"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3079637,
         "gp:id":785962,
-        "qs:id":938532,
         "qs_pg:id":938532,
         "wd:id":"Q2527033",
         "wk:page":"Batelov"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101780013,
-    "wof:lastmodified":1563247867,
+    "wof:lastmodified":1566710660,
     "wof:name":"Batelov",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

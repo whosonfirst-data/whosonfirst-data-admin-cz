@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.407928,
     "lbl:longitude":16.638185,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.407928,
     "mps:longitude":16.638185,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u00e1jec-Jest\u0159eb\u00ed"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,7 +119,6 @@
     "wof:concordances":{
         "gn:id":3067080,
         "gp:id":22656813,
-        "qs:id":1042995,
         "qs_pg:id":1042995,
         "wd:id":"Q646364",
         "wk:page":"R\u00e1jec-Jest\u0159eb\u00ed"
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101827417,
-    "wof:lastmodified":1563247264,
+    "wof:lastmodified":1566710567,
     "wof:name":"R\u00e1jec",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

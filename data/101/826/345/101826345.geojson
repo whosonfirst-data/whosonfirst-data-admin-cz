@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.462068,
     "lbl:longitude":18.143127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.462068,
     "mps:longitude":18.143127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Ro\u017enov pod Radho\u0161t\u011bm"
     ],
@@ -101,7 +104,7 @@
     "name:tat_x_preferred":[
         "\u0420\u043e\u0436\u043d\u043e\u0432-\u043f\u043e\u0434-\u0420\u0430\u0434\u04bb\u043e\u0441\u0442\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ro\u017enov"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":118,
     "wof:belongsto":[
@@ -135,10 +138,12 @@
     "wof:concordances":{
         "gn:id":3066652,
         "gp:id":797537,
-        "qs:id":686219,
         "qs_pg:id":400362,
         "wd:id":"Q1008696",
         "wk:page":"Ro\u017enov pod Radho\u0161t\u011bm"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":686219
     },
     "wof:country":"CZ",
     "wof:geomhash":"89443bc8d14037c29bd2e24235838115",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101826345,
-    "wof:lastmodified":1563247346,
+    "wof:lastmodified":1566710580,
     "wof:name":"Ro\u017enov pod Radho\u0161t\u011bm",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

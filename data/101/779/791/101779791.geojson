@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.355108,
     "lbl:longitude":17.86775,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.355108,
     "mps:longitude":17.86775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0634\u0633\u0627\u0644\u06a9\u0648\u0648\u0627"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Ho\u0161\u0165\u00e1lkov\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hostialkow"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3075091,
         "gp:id":790018,
-        "qs:id":145440,
         "qs_pg:id":145440,
         "wd:id":"Q1022334",
         "wk:page":"Ho\u0161\u0165\u00e1lkov\u00e1"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101779791,
-    "wof:lastmodified":1563247404,
+    "wof:lastmodified":1566710587,
     "wof:name":"Ho\u0161\u0165\u00e1lkov\u00e1",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

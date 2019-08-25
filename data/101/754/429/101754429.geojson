@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.129333,
     "lbl:longitude":16.609823,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.129333,
     "mps:longitude":16.609823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mod\u0159ice"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0434\u0440\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00f6dritz"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":37,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3070416,
         "gp:id":794151,
-        "qs:id":296519,
         "qs_pg:id":296519,
         "wd:id":"Q915051",
         "wk:page":"Mod\u0159ice"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101754429,
-    "wof:lastmodified":1563247256,
+    "wof:lastmodified":1566710565,
     "wof:name":"Mod\u0159ice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

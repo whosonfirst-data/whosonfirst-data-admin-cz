@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.933,
     "lbl:longitude":14.70885,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.933,
     "mps:longitude":14.70885,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Mnichovice"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u041c\u043d\u0438\u0445\u043e\u0432\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mnichowitz"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":37,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3070452,
         "gp:id":794119,
-        "qs:id":868905,
         "qs_pg:id":868905,
         "wd:id":"Q1027943",
         "wk:page":"Mnichovice"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101825777,
-    "wof:lastmodified":1563247702,
+    "wof:lastmodified":1566710634,
     "wof:name":"Mnichovice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

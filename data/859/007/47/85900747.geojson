@@ -11,8 +11,10 @@
     "geom:longitude":16.699318,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"16.694318,49.204279,16.704318,49.214279",
     "lbl:latitude":49.209279,
     "lbl:longitude":16.699318,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.208385,
     "mps:longitude":16.70218,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
     "name:cze_x_variant":[
         "Lisen",
         "Losch"
-    ],
-    "name:unk_x_variant":[
-        "Brno-Laacea"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":792964,
-        "qs:id":1150021,
         "qs_pg:id":1150021
     },
     "wof:country":"CZ",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772286,
+    "wof:lastmodified":1566710182,
     "wof:name":"Brno-Laacea",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

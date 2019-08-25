@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.029005,
     "lbl:longitude":14.225088,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.029005,
     "mps:longitude":14.225088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rudn\u00e1"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":3066599,
         "gp:id":797586,
-        "qs:id":1175971,
         "qs_pg:id":1175971,
         "wd:id":"Q1632354",
         "wk:page":"Rudn\u00e1 (Prague-West District)"
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":101825707,
-    "wof:lastmodified":1563247647,
+    "wof:lastmodified":1566710626,
     "wof:name":"Rudn\u00e1",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

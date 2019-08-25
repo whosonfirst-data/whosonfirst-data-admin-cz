@@ -11,8 +11,10 @@
     "geom:longitude":14.069366,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"14.064366,50.638364,14.074366,50.648364",
     "lbl:latitude":50.643364,
     "lbl:longitude":14.069366,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.657142,
     "mps:longitude":14.072594,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     "name:cze_x_variant":[
         "Schreckenstein",
         "Strekov"
-    ],
-    "name:unk_x_variant":[
-        "\u00c3st\u00e3 Nad Labem-St\u00e5ekov"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -77,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":799021,
-        "qs:id":1324856,
         "qs_pg:id":1324856
     },
     "wof:country":"CZ",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772288,
+    "wof:lastmodified":1566710184,
     "wof:name":"\u00c3st\u00e3 Nad Labem-St\u00e5ekov",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

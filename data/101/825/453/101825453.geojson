@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.657282,
     "lbl:longitude":17.92662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.657282,
     "mps:longitude":17.92662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Suchdol nad Odrou"
     ],
@@ -93,7 +96,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191581,
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":8468645,
         "gp:id":799220,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1553447",
         "wk:page":"Suchdol nad Odrou"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101825453,
-    "wof:lastmodified":1563247683,
+    "wof:lastmodified":1566710631,
     "wof:name":"Suchdol nad Odrou",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

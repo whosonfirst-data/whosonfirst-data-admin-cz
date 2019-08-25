@@ -11,8 +11,10 @@
     "geom:longitude":16.594263,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"16.589263,49.288916,16.599263,49.298916",
     "lbl:latitude":49.293916,
     "lbl:longitude":16.594263,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.288,
     "mps:longitude":16.600767,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
     ],
     "name:cze_x_variant":[
         "Oresin"
-    ],
-    "name:unk_x_variant":[
-        "Brno-O\u00e5e\u00e5\u010d\u00e3n"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":795532,
-        "qs:id":1337099,
         "qs_pg:id":1337099
     },
     "wof:country":"CZ",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772290,
+    "wof:lastmodified":1566710186,
     "wof:name":"Brno-O\u00e5e\u00e5\u010d\u00e3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.126238,
     "lbl:longitude":17.939388,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.126238,
     "mps:longitude":17.939388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0644\u0627\u062e\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Vlachovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vlahovice"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,10 +113,12 @@
     "wof:concordances":{
         "gn:id":3062776,
         "gp:id":800932,
-        "qs:id":885802,
-        "qs_pg:id":1268729,
+        "qs_pg:id":885802,
         "wd:id":"Q915966",
         "wk:page":"Vlachovice (Zl\u00edn District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1268729
     },
     "wof:country":"CZ",
     "wof:geomhash":"bc2819f61cffbc4691342169ebd0d9d4",
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":101779827,
-    "wof:lastmodified":1563247408,
+    "wof:lastmodified":1566710588,
     "wof:name":"Vlachovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

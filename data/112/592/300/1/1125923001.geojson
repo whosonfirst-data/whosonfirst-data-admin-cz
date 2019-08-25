@@ -9,15 +9,18 @@
     "geom:bbox":"15.9349,49.07384,15.9349,49.07384",
     "geom:latitude":49.07384,
     "geom:longitude":15.9349,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":280,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":280,
     "iso:country":"CZ",
+    "lbl:bbox":"15.9149,49.05384,15.9549,49.09384",
     "lbl:latitude":49.07384,
     "lbl:longitude":15.9349,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u067e\u0631\u06cc\u0634\u062a\u067e\u0648"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "P\u0159\u00ed\u0161tpo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Przispach"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":796790,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1125923001,
-    "wof:lastmodified":1563248421,
+    "wof:lastmodified":1566710759,
     "wof:name":"P\u0159\u00ed\u0161tpo",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.420438,
     "lbl:longitude":14.91097,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.420438,
     "mps:longitude":14.91097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u0644\u0627\u062f\u0627 \u0628\u0648\u0644\u064a\u0633\u0644\u0627\u0641"
     ],
@@ -176,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043b\u0430\u0434\u0430-\u0411\u043e\u043b\u0435\u0441\u043b\u0430\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mlada Boleslaz"
     ],
     "name:urd_x_preferred":[
@@ -207,7 +210,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":50.4125,
     "wd:longitude":14.906389,
@@ -223,7 +226,6 @@
         "fct:id":"06faa278-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3070544,
         "gp:id":794037,
-        "qs:id":145354,
         "qs_pg:id":145354,
         "wd:id":"Q191805",
         "wk:page":"Mlad\u00e1 Boleslav"
@@ -242,7 +244,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247476,
+    "wof:lastmodified":1566710599,
     "wof:name":"Mlad\u00e1 Boleslav",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

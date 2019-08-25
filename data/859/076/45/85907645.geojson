@@ -12,8 +12,10 @@
     "gn:latitude":49.19606,
     "gn:longitude":16.57511,
     "iso:country":"CZ",
+    "lbl:bbox":"16.562167,49.186856,16.572167,49.196856",
     "lbl:latitude":49.191856,
     "lbl:longitude":16.567167,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.195166,
     "mps:longitude":16.563726,
     "mz:hierarchy_label":0,
@@ -51,7 +53,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748109,
@@ -62,7 +64,6 @@
     "wof:concordances":{
         "gn:id":6639902,
         "gp:id":23407439,
-        "qs:id":1151567,
         "qs_pg:id":1151567,
         "wd:id":"Q12045363"
     },
@@ -81,7 +82,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246355,
+    "wof:lastmodified":1566710176,
     "wof:name":"Pis\u00e1rky",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

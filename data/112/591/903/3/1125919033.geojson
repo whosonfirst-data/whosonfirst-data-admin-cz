@@ -9,15 +9,18 @@
     "geom:bbox":"16.6957,49.85558,16.6957,49.85558",
     "geom:latitude":49.85558,
     "geom:longitude":16.6957,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":312,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":312,
     "iso:country":"CZ",
+    "lbl:bbox":"16.6757,49.83558,16.7157,49.87558",
     "lbl:latitude":49.85558,
     "lbl:longitude":16.6957,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0627\u0633\u06cc\u06a9\u0648\u0641"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Kras\u00edkov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Budigsdorf"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":791917,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125919033,
-    "wof:lastmodified":1563249995,
+    "wof:lastmodified":1566711027,
     "wof:name":"Kras\u00edkov",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

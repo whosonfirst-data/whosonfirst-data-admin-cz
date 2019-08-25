@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"15.07569,48.98522,15.11569,49.02522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mnich"
     ],
@@ -48,8 +52,7 @@
         "Mnich"
     ],
     "name:und_x_variant":[
-        "M\u00fcnichschlag",
-        "Mnich"
+        "M\u00fcnichschlag"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1360121249,
-    "wof:lastmodified":1564102093,
+    "wof:lastmodified":1566710537,
     "wof:name":"Mnich",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

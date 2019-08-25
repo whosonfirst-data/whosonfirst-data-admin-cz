@@ -12,8 +12,10 @@
     "gn:latitude":50.78786,
     "gn:longitude":14.15292,
     "iso:country":"CZ",
+    "lbl:bbox":"14.12413,50.79264,14.13413,50.80264",
     "lbl:latitude":50.79764,
     "lbl:longitude":14.12913,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.796971,
     "mps:longitude":14.110932,
     "mz:hierarchy_label":0,
@@ -80,10 +82,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Neudorf",
-        "Nov\u00e1 Ves"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3077244,
@@ -114,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -124,7 +122,6 @@
     "wof:concordances":{
         "gn:id":3069565,
         "gp:id":794848,
-        "qs:id":39133,
         "qs_pg:id":39133
     },
     "wof:country":"CZ",
@@ -142,7 +139,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1564101248,
+    "wof:lastmodified":1566710186,
     "wof:name":"Nov\u00e1 Ves",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

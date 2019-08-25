@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.259242,
     "lbl:longitude":13.910481,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.259242,
     "mps:longitude":13.910481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u0627\u0643\u0648\u0646\u064a\u062a\u0633\u0647"
     ],
@@ -150,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":387,
     "wof:belongsto":[
@@ -163,7 +166,6 @@
         "fct:id":"06f77ed6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3065067,
         "gp:id":798952,
-        "qs:id":459808,
         "qs_pg:id":459808,
         "wd:id":"Q750224",
         "wk:page":"Strakonice"
@@ -182,7 +184,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247431,
+    "wof:lastmodified":1566710592,
     "wof:name":"Strakonice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

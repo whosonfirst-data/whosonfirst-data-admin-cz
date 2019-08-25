@@ -13,6 +13,8 @@
     "iso:country":"CZ",
     "lbl:latitude":49.198531,
     "lbl:longitude":16.61041,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.198531,
     "mps:longitude":16.61041,
     "mz:hierarchy_label":1,
@@ -333,9 +335,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Br\u00fcnn"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0646\u0648"
     ],
@@ -474,7 +473,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":8261,
     "wof:belongsto":[
@@ -486,10 +485,12 @@
     "wof:concordances":{
         "gn:id":3078610,
         "gp:id":786869,
-        "qs:id":352915,
-        "qs_pg:id":901158,
+        "qs_pg:id":352915,
         "wd:id":"Q14960",
         "wk:page":"Brno"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":901158
     },
     "wof:country":"CZ",
     "wof:geomhash":"e771e7cd41882b34fe17942280c762b5",
@@ -502,7 +503,7 @@
         }
     ],
     "wof:id":101748109,
-    "wof:lastmodified":1563247388,
+    "wof:lastmodified":1566710585,
     "wof:name":"Brno",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

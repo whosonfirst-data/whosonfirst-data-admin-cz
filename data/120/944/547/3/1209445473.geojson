@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.66008,49.86628,12.70008,49.90628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kyjov"
     ],
@@ -81,8 +85,7 @@
         "\u041a\u0438\u0439\u043e\u0432"
     ],
     "name:und_x_variant":[
-        "Khoau",
-        "Kyjov"
+        "Khoau"
     ],
     "name:vie_x_preferred":[
         "Kyjov"
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1209445473,
-    "wof:lastmodified":1564101813,
+    "wof:lastmodified":1566710421,
     "wof:name":"Kyjov",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",

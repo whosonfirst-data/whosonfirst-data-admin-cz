@@ -12,8 +12,10 @@
     "gn:latitude":50.19394,
     "gn:longitude":15.83703,
     "iso:country":"CZ",
+    "lbl:bbox":"15.824067,50.178053,15.834067,50.188053",
     "lbl:latitude":50.183053,
     "lbl:longitude":15.829067,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.1765,
     "mps:longitude":15.827882,
     "mz:hierarchy_label":0,
@@ -67,9 +69,6 @@
     "name:ron_x_preferred":[
         "Comuna M\u0103rgineni"
     ],
-    "name:unk_x_variant":[
-        "T\u0159ebe\u0161"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3074967,
@@ -100,7 +99,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748133,
@@ -111,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3064113,
         "gp:id":799757,
-        "qs:id":1332146,
         "qs_pg:id":1332146
     },
     "wof:country":"CZ",
@@ -129,7 +127,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772286,
+    "wof:lastmodified":1566710182,
     "wof:name":"T\u0159ebe\u0161",
     "wof:parent_id":101748133,
     "wof:placetype":"neighbourhood",

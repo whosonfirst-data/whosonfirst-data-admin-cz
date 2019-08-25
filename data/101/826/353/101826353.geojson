@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.419174,
     "lbl:longitude":18.097773,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.419174,
     "mps:longitude":18.097773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u0644\u0627\u0634\u0633\u06a9\u0627 \u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0647"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Vala\u0161sk\u00e1 Byst\u0159ice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross Bistrzitz"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3063451,
         "gp:id":800338,
-        "qs:id":1042967,
         "qs_pg:id":1042967,
         "wd:id":"Q1021704",
         "wk:page":"Vala\u0161sk\u00e1 Byst\u0159ice"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101826353,
-    "wof:lastmodified":1563247273,
+    "wof:lastmodified":1566710568,
     "wof:name":"Vala\u0161sk\u00e1 Byst\u0159ice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

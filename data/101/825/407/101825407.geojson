@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.71815,
     "lbl:longitude":18.450831,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.71815,
     "mps:longitude":18.450831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u062a\u0634\u06cc\u0646\u0627"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":7602675,
         "gp:id":22656712,
-        "qs:id":1174848,
         "qs_pg:id":1174848,
         "wd:id":"Q922538",
         "wk:page":"Lu\u010dina (Fr\u00fddek-M\u00edstek District)"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101825407,
-    "wof:lastmodified":1563247679,
+    "wof:lastmodified":1566710631,
     "wof:name":"Lu\u010dina",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

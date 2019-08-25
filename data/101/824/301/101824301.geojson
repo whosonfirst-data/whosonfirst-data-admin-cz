@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.624726,
     "lbl:longitude":13.694096,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.624726,
     "mps:longitude":13.694096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Osek"
     ],
@@ -86,9 +89,6 @@
     "name:tat_x_preferred":[
         "\u041e\u0441\u0435\u043a"
     ],
-    "name:unk_x_variant":[
-        "Ossegg"
-    ],
     "name:vie_x_preferred":[
         "Osek"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -123,7 +123,6 @@
         "fct:id":"07022f84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3068857,
         "gp:id":795559,
-        "qs:id":145334,
         "qs_pg:id":145334,
         "wd:id":"Q546673",
         "wk:page":"Osek (Teplice District)"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247521,
+    "wof:lastmodified":1566710606,
     "wof:name":"Osek",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

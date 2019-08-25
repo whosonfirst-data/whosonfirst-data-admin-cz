@@ -9,15 +9,18 @@
     "geom:bbox":"14.25048,50.47317,14.25048,50.47317",
     "geom:latitude":50.47317,
     "geom:longitude":14.25048,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":628,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":628,
     "iso:country":"CZ",
+    "lbl:bbox":"14.23048,50.45317,14.27048,50.49317",
     "lbl:latitude":50.47317,
     "lbl:longitude":14.25048,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0427\u043e\u0434\u043e\u0443\u043d\u0439"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Chodouny"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chodom"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":787644,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1126041739,
-    "wof:lastmodified":1563248914,
+    "wof:lastmodified":1566710838,
     "wof:name":"Chodouny",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

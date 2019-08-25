@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.162429,
     "lbl:longitude":16.947125,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.162429,
     "mps:longitude":16.947125,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Star\u00e9 M\u011bsto"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0435-\u041c\u0435\u0441\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00e4hrisch-Altstadt"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3065330,
         "gp:id":798694,
-        "qs:id":326182,
         "qs_pg:id":326182,
         "wd:id":"Q1444566",
         "wk:page":"Star\u00e9 M\u011bsto (\u0160umperk District)"
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101824143,
-    "wof:lastmodified":1563247548,
+    "wof:lastmodified":1566710610,
     "wof:name":"Star\u00e9 M\u011bsto",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

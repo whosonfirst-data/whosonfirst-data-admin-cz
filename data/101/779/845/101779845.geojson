@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.009151,
     "lbl:longitude":17.581195,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.009151,
     "mps:longitude":17.581195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vl\u010dnov"
     ],
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043b\u0447\u043d\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wltschnau"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":224,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":3062710,
         "gp:id":800990,
-        "qs:id":1042950,
         "qs_pg:id":1042950,
         "wd:id":"Q174735",
         "wk:page":"Vl\u010dnov"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101779845,
-    "wof:lastmodified":1563247410,
+    "wof:lastmodified":1566710589,
     "wof:name":"Vl\u010dnov",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

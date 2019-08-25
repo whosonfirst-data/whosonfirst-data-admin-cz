@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.209723,
     "lbl:longitude":12.824131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.209723,
     "mps:longitude":12.824131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Doub\u00ed"
     ],
@@ -28,7 +31,7 @@
     "name:fra_x_preferred":[
         "Doub\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aich"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -45,7 +48,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3076565,
         "gp:id":788702,
-        "qs:id":1019785,
+        "qs_pg:id":1019785,
         "wd:id":"Q1251635"
     },
     "wof:country":"CZ",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101825371,
-    "wof:lastmodified":1561772387,
+    "wof:lastmodified":1566710633,
     "wof:name":"Doub\u00ed",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

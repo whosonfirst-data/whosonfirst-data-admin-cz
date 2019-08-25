@@ -12,8 +12,10 @@
     "gn:latitude":49.76463,
     "gn:longitude":13.36697,
     "iso:country":"CZ",
+    "lbl:bbox":"13.360818,49.758256,13.370818,49.768256",
     "lbl:latitude":49.763256,
     "lbl:longitude":13.365818,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.771879,
     "mps:longitude":13.361611,
     "mz:hierarchy_label":0,
@@ -33,10 +35,6 @@
     ],
     "name:cze_x_variant":[
         "Lochotin Park"
-    ],
-    "name:unk_x_variant":[
-        "Lochotin Park",
-        "Lochot\u00edn"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -66,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748111,
@@ -77,7 +75,6 @@
     "wof:concordances":{
         "gn:id":3071647,
         "gp:id":793059,
-        "qs:id":1080919,
         "qs_pg:id":1080919
     },
     "wof:country":"CZ",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772285,
+    "wof:lastmodified":1566710181,
     "wof:name":"Lochot\u00edn",
     "wof:parent_id":101748111,
     "wof:placetype":"neighbourhood",

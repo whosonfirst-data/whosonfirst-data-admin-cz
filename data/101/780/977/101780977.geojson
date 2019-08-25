@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.025355,
     "lbl:longitude":17.645937,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.025355,
     "mps:longitude":17.645937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Uhersk\u00fd Brod"
     ],
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0433\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u0411\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vehersky Brod"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":548,
     "wof:belongsto":[
@@ -159,7 +162,6 @@
     "wof:concordances":{
         "gn:id":3063736,
         "gp:id":800114,
-        "qs:id":1207417,
         "qs_pg:id":1207417,
         "wd:id":"Q664895",
         "wk:page":"Uhersk\u00fd Brod"
@@ -175,7 +177,7 @@
         }
     ],
     "wof:id":101780977,
-    "wof:lastmodified":1563247873,
+    "wof:lastmodified":1566710660,
     "wof:name":"Uhersk\u00fd Brod",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

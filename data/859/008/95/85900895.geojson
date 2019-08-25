@@ -13,6 +13,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.008152,
     "lbl:longitude":14.515572,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.016232,
     "mps:longitude":14.521582,
     "mz:categories":[],
@@ -73,9 +74,6 @@
     "name:slk_x_preferred":[
         "\u0160eberov"
     ],
-    "name:unk_x_variant":[
-        "Praha-\u00c5eberov"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":3067696,
     "qs:gn_nam_loc":"Praha, Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, CZ",
@@ -113,7 +111,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":797802,
-        "qs:id":962772,
         "qs_pg:id":962772,
         "wd:id":"Q3563232"
     },
@@ -132,7 +129,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326121,
+    "wof:lastmodified":1566710186,
     "wof:name":"Seberov",
     "wof:parent_id":101754447,
     "wof:placetype":"neighbourhood",

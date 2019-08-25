@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.997903,
     "lbl:longitude":15.350113,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.997903,
     "mps:longitude":15.350113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Slavonice"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0421\u043b\u0430\u0432\u043e\u043d\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zlabings"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":516,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3065818,
         "gp:id":798278,
-        "qs:id":2757,
         "qs_pg:id":2757,
         "wd:id":"Q1727398",
         "wk:page":"Slavonice"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101780915,
-    "wof:lastmodified":1563247876,
+    "wof:lastmodified":1566710661,
     "wof:name":"Slavonice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

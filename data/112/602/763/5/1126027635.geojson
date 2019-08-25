@@ -9,15 +9,18 @@
     "geom:bbox":"17.39457,49.70917,17.39457,49.70917",
     "geom:latitude":49.70917,
     "geom:longitude":17.39457,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":544,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":544,
     "iso:country":"CZ",
+    "lbl:bbox":"17.37457,49.68917,17.41457,49.72917",
     "lbl:latitude":49.70917,
     "lbl:longitude":17.39457,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u06cc\u06cc\u0648\u0648\u0648\u0627"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "J\u00edvov\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Giebau"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +100,7 @@
     "qs_pg:qs_id":580835,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1126027635,
-    "wof:lastmodified":1563248722,
+    "wof:lastmodified":1566710806,
     "wof:name":"J\u00edvov\u00e1",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

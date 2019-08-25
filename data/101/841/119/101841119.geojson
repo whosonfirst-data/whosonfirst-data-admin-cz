@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.75844,
     "lbl:longitude":14.043724,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.75844,
     "mps:longitude":14.043724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0628\u0648\u0648\u062e\u062a\u0633"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Libouchec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6nigswald"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":412,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3071895,
         "gp:id":792828,
-        "qs:id":937709,
         "qs_pg:id":937709,
         "wd:id":"Q1823117",
         "wk:page":"Libouchec"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101841119,
-    "wof:lastmodified":1563247481,
+    "wof:lastmodified":1566710600,
     "wof:name":"Libouchec",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

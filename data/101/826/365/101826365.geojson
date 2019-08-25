@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.490482,
     "lbl:longitude":16.660662,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.490482,
     "mps:longitude":16.660662,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0411\u043e\u0441\u043a\u0430\u0432\u0456\u0446\u044b"
     ],
@@ -116,9 +119,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0441\u043a\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Boskowitz"
-    ],
     "name:vie_x_preferred":[
         "Boskovice"
     ],
@@ -141,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":297,
     "wof:belongsto":[
@@ -154,7 +154,6 @@
         "fct:id":"06fd1724-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3078910,
         "gp:id":786600,
-        "qs:id":2528,
         "qs_pg:id":2528,
         "wd:id":"Q894440",
         "wk:page":"Boskovice"
@@ -173,7 +172,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247273,
+    "wof:lastmodified":1566710568,
     "wof:name":"Boskovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

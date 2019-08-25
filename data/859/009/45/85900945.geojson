@@ -11,8 +11,10 @@
     "geom:longitude":14.048496,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"14.043496,50.657693,14.053496,50.667693",
     "lbl:latitude":50.662693,
     "lbl:longitude":14.048496,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.666763,
     "mps:longitude":14.053833,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:cze_x_colloquial":[
         "Stibrniky",
         "Stribrniky"
-    ],
-    "name:unk_x_variant":[
-        "St\u00edbrn\u00edky"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748139,
@@ -73,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":799066,
-        "qs:id":221861,
         "qs_pg:id":221861
     },
     "wof:country":"CZ",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772287,
+    "wof:lastmodified":1566710183,
     "wof:name":"St\u00edbrn\u00edky",
     "wof:parent_id":101748139,
     "wof:placetype":"neighbourhood",

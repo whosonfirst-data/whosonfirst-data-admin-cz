@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.206305,
     "lbl:longitude":15.296406,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.206305,
     "mps:longitude":15.296406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u0435\u0441\u0442\u0430\u0446-\u041a\u0440\u0430\u043b\u0430\u0432\u044d"
     ],
@@ -95,7 +98,7 @@
     "name:tat_x_preferred":[
         "\u041c\u0435\u0441\u0442\u0435\u0442\u0441-\u041a\u0440\u0430\u043b\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6nigstadtl"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
     "wof:concordances":{
         "gn:id":3070822,
         "gp:id":793771,
-        "qs:id":190310,
         "qs_pg:id":190310,
         "wd:id":"Q1861138",
         "wk:page":"M\u011bstec Kr\u00e1lov\u00e9"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101824213,
-    "wof:lastmodified":1563247569,
+    "wof:lastmodified":1566710613,
     "wof:name":"M\u011bstec Kr\u00e1lov\u00e9",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":50.23447,
     "gn:longitude":12.85203,
     "iso:country":"CZ",
+    "lbl:bbox":"12.854036,50.226289,12.864036,50.236289",
     "lbl:latitude":50.231289,
     "lbl:longitude":12.859036,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.238093,
     "mps:longitude":12.850118,
     "mz:hierarchy_label":0,
@@ -36,9 +38,8 @@
     "name:cze_x_variant":[
         "Fischern Ryb\u00e1e"
     ],
-    "name:unk_x_variant":[
-        "Fischern Ryb\u00e1\u0159e",
-        "Ryb\u00e1\u0159e"
+    "name:und_x_variant":[
+        "Fischern Ryb\u00e1\u0159e"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -70,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101840901,
@@ -81,7 +82,6 @@
     "wof:concordances":{
         "gn:id":3066538,
         "gp:id":797641,
-        "qs:id":2732,
         "qs_pg:id":2732
     },
     "wof:country":"CZ",
@@ -99,7 +99,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772292,
+    "wof:lastmodified":1566710189,
     "wof:name":"Ryb\u00e1\u0159e",
     "wof:parent_id":101840901,
     "wof:placetype":"neighbourhood",

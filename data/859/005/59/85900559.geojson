@@ -12,8 +12,10 @@
     "gn:latitude":49.61338,
     "gn:longitude":17.29214,
     "iso:country":"CZ",
+    "lbl:bbox":"17.32966,49.623756,17.33966,49.633756",
     "lbl:latitude":49.628756,
     "lbl:longitude":17.33466,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.623352,
     "mps:longitude":17.334956,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:slk_x_preferred":[
         "Chvalkovice"
     ],
-    "name:unk_x_variant":[
-        "Chv\u00e1lkovice"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3069011,
@@ -94,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -104,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3077487,
         "gp:id":787847,
-        "qs:id":1000420,
         "qs_pg:id":1000420
     },
     "wof:country":"CZ",
@@ -122,7 +120,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772296,
+    "wof:lastmodified":1566710194,
     "wof:name":"Chv\u00e1lkovice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

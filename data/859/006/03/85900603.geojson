@@ -12,8 +12,10 @@
     "gn:latitude":50.15677,
     "gn:longitude":14.13532,
     "iso:country":"CZ",
+    "lbl:bbox":"14.14846,50.158961,14.15846,50.168961",
     "lbl:latitude":50.163961,
     "lbl:longitude":14.15346,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.157546,
     "mps:longitude":14.149505,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ces_x_preferred":[
-        "Dubi"
-    ],
-    "name:unk_x_variant":[
         "Dubi"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3076345,
         "gp:id":788904,
-        "qs:id":249494,
         "qs_pg:id":249494
     },
     "wof:country":"CZ",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772292,
+    "wof:lastmodified":1566710190,
     "wof:name":"Dubi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

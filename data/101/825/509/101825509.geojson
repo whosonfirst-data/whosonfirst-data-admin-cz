@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.920903,
     "lbl:longitude":17.838758,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.920903,
     "mps:longitude":17.838758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Slavkov"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Slavkov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schlakau"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":923,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3065831,
         "gp:id":798268,
-        "qs:id":1193105,
         "qs_pg:id":1193105,
         "wd:id":"Q2524196"
     },
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101825509,
-    "wof:lastmodified":1563247720,
+    "wof:lastmodified":1566710637,
     "wof:name":"Slavkov",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

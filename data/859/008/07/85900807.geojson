@@ -12,8 +12,10 @@
     "gn:latitude":49.73069,
     "gn:longitude":13.30976,
     "iso:country":"CZ",
+    "lbl:bbox":"13.311345,49.720464,13.321345,49.730464",
     "lbl:latitude":49.725464,
     "lbl:longitude":13.316345,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.725712,
     "mps:longitude":13.313577,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:cze_x_colloquial":[
         "Nova Hospoda"
-    ],
-    "name:unk_x_variant":[
-        "Nov\u00e1 Hospoda"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3069691,
         "gp:id":794804,
-        "qs:id":215709,
         "qs_pg:id":215709
     },
     "wof:country":"CZ",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772291,
+    "wof:lastmodified":1566710187,
     "wof:name":"Nov\u00e1 Hospoda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

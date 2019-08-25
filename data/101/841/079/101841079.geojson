@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.298442,
     "lbl:longitude":15.862863,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.298442,
     "mps:longitude":15.862863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Smi\u0159ice"
     ],
@@ -77,7 +80,7 @@
     "name:tat_x_preferred":[
         "\u0421\u043c\u0438\u0440\u0436\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Smi\u0159itz"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3065728,
         "gp:id":798366,
-        "qs:id":1201530,
         "qs_pg:id":1201530,
         "wd:id":"Q2093942",
         "wk:page":"Smi\u0159ice"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101841079,
-    "wof:lastmodified":1563247463,
+    "wof:lastmodified":1566710597,
     "wof:name":"Smi\u0159ice",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

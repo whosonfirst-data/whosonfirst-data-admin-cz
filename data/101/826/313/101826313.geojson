@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.729444,
     "lbl:longitude":17.297961,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.729444,
     "mps:longitude":17.297961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "\u0160ternberk"
     ],
@@ -124,7 +127,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":356,
     "wof:belongsto":[
@@ -136,7 +139,7 @@
     "wof:concordances":{
         "gn:id":3065166,
         "gp:id":798857,
-        "qs:id":1235778,
+        "qs_pg:id":1235778,
         "wd:id":"Q392429",
         "wk:page":"\u0160ternberk"
     },
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101826313,
-    "wof:lastmodified":1563247310,
+    "wof:lastmodified":1566710574,
     "wof:name":"\u0160ternberk",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

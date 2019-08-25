@@ -9,15 +9,18 @@
     "geom:bbox":"14.240965535,48.6163481168,14.2658740005,48.6247915814",
     "geom:latitude":48.620561,
     "geom:longitude":14.252097,
-    "geonames:id":"3071532,3071533",
+    "gn:id":"3071532,3071533",
     "gn:population":1955,
     "iso:country":"CZ",
     "lbl:latitude":48.620384,
     "lbl:longitude":14.252097,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.620384,
     "mps:longitude":14.252097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u0648\u062a\u0634\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -75,7 +78,7 @@
     "name:swe_x_preferred":[
         "Lou\u010dovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wullachen"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":216,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":3071532,
         "gp:id":793156,
-        "qs:id":480925,
         "qs_pg:id":480925,
         "wd:id":"Q1584350",
         "wk:page":"Lou\u010dovice"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101783339,
-    "wof:lastmodified":1563247397,
+    "wof:lastmodified":1566710586,
     "wof:name":"Lou\u010dovice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

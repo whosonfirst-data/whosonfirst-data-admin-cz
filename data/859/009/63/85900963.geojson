@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.045602,
     "lbl:longitude":14.284355,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.037861,
     "mps:longitude":14.271258,
     "mz:hierarchy_label":1,
@@ -60,9 +61,6 @@
     "name:slk_x_preferred":[
         "Zli\u010d\u00edn"
     ],
-    "name:unk_x_variant":[
-        "T\u0159ebonice"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3067696,
@@ -99,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3064078,
         "gp:id":799790,
-        "qs:id":183367
+        "qs_pg:id":183367
     },
     "wof:country":"CZ",
     "wof:geomhash":"8f3c3dd772e2e28327b6375457be0c89",
@@ -114,7 +112,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326121,
+    "wof:lastmodified":1566710185,
     "wof:name":"Trebonice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

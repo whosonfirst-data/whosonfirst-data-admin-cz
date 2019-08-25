@@ -12,8 +12,10 @@
     "gn:latitude":49.55634,
     "gn:longitude":17.24914,
     "iso:country":"CZ",
+    "lbl:bbox":"17.237719,49.549297,17.247719,49.559297",
     "lbl:latitude":49.554297,
     "lbl:longitude":17.242719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.550541,
     "mps:longitude":17.242722,
     "mz:hierarchy_label":0,
@@ -30,10 +32,6 @@
     ],
     "name:cze_x_variant":[
         "Nimlau"
-    ],
-    "name:unk_x_variant":[
-        "Nimlau",
-        "Nemilany"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -65,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -75,7 +73,6 @@
     "wof:concordances":{
         "gn:id":3069888,
         "gp:id":794612,
-        "qs:id":1277160,
         "qs_pg:id":1277160
     },
     "wof:country":"CZ",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772290,
+    "wof:lastmodified":1566710186,
     "wof:name":"Nemilany",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

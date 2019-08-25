@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.168219,
     "lbl:longitude":17.905132,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.168219,
     "mps:longitude":17.905132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u06cc\u0632\u062f"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "\u00dajezd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aujezd"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,7 +119,6 @@
     "wof:concordances":{
         "gn:id":3063695,
         "gp:id":800171,
-        "qs:id":183402,
         "qs_pg:id":183402,
         "wd:id":"Q330099",
         "wk:page":"\u00dajezd (Zl\u00edn District)"
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101779825,
-    "wof:lastmodified":1563247443,
+    "wof:lastmodified":1566710594,
     "wof:name":"\u00dajezd",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

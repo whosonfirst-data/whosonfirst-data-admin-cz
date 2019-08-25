@@ -9,17 +9,19 @@
     "geom:bbox":"16.8495080207,49.8632609312,16.9060507928,49.8900798686",
     "geom:latitude":49.878134,
     "geom:longitude":16.880172,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14360,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":14360,
     "iso:country":"CZ",
     "lbl:latitude":49.882661,
     "lbl:longitude":16.877388,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.882661,
     "mps:longitude":16.877388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0417\u0430\u0431\u0440\u0436\u0435\u0445"
     ],
@@ -95,7 +97,7 @@
     "name:tat_x_preferred":[
         "\u0417\u0430\u0431\u0440\u0436\u0435\u04bb"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Azbreh"
     ],
     "name:vie_x_preferred":[
@@ -140,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1149,
     "wof:belongsto":[
@@ -152,7 +154,6 @@
     "wof:concordances":{
         "gn:id":3062110,
         "gp:id":801507,
-        "qs:id":971292,
         "qs_pg:id":887538,
         "wd:id":"Q246634",
         "wk:page":"Z\u00e1b\u0159eh"
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":101825579,
-    "wof:lastmodified":1563247770,
+    "wof:lastmodified":1566710644,
     "wof:name":"Z\u00e1b\u0159eh",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

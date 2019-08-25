@@ -14,10 +14,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.901679,
     "lbl:longitude":15.94283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.901679,
     "mps:longitude":15.94283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chrast"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -121,7 +124,6 @@
         "fct:id":"06f961f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3077596,
         "gp:id":787750,
-        "qs:id":212021,
         "qs_pg:id":212021,
         "wd:id":"Q1076872",
         "wk:page":"Chrast (Chrudim District)"
@@ -140,7 +142,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247701,
+    "wof:lastmodified":1566710634,
     "wof:name":"Chrast",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

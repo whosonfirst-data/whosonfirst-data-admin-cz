@@ -12,8 +12,10 @@
     "gn:latitude":49.47091,
     "gn:longitude":17.44406,
     "iso:country":"CZ",
+    "lbl:bbox":"17.453602,49.447545,17.463602,49.457545",
     "lbl:latitude":49.452545,
     "lbl:longitude":17.458602,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.455627,
     "mps:longitude":17.452459,
     "mz:hierarchy_label":0,
@@ -52,9 +54,6 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Popovice"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3067580,
@@ -85,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -97,7 +96,6 @@
     "wof:concordances":{
         "gn:id":3067811,
         "gp:id":796494,
-        "qs:id":183192,
         "qs_pg:id":183192,
         "wd:id":"Q12046391"
     },
@@ -116,7 +114,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772292,
+    "wof:lastmodified":1566710189,
     "wof:name":"Popovice",
     "wof:parent_id":101826569,
     "wof:placetype":"neighbourhood",

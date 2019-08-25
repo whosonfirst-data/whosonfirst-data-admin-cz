@@ -9,15 +9,18 @@
     "geom:bbox":"15.00573,49.25708,15.00573,49.25708",
     "geom:latitude":49.25708,
     "geom:longitude":15.00573,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":257,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":257,
     "iso:country":"CZ",
+    "lbl:bbox":"14.98573,49.23708,15.02573,49.27708",
     "lbl:latitude":49.25708,
     "lbl:longitude":15.00573,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0647\u0648\u0631\u0646\u06cc \u0631\u0627\u062f\u0648\u0648\u0646"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Horn\u00ed Radou\u0148"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ober Radaun"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":789876,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1126052237,
-    "wof:lastmodified":1563248872,
+    "wof:lastmodified":1566710831,
     "wof:name":"Horn\u00ed Radou\u0148",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

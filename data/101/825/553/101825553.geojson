@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.799468,
     "lbl:longitude":17.010802,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.799468,
     "mps:longitude":17.010802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0423\u0441\u043e\u0432"
     ],
@@ -95,7 +98,7 @@
     "name:tat_x_preferred":[
         "\u0423\u0441\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00e4hrisch Aussee"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":567,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
     "wof:concordances":{
         "gn:id":3063561,
         "gp:id":800249,
-        "qs:id":190698,
         "qs_pg:id":190698,
         "wd:id":"Q330302",
         "wk:page":"\u00dasov"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101825553,
-    "wof:lastmodified":1563247724,
+    "wof:lastmodified":1566710637,
     "wof:name":"\u00dasov",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

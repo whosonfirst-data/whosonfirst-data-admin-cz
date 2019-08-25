@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.67057,
     "lbl:longitude":15.400928,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.67057,
     "mps:longitude":15.400928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sv\u011btl\u00e1 nad S\u00e1zavou"
     ],
@@ -103,7 +106,7 @@
     "name:tat_x_preferred":[
         "\u0421\u0432\u0435\u0442\u043b\u0430-\u043d\u0430\u0434-\u0421\u0430\u0437\u0430\u0432\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sw\u011btl\u00e1"
     ],
     "name:vie_x_preferred":[
@@ -128,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -141,7 +144,6 @@
         "fct:id":"07044daa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3064510,
         "gp:id":799401,
-        "qs:id":882244,
         "qs_pg:id":882244,
         "wd:id":"Q1001639",
         "wk:page":"Sv\u011btl\u00e1 nad S\u00e1zavou"
@@ -160,7 +162,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247279,
+    "wof:lastmodified":1566710569,
     "wof:name":"Sv\u011btl\u00e1 nad S\u00e1zavou",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

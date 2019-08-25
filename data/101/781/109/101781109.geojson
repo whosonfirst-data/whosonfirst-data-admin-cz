@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.85754,
     "lbl:longitude":16.485376,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.85754,
     "mps:longitude":16.485376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Drnholec"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Drnholec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00fcrnholz"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":39,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3076408,
         "gp:id":788843,
-        "qs:id":1043083,
         "qs_pg:id":1043083,
         "wd:id":"Q1023882",
         "wk:page":"Drnholec"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101781109,
-    "wof:lastmodified":1563247837,
+    "wof:lastmodified":1566710655,
     "wof:name":"Drnholec",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

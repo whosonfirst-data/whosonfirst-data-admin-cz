@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.06181,
     "lbl:longitude":17.352078,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.06181,
     "mps:longitude":17.352078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u0634\u06cc\u062a\u0633\u0647"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Bor\u0161ice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borschitz"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3078933,
         "gp:id":786582,
-        "qs:id":884772,
         "qs_pg:id":884772,
         "wd:id":"Q894334",
         "wk:page":"Bor\u0161ice"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101780965,
-    "wof:lastmodified":1563247861,
+    "wof:lastmodified":1566710659,
     "wof:name":"Bor\u0161ice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.232816,
     "lbl:longitude":12.848029,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.232816,
     "mps:longitude":12.848029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Karlovy Vary"
     ],
@@ -271,9 +274,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043b\u043e\u0432\u0456 \u0412\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
-        "Carlsbad"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0631\u0644\u0648\u0648\u06cc \u0648\u0627\u0631\u06cc"
     ],
@@ -305,7 +305,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":50.230556,
     "wd:longitude":12.8725,
@@ -325,10 +325,12 @@
         "gp:id":791114,
         "loc:id":"n78073108",
         "nyt:id":"N87997003109018758071",
-        "qs:id":145417,
-        "qs_pg:id":1116529,
+        "qs_pg:id":145417,
         "wd:id":"Q384544",
         "wk:page":"Karlovy Vary"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1116529
     },
     "wof:country":"CZ",
     "wof:geomhash":"db69831d464082d2f15c039dbf91e213",
@@ -344,7 +346,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247593,
+    "wof:lastmodified":1566710616,
     "wof:name":"Karlovy Vary",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

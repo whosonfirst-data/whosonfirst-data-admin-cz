@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.40267,48.71132,14.44267,48.75132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0631\u0627\u062a\u0633\u0648\u0648"
     ],
@@ -84,8 +88,7 @@
         "Vracov"
     ],
     "name:und_x_variant":[
-        "Wratzau",
-        "Vracov"
+        "Wratzau"
     ],
     "name:vie_x_preferred":[
         "Vracov"
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1327468033,
-    "wof:lastmodified":1564100978,
+    "wof:lastmodified":1566710064,
     "wof:name":"Vracov",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.10636,
     "lbl:longitude":16.060719,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.10636,
     "mps:longitude":16.060719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hrotovice"
     ],
@@ -80,7 +83,7 @@
     "name:tat_x_preferred":[
         "\u04ba\u0440\u043e\u0442\u043e\u0432\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hrottowitz"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":10,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":3074803,
         "gp:id":790277,
-        "qs:id":868622,
         "qs_pg:id":868622,
         "wd:id":"Q1632454",
         "wk:page":"Hrotovice"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101781187,
-    "wof:lastmodified":1563247830,
+    "wof:lastmodified":1566710654,
     "wof:name":"Hrotovice",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

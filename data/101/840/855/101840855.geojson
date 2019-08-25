@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.412585,
     "lbl:longitude":16.581426,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.412585,
     "mps:longitude":16.581426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0430 \u0425\u043e\u0440\u0430"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":3078085,
         "gp:id":787323,
-        "qs:id":755288,
         "qs_pg:id":755288,
         "wd:id":"Q339213",
         "wk:page":"\u010cern\u00e1 Hora (Blansko District)"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101840855,
-    "wof:lastmodified":1563247619,
+    "wof:lastmodified":1566710621,
     "wof:name":"\u010cern\u00e1 Hora",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

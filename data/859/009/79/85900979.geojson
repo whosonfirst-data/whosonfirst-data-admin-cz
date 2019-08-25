@@ -13,6 +13,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.018544,
     "lbl:longitude":14.537905,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.001289,
     "mps:longitude":14.553815,
     "mz:hierarchy_label":1,
@@ -68,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":800172,
-        "qs:id":228614,
+        "qs_pg:id":228614,
         "wd:id":"Q3563133"
     },
     "wof:country":"CZ",
@@ -86,7 +87,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247485,
+    "wof:lastmodified":1566710185,
     "wof:name":"Praha-\u00dajezd",
     "wof:parent_id":101825635,
     "wof:placetype":"neighbourhood",

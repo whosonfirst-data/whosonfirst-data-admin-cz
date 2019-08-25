@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.082524,
     "lbl:longitude":14.517929,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.081315,
     "mps:longitude":14.511646,
     "mz:hierarchy_label":1,
@@ -49,9 +50,6 @@
     ],
     "name:slk_x_preferred":[
         "Stra\u0161nice"
-    ],
-    "name:unk_x_variant":[
-        "Male\u0161ice"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
@@ -93,7 +91,6 @@
     "wof:concordances":{
         "gn:id":3071155,
         "gp:id":793486,
-        "qs:id":287220,
         "qs_pg:id":287220
     },
     "wof:country":"CZ",
@@ -111,7 +108,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326115,
+    "wof:lastmodified":1566710178,
     "wof:name":"Malesice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

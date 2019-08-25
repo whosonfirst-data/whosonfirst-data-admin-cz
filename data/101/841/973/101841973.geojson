@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.412229,
     "lbl:longitude":14.678012,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.412229,
     "mps:longitude":14.678012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0628\u0648\u0631"
     ],
@@ -171,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":652,
     "wof:belongsto":[
@@ -184,7 +187,6 @@
         "fct:id":"07045f66-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3064379,
         "gp:id":799518,
-        "qs:id":2810,
         "qs_pg:id":2810,
         "wd:id":"Q193721",
         "wk:page":"T\u00e1bor"
@@ -203,7 +205,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247500,
+    "wof:lastmodified":1566710602,
     "wof:name":"T\u00e1bor",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

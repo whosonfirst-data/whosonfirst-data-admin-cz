@@ -15,6 +15,7 @@
     "iso:country":"CZ",
     "lbl:latitude":49.996359,
     "lbl:longitude":14.397076,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.990085,
     "mps:longitude":14.384002,
     "mz:hierarchy_label":1,
@@ -58,10 +59,6 @@
     "name:swe_x_preferred":[
         "Lahovice"
     ],
-    "name:unk_x_variant":[
-        "Lahowitz",
-        "Lahovice"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3067696,
@@ -101,7 +98,6 @@
     "wof:concordances":{
         "gn:id":3072344,
         "gp:id":792404,
-        "qs:id":1332136,
         "qs_pg:id":1332136,
         "wd:id":"Q2048241"
     },
@@ -118,7 +114,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247483,
+    "wof:lastmodified":1566710179,
     "wof:name":"Lahovice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

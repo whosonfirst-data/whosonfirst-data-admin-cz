@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.812184,
     "lbl:longitude":15.184931,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.812184,
     "mps:longitude":15.184931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0632\u0628\u0631\u0627\u0633\u0644\u0627\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Zbraslavice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zbraslawitz"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
         "fct:id":"06fa8540-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3061750,
         "gp:id":801849,
-        "qs:id":1042941,
         "qs_pg:id":1042941,
         "wd:id":"Q1810377",
         "wk:page":"Zbraslavice"
@@ -125,7 +127,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247657,
+    "wof:lastmodified":1566710628,
     "wof:name":"Zbraslavice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

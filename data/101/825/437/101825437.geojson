@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.628882,
     "lbl:longitude":18.075993,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.628882,
     "mps:longitude":18.075993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0628\u0647\u0648\u0634\u0633"
     ],
@@ -90,7 +93,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3071950,
         "gp:id":23407121,
-        "qs:id":203120,
+        "qs_pg:id":203120,
         "wd:id":"Q2657234",
         "wk:page":"Libho\u0161\u0165"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101825437,
-    "wof:lastmodified":1563247670,
+    "wof:lastmodified":1566710629,
     "wof:name":"Libho\u0161\u0165",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

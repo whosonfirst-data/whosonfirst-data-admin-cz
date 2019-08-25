@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.04363,50.19262,14.08363,50.23262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3072428
     },
     "wof:country":"CZ",
-    "wof:geomhash":"8d62619e43c92c52d3bab8c2a07d303c",
+    "wof:geomhash":"42e247282bfab3cb639d03ac5131a07f",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209651737,
-    "wof:lastmodified":1536280558,
+    "wof:lastmodified":1566710355,
     "wof:name":"Kvic",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.063629999999998,
+    14.06363,
     50.21262,
-    14.063629999999998,
+    14.06363,
     50.21262
 ],
   "geometry": {"coordinates":[14.06363,50.21262],"type":"Point"}

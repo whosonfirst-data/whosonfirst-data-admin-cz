@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.083572,
     "lbl:longitude":16.754906,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.083572,
     "mps:longitude":16.754906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kr\u00e1l\u00edky"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u041a\u0440\u0430\u043b\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grulich"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":706,
     "wof:belongsto":[
@@ -123,10 +126,12 @@
     "wof:concordances":{
         "gn:id":3072951,
         "gp:id":791879,
-        "qs:id":181600,
-        "qs_pg:id":1060600,
+        "qs_pg:id":181600,
         "wd:id":"Q1321460",
         "wk:page":"Kr\u00e1l\u00edky"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060600
     },
     "wof:country":"CZ",
     "wof:geomhash":"73c6ec29ba84f99eaf3eec3565284e82",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101824087,
-    "wof:lastmodified":1563247562,
+    "wof:lastmodified":1566710612,
     "wof:name":"Kr\u00e1l\u00edky",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.607147,
     "lbl:longitude":13.744773,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.607147,
     "mps:longitude":13.744773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0634\u0643\u0648\u0641"
     ],
@@ -128,9 +131,6 @@
     "name:tur_x_preferred":[
         "Duchcov"
     ],
-    "name:unk_x_variant":[
-        "Dux"
-    ],
     "name:vec_x_preferred":[
         "Duchcov"
     ],
@@ -157,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":282,
     "wof:belongsto":[
@@ -169,7 +169,6 @@
     "wof:concordances":{
         "gn:id":3076311,
         "gp:id":788931,
-        "qs:id":1043078,
         "qs_pg:id":1043078,
         "wd:id":"Q158584",
         "wk:page":"Duchcov"
@@ -185,7 +184,7 @@
         }
     ],
     "wof:id":101824323,
-    "wof:lastmodified":1563247545,
+    "wof:lastmodified":1566710609,
     "wof:name":"Duchcov",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

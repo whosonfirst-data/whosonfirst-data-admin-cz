@@ -13,6 +13,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.122337,
     "lbl:longitude":14.252014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.124464,
     "mps:longitude":14.250628,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
         "Brewnow"
     ],
     "name:ces_x_preferred":[
-        "Bewnow"
-    ],
-    "name:unk_x_variant":[
         "Bewnow"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -72,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":786740,
-        "qs:id":901159,
         "qs_pg:id":901159
     },
     "wof:country":"CZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247481,
+    "wof:lastmodified":1566710196,
     "wof:name":"Bewnow",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

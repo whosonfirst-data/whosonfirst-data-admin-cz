@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.286156,
     "lbl:longitude":14.092389,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.286156,
     "mps:longitude":14.092389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zlonice"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Zlonice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zlonitz"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +103,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":142,
     "wof:belongsto":[
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gn:id":3061360,
         "gp:id":23408028,
-        "qs:id":1229848,
+        "qs_pg:id":1229848,
         "wd:id":"Q207261",
         "wk:page":"Zlonice"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101824193,
-    "wof:lastmodified":1563247523,
+    "wof:lastmodified":1566710606,
     "wof:name":"Zlonice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

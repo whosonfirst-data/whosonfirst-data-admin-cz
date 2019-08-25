@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.720188,
     "lbl:longitude":15.209429,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.720188,
     "mps:longitude":15.209429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u0627 \u0648\u0633 \u0646\u0627\u062f \u0646\u06cc\u0633\u0648\u0648"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191581,
@@ -104,9 +107,11 @@
     "wof:concordances":{
         "gn:id":4144693,
         "gp:id":24930089,
-        "qs:id":1151437,
         "qs_pg:id":502526,
         "wd:id":"Q2003155"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1151437
     },
     "wof:country":"CZ",
     "wof:geomhash":"5f1013293fe0a417fc83c80689f466e2",
@@ -122,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563247457,
+    "wof:lastmodified":1566710596,
     "wof:name":"Nov\u00e1 Ves nad Nisou",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

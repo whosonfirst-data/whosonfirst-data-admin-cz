@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.352894,
     "lbl:longitude":16.401451,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.352894,
     "mps:longitude":16.401451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u067e\u0631\u062f\u06a9\u0644\u0627\u0634\u062a\u0631\u06cc"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "P\u0159edkl\u00e1\u0161te\u0159\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vorkloster"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":225,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3067631,
         "gp:id":796652,
-        "qs:id":145308,
         "qs_pg:id":145308,
         "wd:id":"Q1268228",
         "wk:page":"P\u0159edkl\u00e1\u0161te\u0159\u00ed"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101831997,
-    "wof:lastmodified":1563247794,
+    "wof:lastmodified":1566710648,
     "wof:name":"P\u0159edkl\u00e1\u0161te\u0159\u00ed",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

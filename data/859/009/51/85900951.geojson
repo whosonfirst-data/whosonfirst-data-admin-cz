@@ -12,8 +12,10 @@
     "gn:latitude":50.16692,
     "gn:longitude":14.10537,
     "iso:country":"CZ",
+    "lbl:bbox":"14.085881,50.160952,14.095881,50.170952",
     "lbl:latitude":50.165952,
     "lbl:longitude":14.090881,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.177481,
     "mps:longitude":14.126066,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ces_x_preferred":[
-        "Svermov"
-    ],
-    "name:unk_x_variant":[
         "Svermov"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748131,
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3064527,
         "gp:id":799386,
-        "qs:id":115837,
         "qs_pg:id":115837
     },
     "wof:country":"CZ",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772286,
+    "wof:lastmodified":1566710183,
     "wof:name":"Svermov",
     "wof:parent_id":101748131,
     "wof:placetype":"neighbourhood",

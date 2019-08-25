@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.386239,
     "lbl:longitude":17.074378,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.386239,
     "mps:longitude":17.074378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u062a\u0627\u0633\u0644\u0627\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Otaslavice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Doln\u00ed Otaslavice"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3068727,
         "gp:id":795667,
-        "qs:id":1043004,
         "qs_pg:id":1043004,
         "wd:id":"Q2637519",
         "wk:page":"Otaslavice"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101826571,
-    "wof:lastmodified":1563247343,
+    "wof:lastmodified":1566710579,
     "wof:name":"Otaslavice",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

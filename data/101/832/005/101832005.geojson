@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.950866,
     "lbl:longitude":17.384107,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.950866,
     "mps:longitude":17.384107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0648\u0633\u0644\u06cc \u0646\u0627\u062f \u0645\u0648\u0631\u0627\u0648\u0648"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -135,10 +138,12 @@
     "wof:concordances":{
         "gn:id":3063048,
         "gp:id":800689,
-        "qs:id":947339,
         "qs_pg:id":401165,
         "wd:id":"Q105198",
         "wk:page":"Vesel\u00ed nad Moravou"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":947339
     },
     "wof:country":"CZ",
     "wof:geomhash":"f9ea2d8d325e2fce319f9df0eef3b905",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101832005,
-    "wof:lastmodified":1563247361,
+    "wof:lastmodified":1566710582,
     "wof:name":"Vesel\u00ed nad Moravou",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

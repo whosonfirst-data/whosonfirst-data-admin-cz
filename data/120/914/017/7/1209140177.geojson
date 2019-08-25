@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"15.75252,49.9834,15.79252,50.0234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3076455
     },
     "wof:country":"CZ",
-    "wof:geomhash":"bc3d3d4c33ad1eb522ed7da18958d042",
+    "wof:geomhash":"0fea7cc8b3441bcb26688eb4829c4ee8",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209140177,
-    "wof:lastmodified":1536296530,
+    "wof:lastmodified":1566710387,
     "wof:name":"Drazkovice",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.772520000000002,
+    15.77252,
     50.0034,
-    15.772520000000002,
+    15.77252,
     50.0034
 ],
   "geometry": {"coordinates":[15.77252,50.0034],"type":"Point"}

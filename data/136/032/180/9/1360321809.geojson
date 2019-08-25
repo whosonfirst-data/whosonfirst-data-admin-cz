@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.15021,50.42827,16.19021,50.46827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0627\u0648\u0644\u06cc\u0634\u0648\u0648"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0648\u0644\u06cc\u0634\u0648\u0648"
-    ],
-    "name:und_x_variant":[
-        "Pavli\u0161ov"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1360321809,
-    "wof:lastmodified":1564102149,
+    "wof:lastmodified":1566710558,
     "wof:name":"Pavlisov",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

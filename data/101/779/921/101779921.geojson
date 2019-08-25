@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.174774,
     "lbl:longitude":16.963682,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.174774,
     "mps:longitude":16.963682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u062a\u0648\u0646\u06cc\u062a\u0633\u0647"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Letonice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Letonitz"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3072133,
         "gp:id":792601,
-        "qs:id":1266783,
         "qs_pg:id":1266783,
         "wd:id":"Q1821131",
         "wk:page":"Letonice"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101779921,
-    "wof:lastmodified":1563247454,
+    "wof:lastmodified":1566710596,
     "wof:name":"Letonice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

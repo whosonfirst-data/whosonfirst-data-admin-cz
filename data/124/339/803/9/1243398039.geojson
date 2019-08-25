@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"15.15078,50.36415,15.19078,50.40415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1243398039,
-    "wof:lastmodified":1536874463,
+    "wof:lastmodified":1566711170,
     "wof:name":"Licno",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

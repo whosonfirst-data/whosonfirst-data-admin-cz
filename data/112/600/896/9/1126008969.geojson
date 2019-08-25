@@ -9,20 +9,23 @@
     "geom:bbox":"14.08333,48.75,14.08333,48.75",
     "geom:latitude":48.75,
     "geom:longitude":14.08333,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":300,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"14.06333,48.73,14.10333,48.77",
     "lbl:latitude":48.75,
     "lbl:longitude":14.08333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0413\u0443\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stuben"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -44,7 +47,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":790364,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126008969,
-    "wof:lastmodified":1509406558,
+    "wof:lastmodified":1566711077,
     "wof:name":"H\u016frka",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

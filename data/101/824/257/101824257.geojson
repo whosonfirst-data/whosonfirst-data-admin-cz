@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.150762,
     "lbl:longitude":16.074884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.150762,
     "mps:longitude":16.074884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "T\u00fdni\u0161t\u011b nad Orlic\u00ed"
     ],
@@ -77,7 +80,7 @@
     "name:tat_x_preferred":[
         "\u0422\u0438\u043d\u0438\u0448\u0442\u0435-\u043d\u0430\u0434-\u041e\u0440\u043b\u0438\u0442\u0441\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tinischt"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -111,10 +114,12 @@
     "wof:concordances":{
         "gn:id":3063801,
         "gp:id":800037,
-        "qs:id":344776,
-        "qs_pg:id":1268546,
+        "qs_pg:id":344776,
         "wd:id":"Q2002875",
         "wk:page":"T\u00fdni\u0161t\u011b nad Orlic\u00ed"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1268546
     },
     "wof:country":"CZ",
     "wof:geomhash":"0df5829270ec6b86e64c3f43f4817a00",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":101824257,
-    "wof:lastmodified":1563247533,
+    "wof:lastmodified":1566710608,
     "wof:name":"T\u00fdni\u0161t\u011b nad Orlic\u00ed",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

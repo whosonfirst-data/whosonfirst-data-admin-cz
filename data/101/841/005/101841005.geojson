@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.228365,
     "lbl:longitude":14.866424,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.228365,
     "mps:longitude":14.866424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Mlad\u00e1 fronta DNES"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -72,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29396484,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1941188"
     },
     "wof:country":"CZ",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101841005,
-    "wof:lastmodified":1561772370,
+    "wof:lastmodified":1566710602,
     "wof:name":"Mlad\u00e1",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.914435,
     "lbl:longitude":14.509781,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.914435,
     "mps:longitude":14.509781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kr\u00e1sn\u00e1 L\u00edpa"
     ],
@@ -100,9 +103,6 @@
     "name:tat_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430-\u041b\u0438\u043f\u0430"
     ],
-    "name:unk_x_variant":[
-        "Sch\u00f6nlind"
-    ],
     "name:vie_x_preferred":[
         "Kr\u00e1sn\u00e1 L\u00edpa"
     ],
@@ -122,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -135,7 +135,6 @@
         "fct:id":"07002978-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3072889,
         "gp:id":791932,
-        "qs:id":145378,
         "qs_pg:id":145378,
         "wd:id":"Q1757191",
         "wk:page":"Kr\u00e1sn\u00e1 L\u00edpa"
@@ -154,7 +153,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247786,
+    "wof:lastmodified":1566710647,
     "wof:name":"Kr\u00e1sn\u00e1 L\u00edpa",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

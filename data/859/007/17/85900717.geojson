@@ -12,8 +12,10 @@
     "gn:latitude":50.13961,
     "gn:longitude":14.12011,
     "iso:country":"CZ",
+    "lbl:bbox":"14.109763,50.141149,14.119763,50.151149",
     "lbl:latitude":50.146149,
     "lbl:longitude":14.114763,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.13739,
     "mps:longitude":14.116301,
     "mz:hierarchy_label":0,
@@ -39,10 +41,6 @@
     ],
     "name:pol_x_preferred":[
         "Kro\u010dehlavy"
-    ],
-    "name:unk_x_variant":[
-        "Kro\u010dehlavy",
-        "Krocehlavy"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
@@ -74,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":50.133333,
     "wd:longitude":14.116667,
     "wd:wordcount":128,
@@ -88,7 +86,6 @@
     "wof:concordances":{
         "gn:id":3072653,
         "gp:id":792140,
-        "qs:id":1168782,
         "qs_pg:id":1168782,
         "wd:id":"Q3509224",
         "wk:page":"Kro\u010dehlavy"
@@ -108,7 +105,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772284,
+    "wof:lastmodified":1566710180,
     "wof:name":"Krocehlavy",
     "wof:parent_id":101748131,
     "wof:placetype":"neighbourhood",

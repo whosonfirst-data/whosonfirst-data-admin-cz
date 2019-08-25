@@ -12,8 +12,10 @@
     "gn:latitude":49.75561,
     "gn:longitude":13.42156,
     "iso:country":"CZ",
+    "lbl:bbox":"13.393338,49.74496,13.403338,49.75496",
     "lbl:latitude":49.74996,
     "lbl:longitude":13.398338,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.748799,
     "mps:longitude":13.416087,
     "mz:hierarchy_label":0,
@@ -136,9 +138,6 @@
     "name:tur_x_preferred":[
         "Doubravka"
     ],
-    "name:unk_x_variant":[
-        "Doubravka"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"87",
@@ -167,7 +166,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":102,
     "wof:belongsto":[
         102191581,
@@ -179,7 +178,6 @@
     "wof:concordances":{
         "gn:id":3076526,
         "gp:id":788737,
-        "qs:id":1085121,
         "qs_pg:id":1085121,
         "wd:id":"Q4961970"
     },
@@ -198,7 +196,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246420,
+    "wof:lastmodified":1566710194,
     "wof:name":"Doubravka",
     "wof:parent_id":101748111,
     "wof:placetype":"neighbourhood",

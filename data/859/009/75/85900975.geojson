@@ -12,8 +12,10 @@
     "gn:latitude":49.75854,
     "gn:longitude":13.43482,
     "iso:country":"CZ",
+    "lbl:bbox":"13.429868,49.742267,13.439868,49.752267",
     "lbl:latitude":49.747267,
     "lbl:longitude":13.434868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.747467,
     "mps:longitude":13.438595,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:swe_x_preferred":[
         "\u00dajezd"
     ],
-    "name:unk_x_variant":[
-        "\u00dajezd"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"87",
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -102,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3063684,
         "gp:id":800157,
-        "qs:id":261402,
         "qs_pg:id":261402
     },
     "wof:country":"CZ",
@@ -120,7 +118,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1564101246,
+    "wof:lastmodified":1566710184,
     "wof:name":"\u00dajezd",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.176905,
     "lbl:longitude":14.420662,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.176905,
     "mps:longitude":14.420662,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Klecany"
     ],
@@ -80,7 +83,7 @@
     "name:tat_x_preferred":[
         "\u041a\u043b\u0435\u0442\u0441\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross-Klecan"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":39,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":3073652,
         "gp:id":791269,
-        "qs:id":145413,
         "qs_pg:id":145413,
         "wd:id":"Q291237",
         "wk:page":"Klecany"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101825665,
-    "wof:lastmodified":1563247751,
+    "wof:lastmodified":1566710642,
     "wof:name":"Klecany",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

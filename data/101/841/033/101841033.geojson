@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.929229,
     "lbl:longitude":14.304572,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.929229,
     "mps:longitude":14.304572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0634\u0646\u0648\u0631\u06cc"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3062356,
         "gp:id":801307,
-        "qs:id":1042943,
         "qs_pg:id":1042943,
         "wd:id":"Q2470113",
         "wk:page":"V\u0161enory"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101841033,
-    "wof:lastmodified":1563247494,
+    "wof:lastmodified":1566710602,
     "wof:name":"V\u0161enory",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

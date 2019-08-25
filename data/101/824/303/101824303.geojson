@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.557155,
     "lbl:longitude":13.777157,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.557155,
     "mps:longitude":13.777157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "B\u00edlina"
     ],
@@ -95,9 +98,6 @@
     "name:tat_x_preferred":[
         "\u0411\u0438\u043b\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Bilin"
-    ],
     "name:vie_x_preferred":[
         "B\u00edlina"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":699,
     "wof:belongsto":[
@@ -134,7 +134,6 @@
         "gn:id":3079348,
         "gp:id":786210,
         "loc:id":"no2014001564",
-        "qs:id":971294,
         "qs_pg:id":971294,
         "wd:id":"Q518360",
         "wk:page":"B\u00edlina"
@@ -150,7 +149,7 @@
         }
     ],
     "wof:id":101824303,
-    "wof:lastmodified":1563247554,
+    "wof:lastmodified":1566710610,
     "wof:name":"B\u00edlina",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

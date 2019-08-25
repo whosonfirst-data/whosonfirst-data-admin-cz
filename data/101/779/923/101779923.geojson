@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.274189,
     "lbl:longitude":16.950884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.274189,
     "mps:longitude":16.950884,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062f\u0631\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Drnovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Drnowitz"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,10 +119,12 @@
     "wof:concordances":{
         "gn:id":3076404,
         "gp:id":788848,
-        "qs:id":1043081,
-        "qs_pg:id":1265848,
+        "qs_pg:id":1043081,
         "wd:id":"Q1259475",
         "wk:page":"Drnovice (Vy\u0161kov District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1265848
     },
     "wof:country":"CZ",
     "wof:geomhash":"3ca4c161077d33b72de4973940f743fa",
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":101779923,
-    "wof:lastmodified":1563247422,
+    "wof:lastmodified":1566710590,
     "wof:name":"Drnovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

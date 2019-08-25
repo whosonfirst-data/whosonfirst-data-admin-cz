@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.526724,
     "lbl:longitude":17.585728,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.526724,
     "mps:longitude":17.585728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lipn\u00edk nad Be\u010dvou"
     ],
@@ -95,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043f\u043d\u0438\u043a \u043d\u0430\u0434 \u0411\u0435\u0447\u0432\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipn\u00edk"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":257,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
     "wof:concordances":{
         "gn:id":3071791,
         "gp:id":792926,
-        "qs:id":1043034,
         "qs_pg:id":1043034,
         "wd:id":"Q1021080",
         "wk:page":"Lipn\u00edk nad Be\u010dvou"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101826565,
-    "wof:lastmodified":1563247323,
+    "wof:lastmodified":1566710576,
     "wof:name":"Lipn\u00edk nad Be\u010dvou",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

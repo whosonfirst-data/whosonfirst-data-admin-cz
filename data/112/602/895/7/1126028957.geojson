@@ -9,15 +9,18 @@
     "geom:bbox":"13.00274,50.34485,13.00274,50.34485",
     "geom:latitude":50.34485,
     "geom:longitude":13.00274,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":180,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":180,
     "iso:country":"CZ",
+    "lbl:bbox":"12.98274,50.32485,13.02274,50.36485",
     "lbl:latitude":50.34485,
     "lbl:longitude":13.00274,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0627\u0633\u0646\u06cc \u0644\u0633"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Kr\u00e1sn\u00fd Les"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schoenwald"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +107,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":791956,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1126028957,
-    "wof:lastmodified":1563248730,
+    "wof:lastmodified":1566710808,
     "wof:name":"Kr\u00e1sn\u00fd Les",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

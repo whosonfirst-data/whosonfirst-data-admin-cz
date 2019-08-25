@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.98657,
     "lbl:longitude":18.052709,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.98657,
     "mps:longitude":18.052709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kobe\u0159ice"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Kobe\u0159ice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6berwitz"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":3073493,
         "gp:id":791405,
-        "qs:id":1139991,
         "qs_pg:id":1139991,
         "wd:id":"Q1777931",
         "wk:page":"Kobe\u0159ice"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101824133,
-    "wof:lastmodified":1563247521,
+    "wof:lastmodified":1566710606,
     "wof:name":"Kobe\u0159ice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

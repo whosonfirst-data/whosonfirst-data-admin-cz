@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.768603,
     "lbl:longitude":13.497529,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.768603,
     "mps:longitude":13.497529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062f\u06cc\u0634\u06cc\u0646\u0627"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3076234,
         "gp:id":788999,
-        "qs:id":255203,
         "qs_pg:id":255203,
         "wd:id":"Q2282099",
         "wk:page":"D\u00fd\u0161ina"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101826505,
-    "wof:lastmodified":1563247274,
+    "wof:lastmodified":1566710568,
     "wof:name":"D\u00fd\u0161ina",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.434356,
     "lbl:longitude":15.812795,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.434356,
     "mps:longitude":15.812795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0432\u0443\u0440-\u041a\u0440\u0430\u043b\u0430\u0432\u044d-\u043d\u0430\u0434-\u041b\u0430\u0431\u044d\u043c"
     ],
@@ -137,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0432\u0443\u0440-\u041a\u0440\u0430\u043b\u043e\u0432\u0435-\u043d\u0430\u0434-\u041b\u0430\u0431\u0435\u043c"
     ],
-    "name:unk_x_variant":[
-        "K\u00f6niginhof an der Elbe"
-    ],
     "name:vie_x_preferred":[
         "Dv\u016fr Kr\u00e1lov\u00e9 nad Labem"
     ],
@@ -162,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":489,
     "wof:belongsto":[
@@ -175,7 +175,6 @@
         "fct:id":"06fe8730-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3061284,
         "gp:id":788990,
-        "qs:id":459712,
         "qs_pg:id":459712,
         "wd:id":"Q143664",
         "wk:page":"Dv\u016fr Kr\u00e1lov\u00e9 nad Labem"
@@ -194,7 +193,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247567,
+    "wof:lastmodified":1566710613,
     "wof:name":"Dv\u016fr Kr\u00e1lov\u00e9 nad Labem",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

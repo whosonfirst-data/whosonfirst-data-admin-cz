@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.458485,
     "lbl:longitude":14.374602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.458485,
     "mps:longitude":14.374602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "\u0160t\u011bt\u00ed"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u0428\u0442\u0435\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wegst\u00e4dtl"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":25,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3065163,
         "gp:id":798860,
-        "qs:id":211035,
         "qs_pg:id":211035,
         "wd:id":"Q392624",
         "wk:page":"\u0160t\u011bt\u00ed"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101824307,
-    "wof:lastmodified":1563247515,
+    "wof:lastmodified":1566710605,
     "wof:name":"\u0160t\u011bt\u00ed",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

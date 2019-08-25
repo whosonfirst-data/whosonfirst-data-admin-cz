@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.43,49.69667,12.47,49.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Stoupa"
     ],
@@ -43,8 +47,7 @@
     ],
     "name:und_x_variant":[
         "Alt Pocher",
-        "Star\u00fd Pochr",
-        "Stoupa"
+        "Star\u00fd Pochr"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209349511,
-    "wof:lastmodified":1564101783,
+    "wof:lastmodified":1566710409,
     "wof:name":"Stoupa",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",

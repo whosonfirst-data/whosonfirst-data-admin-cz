@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.14275,
     "lbl:longitude":13.555718,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.14275,
     "mps:longitude":13.555718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ka\u0161persk\u00e9 Hory"
     ],
@@ -95,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0448\u043f\u0435\u0440\u0441\u044c\u043a\u0435 \u0413\u043e\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bergreichenstein"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":394,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
         "fct:id":"06f9d654-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3073769,
         "gp:id":791167,
-        "qs:id":145414,
         "qs_pg:id":145414,
         "wd:id":"Q703182",
         "wk:page":"Ka\u0161persk\u00e9 Hory"
@@ -152,7 +154,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247370,
+    "wof:lastmodified":1566710584,
     "wof:name":"Ka\u0161persk\u00e9 Hory",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

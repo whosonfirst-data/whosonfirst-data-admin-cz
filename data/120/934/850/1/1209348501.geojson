@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.47331,49.62098,14.51331,49.66098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209348501,
-    "wof:lastmodified":1536289828,
+    "wof:lastmodified":1566710408,
     "wof:name":"Lavicky",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",

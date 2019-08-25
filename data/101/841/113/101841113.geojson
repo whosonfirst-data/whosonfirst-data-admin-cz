@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.494493,
     "lbl:longitude":14.148825,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.494493,
     "mps:longitude":14.148825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0445\u0443\u0448\u043e\u0432\u0438\u0446\u0435 \u043d\u0430\u0434 \u041e\u0445\u0440\u0436\u0438"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u0411\u043e\u04bb\u0443\u0448\u043e\u0432\u0438\u0442\u0441\u0435-\u043d\u0430\u0434-\u041e\u04bb\u0440\u0436\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bauschowitz"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3079102,
         "gp:id":786424,
-        "qs:id":145529,
         "qs_pg:id":145529,
         "wd:id":"Q891004",
         "wk:page":"Bohu\u0161ovice nad Oh\u0159\u00ed"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101841113,
-    "wof:lastmodified":1563247502,
+    "wof:lastmodified":1566710603,
     "wof:name":"Bohu\u0161ovice nad Oh\u0159\u00ed",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

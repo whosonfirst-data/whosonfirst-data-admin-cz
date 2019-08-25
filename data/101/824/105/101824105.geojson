@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.363445,
     "lbl:longitude":12.929977,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.363445,
     "mps:longitude":12.929977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "J\u00e1chymov"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0445\u0438\u043c\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt-Joachimsthal"
     ],
     "name:vie_x_preferred":[
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":757,
     "wof:belongsto":[
@@ -148,7 +151,6 @@
         "gn:id":3074587,
         "gp:id":790462,
         "loc:id":"n88145740",
-        "qs:id":459740,
         "qs_pg:id":459740,
         "wd:id":"Q830418",
         "wk:page":"J\u00e1chymov"
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":101824105,
-    "wof:lastmodified":1563247520,
+    "wof:lastmodified":1566710606,
     "wof:name":"J\u00e1chymov",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

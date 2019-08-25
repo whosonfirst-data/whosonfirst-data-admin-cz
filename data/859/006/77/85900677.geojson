@@ -12,8 +12,10 @@
     "gn:latitude":49.2,
     "gn:longitude":16.56667,
     "iso:country":"CZ",
+    "lbl:bbox":"16.544377,49.195251,16.554377,49.205251",
     "lbl:latitude":49.200251,
     "lbl:longitude":16.549377,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.19932,
     "mps:longitude":16.547815,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:cze_x_colloquial":[
         "Kamenny Mlyn"
-    ],
-    "name:unk_x_variant":[
-        "Kamenn\u00fd Ml\u00fdn"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748109,
@@ -74,7 +73,6 @@
     "wof:concordances":{
         "gn:id":3073895,
         "gp:id":791059,
-        "qs:id":1320292,
         "qs_pg:id":1320292
     },
     "wof:country":"CZ",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772295,
+    "wof:lastmodified":1566710192,
     "wof:name":"Kamenn\u00fd Ml\u00fdn",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

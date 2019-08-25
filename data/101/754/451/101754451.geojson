@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.017464,
     "lbl:longitude":14.356188,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.017464,
     "mps:longitude":14.356188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Sliwenetz"
     ],
@@ -43,9 +46,6 @@
     "name:slk_x_preferred":[
         "Praha-Slivenec"
     ],
-    "name:unk_x_variant":[
-        "Sliwenetz"
-    ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Hlavn\u00ed mesto Praha",
     "qs:a1r":"0",
@@ -60,7 +60,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -71,7 +71,7 @@
         "fct:id":"070adada-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3065791,
         "gp:id":798308,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2785180"
     },
     "wof:country":"CZ",
@@ -88,7 +88,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247260,
+    "wof:lastmodified":1566710566,
     "wof:name":"Slivenec",
     "wof:parent_id":85682437,
     "wof:placetype":"locality",

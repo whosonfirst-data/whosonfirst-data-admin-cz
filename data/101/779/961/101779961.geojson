@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.291497,
     "lbl:longitude":16.665622,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.291497,
     "mps:longitude":16.665622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0434\u0430\u043c\u043e\u0432"
     ],
@@ -104,7 +107,7 @@
     "name:tat_x_preferred":[
         "\u0410\u0434\u0430\u043c\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adamsthal"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -141,7 +144,6 @@
     "wof:concordances":{
         "gn:id":3079841,
         "gp:id":785800,
-        "qs:id":245609,
         "qs_pg:id":245609,
         "wd:id":"Q158242",
         "wk:page":"Adamov (Blansko District)"
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101779961,
-    "wof:lastmodified":1563247428,
+    "wof:lastmodified":1566710591,
     "wof:name":"Adamov",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

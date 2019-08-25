@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.450873,
     "lbl:longitude":14.365135,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.450873,
     "mps:longitude":14.365135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u0435\u0432\u0441\u043a\u043e"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u041c\u0438\u043b\u0435\u0432\u0441\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00fchlhausen"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":280,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3070678,
         "gp:id":793910,
-        "qs:id":914026,
         "qs_pg:id":914026,
         "wd:id":"Q1015011",
         "wk:page":"Milevsko"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101826331,
-    "wof:lastmodified":1563247271,
+    "wof:lastmodified":1566710568,
     "wof:name":"Milevsko",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

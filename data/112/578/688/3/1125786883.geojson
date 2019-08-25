@@ -9,15 +9,18 @@
     "geom:bbox":"13.53054,50.47102,13.53054,50.47102",
     "geom:latitude":50.47102,
     "geom:longitude":13.53054,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":639,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":639,
     "iso:country":"CZ",
+    "lbl:bbox":"13.51054,50.45102,13.55054,50.49102",
     "lbl:latitude":50.47102,
     "lbl:longitude":13.53054,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0633\u062a\u0631\u0648\u067e\u062a\u0634\u06cc\u062a\u0633\u0647"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Strup\u010dice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u0159ebu\u0161ice"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +101,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":799130,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1125786883,
-    "wof:lastmodified":1563250517,
+    "wof:lastmodified":1566711114,
     "wof:name":"Strup\u010dice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

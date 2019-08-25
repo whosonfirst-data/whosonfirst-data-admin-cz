@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.145953,
     "lbl:longitude":12.644278,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.145953,
     "mps:longitude":12.644278,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u0159ezov\u00e1"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0411\u0440\u0436\u0435\u0437\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00f6sau"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,10 +125,12 @@
     "wof:concordances":{
         "gn:id":3078667,
         "gp:id":786818,
-        "qs:id":876532,
-        "qs_pg:id":1012923,
+        "qs_pg:id":876532,
         "wd:id":"Q647921",
         "wk:page":"B\u0159ezov\u00e1 (Sokolov District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1012923
     },
     "wof:country":"CZ",
     "wof:geomhash":"016ec513315ee821f59c956a9c4fea89",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101825349,
-    "wof:lastmodified":1563247698,
+    "wof:lastmodified":1566710633,
     "wof:name":"B\u0159ezov\u00e1",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

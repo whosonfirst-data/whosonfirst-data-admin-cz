@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.243283,
     "lbl:longitude":15.492744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.243283,
     "mps:longitude":15.492744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0438 \u0411\u0438\u0434\u0436\u043e\u0432"
     ],
@@ -95,7 +98,7 @@
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u0438-\u0411\u0438\u0434\u0436\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neubidschow"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":372,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
     "wof:concordances":{
         "gn:id":3069377,
         "gp:id":795110,
-        "qs:id":344534,
         "qs_pg:id":344534,
         "wd:id":"Q1018857",
         "wk:page":"Nov\u00fd Byd\u017eov"
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":101824285,
-    "wof:lastmodified":1563247568,
+    "wof:lastmodified":1566710613,
     "wof:name":"Nov\u00fd Byd\u017eov",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

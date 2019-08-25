@@ -9,15 +9,18 @@
     "geom:bbox":"16.91356,49.11977,16.91356,49.11977",
     "geom:latitude":49.11977,
     "geom:longitude":16.91356,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":649,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":649,
     "iso:country":"CZ",
+    "lbl:bbox":"16.89356,49.09977,16.93356,49.13977",
     "lbl:latitude":49.11977,
     "lbl:longitude":16.91356,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0647\u0631\u0634\u067e\u06cc\u062a\u0633\u0647"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Her\u0161pice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Herspitz"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +101,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":789334,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1125947977,
-    "wof:lastmodified":1563247951,
+    "wof:lastmodified":1566710685,
     "wof:name":"Her\u0161pice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

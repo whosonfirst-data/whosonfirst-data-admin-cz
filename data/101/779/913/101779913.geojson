@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.222848,
     "lbl:longitude":16.287331,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.222848,
     "mps:longitude":16.287331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0632\u0628\u0631\u0627\u0633\u0644\u0627\u0641"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Zbraslav"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zbraslau"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3061754,
         "gp:id":801845,
-        "qs:id":1268941,
         "qs_pg:id":1268941,
         "wd:id":"Q168285",
         "wk:page":"Zbraslav (Brno-Country District)"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101779913,
-    "wof:lastmodified":1563247427,
+    "wof:lastmodified":1566710591,
     "wof:name":"Zbraslav",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.505331,
     "lbl:longitude":15.49883,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.505331,
     "mps:longitude":15.49883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Star\u00e1 Paka"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Star\u00e1 Paka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alt Paka"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":19,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3065392,
         "gp:id":798643,
-        "qs:id":145275,
         "qs_pg:id":145275,
         "wd:id":"Q2034240",
         "wk:page":"Star\u00e1 Paka"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101841067,
-    "wof:lastmodified":1563247496,
+    "wof:lastmodified":1566710602,
     "wof:name":"Star\u00e1 Paka",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

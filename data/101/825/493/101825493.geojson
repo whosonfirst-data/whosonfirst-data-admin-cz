@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.937038,
     "lbl:longitude":18.223019,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.937038,
     "mps:longitude":18.223019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Darkovice"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":429,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3077268,
         "gp:id":788040,
-        "qs:id":145481,
         "qs_pg:id":145481,
         "wd:id":"Q2248279",
         "wk:page":"Darkovice"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101825493,
-    "wof:lastmodified":1563247742,
+    "wof:lastmodified":1566710640,
     "wof:name":"Darkovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

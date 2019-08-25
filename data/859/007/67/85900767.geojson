@@ -12,8 +12,10 @@
     "gn:latitude":49.20739,
     "gn:longitude":17.59428,
     "iso:country":"CZ",
+    "lbl:bbox":"17.580047,49.194867,17.590047,49.204867",
     "lbl:latitude":49.199867,
     "lbl:longitude":17.585047,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.191488,
     "mps:longitude":17.586312,
     "mz:hierarchy_label":0,
@@ -79,10 +81,6 @@
     "name:swe_x_preferred":[
         "Malenovice"
     ],
-    "name:unk_x_variant":[
-        "Malenowitz",
-        "Malenovice"
-    ],
     "name:vie_x_preferred":[
         "Malenovice"
     ],
@@ -116,7 +114,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -126,7 +124,6 @@
     "wof:concordances":{
         "gn:id":3071167,
         "gp:id":793481,
-        "qs:id":1287461,
         "qs_pg:id":1287461
     },
     "wof:country":"CZ",
@@ -144,7 +141,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1564101243,
+    "wof:lastmodified":1566710179,
     "wof:name":"Malenovice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

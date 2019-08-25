@@ -12,8 +12,10 @@
     "gn:latitude":49.00797,
     "gn:longitude":14.48754,
     "iso:country":"CZ",
+    "lbl:bbox":"14.467208,48.994771,14.477208,49.004771",
     "lbl:latitude":48.999771,
     "lbl:longitude":14.472208,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.009788,
     "mps:longitude":14.476484,
     "mz:hierarchy_label":0,
@@ -76,9 +78,6 @@
     "name:swe_x_preferred":[
         "Nemanice"
     ],
-    "name:unk_x_variant":[
-        "Nemanice"
-    ],
     "name:vie_x_preferred":[
         "Nemanice"
     ],
@@ -112,7 +111,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":77,
     "wof:belongsto":[
         102191581,
@@ -124,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3069924,
         "gp:id":794579,
-        "qs:id":887839,
         "qs_pg:id":887839
     },
     "wof:country":"CZ",
@@ -142,7 +140,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1564101250,
+    "wof:lastmodified":1566710188,
     "wof:name":"Nemanice",
     "wof:parent_id":101748103,
     "wof:placetype":"neighbourhood",

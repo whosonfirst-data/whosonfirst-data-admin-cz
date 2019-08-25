@@ -9,15 +9,18 @@
     "geom:bbox":"15.83423,48.90528,15.83423,48.90528",
     "geom:latitude":48.90528,
     "geom:longitude":15.83423,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":71,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":71,
     "iso:country":"CZ",
+    "lbl:bbox":"15.81423,48.88528,15.85423,48.92528",
     "lbl:latitude":48.90528,
     "lbl:longitude":15.83423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0648\u0646\u0634\u0648\u0641"
@@ -73,7 +76,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043d\u0448\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Windschau"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -95,7 +98,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":795473,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1125875123,
-    "wof:lastmodified":1563249411,
+    "wof:lastmodified":1566710926,
     "wof:name":"On\u0161ov",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

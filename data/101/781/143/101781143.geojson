@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.065706,
     "lbl:longitude":17.027016,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.065706,
     "mps:longitude":17.027016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0698\u062f\u0627\u0646\u06cc\u062a\u0633\u0647"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0416\u0434\u0430\u043d\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Steinitz"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,10 +125,12 @@
     "wof:concordances":{
         "gn:id":3061726,
         "gp:id":801873,
-        "qs:id":1042940,
-        "qs_pg:id":1155982,
+        "qs_pg:id":1042940,
         "wd:id":"Q393439",
         "wk:page":"\u017dd\u00e1nice (Hodon\u00edn District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155982
     },
     "wof:country":"CZ",
     "wof:geomhash":"27e205d6781fc778af2e424504fcf9ae",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101781143,
-    "wof:lastmodified":1563247833,
+    "wof:lastmodified":1566710654,
     "wof:name":"\u017dd\u00e1nice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

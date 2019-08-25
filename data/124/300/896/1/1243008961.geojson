@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"13.25987,50.05324,13.29987,50.09324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dvorec"
     ],
@@ -72,8 +76,7 @@
         "\u0414\u0432\u0456\u0440\u0435\u0446\u044c"
     ],
     "name:und_x_variant":[
-        "Wurz",
-        "Dvorec"
+        "Wurz"
     ],
     "name:war_x_preferred":[
         "Dvorec"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1243008961,
-    "wof:lastmodified":1564102867,
+    "wof:lastmodified":1566711162,
     "wof:name":"Dvorec",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

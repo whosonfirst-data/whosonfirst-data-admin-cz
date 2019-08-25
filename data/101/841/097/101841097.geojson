@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.60792,
     "lbl:longitude":13.645903,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.60792,
     "mps:longitude":13.645903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Lom"
     ],
@@ -77,7 +80,7 @@
     "name:tat_x_preferred":[
         "\u041b\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bruch"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,10 +116,12 @@
     "wof:concordances":{
         "gn:id":3071625,
         "gp:id":793079,
-        "qs:id":357877,
-        "qs_pg:id":966000,
+        "qs_pg:id":357877,
         "wd:id":"Q745031",
         "wk:page":"Lom (Most District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":966000
     },
     "wof:country":"CZ",
     "wof:geomhash":"1c9c74112b56ae269f4cf57ab8cc9eeb",
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":101841097,
-    "wof:lastmodified":1563247474,
+    "wof:lastmodified":1566710599,
     "wof:name":"Lom",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

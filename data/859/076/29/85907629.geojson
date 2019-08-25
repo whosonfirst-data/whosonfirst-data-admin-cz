@@ -11,8 +11,10 @@
     "geom:longitude":15.774393,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"15.769393,50.038304,15.779393,50.048304",
     "lbl:latitude":50.043304,
     "lbl:longitude":15.774393,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.044366,
     "mps:longitude":15.774063,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:cze_x_colloquial":[
         "Zamek"
-    ],
-    "name:unk_x_variant":[
-        "Z\u00e1mek"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748115,
@@ -75,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23406487,
-        "qs:id":230528,
         "qs_pg:id":230528
     },
     "wof:country":"CZ",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772281,
+    "wof:lastmodified":1566710176,
     "wof:name":"Z\u00e1mek",
     "wof:parent_id":101748115,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,18 @@
     "geom:bbox":"15.27075,49.97653,15.27075,49.97653",
     "geom:latitude":49.97653,
     "geom:longitude":15.27075,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"15.25075,49.95653,15.29075,49.99653",
     "lbl:latitude":49.97653,
     "lbl:longitude":15.27075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Ka\u0148k"
@@ -33,7 +37,7 @@
     "name:fra_x_preferred":[
         "Ka\u0148k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gang"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -55,7 +59,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":791080,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1125798719,
-    "wof:lastmodified":1561772554,
+    "wof:lastmodified":1566711127,
     "wof:name":"Ka\u0148k",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

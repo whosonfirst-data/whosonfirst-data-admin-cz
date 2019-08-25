@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.542539,
     "lbl:longitude":16.234003,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.542539,
     "mps:longitude":16.234003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Police nad Metuj\u00ed"
     ],
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u0456\u0446\u0435-\u043d\u0430\u0434-\u041c\u0435\u0442\u0443\u0457"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Politz"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":435,
     "wof:belongsto":[
@@ -120,10 +123,12 @@
     "wof:concordances":{
         "gn:id":3067887,
         "gp:id":796421,
-        "qs:id":145313,
-        "qs_pg:id":939050,
+        "qs_pg:id":145313,
         "wd:id":"Q508591",
         "wk:page":"Police nad Metuj\u00ed"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":939050
     },
     "wof:country":"CZ",
     "wof:geomhash":"de317423304015cdd2237c3e8923cb5d",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101841069,
-    "wof:lastmodified":1563247495,
+    "wof:lastmodified":1566710602,
     "wof:name":"Police nad Metuj\u00ed",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

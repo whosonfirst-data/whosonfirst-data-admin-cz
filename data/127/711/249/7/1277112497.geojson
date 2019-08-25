@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.43586,50.16043,12.47586,50.20043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u043e\u0440"
     ],
@@ -132,8 +136,7 @@
         "\u0411\u043e\u0440"
     ],
     "name:und_x_variant":[
-        "Haid",
-        "Bor"
+        "Haid"
     ],
     "name:vep_x_preferred":[
         "Bor"
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1277112497,
-    "wof:lastmodified":1564101638,
+    "wof:lastmodified":1566710349,
     "wof:name":"Bor",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

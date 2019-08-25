@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.198184,
     "lbl:longitude":14.365062,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.198184,
     "mps:longitude":14.365062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lib\u010dice nad Vltavou"
     ],
@@ -91,9 +94,6 @@
     "name:tat_x_preferred":[
         "\u041b\u0438\u0431\u0447\u0438\u0442\u0441\u0435-\u043d\u0430\u0434-\u0412\u043b\u0442\u0430\u0432\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Libschitz"
-    ],
     "name:vie_x_preferred":[
         "Lib\u010dice nad Vltavou"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":12,
     "wof:belongsto":[
@@ -126,10 +126,12 @@
         "fct:id":"0700a128-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3071981,
         "gp:id":792749,
-        "qs:id":1043035,
         "qs_pg:id":344501,
         "wd:id":"Q158456",
         "wk:page":"Lib\u010dice nad Vltavou"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043035
     },
     "wof:country":"CZ",
     "wof:geomhash":"0009590215eff241b73995334f632469",
@@ -145,7 +147,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247489,
+    "wof:lastmodified":1566710601,
     "wof:name":"Lib\u010dice nad Vltavou",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

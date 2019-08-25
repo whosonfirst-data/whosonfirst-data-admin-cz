@@ -9,15 +9,18 @@
     "geom:bbox":"14.59919,49.21792,14.59919,49.21792",
     "geom:latitude":49.21792,
     "geom:longitude":14.59919,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":258,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":258,
     "iso:country":"CZ",
+    "lbl:bbox":"14.57919,49.19792,14.61919,49.23792",
     "lbl:latitude":49.21792,
     "lbl:longitude":14.59919,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Z\u00e1l\u0161\u00ed"
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Z\u00e1l\u0161\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zalaschi"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -69,7 +72,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":801693,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125912211,
-    "wof:lastmodified":1564102724,
+    "wof:lastmodified":1566711015,
     "wof:name":"Z\u00e1l\u0161\u00ed",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

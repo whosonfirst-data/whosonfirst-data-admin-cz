@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.537044,
     "lbl:longitude":18.392718,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.537044,
     "mps:longitude":18.392718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ostravice"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Ostravice"
     ],
-    "name:unk_x_variant":[
-        "Ostrawica"
-    ],
     "name:vie_x_preferred":[
         "Ostravice"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":122,
     "wof:belongsto":[
@@ -111,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3068797,
         "gp:id":795611,
-        "qs:id":564839,
         "qs_pg:id":564839,
         "wd:id":"Q1895151",
         "wk:page":"Ostravice"
@@ -127,7 +126,7 @@
         }
     ],
     "wof:id":101824127,
-    "wof:lastmodified":1563247547,
+    "wof:lastmodified":1566710609,
     "wof:name":"Ostravice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",
