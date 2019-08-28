@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.120991,
     "lbl:longitude":17.581473,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.120991,
     "mps:longitude":17.581473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u0632\u0648\u0644\u0648\u067e\u06cc"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "B\u0159ezolupy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brzezoluse"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3078672,
         "gp:id":786811,
-        "qs:id":1043105,
         "qs_pg:id":1043105,
         "wd:id":"Q1022185",
         "wk:page":"B\u0159ezolupy"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101779883,
-    "wof:lastmodified":1563247438,
+    "wof:lastmodified":1566710593,
     "wof:name":"B\u0159ezolupy",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.795094,
     "lbl:longitude":17.225373,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.795094,
     "mps:longitude":17.225373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u067e\u0627\u0633\u06a9\u0627"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Paseka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paseha"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3068564,
         "gp:id":795808,
-        "qs:id":145331,
         "qs_pg:id":145331,
         "wd:id":"Q1766249",
         "wk:page":"Paseka (Olomouc District)"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101825565,
-    "wof:lastmodified":1563247721,
+    "wof:lastmodified":1566710637,
     "wof:name":"Paseka",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

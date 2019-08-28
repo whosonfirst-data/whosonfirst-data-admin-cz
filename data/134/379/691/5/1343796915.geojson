@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.46925,50.31013,12.50925,50.35013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Krasna"
     ],
@@ -67,8 +71,7 @@
     ],
     "name:und_x_variant":[
         "Sch\u00f6nwerth",
-        "Schoenwerth",
-        "Kr\u00e1sn\u00e1"
+        "Schoenwerth"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1343796915,
-    "wof:lastmodified":1564101126,
+    "wof:lastmodified":1566710129,
     "wof:name":"Krasna",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

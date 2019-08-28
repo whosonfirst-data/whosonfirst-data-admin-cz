@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.330872,
     "lbl:longitude":16.478756,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.330872,
     "mps:longitude":16.478756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062f\u0631\u0627\u0633\u0648\u0641"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Dr\u00e1sov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Drasow"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,10 +116,12 @@
     "wof:concordances":{
         "gn:id":3076469,
         "gp:id":788786,
-        "qs:id":1265831,
         "qs_pg:id":280957,
         "wd:id":"Q1261674",
         "wk:page":"Dr\u00e1sov (Brno-Country District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1265831
     },
     "wof:country":"CZ",
     "wof:geomhash":"3000c3fafffc5b0a882aa2c61fedc1e9",
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":101779933,
-    "wof:lastmodified":1563247436,
+    "wof:lastmodified":1566710593,
     "wof:name":"Dr\u00e1sov",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

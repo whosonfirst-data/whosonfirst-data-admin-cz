@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.941683,
     "lbl:longitude":17.026059,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.941683,
     "mps:longitude":17.026059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u06cc \u0645\u0627\u0644\u06cc\u0646"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Nov\u00fd Mal\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Frank\u0161t\u00e1t"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":128,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3069290,
         "gp:id":795177,
-        "qs:id":876948,
         "qs_pg:id":876948,
         "wd:id":"Q1852554",
         "wk:page":"Nov\u00fd Mal\u00edn"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101825593,
-    "wof:lastmodified":1563247630,
+    "wof:lastmodified":1566710623,
     "wof:name":"Nov\u00fd Mal\u00edn",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

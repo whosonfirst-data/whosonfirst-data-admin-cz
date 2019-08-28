@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.38902,
     "lbl:longitude":13.185251,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.38902,
     "mps:longitude":13.185251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0430\u0448\u0442\u0435\u0440\u0435\u0446\u044c-\u043d\u0430\u0434-\u041e\u0433\u0440\u0436\u0438\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kl\u00f6sterle an der Eger"
     ],
     "name:vie_x_preferred":[
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":371,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":3073668,
         "gp:id":791257,
-        "qs:id":1043044,
         "qs_pg:id":1043044,
         "wd:id":"Q158268",
         "wk:page":"Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101824293,
-    "wof:lastmodified":1563247539,
+    "wof:lastmodified":1566710608,
     "wof:name":"Kl\u00e1\u0161terec nad Oh\u0159\u00ed",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

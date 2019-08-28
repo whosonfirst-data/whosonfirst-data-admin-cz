@@ -12,8 +12,10 @@
     "gn:latitude":50.23996,
     "gn:longitude":12.87915,
     "iso:country":"CZ",
+    "lbl:bbox":"12.890935,50.235296,12.900935,50.245296",
     "lbl:latitude":50.240296,
     "lbl:longitude":12.895935,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.24309,
     "mps:longitude":12.895449,
     "mz:hierarchy_label":0,
@@ -58,10 +60,6 @@
     "name:slk_x_preferred":[
         "Bohatice"
     ],
-    "name:unk_x_variant":[
-        "Weheditz",
-        "Bohatice"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3073803,
@@ -92,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101840903,
@@ -103,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3079164,
         "gp:id":786366,
-        "qs:id":2532,
         "qs_pg:id":2532
     },
     "wof:country":"CZ",
@@ -121,7 +118,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772297,
+    "wof:lastmodified":1566710195,
     "wof:name":"Bohatice",
     "wof:parent_id":101840903,
     "wof:placetype":"neighbourhood",

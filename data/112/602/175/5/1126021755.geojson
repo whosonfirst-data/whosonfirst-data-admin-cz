@@ -9,15 +9,18 @@
     "geom:bbox":"14.2316,50.84865,14.2316,50.84865",
     "geom:latitude":50.84865,
     "geom:longitude":14.2316,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":189,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":189,
     "iso:country":"CZ",
+    "lbl:bbox":"14.2116,50.82865,14.2516,50.86865",
     "lbl:latitude":50.84865,
     "lbl:longitude":14.2316,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0644\u0627\u0628\u0633\u06a9\u0627 \u0633\u062a\u0631\u0627\u0646"
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Labsk\u00e1 Str\u00e1\u0148"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elb Leiten"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":792383,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1126021755,
-    "wof:lastmodified":1563248746,
+    "wof:lastmodified":1566710810,
     "wof:name":"Labsk\u00e1 Str\u00e1\u0148",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

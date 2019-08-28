@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.053425,
     "lbl:longitude":13.987253,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.053425,
     "mps:longitude":13.987253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u0443\u0441\u0456\u043d\u0435\u0446"
     ],
@@ -98,7 +101,7 @@
     "name:tat_x_preferred":[
         "\u04ba\u0443\u0441\u0438\u043d\u0435\u0442\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Husinetz"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -128,7 +131,6 @@
     "wof:concordances":{
         "gn:id":3074686,
         "gp:id":790375,
-        "qs:id":1266227,
         "qs_pg:id":1266227,
         "wd:id":"Q1638949",
         "wk:page":"Husinec (Prachatice District)"
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101780897,
-    "wof:lastmodified":1563247897,
+    "wof:lastmodified":1566710664,
     "wof:name":"Husinec",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

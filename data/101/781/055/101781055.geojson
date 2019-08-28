@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.916086,
     "lbl:longitude":17.097348,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.916086,
     "mps:longitude":17.097348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dub\u0148any"
     ],
@@ -80,7 +83,7 @@
     "name:tat_x_preferred":[
         "\u0414\u0443\u0431\u043d\u04d9\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dubnain"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":24,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":3076329,
         "gp:id":788916,
-        "qs:id":341375,
         "qs_pg:id":341375,
         "wd:id":"Q579957",
         "wk:page":"Dub\u0148any"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101781055,
-    "wof:lastmodified":1563247827,
+    "wof:lastmodified":1566710653,
     "wof:name":"Dub\u0148any",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

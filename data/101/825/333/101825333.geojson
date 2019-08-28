@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.182706,
     "lbl:longitude":12.550615,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.182706,
     "mps:longitude":12.550615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Habartov"
     ],
@@ -92,7 +95,7 @@
     "name:tat_x_preferred":[
         "\u04ba\u0430\u0431\u0430\u0440\u0442\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Habersbirk"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":26,
     "wof:belongsto":[
@@ -131,7 +134,6 @@
         "fct:id":"06f8455a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3076076,
         "gp:id":789129,
-        "qs:id":892794,
         "qs_pg:id":892794,
         "wd:id":"Q1018003",
         "wk:page":"Habartov"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247721,
+    "wof:lastmodified":1566710637,
     "wof:name":"Habartov",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

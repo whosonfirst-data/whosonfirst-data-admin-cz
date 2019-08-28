@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.858857,
     "lbl:longitude":13.764074,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.858857,
     "mps:longitude":13.764074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0417\u0431\u0438\u0440\u043e\u0445"
     ],
@@ -92,7 +95,7 @@
     "name:tat_x_preferred":[
         "\u0417\u0431\u0438\u0440\u043e\u04bb"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zbirow"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
     "wof:concordances":{
         "gn:id":3061780,
         "gp:id":801820,
-        "qs:id":2854,
         "qs_pg:id":2854,
         "wd:id":"Q168234",
         "wk:page":"Zbiroh"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101825215,
-    "wof:lastmodified":1563247729,
+    "wof:lastmodified":1566710638,
     "wof:name":"Zbiroh",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

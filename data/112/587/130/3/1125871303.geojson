@@ -9,15 +9,18 @@
     "geom:bbox":"16.1723,48.79614,16.1723,48.79614",
     "geom:latitude":48.79614,
     "geom:longitude":16.1723,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":974,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":974,
     "iso:country":"CZ",
+    "lbl:bbox":"16.1523,48.77614,16.1923,48.81614",
     "lbl:latitude":48.79614,
     "lbl:longitude":16.1723,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0633\u062a\u0631\u0627\u062e\u0648\u062a\u06cc\u062a\u0633\u0647"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Strachotice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rausenbruck"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":798934,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1125871303,
-    "wof:lastmodified":1563249386,
+    "wof:lastmodified":1566710921,
     "wof:name":"Strachotice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

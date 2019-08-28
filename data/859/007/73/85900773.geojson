@@ -10,8 +10,10 @@
     "geom:latitude":50.204679,
     "geom:longitude":15.833596,
     "iso:country":"CZ",
+    "lbl:bbox":"15.828596,50.199679,15.838596,50.209679",
     "lbl:latitude":50.204679,
     "lbl:longitude":15.833596,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.198679,
     "mps:longitude":15.854717,
     "mz:hierarchy_label":0,
@@ -66,9 +68,6 @@
     "name:por_x_preferred":[
         "Mal\u0161ovice"
     ],
-    "name:unk_x_variant":[
-        "Mal\u0161ovice"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
     "qs:gn_local":3074967,
@@ -98,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -126,7 +125,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772284,
+    "wof:lastmodified":1566710179,
     "wof:name":"Mal\u0161ovice",
     "wof:parent_id":101748133,
     "wof:placetype":"neighbourhood",

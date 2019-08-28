@@ -9,14 +9,18 @@
     "geom:bbox":"16.917,50.19893,16.917,50.19893",
     "geom:latitude":50.19893,
     "geom:longitude":16.917,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"16.897,50.17893,16.937,50.21893",
     "lbl:latitude":50.19893,
     "lbl:longitude":16.917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Nov\u00e1 Seninka"
@@ -36,7 +40,7 @@
     "name:pol_x_preferred":[
         "Nov\u00e1 Seninka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Spieglitz"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":794835,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"Olomouck\u00fd kraj",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1125937669,
-    "wof:lastmodified":1563248285,
+    "wof:lastmodified":1566710737,
     "wof:name":"Nov\u00e1 Seninka",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

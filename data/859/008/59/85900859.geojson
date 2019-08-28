@@ -12,8 +12,10 @@
     "gn:latitude":49.85078,
     "gn:longitude":18.25989,
     "iso:country":"CZ",
+    "lbl:bbox":"18.265719,49.843154,18.275719,49.853154",
     "lbl:latitude":49.848154,
     "lbl:longitude":18.270719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.85339,
     "mps:longitude":18.266,
     "mz:hierarchy_label":0,
@@ -52,10 +54,6 @@
     "name:pol_x_preferred":[
         "Przyw\u00f3z"
     ],
-    "name:unk_x_variant":[
-        "Oderfurt",
-        "P\u0159\u00edvoz"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"85",
@@ -84,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":201,
     "wof:belongsto":[
         102191581,
@@ -96,7 +94,6 @@
     "wof:concordances":{
         "gn:id":3067474,
         "gp:id":796798,
-        "qs:id":2708,
         "qs_pg:id":2708,
         "wd:id":"Q1001632",
         "wk:page":"P\u0159\u00edvoz"
@@ -116,7 +113,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772289,
+    "wof:lastmodified":1566710186,
     "wof:name":"P\u0159\u00edvoz",
     "wof:parent_id":101748125,
     "wof:placetype":"neighbourhood",

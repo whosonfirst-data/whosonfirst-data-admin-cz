@@ -12,8 +12,10 @@
     "gn:latitude":49.60448,
     "gn:longitude":17.25163,
     "iso:country":"CZ",
+    "lbl:bbox":"17.25117,49.591002,17.26117,49.601002",
     "lbl:latitude":49.596002,
     "lbl:longitude":17.25617,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.605854,
     "mps:longitude":17.257431,
     "mz:hierarchy_label":0,
@@ -42,7 +44,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748129,
@@ -53,7 +55,6 @@
     "wof:concordances":{
         "gn:id":6694362,
         "gp:id":792461,
-        "qs:id":1075172,
         "qs_pg:id":1075172,
         "wd:id":"Q1809527"
     },
@@ -72,7 +73,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772284,
+    "wof:lastmodified":1566710180,
     "wof:name":"Lazce",
     "wof:parent_id":101748129,
     "wof:placetype":"neighbourhood",

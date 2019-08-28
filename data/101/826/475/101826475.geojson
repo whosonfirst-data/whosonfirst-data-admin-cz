@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.630459,
     "lbl:longitude":13.308958,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.630459,
     "mps:longitude":13.308958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062e\u0644\u0648\u0645\u062a\u0634\u0627\u0646\u06cc"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -104,10 +107,12 @@
     "wof:concordances":{
         "gn:id":3077759,
         "gp:id":787599,
-        "qs:id":1043088,
         "qs_pg:id":397680,
         "wd:id":"Q1075444",
         "wk:page":"Chlum\u010dany (Plze\u0148-South District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043088
     },
     "wof:country":"CZ",
     "wof:geomhash":"6dbb8dcb1f4c1faa0caf7e9334c5b287",
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":101826475,
-    "wof:lastmodified":1563247328,
+    "wof:lastmodified":1566710577,
     "wof:name":"Chlum\u010dany",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

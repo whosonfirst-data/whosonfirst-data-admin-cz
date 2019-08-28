@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.296047,
     "lbl:longitude":17.842057,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.296047,
     "mps:longitude":17.842057,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Trnava"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Trnava"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tranawa"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,10 +104,12 @@
     "wof:concordances":{
         "gn:id":3063985,
         "gp:id":799867,
-        "qs:id":145254,
-        "qs_pg:id":1072261,
+        "qs_pg:id":145254,
         "wd:id":"Q1725829",
         "wk:page":"Trnava (Zl\u00edn District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1072261
     },
     "wof:country":"CZ",
     "wof:geomhash":"6a30b3ee25e39ef08bd715f0efb9dace",
@@ -117,7 +122,7 @@
         }
     ],
     "wof:id":101779817,
-    "wof:lastmodified":1563247412,
+    "wof:lastmodified":1566710589,
     "wof:name":"Trnava",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

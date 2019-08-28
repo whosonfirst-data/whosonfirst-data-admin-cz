@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.887398,
     "lbl:longitude":15.530063,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.887398,
     "mps:longitude":15.530063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ronov nad Doubravou"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0420\u043e\u043d\u043e\u0432-\u043d\u0430\u0434-\u0414\u043e\u0443\u0431\u0440\u0430\u0432\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ronow an der Doubrava"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":32,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3066765,
         "gp:id":797439,
-        "qs:id":358180,
         "qs_pg:id":358180,
         "wd:id":"Q1420776",
         "wk:page":"Ronov nad Doubravou"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101826311,
-    "wof:lastmodified":1563247344,
+    "wof:lastmodified":1566710579,
     "wof:name":"Ronov nad Doubravou",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

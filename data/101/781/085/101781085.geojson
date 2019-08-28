@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.905682,
     "lbl:longitude":17.417651,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.905682,
     "mps:longitude":17.417651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hroznov\u00e1 Lhota"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":128,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":3074795,
         "gp:id":790285,
-        "qs:id":145433,
         "qs_pg:id":145433,
         "wd:id":"Q1632460",
         "wk:page":"Hroznov\u00e1 Lhota"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101781085,
-    "wof:lastmodified":1563247823,
+    "wof:lastmodified":1566710653,
     "wof:name":"Hroznov\u00e1 Lhota",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

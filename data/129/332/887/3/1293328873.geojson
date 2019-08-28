@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"13.60357,50.56404,13.64357,50.60404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Louka"
     ],
@@ -58,8 +62,7 @@
     ],
     "name:und_x_variant":[
         "Wiesa",
-        "Wiese",
-        "Louka"
+        "Wiese"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1293328873,
-    "wof:lastmodified":1564101404,
+    "wof:lastmodified":1566710256,
     "wof:name":"Louka",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

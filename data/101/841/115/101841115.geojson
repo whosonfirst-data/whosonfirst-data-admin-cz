@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.376732,
     "lbl:longitude":13.763666,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.376732,
     "mps:longitude":13.763666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u0646\u0634\u06cc\u062a\u0633\u0647"
     ],
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u0435\u0448\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leneschitz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3072221,
         "gp:id":792518,
-        "qs:id":1043037,
         "qs_pg:id":1043037,
         "wd:id":"Q1421152",
         "wk:page":"Lene\u0161ice"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101841115,
-    "wof:lastmodified":1563247496,
+    "wof:lastmodified":1566710602,
     "wof:name":"Lene\u0161ice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

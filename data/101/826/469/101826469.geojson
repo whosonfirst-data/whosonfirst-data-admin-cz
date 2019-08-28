@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.55368,
     "lbl:longitude":13.070945,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.55368,
     "mps:longitude":13.070945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Sta\u0148kov"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0421\u0442\u0430\u043d\u044c\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u011bstys Sta\u0148kov"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3065439,
         "gp:id":798602,
-        "qs:id":145277,
         "qs_pg:id":145277,
         "wd:id":"Q1632458",
         "wk:page":"Sta\u0148kov (Doma\u017elice District)"
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101826469,
-    "wof:lastmodified":1563247336,
+    "wof:lastmodified":1566710578,
     "wof:name":"Sta\u0148kov",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"15.50883,49.43624,15.50883,49.43624",
     "geom:latitude":49.43624,
     "geom:longitude":15.50883,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":193,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":193,
     "iso:country":"CZ",
+    "lbl:bbox":"15.48883,49.41624,15.52883,49.45624",
     "lbl:latitude":49.43624,
     "lbl:longitude":15.50883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0644\u06cc \u06a9\u0627\u0645\u0646"
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "B\u00edl\u00fd K\u00e1men"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weissenstein"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":786231,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1125855481,
-    "wof:lastmodified":1563250500,
+    "wof:lastmodified":1566711111,
     "wof:name":"B\u00edl\u00fd K\u00e1men",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

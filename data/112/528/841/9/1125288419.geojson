@@ -9,15 +9,18 @@
     "geom:bbox":"15.73362,50.59517,15.73362,50.59517",
     "geom:latitude":50.59517,
     "geom:longitude":15.73362,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2161,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":2161,
     "iso:country":"CZ",
+    "lbl:bbox":"15.63362,50.49517,15.83362,50.69517",
     "lbl:latitude":50.59517,
     "lbl:longitude":15.73362,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Rudn\u00edk v Krkono\u0161\u00edch"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0434\u043d\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hermannseifen"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -66,7 +69,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":12608907,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125288419,
-    "wof:lastmodified":1564102402,
+    "wof:lastmodified":1566710851,
     "wof:name":"Rudn\u00edk",
     "wof:parent_id":85682465,
     "wof:placetype":"localadmin",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.38613,48.7189,14.42613,48.7589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hodonice"
     ],
@@ -57,8 +61,7 @@
         "Hodonice"
     ],
     "name:und_x_variant":[
-        "Hodewitz",
-        "Hodonice"
+        "Hodewitz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1293327167,
-    "wof:lastmodified":1564101419,
+    "wof:lastmodified":1566710261,
     "wof:name":"Hodonice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

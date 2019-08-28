@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.352073,
     "lbl:longitude":17.300655,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.352073,
     "mps:longitude":17.300655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kojet\u00edn"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u041a\u043e\u0435\u0442\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kojetein"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":200,
     "wof:belongsto":[
@@ -126,10 +129,12 @@
     "wof:concordances":{
         "gn:id":3073403,
         "gp:id":791477,
-        "qs:id":1206118,
         "qs_pg:id":398733,
         "wd:id":"Q1008991",
         "wk:page":"Kojet\u00edn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1206118
     },
     "wof:country":"CZ",
     "wof:geomhash":"f1089cc4abd20ace9f008646fe46ad52",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101780043,
-    "wof:lastmodified":1563247891,
+    "wof:lastmodified":1566710663,
     "wof:name":"Kojet\u00edn",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

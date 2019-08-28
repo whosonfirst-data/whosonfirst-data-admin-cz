@@ -12,8 +12,10 @@
     "gn:latitude":49.40768,
     "gn:longitude":15.6075,
     "iso:country":"CZ",
+    "lbl:bbox":"15.585698,49.39811,15.595698,49.40811",
     "lbl:latitude":49.40311,
     "lbl:longitude":15.590698,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.411579,
     "mps:longitude":15.59869,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
     "name:cze_x_variant":[
         "Birnbaumhof",
         "Hrukov\u00e9 Dvory"
-    ],
-    "name:unk_x_variant":[
-        "Birnbaumhof",
-        "Hru\u0161kov\u00e9 Dvory"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -71,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101826409,
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":3074775,
         "gp:id":790302,
-        "qs:id":1080916,
         "qs_pg:id":1080916
     },
     "wof:country":"CZ",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772294,
+    "wof:lastmodified":1566710192,
     "wof:name":"Hru\u0161kov\u00e9 Dvory",
     "wof:parent_id":101826409,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.93704,49.56812,12.97704,49.60812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0648\u062a\u0633\u06cc\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -78,8 +82,7 @@
         "Pocinovice"
     ],
     "name:und_x_variant":[
-        "Potzowitz",
-        "Pocinovice"
+        "Potzowitz"
     ],
     "name:vie_x_preferred":[
         "Pocinovice"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1259519639,
-    "wof:lastmodified":1564103144,
+    "wof:lastmodified":1566711266,
     "wof:name":"Pocinovice",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

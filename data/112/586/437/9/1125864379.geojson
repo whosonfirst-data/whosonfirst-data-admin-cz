@@ -9,15 +9,18 @@
     "geom:bbox":"13.17386,49.46668,13.17386,49.46668",
     "geom:latitude":49.46668,
     "geom:longitude":13.17386,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":699,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":699,
     "iso:country":"CZ",
+    "lbl:bbox":"13.15386,49.44668,13.19386,49.48668",
     "lbl:latitude":49.46668,
     "lbl:longitude":13.17386,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0425\u0443\u0434\u0437\u0435\u043d\u0456\u0446\u044b"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Chudenice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chudenitz"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +107,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":787809,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1125864379,
-    "wof:lastmodified":1563249023,
+    "wof:lastmodified":1566710857,
     "wof:name":"Chudenice",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

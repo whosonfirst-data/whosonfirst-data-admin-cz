@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.073898,
     "lbl:longitude":15.678705,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.073898,
     "mps:longitude":15.678705,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "L\u00e1zn\u011b Bohdane\u010d"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -123,10 +126,12 @@
     "wof:concordances":{
         "gn:id":3079154,
         "gp:id":786376,
-        "qs:id":471404,
-        "qs_pg:id":1157557,
+        "qs_pg:id":471404,
         "wd:id":"Q920634",
         "wk:page":"L\u00e1zn\u011b Bohdane\u010d"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1157557
     },
     "wof:country":"CZ",
     "wof:geomhash":"eff64aba8334e1bb74101040714f46c9",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101825299,
-    "wof:lastmodified":1563247759,
+    "wof:lastmodified":1566710643,
     "wof:name":"L\u00e1zn\u011b Bohdane\u010d",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

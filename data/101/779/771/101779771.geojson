@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.239801,
     "lbl:longitude":15.070454,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.239801,
     "mps:longitude":15.070454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nov\u00e1 V\u010delnice"
     ],
@@ -77,7 +80,7 @@
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u0430-\u0412\u0447\u0435\u043b\u043d\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u010delnice"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3069648,
         "gp:id":794845,
-        "qs:id":245244,
         "qs_pg:id":245244,
         "wd:id":"Q1861156",
         "wk:page":"Nov\u00e1 V\u010delnice"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101779771,
-    "wof:lastmodified":1563247422,
+    "wof:lastmodified":1566710590,
     "wof:name":"Nov\u00e1 V\u010delnice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

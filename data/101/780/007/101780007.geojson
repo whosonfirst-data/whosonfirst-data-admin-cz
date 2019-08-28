@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.207516,
     "lbl:longitude":16.153046,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.207516,
     "mps:longitude":16.153046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "N\u00e1m\u011b\u0161\u0165 nad Oslavou"
     ],
@@ -83,7 +86,7 @@
     "name:tat_x_preferred":[
         "\u041d\u0430\u043c\u0435\u0448\u0442-\u043d\u0430\u0434-\u041e\u0441\u043b\u0430\u0432\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Namiest"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3070055,
         "gp:id":794477,
-        "qs:id":459774,
         "qs_pg:id":459774,
         "wd:id":"Q2427155",
         "wk:page":"N\u00e1m\u011b\u0161\u0165 nad Oslavou"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101780007,
-    "wof:lastmodified":1563247870,
+    "wof:lastmodified":1566710660,
     "wof:name":"N\u00e1m\u011b\u0161\u0165 nad Oslavou",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

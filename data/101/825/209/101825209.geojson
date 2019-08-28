@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.838282,
     "lbl:longitude":13.581793,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.838282,
     "mps:longitude":13.581793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u0159asy"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":953,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3078807,
         "gp:id":786691,
-        "qs:id":858532,
         "qs_pg:id":858532,
         "wd:id":"Q2523741",
         "wk:page":"B\u0159asy"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101825209,
-    "wof:lastmodified":1563247744,
+    "wof:lastmodified":1566710641,
     "wof:name":"B\u0159asy",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

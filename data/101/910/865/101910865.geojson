@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.901308,
     "lbl:longitude":15.815273,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":48.901308,
     "mps:longitude":15.815273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vranov"
     ],
@@ -92,7 +95,7 @@
     "name:swe_x_preferred":[
         "Vranov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fram"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":120,
     "wof:belongsto":[
@@ -126,10 +129,12 @@
     "wof:concordances":{
         "gn:id":3062519,
         "gp:id":801152,
-        "qs:id":210386,
-        "qs_pg:id":939329,
+        "qs_pg:id":210386,
         "wd:id":"Q585050",
         "wk:page":"Vranov nad Dyj\u00ed"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":939329
     },
     "wof:country":"CZ",
     "wof:geomhash":"d96b1c7e0cfa69765c7dcf47619af329",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101910865,
-    "wof:lastmodified":1563247906,
+    "wof:lastmodified":1566710665,
     "wof:name":"Vranov nad Dyj\u00ed",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

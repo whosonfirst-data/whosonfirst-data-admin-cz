@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.188642,
     "lbl:longitude":14.705353,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.188642,
     "mps:longitude":14.705353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vesel\u00ed nad Lu\u017enic\u00ed"
     ],
@@ -83,7 +86,7 @@
     "name:tat_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0438-\u043d\u0430\u0434-\u041b\u0443\u0436\u043d\u0438\u0442\u0441\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mezimost\u00ed"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":432,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":3063033,
         "gp:id":800698,
-        "qs:id":279626,
         "qs_pg:id":279626,
         "wd:id":"Q612646",
         "wk:page":"Vesel\u00ed nad Lu\u017enic\u00ed"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101780923,
-    "wof:lastmodified":1563247876,
+    "wof:lastmodified":1566710661,
     "wof:name":"Vesel\u00ed nad Lu\u017enic\u00ed",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

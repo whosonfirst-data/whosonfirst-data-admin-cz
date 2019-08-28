@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.152045,
     "lbl:longitude":14.515343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.149303,
     "mps:longitude":14.517383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "\u010cakovice"
     ],
@@ -58,9 +61,6 @@
     "name:slv_x_preferred":[
         "\u010cakovice"
     ],
-    "name:unk_x_variant":[
-        "Gross Cakowitz"
-    ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Hlavn\u00ed mesto Praha",
     "qs:a1r":"0",
@@ -75,7 +75,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -86,7 +86,7 @@
         "fct:id":"070aaa1a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3078251,
         "gp:id":787181,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q3489907",
         "wk:page":"\u010cakovice"
     },
@@ -104,7 +104,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772350,
+    "wof:lastmodified":1566710566,
     "wof:name":"\u010cakovice",
     "wof:parent_id":85682437,
     "wof:placetype":"locality",

@@ -5,16 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00028,
+    "geom:area_square_m":2236828.892815,
     "geom:bbox":"18.1921939457,49.7471092285,18.2280003834,49.8111361412",
     "geom:latitude":49.768648,
     "geom:longitude":18.212522,
     "iso:country":"CZ",
     "lbl:latitude":49.763087,
     "lbl:longitude":18.206298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.763087,
     "mps:longitude":18.206298,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Proskowitz"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -31,7 +36,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -41,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3067423,
         "gp:id":796847,
-        "qs:id":400178
+        "qs_pg:id":400178
     },
     "wof:country":"CZ",
     "wof:geomhash":"4db32096cd60ad65f80c890e3def7b90",
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101840957,
-    "wof:lastmodified":1501265228,
+    "wof:lastmodified":1566710619,
     "wof:name":"Proskovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

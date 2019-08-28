@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.62578,
     "lbl:longitude":16.245502,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.62578,
     "mps:longitude":16.245502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mezim\u011bst\u00ed"
     ],
@@ -77,7 +80,7 @@
     "name:tat_x_preferred":[
         "\u041c\u0435\u0437\u0438\u043c\u0435\u0441\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Halbstadt"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":25,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3070774,
         "gp:id":793820,
-        "qs:id":326073,
         "qs_pg:id":326073,
         "wd:id":"Q1150268",
         "wk:page":"Mezim\u011bst\u00ed"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101822955,
-    "wof:lastmodified":1563247781,
+    "wof:lastmodified":1566710646,
     "wof:name":"Mezim\u011bst\u00ed",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

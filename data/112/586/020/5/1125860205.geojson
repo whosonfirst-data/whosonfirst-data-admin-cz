@@ -9,15 +9,18 @@
     "geom:bbox":"12.9711,49.90724,12.9711,49.90724",
     "geom:latitude":49.90724,
     "geom:longitude":12.9711,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1004,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1004,
     "iso:country":"CZ",
+    "lbl:bbox":"12.9511,49.88724,12.9911,49.92724",
     "lbl:latitude":49.90724,
     "lbl:longitude":12.9711,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u0435\u0437\u0434\u0440\u0443\u0436\u0438\u0446\u0435"
@@ -85,7 +88,7 @@
     "name:tat_x_preferred":[
         "\u0411\u0435\u0437\u0434\u0440\u0443\u0436\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weseritz"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":786170,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1125860205,
-    "wof:lastmodified":1563249060,
+    "wof:lastmodified":1566710864,
     "wof:name":"Bezdru\u017eice",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

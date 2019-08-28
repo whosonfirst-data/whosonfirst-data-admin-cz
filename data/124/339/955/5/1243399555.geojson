@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"13.48,50.49667,13.52,50.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0646\u062f\u0631\u0627\u062a\u06cc\u062a\u0633\u0647"
     ],
@@ -70,8 +74,7 @@
         "Kundratice"
     ],
     "name:und_x_variant":[
-        "Kunnersdorf",
-        "Kundratice"
+        "Kunnersdorf"
     ],
     "name:vie_x_preferred":[
         "Kundratice"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1243399555,
-    "wof:lastmodified":1564102887,
+    "wof:lastmodified":1566711170,
     "wof:name":"Kundratice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

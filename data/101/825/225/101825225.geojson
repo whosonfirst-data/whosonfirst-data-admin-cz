@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000413,
+    "geom:area_square_m":3279021.099291,
     "geom:bbox":"14.638747608,50.0677015546,14.6882486587,50.0852578098",
     "geom:latitude":50.075792,
     "geom:longitude":14.659888,
     "iso:country":"CZ",
     "lbl:latitude":50.077051,
     "lbl:longitude":14.649951,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.077051,
     "mps:longitude":14.649951,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Hlavn\u00ed mesto Praha",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":3063652,
         "gp:id":800173,
-        "qs:id":190695
+        "qs_pg:id":190695
     },
     "wof:country":"CZ",
-    "wof:geomhash":"f80a16b16b1a31d780d4d301237787ec",
+    "wof:geomhash":"690fdb0250ff6f4229f3560bbc32b7ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101825225,
-    "wof:lastmodified":1466626103,
+    "wof:lastmodified":1566710639,
     "wof:name":"\u00dajezd nad Lesy",
     "wof:parent_id":85682437,
     "wof:placetype":"locality",

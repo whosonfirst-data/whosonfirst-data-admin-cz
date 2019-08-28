@@ -9,17 +9,19 @@
     "geom:bbox":"16.3163193596,49.7042268518,16.3491328642,49.7128621855",
     "geom:latitude":49.708682,
     "geom:longitude":16.330433,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1031,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1031,
     "iso:country":"CZ",
     "lbl:latitude":49.710162,
     "lbl:longitude":16.326083,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.710162,
     "mps:longitude":16.326083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u067e\u0648\u0645\u0632\u06cc"
     ],
@@ -83,7 +85,7 @@
     "name:swe_x_preferred":[
         "Pomez\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laubendorf"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -134,15 +136,14 @@
     "wof:concordances":{
         "gn:id":3067848,
         "gp:id":796458,
-        "qs:id":145312,
-        "qs_pg:id":1159070,
+        "qs_pg:id":145312,
         "wd:id":"Q1852697",
         "wk:page":"Pomez\u00ed (Svitavy District)"
     },
     "wof:concordances_alt":{
         "gn:id":3067846,
         "gp:id":796459,
-        "qs_pg:id":145312
+        "qs_pg:id":1159070
     },
     "wof:country":"CZ",
     "wof:geomhash":"051df894f1ca91e44fbf1685620ccaa2",
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":101825293,
-    "wof:lastmodified":1563247679,
+    "wof:lastmodified":1566710631,
     "wof:name":"Pomez\u00ed",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

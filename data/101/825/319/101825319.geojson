@@ -9,17 +9,19 @@
     "geom:bbox":"16.5582349378,49.9767565613,16.5731499508,49.9863493569",
     "geom:latitude":49.980849,
     "geom:longitude":16.564699,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1371,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1371,
     "iso:country":"CZ",
     "lbl:latitude":49.980156,
     "lbl:longitude":16.56532,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.980156,
     "mps:longitude":16.56532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Doln\u00ed \u010cermn\u00e1"
     ],
@@ -83,7 +85,7 @@
     "name:swe_x_preferred":[
         "Doln\u00ed \u010cermn\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tschermna"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -135,7 +137,6 @@
     "wof:concordances":{
         "gn:id":3078102,
         "gp:id":787312,
-        "qs:id":938659,
         "qs_pg:id":938608,
         "wd:id":"Q251420",
         "wk:page":"Doln\u00ed \u010cermn\u00e1"
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":101825319,
-    "wof:lastmodified":1563247771,
+    "wof:lastmodified":1566710645,
     "wof:name":"Doln\u00ed \u010cermn\u00e1",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.32035,
     "lbl:longitude":18.151912,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.32035,
     "mps:longitude":18.151912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u0644\u0646\u06a9\u0648\u0648"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Halenkov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hallenkau"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":3075997,
         "gp:id":789200,
-        "qs:id":973573,
         "qs_pg:id":973573,
         "wd:id":"Q1022338",
         "wk:page":"Halenkov"
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101779793,
-    "wof:lastmodified":1563247429,
+    "wof:lastmodified":1566710592,
     "wof:name":"Halenkov",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

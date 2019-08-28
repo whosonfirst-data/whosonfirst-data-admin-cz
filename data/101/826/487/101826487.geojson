@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.693893,
     "lbl:longitude":13.475843,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.693893,
     "mps:longitude":13.475843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b \u041f\u043b\u044c\u0437\u0435\u043d\u0435\u0446"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438-\u041f\u043b\u0437\u0435\u043d\u0435\u0442\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alt Pilsenetz"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":257,
     "wof:belongsto":[
@@ -127,7 +130,6 @@
     "wof:concordances":{
         "gn:id":3065249,
         "gp:id":798779,
-        "qs:id":326181,
         "qs_pg:id":326181,
         "wd:id":"Q1641774",
         "wk:page":"Star\u00fd Plzenec"
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":101826487,
-    "wof:lastmodified":1563247332,
+    "wof:lastmodified":1566710577,
     "wof:name":"Star\u00fd Plzenec",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

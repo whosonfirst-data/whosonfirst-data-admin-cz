@@ -10,8 +10,10 @@
     "geom:latitude":49.986017,
     "geom:longitude":14.447296,
     "iso:country":"CZ",
+    "lbl:bbox":"14.4422963463,49.981017025,14.4522963463,49.991017025",
     "lbl:latitude":49.986017,
     "lbl:longitude":14.447296,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -42,10 +44,10 @@
     "name:swe_x_preferred":[
         "Cholupice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cholupitz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1108938371,
-    "wof:lastmodified":1564101956,
+    "wof:lastmodified":1566710480,
     "wof:name":"Cholupice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

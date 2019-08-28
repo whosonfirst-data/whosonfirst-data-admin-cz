@@ -12,8 +12,10 @@
     "gn:latitude":50.76687,
     "gn:longitude":14.18082,
     "iso:country":"CZ",
+    "lbl:bbox":"13.756707,51.032489,13.766707,51.042489",
     "lbl:latitude":51.037489,
     "lbl:longitude":13.761707,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.037868,
     "mps:longitude":13.758547,
     "mz:hierarchy_label":0,
@@ -50,9 +52,8 @@
     "name:spa_x_preferred":[
         "Gro\u00dfer Garten"
     ],
-    "name:unk_x_variant":[
-        "Pfaffendorf",
-        "Gro\u00dfer Garten"
+    "name:und_x_variant":[
+        "Pfaffendorf"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -94,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3067802,
         "gp:id":20161702,
-        "qs:id":900052
+        "qs_pg:id":900052
     },
     "wof:country":"CZ",
     "wof:geomhash":"18dbddf319b89ac995855cecbfde4bdf",
@@ -113,7 +114,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566247565,
+    "wof:lastmodified":1566710197,
     "wof:name":"Gro\u00dfer Garten",
     "wof:parent_id":101752773,
     "wof:placetype":"neighbourhood",

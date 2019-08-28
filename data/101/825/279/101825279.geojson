@@ -9,17 +9,19 @@
     "geom:bbox":"16.4737604138,50.0469710517,16.4928631771,50.0741986061",
     "geom:latitude":50.0606,
     "geom:longitude":16.482985,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1066,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1066,
     "iso:country":"CZ",
     "lbl:latitude":50.061112,
     "lbl:longitude":16.482045,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.061112,
     "mps:longitude":16.482045,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lukavice"
     ],
@@ -56,7 +58,7 @@
     "name:swe_x_preferred":[
         "Lukavice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lukawitz"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -93,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":61,
     "wof:belongsto":[
@@ -105,7 +107,6 @@
     "wof:concordances":{
         "gn:id":3071380,
         "gp:id":793284,
-        "qs:id":218901,
         "qs_pg:id":218900,
         "wd:id":"Q394933"
     },
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":101825279,
-    "wof:lastmodified":1563247728,
+    "wof:lastmodified":1566710638,
     "wof:name":"Lukavice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

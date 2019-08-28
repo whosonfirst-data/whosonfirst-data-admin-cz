@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.166683,
     "lbl:longitude":14.056481,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.166683,
     "mps:longitude":14.056481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Libu\u0161\u00edn"
     ],
@@ -83,7 +86,7 @@
     "name:tat_x_preferred":[
         "\u041b\u0438\u0431\u0443\u0448\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Libuschin"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":26,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3071881,
         "gp:id":792841,
-        "qs:id":255246,
         "qs_pg:id":255246,
         "wd:id":"Q1641699",
         "wk:page":"Libu\u0161\u00edn"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101825737,
-    "wof:lastmodified":1563247637,
+    "wof:lastmodified":1566710624,
     "wof:name":"Libu\u0161\u00edn",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.203326,
     "lbl:longitude":16.784323,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.203326,
     "mps:longitude":16.784323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u067e\u0648\u0632\u0648\u0631\u06cc\u062a\u0633\u0647"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Pozo\u0159ice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poso\u0159itz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3067723,
         "gp:id":24929604,
-        "qs:id":507875,
         "qs_pg:id":507875,
         "wd:id":"Q2067672",
         "wk:page":"Pozo\u0159ice"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101779907,
-    "wof:lastmodified":1563247400,
+    "wof:lastmodified":1566710587,
     "wof:name":"Pozo\u0159ice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

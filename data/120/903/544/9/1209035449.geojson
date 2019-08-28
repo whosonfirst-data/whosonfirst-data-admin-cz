@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.09667,49.78,16.13667,49.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3062129
     },
     "wof:country":"CZ",
-    "wof:geomhash":"7980a88fecd35371472f0c458aed28b5",
+    "wof:geomhash":"9b1c82f855b9bd71434d565c44e0c5cf",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209035449,
-    "wof:lastmodified":1536299716,
+    "wof:lastmodified":1566710395,
     "wof:name":"Zabori",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.116670000000006,
+    16.11667000000001,
     49.8,
-    16.116670000000006,
+    16.11667000000001,
     49.8
 ],
   "geometry": {"coordinates":[16.11667000000001,49.8],"type":"Point"}

@@ -9,15 +9,18 @@
     "geom:bbox":"16.05371,50.07106,16.05371,50.07106",
     "geom:latitude":50.07106,
     "geom:longitude":16.05371,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":361,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":361,
     "iso:country":"CZ",
+    "lbl:bbox":"16.03371,50.05106,16.07371,50.09106",
     "lbl:latitude":50.07106,
     "lbl:longitude":16.05371,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043d\u0439"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Veliny"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wellin"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":800483,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125947191,
-    "wof:lastmodified":1563248129,
+    "wof:lastmodified":1566710713,
     "wof:name":"Veliny",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

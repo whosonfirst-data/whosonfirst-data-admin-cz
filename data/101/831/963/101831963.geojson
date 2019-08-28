@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.042689,
     "lbl:longitude":17.470039,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.042689,
     "mps:longitude":17.470039,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kunovice"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u041a\u0443\u043d\u043e\u0432\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kunowitz"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,10 +125,12 @@
     "wof:concordances":{
         "gn:id":3072496,
         "gp:id":792270,
-        "qs:id":145376,
-        "qs_pg:id":398951,
+        "qs_pg:id":145376,
         "wd:id":"Q175197",
         "wk:page":"Kunovice (Uhersk\u00e9 Hradi\u0161t\u011b District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":398951
     },
     "wof:country":"CZ",
     "wof:geomhash":"faef72a9923ad15fe8d161f1196b0470",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101831963,
-    "wof:lastmodified":1563247794,
+    "wof:lastmodified":1566710648,
     "wof:name":"Kunovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":50.74382,
     "gn:longitude":15.09583,
     "iso:country":"CZ",
+    "lbl:bbox":"15.085778,50.738007,15.095778,50.748007",
     "lbl:latitude":50.743007,
     "lbl:longitude":15.090778,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.741575,
     "mps:longitude":15.09178,
     "mz:hierarchy_label":0,
@@ -89,16 +91,12 @@
     "name:swe_x_preferred":[
         "Vratislavice nad Nisou"
     ],
-    "name:unk_x_variant":[
-        "Vratislavice nad Nisou",
-        "Liberec-Vratislavice nad Nisou"
-    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":50.743333,
     "wd:longitude":15.0925,
     "wd:wordcount":890,
@@ -112,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3062496,
         "gp:id":801177,
-        "qs:id":1187617,
         "qs_pg:id":1187617,
         "wd:id":"Q705952",
         "wk:page":"Vratislavice nad Nisou"
@@ -132,7 +129,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772296,
+    "wof:lastmodified":1566710193,
     "wof:name":"Liberec-Vratislavice nad Nisou",
     "wof:parent_id":101748147,
     "wof:placetype":"neighbourhood",

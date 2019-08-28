@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.102534,
     "lbl:longitude":14.681833,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.102534,
     "mps:longitude":14.681833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0634\u0633\u062a\u0627\u06cc\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3066169,
         "gp:id":797970,
-        "qs:id":145290,
+        "qs_pg:id":145290,
         "wd:id":"Q2301557"
     },
     "wof:country":"CZ",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101841007,
-    "wof:lastmodified":1563247471,
+    "wof:lastmodified":1566710598,
     "wof:name":"\u0160estajovice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

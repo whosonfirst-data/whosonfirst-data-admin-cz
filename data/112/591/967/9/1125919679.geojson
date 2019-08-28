@@ -9,15 +9,18 @@
     "geom:bbox":"15.19101,49.37649,15.19101,49.37649",
     "geom:latitude":49.37649,
     "geom:longitude":15.19101,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":204,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":204,
     "iso:country":"CZ",
+    "lbl:bbox":"15.17101,49.35649,15.21101,49.39649",
     "lbl:latitude":49.37649,
     "lbl:longitude":15.19101,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0628\u06a9\u0648\u0648\u0627 \u0648\u0648\u062f\u0627"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Libkova Voda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipkowawoda"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":792796,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125919679,
-    "wof:lastmodified":1563249998,
+    "wof:lastmodified":1566711027,
     "wof:name":"Libkova Voda",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

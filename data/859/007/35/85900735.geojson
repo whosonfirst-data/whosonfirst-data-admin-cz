@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.022665,
     "lbl:longitude":14.448651,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.021857,
     "mps:longitude":14.440792,
     "mz:hierarchy_label":1,
@@ -59,9 +60,6 @@
     "name:srp_x_preferred":[
         "\u041b\u0445\u043e\u0442\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Lhotka"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3067696,
@@ -102,9 +100,11 @@
     "wof:concordances":{
         "gn:id":3072019,
         "gp:id":792697,
-        "qs:id":271581,
-        "qs_pg:id":1157784,
+        "qs_pg:id":271581,
         "wd:id":"Q2693443"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1157784
     },
     "wof:country":"CZ",
     "wof:geomhash":"d0c21e70f8fa6acbfe51ec2e0ea4deed",
@@ -121,7 +121,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247482,
+    "wof:lastmodified":1566710178,
     "wof:name":"Lhotka",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

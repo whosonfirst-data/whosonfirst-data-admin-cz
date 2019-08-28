@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.128563,
     "lbl:longitude":15.18294,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.128563,
     "mps:longitude":15.18294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041b\u0456\u0431\u0456\u0446\u044d-\u043d\u0430\u0434-\u0426\u044b\u0434\u043b\u0456\u043d\u043e\u045e"
     ],
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Libice nad Cidlinou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Libice"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":215,
     "wof:belongsto":[
@@ -135,7 +138,6 @@
     "wof:concordances":{
         "gn:id":3071947,
         "gp:id":792781,
-        "qs:id":190269,
         "qs_pg:id":190269,
         "wd:id":"Q1013892",
         "wk:page":"Libice nad Cidlinou"
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":101825687,
-    "wof:lastmodified":1563247663,
+    "wof:lastmodified":1566710628,
     "wof:name":"Libice nad Cidlinou",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"15.98456,49.10289,15.98456,49.10289",
     "geom:latitude":49.10289,
     "geom:longitude":15.98456,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":709,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":709,
     "iso:country":"CZ",
+    "lbl:bbox":"15.96456,49.08289,16.00456,49.12289",
     "lbl:latitude":49.10289,
     "lbl:longitude":15.98456,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0633\u0644\u06cc\u0628\u0648\u0631\u06cc\u062a\u0633\u0647"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Myslibo\u0159ice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mislibo\u0159itz"
     ],
     "name:vie_x_preferred":[
@@ -95,7 +98,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":794363,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1126036893,
-    "wof:lastmodified":1563248946,
+    "wof:lastmodified":1566710844,
     "wof:name":"Myslibo\u0159ice",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

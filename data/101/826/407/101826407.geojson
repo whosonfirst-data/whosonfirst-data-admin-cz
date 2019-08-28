@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.430822,
     "lbl:longitude":15.221695,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.430822,
     "mps:longitude":15.221695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0647\u0631\u064a\u0645\u0648\u0641"
     ],
@@ -113,7 +116,7 @@
     "name:tur_x_preferred":[
         "Pelh\u0159imov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pilgram"
     ],
     "name:vie_x_preferred":[
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3467,
     "wof:belongsto":[
@@ -155,7 +158,6 @@
         "fct:id":"06fc23f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3068445,
         "gp:id":24930670,
-        "qs:id":446771,
         "qs_pg:id":446771,
         "wd:id":"Q1000073",
         "wk:page":"Pelh\u0159imov"
@@ -174,7 +176,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247297,
+    "wof:lastmodified":1566710572,
     "wof:name":"Pelh\u0159imov",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

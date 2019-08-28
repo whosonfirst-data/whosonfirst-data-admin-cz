@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.131941,
     "lbl:longitude":16.181668,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.131941,
     "mps:longitude":16.181668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0427\u0430\u0441\u0442\u0430\u043b\u0430\u0432\u0456\u0446\u044b"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "\u010castolovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u010castolowitz"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3078223,
         "gp:id":787202,
-        "qs:id":1232411,
         "qs_pg:id":1232411,
         "wd:id":"Q337703",
         "wk:page":"\u010castolovice"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101824279,
-    "wof:lastmodified":1563247564,
+    "wof:lastmodified":1566710612,
     "wof:name":"\u010castolovice",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

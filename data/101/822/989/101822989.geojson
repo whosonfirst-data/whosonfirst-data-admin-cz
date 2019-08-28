@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.817273,
     "lbl:longitude":14.968339,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.817273,
     "mps:longitude":14.968339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0427\u0440\u0430\u0441\u0442\u0430\u0432\u0430"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u0425\u0440\u0430\u0441\u0442\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kratzau"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":557,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3077584,
         "gp:id":787761,
-        "qs:id":1244111,
         "qs_pg:id":1244111,
         "wd:id":"Q1013885",
         "wk:page":"Chrastava"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101822989,
-    "wof:lastmodified":1563247790,
+    "wof:lastmodified":1566710647,
     "wof:name":"Chrastava",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

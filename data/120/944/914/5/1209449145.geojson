@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.42751,48.66286,14.46751,48.70286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Suchdol"
     ],
@@ -57,8 +61,7 @@
         "Suchdol"
     ],
     "name:und_x_variant":[
-        "Suchenthal",
-        "Suchdol"
+        "Suchenthal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1209449145,
-    "wof:lastmodified":1564101806,
+    "wof:lastmodified":1566710418,
     "wof:name":"Suchdol",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",

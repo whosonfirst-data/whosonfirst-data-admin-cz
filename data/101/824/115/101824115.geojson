@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.165195,
     "lbl:longitude":17.577642,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.165195,
     "mps:longitude":17.577642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u011bsto Albrechtice"
     ],
@@ -92,7 +95,7 @@
     "name:tat_x_preferred":[
         "\u041c\u0435\u0441\u0442\u043e-\u0410\u043b\u044c\u0431\u0440\u0435\u0445\u0442\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Albrechtice"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":568,
     "wof:belongsto":[
@@ -130,7 +133,6 @@
     "wof:concordances":{
         "gn:id":3070819,
         "gp:id":793778,
-        "qs:id":190309,
         "qs_pg:id":190309,
         "wd:id":"Q1019339",
         "wk:page":"M\u011bsto Albrechtice"
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101824115,
-    "wof:lastmodified":1563247578,
+    "wof:lastmodified":1566710614,
     "wof:name":"M\u011bsto Albrechtice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.794667,
     "lbl:longitude":16.970712,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.794667,
     "mps:longitude":16.970712,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0647\u0631\u0648\u0634\u06a9\u06cc"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Hru\u0161ky"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Birnbaum"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,10 +113,12 @@
     "wof:concordances":{
         "gn:id":3074772,
         "gp:id":790304,
-        "qs:id":868655,
-        "qs_pg:id":1266215,
+        "qs_pg:id":868655,
         "wd:id":"Q1022315",
         "wk:page":"Hru\u0161ky (B\u0159eclav District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1266215
     },
     "wof:country":"CZ",
     "wof:geomhash":"80f7c80355076257188210a47b6ca03b",
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":101781023,
-    "wof:lastmodified":1563247818,
+    "wof:lastmodified":1566710652,
     "wof:name":"Hru\u0161ky",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

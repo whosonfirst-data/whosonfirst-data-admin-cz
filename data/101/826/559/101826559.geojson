@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.638849,
     "lbl:longitude":17.207818,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.638849,
     "mps:longitude":17.207818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0631\u06a9\u0627 \u0646\u0627\u062f \u0645\u0648\u0631\u0627\u0648\u0648\u0648"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Horka nad Moravou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Horka"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":87,
     "wof:belongsto":[
@@ -114,10 +117,12 @@
     "wof:concordances":{
         "gn:id":3075476,
         "gp:id":789645,
-        "qs:id":1043063,
         "qs_pg:id":398255,
         "wd:id":"Q2351272",
         "wk:page":"Horka nad Moravou"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043063
     },
     "wof:country":"CZ",
     "wof:geomhash":"d0fef6a82c380d2ec869066c70335c82",
@@ -130,7 +135,7 @@
         }
     ],
     "wof:id":101826559,
-    "wof:lastmodified":1563247274,
+    "wof:lastmodified":1566710568,
     "wof:name":"Horka nad Moravou",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

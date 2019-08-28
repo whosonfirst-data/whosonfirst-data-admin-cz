@@ -9,15 +9,18 @@
     "geom:bbox":"12.87395,50.16511,12.87395,50.16511",
     "geom:latitude":50.16511,
     "geom:longitude":12.87395,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":495,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":495,
     "iso:country":"CZ",
+    "lbl:bbox":"12.85395,50.14511,12.89395,50.18511",
     "lbl:latitude":50.16511,
     "lbl:longitude":12.87395,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Stanovice"
@@ -46,7 +49,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u043d\u043e\u0432\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donawitz"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -66,7 +69,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":798608,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125925249,
-    "wof:lastmodified":1564102335,
+    "wof:lastmodified":1566710789,
     "wof:name":"Stanovice",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

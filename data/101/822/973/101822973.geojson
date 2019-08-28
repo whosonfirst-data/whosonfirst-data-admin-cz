@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.658437,
     "lbl:longitude":13.726412,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.658437,
     "mps:longitude":13.726412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0440\u043e\u0431"
     ],
@@ -83,7 +86,7 @@
     "name:tat_x_preferred":[
         "\u04ba\u0440\u043e\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klostergrab"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3074817,
         "gp:id":790263,
-        "qs:id":145434,
         "qs_pg:id":145434,
         "wd:id":"Q1019471",
         "wk:page":"Hrob"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101822973,
-    "wof:lastmodified":1563247789,
+    "wof:lastmodified":1566710647,
     "wof:name":"Hrob",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.48185,
     "lbl:longitude":16.835673,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.48185,
     "mps:longitude":16.835673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u067e\u0631\u0648\u062a\u06cc\u0648\u0627\u0646\u0648\u0648"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Protivanov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Protiwanow"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":75,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3067398,
         "gp:id":796871,
-        "qs:id":1267772,
         "qs_pg:id":1267772,
         "wd:id":"Q2556776",
         "wk:page":"Protivanov"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101827421,
-    "wof:lastmodified":1563247264,
+    "wof:lastmodified":1566710567,
     "wof:name":"Protivanov",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

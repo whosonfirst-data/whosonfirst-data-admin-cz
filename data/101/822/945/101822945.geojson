@@ -5,16 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
+    "geom:area_square_m":1315432.528697,
     "geom:bbox":"15.6525940371,50.5879159151,15.6657123666,50.6440863918",
     "geom:latitude":50.617324,
     "geom:longitude":15.659181,
     "iso:country":"CZ",
     "lbl:latitude":50.619381,
     "lbl:longitude":15.658187,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.619381,
     "mps:longitude":15.658187,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Mittel Langenau"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -34,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -44,7 +49,9 @@
     "wof:concordances":{
         "gn:id":3062596,
         "gp:id":789777,
-        "qs:id":400168,
+        "qs_pg:id":400168
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1013409
     },
     "wof:country":"CZ",
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":101822945,
-    "wof:lastmodified":1497300333,
+    "wof:lastmodified":1566710647,
     "wof:name":"Prost\u0159edn\u00ed L\u00e1nov",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

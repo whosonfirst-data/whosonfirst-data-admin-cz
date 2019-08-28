@@ -10,8 +10,10 @@
     "geom:latitude":48.981423,
     "geom:longitude":14.467654,
     "iso:country":"CZ",
+    "lbl:bbox":"14.462654,48.976423,14.472654,48.986423",
     "lbl:latitude":48.981423,
     "lbl:longitude":14.467654,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.989531,
     "mps:longitude":14.462707,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "name:cze_x_colloquial":[
         "Ctyi Dvory",
         "Ctyri Dvory"
-    ],
-    "name:unk_x_variant":[
-        "\u010ctyi Dvory"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -62,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748103,
@@ -88,7 +87,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772299,
+    "wof:lastmodified":1566710196,
     "wof:name":"\u010ctyi Dvory",
     "wof:parent_id":101748103,
     "wof:placetype":"neighbourhood",

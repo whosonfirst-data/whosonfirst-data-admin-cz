@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.849484,
     "lbl:longitude":16.090506,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.849484,
     "mps:longitude":16.090506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0628\u0634\u06cc\u062a\u0633\u0647"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Dob\u0161ice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klein Tesswitz"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":3076984,
         "gp:id":788299,
-        "qs:id":145477,
         "qs_pg:id":145477,
         "wd:id":"Q929919",
         "wk:page":"Dob\u0161ice (Znojmo District)"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101832015,
-    "wof:lastmodified":1563247356,
+    "wof:lastmodified":1566710581,
     "wof:name":"Dob\u0161ice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

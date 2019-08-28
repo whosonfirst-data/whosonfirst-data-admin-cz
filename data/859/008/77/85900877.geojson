@@ -12,8 +12,10 @@
     "gn:latitude":49.60793,
     "gn:longitude":17.23291,
     "iso:country":"CZ",
+    "lbl:bbox":"17.220506,49.613237,17.230506,49.623237",
     "lbl:latitude":49.618237,
     "lbl:longitude":17.225506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.621603,
     "mps:longitude":17.224817,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     ],
     "name:cze_x_variant":[
         "\u00d8ep\u00e8\u00edn"
-    ],
-    "name:unk_x_variant":[
-        "\u0158ep\u010d\u00edn"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -79,7 +78,6 @@
     "wof:concordances":{
         "gn:id":3066923,
         "gp:id":797305,
-        "qs:id":963081,
         "qs_pg:id":963081
     },
     "wof:country":"CZ",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772292,
+    "wof:lastmodified":1566710189,
     "wof:name":"\u0158ep\u010d\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

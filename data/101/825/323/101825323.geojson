@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.008519,
     "lbl:longitude":16.627507,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.008519,
     "mps:longitude":16.627507,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Byst\u0159ec"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Byst\u0159ec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Waltersdorf"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3078303,
         "gp:id":787137,
-        "qs:id":1043098,
         "qs_pg:id":1043098,
         "wd:id":"Q2309376",
         "wk:page":"Byst\u0159ec"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101825323,
-    "wof:lastmodified":1563247691,
+    "wof:lastmodified":1566710632,
     "wof:name":"Byst\u0159ec",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

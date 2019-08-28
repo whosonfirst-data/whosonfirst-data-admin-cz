@@ -12,8 +12,10 @@
     "gn:latitude":50.74301,
     "gn:longitude":15.16938,
     "iso:country":"CZ",
+    "lbl:bbox":"15.162417,50.724586,15.172417,50.734586",
     "lbl:latitude":50.729586,
     "lbl:longitude":15.167417,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.731294,
     "mps:longitude":15.157678,
     "mz:hierarchy_label":0,
@@ -35,9 +37,8 @@
         "Grunwald",
         "Grunwald an der Neisse"
     ],
-    "name:unk_x_variant":[
-        "Gr\u00fcnwald an der Neisse",
-        "M\u0161eno nad Nisou"
+    "name:und_x_variant":[
+        "Gr\u00fcnwald an der Neisse"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -69,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101822991,
@@ -80,7 +81,6 @@
     "wof:concordances":{
         "gn:id":3070222,
         "gp:id":794319,
-        "qs:id":1116038,
         "qs_pg:id":1116038
     },
     "wof:country":"CZ",
@@ -98,7 +98,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772285,
+    "wof:lastmodified":1566710181,
     "wof:name":"M\u0161eno nad Nisou",
     "wof:parent_id":101822991,
     "wof:placetype":"neighbourhood",

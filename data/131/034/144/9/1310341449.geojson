@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.2818,49.42929,16.3218,49.46929",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u043d\u0449\u0435\u0439\u043d"
     ],
@@ -60,8 +64,7 @@
         "\u0417\u0430\u043c\u043e\u043a \u041f\u0435\u0440\u043d\u0448\u0442\u0435\u0439\u043d"
     ],
     "name:und_x_variant":[
-        "Pernstein",
-        "Pern\u0161tejn"
+        "Pernstein"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1310341449,
-    "wof:lastmodified":1564102072,
+    "wof:lastmodified":1566710528,
     "wof:name":"Pernstejn",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

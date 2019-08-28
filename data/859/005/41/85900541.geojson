@@ -12,8 +12,10 @@
     "gn:latitude":49.15263,
     "gn:longitude":16.65562,
     "iso:country":"CZ",
+    "lbl:bbox":"16.646291,49.152909,16.656291,49.162909",
     "lbl:latitude":49.157909,
     "lbl:longitude":16.651291,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.158357,
     "mps:longitude":16.65039,
     "mz:hierarchy_label":0,
@@ -46,10 +48,6 @@
     "name:slk_x_preferred":[
         "Brn\u011bnsk\u00e9 Ivanovice"
     ],
-    "name:unk_x_variant":[
-        "Nennowitz",
-        "Brn\u011bnsk\u00e9 Ivanovice"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3078610,
@@ -79,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748109,
@@ -90,7 +88,6 @@
     "wof:concordances":{
         "gn:id":3078619,
         "gp:id":786861,
-        "qs:id":883871,
         "qs_pg:id":883871,
         "wd:id":"Q11343404"
     },
@@ -109,7 +106,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772298,
+    "wof:lastmodified":1566710196,
     "wof:name":"Brn\u011bnsk\u00e9 Ivanovice",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

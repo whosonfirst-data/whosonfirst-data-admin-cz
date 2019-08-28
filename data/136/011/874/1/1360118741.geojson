@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.94534,49.11208,14.98534,49.15208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0443\u043a"
     ],
@@ -78,8 +82,7 @@
         "\u0411\u0443\u043a"
     ],
     "name:und_x_variant":[
-        "Buchen",
-        "Buk"
+        "Buchen"
     ],
     "name:vie_x_preferred":[
         "Buk"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1360118741,
-    "wof:lastmodified":1564102120,
+    "wof:lastmodified":1566710547,
     "wof:name":"Buk",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

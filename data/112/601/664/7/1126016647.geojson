@@ -9,15 +9,18 @@
     "geom:bbox":"13.98126,49.85318,13.98126,49.85318",
     "geom:latitude":49.85318,
     "geom:longitude":13.98126,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1085,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1085,
     "iso:country":"CZ",
+    "lbl:bbox":"13.96126,49.83318,14.00126,49.87318",
     "lbl:latitude":49.85318,
     "lbl:longitude":13.98126,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0644\u0648\u062e\u0648\u0648\u06cc\u062a\u0633\u0647"
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Lochovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lochowitz"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":793061,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1126016647,
-    "wof:lastmodified":1563250216,
+    "wof:lastmodified":1566711063,
     "wof:name":"Lochovice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

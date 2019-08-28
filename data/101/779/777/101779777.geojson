@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.271993,
     "lbl:longitude":13.82787,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.271993,
     "mps:longitude":13.82787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Katovice"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Katovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Katowitz"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3073754,
         "gp:id":791180,
-        "qs:id":1043045,
         "qs_pg:id":1043045,
         "wd:id":"Q1088443",
         "wk:page":"Katovice (Strakonice District)"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101779777,
-    "wof:lastmodified":1563247425,
+    "wof:lastmodified":1566710591,
     "wof:name":"Katovice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

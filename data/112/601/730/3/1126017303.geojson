@@ -9,15 +9,18 @@
     "geom:bbox":"16.25679,49.02204,16.25679,49.02204",
     "geom:latitude":49.02204,
     "geom:longitude":16.25679,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":677,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":677,
     "iso:country":"CZ",
+    "lbl:bbox":"16.23679,49.00204,16.27679,49.04204",
     "lbl:latitude":49.02204,
     "lbl:longitude":16.25679,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0645\u06cc\u0633\u0644\u06cc\u062a\u0633\u0647"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "V\u00e9myslice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weimisslitz"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":800628,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1126017303,
-    "wof:lastmodified":1563250133,
+    "wof:lastmodified":1566711051,
     "wof:name":"V\u00e9myslice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

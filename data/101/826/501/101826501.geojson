@@ -9,17 +9,19 @@
     "geom:bbox":"12.9705476287,49.7098348417,12.9927701671,49.7178472736",
     "geom:latitude":49.714227,
     "geom:longitude":12.981867,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1419,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1419,
     "iso:country":"CZ",
     "lbl:latitude":49.714714,
     "lbl:longitude":12.982624,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.714714,
     "mps:longitude":12.982624,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kladruby"
     ],
@@ -80,7 +82,7 @@
     "name:tat_x_preferred":[
         "\u041a\u043b\u0430\u0434\u0440\u0443\u0431\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kladrau"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -133,7 +135,6 @@
     "wof:concordances":{
         "gn:id":3073691,
         "gp:id":791238,
-        "qs:id":480910,
         "qs_pg:id":182909,
         "wd:id":"Q1744198",
         "wk:page":"Kladruby (Tachov District)"
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":101826501,
-    "wof:lastmodified":1563247316,
+    "wof:lastmodified":1566710575,
     "wof:name":"Kladruby",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

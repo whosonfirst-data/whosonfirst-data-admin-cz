@@ -12,8 +12,10 @@
     "gn:latitude":49.65667,
     "gn:longitude":18.35309,
     "iso:country":"CZ",
+    "lbl:bbox":"18.353404,49.657941,18.363404,49.667941",
     "lbl:latitude":49.662941,
     "lbl:longitude":18.358404,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.653806,
     "mps:longitude":18.349855,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ces_x_preferred":[
-        "Bahno"
-    ],
-    "name:unk_x_variant":[
         "Bahno"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748127,
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3079690,
         "gp:id":785920,
-        "qs:id":397249,
         "qs_pg:id":397249
     },
     "wof:country":"CZ",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772299,
+    "wof:lastmodified":1566710197,
     "wof:name":"Bahno",
     "wof:parent_id":101748127,
     "wof:placetype":"neighbourhood",

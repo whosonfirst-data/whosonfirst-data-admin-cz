@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.285732,
     "lbl:longitude":17.096026,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.285732,
     "mps:longitude":17.096026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u067e\u0646\u0646\u0627"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "V\u00e1penn\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Setzdorf"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3063385,
         "gp:id":800396,
-        "qs:id":1042965,
         "qs_pg:id":1042965,
         "wd:id":"Q775829",
         "wk:page":"V\u00e1penn\u00e1"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101824165,
-    "wof:lastmodified":1563247553,
+    "wof:lastmodified":1566710610,
     "wof:name":"V\u00e1penn\u00e1",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

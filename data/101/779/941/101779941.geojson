@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.164164,
     "lbl:longitude":16.788055,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.164164,
     "mps:longitude":16.788055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0644\u0627\u0698\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":72,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":3079220,
         "gp:id":786320,
-        "qs:id":145531,
         "qs_pg:id":145531,
         "wd:id":"Q883280",
         "wk:page":"Bla\u017eovice"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101779941,
-    "wof:lastmodified":1563247420,
+    "wof:lastmodified":1566710590,
     "wof:name":"Bla\u017eovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

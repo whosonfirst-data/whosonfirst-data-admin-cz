@@ -10,8 +10,10 @@
     "geom:latitude":49.827944,
     "geom:longitude":18.356454,
     "iso:country":"CZ",
+    "lbl:bbox":"18.351454,49.822944,18.361454,49.832944",
     "lbl:latitude":49.827944,
     "lbl:longitude":18.356454,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.82824,
     "mps:longitude":18.358374,
     "mz:hierarchy_label":0,
@@ -72,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":203,
     "wof:belongsto":[
         102191581,
@@ -99,7 +101,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772284,
+    "wof:lastmodified":1566710180,
     "wof:name":"Mich\u00e1lkovice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

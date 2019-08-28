@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.354792,
     "lbl:longitude":16.152531,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.354792,
     "mps:longitude":16.152531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Nov\u00e9 M\u011bsto nad Metuj\u00ed"
     ],
@@ -92,7 +95,7 @@
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u0435-\u041c\u0435\u0441\u0442\u043e-\u043d\u0430\u0434-\u041c\u0435\u0442\u0443\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neustadt an der Mettau"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":293,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
     "wof:concordances":{
         "gn:id":3069466,
         "gp:id":795027,
-        "qs:id":1220659,
         "qs_pg:id":1220659,
         "wd:id":"Q1019675",
         "wk:page":"Nov\u00e9 M\u011bsto nad Metuj\u00ed"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101824235,
-    "wof:lastmodified":1563247536,
+    "wof:lastmodified":1566710608,
     "wof:name":"Nov\u00e9 M\u011bsto nad Metuj\u00ed",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

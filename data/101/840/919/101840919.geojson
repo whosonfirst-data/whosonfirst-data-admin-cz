@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.874877,
     "lbl:longitude":18.257485,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.874877,
     "mps:longitude":18.257485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Pet\u0159kovice"
     ],
@@ -37,7 +40,7 @@
     "name:slk_x_preferred":[
         "Pet\u0159kovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petershofen"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -54,7 +57,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3068387,
         "gp:id":795970,
-        "qs:id":2699,
+        "qs_pg:id":2699,
         "wd:id":"Q3509601"
     },
     "wof:country":"CZ",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101840919,
-    "wof:lastmodified":1563247625,
+    "wof:lastmodified":1566710622,
     "wof:name":"Pet\u0159kovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

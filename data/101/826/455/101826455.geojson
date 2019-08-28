@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.687014,
     "lbl:longitude":13.665294,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.687014,
     "mps:longitude":13.665294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Miro\u0161ov"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u041c\u0438\u0440\u043e\u0448\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mir\u00f6schau"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -125,10 +128,12 @@
     "wof:concordances":{
         "gn:id":3070586,
         "gp:id":793994,
-        "qs:id":1043023,
         "qs_pg:id":399433,
         "wd:id":"Q959574",
         "wk:page":"Miro\u0161ov (Rokycany District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043023
     },
     "wof:country":"CZ",
     "wof:geomhash":"21172bdaac167e63cd7d2d336b1be870",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101826455,
-    "wof:lastmodified":1563247295,
+    "wof:lastmodified":1566710572,
     "wof:name":"Miro\u0161ov",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

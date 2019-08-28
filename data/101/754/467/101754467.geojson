@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
+    "geom:area_square_m":660536.439392,
     "geom:bbox":"17.9369331634,49.9297334137,17.9492110158,49.943842808",
     "geom:latitude":49.937617,
     "geom:longitude":17.943678,
     "iso:country":"CZ",
     "lbl:latitude":49.937953,
     "lbl:longitude":17.943259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.937953,
     "mps:longitude":17.943259,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Regi\u00f3 de Hlu\u010d\u00edn"
     ],
@@ -41,7 +46,7 @@
     "name:rus_x_preferred":[
         "\u0413\u043b\u0443\u0447\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klein Hosch\u00fctz"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -58,7 +63,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -68,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3071184,
         "gp:id":793449,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"CZ",
     "wof:geomhash":"483113794eca827299b982ebff289a7d",
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":101754467,
-    "wof:lastmodified":1501265245,
+    "wof:lastmodified":1566710566,
     "wof:name":"Mal\u00e9 Ho\u0161tice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

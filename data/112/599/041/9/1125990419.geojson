@@ -9,15 +9,18 @@
     "geom:bbox":"15.95096,50.66459,15.95096,50.66459",
     "geom:latitude":50.66459,
     "geom:longitude":15.95096,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":454,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":454,
     "iso:country":"CZ",
+    "lbl:bbox":"15.93096,50.64459,15.97096,50.68459",
     "lbl:latitude":50.66459,
     "lbl:longitude":15.95096,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0644\u0627\u0645\u067e\u0631\u062a\u06cc\u062a\u0633\u0647"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Lampertice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lampersdorf"
     ],
     "name:urd_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":792411,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125990419,
-    "wof:lastmodified":1563249510,
+    "wof:lastmodified":1566710946,
     "wof:name":"Lampertice",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

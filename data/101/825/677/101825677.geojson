@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.907364,
     "lbl:longitude":14.586493,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.907364,
     "mps:longitude":14.586493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0645\u0646\u06cc\u062a\u0633\u0647"
     ],
@@ -92,7 +95,7 @@
     "name:swe_x_preferred":[
         "Kamenice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamenitz"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":97,
     "wof:belongsto":[
@@ -126,9 +129,11 @@
     "wof:concordances":{
         "gn:id":3073947,
         "gp:id":791023,
-        "qs:id":145427,
-        "qs_pg:id":381874,
+        "qs_pg:id":145427,
         "wd:id":"Q2668551"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":381874
     },
     "wof:country":"CZ",
     "wof:geomhash":"1ca83edffef00268e9cd0b20e68ae59f",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101825677,
-    "wof:lastmodified":1563247741,
+    "wof:lastmodified":1566710640,
     "wof:name":"Kamenice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

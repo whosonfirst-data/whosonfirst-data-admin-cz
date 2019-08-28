@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.665395,
     "lbl:longitude":13.833363,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.665395,
     "mps:longitude":13.833363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u067e\u0631\u0648\u0628\u0648\u0634\u062a\u0648\u0648"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Probo\u0161tov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Probstau"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":26,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3067461,
         "gp:id":796810,
-        "qs:id":145306,
         "qs_pg:id":145306,
         "wd:id":"Q2111618",
         "wk:page":"Probo\u0161tov"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101754481,
-    "wof:lastmodified":1563247255,
+    "wof:lastmodified":1566710565,
     "wof:name":"Probo\u0161tov",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

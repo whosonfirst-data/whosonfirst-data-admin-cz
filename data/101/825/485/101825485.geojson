@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.568897,
     "lbl:longitude":18.220453,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.568897,
     "mps:longitude":18.220453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062a\u06cc\u062e\u0627"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Tich\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tichau"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":75,
     "wof:belongsto":[
@@ -105,10 +108,12 @@
     "wof:concordances":{
         "gn:id":3064227,
         "gp:id":799652,
-        "qs:id":145258,
-        "qs_pg:id":381978,
+        "qs_pg:id":145258,
         "wd:id":"Q2469547",
         "wk:page":"Tich\u00e1"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":381978
     },
     "wof:country":"CZ",
     "wof:geomhash":"0391cbb3c29773420b3cd2f8e84768c3",
@@ -121,7 +126,7 @@
         }
     ],
     "wof:id":101825485,
-    "wof:lastmodified":1563247652,
+    "wof:lastmodified":1566710627,
     "wof:name":"Tich\u00e1",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

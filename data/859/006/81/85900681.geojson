@@ -12,8 +12,10 @@
     "gn:latitude":49.94536,
     "gn:longitude":17.92131,
     "iso:country":"CZ",
+    "lbl:bbox":"17.898749,49.933726,17.908749,49.943726",
     "lbl:latitude":49.938726,
     "lbl:longitude":17.903749,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.943955,
     "mps:longitude":17.910041,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
     ],
     "name:pol_x_preferred":[
         "Kate\u0159inky"
-    ],
-    "name:unk_x_variant":[
-        "Katharein",
-        "Katerinky"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -71,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748117,
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":3073760,
         "gp:id":791174,
-        "qs:id":904813,
         "qs_pg:id":904813
     },
     "wof:country":"CZ",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772294,
+    "wof:lastmodified":1566710191,
     "wof:name":"Katerinky",
     "wof:parent_id":101748117,
     "wof:placetype":"neighbourhood",

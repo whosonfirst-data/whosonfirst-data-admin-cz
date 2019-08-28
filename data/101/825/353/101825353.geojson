@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.959168,
     "lbl:longitude":12.70161,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.959168,
     "mps:longitude":12.70161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Mari\u00ebnbad"
     ],
@@ -149,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u0430\u043d\u0441\u044c\u043a\u0456 \u041b\u0430\u0437\u043d\u0456"
     ],
-    "name:unk_x_variant":[
-        "Marienbad"
-    ],
     "name:vie_x_preferred":[
         "Mari\u00e1nsk\u00e9 L\u00e1zn\u011b"
     ],
@@ -174,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1349,
     "wof:belongsto":[
@@ -187,7 +187,6 @@
         "fct:id":"06f8327c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3071024,
         "gp:id":793598,
-        "qs:id":181688,
         "qs_pg:id":181688,
         "wd:id":"Q523469",
         "wk:page":"Mari\u00e1nsk\u00e9 L\u00e1zn\u011b"
@@ -206,7 +205,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247636,
+    "wof:lastmodified":1566710624,
     "wof:name":"Mari\u00e1nsk\u00e9 L\u00e1zn\u011b",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

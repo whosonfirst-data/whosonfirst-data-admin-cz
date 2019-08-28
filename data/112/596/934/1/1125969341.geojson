@@ -9,15 +9,18 @@
     "geom:bbox":"15.43769,49.64877,15.43769,49.64877",
     "geom:latitude":49.64877,
     "geom:longitude":15.43769,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":454,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":454,
     "iso:country":"CZ",
+    "lbl:bbox":"15.41769,49.62877,15.45769,49.66877",
     "lbl:latitude":49.64877,
     "lbl:longitude":15.43769,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u0627 \u0648\u0633 \u0648 \u0633\u0648\u06cc\u062a\u0644\u0647"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Nov\u00e1 Ves u Sv\u011btle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nov\u00e1 Ves"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +96,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":794939,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1125969341,
-    "wof:lastmodified":1564102719,
+    "wof:lastmodified":1566711002,
     "wof:name":"Nov\u00e1 Ves u Sv\u011btl\u00e9",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

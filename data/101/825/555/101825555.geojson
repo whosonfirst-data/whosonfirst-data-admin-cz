@@ -9,17 +9,19 @@
     "geom:bbox":"16.9066296053,49.7627397141,16.9540408957,49.7841617851",
     "geom:latitude":49.776013,
     "geom:longitude":16.926413,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9742,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":9742,
     "iso:country":"CZ",
     "lbl:latitude":49.776789,
     "lbl:longitude":16.926413,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.776789,
     "mps:longitude":16.926413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mohelnice"
     ],
@@ -86,7 +88,7 @@
     "name:tat_x_preferred":[
         "\u041c\u043e\u04bb\u0435\u043b\u043d\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00fcglitz"
     ],
     "name:vie_x_preferred":[
@@ -131,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -142,15 +144,14 @@
     "wof:concordances":{
         "gn:id":3070411,
         "gp:id":794156,
-        "qs:id":803008,
-        "qs_pg:id":1267155,
+        "qs_pg:id":803008,
         "wd:id":"Q587388",
         "wk:page":"Mohelnice (\u0160umperk District)"
     },
     "wof:concordances_alt":{
         "gn:id":3070409,
         "gp:id":794157,
-        "qs_pg:id":803008
+        "qs_pg:id":1267155
     },
     "wof:country":"CZ",
     "wof:geomhash":"d2ec6950afa4fe6502ef179498c7a149",
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":101825555,
-    "wof:lastmodified":1563247712,
+    "wof:lastmodified":1566710636,
     "wof:name":"Mohelnice",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

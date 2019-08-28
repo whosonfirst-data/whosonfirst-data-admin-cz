@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.063927,
     "lbl:longitude":15.118537,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.063927,
     "mps:longitude":15.118537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0644\u06cc\u0645"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Velim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Welim"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3063286,
         "gp:id":800482,
-        "qs:id":886038,
         "qs_pg:id":886038,
         "wd:id":"Q2361360",
         "wk:page":"Velim (Kol\u00edn District)"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101825735,
-    "wof:lastmodified":1563247718,
+    "wof:lastmodified":1566710637,
     "wof:name":"Velim",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

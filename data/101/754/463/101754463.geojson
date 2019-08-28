@@ -9,17 +9,19 @@
     "geom:bbox":"18.522327456,49.8886921471,18.56113139,49.909155208",
     "geom:latitude":49.898079,
     "geom:longitude":18.544355,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4874,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":4874,
     "iso:country":"CZ",
     "lbl:latitude":49.893898,
     "lbl:longitude":18.549155,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.893898,
     "mps:longitude":18.549155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u067e\u062a\u0631\u0648\u0648\u06cc\u062a\u0633\u0647 \u0648 \u06a9\u0627\u0631\u0648\u06cc\u0646\u0647"
     ],
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":992,
     "wof:belongsto":[
@@ -135,7 +137,6 @@
     "wof:concordances":{
         "gn:id":3068360,
         "gp:id":795991,
-        "qs:id":895793,
         "qs_pg:id":399938,
         "wd:id":"Q1374121",
         "wk:page":"Petrovice u Karvin\u00e9"
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":101754463,
-    "wof:lastmodified":1563247251,
+    "wof:lastmodified":1566710564,
     "wof:name":"Petrovice u Karvin\u00e9",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

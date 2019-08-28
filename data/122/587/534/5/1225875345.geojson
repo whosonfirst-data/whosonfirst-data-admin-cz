@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.53733,50.04037,14.57733,50.08037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Doln\u00ed M\u011bcholupy"
     ],
@@ -38,9 +42,6 @@
         "Doln\u00ed M\u011bcholupy"
     ],
     "name:slk_x_preferred":[
-        "Doln\u00ed M\u011bcholupy"
-    ],
-    "name:und_x_variant":[
         "Doln\u00ed M\u011bcholupy"
     ],
     "src:geom":"geonames",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1225875345,
-    "wof:lastmodified":1564103259,
+    "wof:lastmodified":1566711309,
     "wof:name":"Dolni Mecholupy",
     "wof:parent_id":85682437,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"14.85606,50.32706,14.85606,50.32706",
     "geom:latitude":50.32706,
     "geom:longitude":14.85606,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":429,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":429,
     "iso:country":"CZ",
+    "lbl:bbox":"14.83606,50.30706,14.87606,50.34706",
     "lbl:latitude":50.32706,
     "lbl:longitude":14.85606,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0647\u0648\u0631\u06a9\u06cc \u0646\u0627\u062f \u06cc\u06cc\u0632\u0631\u0648\u0648"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Horky nad Jizerou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Horka"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":789657,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125916539,
-    "wof:lastmodified":1563250057,
+    "wof:lastmodified":1566711036,
     "wof:name":"Horky nad Jizerou",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

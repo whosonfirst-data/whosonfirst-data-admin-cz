@@ -16,6 +16,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.105381,
     "lbl:longitude":14.571514,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.104725,
     "mps:longitude":14.580435,
     "mz:hierarchy_label":1,
@@ -69,9 +70,6 @@
     "name:swe_x_preferred":[
         "\u010cern\u00fd Most"
     ],
-    "name:unk_x_variant":[
-        "\u010cern\u00fd Most"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3067696,
@@ -114,7 +112,6 @@
     "wof:concordances":{
         "gn:id":6269470,
         "gp:id":22656729,
-        "qs:id":160471,
         "qs_pg:id":160471,
         "wd:id":"Q628212",
         "wk:page":"\u010cern\u00fd Most"
@@ -134,7 +131,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247485,
+    "wof:lastmodified":1566710185,
     "wof:name":"Cerny Most",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.524477,
     "lbl:longitude":18.752571,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.524477,
     "mps:longitude":18.752571,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0633\u062a\u06cc \u0648 \u06cc\u0627\u0628\u0644\u0648\u0646\u06a9\u0648\u0648\u0627"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Mosty u Jablunkova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mosty"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":750,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
         "fct:id":"070181c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3070271,
         "gp:id":794276,
-        "qs:id":1043018,
         "qs_pg:id":1043018,
         "wd:id":"Q1949570",
         "wk:page":"Mosty u Jablunkova"
@@ -128,7 +130,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247314,
+    "wof:lastmodified":1566710574,
     "wof:name":"Mosty u Jablunkova",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

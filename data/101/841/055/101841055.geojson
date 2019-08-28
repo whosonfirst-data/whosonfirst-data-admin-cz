@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.397003,
     "lbl:longitude":16.021947,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.397003,
     "mps:longitude":16.021947,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u010cesk\u00e1 Skalice"
     ],
@@ -108,7 +111,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         102191581,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":3071221,
         "gp:id":793420,
-        "qs:id":399268,
+        "qs_pg:id":399268,
         "wd:id":"Q341053"
     },
     "wof:country":"CZ",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101841055,
-    "wof:lastmodified":1563247474,
+    "wof:lastmodified":1566710599,
     "wof:name":"Mal\u00e1 Skalice",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

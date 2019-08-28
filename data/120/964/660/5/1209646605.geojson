@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"15.56802,49.67319,15.60802,49.71319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3071308
     },
     "wof:country":"CZ",
-    "wof:geomhash":"01af1546b1f9be5e53fb827d1df1dd39",
+    "wof:geomhash":"f94d0419cbb1f436d664c8f26db208b3",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209646605,
-    "wof:lastmodified":1536280715,
+    "wof:lastmodified":1566710358,
     "wof:name":"Lysa",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.588020000000002,
+    15.58802,
     49.69319,
-    15.588020000000002,
+    15.58802,
     49.69319
 ],
   "geometry": {"coordinates":[15.58802,49.69319],"type":"Point"}

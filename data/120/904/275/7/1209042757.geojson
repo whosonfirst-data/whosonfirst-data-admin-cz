@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.29667,49.58,14.33667,49.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3062183
     },
     "wof:country":"CZ",
-    "wof:geomhash":"772a8ab82e382b903a8ea3b6b95a5d84",
+    "wof:geomhash":"c1aa89434f188306eb2ad92732a9ddf6",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209042757,
-    "wof:lastmodified":1536299492,
+    "wof:lastmodified":1566710398,
     "wof:name":"Vyssi Brod",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.316670000000002,
+    14.31667,
     49.6,
-    14.316670000000002,
+    14.31667,
     49.6
 ],
   "geometry": {"coordinates":[14.31667,49.6],"type":"Point"}

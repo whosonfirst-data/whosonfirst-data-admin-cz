@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.154242,
     "lbl:longitude":16.878744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.154242,
     "mps:longitude":16.878744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0627\u0641\u0643\u0648\u0641 \u0623\u0648 \u0628\u0631\u0646\u0627"
     ],
@@ -177,7 +180,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":923,
     "wof:belongsto":[
@@ -189,7 +192,6 @@
     "wof:concordances":{
         "gn:id":3065824,
         "gp:id":798270,
-        "qs:id":1218889,
         "qs_pg:id":1218889,
         "wd:id":"Q193724",
         "wk:page":"Slavkov u Brna"
@@ -205,7 +207,7 @@
         }
     ],
     "wof:id":101779951,
-    "wof:lastmodified":1563247434,
+    "wof:lastmodified":1566710592,
     "wof:name":"Slavkov u Brna",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

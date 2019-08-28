@@ -9,14 +9,18 @@
     "geom:bbox":"16.34837,50.08701,16.34837,50.08701",
     "geom:latitude":50.08701,
     "geom:longitude":16.34837,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"16.32837,50.06701,16.36837,50.10701",
     "lbl:latitude":50.08701,
     "lbl:longitude":16.34837,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Litice nad Orlic\u00ed"
@@ -36,7 +40,7 @@
     "name:slk_x_preferred":[
         "Litice nad Orlic\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Litic"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -58,7 +62,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":793016,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"Pardubick\u00fd kraj",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1126002511,
-    "wof:lastmodified":1561772535,
+    "wof:lastmodified":1566711073,
     "wof:name":"Litice nad Orlic\u00ed",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

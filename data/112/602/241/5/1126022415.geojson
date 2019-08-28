@@ -9,14 +9,18 @@
     "geom:bbox":"15.1767,49.02454,15.1767,49.02454",
     "geom:latitude":49.02454,
     "geom:longitude":15.1767,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"15.1567,49.00454,15.1967,49.04454",
     "lbl:latitude":49.02454,
     "lbl:longitude":15.1767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u06a9\u0644\u0627\u0634\u062a\u0631"
@@ -63,7 +67,7 @@
     "name:srp_x_preferred":[
         "\u041a\u043b\u0430\u0448\u0442\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kloster"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +94,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":791251,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1126022415,
-    "wof:lastmodified":1564102364,
+    "wof:lastmodified":1566710813,
     "wof:name":"Kl\u00e1\u0161ter",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

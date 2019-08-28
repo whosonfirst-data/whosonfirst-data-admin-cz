@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.95887,
     "lbl:longitude":17.968017,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.95887,
     "mps:longitude":17.968017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chlebi\u010dov"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3077828,
         "gp:id":787538,
-        "qs:id":1246360,
         "qs_pg:id":1246360,
         "wd:id":"Q2202538",
         "wk:page":"Chlebi\u010dov"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101825477,
-    "wof:lastmodified":1563247658,
+    "wof:lastmodified":1566710628,
     "wof:name":"Chlebi\u010dov",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

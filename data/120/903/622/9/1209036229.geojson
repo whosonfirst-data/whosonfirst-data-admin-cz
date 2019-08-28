@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.19762,49.30942,14.23762,49.34942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3077573
     },
     "wof:country":"CZ",
-    "wof:geomhash":"a8e0abda14e810c4d0804ddc32c3ae01",
+    "wof:geomhash":"26082f807fd939e76f23083d939d7fba",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209036229,
-    "wof:lastmodified":1536299691,
+    "wof:lastmodified":1566710396,
     "wof:name":"Chrastiny",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.217620000000002,
+    14.21762,
     49.32942,
-    14.217620000000002,
+    14.21762,
     49.32942
 ],
   "geometry": {"coordinates":[14.21762,49.32942],"type":"Point"}

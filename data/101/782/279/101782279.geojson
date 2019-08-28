@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.664646,
     "lbl:longitude":14.16691,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.664646,
     "mps:longitude":14.16691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0440\u0439\u043c\u0431\u0443\u0440\u043a"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -117,10 +120,12 @@
         "fct:id":"06f732fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3061581,
         "gp:id":802007,
-        "qs:id":1220621,
         "qs_pg:id":1140199,
         "wd:id":"Q164536",
         "wk:page":"Frymburk (\u010cesk\u00fd Krumlov District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1220621
     },
     "wof:country":"CZ",
     "wof:geomhash":"318f227860a56c7f8d7e9a9c296c0b3e",
@@ -136,7 +141,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247369,
+    "wof:lastmodified":1566710583,
     "wof:name":"Frymburk",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

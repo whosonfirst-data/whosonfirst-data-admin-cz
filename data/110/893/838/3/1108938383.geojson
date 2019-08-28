@@ -10,8 +10,10 @@
     "geom:latitude":50.03702,
     "geom:longitude":14.643334,
     "iso:country":"CZ",
+    "lbl:bbox":"14.6383337374,50.0320195161,14.6483337374,50.0420195161",
     "lbl:latitude":50.03702,
     "lbl:longitude":14.643334,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -39,7 +41,7 @@
     "name:slk_x_preferred":[
         "Kr\u00e1lovice"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1108938383,
-    "wof:lastmodified":1561772339,
+    "wof:lastmodified":1566710480,
     "wof:name":"Kralovice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

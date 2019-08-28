@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.987436,
     "lbl:longitude":16.397811,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.987436,
     "mps:longitude":16.397811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0644\u0628\u0631\u0627\u0645\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -86,7 +89,7 @@
     "name:swe_x_preferred":[
         "Olbramovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wolframitz"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":3069082,
         "gp:id":795366,
-        "qs:id":344668,
         "qs_pg:id":344668,
         "wd:id":"Q303907",
         "wk:page":"Olbramovice (Znojmo District)"
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":101781127,
-    "wof:lastmodified":1563247832,
+    "wof:lastmodified":1566710654,
     "wof:name":"Olbramovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

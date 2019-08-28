@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":49.88233,
     "lbl:longitude":15.377705,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":49.88233,
     "mps:longitude":15.377705,
     "mz:categories":[],
@@ -1156,17 +1158,8 @@
         "Tekkland",
         "Tsechia"
     ],
-    "name:und_x_preferred":[
-        "T\u00e9kkland"
-    ],
     "name:und_x_variant":[
-        "Czechy",
-        "Republika Czeska",
-        "Tjekkiet",
         "Tsech\u00eda",
-        "Tsjekkia"
-    ],
-    "name:unk_x_variant":[
         "Czech Socialist Republic"
     ],
     "name:urd_x_preferred":[
@@ -1327,7 +1320,7 @@
         "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"420",
     "statoids:ds":"CZ",
@@ -1373,7 +1366,7 @@
         "mzb:id":"czech-republic",
         "ne:adm0_a3":"CZE",
         "nyt:id":9223372036854775807,
-        "qs:id":374798,
+        "qs_pg:id":374798,
         "uncrt:id":"CZ",
         "wd:id":"Q213",
         "wk:page":"Czech Republic",
@@ -1395,7 +1388,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1565671026,
+    "wof:lastmodified":1566710197,
     "wof:name":"Czech Republic",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

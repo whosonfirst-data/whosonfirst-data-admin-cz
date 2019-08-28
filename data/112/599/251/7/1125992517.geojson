@@ -9,15 +9,18 @@
     "geom:bbox":"16.17484,49.49444,16.17484,49.49444",
     "geom:latitude":49.49444,
     "geom:longitude":16.17484,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":628,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":628,
     "iso:country":"CZ",
+    "lbl:bbox":"16.15484,49.47444,16.19484,49.51444",
     "lbl:latitude":49.49444,
     "lbl:longitude":16.17484,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0632\u0648\u0648\u0644\u0647"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Zvole"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zwola"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +101,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":802267,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1125992517,
-    "wof:lastmodified":1563249530,
+    "wof:lastmodified":1566710949,
     "wof:name":"Zvole",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

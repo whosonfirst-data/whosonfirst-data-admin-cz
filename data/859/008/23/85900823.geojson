@@ -12,8 +12,10 @@
     "gn:latitude":49.25,
     "gn:longitude":16.48333,
     "iso:country":"CZ",
+    "lbl:bbox":"16.456192,49.250638,16.466192,49.260638",
     "lbl:latitude":49.255638,
     "lbl:longitude":16.461192,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.25705,
     "mps:longitude":16.462767,
     "mz:hierarchy_label":0,
@@ -58,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u043e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Obora"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3078610,
@@ -90,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -101,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3069202,
         "gp:id":795261,
-        "qs:id":287225,
         "qs_pg:id":287225
     },
     "wof:country":"CZ",
@@ -119,7 +117,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1564101251,
+    "wof:lastmodified":1566710189,
     "wof:name":"Obora",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

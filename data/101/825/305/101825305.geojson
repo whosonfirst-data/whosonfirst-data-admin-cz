@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.034298,
     "lbl:longitude":15.41786,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.034298,
     "mps:longitude":15.41786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chvaletice"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0425\u0432\u0430\u043b\u0435\u0442\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chavaletice"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":208,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":3077501,
         "gp:id":787834,
-        "qs:id":937319,
         "qs_pg:id":937319,
         "wd:id":"Q1028241",
         "wk:page":"Chvaletice"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101825305,
-    "wof:lastmodified":1563247723,
+    "wof:lastmodified":1566710637,
     "wof:name":"Chvaletice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

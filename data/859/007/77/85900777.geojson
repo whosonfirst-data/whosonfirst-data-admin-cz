@@ -11,8 +11,10 @@
     "geom:longitude":16.568811,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"16.563811,49.229759,16.573811,49.239759",
     "lbl:latitude":49.234759,
     "lbl:longitude":16.568811,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.243328,
     "mps:longitude":16.567031,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:slk_x_preferred":[
         "Brno-Medl\u00e1nky"
     ],
-    "name:unk_x_variant":[
-        "Brno-Medl\u00e1nky"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
     "qs:gn_local":3078610,
@@ -80,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -89,7 +88,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":793716,
-        "qs:id":240529,
         "qs_pg:id":240529,
         "wd:id":"Q11341889"
     },
@@ -108,7 +106,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246373,
+    "wof:lastmodified":1566710181,
     "wof:name":"Brno-Medl\u00e1nky",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

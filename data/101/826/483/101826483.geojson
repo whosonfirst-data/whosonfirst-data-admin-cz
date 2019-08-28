@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.731307,
     "lbl:longitude":13.760635,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.731307,
     "mps:longitude":13.760635,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u062a\u0631\u0627\u0634\u06cc\u062a\u0633\u0647"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Stra\u0161ice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Straschitz"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -111,10 +114,12 @@
     "wof:concordances":{
         "gn:id":3065034,
         "gp:id":798977,
-        "qs:id":882077,
-        "qs_pg:id":1268282,
+        "qs_pg:id":882077,
         "wd:id":"Q1935879",
         "wk:page":"Stra\u0161ice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1268282
     },
     "wof:country":"CZ",
     "wof:geomhash":"680f622c94e076dcbb5afc90f641f419",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":101826483,
-    "wof:lastmodified":1563247287,
+    "wof:lastmodified":1566710570,
     "wof:name":"Stra\u0161ice",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

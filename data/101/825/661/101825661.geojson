@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.159896,
     "lbl:longitude":14.827114,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.159896,
     "mps:longitude":14.827114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "P\u0159erov nad Labem"
     ],
@@ -89,7 +92,7 @@
     "name:tgk_x_preferred":[
         "\u041f\u0440\u0448\u0435\u0440\u043e\u0432 \u043d\u0430\u0434 \u041b\u0430\u0431\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alt-P\u0159erow"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":92,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3067577,
         "gp:id":796702,
-        "qs:id":876985,
         "qs_pg:id":876985,
         "wd:id":"Q163642",
         "wk:page":"P\u0159erov nad Labem"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101825661,
-    "wof:lastmodified":1563247682,
+    "wof:lastmodified":1566710631,
     "wof:name":"P\u0159erov nad Labem",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

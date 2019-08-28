@@ -11,12 +11,16 @@
     "geom:longitude":18.52518,
     "gn:population":1771,
     "iso:country":"CZ",
+    "lbl:bbox":"18.50518,49.796916,18.54518,49.836916",
     "lbl:latitude":49.816916,
     "lbl:longitude":18.52518,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.816916,
     "mps:longitude":18.52518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u062a\u0648\u0646\u0627\u0648\u0627"
     ],
@@ -80,9 +84,6 @@
     "name:swe_x_preferred":[
         "Stonava"
     ],
-    "name:unk_x_variant":[
-        "Stonawa"
-    ],
     "name:vie_x_preferred":[
         "Stonava"
     ],
@@ -103,7 +104,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":755,
     "wof:belongsto":[
@@ -115,7 +116,6 @@
     "wof:concordances":{
         "gn:id":3065098,
         "gp:id":798923,
-        "qs:id":758499,
         "qs_pg:id":758499,
         "wd:id":"Q2000659",
         "wk:page":"Stonava"
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":101863105,
-    "wof:lastmodified":1563247809,
+    "wof:lastmodified":1566710650,
     "wof:name":"Stonava",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"12.92124,50.07234,12.92124,50.07234",
     "geom:latitude":50.07234,
     "geom:longitude":12.92124,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":451,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":451,
     "iso:country":"CZ",
+    "lbl:bbox":"12.90124,50.05234,12.94124,50.09234",
     "lbl:latitude":50.07234,
     "lbl:longitude":12.92124,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0627\u0633\u0646\u0647 \u0648\u062f\u0648\u0644\u06cc"
@@ -82,7 +85,7 @@
     "name:tat_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0435-\u0423\u0434\u043e\u043b\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sch\u00f6nthal"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":791944,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1125833089,
-    "wof:lastmodified":1563250723,
+    "wof:lastmodified":1566711149,
     "wof:name":"Kr\u00e1sn\u00e9 \u00dadol\u00ed",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"13.89704,49.33319,13.89704,49.33319",
     "geom:latitude":49.33319,
     "geom:longitude":13.89704,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":251,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":251,
     "iso:country":"CZ",
+    "lbl:bbox":"13.87704,49.31319,13.91704,49.35319",
     "lbl:latitude":49.33319,
     "lbl:longitude":13.89704,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062e\u0631\u0627\u0634\u0633\u0648\u0648\u06cc\u062a\u0633\u0647"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Chr\u00e1\u0161\u0165ovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kraschtowitz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":787777,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1125851543,
-    "wof:lastmodified":1563250443,
+    "wof:lastmodified":1566711102,
     "wof:name":"Chr\u00e1\u0161\u0165ovice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

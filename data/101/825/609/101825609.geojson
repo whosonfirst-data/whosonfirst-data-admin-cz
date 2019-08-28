@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.720507,
     "lbl:longitude":17.090206,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.720507,
     "mps:longitude":17.090206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062a\u0634\u0631\u0648\u0646\u06a9\u0627"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":3077965,
         "gp:id":787422,
-        "qs:id":1265512,
         "qs_pg:id":1265512,
         "wd:id":"Q339735",
         "wk:page":"\u010cervenka (Olomouc District)"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101825609,
-    "wof:lastmodified":1563247758,
+    "wof:lastmodified":1566710643,
     "wof:name":"\u010cervenka",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"14.16667,49.50379,14.16667,49.50379",
     "geom:latitude":49.50379,
     "geom:longitude":14.16667,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"14.14667,49.48379,14.18667,49.52379",
     "lbl:latitude":49.50379,
     "lbl:longitude":14.16667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Star\u00e9 Sedlo"
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Star\u00e9 Sedlo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Altsattel"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -68,7 +72,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":798721,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1126006777,
-    "wof:lastmodified":1564102767,
+    "wof:lastmodified":1566711076,
     "wof:name":"Star\u00e9 Sedlo",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

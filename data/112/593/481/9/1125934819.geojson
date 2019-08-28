@@ -9,15 +9,18 @@
     "geom:bbox":"13.1722,50.4207,13.1722,50.4207",
     "geom:latitude":50.4207,
     "geom:longitude":13.1722,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":98,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":98,
     "iso:country":"CZ",
+    "lbl:bbox":"13.1522,50.4007,13.1922,50.4407",
     "lbl:latitude":50.4207,
     "lbl:longitude":13.1722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u0648\u0645\u0627\u0634\u06cc\u0646"
@@ -73,7 +76,7 @@
     "name:srp_x_preferred":[
         "\u0414\u043e\u043c\u0430\u0448\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tomitschan"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":788674,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1125934819,
-    "wof:lastmodified":1563248295,
+    "wof:lastmodified":1566710738,
     "wof:name":"Doma\u0161\u00edn",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

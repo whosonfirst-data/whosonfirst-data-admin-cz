@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.082669,
     "lbl:longitude":14.363869,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.081182,
     "mps:longitude":14.361719,
     "mz:hierarchy_label":1,
@@ -65,9 +66,8 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0436\u0435\u0432\u043d\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "B\u0159ewnow",
-        "B\u0159evnov"
+    "name:und_x_variant":[
+        "B\u0159ewnow"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -110,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3078748,
         "gp:id":786739,
-        "qs:id":221966,
         "qs_pg:id":221966,
         "wd:id":"Q2446033",
         "wk:page":"B\u0159evnov"
@@ -130,7 +129,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326110,
+    "wof:lastmodified":1566710194,
     "wof:name":"Brevnov",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

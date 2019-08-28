@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.510212,
     "lbl:longitude":17.522252,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.510212,
     "mps:longitude":17.522252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u06a9 \u0646\u0627\u062f \u0628\u062a\u0634\u0648\u0648\u0648"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Osek nad Be\u010dvou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Osek"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3068856,
         "gp:id":795560,
-        "qs:id":1161542,
         "qs_pg:id":1161542,
         "wd:id":"Q1782702",
         "wk:page":"Osek nad Be\u010dvou"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101826599,
-    "wof:lastmodified":1563247318,
+    "wof:lastmodified":1566710575,
     "wof:name":"Osek nad Be\u010dvou",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.679032,
     "lbl:longitude":18.620961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.679032,
     "mps:longitude":18.620961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Nebory"
     ],
@@ -29,9 +32,6 @@
         "Nebory"
     ],
     "name:pol_x_preferred":[
-        "Niebory"
-    ],
-    "name:unk_x_variant":[
         "Niebory"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -49,7 +49,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.666667,
     "wd:longitude":18.619444,
     "wd:wordcount":511,
@@ -62,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3069996,
         "gp:id":794510,
-        "qs:id":399555,
+        "qs_pg:id":399555,
         "wd:id":"Q3507168",
         "wk:page":"Nebory"
     },
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":101846681,
-    "wof:lastmodified":1563247503,
+    "wof:lastmodified":1566710603,
     "wof:name":"Nebory",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

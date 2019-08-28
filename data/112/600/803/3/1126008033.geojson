@@ -9,15 +9,18 @@
     "geom:bbox":"17.5008,49.95998,17.5008,49.95998",
     "geom:latitude":49.95998,
     "geom:longitude":17.5008,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":62,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":62,
     "iso:country":"CZ",
+    "lbl:bbox":"17.4808,49.93998,17.5208,49.97998",
     "lbl:latitude":49.95998,
     "lbl:longitude":17.5008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u0644\u0648\u0648\u0647\u0627 \u0633\u062a\u0631\u0627\u0646"
@@ -76,7 +79,7 @@
     "name:srp_x_preferred":[
         "\u0414\u043b\u043e\u0443\u0445\u0430 \u0421\u0442\u0440\u0430\u045a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Langenberg"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":788163,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1126008033,
-    "wof:lastmodified":1563250273,
+    "wof:lastmodified":1566711072,
     "wof:name":"Dlouh\u00e1 Str\u00e1\u0148",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

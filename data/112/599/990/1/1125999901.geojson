@@ -9,15 +9,18 @@
     "geom:bbox":"13.57958,49.01925,13.57958,49.01925",
     "geom:latitude":49.01925,
     "geom:longitude":13.57958,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":166,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":166,
     "iso:country":"CZ",
+    "lbl:bbox":"13.55958,48.99925,13.59958,49.03925",
     "lbl:latitude":49.01925,
     "lbl:longitude":13.57958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u0432\u0438\u043b\u0434\u0430"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Kvilda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aussergefild"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":792339,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125999901,
-    "wof:lastmodified":1563249505,
+    "wof:lastmodified":1566710945,
     "wof:name":"Kvilda",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.126442,
     "lbl:longitude":14.562447,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.12444,
     "mps:longitude":14.571562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Satalice"
     ],
@@ -54,9 +57,6 @@
     "name:swe_x_preferred":[
         "Satalice"
     ],
-    "name:unk_x_variant":[
-        "Satalitz"
-    ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Hlavn\u00ed mesto Praha",
     "qs:a1r":"0",
@@ -71,7 +71,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +83,7 @@
         "fct:id":"070b0988-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3066392,
         "gp:id":797775,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q3509354"
     },
     "wof:country":"CZ",
@@ -100,7 +100,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247250,
+    "wof:lastmodified":1566710564,
     "wof:name":"Satalice",
     "wof:parent_id":85682437,
     "wof:placetype":"locality",

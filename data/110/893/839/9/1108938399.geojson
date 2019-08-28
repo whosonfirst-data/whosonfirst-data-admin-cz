@@ -10,8 +10,10 @@
     "geom:latitude":50.064282,
     "geom:longitude":14.636925,
     "iso:country":"CZ",
+    "lbl:bbox":"14.6319250428,50.0592819726,14.6419250428,50.0692819726",
     "lbl:latitude":50.064282,
     "lbl:longitude":14.636925,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -48,7 +50,7 @@
     "name:slk_x_preferred":[
         "Kolod\u011bje"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1108938399,
-    "wof:lastmodified":1561772339,
+    "wof:lastmodified":1566710481,
     "wof:name":"Kolodeje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"18.5029283577,49.833949,18.5902546805,49.8894997846",
     "geom:latitude":49.858362,
     "geom:longitude":18.54581,
-    "geonames:id":"3073788,3073789",
+    "gn:id":"3073788,3073789",
     "iso:country":"CZ",
     "lbl:latitude":49.858047,
     "lbl:longitude":18.545783,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":49.858047,
     "mps:longitude":18.545783,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0641\u064a\u0646\u0627"
     ],
@@ -155,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0432\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Frysztat"
     ],
     "name:urd_x_preferred":[
@@ -186,7 +189,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":221.0,
     "wd:latitude":49.854167,
@@ -202,9 +205,11 @@
     "wof:concordances":{
         "gn:id":3073789,
         "gp:id":791149,
-        "qs:id":8,
-        "qs_pg:id":480921,
+        "qs_pg:id":8,
         "wd:id":"Q191793"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":480921
     },
     "wof:country":"CZ",
     "wof:geomhash":"c0909813cbc3d8539a40297ea4b2f5e5",
@@ -217,7 +222,7 @@
         }
     ],
     "wof:id":101748119,
-    "wof:lastmodified":1563247384,
+    "wof:lastmodified":1566710585,
     "wof:name":"Karvin\u00e1",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.088735,
     "lbl:longitude":15.026829,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.088735,
     "mps:longitude":15.026829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u0447\u043a\u0438"
     ],
@@ -80,7 +83,7 @@
     "name:tat_x_preferred":[
         "\u041f\u0435\u0447\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petschek"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":10,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":3068476,
         "gp:id":795892,
-        "qs:id":1225948,
         "qs_pg:id":1225948,
         "wd:id":"Q1813776",
         "wk:page":"Pe\u010dky"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101825745,
-    "wof:lastmodified":1563247772,
+    "wof:lastmodified":1566710645,
     "wof:name":"Pe\u010dky",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"14.73333,48.71667,14.73333,48.71667",
     "geom:latitude":48.71667,
     "geom:longitude":14.73333,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":91,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":91,
     "iso:country":"CZ",
+    "lbl:bbox":"14.71333,48.69667,14.75333,48.73667",
     "lbl:latitude":48.71667,
     "lbl:longitude":14.73333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u0647 \u0647\u0648\u062a\u06cc"
@@ -61,7 +64,7 @@
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u0435 \u0425\u0443\u0442\u0458\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neuh\u00fctten"
     ],
     "name:vie_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":94466,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125769135,
-    "wof:lastmodified":1564102779,
+    "wof:lastmodified":1566711089,
     "wof:name":"Nov\u00e9 Hut\u011b",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

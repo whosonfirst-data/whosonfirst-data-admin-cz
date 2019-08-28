@@ -9,15 +9,18 @@
     "geom:bbox":"16.72744,49.70926,16.72744,49.70926",
     "geom:latitude":49.70926,
     "geom:longitude":16.72744,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1502,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1502,
     "iso:country":"CZ",
+    "lbl:bbox":"16.70744,49.68926,16.74744,49.72926",
     "lbl:latitude":49.70926,
     "lbl:longitude":16.72744,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0633\u062a\u062a\u0634\u06a9\u0648 \u062a\u0631\u0646\u0627\u0648\u06a9\u0627"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "M\u011bste\u010dko Trn\u00e1vka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trn\u00e1vka"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":793775,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1125772813,
-    "wof:lastmodified":1564102838,
+    "wof:lastmodified":1566711138,
     "wof:name":"M\u011bste\u010dko Trn\u00e1vka",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

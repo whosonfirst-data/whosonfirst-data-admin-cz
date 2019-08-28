@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.752957,
     "lbl:longitude":16.380203,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.752957,
     "mps:longitude":16.380203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hevl\u00edn"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Hevl\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u00f6flein"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3075827,
         "gp:id":12605569,
-        "qs:id":145459,
         "qs_pg:id":145459,
         "wd:id":"Q954345",
         "wk:page":"Hevl\u00edn"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101782303,
-    "wof:lastmodified":1563247367,
+    "wof:lastmodified":1566710583,
     "wof:name":"Hevl\u00edn",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

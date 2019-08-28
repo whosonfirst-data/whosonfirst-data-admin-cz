@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"15.39812,49.35069,15.43812,49.39069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3076841
     },
     "wof:country":"CZ",
-    "wof:geomhash":"4020041c5d36d4bbfcd42d21f15cc8ef",
+    "wof:geomhash":"b7decb8e2c4ace7c847ea066aa409785",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209251687,
-    "wof:lastmodified":1536292984,
+    "wof:lastmodified":1566710378,
     "wof:name":"Dolni Hute",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.418120000000002,
+    15.41812,
     49.37069,
-    15.418120000000002,
+    15.41812,
     49.37069
 ],
   "geometry": {"coordinates":[15.41812,49.37069],"type":"Point"}

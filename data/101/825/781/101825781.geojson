@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.135791,
     "lbl:longitude":14.161353,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.135791,
     "mps:longitude":14.161353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0647\u0631\u0628\u062a\u0634"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3074853,
         "gp:id":790233,
-        "qs:id":212044,
         "qs_pg:id":212044,
         "wd:id":"Q2549285",
         "wk:page":"H\u0159ebe\u010d"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101825781,
-    "wof:lastmodified":1563247762,
+    "wof:lastmodified":1566710643,
     "wof:name":"H\u0159ebe\u010d",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

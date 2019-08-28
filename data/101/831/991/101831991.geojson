@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.988834,
     "lbl:longitude":17.330737,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.988834,
     "mps:longitude":17.330737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0631\u0627\u0648\u0633\u06a9\u06cc \u067e\u06cc\u0633\u06a9"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3070308,
         "gp:id":794241,
-        "qs:id":348436,
         "qs_pg:id":348436,
         "wd:id":"Q1785594",
         "wk:page":"Moravsk\u00fd P\u00edsek"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101831991,
-    "wof:lastmodified":1563247793,
+    "wof:lastmodified":1566710648,
     "wof:name":"Moravsk\u00fd P\u00edsek",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

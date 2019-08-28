@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.483544,
     "lbl:longitude":17.338087,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.483544,
     "mps:longitude":17.338087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Brodek u P\u0159erova"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Brodek u P\u0159erova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brodek"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3078584,
         "gp:id":786890,
-        "qs:id":876531,
         "qs_pg:id":876531,
         "wd:id":"Q924280",
         "wk:page":"Brodek u P\u0159erova"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101824161,
-    "wof:lastmodified":1563247519,
+    "wof:lastmodified":1566710606,
     "wof:name":"Brodek u P\u0159erova",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

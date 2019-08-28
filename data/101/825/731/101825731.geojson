@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.098482,
     "lbl:longitude":15.194198,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.098482,
     "mps:longitude":15.194198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0644\u06a9\u06cc \u0648\u0633\u06a9"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Velk\u00fd Osek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross Wosek"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3063141,
         "gp:id":800601,
-        "qs:id":342212,
         "qs_pg:id":342212,
         "wd:id":"Q2064029",
         "wk:page":"Velk\u00fd Osek"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101825731,
-    "wof:lastmodified":1563247644,
+    "wof:lastmodified":1566710625,
     "wof:name":"Velk\u00fd Osek",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

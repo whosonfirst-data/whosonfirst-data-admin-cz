@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.966591,
     "lbl:longitude":14.359657,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.966591,
     "mps:longitude":14.359657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mikul\u00e1\u0161ovice"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u041c\u0438\u043a\u0443\u043b\u0430\u0448\u043e\u0432\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nixdorf"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":123,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3070725,
         "gp:id":793867,
-        "qs:id":145355,
         "qs_pg:id":145355,
         "wd:id":"Q1756925",
         "wk:page":"Mikul\u00e1\u0161ovice"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101822961,
-    "wof:lastmodified":1563247786,
+    "wof:lastmodified":1566710647,
     "wof:name":"Mikul\u00e1\u0161ovice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

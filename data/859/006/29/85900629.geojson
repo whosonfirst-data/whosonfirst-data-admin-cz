@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.093414,
     "lbl:longitude":14.309663,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.101203,
     "mps:longitude":14.24297,
     "mz:hierarchy_label":1,
@@ -55,10 +56,6 @@
     ],
     "name:slk_x_preferred":[
         "Liboc"
-    ],
-    "name:unk_x_variant":[
-        "Liboc",
-        "Horn\u00ed Liboc"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -102,7 +99,6 @@
     "wof:concordances":{
         "gn:id":3075318,
         "gp:id":789794,
-        "qs:id":1140030,
         "qs_pg:id":1140030,
         "wd:id":"Q2216373"
     },
@@ -121,7 +117,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247482,
+    "wof:lastmodified":1566710190,
     "wof:name":"Horni Liboc",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

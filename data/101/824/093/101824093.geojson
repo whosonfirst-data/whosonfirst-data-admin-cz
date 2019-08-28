@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.306275,
     "lbl:longitude":12.949119,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.306275,
     "mps:longitude":12.949119,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432"
     ],
@@ -92,7 +95,7 @@
     "name:tat_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostrov nad Oh\u0159\u00ed"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -128,10 +131,12 @@
     "wof:concordances":{
         "gn:id":3068779,
         "gp:id":795633,
-        "qs:id":459790,
         "qs_pg:id":94458,
         "wd:id":"Q987487",
         "wk:page":"Ostrov (Karlovy Vary District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":459790
     },
     "wof:country":"CZ",
     "wof:geomhash":"267ef8a82da25dc93ed2523cdf81405b",
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":101824093,
-    "wof:lastmodified":1563247576,
+    "wof:lastmodified":1566710614,
     "wof:name":"Ostrov",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

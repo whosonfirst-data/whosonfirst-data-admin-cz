@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.754477,
     "lbl:longitude":12.996205,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.754477,
     "mps:longitude":12.996205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "St\u0159\u00edbro"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":414,
     "wof:belongsto":[
@@ -134,7 +137,6 @@
         "fct:id":"07041f1a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3064919,
         "gp:id":799068,
-        "qs:id":1085450,
         "qs_pg:id":1085450,
         "wd:id":"Q1008750",
         "wk:page":"St\u0159\u00edbro"
@@ -153,7 +155,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247337,
+    "wof:lastmodified":1566710578,
     "wof:name":"St\u0159\u00edbro",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

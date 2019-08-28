@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.104013,
     "lbl:longitude":14.554031,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.090601,
     "mps:longitude":14.538517,
     "mz:hierarchy_label":1,
@@ -55,9 +56,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0458\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Kyje"
     ],
     "name:vie_x_preferred":[
         "Kyje"
@@ -102,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3072412,
         "gp:id":792349,
-        "qs:id":271977,
         "qs_pg:id":271977
     },
     "wof:country":"CZ",
@@ -120,7 +117,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247482,
+    "wof:lastmodified":1566710181,
     "wof:name":"Kyje",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

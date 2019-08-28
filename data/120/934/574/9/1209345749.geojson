@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.71889,50.27438,17.75889,50.31438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Studnice"
     ],
@@ -58,8 +62,7 @@
     ],
     "name:und_x_variant":[
         "Stubendorf",
-        "\u0160tundorf",
-        "Studnice"
+        "\u0160tundorf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1209345749,
-    "wof:lastmodified":1564101781,
+    "wof:lastmodified":1566710408,
     "wof:name":"Studnice",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",

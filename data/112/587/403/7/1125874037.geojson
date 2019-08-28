@@ -9,15 +9,18 @@
     "geom:bbox":"12.78623,50.10918,12.78623,50.10918",
     "geom:latitude":50.10918,
     "geom:longitude":12.78623,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":670,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":670,
     "iso:country":"CZ",
+    "lbl:bbox":"12.76623,50.08918,12.80623,50.12918",
     "lbl:latitude":50.10918,
     "lbl:longitude":12.78623,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kr\u00e1sno"
@@ -91,7 +94,7 @@
     "name:tat_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sch\u00f6nfeld"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +119,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":791948,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1125874037,
-    "wof:lastmodified":1563249403,
+    "wof:lastmodified":1566710924,
     "wof:name":"Kr\u00e1sno",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

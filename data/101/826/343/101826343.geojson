@@ -9,15 +9,18 @@
     "geom:bbox":"18.075033877,49.4594994257,18.1052269989,49.4907561211",
     "geom:latitude":49.471452,
     "geom:longitude":18.090077,
-    "geonames:id":"3061326,3061327",
+    "gn:id":"3061326,3061327",
     "gn:population":5409,
     "iso:country":"CZ",
     "lbl:latitude":49.46937,
     "lbl:longitude":18.090305,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.46937,
     "mps:longitude":18.090305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zub\u0159\u00ed"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":3061327,
         "gp:id":802237,
-        "qs:id":297252,
         "qs_pg:id":297252,
         "wd:id":"Q227614",
         "wk:page":"Zub\u0159\u00ed (Vset\u00edn District)"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101826343,
-    "wof:lastmodified":1563247353,
+    "wof:lastmodified":1566710580,
     "wof:name":"Zub\u0159\u00ed",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

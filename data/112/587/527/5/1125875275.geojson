@@ -9,15 +9,18 @@
     "geom:bbox":"13.46123,50.41994,13.46123,50.41994",
     "geom:latitude":50.41994,
     "geom:longitude":13.46123,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":134,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":134,
     "iso:country":"CZ",
+    "lbl:bbox":"13.44123,50.39994,13.48123,50.43994",
     "lbl:latitude":50.41994,
     "lbl:longitude":13.46123,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "V\u0161ehrdy"
@@ -37,7 +40,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0448\u0435\u0445\u0440\u0434\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tschern"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -57,7 +60,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":801295,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125875275,
-    "wof:lastmodified":1564102505,
+    "wof:lastmodified":1566710920,
     "wof:name":"V\u0161ehrdy",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

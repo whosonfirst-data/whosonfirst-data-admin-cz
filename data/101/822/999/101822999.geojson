@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.734396,
     "lbl:longitude":15.247289,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.734396,
     "mps:longitude":15.247289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Smr\u017eovka"
     ],
@@ -83,9 +86,6 @@
     "name:tat_x_preferred":[
         "\u0421\u043c\u0440\u0436\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Morchenstern"
-    ],
     "name:vie_x_preferred":[
         "Smr\u017eovka"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":176,
     "wof:belongsto":[
@@ -122,7 +122,6 @@
         "fct:id":"0703c736-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3065684,
         "gp:id":798402,
-        "qs:id":1085421,
         "qs_pg:id":1085421,
         "wd:id":"Q1936067",
         "wk:page":"Smr\u017eovka"
@@ -141,7 +140,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247781,
+    "wof:lastmodified":1566710646,
     "wof:name":"Smr\u017eovka",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

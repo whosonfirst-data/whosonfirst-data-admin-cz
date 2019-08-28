@@ -12,8 +12,10 @@
     "gn:latitude":49.77319,
     "gn:longitude":13.37054,
     "iso:country":"CZ",
+    "lbl:bbox":"13.378744,49.752875,13.388744,49.762875",
     "lbl:latitude":49.757875,
     "lbl:longitude":13.383744,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.783206,
     "mps:longitude":13.379259,
     "mz:hierarchy_label":0,
@@ -52,10 +54,6 @@
     "name:pol_x_variant":[
         "Bolevec"
     ],
-    "name:unk_x_variant":[
-        "Bolewetz",
-        "Bolevec"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"87",
@@ -84,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748111,
@@ -95,7 +93,6 @@
     "wof:concordances":{
         "gn:id":3079065,
         "gp:id":786459,
-        "qs:id":181017,
         "qs_pg:id":181017,
         "wd:id":"Q11225445"
     },
@@ -114,7 +111,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246429,
+    "wof:lastmodified":1566710197,
     "wof:name":"Bolevec",
     "wof:parent_id":101748111,
     "wof:placetype":"neighbourhood",

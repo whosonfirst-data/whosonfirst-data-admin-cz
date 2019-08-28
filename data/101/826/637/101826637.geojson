@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.703255,
     "lbl:longitude":14.895583,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.703255,
     "mps:longitude":14.895583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Vla\u0161im"
     ],
@@ -92,7 +95,7 @@
     "name:tat_x_preferred":[
         "\u0412\u043b\u0430\u0448\u0438\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wlaschim"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":373,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
     "wof:concordances":{
         "gn:id":3062759,
         "gp:id":800945,
-        "qs:id":269026,
         "qs_pg:id":269026,
         "wd:id":"Q1000101",
         "wk:page":"Vla\u0161im"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101826637,
-    "wof:lastmodified":1563247337,
+    "wof:lastmodified":1566710578,
     "wof:name":"Vla\u0161im",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

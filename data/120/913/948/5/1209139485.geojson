@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.09562,49.99221,14.13562,50.03221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3071162
     },
     "wof:country":"CZ",
-    "wof:geomhash":"31fb696c5a54797ead828a20d93e2423",
+    "wof:geomhash":"427bee37c82fe6247d3d41370f70d2be",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209139485,
-    "wof:lastmodified":1536296551,
+    "wof:lastmodified":1566710381,
     "wof:name":"Male Prilepy",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.115620000000002,
+    14.11562,
     50.01221,
-    14.115620000000002,
+    14.11562,
     50.01221
 ],
   "geometry": {"coordinates":[14.11562,50.01221],"type":"Point"}

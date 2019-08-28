@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.899912,
     "lbl:longitude":17.314254,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.899912,
     "mps:longitude":17.314254,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u0446\u0435"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -128,7 +131,6 @@
     "wof:concordances":{
         "gn:id":3064995,
         "gp:id":799006,
-        "qs:id":2792,
         "qs_pg:id":2792,
         "wd:id":"Q304189",
         "wk:page":"Str\u00e1\u017enice (Hodon\u00edn District)"
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101781157,
-    "wof:lastmodified":1563247812,
+    "wof:lastmodified":1566710651,
     "wof:name":"Str\u00e1\u017enice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

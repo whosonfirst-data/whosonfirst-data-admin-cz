@@ -9,15 +9,18 @@
     "geom:bbox":"13.17675,49.42497,13.17675,49.42497",
     "geom:latitude":49.42497,
     "geom:longitude":13.17675,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":270,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":270,
     "iso:country":"CZ",
+    "lbl:bbox":"13.15675,49.40497,13.19675,49.44497",
     "lbl:latitude":49.42497,
     "lbl:longitude":13.17675,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u067e\u0648\u0644\u0646"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Pole\u0148"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polin"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":796410,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1125861591,
-    "wof:lastmodified":1563248998,
+    "wof:lastmodified":1566710853,
     "wof:name":"Pole\u0148",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

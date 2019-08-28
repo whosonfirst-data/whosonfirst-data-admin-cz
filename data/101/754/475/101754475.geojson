@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.25622,
     "lbl:longitude":15.817226,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.25622,
     "mps:longitude":15.817226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "P\u0159edm\u011b\u0159ice nad Labem"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "P\u0159edm\u011b\u0159ice nad Labem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u0159edme\u0159itz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":10,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3067627,
         "gp:id":796656,
-        "qs:id":374750,
         "qs_pg:id":374750,
         "wd:id":"Q1808499",
         "wk:page":"P\u0159edm\u011b\u0159ice nad Labem"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101754475,
-    "wof:lastmodified":1563247256,
+    "wof:lastmodified":1566710565,
     "wof:name":"P\u0159edm\u011b\u0159ice nad Labem",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

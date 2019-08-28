@@ -9,14 +9,17 @@
     "geom:bbox":"18.2961,49.80736,18.2961,49.80736",
     "geom:latitude":49.80736,
     "geom:longitude":18.2961,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"18.2911,49.80236,18.3011,49.81236",
     "lbl:latitude":49.80736,
     "lbl:longitude":18.2961,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Kun\u010di\u010dky"
@@ -39,7 +42,7 @@
     "name:pol_x_preferred":[
         "Ko\u0144czyce Ma\u0142e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klein-Kunzendorf"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":792241,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"Moravskoslezsk\u00fd kraj",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1126087955,
-    "wof:lastmodified":1563250123,
+    "wof:lastmodified":1566711049,
     "wof:name":"Kun\u010di\u010dky",
     "wof:parent_id":101748125,
     "wof:placetype":"neighbourhood",

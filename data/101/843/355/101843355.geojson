@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.790512,
     "lbl:longitude":16.020835,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.790512,
     "mps:longitude":16.020835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0634\u0627\u062a\u0648\u0648"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "\u0160atov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schattau"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -114,10 +117,12 @@
     "wof:concordances":{
         "gn:id":3066390,
         "gp:id":797777,
-        "qs:id":31409,
-        "qs_pg:id":279628,
+        "qs_pg:id":31409,
         "wd:id":"Q391317",
         "wk:page":"\u0160atov"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":279628
     },
     "wof:country":"CZ",
     "wof:geomhash":"9d6e03dc3ce11e62e1eebb1d8ddfb05b",
@@ -130,7 +135,7 @@
         }
     ],
     "wof:id":101843355,
-    "wof:lastmodified":1563247355,
+    "wof:lastmodified":1566710581,
     "wof:name":"\u0160atov",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

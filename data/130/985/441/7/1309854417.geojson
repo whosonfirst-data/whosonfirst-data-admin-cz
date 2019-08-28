@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.00071,50.08666,17.04071,50.12666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Labe"
     ],
@@ -42,8 +46,7 @@
         "Labe"
     ],
     "name:und_x_variant":[
-        "Elba",
-        "Labe"
+        "Elba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1309854417,
-    "wof:lastmodified":1564102192,
+    "wof:lastmodified":1566710671,
     "wof:name":"Labe",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

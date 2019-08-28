@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.06694,
     "lbl:longitude":14.460249,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":50.06694,
     "mps:longitude":14.460249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:ady_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0430"
     ],
@@ -654,7 +657,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -670,7 +673,6 @@
         "gn:id":3067696,
         "gp:id":796597,
         "nyt:id":"N32788936541921050931",
-        "qs:id":1145175,
         "qs_pg:id":1145175,
         "wd:id":"Q1085"
     },
@@ -688,7 +690,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247395,
+    "wof:lastmodified":1566710586,
     "wof:name":"Praha",
     "wof:parent_id":85682437,
     "wof:placetype":"locality",

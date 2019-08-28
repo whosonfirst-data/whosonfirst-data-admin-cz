@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.943781,
     "lbl:longitude":16.924078,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.943781,
     "mps:longitude":16.924078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043b\u0443\u0434\u043e\u0432"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Bludov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blauda"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":3079194,
         "gp:id":786343,
-        "qs:id":876588,
         "qs_pg:id":876588,
         "wd:id":"Q885546",
         "wk:page":"Bludov (\u0160umperk District)"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101825601,
-    "wof:lastmodified":1563247750,
+    "wof:lastmodified":1566710641,
     "wof:name":"Bludov",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

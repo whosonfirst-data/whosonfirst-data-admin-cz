@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.328096,
     "lbl:longitude":12.511569,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.328096,
     "mps:longitude":12.511569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043b\u0438\u0446\u0435"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043b\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Graslitz"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":269,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3072903,
         "gp:id":791920,
-        "qs:id":145379,
         "qs_pg:id":145379,
         "wd:id":"Q1000029",
         "wk:page":"Kraslice"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101824089,
-    "wof:lastmodified":1563247561,
+    "wof:lastmodified":1566710611,
     "wof:name":"Kraslice",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

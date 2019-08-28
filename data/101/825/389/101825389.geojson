@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.894866,
     "lbl:longitude":18.191505,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.894866,
     "mps:longitude":18.191505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0425\u043b\u0443\u0447\u0438\u043d"
     ],
@@ -119,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0443\u0447\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hulczyn"
     ],
     "name:vie_x_preferred":[
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":196,
     "wof:belongsto":[
@@ -156,7 +159,6 @@
     "wof:concordances":{
         "gn:id":3075716,
         "gp:id":789442,
-        "qs:id":584591,
         "qs_pg:id":584591,
         "wd:id":"Q158257",
         "wk:page":"Hlu\u010d\u00edn"
@@ -172,7 +174,7 @@
         }
     ],
     "wof:id":101825389,
-    "wof:lastmodified":1563247763,
+    "wof:lastmodified":1566710644,
     "wof:name":"Hlu\u010d\u00edn",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

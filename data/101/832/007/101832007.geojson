@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.853624,
     "lbl:longitude":16.057656,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.853624,
     "mps:longitude":16.057656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0632\u0646\u0648\u064a\u0645\u0648"
     ],
@@ -171,9 +174,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u043d\u043e\u0439\u043c\u043e"
     ],
-    "name:unk_x_variant":[
-        "Znain"
-    ],
     "name:urd_x_preferred":[
         "\u0632\u0646\u0648\u06cc\u0645\u0648"
     ],
@@ -205,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":684,
     "wof:belongsto":[
@@ -218,7 +218,6 @@
         "fct:id":"0705fcd6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3061344,
         "gp:id":802222,
-        "qs:id":1279656,
         "qs_pg:id":1279656,
         "wd:id":"Q214956",
         "wk:page":"Znojmo"
@@ -237,7 +236,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247358,
+    "wof:lastmodified":1566710582,
     "wof:name":"Znojmo",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

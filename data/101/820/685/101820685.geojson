@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.657729,
     "lbl:longitude":15.458695,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.657729,
     "mps:longitude":15.458695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u067e\u0648\u0646\u06cc\u06a9\u0644\u0627"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":17,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":3067834,
         "gp:id":796469,
-        "qs:id":1207266,
         "qs_pg:id":1207266,
         "wd:id":"Q2140689",
         "wk:page":"Ponikl\u00e1"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101820685,
-    "wof:lastmodified":1563247266,
+    "wof:lastmodified":1566710567,
     "wof:name":"Ponikl\u00e1",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

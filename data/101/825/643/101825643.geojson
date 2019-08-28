@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.149136,
     "lbl:longitude":15.116974,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.149136,
     "mps:longitude":15.116974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0434\u0437\u0435\u0431\u0440\u0430\u0434\u044b"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0454\u0431\u0440\u0430\u0434\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podebrad"
     ],
     "name:vie_x_preferred":[
@@ -162,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":484,
     "wof:belongsto":[
@@ -175,7 +178,6 @@
         "fct:id":"06fab998-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3068107,
         "gp:id":796218,
-        "qs:id":145315,
         "qs_pg:id":145315,
         "wd:id":"Q683165",
         "wk:page":"Pod\u011bbrady"
@@ -194,7 +196,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247651,
+    "wof:lastmodified":1566710627,
     "wof:name":"Pod\u011bbrady",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

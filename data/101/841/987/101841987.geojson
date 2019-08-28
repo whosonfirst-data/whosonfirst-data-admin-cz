@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.617836,
     "lbl:longitude":18.474905,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.617836,
     "mps:longitude":18.474905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0631\u0627\u0634\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Ra\u0161kovice"
     ],
-    "name:unk_x_variant":[
-        "Raszkowice"
-    ],
     "name:vie_x_preferred":[
         "Ra\u0161kovice"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":376,
     "wof:belongsto":[
@@ -111,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3067023,
         "gp:id":797213,
-        "qs:id":583642,
         "qs_pg:id":583642,
         "wd:id":"Q373060",
         "wk:page":"Ra\u0161kovice"
@@ -127,7 +126,7 @@
         }
     ],
     "wof:id":101841987,
-    "wof:lastmodified":1563247499,
+    "wof:lastmodified":1566710602,
     "wof:name":"Ra\u0161kovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

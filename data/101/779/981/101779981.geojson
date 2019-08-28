@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.204204,
     "lbl:longitude":16.880872,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.204204,
     "mps:longitude":16.880872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0443\u0441\u0438\u043d\u043e\u0432"
     ],
@@ -92,7 +95,7 @@
     "name:tat_x_preferred":[
         "\u0420\u043e\u0443\u0441\u0438\u043d\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neu Raussnitz"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -130,9 +133,11 @@
     "wof:concordances":{
         "gn:id":3066719,
         "gp:id":797482,
-        "qs:id":1060635,
         "qs_pg:id":1042992,
         "wd:id":"Q1818241"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060635
     },
     "wof:country":"CZ",
     "wof:geomhash":"ea593f104b340a30b47491ed7bcaec9c",
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":101779981,
-    "wof:lastmodified":1563247456,
+    "wof:lastmodified":1566710596,
     "wof:name":"Rous\u00ednov",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

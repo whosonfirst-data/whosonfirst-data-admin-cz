@@ -9,15 +9,18 @@
     "geom:bbox":"13.11543,50.42161,13.11543,50.42161",
     "geom:latitude":50.42161,
     "geom:longitude":13.11543,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":158,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":158,
     "iso:country":"CZ",
+    "lbl:bbox":"13.09543,50.40161,13.13543,50.44161",
     "lbl:latitude":50.42161,
     "lbl:longitude":13.11543,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u06cc\u062f\u06cc\u0646\u062a\u0633"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Medenec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kupferberg"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":793713,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125997811,
-    "wof:lastmodified":1563249576,
+    "wof:lastmodified":1566710958,
     "wof:name":"M\u011bd\u011bnec",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

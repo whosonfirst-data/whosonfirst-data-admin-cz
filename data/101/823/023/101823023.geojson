@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.70065,
     "lbl:longitude":14.778198,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.70065,
     "mps:longitude":14.778198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Str\u00e1\u017e pod Ralskem"
     ],
@@ -92,7 +95,7 @@
     "name:tat_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0436-\u043f\u043e\u0434-\u0420\u0430\u043b\u0441\u043a\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wartenberg"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -129,10 +132,12 @@
     "wof:concordances":{
         "gn:id":3065020,
         "gp:id":798987,
-        "qs:id":208326,
-        "qs_pg:id":939231,
+        "qs_pg:id":208326,
         "wd:id":"Q1761686",
         "wk:page":"Str\u00e1\u017e pod Ralskem"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":939231
     },
     "wof:country":"CZ",
     "wof:geomhash":"4251d7fc016b93f9d22916ba46036912",
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":101823023,
-    "wof:lastmodified":1563247506,
+    "wof:lastmodified":1566710604,
     "wof:name":"Str\u00e1\u017e pod Ralskem",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

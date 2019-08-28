@@ -11,8 +11,10 @@
     "geom:longitude":16.686296,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"16.681296,49.166665,16.691296,49.176665",
     "lbl:latitude":49.171665,
     "lbl:longitude":16.686296,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.1702,
     "mps:longitude":16.700325,
     "mz:hierarchy_label":0,
@@ -53,16 +55,13 @@
     "name:swe_x_preferred":[
         "Slatina"
     ],
-    "name:unk_x_variant":[
-        "Latein"
-    ],
     "qs:gn_id":0,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191581,
@@ -74,9 +73,11 @@
     "wof:concordances":{
         "gn:id":3065876,
         "gp:id":798227,
-        "qs:id":1150688,
         "qs_pg:id":94437,
         "wd:id":"Q4597367"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1150688
     },
     "wof:country":"CZ",
     "wof:geomhash":"080595d087b7d6f881e8b7eb3613c744",
@@ -93,7 +94,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246381,
+    "wof:lastmodified":1566710184,
     "wof:name":"Brno-Slatina",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

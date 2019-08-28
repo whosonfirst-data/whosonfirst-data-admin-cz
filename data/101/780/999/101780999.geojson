@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.989676,
     "lbl:longitude":16.907953,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.989676,
     "mps:longitude":16.907953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Krumv\u00ed\u0159"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":29,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3072605,
         "gp:id":792181,
-        "qs:id":1232532,
         "qs_pg:id":1232532,
         "wd:id":"Q1008603",
         "wk:page":"Krumv\u00ed\u0159"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101780999,
-    "wof:lastmodified":1563247864,
+    "wof:lastmodified":1566710659,
     "wof:name":"Krumv\u00ed\u0159",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

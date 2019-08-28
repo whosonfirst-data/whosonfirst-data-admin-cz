@@ -9,15 +9,18 @@
     "geom:bbox":"17.59296,50.03413,17.59296,50.03413",
     "geom:latitude":50.03413,
     "geom:longitude":17.59296,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1169,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1169,
     "iso:country":"CZ",
+    "lbl:bbox":"17.57296,50.01413,17.61296,50.05413",
     "lbl:latitude":50.03413,
     "lbl:longitude":17.59296,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0632\u0627\u062a\u0648\u0631"
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Z\u00e1tor"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Seifersdorf"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":801787,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1126015071,
-    "wof:lastmodified":1563250195,
+    "wof:lastmodified":1566711061,
     "wof:name":"Z\u00e1tor",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

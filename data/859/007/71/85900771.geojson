@@ -12,8 +12,10 @@
     "gn:latitude":49.22219,
     "gn:longitude":16.65819,
     "iso:country":"CZ",
+    "lbl:bbox":"16.647012,49.212848,16.657012,49.222848",
     "lbl:latitude":49.217848,
     "lbl:longitude":16.652012,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.217347,
     "mps:longitude":16.654966,
     "mz:hierarchy_label":0,
@@ -50,9 +52,8 @@
     "name:slk_x_preferred":[
         "Malom\u011b\u0159ice"
     ],
-    "name:unk_x_variant":[
-        "Malom\u011b\u0159itz",
-        "Malomerice"
+    "name:und_x_variant":[
+        "Malom\u011b\u0159itz"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
@@ -83,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748109,
@@ -94,7 +95,6 @@
     "wof:concordances":{
         "gn:id":3071116,
         "gp:id":793514,
-        "qs:id":1031478,
         "qs_pg:id":1031478,
         "wd:id":"Q12035017"
     },
@@ -113,7 +113,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246374,
+    "wof:lastmodified":1566710182,
     "wof:name":"Malomerice",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

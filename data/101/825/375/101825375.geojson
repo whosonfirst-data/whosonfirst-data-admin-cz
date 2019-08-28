@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.627829,
     "lbl:longitude":18.298178,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.627829,
     "mps:longitude":18.298178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u067e\u0627\u0644\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Palkovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palkowitz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3068623,
         "gp:id":795758,
-        "qs:id":1043003,
         "qs_pg:id":1043003,
         "wd:id":"Q2700483",
         "wk:page":"Palkovice"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101825375,
-    "wof:lastmodified":1563247773,
+    "wof:lastmodified":1566710645,
     "wof:name":"Palkovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

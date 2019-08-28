@@ -9,15 +9,18 @@
     "geom:bbox":"14.73532,50.74346,14.73532,50.74346",
     "geom:latitude":50.74346,
     "geom:longitude":14.73532,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":176,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":176,
     "iso:country":"CZ",
+    "lbl:bbox":"14.71532,50.72346,14.75532,50.76346",
     "lbl:latitude":50.74346,
     "lbl:longitude":14.73532,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0644\u06a9\u06cc \u0648\u0644\u062a\u06cc\u0646\u0648"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Velk\u00fd Valtinov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross Walten"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":800617,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125947293,
-    "wof:lastmodified":1563248139,
+    "wof:lastmodified":1566710714,
     "wof:name":"Velk\u00fd Valtinov",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

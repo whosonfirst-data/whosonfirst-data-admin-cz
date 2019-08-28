@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.430409,
     "lbl:longitude":17.285469,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.430409,
     "mps:longitude":17.285469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tova\u010dov"
     ],
@@ -82,7 +85,7 @@
     "name:tat_x_preferred":[
         "\u0422\u043e\u0432\u0430\u0447\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tobitschau"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101827423,
-    "wof:lastmodified":1563247263,
+    "wof:lastmodified":1566710567,
     "wof:name":"Tova\u010dov I-M\u011bsto",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

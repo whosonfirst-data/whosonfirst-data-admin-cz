@@ -12,8 +12,10 @@
     "gn:latitude":49.71943,
     "gn:longitude":13.38143,
     "iso:country":"CZ",
+    "lbl:bbox":"13.364979,49.716207,13.374979,49.726207",
     "lbl:latitude":49.721207,
     "lbl:longitude":13.369979,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.713326,
     "mps:longitude":13.373521,
     "mz:hierarchy_label":0,
@@ -30,10 +32,6 @@
     ],
     "name:cze_x_variant":[
         "Doudlewetz"
-    ],
-    "name:unk_x_variant":[
-        "Doudlewetz",
-        "Doudlevce"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPL",
@@ -64,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748111,
@@ -75,7 +73,6 @@
     "wof:concordances":{
         "gn:id":3076521,
         "gp:id":788742,
-        "qs:id":227386,
         "qs_pg:id":227386
     },
     "wof:country":"CZ",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772296,
+    "wof:lastmodified":1566710194,
     "wof:name":"Doudlevce",
     "wof:parent_id":101748111,
     "wof:placetype":"neighbourhood",

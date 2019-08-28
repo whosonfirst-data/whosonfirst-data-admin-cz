@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.124566,
     "lbl:longitude":14.53608,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.12631,
     "mps:longitude":14.539522,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Kbely"
     ],
@@ -38,7 +41,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +53,7 @@
         "fct:id":"070affd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3073743,
         "gp:id":791191,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"CZ",
     "wof:geomhash":"fb79e59c9145d342e5ea7ac10f1f00fc",
@@ -66,7 +69,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772349,
+    "wof:lastmodified":1566710564,
     "wof:name":"Kbely",
     "wof:parent_id":85682437,
     "wof:placetype":"locality",

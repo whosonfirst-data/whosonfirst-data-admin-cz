@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.912898,
     "lbl:longitude":16.854859,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.912898,
     "mps:longitude":16.854859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bo\u0159etice"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -104,10 +107,12 @@
     "wof:concordances":{
         "gn:id":3078996,
         "gp:id":786526,
-        "qs:id":876623,
-        "qs_pg:id":1265293,
+        "qs_pg:id":876623,
         "wd:id":"Q896281",
         "wk:page":"Bo\u0159etice (B\u0159eclav District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1265293
     },
     "wof:country":"CZ",
     "wof:geomhash":"63e974d02bf2881fbde430194419d109",
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":101781141,
-    "wof:lastmodified":1563247855,
+    "wof:lastmodified":1566710658,
     "wof:name":"Bo\u0159etice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

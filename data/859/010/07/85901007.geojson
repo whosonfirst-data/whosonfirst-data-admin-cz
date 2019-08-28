@@ -15,6 +15,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.109717,
     "lbl:longitude":14.506882,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.106289,
     "mps:longitude":14.510493,
     "mz:hierarchy_label":1,
@@ -523,9 +524,8 @@
     "name:twi_x_preferred":[
         "Vyso\u010dany"
     ],
-    "name:unk_x_variant":[
-        "Wyso\u010dan",
-        "Vysocany"
+    "name:und_x_variant":[
+        "Wyso\u010dan"
     ],
     "name:uzb_x_preferred":[
         "Vyso\u010dany"
@@ -589,7 +589,6 @@
     "wof:concordances":{
         "gn:id":3062257,
         "gp:id":801388,
-        "qs:id":2839,
         "qs_pg:id":2839,
         "wd:id":"Q2782104"
     },
@@ -608,7 +607,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247485,
+    "wof:lastmodified":1566710193,
     "wof:name":"Vysocany",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

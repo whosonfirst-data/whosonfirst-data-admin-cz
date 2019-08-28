@@ -11,8 +11,10 @@
     "geom:longitude":14.474333,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"14.469333,48.969453,14.479333,48.979453",
     "lbl:latitude":48.974453,
     "lbl:longitude":14.474333,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.968172,
     "mps:longitude":14.475388,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:cze_x_colloquial":[
         "Eeske Budijovice 1"
-    ],
-    "name:unk_x_variant":[
-        "\u00c8esk\u00e9 Bud\u00ecjovice 1"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748103,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23406741,
-        "qs:id":1121138,
         "qs_pg:id":1121138
     },
     "wof:country":"CZ",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772282,
+    "wof:lastmodified":1566710177,
     "wof:name":"\u00c8esk\u00e9 Bud\u00ecjovice 1",
     "wof:parent_id":101748103,
     "wof:placetype":"neighbourhood",

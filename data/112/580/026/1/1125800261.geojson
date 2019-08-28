@@ -9,15 +9,18 @@
     "geom:bbox":"16.46303,49.5244,16.46303,49.5244",
     "geom:latitude":49.5244,
     "geom:longitude":16.46303,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":506,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":506,
     "iso:country":"CZ",
+    "lbl:bbox":"16.44303,49.5044,16.48303,49.5444",
     "lbl:latitude":49.5244,
     "lbl:longitude":16.46303,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0631\u0648\u0632\u0633\u062a\u0634 \u0646\u0627\u062f \u06a9\u0648\u0646\u0634\u062a\u0627\u062a\u0645"
@@ -67,7 +70,7 @@
     "name:swe_x_preferred":[
         "Rozse\u010d nad Kun\u0161t\u00e1tem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rozse\u010d"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +95,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":797547,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125800261,
-    "wof:lastmodified":1564102501,
+    "wof:lastmodified":1566710913,
     "wof:name":"Rozse\u010d nad Kun\u0161t\u00e1tem",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.92838,50.59827,14.96838,50.63827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3062388
     },
     "wof:country":"CZ",
-    "wof:geomhash":"f9f5e6b7a61d934ef73c4fb7c1e32cb4",
+    "wof:geomhash":"9c9f7ea423b8c84ca95f39101ff3a7fc",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209248561,
-    "wof:lastmodified":1536293080,
+    "wof:lastmodified":1566710371,
     "wof:name":"Vrtky",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.948379999999998,
+    14.94838,
     50.61827,
-    14.948379999999998,
+    14.94838,
     50.61827
 ],
   "geometry": {"coordinates":[14.94838,50.61827],"type":"Point"}

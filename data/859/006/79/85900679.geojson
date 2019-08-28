@@ -15,6 +15,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.09534,
     "lbl:longitude":14.452358,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.096671,
     "mps:longitude":14.45348,
     "mz:hierarchy_label":1,
@@ -83,10 +84,6 @@
     "name:swe_x_preferred":[
         "Karl\u00edn"
     ],
-    "name:unk_x_variant":[
-        "Karolinenthal",
-        "Karl\u00edn"
-    ],
     "name:zho_x_preferred":[
         "\u5361\u6797"
     ],
@@ -132,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3073838,
         "gp:id":791106,
-        "qs:id":884096,
         "qs_pg:id":884096,
         "wd:id":"Q1734030",
         "wk:page":"Karl\u00edn"
@@ -152,7 +148,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326113,
+    "wof:lastmodified":1566710192,
     "wof:name":"Karlin",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

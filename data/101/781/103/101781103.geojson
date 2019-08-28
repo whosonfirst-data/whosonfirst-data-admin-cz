@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.897028,
     "lbl:longitude":16.717943,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.897028,
     "mps:longitude":16.717943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0634\u0627\u06a9\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3066439,
         "gp:id":797731,
-        "qs:id":94435,
         "qs_pg:id":94435,
         "wd:id":"Q390991",
         "wk:page":"\u0160akvice"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101781103,
-    "wof:lastmodified":1563247812,
+    "wof:lastmodified":1566710651,
     "wof:name":"\u0160akvice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

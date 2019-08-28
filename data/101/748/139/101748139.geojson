@@ -9,13 +9,14 @@
     "geom:bbox":"13.9388406769,50.610964,14.130712834,50.7072621997",
     "geom:latitude":50.664588,
     "geom:longitude":14.041994,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":94105,
+    "gn:country":"CZ",
+    "gn:fcode":"PPLA",
     "gn:population":94105,
     "iso:country":"CZ",
     "lbl:latitude":50.668838,
     "lbl:longitude":14.026259,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.668838,
     "mps:longitude":14.026259,
     "mz:hierarchy_label":1,
@@ -248,7 +249,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u0456-\u043d\u0430\u0434-\u041b\u0430\u0431\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00dastina Labe"
     ],
     "name:urd_x_preferred":[
@@ -394,7 +395,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":50.659167,
     "wd:longitude":14.041667,
@@ -410,14 +411,13 @@
         "fct:id":"06fb5506-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3063553,
         "gp:id":800257,
-        "qs:id":803355,
-        "qs_pg:id":1268582,
+        "qs_pg:id":803355,
         "wd:id":"Q156974"
     },
     "wof:concordances_alt":{
         "gn:id":3063548,
         "gp:id":800260,
-        "qs_pg:id":803355
+        "qs_pg:id":1268582
     },
     "wof:country":"CZ",
     "wof:geomhash":"cfdc33e40fc95d40e8bb080243cb5306",
@@ -433,7 +433,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247391,
+    "wof:lastmodified":1566710585,
     "wof:name":"\u00dast\u00ed nad Labem",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

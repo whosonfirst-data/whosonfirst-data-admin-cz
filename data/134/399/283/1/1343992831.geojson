@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"13.01466,50.09809,13.05466,50.13809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pavice"
     ],
@@ -42,8 +46,7 @@
         "Pavice"
     ],
     "name:und_x_variant":[
-        "Pobitz",
-        "Pavice"
+        "Pobitz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1343992831,
-    "wof:lastmodified":1564101090,
+    "wof:lastmodified":1566710112,
     "wof:name":"Pavice",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

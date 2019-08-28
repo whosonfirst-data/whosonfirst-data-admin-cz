@@ -12,8 +12,10 @@
     "gn:latitude":49.18852,
     "gn:longitude":16.59747,
     "iso:country":"CZ",
+    "lbl:bbox":"16.592501,49.183645,16.602501,49.193645",
     "lbl:latitude":49.188645,
     "lbl:longitude":16.597501,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.188457,
     "mps:longitude":16.595143,
     "mz:hierarchy_label":0,
@@ -48,7 +50,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748109,
@@ -59,7 +61,6 @@
     "wof:concordances":{
         "gn:id":6694366,
         "gp:id":23407679,
-        "qs:id":238455,
         "qs_pg:id":238455,
         "wd:id":"Q12056185"
     },
@@ -78,7 +79,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772282,
+    "wof:lastmodified":1566710177,
     "wof:name":"Star\u00e9 Brno",
     "wof:parent_id":101748109,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.309857,
     "lbl:longitude":12.868932,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.309857,
     "mps:longitude":12.868932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hrozn\u011bt\u00edn"
     ],
@@ -83,7 +86,7 @@
     "name:tat_x_preferred":[
         "\u04ba\u0440\u043e\u0437\u043d\u0435\u0442\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lichtenstadt"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":105,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3074797,
         "gp:id":790283,
-        "qs:id":306381,
         "qs_pg:id":306381,
         "wd:id":"Q786762",
         "wk:page":"Hrozn\u011bt\u00edn"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101824097,
-    "wof:lastmodified":1563247540,
+    "wof:lastmodified":1566710608,
     "wof:name":"Hrozn\u011bt\u00edn",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":49.85786,
     "gn:longitude":18.15167,
     "iso:country":"CZ",
+    "lbl:bbox":"18.170049,49.881966,18.180049,49.891966",
     "lbl:latitude":49.886966,
     "lbl:longitude":18.175049,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.888016,
     "mps:longitude":18.170005,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:cze_x_colloquial":[
         "Stara Plesna"
-    ],
-    "name:unk_x_variant":[
-        "Star\u00e1 Plesn\u00e1"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3065391,
         "gp:id":798644,
-        "qs:id":215991,
         "qs_pg:id":215991
     },
     "wof:country":"CZ",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772289,
+    "wof:lastmodified":1566710185,
     "wof:name":"Star\u00e1 Plesn\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

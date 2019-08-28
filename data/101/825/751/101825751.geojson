@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.002522,
     "lbl:longitude":14.001627,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.002522,
     "mps:longitude":14.001627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0646\u06cc\u0698\u0628\u0648\u0631"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":110,
     "wof:belongsto":[
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":3069738,
         "gp:id":794760,
-        "qs:id":1085302,
         "qs_pg:id":1085302,
         "wd:id":"Q1997179",
         "wk:page":"Ni\u017ebor"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101825751,
-    "wof:lastmodified":1563247714,
+    "wof:lastmodified":1566710636,
     "wof:name":"Ni\u017ebor",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

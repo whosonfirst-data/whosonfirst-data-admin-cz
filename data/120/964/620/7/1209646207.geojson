@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.41193,50.08996,12.45193,50.12996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Vokov"
     ],
@@ -63,8 +67,7 @@
         "\u0412\u043e\u043a\u043e\u0432"
     ],
     "name:und_x_variant":[
-        "Wogau",
-        "Vokov"
+        "Wogau"
     ],
     "name:vie_x_preferred":[
         "Vokov"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1209646207,
-    "wof:lastmodified":1564101659,
+    "wof:lastmodified":1566710358,
     "wof:name":"Vokov",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":49.7704,
     "gn:longitude":13.4398,
     "iso:country":"CZ",
+    "lbl:bbox":"13.439696,49.772545,13.449696,49.782545",
     "lbl:latitude":49.777545,
     "lbl:longitude":13.444696,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.781997,
     "mps:longitude":13.451637,
     "mz:hierarchy_label":0,
@@ -73,9 +75,6 @@
     "name:swe_x_preferred":[
         "Bukovec"
     ],
-    "name:unk_x_variant":[
-        "Bukovec"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"87",
@@ -104,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -115,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3078415,
         "gp:id":787034,
-        "qs:id":182558,
         "qs_pg:id":182558
     },
     "wof:country":"CZ",
@@ -133,7 +131,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1564101259,
+    "wof:lastmodified":1566710197,
     "wof:name":"Bukovec",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

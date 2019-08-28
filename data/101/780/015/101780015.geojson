@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.24449,
     "lbl:longitude":15.767398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.24449,
     "mps:longitude":15.767398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u06a9\u0631\u06cc\u0634\u06a9\u06cc"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Ok\u0159\u00ed\u0161ky"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Okrischko"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3069098,
         "gp:id":795350,
-        "qs:id":1225950,
         "qs_pg:id":1225950,
         "wd:id":"Q2703812",
         "wk:page":"Ok\u0159\u00ed\u0161ky"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101780015,
-    "wof:lastmodified":1563247865,
+    "wof:lastmodified":1566710659,
     "wof:name":"Ok\u0159\u00ed\u0161ky",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

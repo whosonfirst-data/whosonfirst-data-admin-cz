@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.915985,
     "lbl:longitude":18.333549,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.915985,
     "mps:longitude":18.333549,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Star\u00fd Bohum\u00edn"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Star\u00fd Bohum\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bogumin"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -62,7 +65,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":276,
     "wof:belongsto":[
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3065281,
         "gp:id":796921,
-        "qs:id":1042981,
+        "qs_pg:id":1042981,
         "wd:id":"Q3487873",
         "wk:page":"Star\u00fd Bohum\u00edn"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101840917,
-    "wof:lastmodified":1563247625,
+    "wof:lastmodified":1566710622,
     "wof:name":"Star\u00fd Bohum\u00edn",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

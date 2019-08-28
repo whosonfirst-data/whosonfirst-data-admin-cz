@@ -9,15 +9,18 @@
     "geom:bbox":"15.6517,50.17616,15.6517,50.17616",
     "geom:latitude":50.17616,
     "geom:longitude":15.6517,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":536,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":536,
     "iso:country":"CZ",
+    "lbl:bbox":"15.6317,50.15616,15.6717,50.19616",
     "lbl:latitude":50.17616,
     "lbl:longitude":15.6517,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Roudnice"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Roudnice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roudnitz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":24929909,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1126055343,
-    "wof:lastmodified":1563248791,
+    "wof:lastmodified":1566710818,
     "wof:name":"Roudn\u00e9",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

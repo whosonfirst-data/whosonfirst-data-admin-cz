@@ -9,15 +9,18 @@
     "geom:bbox":"16.80583,49.38394,16.80583,49.38394",
     "geom:latitude":49.38394,
     "geom:longitude":16.80583,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1045,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1045,
     "iso:country":"CZ",
+    "lbl:bbox":"16.78583,49.36394,16.82583,49.40394",
     "lbl:latitude":49.38394,
     "lbl:longitude":16.80583,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0644\u06cc\u067e\u0648\u0648\u062a\u0633"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Lipovec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipowetz"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +97,7 @@
     "qs_pg:qs_id":94475,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1126037891,
-    "wof:lastmodified":1563248978,
+    "wof:lastmodified":1566710849,
     "wof:name":"Lipovec",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

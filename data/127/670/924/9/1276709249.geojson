@@ -24,8 +24,12 @@
     "gn:population":3306,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.89702,50.14238,16.93702,50.18238",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "\u0160t\u011bp\u00e1nov"
     ],
@@ -37,10 +41,6 @@
     ],
     "name:slv_x_preferred":[
         "Stjepanov"
-    ],
-    "name:und_x_variant":[
-        "\u0160t\u011bp\u00e1nov",
-        "Stiepanau"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1276709249,
-    "wof:lastmodified":1564101583,
+    "wof:lastmodified":1566710328,
     "wof:name":"Stepanov",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

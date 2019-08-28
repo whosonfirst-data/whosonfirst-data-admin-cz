@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.375077,
     "lbl:longitude":13.94228,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.375077,
     "mps:longitude":13.94228,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sedlice"
     ],
@@ -74,7 +77,7 @@
     "name:tat_x_preferred":[
         "\u0421\u0435\u0434\u043b\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sedlitz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3066298,
         "gp:id":797861,
-        "qs:id":325257,
         "qs_pg:id":325257,
         "wd:id":"Q742108",
         "wk:page":"Sedlice (Strakonice District)"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101826329,
-    "wof:lastmodified":1563247345,
+    "wof:lastmodified":1566710580,
     "wof:name":"Sedlice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

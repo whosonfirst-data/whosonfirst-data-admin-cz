@@ -24,8 +24,12 @@
     "gn:population":1263,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"18.34869,49.69836,18.38869,49.73836",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u062f\u0644\u06cc\u0634\u062a\u06cc"
     ],
@@ -65,9 +69,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0435\u0434\u043b\u0438\u0448\u0442\u0435"
     ],
-    "name:und_x_variant":[
-        "Siedliszcze"
-    ],
     "name:vie_x_preferred":[
         "Sedli\u0161t\u011b"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1326765131,
-    "wof:lastmodified":1564100998,
+    "wof:lastmodified":1566710072,
     "wof:name":"Sedliste",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

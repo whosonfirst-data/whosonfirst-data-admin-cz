@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.50372,
     "lbl:longitude":14.802428,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.50372,
     "mps:longitude":14.802428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u011bl\u00e1 pod Bezd\u011bzem"
     ],
@@ -95,9 +98,6 @@
     "name:tat_x_preferred":[
         "\u0411\u0435\u043b\u0430-\u043f\u043e\u0434-\u0411\u0435\u0437\u0434\u0435\u0437\u0435\u043c"
     ],
-    "name:unk_x_variant":[
-        "Weisswasser in B\u00f6hmen"
-    ],
     "name:vie_x_preferred":[
         "B\u011bl\u00e1 pod Bezd\u011bzem"
     ],
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":12,
     "wof:belongsto":[
@@ -133,7 +133,6 @@
         "fct:id":"06fcbd92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3079556,
         "gp:id":786034,
-        "qs:id":2521,
         "qs_pg:id":2521,
         "wd:id":"Q1019942",
         "wk:page":"B\u011bl\u00e1 pod Bezd\u011bzem"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247645,
+    "wof:lastmodified":1566710626,
     "wof:name":"B\u011bl\u00e1 pod Bezd\u011bzem",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.994635,
     "lbl:longitude":13.540336,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.994635,
     "mps:longitude":13.540336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0436\u043b\u0430\u043d\u0438"
     ],
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0436\u043b\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kozlan"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":70,
     "wof:belongsto":[
@@ -130,7 +133,6 @@
     "wof:concordances":{
         "gn:id":3073025,
         "gp:id":791810,
-        "qs:id":1238496,
         "qs_pg:id":1238496,
         "wd:id":"Q1785887",
         "wk:page":"Ko\u017elany"
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101825207,
-    "wof:lastmodified":1563247746,
+    "wof:lastmodified":1566710641,
     "wof:name":"Ko\u017elany",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

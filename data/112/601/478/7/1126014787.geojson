@@ -9,15 +9,18 @@
     "geom:bbox":"14.53536,50.81264,14.53536,50.81264",
     "geom:latitude":50.81264,
     "geom:longitude":14.53536,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":442,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":442,
     "iso:country":"CZ",
+    "lbl:bbox":"14.51536,50.79264,14.55536,50.83264",
     "lbl:latitude":50.81264,
     "lbl:longitude":14.53536,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u06a9\u06cc\u062a\u0644\u06cc\u062a\u0633\u0647"
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Kytlice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kittlitz"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":792376,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1126014787,
-    "wof:lastmodified":1563250142,
+    "wof:lastmodified":1566711053,
     "wof:name":"Kytlice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

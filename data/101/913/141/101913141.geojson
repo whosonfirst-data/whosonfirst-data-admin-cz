@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
+    "geom:area_square_m":2341964.322653,
     "geom:bbox":"14.9116760857,50.2310745078,14.9449669507,50.2502178363",
     "geom:latitude":50.238226,
     "geom:longitude":14.927346,
     "iso:country":"CZ",
     "lbl:latitude":50.236357,
     "lbl:longitude":14.926211,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.236357,
     "mps:longitude":14.926211,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0436\u0438 \u0414\u0430\u0440"
     ],
@@ -50,7 +55,7 @@
     "name:srp_x_preferred":[
         "\u0411\u043e\u0436\u0438 \u0414\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gottesgab"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -82,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3078870,
         "gp:id":29396826,
-        "qs:id":995771,
         "qs_pg:id":995771
     },
     "wof:country":"CZ",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101913141,
-    "wof:lastmodified":1497298892,
+    "wof:lastmodified":1566710596,
     "wof:name":"Bozi Dar",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

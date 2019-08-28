@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.970657,
     "lbl:longitude":17.002675,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.970657,
     "mps:longitude":17.002675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u06a9\u06cc\u0631\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Vik\u00fd\u0159ovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weikersdorf"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":53,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3062909,
         "gp:id":12512570,
-        "qs:id":1042954,
         "qs_pg:id":1042954,
         "wd:id":"Q1255985",
         "wk:page":"Vik\u00fd\u0159ovice"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101840993,
-    "wof:lastmodified":1563247611,
+    "wof:lastmodified":1566710620,
     "wof:name":"Vik\u00fd\u0159ovice",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

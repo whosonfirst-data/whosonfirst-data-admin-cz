@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.930428,
     "lbl:longitude":17.351739,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.930428,
     "mps:longitude":17.351739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0646\u0648\u0631\u0648\u0648\u06cc"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":3062658,
         "gp:id":801031,
-        "qs:id":145230,
         "qs_pg:id":145230,
         "wd:id":"Q605873",
         "wk:page":"Vnorovy"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101832011,
-    "wof:lastmodified":1563247360,
+    "wof:lastmodified":1566710582,
     "wof:name":"Vnorovy",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

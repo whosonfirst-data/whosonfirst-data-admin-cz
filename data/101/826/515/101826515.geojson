@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.594078,
     "lbl:longitude":13.101633,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.594078,
     "mps:longitude":13.101633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hol\u00fd\u0161ov"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":103,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3075562,
         "gp:id":789581,
-        "qs:id":1206024,
         "qs_pg:id":1206024,
         "wd:id":"Q1625820",
         "wk:page":"Hol\u00fd\u0161ov"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101826515,
-    "wof:lastmodified":1563247353,
+    "wof:lastmodified":1566710580,
     "wof:name":"Hol\u00fd\u0161ov",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

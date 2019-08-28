@@ -14,10 +14,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.170044,
     "lbl:longitude":12.366533,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.170044,
     "mps:longitude":12.366533,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Skaln\u00e1"
     ],
@@ -114,7 +117,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
@@ -127,7 +130,7 @@
         "fct:id":"06f835ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3066045,
         "gp:id":12609985,
-        "qs:id":953759,
+        "qs_pg:id":953759,
         "wd:id":"Q946743",
         "wk:page":"Skaln\u00e1"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247716,
+    "wof:lastmodified":1566710636,
     "wof:name":"Skaln\u00e1",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"14.29326,50.76954,14.29326,50.76954",
     "geom:latitude":50.76954,
     "geom:longitude":14.29326,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":420,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":420,
     "iso:country":"CZ",
+    "lbl:bbox":"14.27326,50.74954,14.31326,50.78954",
     "lbl:latitude":50.76954,
     "lbl:longitude":14.29326,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u0648\u0628\u0631\u0646\u0627"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Dobrn\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hoch-Dobern"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":788263,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125906071,
-    "wof:lastmodified":1563249643,
+    "wof:lastmodified":1566710969,
     "wof:name":"Dobrn\u00e1",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

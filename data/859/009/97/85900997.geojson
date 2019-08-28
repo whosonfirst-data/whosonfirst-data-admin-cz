@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.099361,
     "lbl:longitude":14.340862,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.110275,
     "mps:longitude":14.35082,
     "mz:hierarchy_label":1,
@@ -54,10 +55,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043a\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Wokowitz",
-        "Vokovice"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3067696,
@@ -97,7 +94,6 @@
     "wof:concordances":{
         "gn:id":3062599,
         "gp:id":801088,
-        "qs:id":246812,
         "qs_pg:id":246812,
         "wd:id":"Q1963689",
         "wk:page":"Vokovice"
@@ -115,7 +111,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247485,
+    "wof:lastmodified":1566710185,
     "wof:name":"Vokovice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

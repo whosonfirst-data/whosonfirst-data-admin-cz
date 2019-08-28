@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.23098,50.13796,12.27098,50.17796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Lipn\u00e1"
     ],
@@ -40,8 +44,7 @@
     ],
     "name:und_x_variant":[
         "Lindau",
-        "Lindov",
-        "Lipn\u00e1"
+        "Lindov"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310537523,
-    "wof:lastmodified":1564101999,
+    "wof:lastmodified":1566710499,
     "wof:name":"Lipna",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

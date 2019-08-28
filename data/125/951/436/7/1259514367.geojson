@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.00236,50.22128,16.04236,50.26128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0633\u0648\u06a9\u06cc \u0648\u06cc\u0632\u062f"
     ],
@@ -68,9 +72,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0438\u0441\u043e\u043a\u0438 \u0423\u0458\u0435\u0437\u0434"
     ],
-    "name:und_x_variant":[
-        "Vysok\u00fd \u00dajezd nad D\u011bdinou"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1259514367,
-    "wof:lastmodified":1564103148,
+    "wof:lastmodified":1566711268,
     "wof:name":"Vysoky Ujezd nad Dedinou",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.092638,
     "lbl:longitude":14.379908,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.095917,
     "mps:longitude":14.379845,
     "mz:hierarchy_label":1,
@@ -80,9 +81,8 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0440\u0436\u0435\u0448\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "St\u0159eschowitz",
-        "St\u0159e\u0161ovice"
+    "name:und_x_variant":[
+        "St\u0159eschowitz"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
@@ -125,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3064946,
         "gp:id":799043,
-        "qs:id":1116041,
         "qs_pg:id":1116041,
         "wd:id":"Q3176913",
         "wk:page":"St\u0159e\u0161ovice"
@@ -145,7 +144,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247484,
+    "wof:lastmodified":1566710184,
     "wof:name":"Stresovice",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

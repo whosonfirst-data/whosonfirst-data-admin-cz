@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.087051,
     "lbl:longitude":14.469253,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.084902,
     "mps:longitude":14.469415,
     "mz:hierarchy_label":1,
@@ -103,10 +104,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0436\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u017di\u017ekov",
-        "Zizkov"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3067696,
@@ -147,7 +144,6 @@
     "wof:concordances":{
         "gn:id":3061412,
         "gp:id":802162,
-        "qs:id":422199,
         "qs_pg:id":422199,
         "wd:id":"Q378120",
         "wk:page":"\u017di\u017ekov"
@@ -167,7 +163,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247485,
+    "wof:lastmodified":1566710193,
     "wof:name":"Zizkov",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

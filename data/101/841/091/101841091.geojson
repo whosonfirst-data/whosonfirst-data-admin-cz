@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.510343,
     "lbl:longitude":14.151012,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.510343,
     "mps:longitude":14.151012,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631\u064a\u0632\u064a\u0646"
     ],
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1555,
     "wof:belongsto":[
@@ -156,10 +159,12 @@
     "wof:concordances":{
         "gn:id":3064275,
         "gp:id":799613,
-        "qs:id":145259,
-        "qs_pg:id":939268,
+        "qs_pg:id":145259,
         "wd:id":"Q523489",
         "wk:page":"Terez\u00edn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":939268
     },
     "wof:country":"CZ",
     "wof:geomhash":"3c1263d406389e541c7a7bce48b7510c",
@@ -172,7 +177,7 @@
         }
     ],
     "wof:id":101841091,
-    "wof:lastmodified":1563247469,
+    "wof:lastmodified":1566710598,
     "wof:name":"Terez\u00edn",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

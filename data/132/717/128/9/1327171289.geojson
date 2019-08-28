@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.65485,50.068,17.69485,50.108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kostelec"
     ],
@@ -57,8 +61,7 @@
         "\u041a\u043e\u0441\u0442\u0435\u043b\u0435\u0446"
     ],
     "name:und_x_variant":[
-        "Weisskirch",
-        "Kostelec"
+        "Weisskirch"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1327171289,
-    "wof:lastmodified":1564101042,
+    "wof:lastmodified":1566710090,
     "wof:name":"Kostelec",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

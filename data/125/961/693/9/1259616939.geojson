@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"15.64455,50.64942,15.68455,50.68942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rudolfov"
     ],
@@ -75,8 +79,7 @@
         "Rudolfov"
     ],
     "name:und_x_variant":[
-        "Rudolfsthal",
-        "Rudolfov"
+        "Rudolfsthal"
     ],
     "name:vie_x_preferred":[
         "Rudolfov"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1259616939,
-    "wof:lastmodified":1564103131,
+    "wof:lastmodified":1566711261,
     "wof:name":"Rudolfov",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

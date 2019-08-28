@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.038581,
     "lbl:longitude":14.473328,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.05035,
     "mps:longitude":14.479522,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
         "Dolni Roztyly"
     ],
     "name:ces_x_preferred":[
-        "Doln\u00ed Roztyly"
-    ],
-    "name:unk_x_variant":[
         "Doln\u00ed Roztyly"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -75,7 +73,6 @@
     "wof:concordances":{
         "gn:id":3076697,
         "gp:id":788575,
-        "qs:id":962607,
         "qs_pg:id":962607
     },
     "wof:country":"CZ",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247481,
+    "wof:lastmodified":1566710195,
     "wof:name":"Doln\u00ed Roztyly",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

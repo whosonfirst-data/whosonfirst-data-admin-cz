@@ -9,15 +9,18 @@
     "geom:bbox":"17.08095,49.15111,17.08095,49.15111",
     "geom:latitude":49.15111,
     "geom:longitude":17.08095,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1152,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":1152,
     "iso:country":"CZ",
+    "lbl:bbox":"17.06095,49.13111,17.10095,49.17111",
     "lbl:latitude":49.15111,
     "lbl:longitude":17.08095,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0646\u0633\u0648\u0648\u06cc\u062a\u0633\u0647"
@@ -67,7 +70,7 @@
     "name:swe_x_preferred":[
         "Nesovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nessowitz"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +88,7 @@
     "qs_pg:qs_id":1043014,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125889563,
-    "wof:lastmodified":1564102424,
+    "wof:lastmodified":1566710880,
     "wof:name":"Nesovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

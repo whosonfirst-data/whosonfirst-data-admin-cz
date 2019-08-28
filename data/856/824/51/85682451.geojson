@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":49.759116,
     "lbl:longitude":18.109207,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.759116,
     "mps:longitude":18.109207,
     "mz:hierarchy_label":1,
@@ -234,7 +235,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0430\u0432\u043e-\u0421\u0456\u043b\u0435\u0437\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostrava Region"
     ],
     "name:urd_x_preferred":[
@@ -319,9 +320,9 @@
     "qs:type":"Kraj",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-26",
+    "src:population_date":"2011-03-26",
     "statoids:area_km":"5,535",
     "statoids:area_mi":"2,137",
     "statoids:as_of_date":"2011-03-26",
@@ -365,11 +366,10 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1565671027,
+    "wof:lastmodified":1566710198,
     "wof:name":"Moravskoslezsk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1205834,
     "wof:population_rank":12,

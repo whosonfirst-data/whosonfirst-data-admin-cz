@@ -12,8 +12,10 @@
     "gn:latitude":49.83762,
     "gn:longitude":18.15751,
     "iso:country":"CZ",
+    "lbl:bbox":"18.168776,49.820315,18.178776,49.830315",
     "lbl:latitude":49.825315,
     "lbl:longitude":18.173776,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.823611,
     "mps:longitude":18.168818,
     "mz:hierarchy_label":0,
@@ -52,9 +54,6 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u0440\u0443\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "Poruba"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"85",
@@ -83,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748125,
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gn:id":3067777,
         "gp:id":796522,
-        "qs:id":883942,
         "qs_pg:id":883942,
         "wd:id":"Q3500288",
         "wk:page":"Poruba (Ostrava)"
@@ -114,7 +112,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246400,
+    "wof:lastmodified":1566710189,
     "wof:name":"Poruba",
     "wof:parent_id":101748125,
     "wof:placetype":"neighbourhood",

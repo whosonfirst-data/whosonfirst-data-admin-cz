@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.801644,
     "lbl:longitude":16.382644,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.801644,
     "mps:longitude":16.382644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0634\u0627\u0646\u0648\u0641"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "\u0160anov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sch\u00f6nau"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":3066410,
         "gp:id":797761,
-        "qs:id":1042990,
         "qs_pg:id":1042990,
         "wd:id":"Q391144",
         "wk:page":"\u0160anov (Znojmo District)"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101781069,
-    "wof:lastmodified":1563247850,
+    "wof:lastmodified":1566710657,
     "wof:name":"\u0160anov",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

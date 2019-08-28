@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.333756,
     "lbl:longitude":15.267201,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.333756,
     "mps:longitude":15.267201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0438\u0434\u043b\u043d\u043e"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":117,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3073261,
         "gp:id":791600,
-        "qs:id":145411,
         "qs_pg:id":145411,
         "wd:id":"Q1784043",
         "wk:page":"Kopidlno"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101824261,
-    "wof:lastmodified":1563247535,
+    "wof:lastmodified":1566710608,
     "wof:name":"Kopidlno",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.636422,
     "lbl:longitude":17.988625,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.636422,
     "mps:longitude":17.988625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kun\u00edn"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Kun\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kunvald"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3072503,
         "gp:id":792265,
-        "qs:id":341646,
         "qs_pg:id":341646,
         "wd:id":"Q1792751"
     },
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101840909,
-    "wof:lastmodified":1563247589,
+    "wof:lastmodified":1566710616,
     "wof:name":"Kun\u00edn",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

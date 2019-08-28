@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.510516,
     "lbl:longitude":12.804395,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.510516,
     "mps:longitude":12.804395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pob\u011b\u017eovice"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u041f\u043e\u0431\u0435\u0436\u043e\u0432\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ron\u0161perk"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3068150,
         "gp:id":796174,
-        "qs:id":939037,
         "qs_pg:id":939037,
         "wd:id":"Q1756960",
         "wk:page":"Pob\u011b\u017eovice"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101826439,
-    "wof:lastmodified":1563247292,
+    "wof:lastmodified":1566710571,
     "wof:name":"Pob\u011b\u017eovice",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

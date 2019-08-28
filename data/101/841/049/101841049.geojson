@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.478723,
     "lbl:longitude":16.181201,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.478723,
     "mps:longitude":16.181201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u0440\u043e\u043d\u0430\u045e"
     ],
@@ -101,7 +104,7 @@
     "name:tat_x_preferred":[
         "\u04ba\u0440\u043e\u043d\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hronow"
     ],
     "name:urd_x_preferred":[
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":163,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
         "gn:id":3074805,
         "gp:id":790275,
         "loc:id":"n86111416",
-        "qs:id":1187580,
         "qs_pg:id":1187580,
         "wd:id":"Q1019365",
         "wk:page":"Hronov"
@@ -158,7 +160,7 @@
         }
     ],
     "wof:id":101841049,
-    "wof:lastmodified":1563247467,
+    "wof:lastmodified":1566710598,
     "wof:name":"Hronov",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

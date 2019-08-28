@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.985721,
     "lbl:longitude":15.989812,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.985721,
     "mps:longitude":15.989812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jevi\u0161ovice"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":35,
     "wof:belongsto":[
@@ -118,7 +121,6 @@
         "fct:id":"06f70618-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3074239,
         "gp:id":790771,
-        "qs:id":876966,
         "qs_pg:id":876966,
         "wd:id":"Q1641793",
         "wk:page":"Jevi\u0161ovice"
@@ -137,7 +139,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247826,
+    "wof:lastmodified":1566710653,
     "wof:name":"Jevi\u0161ovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

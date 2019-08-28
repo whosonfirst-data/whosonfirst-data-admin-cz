@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.23192,50.45797,16.27192,50.49797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633105
@@ -35,7 +39,7 @@
         "gn:id":3061793
     },
     "wof:country":"CZ",
-    "wof:geomhash":"bdcb6aa458fefc96168759bd9634f904",
+    "wof:geomhash":"54d375b16df8b7cb586e3776fe6e7338",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209550409,
-    "wof:lastmodified":1536283713,
+    "wof:lastmodified":1566710362,
     "wof:name":"Zavrchy",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.251920000000002,
+    16.25192,
     50.47797,
-    16.251920000000002,
+    16.25192,
     50.47797
 ],
   "geometry": {"coordinates":[16.25192,50.47797],"type":"Point"}

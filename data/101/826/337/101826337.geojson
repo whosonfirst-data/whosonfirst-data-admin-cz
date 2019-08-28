@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.532012,
     "lbl:longitude":14.808619,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.532012,
     "mps:longitude":14.808619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mlad\u00e1 Vo\u017eice"
     ],
@@ -86,7 +89,7 @@
     "name:tgk_x_preferred":[
         "\u041c\u043b\u0430\u0434\u0430 \u0412\u043e\u0436\u0438\u0447\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jungwoschitz"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1387,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3070542,
         "gp:id":794036,
-        "qs:id":1043022,
         "qs_pg:id":1043022,
         "wd:id":"Q1456612",
         "wk:page":"Mlad\u00e1 Vo\u017eice"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101826337,
-    "wof:lastmodified":1563247275,
+    "wof:lastmodified":1566710569,
     "wof:name":"Mlad\u00e1 Vo\u017eice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

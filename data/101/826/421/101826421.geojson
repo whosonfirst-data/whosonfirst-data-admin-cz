@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.541171,
     "lbl:longitude":15.356284,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.541171,
     "mps:longitude":15.356284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u0443\u043c\u043f\u0430\u043b\u0435\u0446"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u043c\u043f\u043e\u043b\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Humpoletz"
     ],
     "name:vie_x_preferred":[
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":182,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
         "fct:id":"06f7d1c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3074723,
         "gp:id":790349,
-        "qs:id":884984,
         "qs_pg:id":884984,
         "wd:id":"Q1000060",
         "wk:page":"Humpolec"
@@ -161,7 +163,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247325,
+    "wof:lastmodified":1566710576,
     "wof:name":"Humpolec",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

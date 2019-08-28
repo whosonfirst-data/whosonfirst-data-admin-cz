@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.995231,
     "lbl:longitude":14.481835,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.995231,
     "mps:longitude":14.481835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "P\u00edsnice"
     ],
@@ -44,9 +47,6 @@
     "name:slk_x_preferred":[
         "P\u00edsnice"
     ],
-    "name:unk_x_variant":[
-        "Piesnitz"
-    ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Hlavn\u00ed mesto Praha",
     "qs:a1r":"0",
@@ -62,7 +62,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -73,7 +73,7 @@
         "fct:id":"070acea0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3068281,
         "gp:id":796066,
-        "qs:id":885705,
+        "qs_pg:id":885705,
         "wd:id":"Q3509780"
     },
     "wof:country":"CZ",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247248,
+    "wof:lastmodified":1566710564,
     "wof:name":"P\u00edsnice",
     "wof:parent_id":85682437,
     "wof:placetype":"locality",

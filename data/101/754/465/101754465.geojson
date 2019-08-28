@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
+    "geom:area_square_m":670155.304674,
     "geom:bbox":"18.3540731248,49.6406128585,18.3664731897,49.6585431413",
     "geom:latitude":49.649401,
     "geom:longitude":18.360443,
     "iso:country":"CZ",
     "lbl:latitude":49.648158,
     "lbl:longitude":18.361059,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.648158,
     "mps:longitude":18.361059,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Moravskoslezsk\u00fd",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":3072528,
         "gp:id":792242,
-        "qs:id":182966
+        "qs_pg:id":182966
     },
     "wof:country":"CZ",
-    "wof:geomhash":"1855f5ee7b938d3b061946beb7e6438f",
+    "wof:geomhash":"7f87d09a1ef68ed80e90f2b6c3e0ce21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101754465,
-    "wof:lastmodified":1466625806,
+    "wof:lastmodified":1566710565,
     "wof:name":"Kun\u010di\u010dky u Ba\u0161ky",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

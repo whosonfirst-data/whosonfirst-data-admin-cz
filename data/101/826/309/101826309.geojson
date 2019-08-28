@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.760314,
     "lbl:longitude":16.659879,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.760314,
     "mps:longitude":16.659879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u043e\u0440\u0430\u045e\u0441\u043a\u0430-\u0422\u0440\u0448\u044d\u0431\u0430\u0432\u0430"
     ],
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0430\u0432\u0441\u044c\u043a\u0430-\u0422\u0440\u0448\u0435\u0431\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00e4hrisch Tr\u00fcbau"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":326,
     "wof:belongsto":[
@@ -159,7 +162,6 @@
     "wof:concordances":{
         "gn:id":3070325,
         "gp:id":794226,
-        "qs:id":190341,
         "qs_pg:id":190341,
         "wd:id":"Q1000078",
         "wk:page":"Moravsk\u00e1 T\u0159ebov\u00e1"
@@ -175,7 +177,7 @@
         }
     ],
     "wof:id":101826309,
-    "wof:lastmodified":1563247270,
+    "wof:lastmodified":1566710568,
     "wof:name":"Moravsk\u00e1 T\u0159ebov\u00e1",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

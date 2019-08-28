@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
+    "geom:area_square_m":509810.389037,
     "geom:bbox":"16.2355699155,50.5284478915,16.2459773952,50.5455196269",
     "geom:latitude":50.536437,
     "geom:longitude":16.239467,
     "iso:country":"CZ",
     "lbl:latitude":50.535231,
     "lbl:longitude":16.239388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.535231,
     "mps:longitude":16.239388,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Kr\u00e1lov\u00e9hradeck\u00fd",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":3063251,
         "gp:id":800511,
-        "qs:id":1116587
+        "qs_pg:id":1116587
     },
     "wof:country":"CZ",
-    "wof:geomhash":"59bc0618d9ddfd1feb485dc4a077a830",
+    "wof:geomhash":"5093fc9d9300e42c2d576819e4cb0a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101841063,
-    "wof:lastmodified":1466626181,
+    "wof:lastmodified":1566710599,
     "wof:name":"Velk\u00e1 Ledhuje",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

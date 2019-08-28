@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.670047,
     "lbl:longitude":13.798339,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.670047,
     "mps:longitude":13.798339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dub\u00ed"
     ],
@@ -83,7 +86,7 @@
     "name:tat_x_preferred":[
         "\u0414\u0443\u0431\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eichwald"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":385,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3076346,
         "gp:id":788903,
-        "qs:id":325944,
         "qs_pg:id":325944,
         "wd:id":"Q601254",
         "wk:page":"Dub\u00ed"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101754479,
-    "wof:lastmodified":1563247249,
+    "wof:lastmodified":1566710564,
     "wof:name":"Dub\u00ed",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

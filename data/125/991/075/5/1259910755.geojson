@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"15.57333,49.83354,15.61333,49.87354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lhotka"
     ],
@@ -63,8 +67,7 @@
         "Lhotka"
     ],
     "name:und_x_variant":[
-        "Dv\u016dr Lhotka",
-        "Lhotka"
+        "Dv\u016dr Lhotka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1259910755,
-    "wof:lastmodified":1564103074,
+    "wof:lastmodified":1566711241,
     "wof:name":"Lhotka",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

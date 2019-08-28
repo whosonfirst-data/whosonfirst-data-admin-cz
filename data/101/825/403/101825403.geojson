@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.637933,
     "lbl:longitude":18.726883,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.637933,
     "mps:longitude":18.726883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0647"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Byst\u0159ice"
     ],
-    "name:unk_x_variant":[
-        "Bystrzyca"
-    ],
     "name:vie_x_preferred":[
         "Byst\u0159ice"
     ],
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,7 +116,6 @@
     "wof:concordances":{
         "gn:id":3078301,
         "gp:id":787154,
-        "qs:id":145503,
         "qs_pg:id":145503,
         "wd:id":"Q265711",
         "wk:page":"Byst\u0159ice (Fr\u00fddek-M\u00edstek District)"
@@ -132,7 +131,7 @@
         }
     ],
     "wof:id":101825403,
-    "wof:lastmodified":1563247757,
+    "wof:lastmodified":1566710643,
     "wof:name":"Byst\u0159ice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

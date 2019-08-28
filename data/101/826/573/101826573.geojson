@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.498485,
     "lbl:longitude":17.333934,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.498485,
     "mps:longitude":17.333934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u06cc\u062a\u06cc\u0646"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":327,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3071272,
         "gp:id":793380,
-        "qs:id":383448,
         "qs_pg:id":383448,
         "wd:id":"Q974069"
     },
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101826573,
-    "wof:lastmodified":1563247312,
+    "wof:lastmodified":1566710574,
     "wof:name":"Majet\u00edn",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

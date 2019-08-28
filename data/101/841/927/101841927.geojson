@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.619439,
     "lbl:longitude":17.397558,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.619439,
     "mps:longitude":17.397558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Mari\u00e1nsk\u00e9 \u00dadol\u00ed"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -57,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29396729,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q11770274"
     },
     "wof:country":"CZ",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101841927,
-    "wof:lastmodified":1563247498,
+    "wof:lastmodified":1566710602,
     "wof:name":"Mari\u00e1nsk\u00e9 \u00dadol\u00ed",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

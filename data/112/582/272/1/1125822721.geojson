@@ -9,15 +9,18 @@
     "geom:bbox":"15.58987,49.08718,15.58987,49.08718",
     "geom:latitude":49.08718,
     "geom:longitude":15.58987,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":238,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":238,
     "iso:country":"CZ",
+    "lbl:bbox":"15.56987,49.06718,15.60987,49.10718",
     "lbl:latitude":49.08718,
     "lbl:longitude":15.58987,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Bude\u010d"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u0435\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Butsch"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -64,7 +67,7 @@
     "qs_pg:qs_id":94503,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125822721,
-    "wof:lastmodified":1564102774,
+    "wof:lastmodified":1566711082,
     "wof:name":"Bude\u010d",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

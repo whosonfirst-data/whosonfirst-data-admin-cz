@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.433543,
     "lbl:longitude":18.284909,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.433543,
     "mps:longitude":18.284909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Horn\u00ed Be\u010dva"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -107,7 +110,7 @@
         "fct:id":"06fedeb0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3075454,
         "gp:id":12607153,
-        "qs:id":1207090,
+        "qs_pg:id":1207090,
         "wd:id":"Q2232658",
         "wk:page":"Horn\u00ed Be\u010dva"
     },
@@ -125,7 +128,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247596,
+    "wof:lastmodified":1566710617,
     "wof:name":"Horn\u00ed Be\u010dva",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.391182,
     "lbl:longitude":15.885712,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.391182,
     "mps:longitude":15.885712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u011b\u0159\u00edn"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":3070847,
         "gp:id":793752,
-        "qs:id":212691,
         "qs_pg:id":212691,
         "wd:id":"Q1959531",
         "wk:page":"M\u011b\u0159\u00edn"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101826417,
-    "wof:lastmodified":1563247326,
+    "wof:lastmodified":1566710576,
     "wof:name":"M\u011b\u0159\u00edn",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

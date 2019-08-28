@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.768411,
     "lbl:longitude":14.963116,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.768411,
     "mps:longitude":14.963116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u010cesk\u00e9 Velenice"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":156,
     "wof:belongsto":[
@@ -130,10 +133,12 @@
     "wof:concordances":{
         "gn:id":3063314,
         "gp:id":800456,
-        "qs:id":374809,
-        "qs_pg:id":401110,
+        "qs_pg:id":374809,
         "wd:id":"Q341197",
         "wk:page":"\u010cesk\u00e9 Velenice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":401110
     },
     "wof:country":"CZ",
     "wof:geomhash":"849ff8b423ffd5a4de85eb38afbb5ba7",
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":101831941,
-    "wof:lastmodified":1563247798,
+    "wof:lastmodified":1566710648,
     "wof:name":"\u010cesk\u00e9 Velenice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

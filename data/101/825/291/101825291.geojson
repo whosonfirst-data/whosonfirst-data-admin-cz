@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.088292,
     "lbl:longitude":16.462981,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.088292,
     "mps:longitude":16.462981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0416\u0430\u043c\u0431\u0435\u0440\u043a"
     ],
@@ -113,7 +116,7 @@
     "name:tur_x_preferred":[
         "\u017damberk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Senftenberg"
     ],
     "name:vie_x_preferred":[
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -150,7 +153,6 @@
     "wof:concordances":{
         "gn:id":3061888,
         "gp:id":801720,
-        "qs:id":481007,
         "qs_pg:id":481007,
         "wd:id":"Q158272",
         "wk:page":"\u017damberk"
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":101825291,
-    "wof:lastmodified":1563247749,
+    "wof:lastmodified":1566710641,
     "wof:name":"\u017damberk",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

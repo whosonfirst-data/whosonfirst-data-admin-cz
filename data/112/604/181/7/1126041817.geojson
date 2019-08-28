@@ -9,14 +9,18 @@
     "geom:bbox":"14.63293,49.96414,14.63293,49.96414",
     "geom:latitude":49.96414,
     "geom:longitude":14.63293,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"14.61293,49.94414,14.65293,49.98414",
     "lbl:latitude":49.96414,
     "lbl:longitude":14.63293,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Ja\u017elovice"
@@ -27,7 +31,7 @@
     "name:fra_x_preferred":[
         "Ja\u017elovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jaschlowitz"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -47,7 +51,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":790643,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"St\u0159edo\u010desk\u00fd kraj",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1126041817,
-    "wof:lastmodified":1561772461,
+    "wof:lastmodified":1566710839,
     "wof:name":"Ja\u017elovice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.537271,
     "lbl:longitude":17.310315,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.537271,
     "mps:longitude":17.310315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0631\u06cc\u0642\u0648\u0648"
     ],
@@ -86,7 +89,7 @@
     "name:swe_x_preferred":[
         "Grygov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gru\u201dgau"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":170,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3076084,
         "gp:id":789121,
-        "qs:id":1043069,
         "qs_pg:id":1043069,
         "wd:id":"Q1551174",
         "wk:page":"Grygov"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101826563,
-    "wof:lastmodified":1563247319,
+    "wof:lastmodified":1566710575,
     "wof:name":"Grygov",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.352107,
     "lbl:longitude":18.236839,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.352107,
     "mps:longitude":18.236839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u043e\u043b\u0438\u043d\u043a\u0430"
     ],
@@ -98,7 +101,7 @@
     "name:tat_x_preferred":[
         "\u041a\u0430\u0440\u043e\u043b\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karolinina Hu\u0165"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -136,7 +139,6 @@
         "fct:id":"06ffafd4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3073792,
         "gp:id":791147,
-        "qs:id":145416,
         "qs_pg:id":145416,
         "wd:id":"Q1027935",
         "wk:page":"Karolinka"
@@ -155,7 +157,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247806,
+    "wof:lastmodified":1566710650,
     "wof:name":"Karolinka",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

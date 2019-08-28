@@ -13,6 +13,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.146653,
     "lbl:longitude":14.523759,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.143466,
     "mps:longitude":14.514209,
     "mz:hierarchy_label":1,
@@ -94,9 +95,6 @@
     "name:swe_x_variant":[
         "Let\u0148any"
     ],
-    "name:unk_x_variant":[
-        "Praha 18"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
     "qs:gn_local":3067696,
@@ -136,7 +134,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24928616,
-        "qs:id":995453,
         "qs_pg:id":995453,
         "wd:id":"Q3497283"
     },
@@ -155,7 +152,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247485,
+    "wof:lastmodified":1566710175,
     "wof:name":"Praha 18",
     "wof:parent_id":101754431,
     "wof:placetype":"neighbourhood",

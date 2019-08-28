@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"13.69333,50.46374,13.73333,50.50374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sedlec"
     ],
@@ -66,8 +70,7 @@
         "Sedlec"
     ],
     "name:und_x_variant":[
-        "Sedlitz",
-        "Sedlec"
+        "Sedlitz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1310635925,
-    "wof:lastmodified":1564102017,
+    "wof:lastmodified":1566710506,
     "wof:name":"Sedlec",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

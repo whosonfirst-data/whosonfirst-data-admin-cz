@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.299134,
     "lbl:longitude":15.074546,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.299134,
     "mps:longitude":15.074546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Kamenice nad Lipou"
     ],
@@ -98,7 +101,7 @@
     "name:tat_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0438\u0442\u0441\u0435-\u043d\u0430\u0434-\u041b\u0438\u043f\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamenitz an der Linde"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":102,
     "wof:belongsto":[
@@ -136,7 +139,6 @@
         "fct:id":"06f7d2fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3073936,
         "gp:id":791024,
-        "qs:id":145426,
         "qs_pg:id":145426,
         "wd:id":"Q1019961",
         "wk:page":"Kamenice nad Lipou"
@@ -155,7 +157,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247892,
+    "wof:lastmodified":1566710663,
     "wof:name":"Kamenice nad Lipou",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

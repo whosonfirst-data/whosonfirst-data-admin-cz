@@ -14,10 +14,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.052171,
     "lbl:longitude":14.439668,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.052171,
     "mps:longitude":14.439668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u043b\u0443\u0431\u043e\u043a\u0430-\u043d\u0430\u0434-\u0412\u043b\u0442\u0430\u0432\u0430\u0439"
     ],
@@ -118,7 +121,7 @@
     "name:tat_x_preferred":[
         "\u04ba\u043b\u0443\u0431\u043e\u043a\u0430-\u043d\u0430\u0434-\u0412\u043b\u0442\u0430\u0432\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Frauenberg"
     ],
     "name:urd_x_preferred":[
@@ -146,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":338,
     "wof:belongsto":[
@@ -159,10 +162,12 @@
         "fct:id":"06f72120-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3075737,
         "gp:id":789423,
-        "qs:id":459724,
-        "qs_pg:id":1265980,
+        "qs_pg:id":459724,
         "wd:id":"Q1010144",
         "wk:page":"Hlubok\u00e1 nad Vltavou"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1265980
     },
     "wof:country":"CZ",
     "wof:geomhash":"2359a6d84af290e328b4588556b237b0",
@@ -178,7 +183,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247890,
+    "wof:lastmodified":1566710663,
     "wof:name":"Hlubok\u00e1 nad Vltavou",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

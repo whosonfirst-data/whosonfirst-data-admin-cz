@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.966808,
     "lbl:longitude":16.657827,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":48.966808,
     "mps:longitude":16.657827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0647\u0631\u062a\u0634\u06cc\u062a\u0633\u0647"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3063741,
         "gp:id":800109,
-        "qs:id":939285,
         "qs_pg:id":939285,
         "wd:id":"Q1023814",
         "wk:page":"Uher\u010dice (B\u0159eclav District)"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101780997,
-    "wof:lastmodified":1563247863,
+    "wof:lastmodified":1566710659,
     "wof:name":"Uher\u010dice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

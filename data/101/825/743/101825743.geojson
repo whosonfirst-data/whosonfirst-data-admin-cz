@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.98902,
     "lbl:longitude":14.049622,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.98902,
     "mps:longitude":14.049622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0647\u06cc\u0633\u06a9\u0648\u0648"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "H\u00fdskov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hyskow"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":3074621,
         "gp:id":790431,
-        "qs:id":2600,
         "qs_pg:id":2600,
         "wd:id":"Q1652713",
         "wk:page":"H\u00fdskov"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101825743,
-    "wof:lastmodified":1563247760,
+    "wof:lastmodified":1566710643,
     "wof:name":"H\u00fdskov",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

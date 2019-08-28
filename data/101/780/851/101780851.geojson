@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.219388,
     "lbl:longitude":17.851055,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.219388,
     "mps:longitude":17.851055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vizovice"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u0412\u0438\u0437\u043e\u0432\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wisowitz"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":111,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":3062783,
         "gp:id":800926,
-        "qs:id":581876,
         "qs_pg:id":581876,
         "wd:id":"Q1008610",
         "wk:page":"Vizovice"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101780851,
-    "wof:lastmodified":1563247872,
+    "wof:lastmodified":1566710660,
     "wof:name":"Vizovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

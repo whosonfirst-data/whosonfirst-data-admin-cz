@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.099746,
     "lbl:longitude":17.548378,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.099746,
     "mps:longitude":17.548378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "B\u00edlovice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bilowitz"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":3079334,
         "gp:id":786222,
-        "qs:id":1265209,
         "qs_pg:id":1265209,
         "wd:id":"Q784594",
         "wk:page":"B\u00edlovice (Uhersk\u00e9 Hradi\u0161t\u011b District)"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101779881,
-    "wof:lastmodified":1563247413,
+    "wof:lastmodified":1566710589,
     "wof:name":"B\u00edlovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

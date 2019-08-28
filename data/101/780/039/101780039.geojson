@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.32646,
     "lbl:longitude":17.169926,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.32646,
     "mps:longitude":17.169926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0646\u0632\u0627\u0645\u06cc\u0633\u0644\u06cc\u062a\u0633\u0647"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Nezamyslice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nezamislitz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3069773,
         "gp:id":794725,
-        "qs:id":145343,
         "qs_pg:id":145343,
         "wd:id":"Q1945770",
         "wk:page":"Nezamyslice"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101780039,
-    "wof:lastmodified":1563247873,
+    "wof:lastmodified":1566710660,
     "wof:name":"Nezamyslice",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

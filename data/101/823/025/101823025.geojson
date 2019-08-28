@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.898999,
     "lbl:longitude":15.139201,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.898999,
     "mps:longitude":15.139201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0441\u043f\u0435\u043d\u0430\u0432\u0430"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0420\u0430\u0441\u043f\u0435\u043d\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Raspenau"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":42,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3067006,
         "gp:id":797229,
-        "qs:id":877044,
         "qs_pg:id":877044,
         "wd:id":"Q1258284",
         "wk:page":"Raspenava"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101823025,
-    "wof:lastmodified":1563247508,
+    "wof:lastmodified":1566710604,
     "wof:name":"Raspenava",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

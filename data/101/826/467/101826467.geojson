@@ -9,17 +9,19 @@
     "geom:bbox":"13.192728515,49.6404345817,13.2145071515,49.6606279856",
     "geom:latitude":49.652692,
     "geom:longitude":13.204741,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2688,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":2688,
     "iso:country":"CZ",
     "lbl:latitude":49.655118,
     "lbl:longitude":13.203999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.655118,
     "mps:longitude":13.203999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062e\u0648\u062a\u06cc\u0634\u0648\u0641"
     ],
@@ -83,7 +85,7 @@
     "name:swe_x_preferred":[
         "Chot\u011b\u0161ov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chot\u011bschau"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -134,15 +136,14 @@
     "wof:concordances":{
         "gn:id":3077648,
         "gp:id":787701,
-        "qs:id":145496,
-        "qs_pg:id":397717,
+        "qs_pg:id":145496,
         "wd:id":"Q686448",
         "wk:page":"Chot\u011b\u0161ov (Plze\u0148-South District)"
     },
     "wof:concordances_alt":{
         "gn:id":3077650,
         "gp:id":787700,
-        "qs_pg:id":145496
+        "qs_pg:id":397717
     },
     "wof:country":"CZ",
     "wof:geomhash":"be7141c9bdea192fd7ba19728d00fdfd",
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":101826467,
-    "wof:lastmodified":1563247335,
+    "wof:lastmodified":1566710578,
     "wof:name":"Chot\u011b\u0161ov",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.71785,49.78405,17.75785,49.82405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lhotka"
     ],
@@ -63,8 +67,7 @@
         "Lhotka"
     ],
     "name:und_x_variant":[
-        "Nitschenau",
-        "Lhotka"
+        "Nitschenau"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1360116177,
-    "wof:lastmodified":1564102120,
+    "wof:lastmodified":1566710547,
     "wof:name":"Lhotka",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"17.8673843029,49.8628610893,17.8870584464,49.8833584913",
     "geom:latitude":49.872994,
     "geom:longitude":17.875256,
-    "geonames:id":"3074975,6559673",
+    "gn:id":"3074975,6559673",
     "iso:country":"CZ",
     "lbl:latitude":49.873098,
     "lbl:longitude":17.874585,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.873098,
     "mps:longitude":17.874585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hradec nad Moravici"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191581,
@@ -125,7 +128,6 @@
     "wof:concordances":{
         "gn:id":6559673,
         "gp:id":790131,
-        "qs:id":1312243,
         "qs_pg:id":1312243,
         "wd:id":"Q668190"
     },
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101840933,
-    "wof:lastmodified":1563247614,
+    "wof:lastmodified":1566710620,
     "wof:name":"Hradec nad Moravic\u00ed",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

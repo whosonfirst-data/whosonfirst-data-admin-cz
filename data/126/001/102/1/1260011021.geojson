@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"13.69353,48.93665,13.73353,48.97665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u062a\u06cc\u0626\u0627"
     ],
@@ -114,8 +118,7 @@
         "\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Filz",
-        "Slatina"
+        "Filz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1260011021,
-    "wof:lastmodified":1564101891,
+    "wof:lastmodified":1566710455,
     "wof:name":"Slatina",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

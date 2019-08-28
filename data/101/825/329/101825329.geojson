@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.965369,
     "lbl:longitude":12.66752,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.965369,
     "mps:longitude":12.66752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0644\u06a9\u0627 \u0647\u0644\u062f\u0633\u0628\u0647"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Velk\u00e1 Hle\u010fsebe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siehdichf\u00fcr"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":22,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3063261,
         "gp:id":800505,
-        "qs:id":1116581,
         "qs_pg:id":1116581,
         "wd:id":"Q1411253",
         "wk:page":"Velk\u00e1 Hle\u010fsebe"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101825329,
-    "wof:lastmodified":1563247763,
+    "wof:lastmodified":1566710643,
     "wof:name":"Velk\u00e1 Hle\u010fsebe",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

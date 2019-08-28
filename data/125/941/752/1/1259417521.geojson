@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.50321,49.79096,17.54321,49.83096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u06cc\u062e\u0627\u0631\u062a\u06cc\u062a\u0633\u0647"
     ],
@@ -78,8 +82,7 @@
         "Rejchartice"
     ],
     "name:und_x_variant":[
-        "Reigersdorf",
-        "Rejchartice"
+        "Reigersdorf"
     ],
     "name:vie_x_preferred":[
         "Rejchartice"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1259417521,
-    "wof:lastmodified":1564103087,
+    "wof:lastmodified":1566711246,
     "wof:name":"Rejchartice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

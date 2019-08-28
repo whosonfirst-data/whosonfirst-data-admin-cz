@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.972835,
     "lbl:longitude":17.262784,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.972835,
     "mps:longitude":17.262784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Bzenec"
     ],
@@ -86,7 +89,7 @@
     "name:tat_x_preferred":[
         "\u0411\u0437\u0435\u043d\u0435\u0442\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bisenz"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":646,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":3078275,
         "gp:id":787159,
-        "qs:id":1222902,
         "qs_pg:id":1222902,
         "wd:id":"Q1018795",
         "wk:page":"Bzenec"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101832017,
-    "wof:lastmodified":1563247360,
+    "wof:lastmodified":1566710582,
     "wof:name":"Bzenec",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

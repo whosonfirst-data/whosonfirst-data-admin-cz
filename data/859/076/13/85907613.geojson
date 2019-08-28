@@ -11,8 +11,10 @@
     "geom:longitude":15.066679,
     "gn:id":"",
     "iso:country":"CZ",
+    "lbl:bbox":"15.061679,50.762898,15.071679,50.772898",
     "lbl:latitude":50.767898,
     "lbl:longitude":15.066679,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.768339,
     "mps:longitude":15.067861,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
     ],
     "name:cze_x_variant":[
         "Liberec IV-Pert\u00fdn"
-    ],
-    "name:unk_x_variant":[
-        "Liberec IV-Per\u0161t\u00fdn"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748147,
@@ -77,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23406437,
-        "qs:id":501440,
         "qs_pg:id":501440
     },
     "wof:country":"CZ",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772282,
+    "wof:lastmodified":1566710178,
     "wof:name":"Liberec IV-Per\u0161t\u00fdn",
     "wof:parent_id":101748147,
     "wof:placetype":"neighbourhood",

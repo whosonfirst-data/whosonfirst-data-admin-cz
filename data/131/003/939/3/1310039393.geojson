@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.14667,49.48,14.18667,49.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0417\u0430\u043c\u0430\u043a \u041e\u0440\u043b\u0456\u043a"
     ],
@@ -57,8 +61,7 @@
         "Z\u00e1mok Orl\u00edk"
     ],
     "name:und_x_variant":[
-        "Worlik",
-        "Orl\u00edk"
+        "Worlik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1310039393,
-    "wof:lastmodified":1564102049,
+    "wof:lastmodified":1566710519,
     "wof:name":"Orlik",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

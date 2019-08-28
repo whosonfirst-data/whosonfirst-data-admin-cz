@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.848744,
     "lbl:longitude":18.000374,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.848744,
     "mps:longitude":18.000374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pust\u00e1 Polom"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":40,
     "wof:belongsto":[
@@ -111,10 +114,12 @@
     "wof:concordances":{
         "gn:id":3067310,
         "gp:id":24929128,
-        "qs:id":145302,
         "qs_pg:id":60313,
         "wd:id":"Q1844185",
         "wk:page":"Pust\u00e1 Polom"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":145302
     },
     "wof:country":"CZ",
     "wof:geomhash":"90f12b9b975160f70e501ac33d40de63",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":101825431,
-    "wof:lastmodified":1563247678,
+    "wof:lastmodified":1566710630,
     "wof:name":"Pust\u00e1 Polom",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.133716,
     "lbl:longitude":13.319035,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.133716,
     "mps:longitude":13.319035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u0628\u0646\u062a\u0633"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Lubenec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lubenz"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3071467,
         "gp:id":793215,
-        "qs:id":208204,
         "qs_pg:id":208204,
         "wd:id":"Q1828684",
         "wk:page":"Lubenec"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101825785,
-    "wof:lastmodified":1563247693,
+    "wof:lastmodified":1566710633,
     "wof:name":"Lubenec",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

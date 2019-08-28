@@ -9,15 +9,18 @@
     "geom:bbox":"17.06246,49.4057,17.06246,49.4057",
     "geom:latitude":49.4057,
     "geom:longitude":17.06246,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":84,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":84,
     "iso:country":"CZ",
+    "lbl:bbox":"17.04246,49.3857,17.08246,49.4257",
     "lbl:latitude":49.4057,
     "lbl:longitude":17.06246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0646\u062a\u0633\u0646\u062a\u0633\u0648\u0648"
@@ -70,7 +73,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0438\u043d\u0446\u0435\u043d\u0446\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vincenzdorf"
     ],
     "name:vie_x_preferred":[
@@ -95,7 +98,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":800841,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1126017311,
-    "wof:lastmodified":1563250137,
+    "wof:lastmodified":1566711052,
     "wof:name":"Vincencov",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

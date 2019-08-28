@@ -24,8 +24,12 @@
     "gn:population":126,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.02174,50.11311,16.06174,50.15311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u0627 \u0648\u0633"
     ],
@@ -74,9 +78,6 @@
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0412\u0435\u0441"
     ],
-    "name:und_x_variant":[
-        "Nov\u00e1 Ves"
-    ],
     "name:vie_x_preferred":[
         "Nov\u00e1 Ves"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1343397343,
-    "wof:lastmodified":1564101078,
+    "wof:lastmodified":1566710107,
     "wof:name":"Nova Ves",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

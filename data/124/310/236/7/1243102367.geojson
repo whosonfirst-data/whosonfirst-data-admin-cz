@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.40217,50.81616,14.44217,50.85616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Lipnice"
     ],
@@ -36,8 +40,7 @@
         "\u041b\u0456\u043f\u043d\u0456\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Limpach",
-        "Lipnice"
+        "Limpach"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1243102367,
-    "wof:lastmodified":1564103057,
+    "wof:lastmodified":1566711235,
     "wof:name":"Lipnice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

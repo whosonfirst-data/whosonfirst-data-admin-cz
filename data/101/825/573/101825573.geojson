@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.873833,
     "lbl:longitude":17.08653,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.873833,
     "mps:longitude":17.08653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0628\u06cc\u0646\u0627"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Horn\u00ed Libina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u011bmeck\u00e1 Libina"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":144,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3075319,
         "gp:id":789793,
-        "qs:id":1266065,
         "qs_pg:id":1266065,
         "wd:id":"Q574819",
         "wk:page":"Libina"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101825573,
-    "wof:lastmodified":1563247705,
+    "wof:lastmodified":1566710635,
     "wof:name":"Libina",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

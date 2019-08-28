@@ -12,8 +12,10 @@
     "gn:latitude":49.84249,
     "gn:longitude":18.26727,
     "iso:country":"CZ",
+    "lbl:bbox":"18.273959,49.829525,18.283959,49.839525",
     "lbl:latitude":49.834525,
     "lbl:longitude":18.278959,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.833024,
     "mps:longitude":18.276041,
     "mz:hierarchy_label":0,
@@ -57,10 +59,6 @@
     "name:slk_x_preferred":[
         "Moravsk\u00e1 Ostrava"
     ],
-    "name:unk_x_variant":[
-        "Morawska Ostrawa",
-        "Moravska Ostrava"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"85",
@@ -89,7 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748125,
@@ -100,7 +98,6 @@
     "wof:concordances":{
         "gn:id":3070328,
         "gp:id":794224,
-        "qs:id":1075175,
         "qs_pg:id":1075175,
         "wd:id":"Q3524703"
     },
@@ -119,7 +116,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563246363,
+    "wof:lastmodified":1566710179,
     "wof:name":"Moravska Ostrava",
     "wof:parent_id":101748125,
     "wof:placetype":"neighbourhood",

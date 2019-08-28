@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.758987,
     "lbl:longitude":16.889078,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.758987,
     "mps:longitude":16.889078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u062a\u0633\u0644\u0627\u0641"
     ],
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":48.758991,
     "wd:longitude":16.882021,
@@ -163,7 +166,6 @@
         "fct:id":"06f6b24e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3078773,
         "gp:id":786719,
-        "qs:id":459714,
         "qs_pg:id":459714,
         "wd:id":"Q581478",
         "wk:page":"B\u0159eclav"
@@ -182,7 +184,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247795,
+    "wof:lastmodified":1566710648,
     "wof:name":"B\u0159eclav",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

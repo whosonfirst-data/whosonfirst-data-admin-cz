@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"12.42088,49.97238,12.46088,50.01238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boden"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1293914059,
-    "wof:lastmodified":1564101271,
+    "wof:lastmodified":1566710205,
     "wof:name":"Boden",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

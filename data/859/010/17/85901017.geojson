@@ -12,8 +12,10 @@
     "gn:latitude":50.03267,
     "gn:longitude":15.21027,
     "iso:country":"CZ",
+    "lbl:bbox":"15.202809,50.028435,15.212809,50.038435",
     "lbl:latitude":50.033435,
     "lbl:longitude":15.207809,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.028786,
     "mps:longitude":15.207654,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:spa_x_preferred":[
         "Valle del Zalab\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Z\u00e1lab\u00ed"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3073371,
@@ -94,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101825645,
@@ -105,7 +104,6 @@
     "wof:concordances":{
         "gn:id":3061947,
         "gp:id":801663,
-        "qs:id":1218594,
         "qs_pg:id":1218594
     },
     "wof:country":"CZ",
@@ -123,7 +121,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772296,
+    "wof:lastmodified":1566710193,
     "wof:name":"Z\u00e1lab\u00ed",
     "wof:parent_id":101825645,
     "wof:placetype":"neighbourhood",

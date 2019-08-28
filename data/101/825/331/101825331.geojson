@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.218712,
     "lbl:longitude":12.199003,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.218712,
     "mps:longitude":12.199003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:arg_x_preferred":[
         "A\u0161"
     ],
@@ -131,7 +134,7 @@
     "name:tur_x_preferred":[
         "A\u0161"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Asch"
     ],
     "name:urd_x_preferred":[
@@ -159,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1998,
     "wof:belongsto":[
@@ -171,7 +174,6 @@
     "wof:concordances":{
         "gn:id":3079751,
         "gp:id":785878,
-        "qs:id":1043113,
         "qs_pg:id":1043113,
         "wd:id":"Q583910",
         "wk:page":"A\u0161"
@@ -187,7 +189,7 @@
         }
     ],
     "wof:id":101825331,
-    "wof:lastmodified":1563247632,
+    "wof:lastmodified":1566710623,
     "wof:name":"A\u0161",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

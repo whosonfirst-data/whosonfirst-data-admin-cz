@@ -12,8 +12,10 @@
     "gn:latitude":49.59063,
     "gn:longitude":17.21901,
     "iso:country":"CZ",
+    "lbl:bbox":"17.21086,49.584195,17.22086,49.594195",
     "lbl:latitude":49.589195,
     "lbl:longitude":17.21586,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.586842,
     "mps:longitude":17.213856,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
     "name:cze_x_variant":[
         "Neretein",
         "Ne\u00f8ed\u00edn"
-    ],
-    "name:unk_x_variant":[
-        "Neretein",
-        "Ne\u0159ed\u00edn"
     ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
@@ -71,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -81,7 +79,6 @@
     "wof:concordances":{
         "gn:id":3069843,
         "gp:id":794656,
-        "qs:id":183100,
         "qs_pg:id":183100
     },
     "wof:country":"CZ",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772290,
+    "wof:lastmodified":1566710186,
     "wof:name":"Ne\u0159ed\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

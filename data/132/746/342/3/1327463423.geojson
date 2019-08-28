@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"13.07029,49.30752,13.11029,49.34752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0631\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -78,8 +82,7 @@
         "Orlovice"
     ],
     "name:und_x_variant":[
-        "Silberberg",
-        "Orlovice"
+        "Silberberg"
     ],
     "name:vie_x_preferred":[
         "Orlovice"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1327463423,
-    "wof:lastmodified":1564100986,
+    "wof:lastmodified":1566710068,
     "wof:name":"Orlovice",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

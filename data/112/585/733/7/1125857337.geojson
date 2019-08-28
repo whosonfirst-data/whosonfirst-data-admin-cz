@@ -9,15 +9,18 @@
     "geom:bbox":"12.78693,50.03687,12.78693,50.03687",
     "geom:latitude":50.03687,
     "geom:longitude":12.78693,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":351,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":351,
     "iso:country":"CZ",
+    "lbl:bbox":"12.76693,50.01687,12.80693,50.05687",
     "lbl:latitude":50.03687,
     "lbl:longitude":12.78693,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Mnichov"
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Mnichov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Einsiedl"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":794112,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125857337,
-    "wof:lastmodified":1564102788,
+    "wof:lastmodified":1566711102,
     "wof:name":"Mnichov",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

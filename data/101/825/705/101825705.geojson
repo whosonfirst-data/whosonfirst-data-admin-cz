@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.027126,
     "lbl:longitude":13.869258,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.027126,
     "mps:longitude":13.869258,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Roztoky"
     ],
@@ -80,7 +83,7 @@
     "name:tat_x_preferred":[
         "\u0420\u043e\u0437\u0442\u043e\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rostok"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":205,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":3066637,
         "gp:id":797559,
-        "qs:id":1042991,
         "qs_pg:id":1042991,
         "wd:id":"Q1756968"
     },
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101825705,
-    "wof:lastmodified":1563247706,
+    "wof:lastmodified":1566710635,
     "wof:name":"Roztoky",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

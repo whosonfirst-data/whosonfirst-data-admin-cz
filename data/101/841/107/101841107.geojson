@@ -12,10 +12,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.801618,
     "lbl:longitude":14.409178,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.801618,
     "mps:longitude":14.409178,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u010cesk\u00e1 Kamenice"
     ],
@@ -105,7 +108,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":194,
     "wof:belongsto":[
         102191581,
@@ -115,7 +118,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":787446,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q340680"
     },
     "wof:country":"CZ",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101841107,
-    "wof:lastmodified":1563247484,
+    "wof:lastmodified":1566710600,
     "wof:name":"Doln\u00ed Kamenice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

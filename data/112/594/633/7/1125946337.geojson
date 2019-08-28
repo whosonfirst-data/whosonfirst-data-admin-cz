@@ -9,15 +9,18 @@
     "geom:bbox":"15.65166,50.33925,15.65166,50.33925",
     "geom:latitude":50.33925,
     "geom:longitude":15.65166,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":274,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":274,
     "iso:country":"CZ",
+    "lbl:bbox":"15.63166,50.31925,15.67166,50.35925",
     "lbl:latitude":50.33925,
     "lbl:longitude":15.65166,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "T\u0159ebnou\u0161eves"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "T\u0159ebnou\u0161eves"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velk\u00e1 T\u0159ebnou\u0161eves"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +96,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":799780,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125946337,
-    "wof:lastmodified":1563247998,
+    "wof:lastmodified":1566710693,
     "wof:name":"T\u0159ebnou\u0161eves",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

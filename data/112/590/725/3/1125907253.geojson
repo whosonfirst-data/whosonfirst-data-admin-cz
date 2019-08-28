@@ -9,15 +9,18 @@
     "geom:bbox":"16.39423,49.42559,16.39423,49.42559",
     "geom:latitude":49.42559,
     "geom:longitude":16.39423,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":108,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":108,
     "iso:country":"CZ",
+    "lbl:bbox":"16.37423,49.40559,16.41423,49.44559",
     "lbl:latitude":49.42559,
     "lbl:longitude":16.39423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0648\u062e\u0648\u0632 \u0648 \u062a\u06cc\u0634\u0646\u0648\u0648\u0627"
@@ -67,7 +70,7 @@
     "name:swe_x_preferred":[
         "Ochoz u Ti\u0161nova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ochoz"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +93,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":795294,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1125907253,
-    "wof:lastmodified":1564102619,
+    "wof:lastmodified":1566710964,
     "wof:name":"Ochoz u Ti\u0161nova",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

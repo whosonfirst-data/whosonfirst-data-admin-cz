@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.371939,
     "lbl:longitude":13.78976,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.371939,
     "mps:longitude":13.78976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0628\u0631\u0648\u0645\u06cc\u0631\u06cc\u062a\u0633\u0647"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3077006,
         "gp:id":788274,
-        "qs:id":190028,
         "qs_pg:id":190028,
         "wd:id":"Q2010789",
         "wk:page":"Dobrom\u011b\u0159ice"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101841117,
-    "wof:lastmodified":1563247482,
+    "wof:lastmodified":1566710600,
     "wof:name":"Dobrom\u011b\u0159ice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

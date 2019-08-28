@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.896921,
     "lbl:longitude":14.641203,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.896921,
     "mps:longitude":14.641203,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Borovany"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,10 +119,12 @@
     "wof:concordances":{
         "gn:id":3078956,
         "gp:id":786561,
-        "qs:id":145525,
-        "qs_pg:id":1265300,
+        "qs_pg:id":145525,
         "wd:id":"Q894102",
         "wk:page":"Borovany (\u010cesk\u00e9 Bud\u011bjovice District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1265300
     },
     "wof:country":"CZ",
     "wof:geomhash":"84a03915e5da0b74074de0b1e4c90c04",
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":101780881,
-    "wof:lastmodified":1563247868,
+    "wof:lastmodified":1566710660,
     "wof:name":"Borovany",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

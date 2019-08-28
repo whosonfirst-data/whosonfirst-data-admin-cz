@@ -10,8 +10,10 @@
     "geom:latitude":50.059996,
     "geom:longitude":14.437961,
     "iso:country":"CZ",
+    "lbl:bbox":"14.4329612325,50.0549958242,14.4429612325,50.0649958242",
     "lbl:latitude":50.059996,
     "lbl:longitude":14.437961,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -48,7 +50,7 @@
     "name:slk_x_preferred":[
         "Nusle"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748113,
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108938409,
-    "wof:lastmodified":1561772338,
+    "wof:lastmodified":1566710479,
     "wof:name":"Nusle",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

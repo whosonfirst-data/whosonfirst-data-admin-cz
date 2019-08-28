@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.228427,
     "lbl:longitude":14.57567,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.228427,
     "mps:longitude":14.57567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kostelec nad Labem"
     ],
@@ -80,7 +83,7 @@
     "name:tat_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0435\u043b\u0435\u0442\u0441-\u043d\u0430\u0434-\u041b\u0430\u0431\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elbe Kosteletz"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":41,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":3073151,
         "gp:id":791696,
-        "qs:id":348733,
         "qs_pg:id":348733,
         "wd:id":"Q1785189",
         "wk:page":"Kostelec nad Labem"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101824219,
-    "wof:lastmodified":1563247530,
+    "wof:lastmodified":1566710607,
     "wof:name":"Kostelec nad Labem",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

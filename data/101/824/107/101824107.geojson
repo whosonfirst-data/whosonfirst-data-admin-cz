@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":50.304895,
     "lbl:longitude":12.175869,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.304895,
     "mps:longitude":12.175869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hranice"
     ],
@@ -83,7 +86,7 @@
     "name:tat_x_preferred":[
         "\u04ba\u0440\u0430\u043d\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rossbach"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3074889,
         "gp:id":790198,
-        "qs:id":1206037,
         "qs_pg:id":1206037,
         "wd:id":"Q933400",
         "wk:page":"Hranice (Cheb District)"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101824107,
-    "wof:lastmodified":1563247556,
+    "wof:lastmodified":1566710611,
     "wof:name":"Hranice",
     "wof:parent_id":85682447,
     "wof:placetype":"locality",

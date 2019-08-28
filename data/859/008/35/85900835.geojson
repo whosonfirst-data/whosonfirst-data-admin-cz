@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.114756,
     "lbl:longitude":14.439827,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.096798,
     "mps:longitude":14.434665,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:ces_x_preferred":[
-        "Pelc Tyrolka"
-    ],
-    "name:unk_x_variant":[
         "Pelc Tyrolka"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -72,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3068455,
         "gp:id":795909,
-        "qs:id":901325,
         "qs_pg:id":901325
     },
     "wof:country":"CZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247483,
+    "wof:lastmodified":1566710186,
     "wof:name":"Pelc Tyrolka",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

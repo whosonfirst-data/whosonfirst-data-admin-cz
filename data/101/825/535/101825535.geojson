@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.686718,
     "lbl:longitude":18.277946,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.686718,
     "mps:longitude":18.277946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u062a\u0627\u0631\u06cc\u062a\u0634"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Sta\u0159\u00ed\u010d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staritsch"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":3065300,
         "gp:id":798732,
-        "qs:id":1060668,
+        "qs_pg:id":1060668,
         "wd:id":"Q597745",
         "wk:page":"Sta\u0159\u00ed\u010d"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101825535,
-    "wof:lastmodified":1563247646,
+    "wof:lastmodified":1566710626,
     "wof:name":"Sta\u0159\u00ed\u010d",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

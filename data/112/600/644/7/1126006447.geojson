@@ -9,14 +9,18 @@
     "geom:bbox":"17.59738,49.7625,17.59738,49.7625",
     "geom:latitude":49.7625,
     "geom:longitude":17.59738,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CZ",
+    "lbl:bbox":"17.57738,49.7425,17.61738,49.7825",
     "lbl:latitude":49.7625,
     "lbl:longitude":17.59738,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Podles\u00ed"
@@ -48,7 +52,7 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u0434\u043b\u0435\u0441\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sch\u00f6nwald"
     ],
     "qs_pg:aaroncc":"CZ",
@@ -70,7 +74,7 @@
     "qs_pg:woe_adm0":23424810,
     "qs_pg:woe_id":24928822,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424810,
     "woe:name_adm0":"\u010cesk\u00e1 republika",
     "woe:name_adm1":"Zl\u00ednsk\u00fd kraj",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1126006447,
-    "wof:lastmodified":1564102762,
+    "wof:lastmodified":1566711070,
     "wof:name":"Podles\u00ed",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

@@ -5,16 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
+    "geom:area_square_m":1325830.835292,
     "geom:bbox":"16.4729251765,49.2012984552,16.500752892,49.2119637937",
     "geom:latitude":49.20678,
     "geom:longitude":16.486019,
     "iso:country":"CZ",
     "lbl:latitude":49.207011,
     "lbl:longitude":16.486019,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.207011,
     "mps:longitude":16.486019,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Schebetein"
     ],
     "qs:a0":"Cesk\u00e1 republika",
@@ -32,7 +37,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":101779943,
-    "wof:lastmodified":1501265213,
+    "wof:lastmodified":1566710596,
     "wof:name":"\u017deb\u011bt\u00edn",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

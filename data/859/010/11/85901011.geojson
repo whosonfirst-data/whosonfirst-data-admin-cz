@@ -13,6 +13,7 @@
     "iso:country":"CZ",
     "lbl:latitude":49.971973,
     "lbl:longitude":14.393606,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.964288,
     "mps:longitude":14.392921,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Zabovesky"
     ],
     "name:eng_x_variant":[
-        "\u017dabovesky"
-    ],
-    "name:unk_x_variant":[
         "\u017dabovesky"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -79,7 +77,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":801497,
-        "qs:id":210387,
         "qs_pg:id":210387
     },
     "wof:country":"CZ",
@@ -97,7 +94,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326132,
+    "wof:lastmodified":1566710193,
     "wof:name":"Zabovesky",
     "wof:parent_id":101825227,
     "wof:placetype":"neighbourhood",

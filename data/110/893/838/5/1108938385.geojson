@@ -10,8 +10,10 @@
     "geom:latitude":50.017463,
     "geom:longitude":14.651802,
     "iso:country":"CZ",
+    "lbl:bbox":"14.6468023696,50.0124633158,14.6568023696,50.0224633158",
     "lbl:latitude":50.017463,
     "lbl:longitude":14.651802,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:ces_x_preferred":[
         "Nedv\u011bz\u00ed u \u0158\u00ed\u010dan"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -44,7 +46,7 @@
         }
     ],
     "wof:id":1108938385,
-    "wof:lastmodified":1561772339,
+    "wof:lastmodified":1566710480,
     "wof:name":"Nedvezi u Rican",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

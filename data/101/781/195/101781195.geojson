@@ -9,17 +9,19 @@
     "geom:bbox":"13.5007824757,49.2141225088,13.554372191,49.2549580745",
     "geom:latitude":49.23462,
     "geom:longitude":13.523906,
-    "gn:gn_country":"CZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11483,
+    "gn:country":"CZ",
+    "gn:fcode":"PPL",
     "gn:population":11483,
     "iso:country":"CZ",
     "lbl:latitude":49.233149,
     "lbl:longitude":13.517614,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.233149,
     "mps:longitude":13.517614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0421\u0443\u0448\u044b\u0446\u044b"
     ],
@@ -124,9 +126,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0448\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Sch\u00fcttenhofen"
-    ],
     "name:vie_x_preferred":[
         "Su\u0161ice"
     ],
@@ -169,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":987,
     "wof:belongsto":[
@@ -182,7 +181,6 @@
         "fct:id":"070441fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3064690,
         "gp:id":24930050,
-        "qs:id":1042973,
         "qs_pg:id":1028073,
         "wd:id":"Q1000056",
         "wk:page":"Su\u0161ice"
@@ -206,7 +204,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1563247813,
+    "wof:lastmodified":1566710651,
     "wof:name":"Su\u0161ice",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

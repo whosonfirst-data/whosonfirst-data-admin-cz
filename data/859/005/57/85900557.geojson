@@ -14,6 +14,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.040456,
     "lbl:longitude":14.495637,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.020975,
     "mps:longitude":14.50142,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:ces_x_preferred":[
-        "Chodovec"
-    ],
-    "name:unk_x_variant":[
         "Chodovec"
     ],
     "qs:gn_adm0_cc":"CZ",
@@ -70,7 +68,6 @@
     "wof:concordances":{
         "gn:id":3077704,
         "gp:id":787651,
-        "qs:id":1159051,
         "qs_pg:id":1159051
     },
     "wof:country":"CZ",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566247481,
+    "wof:lastmodified":1566710194,
     "wof:name":"Chodovec",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

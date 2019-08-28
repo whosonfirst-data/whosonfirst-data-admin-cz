@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.052098,
     "lbl:longitude":15.808744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.052098,
     "mps:longitude":15.808744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Moravsk\u00e9 Bud\u011bjovice"
     ],
@@ -101,7 +104,7 @@
     "name:tat_x_preferred":[
         "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u0435-\u0411\u0443\u0434\u0435\u0439\u043e\u0432\u0438\u0442\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00e4hrisch-Budwitz"
     ],
     "name:vie_x_preferred":[
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":113,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":3070323,
         "gp:id":794228,
-        "qs:id":145353,
         "qs_pg:id":145353,
         "wd:id":"Q1019956",
         "wk:page":"Moravsk\u00e9 Bud\u011bjovice"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101780017,
-    "wof:lastmodified":1563247892,
+    "wof:lastmodified":1566710663,
     "wof:name":"Moravsk\u00e9 Bud\u011bjovice",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

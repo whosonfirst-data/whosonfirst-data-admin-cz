@@ -13,6 +13,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.05238,
     "lbl:longitude":14.513408,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.049524,
     "mps:longitude":14.518019,
     "mz:hierarchy_label":1,
@@ -76,9 +77,6 @@
     "name:swe_x_preferred":[
         "Prace"
     ],
-    "name:unk_x_variant":[
-        "Pr\u00e1\u010de"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_id":0,
     "qs:gn_local":3067696,
@@ -117,7 +115,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":796582,
-        "qs:id":981600,
         "qs_pg:id":981600
     },
     "wof:country":"CZ",
@@ -135,7 +132,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326124,
+    "wof:lastmodified":1566710188,
     "wof:name":"Prace",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

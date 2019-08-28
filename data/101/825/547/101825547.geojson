@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
+    "geom:area_square_m":299020.469136,
     "geom:bbox":"18.3257018525,49.707836288,18.3382672212,49.7130118788",
     "geom:latitude":49.710242,
     "geom:longitude":18.332095,
     "iso:country":"CZ",
     "lbl:latitude":49.709851,
     "lbl:longitude":18.332095,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.709851,
     "mps:longitude":18.332095,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Moravskoslezsk\u00fd",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":3071732,
         "gp:id":792976,
-        "qs:id":399163
+        "qs_pg:id":399163
     },
     "wof:country":"CZ",
-    "wof:geomhash":"745c1e8030e1f632759907b4c883badc",
+    "wof:geomhash":"67edcf7e6523f186cb4c8621c0da7884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101825547,
-    "wof:lastmodified":1467243593,
+    "wof:lastmodified":1566710643,
     "wof:name":"L\u00edskovec",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

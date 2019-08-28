@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":48.821702,
     "lbl:longitude":17.057393,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.821702,
     "mps:longitude":17.057393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u0698\u06cc\u062a\u0633\u0647"
     ],
@@ -80,7 +83,7 @@
     "name:swe_x_preferred":[
         "Lu\u017eice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luschitz"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,10 +116,12 @@
     "wof:concordances":{
         "gn:id":3071328,
         "gp:id":793334,
-        "qs:id":847872,
         "qs_pg:id":399254,
         "wd:id":"Q967239",
         "wk:page":"Lu\u017eice (Hodon\u00edn District)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":847872
     },
     "wof:country":"CZ",
     "wof:geomhash":"568696995b870a6de8545637d18ed6de",
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":101781029,
-    "wof:lastmodified":1563247843,
+    "wof:lastmodified":1566710656,
     "wof:name":"Lu\u017eice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":49.81489,
     "gn:longitude":18.26769,
     "iso:country":"CZ",
+    "lbl:bbox":"18.253445,49.802675,18.263445,49.812675",
     "lbl:latitude":49.807675,
     "lbl:longitude":18.258445,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.813348,
     "mps:longitude":18.277796,
     "mz:hierarchy_label":0,
@@ -70,9 +72,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0442\u043a\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "V\u00edtkovice"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"85",
@@ -101,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748125,
@@ -112,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3062805,
         "gp:id":800906,
-        "qs:id":1145206,
         "qs_pg:id":1145206,
         "wd:id":"Q733581",
         "wk:page":"V\u00edtkovice (Ostrava)"
@@ -132,7 +130,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1561772286,
+    "wof:lastmodified":1566710183,
     "wof:name":"V\u00edtkovice",
     "wof:parent_id":101748125,
     "wof:placetype":"neighbourhood",

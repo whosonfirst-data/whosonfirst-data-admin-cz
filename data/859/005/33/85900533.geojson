@@ -15,6 +15,7 @@
     "iso:country":"CZ",
     "lbl:latitude":50.033801,
     "lbl:longitude":14.414461,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.032512,
     "mps:longitude":14.414167,
     "mz:hierarchy_label":1,
@@ -63,9 +64,6 @@
     "name:swe_x_preferred":[
         "Bran\u00edk"
     ],
-    "name:unk_x_variant":[
-        "Bran\u00edk"
-    ],
     "qs:gn_adm0_cc":"CZ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3067696,
@@ -108,7 +106,6 @@
     "wof:concordances":{
         "gn:id":3078833,
         "gp:id":786666,
-        "qs:id":1159038,
         "qs_pg:id":1159038,
         "wd:id":"Q2499127",
         "wk:page":"Bran\u00edk"
@@ -128,7 +125,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1566326110,
+    "wof:lastmodified":1566710195,
     "wof:name":"Branik",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",

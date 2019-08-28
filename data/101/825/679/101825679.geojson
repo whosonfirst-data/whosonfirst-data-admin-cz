@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.863634,
     "lbl:longitude":13.889325,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.863634,
     "mps:longitude":13.889325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0698\u0628\u0631\u0627\u06a9"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3061625,
         "gp:id":801967,
-        "qs:id":145224,
         "qs_pg:id":145224,
         "wd:id":"Q393474",
         "wk:page":"\u017debr\u00e1k"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101825679,
-    "wof:lastmodified":1563247740,
+    "wof:lastmodified":1566710640,
     "wof:name":"\u017debr\u00e1k",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

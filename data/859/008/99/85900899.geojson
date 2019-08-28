@@ -12,8 +12,10 @@
     "gn:latitude":49.80031,
     "gn:longitude":13.4186,
     "iso:country":"CZ",
+    "lbl:bbox":"13.406519,49.799553,13.416519,49.809553",
     "lbl:latitude":49.804553,
     "lbl:longitude":13.411519,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.797126,
     "mps:longitude":13.406029,
     "mz:hierarchy_label":0,
@@ -46,9 +48,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
-        "Senec"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"87",
@@ -77,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633105,
@@ -87,7 +86,6 @@
     "wof:concordances":{
         "gn:id":3066203,
         "gp:id":797940,
-        "qs:id":244970,
         "qs_pg:id":244970
     },
     "wof:country":"CZ",
@@ -105,7 +103,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1564101250,
+    "wof:lastmodified":1566710188,
     "wof:name":"Senec",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

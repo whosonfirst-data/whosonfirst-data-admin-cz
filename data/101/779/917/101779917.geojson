@@ -13,10 +13,13 @@
     "iso:country":"CZ",
     "lbl:latitude":49.302432,
     "lbl:longitude":16.531,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.302432,
     "mps:longitude":16.531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ku\u0159im"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0456\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gurein"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":180,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":3072476,
         "gp:id":792290,
-        "qs:id":181598,
         "qs_pg:id":181598,
         "wd:id":"Q1000046",
         "wk:page":"Ku\u0159im"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101779917,
-    "wof:lastmodified":1563247455,
+    "wof:lastmodified":1566710596,
     "wof:name":"Ku\u0159im",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",
