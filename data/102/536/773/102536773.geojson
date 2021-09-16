@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.7519417,50.4038861,13.7519417,50.4038861",
+    "geom:bbox":"13.751942,50.403886,13.751942,50.403886",
     "geom:latitude":50.403886,
     "geom:longitude":13.751942,
     "iso:country":"CZ",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Ran\u00e1"
+    ],
+    "name:eng_x_variant":[
+        "LKRA"
     ],
     "name:fra_x_preferred":[
         "Ran\u00e1"
@@ -48,7 +51,7 @@
         "wd:id":"Q36838667"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"584643a70463311e31fa16cf9f052504",
+    "wof:geomhash":"697d0b73de6e907b02f33204551b9cd3",
     "wof:hierarchy":[
         {
             "campus_id":102536773,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102536773,
-    "wof:lastmodified":1566710100,
+    "wof:lastmodified":1631743414,
     "wof:name":"Rana Airport",
     "wof:parent_id":85682469,
     "wof:placetype":"campus",
@@ -69,10 +72,10 @@
     ]
 },
   "bbox": [
-    13.7519417,
-    50.4038861,
-    13.7519417,
-    50.4038861
+    13.751942,
+    50.403886,
+    13.751942,
+    50.403886
 ],
-  "geometry": {"coordinates":[13.7519417,50.4038861],"type":"Point"}
+  "geometry": {"coordinates":[13.751942,50.403886],"type":"Point"}
 }

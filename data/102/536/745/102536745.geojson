@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.8924972,48.7908306,16.8924972,48.7908306",
+    "geom:bbox":"16.892497,48.790831,16.892497,48.790831",
     "geom:latitude":48.790831,
     "geom:longitude":16.892497,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b B\u0159eclav"
+    ],
+    "name:eng_x_variant":[
+        "LKBA"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Breclav"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471773"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"4704608fc5bf60deadaebec0d92d6dc5",
+    "wof:geomhash":"3ae8533ef074269ba43cbdb18e1f13e4",
     "wof:hierarchy":[
         {
             "campus_id":102536745,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102536745,
-    "wof:lastmodified":1566710100,
+    "wof:lastmodified":1631743414,
     "wof:name":"Breclav Airport",
     "wof:parent_id":85682423,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    16.8924972,
-    48.7908306,
-    16.8924972,
-    48.7908306
+    16.892497,
+    48.790831,
+    16.892497,
+    48.790831
 ],
-  "geometry": {"coordinates":[16.8924972,48.7908306],"type":"Point"}
+  "geometry": {"coordinates":[16.892497,48.790831],"type":"Point"}
 }

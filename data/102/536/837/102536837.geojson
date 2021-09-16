@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.0058306,49.827775,16.0058306,49.827775",
+    "geom:bbox":"16.005831,49.827775,16.005831,49.827775",
     "geom:latitude":49.827775,
     "geom:longitude":16.005831,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Skute\u010d"
+    ],
+    "name:eng_x_variant":[
+        "LKSK"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Skutec"
@@ -43,7 +46,7 @@
         "wd:id":"Q25471808"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"b2e47b63b0b38f0f65618ba8644209f7",
+    "wof:geomhash":"32b9420a3be8561d3a67147eff126a71",
     "wof:hierarchy":[
         {
             "campus_id":102536837,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":102536837,
-    "wof:lastmodified":1566710100,
+    "wof:lastmodified":1631743414,
     "wof:name":"Skutec Airport",
     "wof:parent_id":101825259,
     "wof:placetype":"campus",
@@ -65,10 +68,10 @@
     ]
 },
   "bbox": [
-    16.0058306,
+    16.005831,
     49.827775,
-    16.0058306,
+    16.005831,
     49.827775
 ],
-  "geometry": {"coordinates":[16.0058306,49.827775],"type":"Point"}
+  "geometry": {"coordinates":[16.005831,49.827775],"type":"Point"}
 }

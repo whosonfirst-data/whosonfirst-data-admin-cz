@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.2974972,50.3016639,17.2974972,50.3016639",
+    "geom:bbox":"17.297497,50.301664,17.297497,50.301664",
     "geom:latitude":50.301664,
     "geom:longitude":17.297497,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Mikulovice"
+    ],
+    "name:eng_x_variant":[
+        "LKMI"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Mikulovice"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471797"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"6706c3e82534416f9465654ad9ce5fa4",
+    "wof:geomhash":"dd3fffc31a311d19104433a52f6075fb",
     "wof:hierarchy":[
         {
             "campus_id":102536885,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102536885,
-    "wof:lastmodified":1566710099,
+    "wof:lastmodified":1631743413,
     "wof:name":"Letiste Mikulovice",
     "wof:parent_id":85682455,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    17.2974972,
-    50.3016639,
-    17.2974972,
-    50.3016639
+    17.297497,
+    50.301664,
+    17.297497,
+    50.301664
 ],
-  "geometry": {"coordinates":[17.2974972,50.3016639],"type":"Point"}
+  "geometry": {"coordinates":[17.297497,50.301664],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.6761083,49.6858306,15.6761083,49.6858306",
+    "geom:bbox":"15.676108,49.685831,15.676108,49.685831",
     "geom:latitude":49.685831,
     "geom:longitude":15.676108,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Chot\u011bbo\u0159"
+    ],
+    "name:eng_x_variant":[
+        "LKCT"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Chotebor"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471780"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"68c5fc558a0cc83c99abd111a7aa4c9f",
+    "wof:geomhash":"88f40f4c5bcba8408bbf170610ceb114",
     "wof:hierarchy":[
         {
             "campus_id":102536789,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102536789,
-    "wof:lastmodified":1566710100,
+    "wof:lastmodified":1631743414,
     "wof:name":"Chotebor Airport",
     "wof:parent_id":85682429,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    15.6761083,
-    49.6858306,
-    15.6761083,
-    49.6858306
+    15.676108,
+    49.685831,
+    15.676108,
+    49.685831
 ],
-  "geometry": {"coordinates":[15.6761083,49.6858306],"type":"Point"}
+  "geometry": {"coordinates":[15.676108,49.685831],"type":"Point"}
 }

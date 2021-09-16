@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.0555528,49.4861083,17.0555528,49.4861083",
+    "geom:bbox":"17.055553,49.486108,17.055553,49.486108",
     "geom:latitude":49.486108,
     "geom:longitude":17.055553,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Stichovice"
+    ],
+    "name:eng_x_variant":[
+        "LKSB"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Stichovice"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471815"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"5b4bc4928093900079ee6afb3160b8f6",
+    "wof:geomhash":"7b963a175d5be6f30c44610cd147f2c9",
     "wof:hierarchy":[
         {
             "campus_id":102537025,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102537025,
-    "wof:lastmodified":1566710098,
+    "wof:lastmodified":1631743412,
     "wof:name":"Letiste Stichovice",
     "wof:parent_id":85682455,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    17.0555528,
-    49.4861083,
-    17.0555528,
-    49.4861083
+    17.055553,
+    49.486108,
+    17.055553,
+    49.486108
 ],
-  "geometry": {"coordinates":[17.0555528,49.4861083],"type":"Point"}
+  "geometry": {"coordinates":[17.055553,49.486108],"type":"Point"}
 }

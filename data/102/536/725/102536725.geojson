@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.4263861,49.9786083,16.4263861,49.9786083",
+    "geom:bbox":"16.426386,49.978608,16.426386,49.978608",
     "geom:latitude":49.978608,
     "geom:longitude":16.426386,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b \u00dast\u00ed nad Orlic\u00ed"
+    ],
+    "name:eng_x_variant":[
+        "LKUO"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Usti Nad Orlici"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471818"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"33b01f8a5e67d7d598236f54ea49cef2",
+    "wof:geomhash":"7d87641d4bbdb41b05efd2b41e5f0fbd",
     "wof:hierarchy":[
         {
             "campus_id":102536725,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102536725,
-    "wof:lastmodified":1566710099,
+    "wof:lastmodified":1631743413,
     "wof:name":"Usti Nad Orlici Airport",
     "wof:parent_id":85682443,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    16.4263861,
-    49.9786083,
-    16.4263861,
-    49.9786083
+    16.426386,
+    49.978608,
+    16.426386,
+    49.978608
 ],
-  "geometry": {"coordinates":[16.4263861,49.9786083],"type":"Point"}
+  "geometry": {"coordinates":[16.426386,49.978608],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.577335,50.3575156,15.577335,50.3575156",
+    "geom:bbox":"15.577335,50.357516,15.577335,50.357516",
     "geom:latitude":50.357516,
     "geom:longitude":15.577335,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Ho\u0159ice"
+    ],
+    "name:eng_x_variant":[
+        "LKHC"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Horice"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471853"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"70acfaebec28432ec5497a286cf5c4b0",
+    "wof:geomhash":"b7c7337f42356971b11a82a30da139cb",
     "wof:hierarchy":[
         {
             "campus_id":102536755,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102536755,
-    "wof:lastmodified":1566710099,
+    "wof:lastmodified":1631743413,
     "wof:name":"Horice Airport",
     "wof:parent_id":85682465,
     "wof:placetype":"campus",
@@ -64,9 +67,9 @@
 },
   "bbox": [
     15.577335,
-    50.3575156,
+    50.357516,
     15.577335,
-    50.3575156
+    50.357516
 ],
-  "geometry": {"coordinates":[15.577335,50.3575156],"type":"Point"}
+  "geometry": {"coordinates":[15.577335,50.357516],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.0486083,49.5666639,13.0486083,49.5666639",
+    "geom:bbox":"13.048608,49.566664,13.048608,49.566664",
     "geom:latitude":49.566664,
     "geom:longitude":13.048608,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Sta\u0148kov"
+    ],
+    "name:eng_x_variant":[
+        "LKSA"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Stankov"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471813"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"0a16b789e2400acef77a02e5c7f721dd",
+    "wof:geomhash":"302c5b7962663733371a496f404d0be9",
     "wof:hierarchy":[
         {
             "campus_id":102536783,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102536783,
-    "wof:lastmodified":1566710099,
+    "wof:lastmodified":1631743413,
     "wof:name":"Stankov Airport",
     "wof:parent_id":85682433,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    13.0486083,
-    49.5666639,
-    13.0486083,
-    49.5666639
+    13.048608,
+    49.566664,
+    13.048608,
+    49.566664
 ],
-  "geometry": {"coordinates":[13.0486083,49.5666639],"type":"Point"}
+  "geometry": {"coordinates":[13.048608,49.566664],"type":"Point"}
 }

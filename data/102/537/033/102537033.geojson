@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.2055556,50.4677778,16.2055556,50.4677778",
+    "geom:bbox":"16.205556,50.467778,16.205556,50.467778",
     "geom:latitude":50.467778,
     "geom:longitude":16.205556,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Velk\u00e9 Po\u0159\u00ed\u010d\u00ed"
+    ],
+    "name:eng_x_variant":[
+        "LKVP"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Velke Porici"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471820"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"033461ef3bf691b914c55dd4eb1908cc",
+    "wof:geomhash":"ff13e131cb549dbad0fcdd10536ba8f9",
     "wof:hierarchy":[
         {
             "campus_id":102537033,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102537033,
-    "wof:lastmodified":1566710098,
+    "wof:lastmodified":1631743413,
     "wof:name":"Letiste Velke Porici",
     "wof:parent_id":85682465,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    16.2055556,
-    50.4677778,
-    16.2055556,
-    50.4677778
+    16.205556,
+    50.467778,
+    16.205556,
+    50.467778
 ],
-  "geometry": {"coordinates":[16.2055556,50.4677778],"type":"Point"}
+  "geometry": {"coordinates":[16.205556,50.467778],"type":"Point"}
 }

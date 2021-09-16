@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.1161083,49.3683306,16.1161083,49.3683306",
+    "geom:bbox":"16.116108,49.368331,16.116108,49.368331",
     "geom:latitude":49.368331,
     "geom:longitude":16.116108,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b K\u0159i\u017eanov"
+    ],
+    "name:eng_x_variant":[
+        "LKKA"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Krizanov"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471794"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"257e4fddf2dff45008b27eb8218b095e",
+    "wof:geomhash":"7418228ec205b73966977bf11411b61b",
     "wof:hierarchy":[
         {
             "campus_id":102536769,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102536769,
-    "wof:lastmodified":1566710099,
+    "wof:lastmodified":1631743413,
     "wof:name":"Krizanov Airport",
     "wof:parent_id":85682429,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    16.1161083,
-    49.3683306,
-    16.1161083,
-    49.3683306
+    16.116108,
+    49.368331,
+    16.116108,
+    49.368331
 ],
-  "geometry": {"coordinates":[16.1161083,49.3683306],"type":"Point"}
+  "geometry": {"coordinates":[16.116108,49.368331],"type":"Point"}
 }

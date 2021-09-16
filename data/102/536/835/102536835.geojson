@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.687775,49.7983306,16.687775,49.7983306",
+    "geom:bbox":"16.687775,49.798331,16.687775,49.798331",
     "geom:latitude":49.798331,
     "geom:longitude":16.687775,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Moravsk\u00e1 T\u0159ebov\u00e1"
+    ],
+    "name:eng_x_variant":[
+        "LKMK"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Moravska Trebova"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471798"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"cbd05614dd1845e44db38836f0b3c4fb",
+    "wof:geomhash":"c44ce55078e35896648efd565351b89f",
     "wof:hierarchy":[
         {
             "campus_id":102536835,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102536835,
-    "wof:lastmodified":1566710099,
+    "wof:lastmodified":1631743413,
     "wof:name":"Moravska Trebova Airport",
     "wof:parent_id":85682443,
     "wof:placetype":"campus",
@@ -64,9 +67,9 @@
 },
   "bbox": [
     16.687775,
-    49.7983306,
+    49.798331,
     16.687775,
-    49.7983306
+    49.798331
 ],
-  "geometry": {"coordinates":[16.687775,49.7983306],"type":"Point"}
+  "geometry": {"coordinates":[16.687775,49.798331],"type":"Point"}
 }

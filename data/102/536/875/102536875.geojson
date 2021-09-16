@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.2588861,49.7394417,16.2588861,49.7394417",
+    "geom:bbox":"16.258886,49.739442,16.258886,49.739442",
     "geom:latitude":49.739442,
     "geom:longitude":16.258886,
     "iso:country":"CZ",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Poli\u010dka"
+    ],
+    "name:eng_x_variant":[
+        "LKPA"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Policka"
@@ -42,7 +45,7 @@
         "wd:id":"Q25471806"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"d614301898b43536f02a188c1739e0ce",
+    "wof:geomhash":"e96c49abb68cc88eee0c323ef08fc9ef",
     "wof:hierarchy":[
         {
             "campus_id":102536875,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102536875,
-    "wof:lastmodified":1566710099,
+    "wof:lastmodified":1631743413,
     "wof:name":"Policka Airport",
     "wof:parent_id":85682443,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    16.2588861,
-    49.7394417,
-    16.2588861,
-    49.7394417
+    16.258886,
+    49.739442,
+    16.258886,
+    49.739442
 ],
-  "geometry": {"coordinates":[16.2588861,49.7394417],"type":"Point"}
+  "geometry": {"coordinates":[16.258886,49.739442],"type":"Point"}
 }
