@@ -54,6 +54,9 @@
     "name:deu_x_preferred":[
         "Bor"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Bor"
     ],
@@ -149,7 +152,7 @@
         "gn:id":3079040
     },
     "wof:country":"CZ",
-    "wof:geomhash":"53a5b21afe3222674d2d0d5b25f0c8d7",
+    "wof:geomhash":"a4ca2e3294531728dff7226eac14fecc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1343895377,
-    "wof:lastmodified":1566710169,
+    "wof:lastmodified":1636494429,
     "wof:name":"Bor",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",
@@ -170,9 +173,9 @@
 },
   "bbox": [
     13.98736,
-    49.55589000000001,
+    49.55589,
     13.98736,
-    49.55589000000001
+    49.55589
 ],
-  "geometry": {"coordinates":[13.98736,49.55589000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.98736,49.55589],"type":"Point"}
 }
