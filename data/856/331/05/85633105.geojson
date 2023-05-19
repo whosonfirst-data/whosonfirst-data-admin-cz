@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CZ",
+    "eurostat:level_code":"1",
+    "eurostat:name_latin":"\u010cesko",
+    "eurostat:name_local":"\u010cesko",
+    "eurostat:nuts_2021_id":"CZ0",
+    "eurostat:nuts_2021_level_0":"CZ",
+    "eurostat:nuts_2021_level_1":"CZ0",
+    "eurostat:population":10516707,
+    "eurostat:population_year":2022,
     "geom:area":9.842623,
-    "geom:area_square_m":78650668291.890747,
+    "geom:area_square_m":78650668291.89006,
     "geom:bbox":"12.090981,48.551826,18.861025,51.055317",
     "geom:latitude":49.739516,
     "geom:longitude":15.332985,
@@ -1441,7 +1450,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"420",
     "statoids:ds":"CZ",
     "statoids:fifa":"CZE",
@@ -1471,6 +1481,7 @@
     "wof:concordances":{
         "dbp:id":"Czech_Republic",
         "digitalenvoy:country_code":203,
+        "eurostat:nuts_2021_id":"CZ0",
         "fb:id":"en.czech_republic",
         "fifa:id":"CZE",
         "fips:code":"EZ",
@@ -1501,7 +1512,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"13a26c8d2597218f64a35fe59b76dae5",
+    "wof:geomhash":"9b430b01ba35c82a00300f27ffb179a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1515,11 +1526,11 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1617827340,
+    "wof:lastmodified":1684351350,
     "wof:name":"Czech Republic",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":10538275,
+    "wof:population":10516707,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:shortcode":"CZ",
