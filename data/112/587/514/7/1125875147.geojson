@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "T\u011b\u0161kovice"
+    ],
     "name:ceb_x_preferred":[
         "T\u011b\u0161kovice"
     ],
     "name:ces_x_preferred":[
         "T\u011b\u0161kovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u0448\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Tzieschkowitz"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "T\u011b\u0161kovice"
     ],
+    "name:gle_x_preferred":[
+        "T\u011b\u0161kovice"
+    ],
     "name:hun_x_preferred":[
         "T\u011b\u0161kovice"
     ],
     "name:ita_x_preferred":[
+        "T\u011b\u0161kovice"
+    ],
+    "name:lmo_x_preferred":[
         "T\u011b\u0161kovice"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u011b\u0161kovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u0448\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "T\u011b\u0161kovice"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125875147,
-    "wof:lastmodified":1566710925,
+    "wof:lastmodified":1690870374,
     "wof:name":"T\u011b\u0161kovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

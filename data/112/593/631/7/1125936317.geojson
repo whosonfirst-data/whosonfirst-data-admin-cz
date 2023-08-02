@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chroustovice"
+    ],
     "name:ceb_x_preferred":[
         "Chroustovice"
     ],
@@ -43,10 +46,16 @@
     "name:fra_x_preferred":[
         "Chroustovice"
     ],
+    "name:gle_x_preferred":[
+        "Chroustovice"
+    ],
     "name:hun_x_preferred":[
         "Chroustovice"
     ],
     "name:ita_x_preferred":[
+        "Chroustovice"
+    ],
+    "name:lmo_x_preferred":[
         "Chroustovice"
     ],
     "name:msa_x_preferred":[
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":1125936317,
-    "wof:lastmodified":1566710745,
+    "wof:lastmodified":1690869909,
     "wof:name":"Chroustovice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

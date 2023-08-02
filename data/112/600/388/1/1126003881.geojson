@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bor u Skut\u010de"
+    ],
     "name:ceb_x_preferred":[
         "Bor u Skut\u010de"
     ],
     "name:ces_x_preferred":[
         "Bor u Skut\u010de"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0440 \u0421\u043a\u0443\u0442\u0447\u0435"
     ],
     "name:deu_x_preferred":[
         "Bor u Skut\u010de"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Bor u Skut\u010de"
     ],
+    "name:gle_x_preferred":[
+        "Bor u Skut\u010de"
+    ],
     "name:hun_x_preferred":[
         "Bor u Skut\u010de"
     ],
     "name:ita_x_preferred":[
+        "Bor u Skut\u010de"
+    ],
+    "name:lmo_x_preferred":[
         "Bor u Skut\u010de"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Bor u Skut\u010de"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0440 \u0421\u043a\u0443\u0442\u0447\u0435"
     ],
     "name:vie_x_preferred":[
         "Bor u Skut\u010de"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1126003881,
-    "wof:lastmodified":1566711079,
+    "wof:lastmodified":1690870745,
     "wof:name":"Bor u Skut\u010de",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

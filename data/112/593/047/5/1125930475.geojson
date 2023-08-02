@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Orel"
+    ],
     "name:ceb_x_preferred":[
         "Orel"
     ],
     "name:ces_x_preferred":[
         "Orel"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0440\u0435\u043b"
     ],
     "name:deu_x_preferred":[
         "Orel"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Orel"
     ],
+    "name:gle_x_preferred":[
+        "Orel"
+    ],
     "name:hun_x_preferred":[
         "Orel"
     ],
     "name:ita_x_preferred":[
+        "Orel"
+    ],
+    "name:lmo_x_preferred":[
         "Orel"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,12 @@
     ],
     "name:swe_x_preferred":[
         "Orel"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0440\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0435\u043b"
     ],
     "name:und_x_variant":[
         "Worel"
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125930475,
-    "wof:lastmodified":1566710723,
+    "wof:lastmodified":1690869835,
     "wof:name":"Orel",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vojt\u011bchov"
+    ],
     "name:ceb_x_preferred":[
         "Vojt\u011bchov"
     ],
     "name:ces_x_preferred":[
         "Vojt\u011bchov"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u043e\u0439\u0442\u0435\u0445\u043e\u0432"
     ],
     "name:deu_x_preferred":[
         "Vojt\u011bchov"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Vojt\u011bchov"
     ],
+    "name:gle_x_preferred":[
+        "Vojt\u011bchov"
+    ],
     "name:hun_x_preferred":[
         "Vojt\u011bchov"
     ],
     "name:ita_x_preferred":[
+        "Vojt\u011bchov"
+    ],
+    "name:lmo_x_preferred":[
         "Vojt\u011bchov"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Vojt\u011bchov"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u043e\u0439\u0442\u0435\u0445\u043e\u0432"
     ],
     "name:vie_x_preferred":[
         "Vojt\u011bchov"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1125804919,
-    "wof:lastmodified":1566710911,
+    "wof:lastmodified":1690870329,
     "wof:name":"Vojt\u011bchov",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

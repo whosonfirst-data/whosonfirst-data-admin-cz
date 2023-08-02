@@ -22,13 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bujesily"
+    ],
     "name:ces_x_preferred":[
         "Bujesily"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u0435\u0441\u0438\u043b\u0438"
     ],
     "name:deu_x_preferred":[
         "Bujesily"
     ],
     "name:eng_x_preferred":[
+        "Bujesily"
+    ],
+    "name:epo_x_preferred":[
         "Bujesily"
     ],
     "name:eus_x_preferred":[
@@ -37,10 +46,16 @@
     "name:fra_x_preferred":[
         "Bujesily"
     ],
+    "name:gle_x_preferred":[
+        "Bujesily"
+    ],
     "name:hun_x_preferred":[
         "Bujesily"
     ],
     "name:ita_x_preferred":[
+        "Bujesily"
+    ],
+    "name:lmo_x_preferred":[
         "Bujesily"
     ],
     "name:msa_x_preferred":[
@@ -69,6 +84,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0458\u0435\u0441\u0438\u043b\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0443\u0435\u0441\u0438\u043b\u0438"
     ],
     "name:vie_x_preferred":[
         "Bujesily"
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":1126004687,
-    "wof:lastmodified":1566711077,
+    "wof:lastmodified":1690870737,
     "wof:name":"Bujesily",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

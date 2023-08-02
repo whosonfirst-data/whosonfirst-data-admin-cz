@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sudice"
+    ],
     "name:ceb_x_preferred":[
         "Sudice"
     ],
     "name:ces_x_preferred":[
         "Sudice"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0443\u0434\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Sudice"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Sudice"
     ],
+    "name:gle_x_preferred":[
+        "Sudice"
+    ],
     "name:hun_x_preferred":[
         "Sudice"
     ],
     "name:ita_x_preferred":[
+        "Sudice"
+    ],
+    "name:lmo_x_preferred":[
         "Sudice"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Sudice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0443\u0434\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Zauditz"
@@ -137,7 +152,7 @@
         }
     ],
     "wof:id":1125864417,
-    "wof:lastmodified":1566710856,
+    "wof:lastmodified":1690870209,
     "wof:name":"Sudice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

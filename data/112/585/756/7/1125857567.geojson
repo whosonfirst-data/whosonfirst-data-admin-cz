@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "V\u00edtanov"
+    ],
     "name:ceb_x_preferred":[
         "V\u00edtanov"
     ],
     "name:ces_x_preferred":[
         "V\u00edtanov"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u0442\u0430\u043d\u043e\u0432"
     ],
     "name:eng_x_preferred":[
         "V\u00edtanov"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "V\u00edtanov"
     ],
+    "name:gle_x_preferred":[
+        "V\u00edtanov"
+    ],
     "name:hun_x_preferred":[
         "V\u00edtanov"
     ],
     "name:ita_x_preferred":[
+        "V\u00edtanov"
+    ],
+    "name:lmo_x_preferred":[
         "V\u00edtanov"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "V\u00edtanov"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u0442\u0430\u043d\u043e\u0432"
     ],
     "name:vie_x_preferred":[
         "V\u00edtanov"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125857567,
-    "wof:lastmodified":1566711103,
+    "wof:lastmodified":1690870807,
     "wof:name":"V\u00edtanov",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

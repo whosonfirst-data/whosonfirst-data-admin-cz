@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u010cesk\u00fd \u0160ternberk"
+    ],
     "name:ceb_x_preferred":[
         "\u010cesk\u00fd \u0160ternberk"
     ],
@@ -40,6 +43,9 @@
     "name:eng_x_preferred":[
         "\u010cesk\u00fd \u0160ternberk"
     ],
+    "name:epo_x_preferred":[
+        "\u010cesk\u00fd \u0160ternberk"
+    ],
     "name:eus_x_preferred":[
         "\u010cesk\u00fd \u0160ternberk"
     ],
@@ -49,10 +55,16 @@
     "name:fra_x_preferred":[
         "\u010cesk\u00fd \u0160ternberk"
     ],
+    "name:gle_x_preferred":[
+        "\u010cesk\u00fd \u0160ternberk"
+    ],
     "name:hun_x_preferred":[
         "\u010cesk\u00fd \u0160ternberk"
     ],
     "name:ita_x_preferred":[
+        "\u010cesk\u00fd \u0160ternberk"
+    ],
+    "name:lmo_x_preferred":[
         "\u010cesk\u00fd \u0160ternberk"
     ],
     "name:msa_x_preferred":[
@@ -91,8 +103,14 @@
     "name:swe_x_preferred":[
         "\u010cesk\u00fd \u0160ternberk"
     ],
+    "name:uzb_x_preferred":[
+        "\u010cesk\u00fd \u0160ternberk"
+    ],
     "name:vie_x_preferred":[
         "\u010cesk\u00fd \u0160ternberk"
+    ],
+    "name:zho_x_preferred":[
+        "\u6377\u514b\u65bd\u6ed5\u8c9d\u514b"
     ],
     "qs_pg:aaroncc":"CZ",
     "qs_pg:gn_country":"CZ",
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":1126045769,
-    "wof:lastmodified":1566710841,
+    "wof:lastmodified":1690870173,
     "wof:name":"\u010cesk\u00fd \u0160ternberk",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

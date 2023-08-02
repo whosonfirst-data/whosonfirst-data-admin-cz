@@ -43,6 +43,9 @@
         "Maffersdorf",
         "Vratislavice nad Nisou"
     ],
+    "name:dan_x_preferred":[
+        "Vratislavice nad Nisou"
+    ],
     "name:deu_x_historical":[
         "Maffersdorf"
     ],
@@ -55,11 +58,17 @@
     "name:eng_x_preferred":[
         "Vratislavice nad Nisou"
     ],
+    "name:eus_x_preferred":[
+        "Vratislavice nad Nisou"
+    ],
     "name:fra_x_preferred":[
         "Vratislavice nad Nisou"
     ],
     "name:hbs_x_preferred":[
         "Vratislavice"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05d0\u05d8\u05d9\u05e1\u05dc\u05d1\u05d9\u05e6'\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Vratislavice"
@@ -69,6 +78,9 @@
     ],
     "name:ita_x_preferred":[
         "Vratislavice nad Nisou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c3\u30d5\u30a7\u30eb\u30b9\u30c9\u30eb\u30d5"
     ],
     "name:mar_x_preferred":[
         "\u0935\u094d\u0930\u093e\u091f\u093f\u0938\u094d\u0932\u093e\u0935\u093f\u0938 \u0928\u0945\u0921 \u0928\u093f\u0938\u093e\u090a"
@@ -89,6 +101,9 @@
         "\u0412\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0438\u0446\u0435"
     ],
     "name:swe_x_preferred":[
+        "Vratislavice nad Nisou"
+    ],
+    "name:tur_x_preferred":[
         "Vratislavice nad Nisou"
     ],
     "src:geom":"mz",
@@ -133,7 +148,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1582312346,
+    "wof:lastmodified":1690869318,
     "wof:name":"Liberec-Vratislavice nad Nisou",
     "wof:parent_id":101748147,
     "wof:placetype":"neighbourhood",

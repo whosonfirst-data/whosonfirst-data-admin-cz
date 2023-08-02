@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chocerady"
+    ],
     "name:ceb_x_preferred":[
         "Chocerady"
     ],
     "name:ces_x_preferred":[
         "Chocerady"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0446\u0435\u0440\u0430\u0434\u0438"
     ],
     "name:deu_x_preferred":[
         "Chocerady"
@@ -40,10 +46,19 @@
     "name:fra_x_preferred":[
         "Chocerady"
     ],
+    "name:gle_x_preferred":[
+        "Chocerady"
+    ],
     "name:hun_x_preferred":[
         "Chocerady"
     ],
     "name:ita_x_preferred":[
+        "Chocerady"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30c4\u30a7\u30e9\u30c7\u30a3"
+    ],
+    "name:lmo_x_preferred":[
         "Chocerady"
     ],
     "name:msa_x_preferred":[
@@ -79,8 +94,14 @@
     "name:swe_x_preferred":[
         "Chocerady"
     ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0446\u0435\u0440\u0430\u0434\u0438"
+    ],
     "name:und_x_variant":[
         "Kocerad"
+    ],
+    "name:uzb_x_preferred":[
+        "Chocerady"
     ],
     "name:vie_x_preferred":[
         "Chocerady"
@@ -134,7 +155,7 @@
         }
     ],
     "wof:id":1125894577,
-    "wof:lastmodified":1566710906,
+    "wof:lastmodified":1690870317,
     "wof:name":"Chocerady",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

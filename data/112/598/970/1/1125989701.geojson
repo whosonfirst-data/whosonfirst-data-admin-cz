@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u010cern\u00e9 Vod\u011brady"
+    ],
     "name:ceb_x_preferred":[
         "\u010cern\u00e9 Vod\u011brady"
     ],
     "name:ces_x_preferred":[
         "\u010cern\u00e9 Vod\u011brady"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0435 \u0412\u043e\u0434\u0435\u0440\u0430\u0434\u0438"
     ],
     "name:deu_x_preferred":[
         "\u010cern\u00e9 Vod\u011brady"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "\u010cern\u00e9 Vod\u011brady"
     ],
+    "name:gle_x_preferred":[
+        "\u010cern\u00e9 Vod\u011brady"
+    ],
     "name:hun_x_preferred":[
         "\u010cern\u00e9 Vod\u011brady"
     ],
     "name:ita_x_preferred":[
+        "\u010cern\u00e9 Vod\u011brady"
+    ],
+    "name:lmo_x_preferred":[
         "\u010cern\u00e9 Vod\u011brady"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "\u010cern\u00e9 Vod\u011brady"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0435 \u0412\u043e\u0434\u0435\u0440\u0430\u0434\u0438"
     ],
     "name:und_x_variant":[
         "Schwarz Wodierad"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125989701,
-    "wof:lastmodified":1566711044,
+    "wof:lastmodified":1690870643,
     "wof:name":"\u010cern\u00e9 Vod\u011brady",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

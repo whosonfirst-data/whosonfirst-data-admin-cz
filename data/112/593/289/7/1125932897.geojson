@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Brumovice"
+    ],
     "name:ceb_x_preferred":[
         "Brumovice"
     ],
     "name:ces_x_preferred":[
         "Brumovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0440\u0443\u043c\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Brumovice"
@@ -44,6 +50,9 @@
         "\u0628\u0631\u0648\u0645\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
+        "Brumovice"
+    ],
+    "name:gle_x_preferred":[
         "Brumovice"
     ],
     "name:hun_x_preferred":[
@@ -81,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Brumovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u0443\u043c\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Brumovice"
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":1125932897,
-    "wof:lastmodified":1566710721,
+    "wof:lastmodified":1690869831,
     "wof:name":"Brumovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

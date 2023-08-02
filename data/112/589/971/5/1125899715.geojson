@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u067e\u0644\u06cc\u062a\u0633\u0647 \u0646\u0627\u062f \u0628\u062a\u0634\u0648\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Teplice nad Be\u010dvou"
+    ],
     "name:ceb_x_preferred":[
         "Teplice nad Be\u010dvou"
     ],
     "name:ces_x_preferred":[
         "Teplice nad Be\u010dvou"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u043f\u043b\u0438\u0446\u0435 \u043d\u0430\u0434 \u0411\u0435\u0447\u0432\u043e\u0443"
     ],
     "name:deu_x_preferred":[
         "Teplice nad Be\u010dvou"
@@ -46,10 +55,16 @@
     "name:fra_x_preferred":[
         "Teplice nad Be\u010dvou"
     ],
+    "name:gle_x_preferred":[
+        "Teplice nad Be\u010dvou"
+    ],
     "name:hun_x_preferred":[
         "Teplice nad Be\u010dvou"
     ],
     "name:ita_x_preferred":[
+        "Teplice nad Be\u010dvou"
+    ],
+    "name:lmo_x_preferred":[
         "Teplice nad Be\u010dvou"
     ],
     "name:msa_x_preferred":[
@@ -84,6 +99,9 @@
     ],
     "name:swe_x_preferred":[
         "Teplice nad Be\u010dvou"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u043f\u043b\u0438\u0446\u0435 \u043d\u0430\u0434 \u0411\u0435\u0447\u0432\u043e\u0443"
     ],
     "name:vie_x_preferred":[
         "Teplice nad Be\u010dvou"
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":1125899715,
-    "wof:lastmodified":1566710900,
+    "wof:lastmodified":1690870306,
     "wof:name":"Teplice nad Be\u010dvou",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

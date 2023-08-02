@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Neratov"
+    ],
     "name:ces_x_preferred":[
         "Neratov"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0435\u0440\u0430\u0442\u043e\u0432"
     ],
     "name:deu_x_preferred":[
         "Neratov"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Neratov"
     ],
+    "name:gle_x_preferred":[
+        "Neratov"
+    ],
     "name:hun_x_preferred":[
         "Neratov"
     ],
     "name:ita_x_preferred":[
+        "Neratov"
+    ],
+    "name:lmo_x_preferred":[
         "Neratov"
     ],
     "name:msa_x_preferred":[
@@ -71,6 +83,9 @@
         "Neratov"
     ],
     "name:srp_x_preferred":[
+        "\u041d\u0435\u0440\u0430\u0442\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
         "\u041d\u0435\u0440\u0430\u0442\u043e\u0432"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +138,7 @@
         }
     ],
     "wof:id":1125921125,
-    "wof:lastmodified":1566710786,
+    "wof:lastmodified":1690870029,
     "wof:name":"Neratov",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

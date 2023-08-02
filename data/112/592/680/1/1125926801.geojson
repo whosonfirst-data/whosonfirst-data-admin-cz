@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "T\u0159ebosice"
+    ],
     "name:ceb_x_preferred":[
         "T\u0159ebosice"
     ],
     "name:ces_x_preferred":[
         "T\u0159ebosice"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0431\u043e\u0441\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "T\u0159ebosice"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "T\u0159ebosice"
     ],
+    "name:gle_x_preferred":[
+        "T\u0159ebosice"
+    ],
     "name:hun_x_preferred":[
         "T\u0159ebosice"
     ],
     "name:ita_x_preferred":[
+        "T\u0159ebosice"
+    ],
+    "name:lmo_x_preferred":[
         "T\u0159ebosice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u0159ebosice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0431\u043e\u0441\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "T\u0159ebosice"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125926801,
-    "wof:lastmodified":1566710765,
+    "wof:lastmodified":1690869947,
     "wof:name":"T\u0159ebosice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

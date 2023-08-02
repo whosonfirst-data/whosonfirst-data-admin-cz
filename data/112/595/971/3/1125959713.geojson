@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pravy"
+    ],
     "name:ces_x_preferred":[
         "Pravy"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0438"
     ],
     "name:deu_x_preferred":[
         "Pravy"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Pravy"
     ],
+    "name:gle_x_preferred":[
+        "Pravy"
+    ],
     "name:hun_x_preferred":[
         "Pravy"
     ],
     "name:ita_x_preferred":[
+        "Pravy"
+    ],
+    "name:lmo_x_preferred":[
         "Pravy"
     ],
     "name:msa_x_preferred":[
@@ -68,6 +80,9 @@
         "Pravy"
     ],
     "name:srp_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0438"
+    ],
+    "name:tat_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0438"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":1125959713,
-    "wof:lastmodified":1566710794,
+    "wof:lastmodified":1690870052,
     "wof:name":"Pravy",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

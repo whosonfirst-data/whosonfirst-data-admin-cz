@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Litultovice"
+    ],
     "name:ceb_x_preferred":[
         "Litultovice"
     ],
@@ -43,10 +46,16 @@
     "name:fra_x_preferred":[
         "Litultovice"
     ],
+    "name:gle_x_preferred":[
+        "Litultovice"
+    ],
     "name:hun_x_preferred":[
         "Litultovice"
     ],
     "name:ita_x_preferred":[
+        "Litultovice"
+    ],
+    "name:lmo_x_preferred":[
         "Litultovice"
     ],
     "name:msa_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:rup_x_preferred":[
         "Litultovice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0443\u043b\u0442\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:slk_x_preferred":[
         "Litultovice"
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":1125833573,
-    "wof:lastmodified":1566711153,
+    "wof:lastmodified":1690870944,
     "wof:name":"Litultovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

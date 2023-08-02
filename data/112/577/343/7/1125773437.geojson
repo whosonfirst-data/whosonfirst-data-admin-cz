@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sem\u00edn"
+    ],
     "name:ceb_x_preferred":[
         "Sem\u00edn"
     ],
     "name:ces_x_preferred":[
         "Sem\u00edn"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u043d"
     ],
     "name:deu_x_preferred":[
         "Sem\u00edn"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Sem\u00edn"
     ],
+    "name:gle_x_preferred":[
+        "Sem\u00edn"
+    ],
     "name:hun_x_preferred":[
         "Sem\u00edn"
     ],
     "name:ita_x_preferred":[
+        "Sem\u00edn"
+    ],
+    "name:lmo_x_preferred":[
         "Sem\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Sem\u00edn"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043c\u0438\u043d"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1125773437,
-    "wof:lastmodified":1566711149,
+    "wof:lastmodified":1690870931,
     "wof:name":"Sem\u00edn",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

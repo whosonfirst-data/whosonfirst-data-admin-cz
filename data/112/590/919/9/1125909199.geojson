@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Slu\u0161tice"
+    ],
     "name:ceb_x_preferred":[
         "Slu\u0161tice"
     ],
     "name:ces_x_preferred":[
         "Slu\u0161tice"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043b\u0443\u0448\u0442\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Slu\u0161tice"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Slu\u0161tice"
     ],
+    "name:gle_x_preferred":[
+        "Slu\u0161tice"
+    ],
     "name:hun_x_preferred":[
         "Slu\u0161tice"
     ],
     "name:ita_x_preferred":[
+        "Slu\u0161tice"
+    ],
+    "name:lmo_x_preferred":[
         "Slu\u0161tice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Slu\u0161tice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043b\u0443\u0448\u0442\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Slu\u0161tice"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125909199,
-    "wof:lastmodified":1566710970,
+    "wof:lastmodified":1690870450,
     "wof:name":"Slu\u0161tice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

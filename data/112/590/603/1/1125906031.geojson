@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chrtn\u00edky"
+    ],
     "name:ces_x_preferred":[
         "Chrtn\u00edky"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0440\u0442\u043d\u0438\u043a\u0438"
     ],
     "name:deu_x_preferred":[
         "Chrtn\u00edky"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Chrtn\u00edky"
     ],
+    "name:gle_x_preferred":[
+        "Chrtn\u00edky"
+    ],
     "name:hun_x_preferred":[
         "Chrtn\u00edky"
     ],
     "name:ita_x_preferred":[
+        "Chrtn\u00edky"
+    ],
+    "name:lmo_x_preferred":[
         "Chrtn\u00edky"
     ],
     "name:msa_x_preferred":[
@@ -69,6 +81,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0440\u0442\u045a\u0438\u043a\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0440\u0442\u043d\u0438\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0442\u043d\u0456\u043a\u0438"
     ],
     "name:vie_x_preferred":[
         "Chrtn\u00edky"
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":1125906031,
-    "wof:lastmodified":1566710963,
+    "wof:lastmodified":1690870428,
     "wof:name":"Chrtn\u00edky",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

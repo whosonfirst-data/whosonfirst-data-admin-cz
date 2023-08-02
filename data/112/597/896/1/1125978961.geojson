@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u062a\u0631\u0646\u0628\u0631\u0643"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u062a\u064a\u0631\u0646\u0628\u064a\u0631\u0643"
+    ],
     "name:cat_x_preferred":[
         "\u0160ternberk"
     ],
@@ -32,6 +38,9 @@
         "\u0160ternberk"
     ],
     "name:cym_x_preferred":[
+        "\u0160ternberk"
+    ],
+    "name:dan_x_preferred":[
         "\u0160ternberk"
     ],
     "name:deu_x_historical":[
@@ -52,6 +61,9 @@
     "name:epo_x_preferred":[
         "\u0160ternberk"
     ],
+    "name:est_x_preferred":[
+        "\u0160ternberk"
+    ],
     "name:eus_x_preferred":[
         "\u0160ternberk"
     ],
@@ -60,6 +72,12 @@
     ],
     "name:fra_x_preferred":[
         "\u0160ternberk"
+    ],
+    "name:gle_x_preferred":[
+        "\u0160ternberk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d8\u05e8\u05e0\u05d1\u05e8\u05e7"
     ],
     "name:hun_x_preferred":[
         "\u0160ternberk"
@@ -72,6 +90,12 @@
     ],
     "name:lav_x_preferred":[
         "\u0160ternberka"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ternberkas"
+    ],
+    "name:lmo_x_preferred":[
+        "\u0160ternberk"
     ],
     "name:msa_x_preferred":[
         "\u0160ternberk"
@@ -106,7 +130,13 @@
     "name:swe_x_preferred":[
         "\u0160ternberk"
     ],
+    "name:szl_x_preferred":[
+        "\u0160ternberk"
+    ],
     "name:tat_x_preferred":[
+        "\u0428\u0442\u0435\u0440\u043d\u0431\u0435\u0440\u043a"
+    ],
+    "name:ukr_x_preferred":[
         "\u0428\u0442\u0435\u0440\u043d\u0431\u0435\u0440\u043a"
     ],
     "name:vie_x_preferred":[
@@ -166,7 +196,7 @@
         }
     ],
     "wof:id":1125978961,
-    "wof:lastmodified":1566710976,
+    "wof:lastmodified":1690870469,
     "wof:name":"\u00c5 ternberk",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

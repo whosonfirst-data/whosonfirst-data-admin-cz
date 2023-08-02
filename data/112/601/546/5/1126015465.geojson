@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u010cerven\u00e1 \u0158e\u010dice"
+    ],
     "name:ceb_x_preferred":[
         "\u010cerven\u00e1 \u0158e\u010dice"
     ],
@@ -34,6 +37,12 @@
     "name:eng_x_preferred":[
         "\u010cerven\u00e1 \u0158e\u010dice"
     ],
+    "name:epo_x_preferred":[
+        "\u010cerven\u00e1 \u0158e\u010dice"
+    ],
+    "name:est_x_preferred":[
+        "\u010cerven\u00e1 \u0158e\u010dice"
+    ],
     "name:eus_x_preferred":[
         "\u010cerven\u00e1 \u0158e\u010dice"
     ],
@@ -41,6 +50,9 @@
         "\u062a\u0634\u0631\u0648\u0646\u0627 \u0631\u062a\u0634\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
+        "\u010cerven\u00e1 \u0158e\u010dice"
+    ],
+    "name:gle_x_preferred":[
         "\u010cerven\u00e1 \u0158e\u010dice"
     ],
     "name:hun_x_preferred":[
@@ -51,6 +63,9 @@
     ],
     "name:lav_x_preferred":[
         "\u010cervena R\u017ee\u010dice"
+    ],
+    "name:lmo_x_preferred":[
+        "\u010cerven\u00e1 \u0158e\u010dice"
     ],
     "name:msa_x_preferred":[
         "\u010cerven\u00e1 \u0158e\u010dice"
@@ -87,6 +102,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d\u0430-\u0420\u0436\u0435\u0447\u0438\u0442\u0441\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u0430-\u0420\u0436\u0435\u0447\u0456\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Roth\u0159e\u010ditz"
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":1126015465,
-    "wof:lastmodified":1566711067,
+    "wof:lastmodified":1690870706,
     "wof:name":"\u010cerven\u00e1 \u0158e\u010dice",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

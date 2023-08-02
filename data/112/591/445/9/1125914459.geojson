@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chl\u00edstov"
+    ],
     "name:ces_x_preferred":[
         "Chl\u00edstov"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043b\u0438\u0441\u0442\u043e\u0432"
     ],
     "name:deu_x_preferred":[
         "Chl\u00edstov u Dobru\u0161ky"
@@ -32,6 +38,9 @@
         "Chl\u00edstov"
     ],
     "name:eng_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:epo_x_preferred":[
         "Chl\u00edstov"
     ],
     "name:eus_x_preferred":[
@@ -43,10 +52,16 @@
     "name:fra_x_preferred":[
         "Chl\u00edstov"
     ],
+    "name:gle_x_preferred":[
+        "Chl\u00edstov"
+    ],
     "name:hun_x_preferred":[
         "Chl\u00edstov"
     ],
     "name:ita_x_preferred":[
+        "Chl\u00edstov"
+    ],
+    "name:lmo_x_preferred":[
         "Chl\u00edstov"
     ],
     "name:msa_x_preferred":[
@@ -74,6 +89,9 @@
         "Chl\u00edstov"
     ],
     "name:srp_x_preferred":[
+        "\u0425\u043b\u0438\u0441\u0442\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
         "\u0425\u043b\u0438\u0441\u0442\u043e\u0432"
     ],
     "name:vie_x_preferred":[
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":1125914459,
-    "wof:lastmodified":1566711033,
+    "wof:lastmodified":1690870610,
     "wof:name":"Chl\u00edstov",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

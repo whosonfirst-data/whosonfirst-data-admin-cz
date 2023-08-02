@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0631\u0627\u062e\u0648\u0641"
+    ],
     "name:bos_x_preferred":[
         "Harrachov"
     ],
     "name:bul_x_preferred":[
         "\u0425\u0430\u0440\u0430\u0447\u043e\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "Harrachov"
     ],
     "name:ceb_x_preferred":[
         "Harrachov"
@@ -40,7 +46,13 @@
     "name:dsb_x_preferred":[
         "Harrachov"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03c1\u03b1\u03c7\u03bf\u03c6"
+    ],
     "name:eng_x_preferred":[
+        "Harrachov"
+    ],
+    "name:epo_x_preferred":[
         "Harrachov"
     ],
     "name:est_x_preferred":[
@@ -56,6 +68,9 @@
         "Harrachov"
     ],
     "name:fra_x_preferred":[
+        "Harrachov"
+    ],
+    "name:gle_x_preferred":[
         "Harrachov"
     ],
     "name:heb_x_preferred":[
@@ -81,6 +96,9 @@
     ],
     "name:lit_x_preferred":[
         "Harachovas"
+    ],
+    "name:lmo_x_preferred":[
+        "Harrachov"
     ],
     "name:msa_x_preferred":[
         "Harrachov"
@@ -132,6 +150,9 @@
     ],
     "name:tur_x_preferred":[
         "Harrachov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0440\u0430\u0445\u043e\u0432"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u0627\u0631\u0627\u062e\u0648\u0641"
@@ -193,7 +214,7 @@
         }
     ],
     "wof:id":1125969797,
-    "wof:lastmodified":1566710999,
+    "wof:lastmodified":1690870493,
     "wof:name":"Harrachov",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

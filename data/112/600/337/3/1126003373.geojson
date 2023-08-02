@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kyjovice"
+    ],
     "name:ceb_x_preferred":[
         "Kyjovice"
     ],
     "name:ces_x_preferred":[
         "Kyjovice"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0439\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:eng_x_preferred":[
         "Kyjovice"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Kyjovice"
     ],
+    "name:gle_x_preferred":[
+        "Kyjovice"
+    ],
     "name:hun_x_preferred":[
         "Kyjovice"
     ],
     "name:ita_x_preferred":[
+        "Kyjovice"
+    ],
+    "name:lmo_x_preferred":[
         "Kyjovice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Kyjovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u0439\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Kiowitz"
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1126003373,
-    "wof:lastmodified":1566711069,
+    "wof:lastmodified":1690870712,
     "wof:name":"Kyjovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

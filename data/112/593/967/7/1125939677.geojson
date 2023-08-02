@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Srnojedy"
+    ],
     "name:ceb_x_preferred":[
         "Srnojedy"
     ],
     "name:ces_x_preferred":[
         "Srnojedy"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0440\u043d\u043e\u0435\u0434\u0438"
     ],
     "name:deu_x_preferred":[
         "Srnojedy"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Srnojedy"
     ],
+    "name:gle_x_preferred":[
+        "Srnojedy"
+    ],
     "name:hun_x_preferred":[
         "Srnojedy"
     ],
     "name:ita_x_preferred":[
+        "Srnojedy"
+    ],
+    "name:lmo_x_preferred":[
         "Srnojedy"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Srnojedy"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0440\u043d\u043e\u0435\u0434\u0438"
     ],
     "name:vie_x_preferred":[
         "Srnojedy"
@@ -128,7 +143,7 @@
         }
     ],
     "wof:id":1125939677,
-    "wof:lastmodified":1566710735,
+    "wof:lastmodified":1690869876,
     "wof:name":"Srnojedy",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

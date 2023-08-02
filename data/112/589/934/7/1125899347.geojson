@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0633\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "B\u00fd\u0161\u0165"
+    ],
     "name:ceb_x_preferred":[
         "B\u00fd\u0161\u0165"
     ],
     "name:ces_x_preferred":[
         "B\u00fd\u0161\u0165"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0438\u0448\u0442\u044c"
     ],
     "name:deu_x_preferred":[
         "B\u00fd\u0161\u0165"
@@ -43,6 +52,9 @@
     "name:fra_x_preferred":[
         "B\u00fd\u0161\u0165"
     ],
+    "name:gle_x_preferred":[
+        "B\u00fd\u0161\u0165"
+    ],
     "name:hun_x_preferred":[
         "B\u00fd\u0161\u0165"
     ],
@@ -51,6 +63,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30fc\u30b7\u30c1"
+    ],
+    "name:lmo_x_preferred":[
+        "B\u00fd\u0161\u0165"
     ],
     "name:msa_x_preferred":[
         "B\u00fd\u0161\u0165"
@@ -81,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "B\u00fd\u0161\u0165"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u0448\u0442\u044c"
     ],
     "name:und_x_variant":[
         "Bejscht"
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":1125899347,
-    "wof:lastmodified":1566710901,
+    "wof:lastmodified":1690870307,
     "wof:name":"B\u00fd\u0161\u0165",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bukovka"
+    ],
     "name:ceb_x_preferred":[
         "Bukovka"
     ],
     "name:ces_x_preferred":[
         "Bukovka"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043a\u0430"
     ],
     "name:deu_x_preferred":[
         "Bukovka"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Bukovka"
     ],
+    "name:gle_x_preferred":[
+        "Bukovka"
+    ],
     "name:hun_x_preferred":[
         "Bukovka"
     ],
     "name:ita_x_preferred":[
+        "Bukovka"
+    ],
+    "name:lmo_x_preferred":[
         "Bukovka"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Bukovka"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043a\u0430"
     ],
     "name:vie_x_preferred":[
         "Bukovka"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1125933113,
-    "wof:lastmodified":1566710746,
+    "wof:lastmodified":1690869915,
     "wof:name":"Bukovka",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chvalkovice"
+    ],
     "name:ceb_x_preferred":[
         "Chvalkovice"
     ],
     "name:ces_x_preferred":[
         "Chvalkovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0432\u0430\u043b\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Chvalkovice v \u010cech\u00e1ch"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Chvalkovice"
     ],
+    "name:gle_x_preferred":[
+        "Chvalkovice"
+    ],
     "name:hun_x_preferred":[
         "Chvalkovice"
     ],
     "name:ita_x_preferred":[
+        "Chvalkovice"
+    ],
+    "name:lmo_x_preferred":[
         "Chvalkovice"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Chvalkovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0432\u0430\u043b\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Chvalkovice"
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1125939601,
-    "wof:lastmodified":1566710735,
+    "wof:lastmodified":1690869877,
     "wof:name":"Chvalkovice",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

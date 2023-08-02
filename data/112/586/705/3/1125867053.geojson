@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u010cern\u00e1 v Po\u0161umav\u00ed"
+    ],
     "name:ceb_x_preferred":[
         "\u010cern\u00e1 v Po\u0161umav\u00ed"
     ],
     "name:ces_x_preferred":[
         "\u010cern\u00e1 v Po\u0161umav\u00ed"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0430 \u0432 \u041f\u043e\u0448\u0443\u043c\u0430\u0432\u0438"
     ],
     "name:deu_x_preferred":[
         "Schwarzbach an der Moldau"
@@ -35,6 +41,9 @@
         "\u010cern\u00e1 v Po\u0161umav\u00ed"
     ],
     "name:eng_x_preferred":[
+        "\u010cern\u00e1 v Po\u0161umav\u00ed"
+    ],
+    "name:epo_x_preferred":[
         "\u010cern\u00e1 v Po\u0161umav\u00ed"
     ],
     "name:eus_x_preferred":[
@@ -46,10 +55,16 @@
     "name:fra_x_preferred":[
         "\u010cern\u00e1 v Po\u0161umav\u00ed"
     ],
+    "name:gle_x_preferred":[
+        "\u010cern\u00e1 v Po\u0161umav\u00ed"
+    ],
     "name:hun_x_preferred":[
         "\u010cern\u00e1 v Po\u0161umav\u00ed"
     ],
     "name:ita_x_preferred":[
+        "\u010cern\u00e1 v Po\u0161umav\u00ed"
+    ],
+    "name:lmo_x_preferred":[
         "\u010cern\u00e1 v Po\u0161umav\u00ed"
     ],
     "name:msa_x_preferred":[
@@ -83,6 +98,12 @@
         "\u0427\u0435\u0440\u043d\u0430 \u0432 \u041f\u043e\u0448\u0443\u043c\u0430\u0432\u0438"
     ],
     "name:swe_x_preferred":[
+        "\u010cern\u00e1 v Po\u0161umav\u00ed"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0430 \u0432 \u041f\u043e\u0448\u0443\u043c\u0430\u0432\u0438"
+    ],
+    "name:uzb_x_preferred":[
         "\u010cern\u00e1 v Po\u0161umav\u00ed"
     ],
     "name:vie_x_preferred":[
@@ -139,7 +160,7 @@
         }
     ],
     "wof:id":1125867053,
-    "wof:lastmodified":1566710861,
+    "wof:lastmodified":1690870223,
     "wof:name":"\u010cern\u00e1 v Po\u0161umav\u00ed",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

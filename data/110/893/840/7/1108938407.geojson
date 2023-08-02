@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.4865496009,50.1665798767,14.4865496009,50.1665798767",
+    "geom:bbox":"14.48655,50.16658,14.48655,50.16658",
     "geom:latitude":50.16658,
     "geom:longitude":14.48655,
     "iso:country":"CZ",
@@ -23,11 +23,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:bar_x_preferred":[
+        "B\u0159ezin\u011bves"
+    ],
     "name:ces_x_preferred":[
         "B\u0159ezin\u011bves"
     ],
     "name:deu_x_preferred":[
         "Praha-B\u0159ezin\u011bves"
+    ],
+    "name:deu_x_variant":[
+        "B\u0159ezin\u011bves"
     ],
     "name:eng_x_preferred":[
         "B\u0159ezin\u011bves"
@@ -65,7 +71,7 @@
     },
     "wof:country":"CZ",
     "wof:created":1491360360,
-    "wof:geomhash":"57fba88ef53f3a1a31e632debaf52ca9",
+    "wof:geomhash":"c23f07beb94ba1c63ad02b8ed69dfd4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1108938407,
-    "wof:lastmodified":1566710479,
+    "wof:lastmodified":1690869333,
     "wof:name":"Brezineves",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -85,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.48654960094578,
-    50.16657987671609,
-    14.48654960094578,
-    50.16657987671609
+    14.48655,
+    50.16658,
+    14.48655,
+    50.16658
 ],
-  "geometry": {"coordinates":[14.48654960094578,50.16657987671609],"type":"Point"}
+  "geometry": {"coordinates":[14.48655,50.16658],"type":"Point"}
 }

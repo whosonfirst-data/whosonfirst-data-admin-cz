@@ -81,6 +81,9 @@
     "name:ces_x_variant":[
         "Karlovarsk\u00fd kraj"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0440\u0438\u043d \u043c\u043e\u0445\u043a"
+    ],
     "name:dan_x_preferred":[
         "Karlovy Vary"
     ],
@@ -213,6 +216,9 @@
     "name:slk_x_preferred":[
         "Karlovarsk\u00fd kraj"
     ],
+    "name:slv_x_preferred":[
+        "Karlovarski okraj"
+    ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Karlovy Vary"
     ],
@@ -245,6 +251,9 @@
     ],
     "name:war_x_preferred":[
         "Karlovy Vary"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u7f57\u7ef4\u53d1\u5229\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5361\u7f85\u7dad\u767c\u5229\u5dde"
@@ -351,7 +360,7 @@
         "wd:id":"Q191091"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"d09ad3dd0749e972da124b7045e55e8f",
+    "wof:geomhash":"9583dabf427fe7a8a80cdcccd70c48ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -366,7 +375,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1684351505,
+    "wof:lastmodified":1690869330,
     "wof:name":"Karlovarsk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

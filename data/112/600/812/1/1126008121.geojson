@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Z\u00e1chlum\u00ed"
+    ],
     "name:ceb_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
     "name:ces_x_preferred":[
         "Z\u00e1chlum\u00ed"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u0445\u043b\u0443\u043c\u0438"
     ],
     "name:deu_x_preferred":[
         "Z\u00e1chlum\u00ed u \u017damberka"
@@ -37,6 +43,9 @@
     "name:epo_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
+    "name:est_x_preferred":[
+        "Obec Z\u00e1chlum\u00ed"
+    ],
     "name:eus_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
@@ -46,10 +55,19 @@
     "name:fra_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
+    "name:gle_x_preferred":[
+        "Z\u00e1chlum\u00ed"
+    ],
+    "name:hrv_x_preferred":[
+        "Obec Z\u00e1chlum\u00ed"
+    ],
     "name:hun_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
     "name:ita_x_preferred":[
+        "Z\u00e1chlum\u00ed"
+    ],
+    "name:lmo_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
     "name:msa_x_preferred":[
@@ -61,6 +79,9 @@
     "name:nld_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
+    "name:pol_x_preferred":[
+        "Obec Z\u00e1chlum\u00ed"
+    ],
     "name:por_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
@@ -70,6 +91,9 @@
     "name:slk_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
+    "name:slv_x_preferred":[
+        "Obec Z\u00e1chlum\u00ed"
+    ],
     "name:spa_x_preferred":[
         "Z\u00e1chlum\u00ed"
     ],
@@ -78,6 +102,9 @@
     ],
     "name:swe_x_preferred":[
         "Z\u00e1chlum\u00ed"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u0430\u0445\u043b\u0443\u043c\u0438"
     ],
     "name:vie_x_preferred":[
         "Z\u00e1chlum\u00ed"
@@ -131,7 +158,7 @@
         }
     ],
     "wof:id":1126008121,
-    "wof:lastmodified":1566711075,
+    "wof:lastmodified":1690870732,
     "wof:name":"Z\u00e1chlum\u00ed",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

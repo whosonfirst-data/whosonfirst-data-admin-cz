@@ -22,16 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tasov"
+    ],
     "name:ceb_x_preferred":[
         "Tasov"
     ],
     "name:ces_x_preferred":[
         "Tasov"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u0441\u043e\u0432"
+    ],
     "name:deu_x_preferred":[
         "Tasov"
     ],
     "name:eng_x_preferred":[
+        "Tasov"
+    ],
+    "name:epo_x_preferred":[
         "Tasov"
     ],
     "name:eus_x_preferred":[
@@ -43,10 +52,16 @@
     "name:fra_x_preferred":[
         "Tasov"
     ],
+    "name:gle_x_preferred":[
+        "Tasov"
+    ],
     "name:hun_x_preferred":[
         "Tasov"
     ],
     "name:ita_x_preferred":[
+        "Tasov"
+    ],
+    "name:lmo_x_preferred":[
         "Tasov"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Tasov"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0441\u043e\u0432"
     ],
     "name:und_x_variant":[
         "Tassau"
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":1125861721,
-    "wof:lastmodified":1566710860,
+    "wof:lastmodified":1690870220,
     "wof:name":"Tasov",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

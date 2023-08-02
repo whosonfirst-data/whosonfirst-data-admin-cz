@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Z\u00e1ryby"
+    ],
     "name:ceb_x_preferred":[
         "Z\u00e1ryby"
     ],
     "name:ces_x_preferred":[
+        "Z\u00e1ryby"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u0440\u0438\u0431\u0438"
+    ],
+    "name:deu_x_preferred":[
         "Z\u00e1ryby"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +46,16 @@
     "name:fra_x_preferred":[
         "Z\u00e1ryby"
     ],
+    "name:gle_x_preferred":[
+        "Z\u00e1ryby"
+    ],
     "name:hun_x_preferred":[
         "Z\u00e1ryby"
     ],
     "name:ita_x_preferred":[
+        "Z\u00e1ryby"
+    ],
+    "name:lmo_x_preferred":[
         "Z\u00e1ryby"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Z\u00e1ryby"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u0430\u0440\u0438\u0431\u0438"
     ],
     "name:und_x_variant":[
         "Zaraby"
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":1125928979,
-    "wof:lastmodified":1566710786,
+    "wof:lastmodified":1690870028,
     "wof:name":"Z\u00e1ryby",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

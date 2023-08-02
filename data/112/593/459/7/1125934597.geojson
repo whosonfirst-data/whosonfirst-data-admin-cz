@@ -25,14 +25,26 @@
     "name:azb_x_preferred":[
         "\u067e\u0648\u0647\u0644\u062f"
     ],
+    "name:cat_x_preferred":[
+        "Pohled"
+    ],
     "name:ces_x_preferred":[
         "Pohled"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0433\u043b\u0435\u0434"
     ],
     "name:deu_x_preferred":[
         "Pohled"
     ],
     "name:eng_x_preferred":[
         "Pohled"
+    ],
+    "name:epo_x_preferred":[
+        "Pohled"
+    ],
+    "name:est_x_preferred":[
+        "Obec Pohled"
     ],
     "name:eus_x_preferred":[
         "Pohled"
@@ -43,7 +55,19 @@
     "name:fra_x_preferred":[
         "Pohled"
     ],
+    "name:gle_x_preferred":[
+        "Pohled"
+    ],
+    "name:hrv_x_preferred":[
+        "Obec Pohled"
+    ],
+    "name:hun_x_preferred":[
+        "Pohled"
+    ],
     "name:ita_x_preferred":[
+        "Pohled"
+    ],
+    "name:lmo_x_preferred":[
         "Pohled"
     ],
     "name:msa_x_preferred":[
@@ -58,6 +82,9 @@
     "name:pol_x_preferred":[
         "Pohled"
     ],
+    "name:pol_x_variant":[
+        "Pohle\u010f"
+    ],
     "name:por_x_preferred":[
         "Pohled"
     ],
@@ -67,17 +94,29 @@
     "name:slk_x_preferred":[
         "Pohled"
     ],
+    "name:slv_x_preferred":[
+        "Obec Pohled"
+    ],
     "name:spa_x_preferred":[
         "Pohle\u010f"
     ],
+    "name:spa_x_variant":[
+        "Pohled"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0445\u043b\u0435\u0434 I"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0445\u043b\u0435\u0434"
     ],
     "name:swe_x_preferred":[
         "Doln\u00ed Pohle\u010f"
     ],
     "name:swe_x_variant":[
         "Pohled"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u0433\u043b\u0435\u0434"
     ],
     "name:vie_x_preferred":[
         "Pohled"
@@ -129,7 +168,7 @@
         }
     ],
     "wof:id":1125934597,
-    "wof:lastmodified":1566710744,
+    "wof:lastmodified":1690869907,
     "wof:name":"Horn\u00ed Pohle\u010f",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

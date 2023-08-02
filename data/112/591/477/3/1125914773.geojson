@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chotusice"
+    ],
     "name:ceb_x_preferred":[
         "Chotusice"
     ],
     "name:ces_x_preferred":[
         "Chotusice"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0442\u0443\u0441\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Chotusice"
@@ -40,10 +46,19 @@
     "name:fra_x_preferred":[
         "Chotusice"
     ],
+    "name:gle_x_preferred":[
+        "Chotusice"
+    ],
     "name:hun_x_preferred":[
         "Chotusice"
     ],
     "name:ita_x_preferred":[
+        "Chotusice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30c8\u30a5\u30b8\u30c4\u30a7"
+    ],
+    "name:lmo_x_preferred":[
         "Chotusice"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Chotusice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0442\u0443\u0441\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Chotusitz"
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":1125914773,
-    "wof:lastmodified":1566711015,
+    "wof:lastmodified":1690870546,
     "wof:name":"Chotusice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

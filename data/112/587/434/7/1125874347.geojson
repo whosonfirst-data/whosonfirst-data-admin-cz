@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "B\u00edtovany"
+    ],
     "name:ceb_x_preferred":[
         "B\u00edtovany"
     ],
     "name:ces_x_preferred":[
         "B\u00edtovany"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0438\u0442\u043e\u0432\u0430\u043d\u0438"
     ],
     "name:eng_x_preferred":[
         "B\u00edtovany"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "B\u00edtovany"
     ],
+    "name:gle_x_preferred":[
+        "B\u00edtovany"
+    ],
     "name:hun_x_preferred":[
         "B\u00edtovany"
     ],
     "name:ita_x_preferred":[
+        "B\u00edtovany"
+    ],
+    "name:lmo_x_preferred":[
         "B\u00edtovany"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "B\u00edtovany"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u0442\u043e\u0432\u0430\u043d\u0438"
     ],
     "name:und_x_variant":[
         "Bytowan"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125874347,
-    "wof:lastmodified":1566710923,
+    "wof:lastmodified":1690870369,
     "wof:name":"B\u00edtovany",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

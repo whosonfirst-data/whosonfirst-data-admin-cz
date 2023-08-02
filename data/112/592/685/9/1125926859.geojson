@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Trojovice"
+    ],
     "name:ceb_x_preferred":[
         "Trojovice"
     ],
     "name:ces_x_preferred":[
         "Trojovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u043e\u0439\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Trojovice"
@@ -37,16 +43,28 @@
     "name:epo_x_preferred":[
         "Trojovice"
     ],
+    "name:est_x_preferred":[
+        "Obec Trojovice"
+    ],
     "name:eus_x_preferred":[
         "Trojovice"
     ],
     "name:fra_x_preferred":[
         "Trojovice"
     ],
+    "name:gle_x_preferred":[
+        "Trojovice"
+    ],
+    "name:hrv_x_preferred":[
+        "Obec Trojovice"
+    ],
     "name:hun_x_preferred":[
         "Trojovice"
     ],
     "name:ita_x_preferred":[
+        "Trojovice"
+    ],
+    "name:lmo_x_preferred":[
         "Trojovice"
     ],
     "name:msa_x_preferred":[
@@ -70,6 +88,9 @@
     "name:slk_x_preferred":[
         "Trojovice"
     ],
+    "name:slv_x_preferred":[
+        "Obec Trojovice"
+    ],
     "name:spa_x_preferred":[
         "Trojovice"
     ],
@@ -78,6 +99,9 @@
     ],
     "name:swe_x_preferred":[
         "Trojovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u043e\u0439\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Trojovice"
@@ -129,7 +153,7 @@
         }
     ],
     "wof:id":1125926859,
-    "wof:lastmodified":1566710778,
+    "wof:lastmodified":1690870000,
     "wof:name":"Trojovice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

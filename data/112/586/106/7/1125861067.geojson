@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ledvice"
+    ],
     "name:ceb_x_preferred":[
         "Ledvice"
     ],
@@ -34,6 +37,12 @@
     "name:eng_x_preferred":[
         "Ledvice"
     ],
+    "name:epo_x_preferred":[
+        "Ledvice"
+    ],
+    "name:est_x_preferred":[
+        "M\u011bsto Ledvice"
+    ],
     "name:eus_x_preferred":[
         "Ledvice"
     ],
@@ -43,10 +52,19 @@
     "name:fra_x_preferred":[
         "Ledvice"
     ],
+    "name:gle_x_preferred":[
+        "Ledvice"
+    ],
+    "name:hrv_x_preferred":[
+        "M\u011bsto Ledvice"
+    ],
     "name:hun_x_preferred":[
         "Ledvice"
     ],
     "name:ita_x_preferred":[
+        "Ledvice"
+    ],
+    "name:lmo_x_preferred":[
         "Ledvice"
     ],
     "name:msa_x_preferred":[
@@ -67,8 +85,14 @@
     "name:rup_x_preferred":[
         "Ledvice"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0434\u0432\u0438\u0446\u0435"
+    ],
     "name:slk_x_preferred":[
         "Ledvice"
+    ],
+    "name:slv_x_preferred":[
+        "M\u011bsto Ledvice"
     ],
     "name:spa_x_preferred":[
         "Ledvice"
@@ -84,6 +108,12 @@
     ],
     "name:und_x_variant":[
         "L\u00e1dowitz"
+    ],
+    "name:uzb_x_preferred":[
+        "Ledvice"
+    ],
+    "name:vec_x_preferred":[
+        "Ledvice"
     ],
     "name:vie_x_preferred":[
         "Ledvice"
@@ -140,7 +170,7 @@
         }
     ],
     "wof:id":1125861067,
-    "wof:lastmodified":1566710863,
+    "wof:lastmodified":1690870227,
     "wof:name":"Ledvice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

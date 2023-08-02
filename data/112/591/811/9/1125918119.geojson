@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ka\u0159\u00edzek"
+    ],
     "name:ces_x_preferred":[
         "Ka\u0159\u00edzek"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0440\u0436\u0438\u0437\u0435\u043a"
     ],
     "name:eng_x_preferred":[
         "Ka\u0159\u00edzek"
@@ -37,10 +43,16 @@
     "name:fra_x_preferred":[
         "Ka\u0159\u00edzek"
     ],
+    "name:gle_x_preferred":[
+        "Ka\u0159\u00edzek"
+    ],
     "name:hun_x_preferred":[
         "Ka\u0159\u00edzek"
     ],
     "name:ita_x_preferred":[
+        "Ka\u0159\u00edzek"
+    ],
+    "name:lmo_x_preferred":[
         "Ka\u0159\u00edzek"
     ],
     "name:msa_x_preferred":[
@@ -65,6 +77,9 @@
         "Ka\u0159\u00edzek"
     ],
     "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0436\u0438\u0437\u0435\u043a"
+    ],
+    "name:tat_x_preferred":[
         "\u041a\u0430\u0440\u0436\u0438\u0437\u0435\u043a"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":1125918119,
-    "wof:lastmodified":1566711014,
+    "wof:lastmodified":1690870542,
     "wof:name":"Ka\u0159\u00edzek",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

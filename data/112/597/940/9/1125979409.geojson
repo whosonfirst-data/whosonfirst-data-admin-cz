@@ -22,16 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Cizkrajov"
+    ],
     "name:ceb_x_preferred":[
         "Cizkrajov"
     ],
     "name:ces_x_preferred":[
         "Cizkrajov"
     ],
+    "name:che_x_preferred":[
+        "\u0426\u0438\u0437\u043a\u0440\u0430\u0439\u043e\u0432"
+    ],
     "name:deu_x_preferred":[
         "Cizkrajov"
     ],
     "name:eng_x_preferred":[
+        "Cizkrajov"
+    ],
+    "name:epo_x_preferred":[
         "Cizkrajov"
     ],
     "name:eus_x_preferred":[
@@ -40,10 +49,16 @@
     "name:fra_x_preferred":[
         "Cizkrajov"
     ],
+    "name:gle_x_preferred":[
+        "Cizkrajov"
+    ],
     "name:hun_x_preferred":[
         "Cizkrajov"
     ],
     "name:ita_x_preferred":[
+        "Cizkrajov"
+    ],
+    "name:lmo_x_preferred":[
         "Cizkrajov"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Cizkrajov"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0438\u0437\u043a\u0440\u0430\u0439\u043e\u0432"
     ],
     "name:und_x_variant":[
         "Sitzgrass"
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125979409,
-    "wof:lastmodified":1566710974,
+    "wof:lastmodified":1690870463,
     "wof:name":"Cizkrajov",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

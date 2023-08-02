@@ -87,6 +87,9 @@
     "name:ces_x_variant":[
         "Zl\u00ednsk\u00fd kraj"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u043b\u0438\u043d\u0430\u043d \u043c\u043e\u0445\u043a"
+    ],
     "name:dan_x_preferred":[
         "Zl\u00edn"
     ],
@@ -202,6 +205,9 @@
     "name:oci_x_preferred":[
         "Zl\u00edn"
     ],
+    "name:oss_x_preferred":[
+        "\u0417\u043b\u0438\u043d\u044b \u043a\u0440\u0430\u0439"
+    ],
     "name:pam_x_preferred":[
         "Zl\u00edn Labuad"
     ],
@@ -214,11 +220,17 @@
     "name:por_x_preferred":[
         "Zl\u00edn"
     ],
+    "name:que_x_preferred":[
+        "Zl\u00edn suyu"
+    ],
     "name:ron_x_preferred":[
         "Regiunea Zl\u00edn"
     ],
     "name:ron_x_variant":[
         "Zl\u00edn"
+    ],
+    "name:rue_x_preferred":[
+        "\u0417\u043b\u0438\u043d\u0441\u043a\u044b\u0439 \u043a\u0440\u0430\u0439"
     ],
     "name:rus_x_preferred":[
         "\u0417\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
@@ -228,6 +240,9 @@
     ],
     "name:slk_x_preferred":[
         "Zl\u00ednsky kraj"
+    ],
+    "name:slv_x_preferred":[
+        "Zlinski okraj"
     ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Zl\u00edn"
@@ -261,6 +276,9 @@
     ],
     "name:war_x_preferred":[
         "Zl\u00edn"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5179\u6797\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5179\u6797\u5dde"
@@ -367,7 +385,7 @@
         "wd:id":"Q192536"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"43994fcc731086b9b7ef9c124ae889da",
+    "wof:geomhash":"78df37dfc87b36a3ce8f874dd1d11fe3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -382,7 +400,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1684351504,
+    "wof:lastmodified":1690869327,
     "wof:name":"Zl\u00ednsk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

@@ -25,16 +25,25 @@
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0633\u0648\u062a\u0634\u0627\u0646\u06cc"
     ],
+    "name:cat_x_preferred":[
+        "Vyso\u010dany"
+    ],
     "name:ceb_x_preferred":[
         "Vyso\u010dany"
     ],
     "name:ces_x_preferred":[
         "Vyso\u010dany"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u0447\u0430\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Vyso\u010dany u Znojma"
     ],
     "name:eng_x_preferred":[
+        "Vyso\u010dany"
+    ],
+    "name:epo_x_preferred":[
         "Vyso\u010dany"
     ],
     "name:eus_x_preferred":[
@@ -46,10 +55,19 @@
     "name:fra_x_preferred":[
         "Vyso\u010dany"
     ],
+    "name:gle_x_preferred":[
+        "Vyso\u010dany"
+    ],
     "name:hun_x_preferred":[
         "Vyso\u010dany"
     ],
     "name:ita_x_preferred":[
+        "Vyso\u010dany"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30bd\u30c1\u30e3\u30cb"
+    ],
+    "name:lmo_x_preferred":[
         "Vyso\u010dany"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +99,9 @@
     ],
     "name:swe_x_preferred":[
         "Vyso\u010dany"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u0447\u0430\u043d\u0438"
     ],
     "name:und_x_variant":[
         "Vysogaby"
@@ -135,7 +156,7 @@
         }
     ],
     "wof:id":1125945949,
-    "wof:lastmodified":1566710686,
+    "wof:lastmodified":1690869704,
     "wof:name":"Vyso\u010dany",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

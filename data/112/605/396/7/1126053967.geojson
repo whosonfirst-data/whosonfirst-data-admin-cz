@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Z\u00e1jezdec"
+    ],
     "name:ceb_x_preferred":[
         "Z\u00e1jezdec"
     ],
     "name:ces_x_preferred":[
         "Z\u00e1jezdec"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u0435\u0437\u0434\u0435\u0446"
     ],
     "name:eng_x_preferred":[
         "Z\u00e1jezdec"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Z\u00e1jezdec"
     ],
+    "name:gle_x_preferred":[
+        "Z\u00e1jezdec"
+    ],
     "name:hun_x_preferred":[
         "Z\u00e1jezdec"
     ],
     "name:ita_x_preferred":[
+        "Z\u00e1jezdec"
+    ],
+    "name:lmo_x_preferred":[
         "Z\u00e1jezdec"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Z\u00e1jezdec"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u0430\u0435\u0437\u0434\u0435\u0446"
     ],
     "name:vie_x_preferred":[
         "Z\u00e1jezdec"
@@ -123,7 +138,7 @@
         }
     ],
     "wof:id":1126053967,
-    "wof:lastmodified":1566710818,
+    "wof:lastmodified":1690870106,
     "wof:name":"Z\u00e1jezdec",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

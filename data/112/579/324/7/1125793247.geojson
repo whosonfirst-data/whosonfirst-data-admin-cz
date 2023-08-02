@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pod\u016fl\u0161any"
+    ],
     "name:ceb_x_preferred":[
         "Pod\u016fl\u0161any"
     ],
     "name:ces_x_preferred":[
         "Pod\u016fl\u0161any"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0434\u0443\u043b\u0448\u0430\u043d\u0438"
     ],
     "name:deu_x_preferred":[
         "Pod\u016fl\u0161any"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Pod\u016fl\u0161any"
     ],
+    "name:gle_x_preferred":[
+        "Pod\u016fl\u0161any"
+    ],
     "name:hun_x_preferred":[
         "Pod\u016fl\u0161any"
     ],
     "name:ita_x_preferred":[
+        "Pod\u016fl\u0161any"
+    ],
+    "name:lmo_x_preferred":[
         "Pod\u016fl\u0161any"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Pod\u016fl\u0161any"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u0434\u0443\u043b\u0448\u0430\u043d\u0438"
     ],
     "name:vie_x_preferred":[
         "Pod\u016fl\u0161any"
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1125793247,
-    "wof:lastmodified":1566711126,
+    "wof:lastmodified":1690870869,
     "wof:name":"Pod\u016fl\u0161any",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

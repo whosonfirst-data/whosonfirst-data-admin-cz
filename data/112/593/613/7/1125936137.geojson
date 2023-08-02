@@ -22,10 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hornice"
+    ],
     "name:ces_x_preferred":[
         "Hornice"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u0446\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Hornice"
+    ],
     "name:eng_x_preferred":[
+        "Hornice"
+    ],
+    "name:epo_x_preferred":[
         "Hornice"
     ],
     "name:eus_x_preferred":[
@@ -34,10 +46,16 @@
     "name:fra_x_preferred":[
         "Hornice"
     ],
+    "name:gle_x_preferred":[
+        "Hornice"
+    ],
     "name:hun_x_preferred":[
         "Hornice"
     ],
     "name:ita_x_preferred":[
+        "Hornice"
+    ],
+    "name:lmo_x_preferred":[
         "Hornice"
     ],
     "name:msa_x_preferred":[
@@ -63,6 +81,9 @@
     ],
     "name:spa_x_preferred":[
         "Hornice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Hornice"
@@ -114,7 +135,7 @@
         }
     ],
     "wof:id":1125936137,
-    "wof:lastmodified":1566710737,
+    "wof:lastmodified":1690869885,
     "wof:name":"Hornice",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

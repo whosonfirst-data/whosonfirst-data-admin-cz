@@ -22,13 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0648\u06a9\u0627\u0648\u062a\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Trokavec"
+    ],
     "name:ceb_x_preferred":[
         "Trokavec"
     ],
     "name:ces_x_preferred":[
         "Trokavec"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u043e\u043a\u0430\u0432\u0435\u0446"
+    ],
     "name:eng_x_preferred":[
+        "Trokavec"
+    ],
+    "name:epo_x_preferred":[
         "Trokavec"
     ],
     "name:eus_x_preferred":[
@@ -40,10 +52,16 @@
     "name:fra_x_preferred":[
         "Trokavec"
     ],
+    "name:gle_x_preferred":[
+        "Trokavec"
+    ],
     "name:hun_x_preferred":[
         "Trokavec"
     ],
     "name:ita_x_preferred":[
+        "Trokavec"
+    ],
+    "name:lmo_x_preferred":[
         "Trokavec"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +93,9 @@
     ],
     "name:szl_x_preferred":[
         "Trokavec"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u043e\u043a\u0430\u0432\u0435\u0446"
     ],
     "name:vie_x_preferred":[
         "Trokavec"
@@ -126,7 +147,7 @@
         }
     ],
     "wof:id":1125926877,
-    "wof:lastmodified":1566710765,
+    "wof:lastmodified":1690869949,
     "wof:name":"Trokavec",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062e\u06cc\u06cc\u06cc\u062a\u0633\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Chyjice"
+    ],
     "name:ceb_x_preferred":[
         "Chyjice"
     ],
     "name:ces_x_preferred":[
         "Chyjice"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0438\u0439\u0438\u0446\u0435"
     ],
     "name:eng_x_preferred":[
         "Chyjice"
@@ -40,10 +49,16 @@
     "name:fra_x_preferred":[
         "Chyjice"
     ],
+    "name:gle_x_preferred":[
+        "Chyjice"
+    ],
     "name:hun_x_preferred":[
         "Chyjice"
     ],
     "name:ita_x_preferred":[
+        "Chyjice"
+    ],
+    "name:lmo_x_preferred":[
         "Chyjice"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +87,12 @@
     ],
     "name:swe_x_preferred":[
         "Chyjice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0438\u0439\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u0457\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Chyjice"
@@ -125,7 +146,7 @@
         }
     ],
     "wof:id":1125864141,
-    "wof:lastmodified":1566710855,
+    "wof:lastmodified":1690870207,
     "wof:name":"Chyjice",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

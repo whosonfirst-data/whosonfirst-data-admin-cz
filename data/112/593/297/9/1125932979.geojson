@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kv\u011btinov"
+    ],
     "name:ceb_x_preferred":[
         "Kv\u011btinov"
     ],
     "name:ces_x_preferred":[
         "Kv\u011btinov"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0432\u0435\u0442\u0438\u043d\u043e\u0432"
     ],
     "name:deu_x_preferred":[
         "Kv\u011btinov"
@@ -34,10 +40,16 @@
     "name:eng_x_preferred":[
         "Kv\u011btinov"
     ],
+    "name:epo_x_preferred":[
+        "Kv\u011btinov"
+    ],
     "name:eus_x_preferred":[
         "Kv\u011btinov"
     ],
     "name:fra_x_preferred":[
+        "Kv\u011btinov"
+    ],
+    "name:gle_x_preferred":[
         "Kv\u011btinov"
     ],
     "name:hsb_x_preferred":[
@@ -47,6 +59,9 @@
         "Kv\u011btinov"
     ],
     "name:ita_x_preferred":[
+        "Kv\u011btinov"
+    ],
+    "name:lmo_x_preferred":[
         "Kv\u011btinov"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Kv\u011btinov"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0432\u0435\u0442\u0438\u043d\u043e\u0432"
     ],
     "name:vie_x_preferred":[
         "Kv\u011btinov"
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125932979,
-    "wof:lastmodified":1566710745,
+    "wof:lastmodified":1690869908,
     "wof:name":"Kv\u011btinov",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "P\u0159elovice"
+    ],
     "name:ceb_x_preferred":[
         "P\u0159elovice"
     ],
     "name:ces_x_preferred":[
         "P\u0159elovice"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u0436\u0435\u043b\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "P\u0159elovice"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "P\u0159elovice"
     ],
+    "name:gle_x_preferred":[
+        "P\u0159elovice"
+    ],
     "name:hun_x_preferred":[
         "P\u0159elovice"
     ],
     "name:ita_x_preferred":[
+        "P\u0159elovice"
+    ],
+    "name:lmo_x_preferred":[
         "P\u0159elovice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "P\u0159elovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u0436\u0435\u043b\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "P\u0159elovice"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125990973,
-    "wof:lastmodified":1566710949,
+    "wof:lastmodified":1690870392,
     "wof:name":"P\u0159elovice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

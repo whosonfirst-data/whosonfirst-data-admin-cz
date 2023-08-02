@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
     "geom:area_square_m":1116323.421303,
-    "geom:bbox":"13.685656104,49.768904854,13.7069384773,49.7788721932",
-    "geom:latitude":49.774681,
+    "geom:bbox":"13.685656,49.768905,13.706938,49.778872",
+    "geom:latitude":49.77468,
     "geom:longitude":13.696005,
     "gn:population":1485,
     "iso:country":"CZ",
@@ -26,13 +26,22 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u043e\u0443\u0431\u043a\u043e\u0432"
     ],
+    "name:cat_x_preferred":[
+        "Holoubkov"
+    ],
     "name:ceb_x_preferred":[
         "Holoubkov"
     ],
     "name:ces_x_preferred":[
         "Holoubkov"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0443\u0431\u043a\u043e\u0432"
+    ],
     "name:eng_x_preferred":[
+        "Holoubkov"
+    ],
+    "name:epo_x_preferred":[
         "Holoubkov"
     ],
     "name:eus_x_preferred":[
@@ -44,10 +53,16 @@
     "name:fra_x_preferred":[
         "Holoubkov"
     ],
+    "name:gle_x_preferred":[
+        "Holoubkov"
+    ],
     "name:hun_x_preferred":[
         "Holoubkov"
     ],
     "name:ita_x_preferred":[
+        "Holoubkov"
+    ],
+    "name:lmo_x_preferred":[
         "Holoubkov"
     ],
     "name:msa_x_preferred":[
@@ -65,6 +80,9 @@
     "name:por_x_preferred":[
         "Holoubkov"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0443\u0431\u043a\u043e\u0432"
+    ],
     "name:slk_x_preferred":[
         "Holoubkov"
     ],
@@ -76,6 +94,9 @@
     ],
     "name:swe_x_preferred":[
         "Holoubkov"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0443\u0431\u043a\u043e\u0432"
     ],
     "name:und_x_variant":[
         "Holoubkau"
@@ -119,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"81134557317488cfa7fc7a86ec119df1",
+    "wof:geomhash":"c312692820982c7fe2074bdac30facbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +150,7 @@
         }
     ],
     "wof:id":101826497,
-    "wof:lastmodified":1582312359,
+    "wof:lastmodified":1690869366,
     "wof:name":"Holoubkov",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",
@@ -141,10 +162,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.68565610397127,
-    49.76890485402953,
-    13.70693847726147,
-    49.77887219324788
+    13.685656,
+    49.768905,
+    13.706938,
+    49.778872
 ],
-  "geometry": {"coordinates":[[[13.70693847726147,49.77837418672084],[13.70666218399941,49.77478260971458],[13.70388887478907,49.77487330118402],[13.7036128388973,49.7712817112714],[13.69668003858021,49.77150812384099],[13.69661116626401,49.77061022070978],[13.69383808089589,49.77070066512954],[13.69370044878576,49.76890485402953],[13.68954095720187,49.76904038770607],[13.68981592561539,49.77263202023829],[13.68565610397127,49.77276741294793],[13.68599950078556,49.77725696090852],[13.69154643943085,49.77707638404377],[13.69168402645067,49.77887219324788],[13.70693847726147,49.77837418672084]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[13.706938,49.778374],[13.706662,49.774783],[13.703889,49.774873],[13.703613,49.771282],[13.69668,49.771508],[13.696611,49.77061],[13.693838,49.770701],[13.6937,49.768905],[13.689541,49.76904],[13.689816,49.772632],[13.685656,49.772767],[13.686,49.777257],[13.691546,49.777076],[13.691684,49.778872],[13.706938,49.778374]]],"type":"Polygon"}
 }

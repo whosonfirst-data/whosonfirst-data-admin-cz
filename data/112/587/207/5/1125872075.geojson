@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "De\u0161n\u00e1"
+    ],
     "name:ceb_x_preferred":[
         "De\u0161n\u00e1"
     ],
     "name:ces_x_preferred":[
         "De\u0161n\u00e1"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0435\u0448\u043d\u0430"
     ],
     "name:deu_x_preferred":[
         "De\u0161n\u00e1 u Da\u010dic"
@@ -34,10 +40,16 @@
     "name:eng_x_preferred":[
         "De\u0161n\u00e1"
     ],
+    "name:epo_x_preferred":[
+        "De\u0161n\u00e1"
+    ],
     "name:eus_x_preferred":[
         "De\u0161n\u00e1"
     ],
     "name:fra_x_preferred":[
+        "De\u0161n\u00e1"
+    ],
+    "name:gle_x_preferred":[
         "De\u0161n\u00e1"
     ],
     "name:hun_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "De\u0161n\u00e1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0435\u0448\u043d\u0430"
     ],
     "name:und_x_variant":[
         "D\u00f6schen"
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1125872075,
-    "wof:lastmodified":1566710923,
+    "wof:lastmodified":1690870369,
     "wof:name":"De\u0161n\u00e1",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

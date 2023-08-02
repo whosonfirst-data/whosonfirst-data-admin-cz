@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0448\u0442\u044d\u0439\u043d"
+    ],
     "name:cat_x_preferred":[
         "Karl\u0161tejn"
     ],
@@ -52,10 +55,19 @@
     "name:fra_x_preferred":[
         "Karl\u0161tejn"
     ],
+    "name:gle_x_preferred":[
+        "Karl\u0161tejn"
+    ],
     "name:hun_x_preferred":[
         "Karl\u0161tejn"
     ],
     "name:ita_x_preferred":[
+        "Karl\u0161tejn"
+    ],
+    "name:lav_x_preferred":[
+        "Karl\u0161teina"
+    ],
+    "name:lmo_x_preferred":[
         "Karl\u0161tejn"
     ],
     "name:msa_x_preferred":[
@@ -92,6 +104,9 @@
         "\u041a\u0430\u0440\u043b\u0448\u0442\u0435\u0458\u043d"
     ],
     "name:swe_x_preferred":[
+        "Karl\u0161tejn"
+    ],
+    "name:uzb_x_preferred":[
         "Karl\u0161tejn"
     ],
     "name:vie_x_preferred":[
@@ -151,7 +166,7 @@
         }
     ],
     "wof:id":1125767355,
-    "wof:lastmodified":1566711089,
+    "wof:lastmodified":1690870770,
     "wof:name":"Karl\u0161tejn",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

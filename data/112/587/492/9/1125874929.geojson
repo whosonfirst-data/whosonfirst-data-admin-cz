@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u0160lapanice"
+    ],
     "name:ceb_x_preferred":[
         "\u0160lapanice"
     ],
     "name:ces_x_preferred":[
         "\u0160lapanice"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u043b\u0430\u043f\u0430\u043d\u0438\u0446\u0435"
     ],
     "name:eng_x_preferred":[
         "\u0160lapanice"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "\u0160lapanice"
     ],
+    "name:gle_x_preferred":[
+        "\u0160lapanice"
+    ],
     "name:hun_x_preferred":[
         "\u0160lapanice"
     ],
     "name:ita_x_preferred":[
+        "\u0160lapanice"
+    ],
+    "name:lmo_x_preferred":[
         "\u0160lapanice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "\u0160lapanice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u043b\u0430\u043f\u0430\u043d\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "\u0160lapanice"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125874929,
-    "wof:lastmodified":1566710924,
+    "wof:lastmodified":1690870372,
     "wof:name":"\u00c5 lapanice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -22,13 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
     "name:ces_x_preferred":[
         "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438 \u0421\u043a\u0440\u0438\u0445\u043e\u0432"
     ],
     "name:deu_x_preferred":[
         "Horn\u00ed Skr\u00fdchov"
     ],
     "name:eng_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:epo_x_preferred":[
         "Horn\u00ed Skr\u00fdchov"
     ],
     "name:eus_x_preferred":[
@@ -37,10 +46,16 @@
     "name:fra_x_preferred":[
         "Horn\u00ed Skr\u00fdchov"
     ],
+    "name:gle_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
     "name:hun_x_preferred":[
         "Horn\u00ed Skr\u00fdchov"
     ],
     "name:ita_x_preferred":[
+        "Horn\u00ed Skr\u00fdchov"
+    ],
+    "name:lmo_x_preferred":[
         "Horn\u00ed Skr\u00fdchov"
     ],
     "name:msa_x_preferred":[
@@ -69,6 +84,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0440\u045a\u0438 \u0421\u043a\u0440\u0438\u0445\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438 \u0421\u043a\u0440\u0438\u0445\u043e\u0432"
     ],
     "name:vie_x_preferred":[
         "Horn\u00ed Skr\u00fdchov"
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":1126052885,
-    "wof:lastmodified":1566710822,
+    "wof:lastmodified":1690870120,
     "wof:name":"Horn\u00ed Skr\u00fdchov",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

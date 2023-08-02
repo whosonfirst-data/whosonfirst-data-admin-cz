@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Jabkenice"
+    ],
     "name:ceb_x_preferred":[
         "Jabkenice"
     ],
     "name:ces_x_preferred":[
         "Jabkenice"
+    ],
+    "name:che_x_preferred":[
+        "\u042f\u0431\u043a\u0435\u043d\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Jabkenice"
@@ -43,6 +49,9 @@
     "name:fra_x_preferred":[
         "Jabkenice"
     ],
+    "name:gle_x_preferred":[
+        "Jabkenice"
+    ],
     "name:hun_x_preferred":[
         "Jabkenice"
     ],
@@ -51,6 +60,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e4\u30d6\u30b1\u30cb\u30bb"
+    ],
+    "name:lmo_x_preferred":[
+        "Jabkenice"
     ],
     "name:msa_x_preferred":[
         "Jabkenice"
@@ -82,11 +94,17 @@
     "name:swe_x_preferred":[
         "Jabkenice"
     ],
+    "name:tat_x_preferred":[
+        "\u042f\u0431\u043a\u0435\u043d\u0438\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Jablkynice"
     ],
     "name:vie_x_preferred":[
         "Jabkenice"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u5e03\u80af\u5c3c\u65af"
     ],
     "qs_pg:aaroncc":"CZ",
     "qs_pg:gn_country":"CZ",
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":1125917313,
-    "wof:lastmodified":1566711011,
+    "wof:lastmodified":1690870535,
     "wof:name":"Jabkenice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hlavnice"
+    ],
     "name:ceb_x_preferred":[
         "Hlavnice"
     ],
     "name:ces_x_preferred":[
         "Hlavnice"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u043d\u0438\u0446\u0435"
     ],
     "name:eng_x_preferred":[
         "Hlavnice"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Hlavnice"
     ],
+    "name:gle_x_preferred":[
+        "Hlavnice"
+    ],
     "name:hun_x_preferred":[
         "Hlavnice"
     ],
     "name:ita_x_preferred":[
+        "Hlavnice"
+    ],
+    "name:lmo_x_preferred":[
         "Hlavnice"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Hlavnice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u043d\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Hlavnice"
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1126016421,
-    "wof:lastmodified":1566711054,
+    "wof:lastmodified":1690870663,
     "wof:name":"Hlavnice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

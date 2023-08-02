@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kosi\u010dky"
+    ],
     "name:ceb_x_preferred":[
         "Kosi\u010dky"
     ],
     "name:ces_x_preferred":[
         "Kosi\u010dky"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0441\u0438\u0447\u043a\u0438"
     ],
     "name:deu_x_preferred":[
         "Kosi\u010dky"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Kosi\u010dky"
     ],
+    "name:gle_x_preferred":[
+        "Kosi\u010dky"
+    ],
     "name:hun_x_preferred":[
         "Kosi\u010dky"
     ],
     "name:ita_x_preferred":[
+        "Kosi\u010dky"
+    ],
+    "name:lmo_x_preferred":[
         "Kosi\u010dky"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Kosi\u010dky"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0441\u0438\u0447\u043a\u0438"
     ],
     "name:vie_x_preferred":[
         "Kosi\u010dky"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125937787,
-    "wof:lastmodified":1566710729,
+    "wof:lastmodified":1690869855,
     "wof:name":"Kosi\u010dky",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

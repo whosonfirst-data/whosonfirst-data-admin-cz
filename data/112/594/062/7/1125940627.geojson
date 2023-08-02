@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Valy"
+    ],
     "name:ceb_x_preferred":[
         "Valy"
     ],
     "name:ces_x_preferred":[
         "Valy"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u043b\u0438"
     ],
     "name:deu_x_preferred":[
         "Valy"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Valy"
     ],
+    "name:gle_x_preferred":[
+        "Valy"
+    ],
     "name:hun_x_preferred":[
         "Valy"
     ],
     "name:ita_x_preferred":[
+        "Valy"
+    ],
+    "name:lmo_x_preferred":[
         "Valy"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Valy"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043b\u0438"
     ],
     "name:vie_x_preferred":[
         "Valy"
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1125940627,
-    "wof:lastmodified":1566710694,
+    "wof:lastmodified":1690869728,
     "wof:name":"Valy",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

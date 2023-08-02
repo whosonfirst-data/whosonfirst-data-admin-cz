@@ -22,16 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "B\u0159est"
+    ],
     "name:ceb_x_preferred":[
         "B\u0159est"
     ],
     "name:ces_x_preferred":[
         "B\u0159est"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0440\u0436\u0435\u0441\u0442"
+    ],
     "name:deu_x_preferred":[
         "B\u0159est"
     ],
     "name:eng_x_preferred":[
+        "B\u0159est"
+    ],
+    "name:epo_x_preferred":[
         "B\u0159est"
     ],
     "name:eus_x_preferred":[
@@ -40,10 +49,19 @@
     "name:fra_x_preferred":[
         "B\u0159est"
     ],
+    "name:gle_x_preferred":[
+        "B\u0159est"
+    ],
     "name:hun_x_preferred":[
         "B\u0159est"
     ],
     "name:ita_x_preferred":[
+        "B\u0159est"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30b7\u30a7\u30b9\u30c8"
+    ],
+    "name:lmo_x_preferred":[
         "B\u0159est"
     ],
     "name:msa_x_preferred":[
@@ -64,6 +82,9 @@
     "name:rup_x_preferred":[
         "B\u0159est"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0436\u0435\u0441\u0442"
+    ],
     "name:slk_x_preferred":[
         "B\u0159est"
     ],
@@ -75,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "B\u0159est"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u0436\u0435\u0441\u0442"
     ],
     "name:vie_x_preferred":[
         "B\u0159est"
@@ -128,7 +152,7 @@
         }
     ],
     "wof:id":1125860375,
-    "wof:lastmodified":1566710859,
+    "wof:lastmodified":1690870217,
     "wof:name":"B\u0159est",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",

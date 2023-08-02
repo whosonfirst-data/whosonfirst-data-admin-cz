@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u010cankovice"
+    ],
     "name:ceb_x_preferred":[
         "\u010cankovice"
     ],
     "name:ces_x_preferred":[
         "\u010cankovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0430\u043d\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:eng_x_preferred":[
         "\u010cankovice"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "\u010cankovice"
     ],
+    "name:gle_x_preferred":[
+        "\u010cankovice"
+    ],
     "name:hun_x_preferred":[
         "\u010cankovice"
     ],
     "name:ita_x_preferred":[
+        "\u010cankovice"
+    ],
+    "name:lmo_x_preferred":[
         "\u010cankovice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "\u010cankovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0430\u043d\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "\u010cankovice"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125933181,
-    "wof:lastmodified":1566710746,
+    "wof:lastmodified":1690869914,
     "wof:name":"\u010cankovice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

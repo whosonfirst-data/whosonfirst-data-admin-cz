@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ost\u0159et\u00edn"
+    ],
     "name:ceb_x_preferred":[
         "Ost\u0159et\u00edn"
     ],
     "name:ces_x_preferred":[
         "Ost\u0159et\u00edn"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0436\u0435\u0442\u0438\u043d"
     ],
     "name:deu_x_preferred":[
         "Ost\u0159et\u00edn"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Ost\u0159et\u00edn"
     ],
+    "name:gle_x_preferred":[
+        "Ost\u0159et\u00edn"
+    ],
     "name:hun_x_preferred":[
         "Ost\u0159et\u00edn"
     ],
     "name:ita_x_preferred":[
+        "Ost\u0159et\u00edn"
+    ],
+    "name:lmo_x_preferred":[
         "Ost\u0159et\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -67,6 +79,9 @@
     "name:rup_x_preferred":[
         "Ost\u0159et\u00edn"
     ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0448\u0435\u0442\u0438\u043d"
+    ],
     "name:slk_x_preferred":[
         "Ost\u0159et\u00edn"
     ],
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Ost\u0159et\u00edn"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0436\u0435\u0442\u0438\u043d"
     ],
     "name:und_x_variant":[
         "Wost\u0159etin"
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1125866595,
-    "wof:lastmodified":1566710858,
+    "wof:lastmodified":1690870216,
     "wof:name":"Ost\u0159et\u00edn",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

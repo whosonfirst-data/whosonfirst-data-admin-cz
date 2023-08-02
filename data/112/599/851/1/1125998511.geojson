@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u062a\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Tatenice"
+    ],
     "name:ceb_x_preferred":[
         "Tatenice"
     ],
     "name:ces_x_preferred":[
         "Tatenice"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u0442\u0435\u043d\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Tatenice"
@@ -46,10 +55,16 @@
     "name:fra_x_preferred":[
         "Tatenice"
     ],
+    "name:gle_x_preferred":[
+        "Tatenice"
+    ],
     "name:hun_x_preferred":[
         "Tatenice"
     ],
     "name:ita_x_preferred":[
+        "Tatenice"
+    ],
+    "name:lmo_x_preferred":[
         "Tatenice"
     ],
     "name:msa_x_preferred":[
@@ -59,6 +74,9 @@
         "Tatenice"
     ],
     "name:nld_x_preferred":[
+        "Tatenice"
+    ],
+    "name:pol_x_preferred":[
         "Tatenice"
     ],
     "name:por_x_preferred":[
@@ -78,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "Tatenice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0442\u0435\u043d\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Tatenice"
@@ -131,7 +152,7 @@
         }
     ],
     "wof:id":1125998511,
-    "wof:lastmodified":1566710949,
+    "wof:lastmodified":1690870391,
     "wof:name":"Tatenice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

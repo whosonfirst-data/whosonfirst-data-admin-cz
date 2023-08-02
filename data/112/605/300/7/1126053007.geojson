@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kasalice"
+    ],
     "name:ceb_x_preferred":[
         "Kasalice"
     ],
     "name:ces_x_preferred":[
         "Kasalice"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0441\u0430\u043b\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Kasalice"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Kasalice"
     ],
+    "name:gle_x_preferred":[
+        "Kasalice"
+    ],
     "name:hun_x_preferred":[
         "Kasalice"
     ],
     "name:ita_x_preferred":[
+        "Kasalice"
+    ],
+    "name:lmo_x_preferred":[
         "Kasalice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Kasalice"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0441\u0430\u043b\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Kasalice"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1126053007,
-    "wof:lastmodified":1566710816,
+    "wof:lastmodified":1690870104,
     "wof:name":"Kasalice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

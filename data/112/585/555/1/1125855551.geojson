@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Brloh"
+    ],
     "name:ceb_x_preferred":[
         "Brloh"
     ],
     "name:ces_x_preferred":[
         "Brloh"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0440\u043b\u043e\u0433"
     ],
     "name:deu_x_preferred":[
         "Brloh u P\u0159elou\u010de"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Brloh"
     ],
+    "name:gle_x_preferred":[
+        "Brloh"
+    ],
     "name:hun_x_preferred":[
         "Brloh"
     ],
     "name:ita_x_preferred":[
+        "Brloh"
+    ],
+    "name:lmo_x_preferred":[
         "Brloh"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Brloh"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u043b\u043e\u0433"
     ],
     "name:vie_x_preferred":[
         "Brloh"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125855551,
-    "wof:lastmodified":1566711102,
+    "wof:lastmodified":1690870806,
     "wof:name":"Brloh",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

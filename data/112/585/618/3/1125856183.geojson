@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ho\u0159any"
+    ],
     "name:ces_x_preferred":[
         "Ho\u0159any"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u0436\u0430\u043d\u0438"
     ],
     "name:deu_x_preferred":[
         "Ho\u0159any"
@@ -37,10 +43,16 @@
     "name:fra_x_preferred":[
         "Ho\u0159any"
     ],
+    "name:gle_x_preferred":[
+        "Ho\u0159any"
+    ],
     "name:hun_x_preferred":[
         "Ho\u0159any"
     ],
     "name:ita_x_preferred":[
+        "Ho\u0159any"
+    ],
+    "name:lmo_x_preferred":[
         "Ho\u0159any"
     ],
     "name:msa_x_preferred":[
@@ -69,6 +81,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0440\u0436\u0430\u043d\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u0436\u0430\u043d\u0438"
     ],
     "name:vie_x_preferred":[
         "Ho\u0159any"
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":1125856183,
-    "wof:lastmodified":1566711096,
+    "wof:lastmodified":1690870785,
     "wof:name":"Ho\u0159any",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

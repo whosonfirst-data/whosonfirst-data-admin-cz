@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "V\u00e1penn\u00fd Podol"
+    ],
     "name:ceb_x_preferred":[
         "V\u00e1penn\u00fd Podol"
     ],
     "name:ces_x_preferred":[
         "V\u00e1penn\u00fd Podol"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u043f\u0435\u043d\u043d\u0438 \u041f\u043e\u0434\u043e\u043b"
     ],
     "name:deu_x_preferred":[
         "V\u00e1penn\u00fd Podol"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "V\u00e1penn\u00fd Podol"
     ],
+    "name:gle_x_preferred":[
+        "V\u00e1penn\u00fd Podol"
+    ],
     "name:hun_x_preferred":[
         "V\u00e1penn\u00fd Podol"
     ],
     "name:ita_x_preferred":[
+        "V\u00e1penn\u00fd Podol"
+    ],
+    "name:lmo_x_preferred":[
         "V\u00e1penn\u00fd Podol"
     ],
     "name:msa_x_preferred":[
@@ -67,6 +79,9 @@
     "name:rup_x_preferred":[
         "V\u00e1penn\u00fd Podol"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043f\u0435\u043d\u043d\u044b\u0439 \u041f\u043e\u0434\u043e\u043b"
+    ],
     "name:slk_x_preferred":[
         "V\u00e1penn\u00fd Podol"
     ],
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "V\u00e1penn\u00fd Podol"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043f\u0435\u043d\u043d\u0438 \u041f\u043e\u0434\u043e\u043b"
     ],
     "name:und_x_variant":[
         "Kalk Podol"
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1125857491,
-    "wof:lastmodified":1566711100,
+    "wof:lastmodified":1690870799,
     "wof:name":"V\u00e1penn\u00fd Podol",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

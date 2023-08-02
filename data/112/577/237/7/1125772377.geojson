@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Horn\u00ed Bradlo"
+    ],
     "name:ceb_x_preferred":[
         "Horn\u00ed Bradlo"
     ],
     "name:ces_x_preferred":[
         "Horn\u00ed Bradlo"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438 \u0411\u0440\u0430\u0434\u043b\u043e"
     ],
     "name:eng_x_preferred":[
         "Horn\u00ed Bradlo"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Horn\u00ed Bradlo"
     ],
+    "name:gle_x_preferred":[
+        "Horn\u00ed Bradlo"
+    ],
     "name:hun_x_preferred":[
         "Horn\u00ed Bradlo"
     ],
     "name:ita_x_preferred":[
+        "Horn\u00ed Bradlo"
+    ],
+    "name:lmo_x_preferred":[
         "Horn\u00ed Bradlo"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Horn\u00ed Bradlo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438 \u0411\u0440\u0430\u0434\u043b\u043e"
     ],
     "name:vie_x_preferred":[
         "Horn\u00ed Bradlo"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125772377,
-    "wof:lastmodified":1566711146,
+    "wof:lastmodified":1690870923,
     "wof:name":"Horn\u00ed Bradlo",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

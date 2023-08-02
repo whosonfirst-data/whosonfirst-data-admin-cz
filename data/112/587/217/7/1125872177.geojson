@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "S\u00e1ny"
+    ],
     "name:ceb_x_preferred":[
         "S\u00e1ny"
     ],
     "name:ces_x_preferred":[
         "S\u00e1ny"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u0438"
     ],
     "name:deu_x_preferred":[
         "S\u00e1ny"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "S\u00e1ny"
     ],
+    "name:gle_x_preferred":[
+        "S\u00e1ny"
+    ],
     "name:hun_x_preferred":[
         "S\u00e1ny"
     ],
     "name:ita_x_preferred":[
+        "S\u00e1ny"
+    ],
+    "name:lmo_x_preferred":[
         "S\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "S\u00e1ny"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u0438"
     ],
     "name:und_x_variant":[
         "Saan"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125872177,
-    "wof:lastmodified":1566710917,
+    "wof:lastmodified":1690870348,
     "wof:name":"S\u00e1ny",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

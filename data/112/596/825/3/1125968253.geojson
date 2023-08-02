@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hurtova Lhota"
+    ],
     "name:ceb_x_preferred":[
         "Hurtova Lhota"
     ],
     "name:ces_x_preferred":[
         "Hurtova Lhota"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0443\u0440\u0442\u043e\u0432\u0430 \u041b\u0433\u043e\u0442\u0430"
     ],
     "name:deu_x_preferred":[
         "Hurtova Lhota"
@@ -34,10 +40,16 @@
     "name:eng_x_preferred":[
         "Hurtova Lhota"
     ],
+    "name:epo_x_preferred":[
+        "Hurtova Lhota"
+    ],
     "name:eus_x_preferred":[
         "Hurtova Lhota"
     ],
     "name:fra_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:gle_x_preferred":[
         "Hurtova Lhota"
     ],
     "name:hsb_x_preferred":[
@@ -47,6 +59,9 @@
         "Hurtova Lhota"
     ],
     "name:ita_x_preferred":[
+        "Hurtova Lhota"
+    ],
+    "name:lmo_x_preferred":[
         "Hurtova Lhota"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Hurtova Lhota"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0443\u0440\u0442\u043e\u0432\u0430 \u041b\u0433\u043e\u0442\u0430"
     ],
     "name:vie_x_preferred":[
         "Hurtova Lhota"
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125968253,
-    "wof:lastmodified":1566711004,
+    "wof:lastmodified":1690870508,
     "wof:name":"Hurtova Lhota",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

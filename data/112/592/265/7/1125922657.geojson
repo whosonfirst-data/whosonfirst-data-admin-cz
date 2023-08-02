@@ -25,20 +25,41 @@
     "name:azb_x_preferred":[
         "\u067e\u0648\u062f\u0648\u0644\u06cc \u0627\u06cc"
     ],
+    "name:cat_x_preferred":[
+        "Podol\u00ed"
+    ],
     "name:ceb_x_preferred":[
         "Podol\u00ed"
     ],
     "name:ces_x_preferred":[
         "Podol\u00ed I"
     ],
+    "name:ces_x_variant":[
+        "Podol\u00ed"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u043b\u0438"
+    ],
     "name:deu_x_preferred":[
         "Podol\u00ed I"
+    ],
+    "name:deu_x_variant":[
+        "Podol\u00ed"
     ],
     "name:eng_x_preferred":[
         "Podol\u00ed I"
     ],
+    "name:eng_x_variant":[
+        "Podol\u00ed"
+    ],
+    "name:epo_x_preferred":[
+        "Podol\u00ed"
+    ],
     "name:eus_x_preferred":[
         "Podol\u00ed I"
+    ],
+    "name:eus_x_variant":[
+        "Podol\u00ed"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u062f\u0648\u0644\u06cc \u0627\u06cc"
@@ -46,41 +67,86 @@
     "name:fra_x_preferred":[
         "Podol\u00ed I"
     ],
+    "name:fra_x_variant":[
+        "Podol\u00ed"
+    ],
+    "name:gle_x_preferred":[
+        "Podol\u00ed"
+    ],
     "name:hun_x_preferred":[
         "Podol\u00ed I"
+    ],
+    "name:hun_x_variant":[
+        "Podol\u00ed"
     ],
     "name:ita_x_preferred":[
         "Podol\u00ed I"
     ],
+    "name:ita_x_variant":[
+        "Podol\u00ed"
+    ],
+    "name:lmo_x_preferred":[
+        "Podol\u00ed"
+    ],
     "name:msa_x_preferred":[
         "Podol\u00ed I"
+    ],
+    "name:msa_x_variant":[
+        "Podol\u00ed"
     ],
     "name:nan_x_preferred":[
         "Podol\u00ed I"
     ],
+    "name:nan_x_variant":[
+        "Podol\u00ed"
+    ],
     "name:nld_x_preferred":[
         "Podol\u00ed I"
+    ],
+    "name:nld_x_variant":[
+        "Podol\u00ed"
+    ],
+    "name:pol_x_preferred":[
+        "Podol\u00ed"
     ],
     "name:por_x_preferred":[
         "Podol\u00ed I"
     ],
+    "name:por_x_variant":[
+        "Podol\u00ed"
+    ],
     "name:slk_x_preferred":[
         "Podol\u00ed I"
+    ],
+    "name:slk_x_variant":[
+        "Podol\u00ed"
     ],
     "name:spa_x_preferred":[
         "Podol\u00ed I"
     ],
+    "name:spa_x_variant":[
+        "Podol\u00ed"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0434\u043e\u043b\u0438 I"
     ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0434\u043e\u043b\u0438"
+    ],
     "name:swe_x_preferred":[
         "Podol\u00ed"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u043b\u0438"
     ],
     "name:und_x_variant":[
         "Podol\u00ed P\u0159edn\u00ed"
     ],
     "name:vie_x_preferred":[
         "Podol\u00ed I"
+    ],
+    "name:vie_x_variant":[
+        "Podol\u00ed"
     ],
     "qs_pg:aaroncc":"CZ",
     "qs_pg:gn_country":"CZ",
@@ -129,7 +195,7 @@
         }
     ],
     "wof:id":1125922657,
-    "wof:lastmodified":1566710784,
+    "wof:lastmodified":1690870021,
     "wof:name":"Podol\u00ed I",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",
