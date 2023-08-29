@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "\u0158estoky"
+    ],
     "name:ceb_x_preferred":[
         "\u0158estoky"
     ],
     "name:ces_x_preferred":[
         "\u0158estoky"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0436\u0435\u0441\u0442\u043e\u043a\u0438"
     ],
     "name:eng_x_preferred":[
         "\u0158estoky"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "\u0158estoky"
     ],
+    "name:gle_x_preferred":[
+        "\u0158estoky"
+    ],
     "name:hun_x_preferred":[
         "\u0158estoky"
     ],
     "name:ita_x_preferred":[
+        "\u0158estoky"
+    ],
+    "name:lmo_x_preferred":[
         "\u0158estoky"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "\u0158estoky"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0436\u0435\u0441\u0442\u043e\u043a\u0438"
     ],
     "name:vie_x_preferred":[
         "\u0158estoky"
@@ -123,7 +138,7 @@
         }
     ],
     "wof:id":1125868353,
-    "wof:lastmodified":1566710857,
+    "wof:lastmodified":1690870213,
     "wof:name":"\u0158estoky",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

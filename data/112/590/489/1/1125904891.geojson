@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.861486,50.6989855,14.861486,50.6989855",
+    "geom:bbox":"14.861486,50.698985,14.861486,50.698985",
     "geom:latitude":50.698985,
     "geom:longitude":14.861486,
     "gn:country":null,
@@ -23,13 +23,22 @@
     "name:azb_x_preferred":[
         "\u0647\u0627\u0645\u0631 \u0646\u0627 \u06cc\u0632\u0631\u0647"
     ],
+    "name:cat_x_preferred":[
+        "Hamr na Jeze\u0159e"
+    ],
     "name:ces_x_preferred":[
         "Hamr na Jeze\u0159e"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u043c\u0440 \u043d\u0430 \u0415\u0437\u0435\u0440\u0436\u0435"
     ],
     "name:deu_x_preferred":[
         "Hamr na Jeze\u0159e"
     ],
     "name:eng_x_preferred":[
+        "Hamr na Jeze\u0159e"
+    ],
+    "name:epo_x_preferred":[
         "Hamr na Jeze\u0159e"
     ],
     "name:eus_x_preferred":[
@@ -41,10 +50,16 @@
     "name:fra_x_preferred":[
         "Hamr na Jeze\u0159e"
     ],
+    "name:gle_x_preferred":[
+        "Hamr na Jeze\u0159e"
+    ],
     "name:hun_x_preferred":[
         "Hamr na Jeze\u0159e"
     ],
     "name:ita_x_preferred":[
+        "Hamr na Jeze\u0159e"
+    ],
+    "name:lmo_x_preferred":[
         "Hamr na Jeze\u0159e"
     ],
     "name:msa_x_preferred":[
@@ -73,6 +88,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u043c\u0440 \u043d\u0430 \u0408\u0435\u0437\u0435\u0440\u0436\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0430\u043c\u0440 \u043d\u0430 \u0415\u0437\u0435\u0440\u0436\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Hamr na Jeze\u0159e"
     ],
     "name:vie_x_preferred":[
         "Hamr na Jeze\u0159e"
@@ -113,7 +134,7 @@
     },
     "wof:country":"CZ",
     "wof:created":1497295950,
-    "wof:geomhash":"2626c19677247a4928ec29819b2378d3",
+    "wof:geomhash":"d36a107375003120be07c3f47c001729",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +144,7 @@
         }
     ],
     "wof:id":1125904891,
-    "wof:lastmodified":1566710967,
+    "wof:lastmodified":1690870443,
     "wof:name":"Hamr na Jeze\u0159e",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",
@@ -134,9 +155,9 @@
 },
   "bbox": [
     14.861486,
-    50.6989855,
+    50.698985,
     14.861486,
-    50.6989855
+    50.698985
 ],
-  "geometry": {"coordinates":[14.861486,50.6989855],"type":"Point"}
+  "geometry": {"coordinates":[14.861486,50.698985],"type":"Point"}
 }

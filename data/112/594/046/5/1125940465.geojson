@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Velhartice"
+    ],
     "name:ceb_x_preferred":[
         "Velhartice"
     ],
     "name:ces_x_preferred":[
         "Velhartice"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u043b\u0433\u0430\u0440\u0442\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Welhartitz"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Velhartice"
     ],
+    "name:gle_x_preferred":[
+        "Velhartice"
+    ],
     "name:hun_x_preferred":[
         "Velhartice"
     ],
     "name:ita_x_preferred":[
+        "Velhartice"
+    ],
+    "name:lmo_x_preferred":[
         "Velhartice"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Velhartice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043b\u0433\u0430\u0440\u0442\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Velhartice"
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1125940465,
-    "wof:lastmodified":1566710691,
+    "wof:lastmodified":1690869719,
     "wof:name":"Velhartice",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

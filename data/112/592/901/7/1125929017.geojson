@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Zbenice"
+    ],
     "name:ceb_x_preferred":[
         "Zbenice"
     ],
     "name:ces_x_preferred":[
         "Zbenice"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0431\u0435\u043d\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Zbenice"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Zbenice"
     ],
+    "name:gle_x_preferred":[
+        "Zbenice"
+    ],
     "name:hun_x_preferred":[
         "Zbenice"
     ],
     "name:ita_x_preferred":[
+        "Zbenice"
+    ],
+    "name:lmo_x_preferred":[
         "Zbenice"
     ],
     "name:msa_x_preferred":[
@@ -53,6 +65,9 @@
         "Zbenice"
     ],
     "name:nld_x_preferred":[
+        "Zbenice"
+    ],
+    "name:pol_x_preferred":[
         "Zbenice"
     ],
     "name:por_x_preferred":[
@@ -69,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Zbenice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u0431\u0435\u043d\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Zbenitz"
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":1125929017,
-    "wof:lastmodified":1566710760,
+    "wof:lastmodified":1690869931,
     "wof:name":"Zbenice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

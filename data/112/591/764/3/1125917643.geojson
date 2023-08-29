@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Jezdkovice"
+    ],
     "name:ceb_x_preferred":[
         "Jezdkovice"
     ],
     "name:ces_x_preferred":[
         "Jezdkovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0415\u0437\u0434\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Jeskowitz"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Jezdkovice"
     ],
+    "name:gle_x_preferred":[
+        "Jezdkovice"
+    ],
     "name:hun_x_preferred":[
         "Jezdkovice"
     ],
     "name:ita_x_preferred":[
+        "Jezdkovice"
+    ],
+    "name:lmo_x_preferred":[
         "Jezdkovice"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Jezdkovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0415\u0437\u0434\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Jezdkovice"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125917643,
-    "wof:lastmodified":1566711008,
+    "wof:lastmodified":1690870521,
     "wof:name":"Jezdkovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

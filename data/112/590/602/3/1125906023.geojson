@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "P\u00e1tek"
+    ],
     "name:ceb_x_preferred":[
         "P\u00e1tek"
     ],
     "name:ces_x_preferred":[
         "P\u00e1tek"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u0442\u0435\u043a"
     ],
     "name:deu_x_preferred":[
         "P\u00e1tek"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "P\u00e1tek"
     ],
+    "name:gle_x_preferred":[
+        "P\u00e1tek"
+    ],
     "name:hun_x_preferred":[
         "P\u00e1tek"
     ],
     "name:ita_x_preferred":[
+        "P\u00e1tek"
+    ],
+    "name:lmo_x_preferred":[
         "P\u00e1tek"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "P\u00e1tek"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0442\u0435\u043a"
     ],
     "name:vie_x_preferred":[
         "P\u00e1tek"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125906023,
-    "wof:lastmodified":1566710962,
+    "wof:lastmodified":1690870425,
     "wof:name":"P\u00e1tek",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -45,6 +45,9 @@
     "name:deu_x_variant":[
         "Witkowitz"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03c4\u03ba\u03bf\u03b2\u03af\u03c4\u03c3\u03b5"
+    ],
     "name:eng_x_preferred":[
         "V\u00edtkovice"
     ],
@@ -57,6 +60,9 @@
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05d8\u05e7\u05d5\u05d1\u05d9\u05e6\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "V\u00edtkovice"
+    ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a3\u30c8\u30b3\u30f4\u30a3\u30c3\u30c4"
     ],
@@ -66,11 +72,17 @@
     "name:pol_x_preferred":[
         "Witkowice"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0442\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
     "name:slk_x_preferred":[
         "V\u00edtkovice"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0442\u043a\u043e\u0432\u0456\u0446\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u7279\u79d1\u7ef4\u91c7"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -134,7 +146,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1582312342,
+    "wof:lastmodified":1690869296,
     "wof:name":"V\u00edtkovice",
     "wof:parent_id":101748125,
     "wof:placetype":"neighbourhood",

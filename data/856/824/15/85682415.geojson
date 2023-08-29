@@ -87,11 +87,17 @@
     "name:ces_x_variant":[
         "Jiho\u010desk\u00fd kraj"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u044a\u0438\u043b\u0431\u0430-\u0427\u0435\u0445\u0438\u043d \u043c\u043e\u0445\u043a"
+    ],
     "name:dan_x_preferred":[
         "Sydb\u00f8hmen"
     ],
     "name:deu_x_preferred":[
         "Jiho\u010desk\u00fd kraj"
+    ],
+    "name:deu_x_variant":[
+        "S\u00fcdb\u00f6hmen"
     ],
     "name:diq_x_preferred":[
         "Jiho\u010desk\u00fd kraj"
@@ -149,6 +155,9 @@
     ],
     "name:hun_x_preferred":[
         "D\u00e9l-csehorsz\u00e1gi ker\u00fclet"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0580\u0561\u057e\u0579\u0565\u056d\u0561\u056f\u0561\u0576 \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
     ],
     "name:ind_x_preferred":[
         "Daerah Bohemia Selatan"
@@ -225,14 +234,23 @@
     "name:ron_x_variant":[
         "Boemia de Sud"
     ],
+    "name:rue_x_preferred":[
+        "\u042e\u0433\u043e\u0447\u0435\u0448\u0441\u043a\u044b\u0439 \u043a\u0440\u0430\u0439"
+    ],
     "name:rus_x_preferred":[
         "\u042e\u0436\u043d\u043e\u0447\u0435\u0448\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u042e\u0436\u043d\u043e-\u0427\u0435\u0448\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
     "name:sin_x_preferred":[
         "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db6\u0ddc\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0dcf \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
     "name:slk_x_preferred":[
         "Juho\u010desk\u00fd kraj"
+    ],
+    "name:slv_x_preferred":[
+        "Ju\u017eno\u010de\u0161ki okraj"
     ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Bohemia Meridional"
@@ -272,6 +290,9 @@
     ],
     "name:war_x_preferred":[
         "Salatan nga Bohemia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5357\u6ce2\u5e0c\u7c73\u4e9a\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5357\u6ce2\u5e0c\u7c73\u4e9a\u5dde"
@@ -376,7 +397,7 @@
         "wd:id":"Q188373"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"240cd4f27a9f1e65e47255eae11c2f08",
+    "wof:geomhash":"a6909e2b0b8095cfa2f4f05a947aac98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -391,7 +412,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1684351504,
+    "wof:lastmodified":1690869330,
     "wof:name":"Jiho\u010desk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

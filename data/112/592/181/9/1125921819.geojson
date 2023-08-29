@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
     "name:ceb_x_preferred":[
         "Okrouhli\u010dka"
     ],
     "name:ces_x_preferred":[
         "Okrouhli\u010dka"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u043a\u0440\u043e\u0443\u0433\u043b\u0438\u0447\u043a\u0430"
     ],
     "name:deu_x_preferred":[
         "Okrouhli\u010dka"
@@ -34,10 +40,16 @@
     "name:eng_x_preferred":[
         "Okrouhli\u010dka"
     ],
+    "name:epo_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
     "name:eus_x_preferred":[
         "Okrouhli\u010dka"
     ],
     "name:fra_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:gle_x_preferred":[
         "Okrouhli\u010dka"
     ],
     "name:hsb_x_preferred":[
@@ -47,6 +59,9 @@
         "Okrouhli\u010dka"
     ],
     "name:ita_x_preferred":[
+        "Okrouhli\u010dka"
+    ],
+    "name:lmo_x_preferred":[
         "Okrouhli\u010dka"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Okrouhli\u010dka"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u043a\u0440\u043e\u0443\u0433\u043b\u0438\u0447\u043a\u0430"
     ],
     "name:und_x_variant":[
         "\u0160ejdorf"
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1125921819,
-    "wof:lastmodified":1566710773,
+    "wof:lastmodified":1690869977,
     "wof:name":"Okrouhli\u010dka",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

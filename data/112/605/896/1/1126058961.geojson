@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kunice"
+    ],
     "name:ceb_x_preferred":[
         "Kunice"
     ],
     "name:ces_x_preferred":[
         "Kunice"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u043d\u0438\u0446\u0435"
     ],
     "name:eng_x_preferred":[
         "Kunice"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Kunice"
     ],
+    "name:gle_x_preferred":[
+        "Kunice"
+    ],
     "name:hun_x_preferred":[
         "Kunice"
     ],
     "name:ita_x_preferred":[
+        "Kunice"
+    ],
+    "name:lmo_x_preferred":[
         "Kunice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Kunice"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u043d\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Kunitz"
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1126058961,
-    "wof:lastmodified":1566710834,
+    "wof:lastmodified":1690870151,
     "wof:name":"Kunice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

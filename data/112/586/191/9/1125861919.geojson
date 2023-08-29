@@ -22,16 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vi\u0161\u0148ov\u00e1"
+    ],
     "name:ceb_x_preferred":[
         "Vi\u0161\u0148ova"
     ],
     "name:ces_x_preferred":[
         "Vi\u0161\u0148ov\u00e1"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0451\u0432\u0430"
+    ],
     "name:deu_x_preferred":[
         "Vi\u0161\u0148ov\u00e1 u Fr\u00fddlantu"
     ],
     "name:eng_x_preferred":[
+        "Vi\u0161\u0148ov\u00e1"
+    ],
+    "name:epo_x_preferred":[
         "Vi\u0161\u0148ov\u00e1"
     ],
     "name:eus_x_preferred":[
@@ -40,10 +49,19 @@
     "name:fra_x_preferred":[
         "Vi\u0161\u0148ov\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Vi\u0161\u0148ov\u00e1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e9\u05e0\u05d5\u05d1\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Vi\u0161\u0148ov\u00e1"
     ],
     "name:ita_x_preferred":[
+        "Vi\u0161\u0148ov\u00e1"
+    ],
+    "name:lmo_x_preferred":[
         "Vi\u0161\u0148ov\u00e1"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Vi\u0161\u0148ova"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0451\u0432\u0430"
     ],
     "name:und_x_variant":[
         "Weigsdorf"
@@ -131,7 +152,7 @@
         }
     ],
     "wof:id":1125861919,
-    "wof:lastmodified":1566710861,
+    "wof:lastmodified":1690870223,
     "wof:name":"Vi\u0161\u0148ov\u00e1",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

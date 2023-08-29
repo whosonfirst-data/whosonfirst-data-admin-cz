@@ -22,16 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Oselce"
+    ],
     "name:ceb_x_preferred":[
         "Oselce"
     ],
     "name:ces_x_preferred":[
         "Oselce"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0441\u0435\u043b\u0446\u0435"
+    ],
     "name:deu_x_preferred":[
         "Oselce"
     ],
     "name:eng_x_preferred":[
+        "Oselce"
+    ],
+    "name:epo_x_preferred":[
         "Oselce"
     ],
     "name:eus_x_preferred":[
@@ -43,10 +52,16 @@
     "name:fra_x_preferred":[
         "Oselce"
     ],
+    "name:gle_x_preferred":[
+        "Oselce"
+    ],
     "name:hun_x_preferred":[
         "Oselce"
     ],
     "name:ita_x_preferred":[
+        "Oselce"
+    ],
+    "name:lmo_x_preferred":[
         "Oselce"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Oselce"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0441\u0435\u043b\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Woseletz"
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125953471,
-    "wof:lastmodified":1566710795,
+    "wof:lastmodified":1690870053,
     "wof:name":"Oselce",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

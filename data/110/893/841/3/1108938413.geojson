@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.3075487342,50.0697647605,14.3075487342,50.0697647605",
+    "geom:bbox":"14.307549,50.069765,14.307549,50.069765",
     "geom:latitude":50.069765,
     "geom:longitude":14.307549,
     "iso:country":"CZ",
@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "Prag 17"
     ],
+    "name:deu_x_variant":[
+        "\u0158epy"
+    ],
     "name:eng_x_preferred":[
         "\u0158epy"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:nld_x_preferred":[
         "Praag 17-\u0158epy"
+    ],
+    "name:nld_x_variant":[
+        "\u0158epy"
     ],
     "name:pol_x_preferred":[
         "\u0158epy"
@@ -57,7 +63,7 @@
     },
     "wof:country":"CZ",
     "wof:created":1491360364,
-    "wof:geomhash":"9050ae331b8adbece123fb583023a662",
+    "wof:geomhash":"a2ebadc2bae4bc1cb830b3df19557da1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108938413,
-    "wof:lastmodified":1566710479,
+    "wof:lastmodified":1690869333,
     "wof:name":"Repy",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",
@@ -78,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.30754873423992,
-    50.06976476054985,
-    14.30754873423992,
-    50.06976476054985
+    14.307549,
+    50.069765,
+    14.307549,
+    50.069765
 ],
-  "geometry": {"coordinates":[14.30754873423992,50.06976476054985],"type":"Point"}
+  "geometry": {"coordinates":[14.307549,50.069765],"type":"Point"}
 }

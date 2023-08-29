@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Mal\u00e1 V\u00edska"
+    ],
     "name:ces_x_preferred":[
         "Mal\u00e1 V\u00edska"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0412\u0438\u0441\u043a\u0430"
     ],
     "name:eng_x_preferred":[
         "Mal\u00e1 V\u00edska"
@@ -34,10 +40,16 @@
     "name:fra_x_preferred":[
         "Mal\u00e1 V\u00edska"
     ],
+    "name:gle_x_preferred":[
+        "Mal\u00e1 V\u00edska"
+    ],
     "name:hun_x_preferred":[
         "Mal\u00e1 V\u00edska"
     ],
     "name:ita_x_preferred":[
+        "Mal\u00e1 V\u00edska"
+    ],
+    "name:lmo_x_preferred":[
         "Mal\u00e1 V\u00edska"
     ],
     "name:msa_x_preferred":[
@@ -66,6 +78,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u0412\u0438\u0441\u043a\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0412\u0438\u0441\u043a\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Mal\u00e1 V\u00edska"
     ],
     "name:vie_x_preferred":[
         "Mal\u00e1 V\u00edska"
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":1125861355,
-    "wof:lastmodified":1566710852,
+    "wof:lastmodified":1690870199,
     "wof:name":"Mal\u00e1 V\u00edska",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

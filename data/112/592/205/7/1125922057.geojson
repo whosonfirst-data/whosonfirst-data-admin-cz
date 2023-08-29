@@ -25,20 +25,38 @@
     "name:azb_x_preferred":[
         "\u0627\u0648\u067e\u0627\u062a\u0648\u0648\u06cc\u062a\u0633\u0647 \u0627\u06cc"
     ],
+    "name:cat_x_preferred":[
+        "Opatovice"
+    ],
     "name:ceb_x_preferred":[
         "Opatovice P\u0159edn\u00ed"
     ],
     "name:ces_x_preferred":[
         "Opatovice I"
     ],
+    "name:ces_x_variant":[
+        "Opatovice"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u043e\u0432\u0438\u0446\u0435"
+    ],
     "name:deu_x_preferred":[
         "Opatovice I"
+    ],
+    "name:deu_x_variant":[
+        "Opatovice"
     ],
     "name:eng_x_preferred":[
         "Opatovice I"
     ],
+    "name:eng_x_variant":[
+        "Opatovice"
+    ],
     "name:eus_x_preferred":[
         "Opatovice I"
+    ],
+    "name:eus_x_variant":[
+        "Opatovice"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u067e\u0627\u062a\u0648\u0648\u06cc\u062a\u0633\u0647 \u0627\u06cc"
@@ -46,41 +64,86 @@
     "name:fra_x_preferred":[
         "Opatovice I"
     ],
+    "name:fra_x_variant":[
+        "Opatovice"
+    ],
+    "name:gle_x_preferred":[
+        "Opatovice"
+    ],
     "name:hun_x_preferred":[
         "Opatovice I"
+    ],
+    "name:hun_x_variant":[
+        "Opatovice"
     ],
     "name:ita_x_preferred":[
         "Opatovice I"
     ],
+    "name:ita_x_variant":[
+        "Opatovice"
+    ],
+    "name:lmo_x_preferred":[
+        "Opatovice"
+    ],
     "name:msa_x_preferred":[
         "Opatovice I"
+    ],
+    "name:msa_x_variant":[
+        "Opatovice"
     ],
     "name:nan_x_preferred":[
         "Opatovice I"
     ],
+    "name:nan_x_variant":[
+        "Opatovice"
+    ],
     "name:nld_x_preferred":[
         "Opatovice I"
+    ],
+    "name:nld_x_variant":[
+        "Opatovice"
     ],
     "name:pol_x_preferred":[
         "Opatovice I"
     ],
+    "name:pol_x_variant":[
+        "Opatovice"
+    ],
     "name:por_x_preferred":[
         "Opatovice I"
+    ],
+    "name:por_x_variant":[
+        "Opatovice"
     ],
     "name:slk_x_preferred":[
         "Opatovice I"
     ],
+    "name:slk_x_variant":[
+        "Opatovice"
+    ],
     "name:spa_x_preferred":[
         "Opatovice I"
+    ],
+    "name:spa_x_variant":[
+        "Opatovice"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0430\u0442\u043e\u0432\u0438\u0446\u0435 I"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0430\u0442\u043e\u0432\u0438\u0446\u0435"
+    ],
     "name:swe_x_preferred":[
         "Opatovice P\u0159edn\u00ed"
     ],
+    "name:tat_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u043e\u0432\u0438\u0446\u0435"
+    ],
     "name:vie_x_preferred":[
         "Opatovice I"
+    ],
+    "name:vie_x_variant":[
+        "Opatovice"
     ],
     "qs_pg:aaroncc":"CZ",
     "qs_pg:gn_country":"CZ",
@@ -129,7 +192,7 @@
         }
     ],
     "wof:id":1125922057,
-    "wof:lastmodified":1566710770,
+    "wof:lastmodified":1690869967,
     "wof:name":"Opatovice I",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

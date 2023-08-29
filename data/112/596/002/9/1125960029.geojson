@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0648\u0644\u0647"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u0432\u043b\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Davle"
     ],
     "name:ceb_x_preferred":[
         "Davle"
@@ -46,6 +52,9 @@
     "name:fra_x_preferred":[
         "Davle"
     ],
+    "name:gle_x_preferred":[
+        "Davle"
+    ],
     "name:hun_x_preferred":[
         "Davle"
     ],
@@ -54,6 +63,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30f4\u30ec"
+    ],
+    "name:lmo_x_preferred":[
+        "Davle"
     ],
     "name:msa_x_preferred":[
         "Davle"
@@ -145,7 +157,7 @@
         }
     ],
     "wof:id":1125960029,
-    "wof:lastmodified":1566711005,
+    "wof:lastmodified":1690870512,
     "wof:name":"Davle",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

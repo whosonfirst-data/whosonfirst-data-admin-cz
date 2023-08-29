@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "P\u0159imda"
+    ],
     "name:ceb_x_preferred":[
         "P\u0159imda"
     ],
@@ -37,6 +40,9 @@
     "name:epo_x_preferred":[
         "P\u0159imda"
     ],
+    "name:est_x_preferred":[
+        "P\u0159imda"
+    ],
     "name:eus_x_preferred":[
         "P\u0159imda"
     ],
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "P\u0159imda"
     ],
+    "name:gle_x_preferred":[
+        "P\u0159imda"
+    ],
     "name:hun_x_preferred":[
         "P\u0159imda"
     ],
     "name:ita_x_preferred":[
+        "P\u0159imda"
+    ],
+    "name:lmo_x_preferred":[
         "P\u0159imda"
     ],
     "name:msa_x_preferred":[
@@ -87,6 +99,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041f\u0440\u0448\u043c\u0438\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0448\u0438\u043c\u0434\u0430"
     ],
     "name:und_x_variant":[
         "Pfraumberg"
@@ -146,7 +161,7 @@
         }
     ],
     "wof:id":1126007977,
-    "wof:lastmodified":1566711068,
+    "wof:lastmodified":1690870710,
     "wof:name":"P\u0159imda",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

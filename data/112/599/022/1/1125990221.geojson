@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hrdl\u00edv"
+    ],
     "name:ceb_x_preferred":[
         "Hrdl\u00edv"
     ],
     "name:ces_x_preferred":[
         "Hrdl\u00edv"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u0434\u043b\u0438\u0432"
     ],
     "name:eng_x_preferred":[
         "Hrdl\u00edv"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Hrdl\u00edv"
     ],
+    "name:gle_x_preferred":[
+        "Hrdl\u00edv"
+    ],
     "name:hun_x_preferred":[
         "Hrdl\u00edv"
     ],
     "name:ita_x_preferred":[
+        "Hrdl\u00edv"
+    ],
+    "name:lmo_x_preferred":[
         "Hrdl\u00edv"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Hrdl\u00edv"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u0434\u043b\u0438\u0432"
     ],
     "name:vie_x_preferred":[
         "Hrdl\u00edv"
@@ -123,7 +138,7 @@
         }
     ],
     "wof:id":1125990221,
-    "wof:lastmodified":1566710947,
+    "wof:lastmodified":1690870386,
     "wof:name":"Hrdl\u00edv",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

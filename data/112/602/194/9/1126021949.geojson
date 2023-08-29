@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0628\u062a\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "T\u0159ebotov"
+    ],
     "name:ceb_x_preferred":[
         "T\u0159ebotov"
     ],
     "name:ces_x_preferred":[
         "T\u0159ebotov"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0431\u043e\u0442\u043e\u0432"
     ],
     "name:deu_x_preferred":[
         "T\u0159ebotov"
@@ -43,10 +52,16 @@
     "name:fra_x_preferred":[
         "T\u0159ebotov"
     ],
+    "name:gle_x_preferred":[
+        "T\u0159ebotov"
+    ],
     "name:hun_x_preferred":[
         "T\u0159ebotov"
     ],
     "name:ita_x_preferred":[
+        "T\u0159ebotov"
+    ],
+    "name:lmo_x_preferred":[
         "T\u0159ebotov"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u0159ebotov"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0431\u043e\u0442\u043e\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0448\u0435\u0431\u043e\u0442\u043e\u0432"
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":1126021949,
-    "wof:lastmodified":1566710807,
+    "wof:lastmodified":1690870074,
     "wof:name":"T\u0159ebotov",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

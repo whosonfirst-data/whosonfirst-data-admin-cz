@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hal\u00e1mky"
+    ],
     "name:ceb_x_preferred":[
         "Hal\u00e1mky"
     ],
     "name:ces_x_preferred":[
         "Hal\u00e1mky"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u043c\u043a\u0438"
     ],
     "name:deu_x_preferred":[
         "Hal\u00e1mky"
@@ -34,10 +40,16 @@
     "name:eng_x_preferred":[
         "Hal\u00e1mky"
     ],
+    "name:epo_x_preferred":[
+        "Hal\u00e1mky"
+    ],
     "name:eus_x_preferred":[
         "Hal\u00e1mky"
     ],
     "name:fra_x_preferred":[
+        "Hal\u00e1mky"
+    ],
+    "name:gle_x_preferred":[
         "Hal\u00e1mky"
     ],
     "name:hun_x_preferred":[
@@ -48,6 +60,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30e9\u30fc\u30e0\u30ad"
+    ],
+    "name:lmo_x_preferred":[
+        "Hal\u00e1mky"
     ],
     "name:msa_x_preferred":[
         "Hal\u00e1mky"
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Hal\u00e1mky"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u043c\u043a\u0438"
     ],
     "name:vie_x_preferred":[
         "Hal\u00e1mky"
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125856137,
-    "wof:lastmodified":1566711105,
+    "wof:lastmodified":1690870813,
     "wof:name":"Hal\u00e1mky",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

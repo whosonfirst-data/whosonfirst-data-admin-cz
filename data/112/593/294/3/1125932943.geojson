@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u062a\u06cc\u0646\u06cc\u0648\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Chotin\u011bves"
+    ],
     "name:ceb_x_preferred":[
         "Chotin\u011bves"
     ],
     "name:ces_x_preferred":[
         "Chotin\u011bves"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0442\u0438\u043d\u0435\u0432\u0435\u0441"
     ],
     "name:deu_x_preferred":[
         "Chotin\u011bves"
@@ -46,10 +55,16 @@
     "name:fra_x_preferred":[
         "Chotin\u011bves"
     ],
+    "name:gle_x_preferred":[
+        "Chotin\u011bves"
+    ],
     "name:hun_x_preferred":[
         "Chotin\u011bves"
     ],
     "name:ita_x_preferred":[
+        "Chotin\u011bves"
+    ],
+    "name:lmo_x_preferred":[
         "Chotin\u011bves"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "Chotin\u011bves"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0442\u0438\u043d\u0435\u0432\u0435\u0441"
     ],
     "name:und_x_variant":[
         "Kuttendorf"
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":1125932943,
-    "wof:lastmodified":1566710724,
+    "wof:lastmodified":1690869842,
     "wof:name":"Chotin\u011bves",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

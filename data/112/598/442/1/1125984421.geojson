@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pec pod Sn\u011b\u017ekou"
+    ],
     "name:ceb_x_preferred":[
         "Pec pod Sn\u011b\u017ekou"
     ],
@@ -34,7 +37,16 @@
     "name:deu_x_variant":[
         "Pec pod Sn\u011b\u017ekou"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03c2 \u03c0\u03bf\u03bd\u03c4 \u03a3\u03bd\u03b9\u03ad\u03c3\u03ba\u03bf\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
+        "Pec pod Sn\u011b\u017ekou"
+    ],
+    "name:epo_x_preferred":[
+        "Pec pod Sn\u011b\u017ekou"
+    ],
+    "name:est_x_preferred":[
         "Pec pod Sn\u011b\u017ekou"
     ],
     "name:eus_x_preferred":[
@@ -49,6 +61,9 @@
     "name:fra_x_preferred":[
         "Pec pod Sn\u011b\u017ekou"
     ],
+    "name:gle_x_preferred":[
+        "Pec pod Sn\u011b\u017ekou"
+    ],
     "name:hun_x_preferred":[
         "Pec pod Sn\u011b\u017ekou"
     ],
@@ -57,6 +72,9 @@
     ],
     "name:lit_x_preferred":[
         "Pec pod Sne\u017ekovas"
+    ],
+    "name:lmo_x_preferred":[
+        "Pec pod Sn\u011b\u017ekou"
     ],
     "name:msa_x_preferred":[
         "Pec pod Sn\u011b\u017ekou"
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":1125984421,
-    "wof:lastmodified":1566711046,
+    "wof:lastmodified":1690870647,
     "wof:name":"Pec pod Sn\u011b\u017ekou",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

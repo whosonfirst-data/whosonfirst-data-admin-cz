@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tun\u011bchody"
+    ],
     "name:ceb_x_preferred":[
         "Tun\u011bchody"
     ],
     "name:ces_x_preferred":[
         "Tun\u011bchody"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0443\u043d\u0435\u0445\u043e\u0434\u0438"
     ],
     "name:deu_x_preferred":[
         "Tun\u011bchody"
@@ -37,16 +43,28 @@
     "name:epo_x_preferred":[
         "Tun\u011bchody"
     ],
+    "name:est_x_preferred":[
+        "Obec Tun\u011bchody"
+    ],
     "name:eus_x_preferred":[
         "Tun\u011bchody"
     ],
     "name:fra_x_preferred":[
         "Tun\u011bchody"
     ],
+    "name:gle_x_preferred":[
+        "Tun\u011bchody"
+    ],
+    "name:hrv_x_preferred":[
+        "Obec Tun\u011bchody"
+    ],
     "name:hun_x_preferred":[
         "Tun\u011bchody"
     ],
     "name:ita_x_preferred":[
+        "Tun\u011bchody"
+    ],
+    "name:lmo_x_preferred":[
         "Tun\u011bchody"
     ],
     "name:msa_x_preferred":[
@@ -67,6 +85,9 @@
     "name:slk_x_preferred":[
         "Tun\u011bchody"
     ],
+    "name:slv_x_preferred":[
+        "Obec Tun\u011bchody"
+    ],
     "name:spa_x_preferred":[
         "Tun\u011bchody"
     ],
@@ -75,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "Tun\u011bchody"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0443\u043d\u0435\u0445\u043e\u0434\u0438"
     ],
     "name:vie_x_preferred":[
         "Tun\u011bchody"
@@ -126,7 +150,7 @@
         }
     ],
     "wof:id":1125927039,
-    "wof:lastmodified":1566710776,
+    "wof:lastmodified":1690869990,
     "wof:name":"Tun\u011bchody",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

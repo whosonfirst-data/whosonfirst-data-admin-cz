@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Korno"
+    ],
     "name:ces_x_preferred":[
         "Korno"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u043e"
     ],
     "name:deu_x_preferred":[
         "Korno"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Korno"
     ],
+    "name:gle_x_preferred":[
+        "Korno"
+    ],
     "name:hun_x_preferred":[
         "Korno"
     ],
     "name:ita_x_preferred":[
+        "Korno"
+    ],
+    "name:lmo_x_preferred":[
         "Korno"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +84,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0440\u043d\u043e"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Korno"
     ],
     "name:vie_x_preferred":[
         "Korno"
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":1125856457,
-    "wof:lastmodified":1566711095,
+    "wof:lastmodified":1690870784,
     "wof:name":"Korno",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

@@ -16,17 +16,30 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Jind\u0159ich\u016fv Hradec"
     ],
+    "name:deu_x_preferred":[
+        "Flughafen Jind\u0159ich\u016fv Hradec"
+    ],
     "name:eng_x_preferred":[
         "Jindrichuv Hradec Airport"
     ],
     "name:eng_x_variant":[
-        "LKJH"
+        "LKJH",
+        "Jind\u0159ich\u016fv Hradec Airport"
     ],
     "name:fra_x_preferred":[
         "Jind\u0159ich\u016fv Hradec"
     ],
+    "name:fra_x_variant":[
+        "A\u00e9roport Jind\u0159ich\u016fv Hradec"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Jindrichuv Hradec"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Jind\u0159ich\u016fv Hradec"
+    ],
+    "name:slk_x_preferred":[
+        "Letisko Jind\u0159ich\u016fv Hradec"
     ],
     "oa:elevation_ft":"1667",
     "oa:type":"small_airport",
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":102536985,
-    "wof:lastmodified":1631743413,
+    "wof:lastmodified":1690869279,
     "wof:name":"Letiste Jindrichuv Hradec",
     "wof:parent_id":85682415,
     "wof:placetype":"campus",

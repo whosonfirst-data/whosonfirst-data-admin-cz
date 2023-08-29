@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "T\u0159esovice"
+    ],
     "name:ceb_x_preferred":[
         "T\u0159esovice"
     ],
     "name:ces_x_preferred":[
         "T\u0159esovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0441\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "T\u0159esovice"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "T\u0159esovice"
     ],
+    "name:gle_x_preferred":[
+        "T\u0159esovice"
+    ],
     "name:hun_x_preferred":[
         "T\u0159esovice"
     ],
     "name:ita_x_preferred":[
+        "T\u0159esovice"
+    ],
+    "name:lmo_x_preferred":[
         "T\u0159esovice"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u0159esovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0441\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "T\u0159esovice"
@@ -123,7 +138,7 @@
         }
     ],
     "wof:id":1126053659,
-    "wof:lastmodified":1566710818,
+    "wof:lastmodified":1690870105,
     "wof:name":"T\u0159esovice",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

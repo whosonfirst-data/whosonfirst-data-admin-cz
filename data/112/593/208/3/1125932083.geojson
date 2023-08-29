@@ -22,16 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "B\u00edl\u00fd Potok"
+    ],
     "name:ceb_x_preferred":[
         "B\u00edl\u00fd Potok"
     ],
     "name:ces_x_preferred":[
         "B\u00edl\u00fd Potok"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0438\u043b\u0438 \u041f\u043e\u0442\u043e\u043a"
+    ],
     "name:deu_x_preferred":[
         "B\u00edl\u00fd Potok pod Smrkem"
     ],
     "name:eng_x_preferred":[
+        "B\u00edl\u00fd Potok"
+    ],
+    "name:epo_x_preferred":[
         "B\u00edl\u00fd Potok"
     ],
     "name:eus_x_preferred":[
@@ -40,10 +49,16 @@
     "name:fra_x_preferred":[
         "B\u00edl\u00fd Potok"
     ],
+    "name:gle_x_preferred":[
+        "B\u00edl\u00fd Potok"
+    ],
     "name:hun_x_preferred":[
         "B\u00edl\u00fd Potok"
     ],
     "name:ita_x_preferred":[
+        "B\u00edl\u00fd Potok"
+    ],
+    "name:lmo_x_preferred":[
         "B\u00edl\u00fd Potok"
     ],
     "name:msa_x_preferred":[
@@ -58,8 +73,14 @@
     "name:por_x_preferred":[
         "B\u00edl\u00fd Potok pod Smrkem"
     ],
+    "name:por_x_variant":[
+        "B\u00edl\u00fd Potok"
+    ],
     "name:rup_x_preferred":[
         "B\u00edl\u00fd Potok"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043b\u0438-\u041f\u043e\u0442\u043e\u043a"
     ],
     "name:slk_x_preferred":[
         "B\u00edl\u00fd Potok"
@@ -73,8 +94,14 @@
     "name:swe_x_preferred":[
         "B\u00edl\u00fd Potok"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u043b\u0438 \u041f\u043e\u0442\u043e\u043a"
+    ],
     "name:und_x_variant":[
         "Weissbach"
+    ],
+    "name:uzb_x_preferred":[
+        "B\u00edl\u00fd Potok"
     ],
     "name:vie_x_preferred":[
         "B\u00edl\u00fd Potok"
@@ -126,7 +153,7 @@
         }
     ],
     "wof:id":1125932083,
-    "wof:lastmodified":1566710744,
+    "wof:lastmodified":1690869906,
     "wof:name":"B\u00edl\u00fd Potok",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",

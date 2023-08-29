@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.6500231513,49.2304174999,17.6500231513,49.2304174999",
+    "geom:bbox":"17.650023,49.230417,17.650023,49.230417",
     "geom:latitude":49.230417,
     "geom:longitude":17.650023,
     "iso:country":"CZ",
@@ -22,6 +22,9 @@
         "Zl\u00edn"
     ],
     "name:ara_x_preferred":[
+        "\u0632\u0644\u064a\u0646"
+    ],
+    "name:arz_x_preferred":[
         "\u0632\u0644\u064a\u0646"
     ],
     "name:aze_x_preferred":[
@@ -85,6 +88,12 @@
         "Zl\u00edn"
     ],
     "name:fra_x_preferred":[
+        "Zl\u00edn"
+    ],
+    "name:frr_x_preferred":[
+        "Zl\u00edn"
+    ],
+    "name:gle_x_preferred":[
         "Zl\u00edn"
     ],
     "name:guj_x_preferred":[
@@ -159,6 +168,12 @@
     "name:nob_x_preferred":[
         "Zl\u00edn"
     ],
+    "name:oci_x_preferred":[
+        "Zl\u00edn"
+    ],
+    "name:oss_x_preferred":[
+        "\u0417\u043b\u0438\u043d"
+    ],
     "name:pnb_x_preferred":[
         "\u0632\u0644\u06cc\u0646"
     ],
@@ -195,7 +210,13 @@
     "name:srp_x_preferred":[
         "\u0417\u043b\u0438\u043d"
     ],
+    "name:swa_x_preferred":[
+        "Zl\u00edn"
+    ],
     "name:swe_x_preferred":[
+        "Zl\u00edn"
+    ],
+    "name:szl_x_preferred":[
         "Zl\u00edn"
     ],
     "name:tam_x_preferred":[
@@ -224,6 +245,9 @@
     ],
     "name:war_x_preferred":[
         "Zl\u00edn"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d6\u10da\u10d8\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5179\u6797"
@@ -335,7 +359,7 @@
     },
     "wof:country":"CZ",
     "wof:created":1499130754,
-    "wof:geomhash":"06e2a3bc4cc1dcca0293ffe7859f036c",
+    "wof:geomhash":"797bc3bcc42f46fbd5b0ec0d134ea4fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -345,7 +369,7 @@
         }
     ],
     "wof:id":1141907657,
-    "wof:lastmodified":1566711351,
+    "wof:lastmodified":1690870958,
     "wof:name":"Zlin",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",
@@ -355,10 +379,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.65002315132529,
-    49.23041749988795,
-    17.65002315132529,
-    49.23041749988795
+    17.650023,
+    49.230417,
+    17.650023,
+    49.230417
 ],
-  "geometry": {"coordinates":[17.65002315132529,49.23041749988795],"type":"Point"}
+  "geometry": {"coordinates":[17.650023,49.230417],"type":"Point"}
 }

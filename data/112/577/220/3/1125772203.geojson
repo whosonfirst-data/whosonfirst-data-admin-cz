@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Dobro\u010dovice"
+    ],
     "name:ceb_x_preferred":[
         "Dobro\u010dovice"
     ],
     "name:ces_x_preferred":[
         "Dobro\u010dovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0447\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:eng_x_preferred":[
         "Dobro\u010dovice"
@@ -37,10 +43,16 @@
     "name:fra_x_preferred":[
         "Dobro\u010dovice"
     ],
+    "name:gle_x_preferred":[
+        "Dobro\u010dovice"
+    ],
     "name:hun_x_preferred":[
         "Dobro\u010dovice"
     ],
     "name:ita_x_preferred":[
+        "Dobro\u010dovice"
+    ],
+    "name:lmo_x_preferred":[
         "Dobro\u010dovice"
     ],
     "name:msa_x_preferred":[
@@ -72,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Dobro\u010dovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0447\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Dobro\u010dovice"
@@ -123,7 +138,7 @@
         }
     ],
     "wof:id":1125772203,
-    "wof:lastmodified":1566711136,
+    "wof:lastmodified":1690870898,
     "wof:name":"Dobro\u010dovice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

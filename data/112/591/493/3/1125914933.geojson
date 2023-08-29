@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chvojenec"
+    ],
     "name:ceb_x_preferred":[
         "Chvojenec"
     ],
     "name:ces_x_preferred":[
         "Chvojenec"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0432\u043e\u0435\u043d\u0435\u0446"
     ],
     "name:deu_x_preferred":[
         "Chvojenec"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Chvojenec"
     ],
+    "name:gle_x_preferred":[
+        "Chvojenec"
+    ],
     "name:hun_x_preferred":[
         "Chvojenec"
     ],
     "name:ita_x_preferred":[
+        "Chvojenec"
+    ],
+    "name:lmo_x_preferred":[
         "Chvojenec"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Chvojenec"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0432\u043e\u0435\u043d\u0435\u0446"
     ],
     "name:und_x_variant":[
         "Chwojenec"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1125914933,
-    "wof:lastmodified":1566711033,
+    "wof:lastmodified":1690870611,
     "wof:name":"Chvojenec",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

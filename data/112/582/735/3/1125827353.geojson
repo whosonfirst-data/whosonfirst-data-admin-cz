@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Poho\u0159elice"
+    ],
     "name:ceb_x_preferred":[
         "Poho\u0159elice"
     ],
@@ -46,6 +49,9 @@
     "name:fra_x_preferred":[
         "Poho\u0159elice"
     ],
+    "name:gle_x_preferred":[
+        "Poho\u0159elice"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05d4\u05e8\u05dc\u05d9\u05e5"
     ],
@@ -55,8 +61,14 @@
     "name:ita_x_preferred":[
         "Poho\u0159elice"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30db\u30b8\u30a7\u30ea\u30c4\u30a7"
+    ],
     "name:lav_x_preferred":[
         "Pohor\u017eelice"
+    ],
+    "name:lmo_x_preferred":[
+        "Poho\u0159elice"
     ],
     "name:msa_x_preferred":[
         "Poho\u0159elice"
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":1125827353,
-    "wof:lastmodified":1566711085,
+    "wof:lastmodified":1690870758,
     "wof:name":"Pohorelice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

@@ -78,6 +78,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Hradec Kr\u00e1lov\u00e9"
     ],
+    "name:cat_x_variant":[
+        "Hradec Kr\u00e1lov\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Kr\u00e1lov\u00e9hradeck\u00fd kraj"
     ],
@@ -86,6 +89,9 @@
     ],
     "name:ces_x_variant":[
         "Kr\u00e1lov\u00e9hradeck\u00fd kraj"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0430\u043b\u043e\u0432\u0435\u0433\u0440\u0430\u0434\u0435\u0446\u0430\u043d \u043c\u043e\u0445\u043a"
     ],
     "name:dan_x_preferred":[
         "Hradec Kr\u00e1lov\u00e9"
@@ -147,6 +153,9 @@
     "name:hun_x_preferred":[
         "Hradec Kr\u00e1lov\u00e9-i ker\u00fclet"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u0561\u056c\u0578\u057e\u0565\u0563\u0580\u0561\u0564\u0565\u0581\u056f\u056b \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
+    ],
     "name:ind_x_preferred":[
         "Daerah Hradec Kralove"
     ],
@@ -195,6 +204,9 @@
     "name:oci_x_preferred":[
         "Hradec Kr\u00e1lov\u00e9"
     ],
+    "name:oss_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0435\u0446-\u041a\u0440\u0430\u043b\u043e\u0432\u0435\u0439\u044b \u043a\u0440\u0430\u0439"
+    ],
     "name:pam_x_preferred":[
         "Hradec Kr\u00e1lov\u00e9 Labuad"
     ],
@@ -224,6 +236,9 @@
     ],
     "name:slk_x_preferred":[
         "Kr\u00e1lovohradeck\u00fd kraj"
+    ],
+    "name:slv_x_preferred":[
+        "Kralovehra\u0161ki okraj"
     ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Hradec Kr\u00e1lov\u00e9"
@@ -260,6 +275,9 @@
     ],
     "name:war_x_preferred":[
         "Hradec Kr\u00e1lov\u00e9"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d6b\u62c9\u5fb7\u8328-\u514b\u62c9\u6d1b\u97e6\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u8d6b\u62c9\u5fb7\u8328-\u514b\u62c9\u6d1b\u97cb\u5dde"
@@ -366,7 +384,7 @@
         "wd:id":"Q193295"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"15bd94a17158cbfdb50d862102b487ec",
+    "wof:geomhash":"379c6f84139ca413e4afaf2b7542a2cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -381,7 +399,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1690869328,
     "wof:name":"Kr\u00e1lov\u00e9hradeck\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

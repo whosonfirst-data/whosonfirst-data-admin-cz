@@ -22,14 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0646\u0648\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0440\u043d\u043e\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "Trnov"
     ],
     "name:ceb_x_preferred":[
         "Trnov"
     ],
     "name:ces_x_preferred":[
         "Trnov"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432"
     ],
     "name:deu_x_preferred":[
         "Trnov"
@@ -46,10 +55,16 @@
     "name:fra_x_preferred":[
         "Trnov"
     ],
+    "name:gle_x_preferred":[
+        "Trnov"
+    ],
     "name:hun_x_preferred":[
         "Trnov"
     ],
     "name:ita_x_preferred":[
+        "Trnov"
+    ],
+    "name:lmo_x_preferred":[
         "Trnov"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Trnov"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432"
     ],
     "name:vie_x_preferred":[
         "Trnov"
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125857387,
-    "wof:lastmodified":1566711094,
+    "wof:lastmodified":1690870779,
     "wof:name":"Trnov",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

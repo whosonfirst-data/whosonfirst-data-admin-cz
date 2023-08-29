@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hostou\u0148"
+    ],
     "name:ceb_x_preferred":[
         "Hostou\u0148"
     ],
@@ -34,6 +37,9 @@
     "name:eng_x_preferred":[
         "Hostou\u0148"
     ],
+    "name:epo_x_preferred":[
+        "Hostou\u0148"
+    ],
     "name:eus_x_preferred":[
         "Hostou\u0148"
     ],
@@ -43,10 +49,19 @@
     "name:fra_x_preferred":[
         "Hostou\u0148"
     ],
+    "name:gle_x_preferred":[
+        "Hostou\u0148"
+    ],
     "name:hun_x_preferred":[
         "Hostou\u0148"
     ],
     "name:ita_x_preferred":[
+        "Hostou\u0148"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30b9\u30c8\u30a6\u30f3"
+    ],
+    "name:lmo_x_preferred":[
         "Hostou\u0148"
     ],
     "name:msa_x_preferred":[
@@ -88,8 +103,14 @@
     "name:und_x_variant":[
         "Hostau"
     ],
+    "name:uzb_x_preferred":[
+        "Hostou\u0148"
+    ],
     "name:vie_x_preferred":[
         "Hostou\u0148"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u65af\u9676"
     ],
     "qs_pg:aaroncc":"CZ",
     "qs_pg:gn_country":"CZ",
@@ -138,7 +159,7 @@
         }
     ],
     "wof:id":1126052917,
-    "wof:lastmodified":1566710834,
+    "wof:lastmodified":1690870153,
     "wof:name":"Hostou\u0148",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

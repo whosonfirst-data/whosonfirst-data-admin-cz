@@ -22,16 +22,28 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u062a\u06cc\u06a9\u0648\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Chot\u00edkov"
+    ],
     "name:ceb_x_preferred":[
         "Chot\u00edkov"
     ],
     "name:ces_x_preferred":[
         "Chot\u00edkov"
     ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0442\u0438\u043a\u043e\u0432"
+    ],
     "name:deu_x_preferred":[
         "Chot\u00edkov"
     ],
     "name:eng_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:epo_x_preferred":[
         "Chot\u00edkov"
     ],
     "name:eus_x_preferred":[
@@ -43,10 +55,19 @@
     "name:fra_x_preferred":[
         "Chot\u00edkov"
     ],
+    "name:gle_x_preferred":[
+        "Chot\u00edkov"
+    ],
     "name:hun_x_preferred":[
         "Chot\u00edkov"
     ],
     "name:ita_x_preferred":[
+        "Chot\u00edkov"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30c6\u30a3\u30fc\u30b3\u30d5"
+    ],
+    "name:lmo_x_preferred":[
         "Chot\u00edkov"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "Chot\u00edkov"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0442\u0438\u043a\u043e\u0432"
     ],
     "name:und_x_variant":[
         "Kottiken"
@@ -131,7 +155,7 @@
         }
     ],
     "wof:id":1125784379,
-    "wof:lastmodified":1566711115,
+    "wof:lastmodified":1690870843,
     "wof:name":"Chot\u00edkov",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

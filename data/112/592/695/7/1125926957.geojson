@@ -22,16 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Trst\u011bnice"
+    ],
     "name:ceb_x_preferred":[
         "Trst\u011bnice"
     ],
     "name:ces_x_preferred":[
         "Trst\u011bnice"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0435\u043d\u0438\u0446\u0435"
+    ],
     "name:deu_x_preferred":[
         "Trst\u011bnice u Moravsk\u00e9ho Krumlova"
     ],
     "name:eng_x_preferred":[
+        "Trst\u011bnice"
+    ],
+    "name:epo_x_preferred":[
         "Trst\u011bnice"
     ],
     "name:eus_x_preferred":[
@@ -41,6 +50,9 @@
         "\u062a\u0631\u0633\u062a\u06cc\u0646\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
+        "Trst\u011bnice"
+    ],
+    "name:gle_x_preferred":[
         "Trst\u011bnice"
     ],
     "name:hun_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Trst\u011bnice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0435\u043d\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "K\u0159t\u011bnice"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1125926957,
-    "wof:lastmodified":1566710770,
+    "wof:lastmodified":1690869968,
     "wof:name":"Trst\u011bnice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

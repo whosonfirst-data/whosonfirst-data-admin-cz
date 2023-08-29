@@ -25,11 +25,17 @@
     "name:azb_x_preferred":[
         "\u0631\u06cc\u0698\u0648\u0648\u06cc\u0634\u062a\u06cc"
     ],
+    "name:cat_x_preferred":[
+        "Ry\u017eovi\u0161t\u011b"
+    ],
     "name:ceb_x_preferred":[
         "Ry\u017eovi\u0161t\u011b"
     ],
     "name:ces_x_preferred":[
         "Ry\u017eovi\u0161t\u011b"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0436\u0438\u0436\u043e\u0432\u0438\u0448\u0442\u0435"
     ],
     "name:deu_x_preferred":[
         "Ry\u017eovi\u0161t\u011b"
@@ -49,10 +55,16 @@
     "name:fra_x_preferred":[
         "Ry\u017eovi\u0161t\u011b"
     ],
+    "name:gle_x_preferred":[
+        "Ry\u017eovi\u0161t\u011b"
+    ],
     "name:hun_x_preferred":[
         "Ry\u017eovi\u0161t\u011b"
     ],
     "name:ita_x_preferred":[
+        "R\u00fd\u017eovi\u0161t\u011b"
+    ],
+    "name:lmo_x_preferred":[
         "R\u00fd\u017eovi\u0161t\u011b"
     ],
     "name:msa_x_preferred":[
@@ -70,8 +82,14 @@
     "name:por_x_preferred":[
         "R\u00fd\u017eovi\u0161t\u011b"
     ],
+    "name:por_x_variant":[
+        "Ry\u017eovi\u0161t\u011b"
+    ],
     "name:rup_x_preferred":[
         "Ry\u017eovi\u0161t\u011b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0436\u043e\u0432\u0438\u0448\u0442\u0435"
     ],
     "name:slk_x_preferred":[
         "Ry\u017eovi\u0161t\u011b"
@@ -85,8 +103,14 @@
     "name:swe_x_preferred":[
         "Ry\u017eovi\u0161t\u011b"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u0436\u0438\u0436\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Brunzeif"
+    ],
+    "name:uzb_x_preferred":[
+        "Ry\u017eovi\u0161t\u011b"
     ],
     "name:vie_x_preferred":[
         "Ry\u017eovi\u0161t\u011b"
@@ -138,7 +162,7 @@
         }
     ],
     "wof:id":1125857195,
-    "wof:lastmodified":1566711110,
+    "wof:lastmodified":1690870829,
     "wof:name":"Ry\u017eovi\u0161t\u011b",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

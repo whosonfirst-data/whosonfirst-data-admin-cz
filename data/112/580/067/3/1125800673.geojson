@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tisovec"
+    ],
     "name:ceb_x_preferred":[
         "Tisovec"
     ],
     "name:ces_x_preferred":[
         "Tisovec"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0438\u0441\u043e\u0432\u0435\u0446"
     ],
     "name:deu_x_preferred":[
         "Tisovec"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Tisovec"
     ],
+    "name:gle_x_preferred":[
+        "Tisovec"
+    ],
     "name:hun_x_preferred":[
         "Tisovec"
     ],
     "name:ita_x_preferred":[
+        "Tisovec"
+    ],
+    "name:lmo_x_preferred":[
         "Tisovec"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Tisovec"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0438\u0441\u043e\u0432\u0435\u0446"
     ],
     "name:vie_x_preferred":[
         "Tisovec"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125800673,
-    "wof:lastmodified":1566710913,
+    "wof:lastmodified":1690870337,
     "wof:name":"Tisovec",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

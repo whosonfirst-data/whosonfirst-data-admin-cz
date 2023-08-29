@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.6286852926,50.0108447534,14.6286852926,50.0108447534",
+    "geom:bbox":"14.628685,50.010845,14.628685,50.010845",
     "geom:latitude":50.010845,
     "geom:longitude":14.628685,
     "iso:country":"CZ",
@@ -26,8 +26,14 @@
     "name:ces_x_preferred":[
         "Kolovraty"
     ],
+    "name:ces_x_variant":[
+        "Praha-Kolovraty"
+    ],
     "name:eng_x_preferred":[
         "Kolovraty"
+    ],
+    "name:eng_x_variant":[
+        "Praha-Kolovraty"
     ],
     "name:fra_x_preferred":[
         "Kolovraty"
@@ -40,6 +46,9 @@
     ],
     "name:slk_x_preferred":[
         "Kolovraty"
+    ],
+    "name:slk_x_variant":[
+        "Praha-Kolovraty"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
     },
     "wof:country":"CZ",
     "wof:created":1491360340,
-    "wof:geomhash":"6e73de4098a14f88140801fa2d59fa53",
+    "wof:geomhash":"f1e68cf37e41ceaf9714d7335a0f3432",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1108938381,
-    "wof:lastmodified":1566710479,
+    "wof:lastmodified":1690869335,
     "wof:name":"Kolovraty",
     "wof:parent_id":101825239,
     "wof:placetype":"neighbourhood",
@@ -75,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.62868529257883,
-    50.0108447533897,
-    14.62868529257883,
-    50.0108447533897
+    14.628685,
+    50.010845,
+    14.628685,
+    50.010845
 ],
-  "geometry": {"coordinates":[14.62868529257883,50.0108447533897],"type":"Point"}
+  "geometry": {"coordinates":[14.628685,50.010845],"type":"Point"}
 }

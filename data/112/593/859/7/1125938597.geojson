@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Mistrovice"
+    ],
     "name:ceb_x_preferred":[
         "Mistrovice"
     ],
     "name:ces_x_preferred":[
         "Mistrovice"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0441\u0442\u0440\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Mistrovice"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Mistrovice"
     ],
+    "name:gle_x_preferred":[
+        "Mistrovice"
+    ],
     "name:hun_x_preferred":[
         "Mistrovice"
     ],
     "name:ita_x_preferred":[
+        "Mistrovice"
+    ],
+    "name:lmo_x_preferred":[
         "Mistrovice"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Mistrovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0441\u0442\u0440\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Mistrovice"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125938597,
-    "wof:lastmodified":1566710723,
+    "wof:lastmodified":1690869835,
     "wof:name":"Mistrovice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

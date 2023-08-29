@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Boharyn\u011b"
+    ],
     "name:ceb_x_preferred":[
         "Boharyn\u011b"
     ],
     "name:ces_x_preferred":[
         "Boharyn\u011b"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u0440\u0438\u043d\u0435"
     ],
     "name:deu_x_preferred":[
         "Boharyn\u011b"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Boharyn\u011b"
     ],
+    "name:gle_x_preferred":[
+        "Boharyn\u011b"
+    ],
     "name:hun_x_preferred":[
         "Boharyn\u011b"
     ],
     "name:ita_x_preferred":[
+        "Boharyn\u011b"
+    ],
+    "name:lmo_x_preferred":[
         "Boharyn\u011b"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Boharyn\u011b"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u0440\u0438\u043d\u0435"
     ],
     "name:vie_x_preferred":[
         "Boharyn\u011b"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125896843,
-    "wof:lastmodified":1566710904,
+    "wof:lastmodified":1690870313,
     "wof:name":"Boharyn\u011b",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

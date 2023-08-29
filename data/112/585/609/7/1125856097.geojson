@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Gruna"
+    ],
     "name:ceb_x_preferred":[
         "Gruna"
     ],
     "name:ces_x_preferred":[
         "Gruna"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u0443\u043d\u0430"
     ],
     "name:deu_x_preferred":[
         "Gruna"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Gruna"
     ],
+    "name:gle_x_preferred":[
+        "Gruna"
+    ],
     "name:hun_x_preferred":[
         "Gruna"
     ],
     "name:ita_x_preferred":[
+        "Gruna"
+    ],
+    "name:lmo_x_preferred":[
         "Gruna"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Gruna"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u0443\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Gr\u00fcnau"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125856097,
-    "wof:lastmodified":1566711109,
+    "wof:lastmodified":1690870827,
     "wof:name":"Gruna",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

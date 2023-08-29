@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vysok\u00e9 Vesel\u00ed"
+    ],
     "name:ceb_x_preferred":[
         "Vysok\u00e9 Vesel\u00ed"
     ],
@@ -31,7 +34,13 @@
     "name:deu_x_preferred":[
         "Vysok\u00e9 Vesel\u00ed"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c5\u03b6\u03cc\u03ba\u03b5 \u0392\u03b5\u03c3\u03ad\u03bb\u03b9"
+    ],
     "name:eng_x_preferred":[
+        "Vysok\u00e9 Vesel\u00ed"
+    ],
+    "name:est_x_preferred":[
         "Vysok\u00e9 Vesel\u00ed"
     ],
     "name:eus_x_preferred":[
@@ -43,10 +52,16 @@
     "name:fra_x_preferred":[
         "Vysok\u00e9 Vesel\u00ed"
     ],
+    "name:gle_x_preferred":[
+        "Vysok\u00e9 Vesel\u00ed"
+    ],
     "name:hun_x_preferred":[
         "Vysok\u00e9 Vesel\u00ed"
     ],
     "name:ita_x_preferred":[
+        "Vysok\u00e9 Vesel\u00ed"
+    ],
+    "name:lmo_x_preferred":[
         "Vysok\u00e9 Vesel\u00ed"
     ],
     "name:msa_x_preferred":[
@@ -66,6 +81,9 @@
     ],
     "name:rup_x_preferred":[
         "Vysok\u00e9 Vesel\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u0435 \u0412\u0435\u0441\u0435\u043b\u0438"
     ],
     "name:slk_x_preferred":[
         "Vysok\u00e9 Vesel\u00ed"
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":1125885283,
-    "wof:lastmodified":1566710879,
+    "wof:lastmodified":1690870273,
     "wof:name":"Vysok\u00e9 Vesel\u00ed",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

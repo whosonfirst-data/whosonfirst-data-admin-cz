@@ -43,6 +43,9 @@
     "name:deu_x_preferred":[
         "Hola\u0161ovice"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03bb\u03b1\u03c3\u03bf\u03b2\u03b9\u03c4\u03c3\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Hola\u0161ovice"
     ],
@@ -82,8 +85,14 @@
     "name:kat_x_preferred":[
         "\u10f0\u10dd\u10da\u10d0\u10e8\u10dd\u10d5\u10d8\u10ea\u10d4"
     ],
+    "name:lav_x_preferred":[
+        "Hola\u0161ovice"
+    ],
     "name:lit_x_preferred":[
         "Hola\u0161ovic\u0117"
+    ],
+    "name:mlt_x_preferred":[
+        "Hola\u0161ovice"
     ],
     "name:nld_x_preferred":[
         "Hola\u0161ovice"
@@ -112,11 +121,17 @@
     "name:spa_x_preferred":[
         "Hola\u0161ovice"
     ],
+    "name:srp_x_preferred":[
+        "Hola\u0161ovice"
+    ],
     "name:swe_x_preferred":[
         "Hola\u0161ovice"
     ],
     "name:tur_x_preferred":[
         "Hola\u0161ovice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0430\u0448\u043e\u0432\u0456\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Hola\u0161ovice"
@@ -174,7 +189,7 @@
         }
     ],
     "wof:id":1125772241,
-    "wof:lastmodified":1566711144,
+    "wof:lastmodified":1690870918,
     "wof:name":"Hola\u0161ovice",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

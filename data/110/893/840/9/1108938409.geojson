@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.4379612325,50.0599958242,14.4379612325,50.0599958242",
+    "geom:bbox":"14.437961,50.059996,14.437961,50.059996",
     "geom:latitude":50.059996,
     "geom:longitude":14.437961,
     "iso:country":"CZ",
@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Nusle"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30b9\u30ec"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10e3\u10e1\u10da\u10d4"
     ],
@@ -47,8 +50,14 @@
     "name:pol_x_preferred":[
         "Nusle"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0441\u043b\u0435"
+    ],
     "name:slk_x_preferred":[
         "Nusle"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u65af\u840a\u5340"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -66,7 +75,7 @@
     },
     "wof:country":"CZ",
     "wof:created":1491360361,
-    "wof:geomhash":"e2ef066912c46acd42610d4bb8719d04",
+    "wof:geomhash":"1dbd763c27e0e54d442eae8b14064e77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":1108938409,
-    "wof:lastmodified":1566710479,
+    "wof:lastmodified":1690869333,
     "wof:name":"Nusle",
     "wof:parent_id":101748113,
     "wof:placetype":"neighbourhood",
@@ -87,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.43796123246943,
-    50.05999582416163,
-    14.43796123246943,
-    50.05999582416163
+    14.437961,
+    50.059996,
+    14.437961,
+    50.059996
 ],
-  "geometry": {"coordinates":[14.43796123246943,50.05999582416163],"type":"Point"}
+  "geometry": {"coordinates":[14.437961,50.059996],"type":"Point"}
 }

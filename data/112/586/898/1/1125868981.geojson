@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "C\u00edtov"
+    ],
     "name:ceb_x_preferred":[
         "C\u00edtov"
     ],
     "name:ces_x_preferred":[
         "C\u00edtov"
+    ],
+    "name:che_x_preferred":[
+        "\u0426\u0438\u0442\u043e\u0432"
     ],
     "name:deu_x_preferred":[
         "C\u00edtov"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "C\u00edtov"
     ],
+    "name:gle_x_preferred":[
+        "C\u00edtov"
+    ],
     "name:hun_x_preferred":[
         "C\u00edtov"
     ],
     "name:ita_x_preferred":[
+        "C\u00edtov"
+    ],
+    "name:lmo_x_preferred":[
         "C\u00edtov"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "C\u00edtov"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0438\u0442\u043e\u0432"
     ],
     "name:vie_x_preferred":[
         "C\u00edtov"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125868981,
-    "wof:lastmodified":1566710867,
+    "wof:lastmodified":1690870240,
     "wof:name":"C\u00edtov",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

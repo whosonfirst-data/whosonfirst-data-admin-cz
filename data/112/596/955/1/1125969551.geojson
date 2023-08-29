@@ -22,13 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Prokopov"
+    ],
     "name:ces_x_preferred":[
         "Prokopov"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u043e\u043a\u043e\u043f\u043e\u0432"
     ],
     "name:deu_x_preferred":[
         "Prokopov"
     ],
     "name:eng_x_preferred":[
+        "Prokopov"
+    ],
+    "name:epo_x_preferred":[
         "Prokopov"
     ],
     "name:eus_x_preferred":[
@@ -40,10 +49,16 @@
     "name:fra_x_preferred":[
         "Prokopov"
     ],
+    "name:gle_x_preferred":[
+        "Prokopov"
+    ],
     "name:hun_x_preferred":[
         "Prokopov"
     ],
     "name:ita_x_preferred":[
+        "Prokopov"
+    ],
+    "name:lmo_x_preferred":[
         "Prokopov"
     ],
     "name:msa_x_preferred":[
@@ -68,6 +83,9 @@
         "Prokopov"
     ],
     "name:srp_x_preferred":[
+        "\u041f\u0440\u043e\u043a\u043e\u043f\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
         "\u041f\u0440\u043e\u043a\u043e\u043f\u043e\u0432"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":1125969551,
-    "wof:lastmodified":1566710996,
+    "wof:lastmodified":1690870484,
     "wof:name":"Prokopov",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",

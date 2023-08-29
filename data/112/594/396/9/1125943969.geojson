@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.052398,48.7760065,16.052398,48.7760065",
+    "geom:bbox":"16.052398,48.776007,16.052398,48.776007",
     "geom:latitude":48.776007,
     "geom:longitude":16.052398,
     "gn:country":null,
@@ -20,17 +20,29 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chvalovice"
+    ],
     "name:ceb_x_preferred":[
         "Chvalovice"
     ],
     "name:ces_x_preferred":[
         "Chvalovice"
     ],
+    "name:che_x_preferred":[
+        "\u0425\u0432\u0430\u043b\u043e\u0432\u0438\u0446\u0435"
+    ],
     "name:deu_x_preferred":[
         "Chvalovice"
     ],
     "name:eng_x_preferred":[
         "Chvalovice"
+    ],
+    "name:epo_x_preferred":[
+        "Chvalovice"
+    ],
+    "name:est_x_preferred":[
+        "Obec Chvalovice"
     ],
     "name:eus_x_preferred":[
         "Chvalovice"
@@ -40,6 +52,12 @@
     ],
     "name:fra_x_preferred":[
         "Chvalovice"
+    ],
+    "name:gle_x_preferred":[
+        "Chvalovice"
+    ],
+    "name:hrv_x_preferred":[
+        "Obec Chvalovice"
     ],
     "name:hun_x_preferred":[
         "Chvalovice"
@@ -68,6 +86,9 @@
     "name:slk_x_preferred":[
         "Chvalovice"
     ],
+    "name:slv_x_preferred":[
+        "Obec Chvalovice"
+    ],
     "name:spa_x_preferred":[
         "Chvalovice"
     ],
@@ -75,6 +96,12 @@
         "\u0425\u0432\u0430\u043b\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:swe_x_preferred":[
+        "Chvalovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0432\u0430\u043b\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:uzb_x_preferred":[
         "Chvalovice"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +143,7 @@
     },
     "wof:country":"CZ",
     "wof:created":1497297214,
-    "wof:geomhash":"0a931a83494befe94084cf7f0ffcc78f",
+    "wof:geomhash":"b59f8add3d7f7d0e916b8ae03e486fe1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +153,7 @@
         }
     ],
     "wof:id":1125943969,
-    "wof:lastmodified":1566710687,
+    "wof:lastmodified":1690869706,
     "wof:name":"Chvalovice",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",
@@ -137,9 +164,9 @@
 },
   "bbox": [
     16.052398,
-    48.7760065,
+    48.776007,
     16.052398,
-    48.7760065
+    48.776007
 ],
-  "geometry": {"coordinates":[16.052398,48.7760065],"type":"Point"}
+  "geometry": {"coordinates":[16.052398,48.776007],"type":"Point"}
 }

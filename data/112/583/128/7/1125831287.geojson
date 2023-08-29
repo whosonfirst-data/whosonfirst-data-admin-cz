@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kru\u017eberk"
+    ],
     "name:ceb_x_preferred":[
         "Kru\u017eberk"
     ],
     "name:ces_x_preferred":[
         "Kru\u017eberk"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0443\u0436\u0431\u0435\u0440\u043a"
     ],
     "name:deu_x_preferred":[
         "Kru\u017eberk"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Kru\u017eberk"
     ],
+    "name:gle_x_preferred":[
+        "Kru\u017eberk"
+    ],
     "name:hun_x_preferred":[
         "Kru\u017eberk"
     ],
     "name:ita_x_preferred":[
+        "Kru\u017eberk"
+    ],
+    "name:lmo_x_preferred":[
         "Kru\u017eberk"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Kru\u017eberk"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0443\u0436\u0431\u0435\u0440\u043a"
     ],
     "name:und_x_variant":[
         "Kreuzberg"
@@ -137,7 +152,7 @@
         }
     ],
     "wof:id":1125831287,
-    "wof:lastmodified":1566711152,
+    "wof:lastmodified":1690870943,
     "wof:name":"Kru\u017eberk",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

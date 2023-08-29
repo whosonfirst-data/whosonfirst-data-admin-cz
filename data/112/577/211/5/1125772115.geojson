@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u062a\u06cc\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Chot\u011bvice"
+    ],
     "name:ceb_x_preferred":[
         "Chot\u011bvice"
     ],
     "name:ces_x_preferred":[
         "Chot\u011bvice"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0442\u0435\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Chot\u011bvice"
@@ -43,10 +52,16 @@
     "name:fra_x_preferred":[
         "Chot\u011bvice"
     ],
+    "name:gle_x_preferred":[
+        "Chot\u011bvice"
+    ],
     "name:hun_x_preferred":[
         "Chot\u011bvice"
     ],
     "name:ita_x_preferred":[
+        "Chot\u011bvice"
+    ],
+    "name:lmo_x_preferred":[
         "Chot\u011bvice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Chot\u011bvice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0442\u0435\u0432\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Kottwitz"
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125772115,
-    "wof:lastmodified":1566711136,
+    "wof:lastmodified":1690870896,
     "wof:name":"Chot\u011bvice",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

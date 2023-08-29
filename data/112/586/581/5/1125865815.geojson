@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "B\u0159ezina"
+    ],
     "name:ceb_x_preferred":[
         "B\u0159ezina"
     ],
     "name:ces_x_preferred":[
         "B\u0159ezina"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0440\u0436\u0435\u0437\u0438\u043d\u0430"
     ],
     "name:deu_x_preferred":[
         "B\u0159ezina u De\u0161tn\u00e9"
@@ -44,6 +50,9 @@
         "\u0628\u0631\u0632\u06cc\u0646\u0627"
     ],
     "name:fra_x_preferred":[
+        "B\u0159ezina"
+    ],
+    "name:gle_x_preferred":[
         "B\u0159ezina"
     ],
     "name:hun_x_preferred":[
@@ -81,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "B\u0159ezina"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u0436\u0435\u0437\u0438\u043d\u0430"
     ],
     "name:vie_x_preferred":[
         "B\u0159ezina"
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":1125865815,
-    "wof:lastmodified":1566710859,
+    "wof:lastmodified":1690870218,
     "wof:name":"B\u0159ezina",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",

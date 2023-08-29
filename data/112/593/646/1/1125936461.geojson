@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Jankovice"
+    ],
     "name:ceb_x_preferred":[
         "Jankovice"
     ],
     "name:ces_x_preferred":[
         "Jankovice"
+    ],
+    "name:che_x_preferred":[
+        "\u042f\u043d\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:eng_x_preferred":[
         "Jankovice"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Jankovice"
     ],
+    "name:gle_x_preferred":[
+        "Jankovice"
+    ],
     "name:hun_x_preferred":[
         "Jankovice"
     ],
     "name:ita_x_preferred":[
+        "Jankovice"
+    ],
+    "name:lmo_x_preferred":[
         "Jankovice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Jankovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u043d\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Jankovice"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125936461,
-    "wof:lastmodified":1566710740,
+    "wof:lastmodified":1690869894,
     "wof:name":"Jankovice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

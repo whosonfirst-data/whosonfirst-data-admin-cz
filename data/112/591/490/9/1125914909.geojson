@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chval\u00edkovice"
+    ],
     "name:ceb_x_preferred":[
         "Chval\u00edkovice"
     ],
     "name:ces_x_preferred":[
         "Chval\u00edkovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0432\u0430\u043b\u0438\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Chval\u00edkovice"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Chval\u00edkovice"
     ],
+    "name:gle_x_preferred":[
+        "Chval\u00edkovice"
+    ],
     "name:hun_x_preferred":[
         "Chval\u00edkovice"
     ],
     "name:ita_x_preferred":[
+        "Chval\u00edkovice"
+    ],
+    "name:lmo_x_preferred":[
         "Chval\u00edkovice"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Chval\u00edkovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0432\u0430\u043b\u0438\u043a\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Chval\u00edkovice"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125914909,
-    "wof:lastmodified":1566711018,
+    "wof:lastmodified":1690870557,
     "wof:name":"Chval\u00edkovice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

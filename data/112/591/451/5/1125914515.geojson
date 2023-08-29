@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0633\u0627\u0646\u06a9\u06cc"
+    ],
+    "name:cat_x_preferred":[
+        "Cho\u0165\u00e1nky"
+    ],
     "name:ceb_x_preferred":[
         "Cho\u0165\u00e1nky"
     ],
     "name:ces_x_preferred":[
         "Cho\u0165\u00e1nky"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0442\u044f\u043d\u043a\u0438"
     ],
     "name:deu_x_preferred":[
         "Cho\u0165\u00e1nky"
@@ -43,10 +52,16 @@
     "name:fra_x_preferred":[
         "Cho\u0165\u00e1nky"
     ],
+    "name:gle_x_preferred":[
+        "Cho\u0165\u00e1nky"
+    ],
     "name:hun_x_preferred":[
         "Cho\u0165\u00e1nky"
     ],
     "name:ita_x_preferred":[
+        "Cho\u0165\u00e1nky"
+    ],
+    "name:lmo_x_preferred":[
         "Cho\u0165\u00e1nky"
     ],
     "name:msa_x_preferred":[
@@ -67,6 +82,9 @@
     "name:rup_x_preferred":[
         "Cho\u0165\u00e1nky"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0442\u0430\u043d\u043a\u0438"
+    ],
     "name:slk_x_preferred":[
         "Cho\u0165\u00e1nky"
     ],
@@ -78,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "Cho\u0165\u00e1nky"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0442\u044f\u043d\u043a\u0438"
     ],
     "name:und_x_variant":[
         "Chotanek"
@@ -132,7 +153,7 @@
         }
     ],
     "wof:id":1125914515,
-    "wof:lastmodified":1566711035,
+    "wof:lastmodified":1690870614,
     "wof:name":"Cho\u0165\u00e1nky",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

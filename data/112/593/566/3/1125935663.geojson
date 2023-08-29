@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hn\u00e1tnice"
+    ],
     "name:ceb_x_preferred":[
         "Hn\u00e1tnice"
     ],
     "name:ces_x_preferred":[
         "Hn\u00e1tnice"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043d\u0430\u0442\u043d\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Hn\u00e1tnice"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Hn\u00e1tnice"
     ],
+    "name:gle_x_preferred":[
+        "Hn\u00e1tnice"
+    ],
     "name:hun_x_preferred":[
         "Hn\u00e1tnice"
     ],
     "name:ita_x_preferred":[
+        "Hn\u00e1tnice"
+    ],
+    "name:lmo_x_preferred":[
         "Hn\u00e1tnice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Hn\u00e1tnice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043d\u0430\u0442\u043d\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Hn\u00e1tnice"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125935663,
-    "wof:lastmodified":1566710717,
+    "wof:lastmodified":1690869816,
     "wof:name":"Hn\u00e1tnice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

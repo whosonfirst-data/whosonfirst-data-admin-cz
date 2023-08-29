@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
     "geom:area_square_m":308915.556303,
-    "geom:bbox":"15.2773938741,50.7568740385,15.294160176,50.762133757",
+    "geom:bbox":"15.277394,50.756874,15.29416,50.762134",
     "geom:latitude":50.759517,
-    "geom:longitude":15.286714,
+    "geom:longitude":15.286713,
     "iso:country":"CZ",
     "lbl:latitude":50.759459,
     "lbl:longitude":15.286713,
@@ -22,13 +22,22 @@
     "name:azb_x_preferred":[
         "\u0627\u0644\u0628\u0631\u062e\u062a\u06cc\u062a\u0633\u0647 \u0641 \u06cc\u06cc\u0632\u0631\u0633\u06a9\u06cc\u062e \u0647\u0648\u0631\u0627\u062e"
     ],
+    "name:cat_x_preferred":[
+        "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
+    ],
     "name:ces_x_preferred":[
         "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u0431\u0440\u0435\u0445\u0442\u0438\u0446\u0435 \u0432 \u0419\u0438\u0437\u0435\u0440\u0441\u043a\u0438\u0445 \u0433\u043e\u0440\u0430\u0445"
     ],
     "name:deu_x_preferred":[
         "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
     ],
     "name:eng_x_preferred":[
+        "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
+    ],
+    "name:epo_x_preferred":[
         "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
     ],
     "name:eus_x_preferred":[
@@ -40,10 +49,16 @@
     "name:fra_x_preferred":[
         "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
     ],
+    "name:gle_x_preferred":[
+        "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
+    ],
     "name:hun_x_preferred":[
         "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
     ],
     "name:ita_x_preferred":[
+        "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
+    ],
+    "name:lmo_x_preferred":[
         "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +90,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u043b\u0431\u0440\u0435\u0445\u0442\u0438\u0446\u0435 \u0432 \u0408\u0438\u0437\u0435\u0440\u0441\u043a\u0438\u0445 \u0445\u043e\u0440\u0430\u0445"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u0431\u0440\u0435\u0445\u0442\u0438\u0446\u0435 \u0432 \u0419\u0438\u0437\u0435\u0440\u0441\u043a\u0438\u0445 \u0433\u043e\u0440\u0430\u0445"
     ],
     "name:vie_x_preferred":[
         "Albrechtice v Jizersk\u00fdch hor\u00e1ch"
@@ -112,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8bb5571da01e63c86a12ffe59bcc7840",
+    "wof:geomhash":"51dbc308327faefd1b4e9ed80a6467a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":101913149,
-    "wof:lastmodified":1582312367,
+    "wof:lastmodified":1690869453,
     "wof:name":"Albrechtice v Jizersk\u00fdch hor\u00e1ch",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",
@@ -132,10 +150,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.27739387405029,
-    50.75687403848929,
-    15.29416017595446,
-    50.76213375704759
+    15.277394,
+    50.756874,
+    15.29416,
+    50.762134
 ],
-  "geometry": {"coordinates":[[[15.29416017595446,50.75866653672887],[15.29395673859324,50.75687403848929],[15.28971467076343,50.75706886971068],[15.28981630623827,50.75796512328725],[15.2827459864103,50.75828950274263],[15.28284749208495,50.75918576314331],[15.28143339037649,50.75925058850186],[15.28153487395963,50.76014685000723],[15.28012074171687,50.76021165947316],[15.28022220320622,50.76110792208266],[15.27739387405029,50.76123749190668],[15.27749528650844,50.76213375704759],[15.28315203814941,50.76187454239891],[15.28305051795411,50.76097828297168],[15.2915353756751,50.76058894992195],[15.2914336987302,50.75969269875111],[15.2928478021251,50.75962775071656],[15.29274610309881,50.7587315006524],[15.29416017595446,50.75866653672887]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[15.29416,50.758667],[15.293957,50.756874],[15.289715,50.757069],[15.289816,50.757965],[15.282746,50.75829],[15.282847,50.759186],[15.281433,50.759251],[15.281535,50.760147],[15.280121,50.760212],[15.280222,50.761108],[15.277394,50.761237],[15.277495,50.762134],[15.283152,50.761875],[15.283051,50.760978],[15.291535,50.760589],[15.291434,50.759693],[15.292848,50.759628],[15.292746,50.758732],[15.29416,50.758667]]],"type":"Polygon"}
 }

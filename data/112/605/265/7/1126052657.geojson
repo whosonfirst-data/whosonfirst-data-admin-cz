@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0628\u0633\u062a\u0648\u06cc\u062a\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "T\u0159ebestovice"
+    ],
     "name:ceb_x_preferred":[
         "T\u0159ebestovice"
     ],
     "name:ces_x_preferred":[
         "T\u0159ebestovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0431\u0435\u0441\u0442\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "T\u0159ebestovice"
@@ -43,10 +52,16 @@
     "name:fra_x_preferred":[
         "T\u0159ebestovice"
     ],
+    "name:gle_x_preferred":[
+        "T\u0159ebestovice"
+    ],
     "name:hun_x_preferred":[
         "T\u0159ebestovice"
     ],
     "name:ita_x_preferred":[
+        "T\u0159ebestovice"
+    ],
+    "name:lmo_x_preferred":[
         "T\u0159ebestovice"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u0159ebestovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0431\u0435\u0441\u0442\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "T\u0159ebestovice"
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1126052657,
-    "wof:lastmodified":1566710834,
+    "wof:lastmodified":1690870153,
     "wof:name":"T\u0159ebestovice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

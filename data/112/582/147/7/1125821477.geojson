@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "T\u011bchon\u00edn"
+    ],
     "name:ceb_x_preferred":[
         "T\u011bchon\u00edn"
     ],
     "name:ces_x_preferred":[
         "T\u011bchon\u00edn"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u0445\u043e\u043d\u0438\u043d"
     ],
     "name:deu_x_preferred":[
         "T\u011bchon\u00edn"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "T\u011bchon\u00edn"
     ],
+    "name:gle_x_preferred":[
+        "T\u011bchon\u00edn"
+    ],
     "name:hun_x_preferred":[
         "T\u011bchon\u00edn"
     ],
     "name:ita_x_preferred":[
+        "T\u011bchon\u00edn"
+    ],
+    "name:lmo_x_preferred":[
         "T\u011bchon\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u011bchon\u00edn"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u0445\u043e\u043d\u0438\u043d"
     ],
     "name:und_x_variant":[
         "Linsdorf"
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1125821477,
-    "wof:lastmodified":1566711088,
+    "wof:lastmodified":1690870768,
     "wof:name":"T\u011bchon\u00edn",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

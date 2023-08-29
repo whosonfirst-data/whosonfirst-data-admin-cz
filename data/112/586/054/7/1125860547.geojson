@@ -22,14 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0644\u06cc\u0646\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u043e\u043b\u0438\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Cholina"
     ],
     "name:ceb_x_preferred":[
         "Cholina"
     ],
     "name:ces_x_preferred":[
         "Cholina"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u043b\u0438\u043d\u0430"
     ],
     "name:deu_x_preferred":[
         "Cholina"
@@ -49,10 +58,19 @@
     "name:fra_x_preferred":[
         "Cholina"
     ],
+    "name:gle_x_preferred":[
+        "Cholina"
+    ],
     "name:hun_x_preferred":[
         "Cholina"
     ],
+    "name:ind_x_preferred":[
+        "Cholina"
+    ],
     "name:ita_x_preferred":[
+        "Cholina"
+    ],
+    "name:lmo_x_preferred":[
         "Cholina"
     ],
     "name:msa_x_preferred":[
@@ -84,6 +102,9 @@
     ],
     "name:swe_x_preferred":[
         "Cholina"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u043b\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
         "K\u00f6llein"
@@ -140,7 +161,7 @@
         }
     ],
     "wof:id":1125860547,
-    "wof:lastmodified":1566710857,
+    "wof:lastmodified":1690870212,
     "wof:name":"Cholina",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",

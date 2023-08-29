@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Libkov"
+    ],
     "name:ces_x_preferred":[
         "Libkov"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u0431\u043a\u043e\u0432"
     ],
     "name:eng_x_preferred":[
         "Libkov"
@@ -37,10 +43,16 @@
     "name:fra_x_preferred":[
         "Libkov"
     ],
+    "name:gle_x_preferred":[
+        "Libkov"
+    ],
     "name:hun_x_preferred":[
         "Libkov"
     ],
     "name:ita_x_preferred":[
+        "Libkov"
+    ],
+    "name:lmo_x_preferred":[
         "Libkov"
     ],
     "name:msa_x_preferred":[
@@ -69,6 +81,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u043f\u043a\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u0431\u043a\u043e\u0432"
     ],
     "name:vie_x_preferred":[
         "Libkov"
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":1125919669,
-    "wof:lastmodified":1566711026,
+    "wof:lastmodified":1690870583,
     "wof:name":"Libkov",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:azb_x_preferred":[
         "\u0631\u0647\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
+    "name:cat_x_preferred":[
+        "\u0158ehlovice"
+    ],
     "name:ceb_x_preferred":[
         "\u0158ehlovice"
     ],
@@ -35,9 +38,13 @@
         "Gross Tschochau"
     ],
     "name:deu_x_variant":[
-        "\u0158ehlovice"
+        "\u0158ehlovice",
+        "Gro\u00df Tschochau"
     ],
     "name:eng_x_preferred":[
+        "\u0158ehlovice"
+    ],
+    "name:epo_x_preferred":[
         "\u0158ehlovice"
     ],
     "name:eus_x_preferred":[
@@ -49,10 +56,16 @@
     "name:fra_x_preferred":[
         "\u0158ehlovice"
     ],
+    "name:gle_x_preferred":[
+        "\u0158ehlovice"
+    ],
     "name:hun_x_preferred":[
         "\u0158ehlovice"
     ],
     "name:ita_x_preferred":[
+        "\u0158ehlovice"
+    ],
+    "name:lmo_x_preferred":[
         "\u0158ehlovice"
     ],
     "name:msa_x_preferred":[
@@ -137,7 +150,7 @@
         }
     ],
     "wof:id":1125864483,
-    "wof:lastmodified":1566710856,
+    "wof:lastmodified":1690870208,
     "wof:name":"\u0158ehlovice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

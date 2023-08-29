@@ -34,11 +34,17 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0434\u0438\u0446\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Lidice"
+    ],
     "name:ceb_x_preferred":[
         "Lidice"
     ],
     "name:ces_x_preferred":[
         "Lidice"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u0434\u0438\u0446\u0435"
     ],
     "name:dan_x_preferred":[
         "Lidice"
@@ -70,6 +76,12 @@
     "name:fry_x_preferred":[
         "Lidice"
     ],
+    "name:gle_x_preferred":[
+        "Lidice"
+    ],
+    "name:gsw_x_preferred":[
+        "Lidice"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05d3\u05d9\u05e6\u05d4"
     ],
@@ -94,6 +106,12 @@
     "name:lit_x_preferred":[
         "Lidic\u0117"
     ],
+    "name:lmo_x_preferred":[
+        "Lidice"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041b\u0438\u0434\u0438\u0446\u044d"
+    ],
     "name:msa_x_preferred":[
         "Lidice"
     ],
@@ -111,6 +129,9 @@
     ],
     "name:por_x_preferred":[
         "L\u00eddice"
+    ],
+    "name:por_x_variant":[
+        "Lidice"
     ],
     "name:ron_x_preferred":[
         "Lidice"
@@ -136,6 +157,9 @@
     "name:swe_x_preferred":[
         "Lidice"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u0434\u0438\u0446\u0435"
+    ],
     "name:tur_x_preferred":[
         "Lidice"
     ],
@@ -143,7 +167,8 @@
         "\u041b\u0456\u0434\u0438\u0446\u0435"
     ],
     "name:ukr_x_variant":[
-        "\u041b\u0456\u0434\u0456\u0446\u0435"
+        "\u041b\u0456\u0434\u0456\u0446\u0435",
+        "\u041b\u0456\u0434\u0438\u0446\u0456"
     ],
     "name:und_x_variant":[
         "Liditz"
@@ -208,7 +233,7 @@
         }
     ],
     "wof:id":1125817571,
-    "wof:lastmodified":1566710872,
+    "wof:lastmodified":1690870255,
     "wof:name":"Lidice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

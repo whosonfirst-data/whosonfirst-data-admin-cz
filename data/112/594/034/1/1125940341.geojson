@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0628\u0648\u06cc\u062a\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "T\u0159ebovice"
+    ],
     "name:ceb_x_preferred":[
         "T\u0159ebovice"
     ],
     "name:ces_x_preferred":[
         "T\u0159ebovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0431\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "T\u0159ebovice"
@@ -46,10 +55,16 @@
     "name:fra_x_preferred":[
         "T\u0159ebovice"
     ],
+    "name:gle_x_preferred":[
+        "T\u0159ebovice"
+    ],
     "name:hun_x_preferred":[
         "T\u0159ebovice"
     ],
     "name:ita_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:lmo_x_preferred":[
         "T\u0159ebovice"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u0159ebovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0431\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Triebitz"
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":1125940341,
-    "wof:lastmodified":1566710709,
+    "wof:lastmodified":1690869791,
     "wof:name":"T\u0159ebovice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

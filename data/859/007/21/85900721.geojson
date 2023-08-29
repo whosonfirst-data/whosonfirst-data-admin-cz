@@ -28,6 +28,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:cat_x_preferred":[
+        "Otrokovice"
+    ],
     "name:ceb_x_preferred":[
         "Otrokovice"
     ],
@@ -46,6 +49,9 @@
     "name:epo_x_preferred":[
         "Otrokovice"
     ],
+    "name:est_x_preferred":[
+        "Otrokovice"
+    ],
     "name:eus_x_preferred":[
         "Otrokovice"
     ],
@@ -53,6 +59,9 @@
         "\u0627\u0648\u062a\u0631\u0648\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
+        "Otrokovice"
+    ],
+    "name:gle_x_preferred":[
         "Otrokovice"
     ],
     "name:hun_x_preferred":[
@@ -64,10 +73,16 @@
     "name:ita_x_preferred":[
         "Otrokovice"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30c8\u30ed\u30b3\u30f4\u30a3\u30c4\u30a7"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ud2b8\ub85c\ucf54\ube44\uccb4"
     ],
     "name:lav_x_preferred":[
+        "Otrokovice"
+    ],
+    "name:lmo_x_preferred":[
         "Otrokovice"
     ],
     "name:msa_x_preferred":[
@@ -108,6 +123,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0440\u043e\u043a\u043e\u0432\u0456\u0446\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0442\u0440\u043e\u043a\u043e\u0432\u0438\u0446\u0456"
     ],
     "name:und_x_variant":[
         "Kv\u00edtkovice"
@@ -183,7 +201,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1582312342,
+    "wof:lastmodified":1690869291,
     "wof:name":"Kvitkovice",
     "wof:parent_id":101779863,
     "wof:placetype":"neighbourhood",

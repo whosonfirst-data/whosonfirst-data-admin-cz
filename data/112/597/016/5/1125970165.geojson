@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0698\u06a9"
+    ],
+    "name:cat_x_preferred":[
+        "Tr\u017eek"
+    ],
     "name:ceb_x_preferred":[
         "Tr\u017eek"
     ],
     "name:ces_x_preferred":[
         "Tr\u017eek"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u043a"
     ],
     "name:eng_x_preferred":[
         "Tr\u017eek"
@@ -43,10 +52,16 @@
     "name:fra_x_preferred":[
         "Tr\u017eek"
     ],
+    "name:gle_x_preferred":[
+        "Tr\u017eek"
+    ],
     "name:hun_x_preferred":[
         "Tr\u017eek"
     ],
     "name:ita_x_preferred":[
+        "Tr\u017eek"
+    ],
+    "name:lmo_x_preferred":[
         "Tr\u017eek"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Tr\u017eek"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u043a"
     ],
     "name:vie_x_preferred":[
         "Tr\u017eek"
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":1125970165,
-    "wof:lastmodified":1566710975,
+    "wof:lastmodified":1690870467,
     "wof:name":"Tr\u017eek",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u062a\u06cc\u0628\u0648\u0632"
+    ],
+    "name:cat_x_preferred":[
+        "Chot\u011bbuz"
+    ],
     "name:ceb_x_preferred":[
         "Chot\u011bbuz"
     ],
     "name:ces_x_preferred":[
         "Chot\u011bbuz"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0442\u0435\u0431\u0443\u0437"
     ],
     "name:deu_x_preferred":[
         "Kozobentz"
@@ -50,10 +59,16 @@
     "name:fra_x_preferred":[
         "Chot\u011bbuz"
     ],
+    "name:gle_x_preferred":[
+        "Chot\u011bbuz"
+    ],
     "name:hun_x_preferred":[
         "Chot\u011bbuz"
     ],
     "name:ita_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:lmo_x_preferred":[
         "Chot\u011bbuz"
     ],
     "name:msa_x_preferred":[
@@ -85,6 +100,9 @@
     ],
     "name:swe_x_preferred":[
         "Chot\u011bbuz"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0442\u0435\u0431\u0443\u0437"
     ],
     "name:vie_x_preferred":[
         "Chot\u011bbuz"
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":1125900539,
-    "wof:lastmodified":1566710962,
+    "wof:lastmodified":1690870426,
     "wof:name":"Chotbuz",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",

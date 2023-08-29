@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0628\u0644\u0648\u06cc\u062a\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "T\u0159ebelovice"
+    ],
     "name:ceb_x_preferred":[
         "T\u0159ebelovice"
     ],
     "name:ces_x_preferred":[
         "T\u0159ebelovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0431\u0435\u043b\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:eng_x_preferred":[
         "T\u0159ebelovice"
@@ -40,10 +49,16 @@
     "name:fra_x_preferred":[
         "T\u0159ebelovice"
     ],
+    "name:gle_x_preferred":[
+        "T\u0159ebelovice"
+    ],
     "name:hun_x_preferred":[
         "T\u0159ebelovice"
     ],
     "name:ita_x_preferred":[
+        "T\u0159ebelovice"
+    ],
+    "name:lmo_x_preferred":[
         "T\u0159ebelovice"
     ],
     "name:msa_x_preferred":[
@@ -53,6 +68,9 @@
         "T\u0159ebelovice"
     ],
     "name:nld_x_preferred":[
+        "T\u0159ebelovice"
+    ],
+    "name:pol_x_preferred":[
         "T\u0159ebelovice"
     ],
     "name:por_x_preferred":[
@@ -69,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u0159ebelovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0436\u0435\u0431\u0435\u043b\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "T\u0159ebelowitz"
@@ -123,7 +144,7 @@
         }
     ],
     "wof:id":1125926673,
-    "wof:lastmodified":1566710769,
+    "wof:lastmodified":1690869960,
     "wof:name":"T\u0159ebelovice",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

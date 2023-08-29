@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ble\u0161no"
+    ],
     "name:ceb_x_preferred":[
         "Ble\u0161no"
     ],
     "name:ces_x_preferred":[
         "Ble\u0161no"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043b\u0435\u0448\u043d\u043e"
     ],
     "name:deu_x_preferred":[
         "Ble\u0161no"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Ble\u0161no"
     ],
+    "name:gle_x_preferred":[
+        "Ble\u0161no"
+    ],
     "name:hun_x_preferred":[
         "Ble\u0161no"
     ],
     "name:ita_x_preferred":[
+        "Ble\u0161no"
+    ],
+    "name:lmo_x_preferred":[
         "Ble\u0161no"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Ble\u0161no"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043b\u0435\u0448\u043d\u043e"
     ],
     "name:vie_x_preferred":[
         "Ble\u0161no"
@@ -128,7 +143,7 @@
         }
     ],
     "wof:id":1126016275,
-    "wof:lastmodified":1566711055,
+    "wof:lastmodified":1690870666,
     "wof:name":"Ble\u0161no",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

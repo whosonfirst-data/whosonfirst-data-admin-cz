@@ -28,17 +28,29 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0441\u0442\u043a\u043e\u0432"
     ],
+    "name:cat_x_preferred":[
+        "Lestkov"
+    ],
     "name:ceb_x_preferred":[
         "Lestkov"
     ],
     "name:ces_x_preferred":[
         "Lestkov"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0435\u0441\u0442\u043a\u043e\u0432"
+    ],
     "name:deu_x_preferred":[
         "Lestkov"
     ],
     "name:eng_x_preferred":[
         "Lestkov"
+    ],
+    "name:epo_x_preferred":[
+        "Lestkov"
+    ],
+    "name:est_x_preferred":[
+        "Obec Lestkov"
     ],
     "name:eus_x_preferred":[
         "Lestkov"
@@ -49,10 +61,22 @@
     "name:fra_x_preferred":[
         "Lestkov"
     ],
+    "name:gle_x_preferred":[
+        "Lestkov"
+    ],
+    "name:hrv_x_preferred":[
+        "Obec Lestkov"
+    ],
     "name:hun_x_preferred":[
         "Lestkov"
     ],
     "name:ita_x_preferred":[
+        "Lestkov"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30b9\u30c8\u30b3\u30d5"
+    ],
+    "name:lmo_x_preferred":[
         "Lestkov"
     ],
     "name:msa_x_preferred":[
@@ -76,6 +100,9 @@
     "name:slk_x_preferred":[
         "Lestkov"
     ],
+    "name:slv_x_preferred":[
+        "Obec Lestkov"
+    ],
     "name:spa_x_preferred":[
         "Lestkov"
     ],
@@ -85,8 +112,14 @@
     "name:swe_x_preferred":[
         "Lestkov"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0435\u0441\u0442\u043a\u043e\u0432"
+    ],
     "name:und_x_variant":[
         "Leskau"
+    ],
+    "name:uzb_x_preferred":[
+        "Lestkov"
     ],
     "name:vie_x_preferred":[
         "Lestkov"
@@ -138,7 +171,7 @@
         }
     ],
     "wof:id":1125939193,
-    "wof:lastmodified":1566710748,
+    "wof:lastmodified":1690869920,
     "wof:name":"Lestkov",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

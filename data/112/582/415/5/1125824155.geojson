@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0647\u0631\u064a\u0646\u0633\u0643\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "H\u0159ensko"
+    ],
     "name:ceb_x_preferred":[
         "H\u0159ensko"
     ],
     "name:ces_x_preferred":[
         "H\u0159ensko"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u0436\u0435\u043d\u0441\u043a\u043e"
     ],
     "name:deu_x_preferred":[
         "H\u0159ensko"
@@ -37,10 +46,16 @@
     "name:epo_x_preferred":[
         "H\u0159ensko"
     ],
+    "name:est_x_preferred":[
+        "H\u0159ensko"
+    ],
     "name:eus_x_preferred":[
         "H\u0159ensko"
     ],
     "name:fra_x_preferred":[
+        "H\u0159ensko"
+    ],
+    "name:gle_x_preferred":[
         "H\u0159ensko"
     ],
     "name:hsb_x_preferred":[
@@ -50,6 +65,9 @@
         "H\u0159ensko"
     ],
     "name:ita_x_preferred":[
+        "H\u0159ensko"
+    ],
+    "name:lmo_x_preferred":[
         "H\u0159ensko"
     ],
     "name:mkd_x_preferred":[
@@ -87,6 +105,9 @@
     ],
     "name:swe_x_preferred":[
         "H\u0159ensko"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u0436\u0435\u043d\u0441\u043a\u043e"
     ],
     "name:und_x_variant":[
         "Herrnskretschen"
@@ -145,7 +166,7 @@
         }
     ],
     "wof:id":1125824155,
-    "wof:lastmodified":1566711082,
+    "wof:lastmodified":1690870749,
     "wof:name":"H\u0159ensko",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

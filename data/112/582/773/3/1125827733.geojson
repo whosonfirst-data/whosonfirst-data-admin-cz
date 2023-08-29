@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bernartice"
+    ],
     "name:ceb_x_preferred":[
         "Bernartice"
     ],
     "name:ces_x_preferred":[
         "Bernartice"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0440\u0442\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Bernartice u Trutnova"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Bernartice"
     ],
+    "name:gle_x_preferred":[
+        "Bernartice"
+    ],
     "name:hun_x_preferred":[
         "Bernartice"
     ],
     "name:ita_x_preferred":[
+        "Bernartice"
+    ],
+    "name:lmo_x_preferred":[
         "Bernartice"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Bernartice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0440\u0442\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Bernsdorf"
@@ -137,7 +152,7 @@
         }
     ],
     "wof:id":1125827733,
-    "wof:lastmodified":1566711088,
+    "wof:lastmodified":1690870767,
     "wof:name":"Bernartice",
     "wof:parent_id":85682465,
     "wof:placetype":"locality",

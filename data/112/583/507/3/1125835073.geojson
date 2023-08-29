@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0627\u0648\u062a\u0634\u06cc\u062a\u0633\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Trav\u010dice"
+    ],
     "name:ceb_x_preferred":[
         "Trav\u010dice"
     ],
     "name:ces_x_preferred":[
         "Trav\u010dice"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u0447\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Trabschitz"
@@ -49,10 +58,16 @@
     "name:fra_x_preferred":[
         "Trav\u010dice"
     ],
+    "name:gle_x_preferred":[
+        "Trav\u010dice"
+    ],
     "name:hun_x_preferred":[
         "Trav\u010dice"
     ],
     "name:ita_x_preferred":[
+        "Trav\u010dice"
+    ],
+    "name:lmo_x_preferred":[
         "Trav\u010dice"
     ],
     "name:msa_x_preferred":[
@@ -64,11 +79,17 @@
     "name:nld_x_preferred":[
         "Trav\u010dice"
     ],
+    "name:pol_x_preferred":[
+        "Trav\u010dice"
+    ],
     "name:por_x_preferred":[
         "Trav\u010dice"
     ],
     "name:rup_x_preferred":[
         "Trav\u010dice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u0447\u0438\u0446\u0435"
     ],
     "name:slk_x_preferred":[
         "Trav\u010dice"
@@ -81,6 +102,9 @@
     ],
     "name:swe_x_preferred":[
         "Trav\u010dice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u0447\u0438\u0446\u0435"
     ],
     "name:vie_x_preferred":[
         "Trav\u010dice"
@@ -134,7 +158,7 @@
         }
     ],
     "wof:id":1125835073,
-    "wof:lastmodified":1566711153,
+    "wof:lastmodified":1690870946,
     "wof:name":"Trav\u010dice",
     "wof:parent_id":85682469,
     "wof:placetype":"locality",

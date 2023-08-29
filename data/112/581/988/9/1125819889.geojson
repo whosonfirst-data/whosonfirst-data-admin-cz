@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0448\u0442\u0432\u0456\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "B\u011bstvina"
+    ],
     "name:ceb_x_preferred":[
         "B\u011bstvina"
     ],
     "name:ces_x_preferred":[
         "B\u011bstvina"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0441\u0442\u0432\u0438\u043d\u0430"
     ],
     "name:deu_x_preferred":[
         "B\u011bstvina"
@@ -43,10 +52,16 @@
     "name:fra_x_preferred":[
         "B\u011bstvina"
     ],
+    "name:gle_x_preferred":[
+        "B\u011bstvina"
+    ],
     "name:hun_x_preferred":[
         "B\u011bstvina"
     ],
     "name:ita_x_preferred":[
+        "B\u011bstvina"
+    ],
+    "name:lmo_x_preferred":[
         "B\u011bstvina"
     ],
     "name:msa_x_preferred":[
@@ -81,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "B\u011bstvina"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0441\u0442\u0432\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Bestwin"
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":1125819889,
-    "wof:lastmodified":1566710873,
+    "wof:lastmodified":1690870259,
     "wof:name":"B\u011bstvina",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

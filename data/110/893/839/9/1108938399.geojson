@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.6369250428,50.0642819726,14.6369250428,50.0642819726",
+    "geom:bbox":"14.636925,50.064282,14.636925,50.064282",
     "geom:latitude":50.064282,
     "geom:longitude":14.636925,
     "iso:country":"CZ",
@@ -32,6 +32,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0644\u0648\u062f\u06cc\u06cc\u0647"
     ],
+    "name:fin_x_preferred":[
+        "Kolod\u011bje"
+    ],
     "name:fra_x_preferred":[
         "Kolod\u011bje"
     ],
@@ -50,6 +53,9 @@
     "name:slk_x_preferred":[
         "Kolod\u011bje"
     ],
+    "name:swe_x_preferred":[
+        "Kolod\u011bje"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -62,7 +68,7 @@
     },
     "wof:country":"CZ",
     "wof:created":1491360354,
-    "wof:geomhash":"b152d08c59dbd098bb203497c2266341",
+    "wof:geomhash":"4d7308433c448c381b169d7fc2049b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108938399,
-    "wof:lastmodified":1566710481,
+    "wof:lastmodified":1690869336,
     "wof:name":"Kolodeje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -82,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.63692504281843,
-    50.06428197257543,
-    14.63692504281843,
-    50.06428197257543
+    14.636925,
+    50.064282,
+    14.636925,
+    50.064282
 ],
-  "geometry": {"coordinates":[14.63692504281843,50.06428197257543],"type":"Point"}
+  "geometry": {"coordinates":[14.636925,50.064282],"type":"Point"}
 }

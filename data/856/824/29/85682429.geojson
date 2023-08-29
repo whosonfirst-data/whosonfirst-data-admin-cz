@@ -87,6 +87,9 @@
     "name:ces_x_variant":[
         "Kraj Vyso\u010dina"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u0447\u0438\u043d\u0430"
+    ],
     "name:chv_x_preferred":[
         "\u0412\u044b\u0441\u043e\u0447\u0438\u043d\u0430 \u0435\u043d\u0115"
     ],
@@ -101,6 +104,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0392\u03af\u03c3\u03bf\u03c4\u03c3\u03b9\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03ac\u03b9 \u0392\u03af\u03c3\u03bf\u03c4\u03c3\u03b9\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Vysocina"
@@ -201,6 +207,9 @@
     "name:oci_x_preferred":[
         "Vyso\u010dina"
     ],
+    "name:oss_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u0447\u0438\u043d\u00e6"
+    ],
     "name:pam_x_preferred":[
         "Vyso\u010dina Labuad"
     ],
@@ -219,6 +228,9 @@
     "name:ron_x_variant":[
         "Vyso\u010dina"
     ],
+    "name:rue_x_preferred":[
+        "\u041a\u0440\u0430\u0439 \u0412\u044b\u0441\u043e\u0447\u0438\u043d\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u044b\u0441\u043e\u0447\u0438\u043d\u0430"
     ],
@@ -233,6 +245,9 @@
     ],
     "name:slk_x_variant":[
         "Kraj Vyso\u010dina"
+    ],
+    "name:slv_x_preferred":[
+        "Viso\u010dinski okraj"
     ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Vyso\u010dina"
@@ -272,6 +287,9 @@
     ],
     "name:war_x_preferred":[
         "Vyso\u010dina"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7ef4\u7d22\u57fa\u7eb3\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u7dad\u7d22\u57fa\u7d0d\u5dde"
@@ -379,7 +397,7 @@
         "wd:id":"Q190930"
     },
     "wof:country":"CZ",
-    "wof:geomhash":"dfbc0a38149b0acd06d53dfdf446456b",
+    "wof:geomhash":"bf229280ac6214681b2b2c151d5e4872",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -394,7 +412,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1684351505,
+    "wof:lastmodified":1690869326,
     "wof:name":"Vyso\u010dina",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

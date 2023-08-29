@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Polerady"
+    ],
     "name:ceb_x_preferred":[
         "Polerady"
     ],
     "name:ces_x_preferred":[
         "Polerady"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u0440\u0430\u0434\u0438"
     ],
     "name:deu_x_preferred":[
         "Polerady u Prahy"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Polerady"
     ],
+    "name:gle_x_preferred":[
+        "Polerady"
+    ],
     "name:hun_x_preferred":[
         "Polerady"
     ],
     "name:ita_x_preferred":[
+        "Polerady"
+    ],
+    "name:lmo_x_preferred":[
         "Polerady"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Polerady"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u0440\u0430\u0434\u0438"
     ],
     "name:vie_x_preferred":[
         "Polerady"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125966413,
-    "wof:lastmodified":1566711004,
+    "wof:lastmodified":1690870507,
     "wof:name":"Polerady",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

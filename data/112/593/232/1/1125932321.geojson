@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0647\u062f\u0627\u0644\u064a\u0643"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0647\u062f\u0627\u0644\u062a\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Bohdalec"
     ],
     "name:ceb_x_preferred":[
         "Bohdalec"
@@ -31,10 +37,16 @@
     "name:ces_x_preferred":[
         "Bohdalec"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043b\u0435\u0446"
+    ],
     "name:deu_x_preferred":[
         "Bohdalec"
     ],
     "name:eng_x_preferred":[
+        "Bohdalec"
+    ],
+    "name:epo_x_preferred":[
         "Bohdalec"
     ],
     "name:eus_x_preferred":[
@@ -46,10 +58,16 @@
     "name:fra_x_preferred":[
         "Bohdalec"
     ],
+    "name:gle_x_preferred":[
+        "Bohdalec"
+    ],
     "name:hun_x_preferred":[
         "Bohdalec"
     ],
     "name:ita_x_preferred":[
+        "Bohdalec"
+    ],
+    "name:lmo_x_preferred":[
         "Bohdalec"
     ],
     "name:msa_x_preferred":[
@@ -59,6 +77,9 @@
         "Bohdalec"
     ],
     "name:nld_x_preferred":[
+        "Bohdalec"
+    ],
+    "name:pol_x_preferred":[
         "Bohdalec"
     ],
     "name:por_x_preferred":[
@@ -74,6 +95,12 @@
         "Bohdalec"
     ],
     "name:swe_x_preferred":[
+        "Bohdalec"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043b\u0435\u0446"
+    ],
+    "name:uzb_x_preferred":[
         "Bohdalec"
     ],
     "name:vie_x_preferred":[
@@ -126,7 +153,7 @@
         }
     ],
     "wof:id":1125932321,
-    "wof:lastmodified":1566710724,
+    "wof:lastmodified":1690869839,
     "wof:name":"Bohdalec",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

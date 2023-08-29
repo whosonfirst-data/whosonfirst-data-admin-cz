@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hroubovice"
+    ],
     "name:ceb_x_preferred":[
         "Hroubovice"
     ],
     "name:ces_x_preferred":[
         "Hroubovice"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u043e\u0443\u0431\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:eng_x_preferred":[
         "Hroubovice"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Hroubovice"
     ],
+    "name:gle_x_preferred":[
+        "Hroubovice"
+    ],
     "name:hun_x_preferred":[
         "Hroubovice"
     ],
     "name:ita_x_preferred":[
+        "Hroubovice"
+    ],
+    "name:lmo_x_preferred":[
         "Hroubovice"
     ],
     "name:msa_x_preferred":[
@@ -75,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Hroubovice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u043e\u0443\u0431\u043e\u0432\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Raubowitz"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1126052947,
-    "wof:lastmodified":1566710824,
+    "wof:lastmodified":1690870124,
     "wof:name":"Hroubovice",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

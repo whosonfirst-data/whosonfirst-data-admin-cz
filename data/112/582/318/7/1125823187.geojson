@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u0649 \u0633\u064a\u062f\u0644\u064a\u0633\u062a\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u062a\u0627\u0631\u0647 \u0633\u062f\u0644\u06cc\u0634\u062a\u06cc"
+    ],
+    "name:cat_x_preferred":[
+        "Star\u00e9 Sedli\u0161t\u011b"
     ],
     "name:ceb_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
@@ -31,11 +37,20 @@
     "name:ces_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0435 \u0421\u0435\u0434\u043b\u0438\u0448\u0442\u0435"
+    ],
     "name:deu_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
     ],
     "name:eng_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
+    ],
+    "name:epo_x_preferred":[
+        "Star\u00e9 Sedli\u0161t\u011b"
+    ],
+    "name:est_x_preferred":[
+        "Obec Star\u00e9 Sedli\u0161t\u011b"
     ],
     "name:eus_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
@@ -46,10 +61,19 @@
     "name:fra_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
     ],
+    "name:gle_x_preferred":[
+        "Star\u00e9 Sedli\u0161t\u011b"
+    ],
+    "name:hrv_x_preferred":[
+        "Obec Star\u00e9 Sedli\u0161t\u011b"
+    ],
     "name:hun_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
     ],
     "name:ita_x_preferred":[
+        "Star\u00e9 Sedli\u0161t\u011b"
+    ],
+    "name:lmo_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
     ],
     "name:msa_x_preferred":[
@@ -73,6 +97,9 @@
     "name:slk_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
     ],
+    "name:slv_x_preferred":[
+        "Obec Star\u00e9 Sedli\u0161t\u011b"
+    ],
     "name:spa_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
     ],
@@ -82,8 +109,14 @@
     "name:swe_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0435 \u0421\u0435\u0434\u043b\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Alt-Zedlisch"
+    ],
+    "name:uzb_x_preferred":[
+        "Star\u00e9 Sedli\u0161t\u011b"
     ],
     "name:vie_x_preferred":[
         "Star\u00e9 Sedli\u0161t\u011b"
@@ -135,7 +168,7 @@
         }
     ],
     "wof:id":1125823187,
-    "wof:lastmodified":1566711088,
+    "wof:lastmodified":1690870766,
     "wof:name":"Star\u00e9 Sedli\u0161t\u011b",
     "wof:parent_id":85682433,
     "wof:placetype":"locality",

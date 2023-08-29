@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Semice"
+    ],
     "name:ceb_x_preferred":[
         "Semice"
     ],
     "name:ces_x_preferred":[
         "Semice"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u0446\u0435"
     ],
     "name:deu_x_preferred":[
         "Semice"
@@ -43,10 +49,16 @@
     "name:fra_x_preferred":[
         "Semice"
     ],
+    "name:gle_x_preferred":[
+        "Semice"
+    ],
     "name:hun_x_preferred":[
         "Semice"
     ],
     "name:ita_x_preferred":[
+        "Semice"
+    ],
+    "name:lmo_x_preferred":[
         "Semice"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Semice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Semitz"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1125898419,
-    "wof:lastmodified":1566710901,
+    "wof:lastmodified":1690870308,
     "wof:name":"Semice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",

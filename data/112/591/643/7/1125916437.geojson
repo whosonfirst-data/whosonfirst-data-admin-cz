@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Holot\u00edn"
+    ],
     "name:ces_x_preferred":[
         "Holot\u00edn"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0442\u0438\u043d"
     ],
     "name:deu_x_preferred":[
         "Holot\u00edn"
@@ -40,10 +46,16 @@
     "name:fra_x_preferred":[
         "Holot\u00edn"
     ],
+    "name:gle_x_preferred":[
+        "Holot\u00edn"
+    ],
     "name:hun_x_preferred":[
         "Holot\u00edn"
     ],
     "name:ita_x_preferred":[
+        "Holot\u00edn"
+    ],
+    "name:lmo_x_preferred":[
         "Holot\u00edn"
     ],
     "name:msa_x_preferred":[
@@ -69,6 +81,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u043b\u043e\u0442\u0438\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0442\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0442\u0438\u043d"
     ],
     "name:vie_x_preferred":[
         "Holot\u00edn"
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":1125916437,
-    "wof:lastmodified":1566711013,
+    "wof:lastmodified":1690870541,
     "wof:name":"Holot\u00edn",
     "wof:parent_id":85682443,
     "wof:placetype":"locality",

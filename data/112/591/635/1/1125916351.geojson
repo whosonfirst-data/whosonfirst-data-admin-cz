@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hlubo\u010dec"
+    ],
     "name:ceb_x_preferred":[
         "Hlubo\u010dec"
     ],
     "name:ces_x_preferred":[
         "Hlubo\u010dec"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043b\u0443\u0431\u043e\u0447\u0435\u0446"
     ],
     "name:deu_x_preferred":[
         "Tiefengrund"
@@ -46,10 +52,16 @@
     "name:fra_x_preferred":[
         "Hlubo\u010dec"
     ],
+    "name:gle_x_preferred":[
+        "Hlubo\u010dec"
+    ],
     "name:hun_x_preferred":[
         "Hlubo\u010dec"
     ],
     "name:ita_x_preferred":[
+        "Hlubo\u010dec"
+    ],
+    "name:lmo_x_preferred":[
         "Hlubo\u010dec"
     ],
     "name:msa_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Hlubo\u010dec"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043b\u0443\u0431\u043e\u0447\u0435\u0446"
     ],
     "name:vie_x_preferred":[
         "Hlubo\u010dec"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125916351,
-    "wof:lastmodified":1566711020,
+    "wof:lastmodified":1690870561,
     "wof:name":"Hlubo\u010dec",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",
