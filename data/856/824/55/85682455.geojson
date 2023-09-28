@@ -380,12 +380,18 @@
         "gn:id":3339542,
         "gp:id":20070470,
         "hasc:id":"CZ.OK",
+        "iso:code":"CZ-OL",
         "iso:id":"CZ-OL",
+        "qs:local_id":"71",
         "unlc:id":"CZ-OL",
         "wd:id":"Q193307"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"13b5991f6566d20b4357022f670b529b",
+    "wof:geomhash":"c7fc9f52ff584d35326cfe8e8fa0a365",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -400,7 +406,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869329,
+    "wof:lastmodified":1695885201,
     "wof:name":"Olomouck\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

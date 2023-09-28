@@ -388,12 +388,18 @@
         "gn:id":3339536,
         "gp:id":20070503,
         "hasc:id":"CZ.BK",
+        "iso:code":"CZ-JM",
         "iso:id":"CZ-JM",
+        "qs:local_id":"64",
         "unlc:id":"CZ-JM",
         "wd:id":"Q192697"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"5c5c1026a582cef08e9180afccf419d9",
+    "wof:geomhash":"4f9f8cf2adcb17207e1af319846876f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -408,7 +414,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869329,
+    "wof:lastmodified":1695885200,
     "wof:name":"Jihomoravsk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

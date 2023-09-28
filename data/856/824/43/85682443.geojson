@@ -377,12 +377,18 @@
         "gn:id":3339574,
         "gp:id":20070465,
         "hasc:id":"CZ.EK",
+        "iso:code":"CZ-PA",
         "iso:id":"CZ-PA",
+        "qs:local_id":"53",
         "unlc:id":"CZ-PA",
         "wd:id":"Q193317"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"a0f69b56f9be419a96805e2abb317f45",
+    "wof:geomhash":"c5ba517e0edf810d08126e3199638507",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -397,7 +403,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869328,
+    "wof:lastmodified":1695885201,
     "wof:name":"Pardubick\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

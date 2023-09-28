@@ -380,12 +380,18 @@
         "gn:id":3339578,
         "gp:id":20070469,
         "hasc:id":"CZ.ZK",
+        "iso:code":"CZ-ZL",
         "iso:id":"CZ-ZL",
+        "qs:local_id":"72",
         "unlc:id":"CZ-ZL",
         "wd:id":"Q192536"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"78df37dfc87b36a3ce8f874dd1d11fe3",
+    "wof:geomhash":"43994fcc731086b9b7ef9c124ae889da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -400,7 +406,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869327,
+    "wof:lastmodified":1695885200,
     "wof:name":"Zl\u00ednsk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

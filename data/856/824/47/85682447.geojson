@@ -355,12 +355,18 @@
         "gn:id":3339539,
         "gp:id":20070500,
         "hasc:id":"CZ.KK",
+        "iso:code":"CZ-KA",
         "iso:id":"CZ-KA",
+        "qs:local_id":"41",
         "unlc:id":"CZ-KA",
         "wd:id":"Q191091"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"9583dabf427fe7a8a80cdcccd70c48ba",
+    "wof:geomhash":"d09ad3dd0749e972da124b7045e55e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -375,7 +381,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869330,
+    "wof:lastmodified":1695885201,
     "wof:name":"Karlovarsk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

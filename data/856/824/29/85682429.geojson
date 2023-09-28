@@ -392,12 +392,18 @@
         "gn:id":3339538,
         "gp:id":20070467,
         "hasc:id":"CZ.JK",
+        "iso:code":"CZ-VY",
         "iso:id":"CZ-VY",
+        "qs:local_id":"63",
         "unlc:id":"CZ-VY",
         "wd:id":"Q190930"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"bf229280ac6214681b2b2c151d5e4872",
+    "wof:geomhash":"dfbc0a38149b0acd06d53dfdf446456b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -412,7 +418,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869326,
+    "wof:lastmodified":1695885200,
     "wof:name":"Vyso\u010dina",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

@@ -401,11 +401,17 @@
         "gn:id":3339576,
         "gp:id":20070468,
         "hasc:id":"CZ.SK",
+        "iso:code":"CZ-ST",
         "iso:id":"CZ-ST",
+        "qs:local_id":"20",
         "wd:id":"Q188399"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"76baa95bb1368ac081eff0435826a69e",
+    "wof:geomhash":"7d80ed1c763aaf17281d55e96417a0b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -420,7 +426,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869325,
+    "wof:lastmodified":1695885201,
     "wof:name":"St\u0159edo\u010desk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",
