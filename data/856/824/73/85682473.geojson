@@ -368,12 +368,18 @@
         "gn:id":3339541,
         "gp:id":20070498,
         "hasc:id":"CZ.LK",
+        "iso:code":"CZ-LI",
         "iso:id":"CZ-LI",
+        "qs:local_id":"51",
         "unlc:id":"CZ-LI",
         "wd:id":"Q193266"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"a54ece428da3aa14d3bb68d57d339361",
+    "wof:geomhash":"92efccb5db9e280e3e10a03b953014f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -388,7 +394,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869327,
+    "wof:lastmodified":1695885202,
     "wof:name":"Libereck\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

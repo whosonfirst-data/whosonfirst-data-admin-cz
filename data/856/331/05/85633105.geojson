@@ -1586,6 +1586,7 @@
         "hasc:id":"CZ",
         "icao:code":"OK",
         "ioc:id":"CZE",
+        "iso:code":"CZ",
         "itu:id":"CZE",
         "loc:id":"n90718759",
         "m49:code":"203",
@@ -1600,6 +1601,7 @@
         "wk:page":"Czech Republic",
         "wmo:id":"CZ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CZ",
     "wof:country_alpha3":"CZE",
     "wof:geom_alt":[
@@ -1621,7 +1623,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1694492248,
+    "wof:lastmodified":1695881361,
     "wof:name":"Czech Republic",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

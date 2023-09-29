@@ -367,12 +367,18 @@
         "gn:id":3339577,
         "gp:id":20070499,
         "hasc:id":"CZ.UK",
+        "iso:code":"CZ-US",
         "iso:id":"CZ-US",
+        "qs:local_id":"42",
         "unlc:id":"CZ-US",
         "wd:id":"Q192702"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"a7ee73bab535460e166be066890063db",
+    "wof:geomhash":"4056fab76e864b179e647b33a09fc4e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -387,7 +393,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869325,
+    "wof:lastmodified":1695885201,
     "wof:name":"\u00dasteck\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

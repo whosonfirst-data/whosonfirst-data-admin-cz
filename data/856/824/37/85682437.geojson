@@ -826,12 +826,18 @@
         "gn:id":3067695,
         "gp:id":20070472,
         "hasc:id":"CZ.PM",
+        "iso:code":"CZ-PR",
         "iso:id":"CZ-PR",
+        "qs:local_id":"10",
         "unlc:id":"CZ-PR",
         "wd:id":"Q1085"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"cef371ad77a3be15cea2a6188e1530b3",
+    "wof:geomhash":"9be2dc83ee3ecdfeea36247846c85c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -846,7 +852,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869329,
+    "wof:lastmodified":1695885201,
     "wof:name":"Hlavn\u00ed m\u011bsto Praha",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

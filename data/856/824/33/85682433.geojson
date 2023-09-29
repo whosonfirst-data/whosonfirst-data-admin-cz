@@ -382,11 +382,17 @@
         "gn:id":3339575,
         "gp:id":20070501,
         "hasc:id":"CZ.PK",
+        "iso:code":"CZ-PL",
         "iso:id":"CZ-PL",
+        "qs:local_id":"32",
         "wd:id":"Q46070"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"08dd48417a8da9b0eebc02bfef4e8b33",
+    "wof:geomhash":"a312426f28dd71aaf52626e28ef15541",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -401,7 +407,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869326,
+    "wof:lastmodified":1695885201,
     "wof:name":"Plze\u0148sk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

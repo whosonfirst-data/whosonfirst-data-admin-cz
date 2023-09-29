@@ -395,12 +395,18 @@
         "gn:id":3339573,
         "gp:id":20070471,
         "hasc:id":"CZ.VK",
+        "iso:code":"CZ-MO",
         "iso:id":"CZ-MO",
+        "qs:local_id":"80",
         "unlc:id":"CZ-MO",
         "wd:id":"Q190550"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"bd968cffcf9f47ae3bbc2109a7dc8ac3",
+    "wof:geomhash":"aba1ec29618edef0a832f4ee254478af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -415,7 +421,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869326,
+    "wof:lastmodified":1695885201,
     "wof:name":"Moravskoslezsk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",

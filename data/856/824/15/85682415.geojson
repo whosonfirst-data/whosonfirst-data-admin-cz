@@ -393,11 +393,17 @@
         "gn:id":3339537,
         "gp:id":20070502,
         "hasc:id":"CZ.CK",
+        "iso:code":"CZ-JC",
         "iso:id":"CZ-JC",
+        "qs:local_id":"31",
         "wd:id":"Q188373"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CZ",
-    "wof:geomhash":"a6909e2b0b8095cfa2f4f05a947aac98",
+    "wof:geomhash":"240cd4f27a9f1e65e47255eae11c2f08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -412,7 +418,7 @@
     "wof:lang_x_spoken":[
         "ces"
     ],
-    "wof:lastmodified":1690869330,
+    "wof:lastmodified":1695885200,
     "wof:name":"Jiho\u010desk\u00fd",
     "wof:parent_id":85633105,
     "wof:placetype":"region",
