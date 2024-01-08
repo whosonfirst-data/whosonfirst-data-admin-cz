@@ -6,15 +6,15 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
     "geom:area_square_m":153291.628047,
-    "geom:bbox":"14.3920898437,50.1346642574,14.3975830078,50.1381852304",
-    "geom:latitude":50.136425,
-    "geom:longitude":14.394836,
+    "geom:bbox":"14.39209,50.134664,14.397583,50.138185",
+    "geom:latitude":50.136424,
+    "geom:longitude":14.394837,
     "gn:latitude":50.12988,
     "gn:longitude":14.39823,
     "gn:population":178,
     "iso:country":"CZ",
-    "lbl:latitude":50.130263,
-    "lbl:longitude":14.390259,
+    "lbl:latitude":50.136425,
+    "lbl:longitude":14.394837,
     "lbl:max_zoom":18.0,
     "mps:latitude":50.136425,
     "mps:longitude":14.394837,
@@ -77,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633105,
@@ -94,7 +94,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f0f5b7bd487839ffe8359f6c8499fcc7",
+    "wof:geomhash":"e87218ce84924f9f94025096c535c82e",
     "wof:hierarchy":[
         {
             "country_id":85633105,
@@ -106,7 +106,7 @@
     "wof:lang":[
         "cze"
     ],
-    "wof:lastmodified":1582312344,
+    "wof:lastmodified":1694320311,
     "wof:name":"Sedlec",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -118,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.39208984370009,
-    50.13466425740044,
-    14.39758300780011,
-    50.1381852304
+    14.39209,
+    50.134664,
+    14.397583,
+    50.138185
 ],
-  "geometry": {"coordinates":[[[14.39758300780011,50.13466425740044],[14.39208984372505,50.13466425740044],[14.39208984371254,50.13466432219998],[14.39208984371669,50.13818516565037],[14.39208984370009,50.1381852304],[14.39758300780005,50.1381852304],[14.39758300780011,50.13818516565037],[14.39758300780005,50.13466432219998],[14.39758300780011,50.13466425740044]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[14.397583,50.134664],[14.39209,50.134664],[14.39209,50.134664],[14.39209,50.138185],[14.39209,50.138185],[14.397583,50.138185],[14.397583,50.138185],[14.397583,50.134664],[14.397583,50.134664]]],"type":"Polygon"}
 }
