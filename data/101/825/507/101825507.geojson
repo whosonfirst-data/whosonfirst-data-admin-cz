@@ -9,8 +9,22 @@
     "geom:bbox":"18.145404,49.906458,18.16125,49.918658",
     "geom:latitude":49.913143,
     "geom:longitude":18.153077,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0805",
+    "gn:asciiname":"Kozmice",
+    "gn:country_code":"CZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073000,
+    "gn:latitude":49.9128,
+    "gn:longitude":18.15584,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Kozmice",
     "gn:population":1808,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"18.13584,49.8928,18.17584,49.9328",
     "lbl:latitude":49.91351,
     "lbl:longitude":18.154662,
     "lbl:max_zoom":16.0,
@@ -133,7 +147,15 @@
         "wk:page":"Kozmice (Opava District)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":398838
+        "gn:id":[
+            3073000
+        ],
+        "qs_pg:id":[
+            398838
+        ],
+        "wk:page":[
+            "Kozmice_%28Opava_District%29"
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -149,7 +171,7 @@
         }
     ],
     "wof:id":101825507,
-    "wof:lastmodified":1690869596,
+    "wof:lastmodified":1706239491,
     "wof:name":"Kozmice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",
@@ -157,7 +179,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310440087
+    ],
     "wof:tags":[]
 },
   "bbox": [

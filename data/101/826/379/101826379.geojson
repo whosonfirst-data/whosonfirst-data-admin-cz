@@ -9,8 +9,22 @@
     "geom:bbox":"16.613539,49.430593,16.639644,49.441982",
     "geom:latitude":49.437586,
     "geom:longitude":16.628706,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0621",
+    "gn:asciiname":"Doubravice nad Svitavou",
+    "gn:country_code":"CZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076531,
+    "gn:latitude":49.43664,
+    "gn:longitude":16.62937,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Doubravice nad Svitavou",
     "gn:population":1222,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.60937,49.41664,16.64937,49.45664",
     "lbl:latitude":49.437844,
     "lbl:longitude":16.629992,
     "lbl:max_zoom":16.0,
@@ -131,7 +145,15 @@
         "wk:page":"Doubravice nad Svitavou"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":398005
+        "gn:id":[
+            3076531
+        ],
+        "qs_pg:id":[
+            398005
+        ],
+        "wk:page":[
+            "Doubravice_nad_Svitavou"
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -147,7 +169,7 @@
         }
     ],
     "wof:id":101826379,
-    "wof:lastmodified":1690869369,
+    "wof:lastmodified":1706239491,
     "wof:name":"Doubravice nad Svitavou",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",
@@ -155,7 +177,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260217839
+    ],
     "wof:tags":[]
 },
   "bbox": [

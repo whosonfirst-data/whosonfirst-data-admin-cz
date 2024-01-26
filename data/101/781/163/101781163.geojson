@@ -9,8 +9,22 @@
     "geom:bbox":"17.475398,48.911189,17.501204,48.918453",
     "geom:latitude":48.915176,
     "geom:longitude":17.487975,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0625",
+    "gn:asciiname":"Louka",
+    "gn:country_code":"CZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3071529,
+    "gn:latitude":48.91517,
+    "gn:longitude":17.48927,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Louka",
     "gn:population":1045,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.46927,48.89517,17.50927,48.93517",
     "lbl:latitude":48.916065,
     "lbl:longitude":17.48602,
     "lbl:max_zoom":16.0,
@@ -101,6 +115,9 @@
     "name:tat_x_preferred":[
         "\u041b\u043e\u0443\u043a\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0443\u043a\u0430"
+    ],
     "name:vie_x_preferred":[
         "Louka"
     ],
@@ -136,7 +153,12 @@
         "wd:id":"Q2405777"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1266909
+        "gn:id":[
+            3071529
+        ],
+        "qs_pg:id":[
+            1266909
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -152,7 +174,7 @@
         }
     ],
     "wof:id":101781163,
-    "wof:lastmodified":1690869662,
+    "wof:lastmodified":1706239490,
     "wof:name":"Louka",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",
@@ -160,7 +182,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343792967
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,22 @@
     "geom:bbox":"17.369426,49.460383,17.400598,49.468151",
     "geom:latitude":49.464685,
     "geom:longitude":17.384468,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0714",
+    "gn:asciiname":"Rokytnice",
+    "gn:country_code":"CZ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066786,
+    "gn:latitude":49.46592,
+    "gn:longitude":17.3912,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Rokytnice",
     "gn:population":1422,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.3712,49.44592,17.4112,49.48592",
     "lbl:latitude":49.465046,
     "lbl:longitude":17.379273,
     "lbl:max_zoom":16.0,
@@ -133,10 +147,16 @@
         "gn:id":3066788,
         "gp:id":797422,
         "qs_pg:id":183264,
-        "wd:id":"Q597389"
+        "wd:id":"Q597389",
+        "wk:page":"Rokytnice_%28P%C5%99erov_District%29"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":358171
+        "gn:id":[
+            3066786
+        ],
+        "qs_pg:id":[
+            358171
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -152,7 +172,7 @@
         }
     ],
     "wof:id":101826595,
-    "wof:lastmodified":1690869354,
+    "wof:lastmodified":1706239492,
     "wof:name":"Rokytnice",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",
@@ -160,7 +180,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326779103
+    ],
     "wof:tags":[]
 },
   "bbox": [

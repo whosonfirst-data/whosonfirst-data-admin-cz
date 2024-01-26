@@ -9,8 +9,22 @@
     "geom:bbox":"15.104159,50.579392,15.141736,50.603123",
     "geom:latitude":50.590943,
     "geom:longitude":15.124373,
+    "gn:admin1_code":"83.0",
+    "gn:admin2_code":"0514",
+    "gn:asciiname":"Ohrazenice",
+    "gn:country_code":"CZ",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3069118,
+    "gn:latitude":50.59765,
+    "gn:longitude":15.12596,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Ohrazenice",
     "gn:population":1055,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"15.10596,50.57765,15.14596,50.61765",
     "lbl:latitude":50.58942,
     "lbl:longitude":15.132487,
     "lbl:max_zoom":16.0,
@@ -34,6 +48,9 @@
     ],
     "name:che_x_preferred":[
         "\u041e\u0433\u0440\u0430\u0437\u0435\u043d\u0438\u0446\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Ohrazenice"
     ],
     "name:eng_x_preferred":[
         "Ohrazenice"
@@ -133,7 +150,15 @@
         "wk:page":"Ohrazenice (Semily District)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1267390
+        "gn:id":[
+            3069118
+        ],
+        "qs_pg:id":[
+            1267390
+        ],
+        "wk:page":[
+            "Ohrazenice"
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -149,7 +174,7 @@
         }
     ],
     "wof:id":101839825,
-    "wof:lastmodified":1690869645,
+    "wof:lastmodified":1706239492,
     "wof:name":"Ohrazenice",
     "wof:parent_id":85682473,
     "wof:placetype":"locality",
@@ -157,7 +182,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360015887
+    ],
     "wof:tags":[]
 },
   "bbox": [

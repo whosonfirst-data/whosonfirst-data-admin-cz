@@ -9,8 +9,22 @@
     "geom:bbox":"14.57717,49.893064,14.601138,49.923063",
     "geom:latitude":49.908703,
     "geom:longitude":14.586312,
+    "gn:admin1_code":"88.0",
+    "gn:admin2_code":"0209",
+    "gn:asciiname":"Kamenice",
+    "gn:country_code":"CZ",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3073944,
+    "gn:latitude":49.90151,
+    "gn:longitude":14.58242,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Kamenice",
     "gn:population":3011,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.56242,49.88151,14.60242,49.92151",
     "lbl:latitude":49.907364,
     "lbl:longitude":14.586493,
     "lbl:max_zoom":15.0,
@@ -145,10 +159,16 @@
         "gn:id":3073947,
         "gp:id":791023,
         "qs_pg:id":145427,
-        "wd:id":"Q2668551"
+        "wd:id":"Q2668551",
+        "wk:page":"Kamenice_%28Prague-East_District%29"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":381874
+        "gn:id":[
+            3073944
+        ],
+        "qs_pg:id":[
+            381874
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -164,7 +184,7 @@
         }
     ],
     "wof:id":101825677,
-    "wof:lastmodified":1690869609,
+    "wof:lastmodified":1706239491,
     "wof:name":"Kamenice",
     "wof:parent_id":85682461,
     "wof:placetype":"locality",
@@ -172,7 +192,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209136589
+    ],
     "wof:tags":[]
 },
   "bbox": [

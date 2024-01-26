@@ -9,8 +9,23 @@
     "geom:bbox":"16.909707,49.93079,16.93369,49.954896",
     "geom:latitude":49.943343,
     "geom:longitude":16.923896,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0715",
+    "gn:asciiname":"Bludov",
+    "gn:cc2":"CZ",
+    "gn:country_code":"CZ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079196,
+    "gn:latitude":49.9415,
+    "gn:longitude":16.93062,
+    "gn:modification_date":"2017-02-10",
+    "gn:name":"Bludov",
     "gn:population":3155,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.91062,49.9215,16.95062,49.9615",
     "lbl:latitude":49.943781,
     "lbl:longitude":16.924078,
     "lbl:max_zoom":15.0,
@@ -83,6 +98,9 @@
     "name:rup_x_preferred":[
         "Bludov"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0443\u0434\u043e\u0432"
+    ],
     "name:slk_x_preferred":[
         "Bludov"
     ],
@@ -96,6 +114,9 @@
         "Bludov"
     ],
     "name:tat_x_preferred":[
+        "\u0411\u043b\u0443\u0434\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u043b\u0443\u0434\u043e\u0432"
     ],
     "name:und_x_variant":[
@@ -135,6 +156,11 @@
         "wd:id":"Q885546",
         "wk:page":"Bludov (\u0160umperk District)"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3079196
+        ]
+    },
     "wof:country":"CZ",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -149,7 +175,7 @@
         }
     ],
     "wof:id":101825601,
-    "wof:lastmodified":1690869614,
+    "wof:lastmodified":1706239491,
     "wof:name":"Bludov",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",
@@ -157,7 +183,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343603733
+    ],
     "wof:tags":[]
 },
   "bbox": [
