@@ -9,7 +9,22 @@
     "geom:bbox":"18.395721,49.649623,18.420043,49.659473",
     "geom:latitude":49.654416,
     "geom:longitude":18.405406,
+    "gn:admin1_code":"85.0",
+    "gn:admin2_code":"0802",
+    "gn:asciiname":"Skalice",
+    "gn:country_code":"CZ",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066078,
+    "gn:latitude":49.65321,
+    "gn:longitude":18.40501,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Skalice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"18.38501,49.63321,18.42501,49.67321",
     "lbl:latitude":49.65588,
     "lbl:longitude":18.401537,
     "lbl:max_zoom":18.0,
@@ -19,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Skalice"
+    ],
     "name:ces_x_preferred":[
         "Skalice"
     ],
@@ -55,6 +73,9 @@
     "name:srp_x_preferred":[
         "\u0421\u043a\u0430\u043b\u0438\u0446\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Skalice"
+    ],
     "qs:a0":"Cesk\u00e1 republika",
     "qs:a1":"*Moravskoslezsk\u00fd",
     "qs:a1r":"0",
@@ -86,7 +107,12 @@
         "wd:id":"Q9337528"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1159074
+        "gn:id":[
+            3066078
+        ],
+        "qs_pg:id":[
+            1159074
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -102,13 +128,15 @@
         }
     ],
     "wof:id":101825435,
-    "wof:lastmodified":1690869617,
+    "wof:lastmodified":1706239491,
     "wof:name":"Skalice",
     "wof:parent_id":85682451,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292935393
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,22 @@
     "geom:bbox":"17.198794,49.626656,17.225525,49.644818",
     "geom:latitude":49.637778,
     "geom:longitude":17.209843,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Horka nad Moravou",
+    "gn:country_code":"CZ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3075471,
+    "gn:latitude":49.64009,
+    "gn:longitude":17.2107,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Horka nad Moravou",
     "gn:population":2101,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.1907,49.62009,17.2307,49.66009",
     "lbl:latitude":49.638849,
     "lbl:longitude":17.207818,
     "lbl:max_zoom":15.0,
@@ -146,7 +160,15 @@
         "wk:page":"Horka nad Moravou"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1043063
+        "gn:id":[
+            3075471
+        ],
+        "qs_pg:id":[
+            1043063
+        ],
+        "wk:page":[
+            "Horka_nad_Moravou"
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -162,7 +184,7 @@
         }
     ],
     "wof:id":101826559,
-    "wof:lastmodified":1690869354,
+    "wof:lastmodified":1706239492,
     "wof:name":"Horka nad Moravou",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",
@@ -170,7 +192,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209143985
+    ],
     "wof:tags":[]
 },
   "bbox": [

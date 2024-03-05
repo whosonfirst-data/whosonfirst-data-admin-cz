@@ -9,8 +9,22 @@
     "geom:bbox":"17.406835,49.562467,17.421149,49.573908",
     "geom:latitude":49.56865,
     "geom:longitude":17.413039,
+    "gn:admin1_code":"84.0",
+    "gn:admin2_code":"0712",
+    "gn:asciiname":"Doloplazy",
+    "gn:country_code":"CZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3076615,
+    "gn:latitude":49.56876,
+    "gn:longitude":17.41393,
+    "gn:modification_date":"2017-01-31",
+    "gn:name":"Doloplazy",
     "gn:population":1235,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.39393,49.54876,17.43393,49.58876",
     "lbl:latitude":49.56542,
     "lbl:longitude":17.413147,
     "lbl:max_zoom":16.0,
@@ -133,7 +147,15 @@
         "wk:page":"Doloplazy (Olomouc District)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1265798
+        "gn:id":[
+            3076615
+        ],
+        "qs_pg:id":[
+            1265798
+        ],
+        "wk:page":[
+            "Doloplazy_%28Olomouc_District%29"
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -149,7 +171,7 @@
         }
     ],
     "wof:id":101827425,
-    "wof:lastmodified":1690869347,
+    "wof:lastmodified":1706239492,
     "wof:name":"Doloplazy",
     "wof:parent_id":85682455,
     "wof:placetype":"locality",
@@ -157,7 +179,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293432173
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,22 @@
     "geom:bbox":"17.930403,49.108872,17.946906,49.131282",
     "geom:latitude":49.121875,
     "geom:longitude":17.939513,
+    "gn:admin1_code":"90",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Vlachovice",
+    "gn:country_code":"CZ",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3062777,
+    "gn:latitude":49.12377,
+    "gn:longitude":17.94001,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Vlachovice",
     "gn:population":1532,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.92001,49.10377,17.96001,49.14377",
     "lbl:latitude":49.126238,
     "lbl:longitude":17.939388,
     "lbl:max_zoom":16.0,
@@ -145,7 +159,15 @@
         "wk:page":"Vlachovice (Zl\u00edn District)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1268729
+        "gn:id":[
+            3062777
+        ],
+        "qs_pg:id":[
+            1268729
+        ],
+        "wk:page":[
+            "Vlachovice_%28Zl%C3%ADn_District%29"
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -161,7 +183,7 @@
         }
     ],
     "wof:id":101779827,
-    "wof:lastmodified":1690869425,
+    "wof:lastmodified":1706239490,
     "wof:name":"Vlachovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",
@@ -169,7 +191,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243101325
+    ],
     "wof:tags":[]
 },
   "bbox": [

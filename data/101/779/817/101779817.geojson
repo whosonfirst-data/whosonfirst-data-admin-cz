@@ -9,8 +9,22 @@
     "geom:bbox":"17.831358,49.289342,17.856918,49.303159",
     "geom:latitude":49.297446,
     "geom:longitude":17.843316,
+    "gn:admin1_code":"90",
+    "gn:admin2_code":"0724",
+    "gn:asciiname":"Trnava",
+    "gn:country_code":"CZ",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3063984,
+    "gn:latitude":49.29603,
+    "gn:longitude":17.84191,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Trnava",
     "gn:population":1118,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.82191,49.27603,17.86191,49.31603",
     "lbl:latitude":49.296047,
     "lbl:longitude":17.842057,
     "lbl:max_zoom":16.0,
@@ -136,7 +150,15 @@
         "wk:page":"Trnava (Zl\u00edn District)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1072261
+        "gn:id":[
+            3063984
+        ],
+        "qs_pg:id":[
+            1072261
+        ],
+        "wk:page":[
+            "Trnava_%28Zl%C3%ADn_District%29"
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -152,7 +174,7 @@
         }
     ],
     "wof:id":101779817,
-    "wof:lastmodified":1690869427,
+    "wof:lastmodified":1706239489,
     "wof:name":"Trnava",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",
@@ -160,7 +182,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209945921
+    ],
     "wof:tags":[]
 },
   "bbox": [

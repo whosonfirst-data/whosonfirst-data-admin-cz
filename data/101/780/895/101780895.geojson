@@ -9,8 +9,22 @@
     "geom:bbox":"14.488699,49.014002,14.503165,49.031733",
     "geom:latitude":49.02248,
     "geom:longitude":14.497918,
+    "gn:admin1_code":"79.0",
+    "gn:admin2_code":"0311",
+    "gn:asciiname":"Borek",
+    "gn:country_code":"CZ",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3079023,
+    "gn:latitude":49.02339,
+    "gn:longitude":14.50088,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Borek",
     "gn:population":1157,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"14.48088,49.00339,14.52088,49.04339",
     "lbl:latitude":49.023384,
     "lbl:longitude":14.499836,
     "lbl:max_zoom":16.0,
@@ -104,6 +118,9 @@
     "name:tat_x_preferred":[
         "\u0411\u043e\u0440\u0435\u043a"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u0435\u043a"
+    ],
     "name:vie_x_preferred":[
         "Borek"
     ],
@@ -139,7 +156,12 @@
         "wd:id":"Q893488"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":956242
+        "gn:id":[
+            3079023
+        ],
+        "qs_pg:id":[
+            956242
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -155,7 +177,7 @@
         }
     ],
     "wof:id":101780895,
-    "wof:lastmodified":1690869680,
+    "wof:lastmodified":1706239490,
     "wof:name":"Borek",
     "wof:parent_id":85682415,
     "wof:placetype":"locality",
@@ -163,7 +185,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327367873
+    ],
     "wof:tags":[]
 },
   "bbox": [

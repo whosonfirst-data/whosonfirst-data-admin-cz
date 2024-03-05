@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"18.48018,49.85873,18.48018,49.85873",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Da\u0105browa",
@@ -53,14 +55,16 @@
         }
     ],
     "wof:id":1209448715,
-    "wof:lastmodified":1566710420,
+    "wof:lastmodified":1706239491,
     "wof:name":"Doubrava",
     "wof:parent_id":85633105,
     "wof:placetype":"locality",
     "wof:population":1744,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101825471
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

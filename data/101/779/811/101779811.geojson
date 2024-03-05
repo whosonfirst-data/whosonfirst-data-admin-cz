@@ -9,7 +9,22 @@
     "geom:bbox":"17.196737,49.238854,17.232692,49.255469",
     "geom:latitude":49.24589,
     "geom:longitude":17.211714,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0721",
+    "gn:asciiname":"Morkovice",
+    "gn:country_code":"CZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070298,
+    "gn:latitude":49.25,
+    "gn:longitude":17.21667,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Morkovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.19667,49.23,17.23667,49.27",
     "lbl:latitude":49.247772,
     "lbl:longitude":17.209943,
     "lbl:max_zoom":18.0,
@@ -100,6 +115,10 @@
     "name:tat_x_preferred":[
         "\u041c\u043e\u0440\u043a\u043e\u0432\u0438\u0442\u0441\u0435-\u0421\u043b\u0438\u0436\u0430\u043d\u0438"
     ],
+    "name:und_x_variant":[
+        "Morkowitz",
+        "Morkovice"
+    ],
     "name:vie_x_preferred":[
         "Morkovice-Sl\u00ed\u017eany"
     ],
@@ -131,6 +150,11 @@
         "wd:id":"Q1948234",
         "wk:page":"Morkovice-Sl\u00ed\u017eany"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3070298
+        ]
+    },
     "wof:country":"CZ",
     "wof:geomhash":"8ff61960c58b4ca45368689ddc3fea07",
     "wof:hierarchy":[
@@ -142,13 +166,15 @@
         }
     ],
     "wof:id":101779811,
-    "wof:lastmodified":1690869426,
+    "wof:lastmodified":1706239489,
     "wof:name":"Morkovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193052979
+    ],
     "wof:tags":[]
 },
   "bbox": [

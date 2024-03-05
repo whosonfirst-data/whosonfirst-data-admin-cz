@@ -9,8 +9,22 @@
     "geom:bbox":"17.52208,49.048421,17.536247,49.057178",
     "geom:latitude":49.053214,
     "geom:longitude":17.52819,
+    "gn:admin1_code":"90.0",
+    "gn:admin2_code":"0722",
+    "gn:asciiname":"Popovice",
+    "gn:country_code":"CZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3067816,
+    "gn:latitude":49.05255,
+    "gn:longitude":17.52712,
+    "gn:modification_date":"2015-04-23",
+    "gn:name":"Popovice",
     "gn:population":1091,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"17.50712,49.03255,17.54712,49.07255",
     "lbl:latitude":49.05256,
     "lbl:longitude":17.525721,
     "lbl:max_zoom":16.0,
@@ -137,7 +151,15 @@
         "wk:page":"Popovice (Uhersk\u00e9 Hradi\u0161t\u011b District)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":868997
+        "gn:id":[
+            3067816
+        ],
+        "qs_pg:id":[
+            868997
+        ],
+        "wk:page":[
+            "Popovice_%28Uhersk%C3%A9_Hradi%C5%A1t%C4%9B_District%29"
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -153,7 +175,7 @@
         }
     ],
     "wof:id":101779885,
-    "wof:lastmodified":1690869444,
+    "wof:lastmodified":1706239490,
     "wof:name":"Popovice",
     "wof:parent_id":85682419,
     "wof:placetype":"locality",
@@ -161,7 +183,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209550335
+    ],
     "wof:tags":[]
 },
   "bbox": [

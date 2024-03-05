@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"17.48927,48.91517,17.48927,48.91517",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Louka"
@@ -82,14 +84,16 @@
         }
     ],
     "wof:id":1343792967,
-    "wof:lastmodified":1566710128,
+    "wof:lastmodified":1706239490,
     "wof:name":"Louka",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",
     "wof:population":1045,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101781163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

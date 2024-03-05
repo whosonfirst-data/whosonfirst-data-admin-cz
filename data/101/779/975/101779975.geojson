@@ -9,8 +9,22 @@
     "geom:bbox":"16.569046,49.141105,16.594471,49.151366",
     "geom:latitude":49.146252,
     "geom:longitude":16.579879,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"0623",
+    "gn:asciiname":"Moravany",
+    "gn:country_code":"CZ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3070356,
+    "gn:latitude":49.1478,
+    "gn:longitude":16.58026,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Moravany",
     "gn:population":1286,
+    "gn:timezone":"Europe/Prague",
     "iso:country":"CZ",
+    "lbl:bbox":"16.56026,49.1278,16.60026,49.1678",
     "lbl:latitude":49.146567,
     "lbl:longitude":16.578627,
     "lbl:max_zoom":16.0,
@@ -133,7 +147,15 @@
         "wk:page":"Moravany (Brno-Country District)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":506696
+        "gn:id":[
+            3070356
+        ],
+        "qs_pg:id":[
+            506696
+        ],
+        "wk:page":[
+            "Moravany_%28Brno-Country_District%29"
+        ]
     },
     "wof:country":"CZ",
     "wof:geom_alt":[
@@ -149,7 +171,7 @@
         }
     ],
     "wof:id":101779975,
-    "wof:lastmodified":1690869453,
+    "wof:lastmodified":1706239490,
     "wof:name":"Moravany",
     "wof:parent_id":85682423,
     "wof:placetype":"locality",
@@ -157,7 +179,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276265861
+    ],
     "wof:tags":[]
 },
   "bbox": [
