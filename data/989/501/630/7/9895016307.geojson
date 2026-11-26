@@ -1,0 +1,73 @@
+{
+  "id": 9895016307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37144,49.97987,17.37144,49.97987",
+    "geom:latitude":49.97987,
+    "geom:longitude":17.37144,
+    "gn:population":489,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562349: name \"V\u00e1clavov u Brunt\u00e1lu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562349"
+        },
+        {
+            "citation":"GeoNames populated place 13562349: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562349"
+        },
+        {
+            "citation":"GeoNames populated place 13562349: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562349"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682451 (Moravskoslezsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682451,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562349
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"dba15cc36c8e9b1d0b59b6cb6d16bac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016307,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":9895016307,
+    "wof:lastmodified":1795735062,
+    "wof:name":"V\u00e1clavov u Brunt\u00e1lu",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37144,
+    49.97987,
+    17.37144,
+    49.97987
+],
+  "geometry": {"coordinates":[17.37144,49.97987],"type":"Point"}
+}

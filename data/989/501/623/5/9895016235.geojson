@@ -1,0 +1,72 @@
+{
+  "id": 9895016235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40822,49.87922,15.40822,49.87922",
+    "geom:latitude":49.87922,
+    "geom:longitude":15.40822,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13117771: name \"Dub\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13117771"
+        },
+        {
+            "citation":"GeoNames populated place 13117771: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13117771"
+        },
+        {
+            "citation":"GeoNames populated place 13117771: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13117771"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682461 (St\u0159edo\u010desk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682461,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13117771
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e364ad15ee15255c3bab44dc0fd8ed6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016235,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":9895016235,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Dub\u00ed",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40822,
+    49.87922,
+    15.40822,
+    49.87922
+],
+  "geometry": {"coordinates":[15.40822,49.87922],"type":"Point"}
+}

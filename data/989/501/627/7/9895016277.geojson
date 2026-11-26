@@ -1,0 +1,72 @@
+{
+  "id": 9895016277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66773,49.6863,16.66773,49.6863",
+    "geom:latitude":49.6863,
+    "geom:longitude":16.66773,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526836: name \"P\u0159edni Arno\u0161tov\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526836"
+        },
+        {
+            "citation":"GeoNames populated place 13526836: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526836"
+        },
+        {
+            "citation":"GeoNames populated place 13526836: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526836"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682443 (Pardubick\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682443,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526836
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"4c4bba7ddb993e1b6611b18c0a94ded7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016277,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":9895016277,
+    "wof:lastmodified":1795735062,
+    "wof:name":"P\u0159edni Arno\u0161tov",
+    "wof:parent_id":85682443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66773,
+    49.6863,
+    16.66773,
+    49.6863
+],
+  "geometry": {"coordinates":[16.66773,49.6863],"type":"Point"}
+}

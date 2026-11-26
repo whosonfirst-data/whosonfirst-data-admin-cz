@@ -1,0 +1,72 @@
+{
+  "id": 9895016254,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09693,50.86746,15.09693,50.86746",
+    "geom:latitude":50.86746,
+    "geom:longitude":15.09693,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494339: name \"Ullersdorf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494339"
+        },
+        {
+            "citation":"GeoNames populated place 13494339: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494339"
+        },
+        {
+            "citation":"GeoNames populated place 13494339: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494339"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682473 (Libereck\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682473,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494339
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3f5d395f6029d30e32ed276c4764c447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016254,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":9895016254,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Ullersdorf",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09693,
+    50.86746,
+    15.09693,
+    50.86746
+],
+  "geometry": {"coordinates":[15.09693,50.86746],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895016194,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28569,49.30144,13.28569,49.30144",
+    "geom:latitude":49.30144,
+    "geom:longitude":13.28569,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11812671: name \"Javo\u0159\u00ed\u010dko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11812671"
+        },
+        {
+            "citation":"GeoNames populated place 11812671: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11812671"
+        },
+        {
+            "citation":"GeoNames populated place 11812671: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11812671"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682433 (Plze\u0148sk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682433,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11812671
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ccb471b2c85a960884df909081d0cbea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016194,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":9895016194,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Javo\u0159\u00ed\u010dko",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28569,
+    49.30144,
+    13.28569,
+    49.30144
+],
+  "geometry": {"coordinates":[13.28569,49.30144],"type":"Point"}
+}

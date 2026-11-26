@@ -1,0 +1,72 @@
+{
+  "id": 9895016282,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26728,49.25151,13.26728,49.25151",
+    "geom:latitude":49.25151,
+    "geom:longitude":13.26728,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526852: name \"Ch\u0159epice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526852"
+        },
+        {
+            "citation":"GeoNames populated place 13526852: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526852"
+        },
+        {
+            "citation":"GeoNames populated place 13526852: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526852"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682433 (Plze\u0148sk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682433,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526852
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ff1b32006f056cdad34b852867c308a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016282,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":9895016282,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Ch\u0159epice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26728,
+    49.25151,
+    13.26728,
+    49.25151
+],
+  "geometry": {"coordinates":[13.26728,49.25151],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895016278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81216,49.76353,17.81216,49.76353",
+    "geom:latitude":49.76353,
+    "geom:longitude":17.81216,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526839: name \"Nov\u00e9 Vrbno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526839"
+        },
+        {
+            "citation":"GeoNames populated place 13526839: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526839"
+        },
+        {
+            "citation":"GeoNames populated place 13526839: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526839"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682451 (Moravskoslezsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682451,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526839
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9797c46388f4ccd7a073f7c6fa4759ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016278,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":9895016278,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Nov\u00e9 Vrbno",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81216,
+    49.76353,
+    17.81216,
+    49.76353
+],
+  "geometry": {"coordinates":[17.81216,49.76353],"type":"Point"}
+}

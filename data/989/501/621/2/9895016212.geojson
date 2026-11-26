@@ -1,0 +1,72 @@
+{
+  "id": 9895016212,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28729,50.01906,17.28729,50.01906",
+    "geom:latitude":50.01906,
+    "geom:longitude":17.28729,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12122814: name \"Karlov pod Prad\u011bdem\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12122814"
+        },
+        {
+            "citation":"GeoNames populated place 12122814: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12122814"
+        },
+        {
+            "citation":"GeoNames populated place 12122814: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12122814"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682451 (Moravskoslezsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682451,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12122814
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c88a1d7e3e13de4c370b8d62f82f0d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016212,
+            "region_id":85682451
+        }
+    ],
+    "wof:id":9895016212,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Karlov pod Prad\u011bdem",
+    "wof:parent_id":85682451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28729,
+    50.01906,
+    17.28729,
+    50.01906
+],
+  "geometry": {"coordinates":[17.28729,50.01906],"type":"Point"}
+}

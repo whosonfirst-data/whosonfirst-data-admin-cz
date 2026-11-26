@@ -1,0 +1,73 @@
+{
+  "id": 9895016349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95192,49.53145,16.95192,49.53145",
+    "geom:latitude":49.53145,
+    "geom:longitude":16.95192,
+    "gn:population":197,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13580284: name \"Ptensk\u00fd Dvorek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13580284"
+        },
+        {
+            "citation":"GeoNames populated place 13580284: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13580284"
+        },
+        {
+            "citation":"GeoNames populated place 13580284: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13580284"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682455 (Olomouck\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682455,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13580284
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1a19df804c4c08117b544958a9059372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016349,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":9895016349,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Ptensk\u00fd Dvorek",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95192,
+    49.53145,
+    16.95192,
+    49.53145
+],
+  "geometry": {"coordinates":[16.95192,49.53145],"type":"Point"}
+}

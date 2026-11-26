@@ -1,0 +1,73 @@
+{
+  "id": 9895016354,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4254,49.24558,17.4254,49.24558",
+    "geom:latitude":49.24558,
+    "geom:longitude":17.4254,
+    "gn:population":448,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13580347: name \"Ba\u0159ice-Velk\u00e9 T\u011b\u0161any\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13580347"
+        },
+        {
+            "citation":"GeoNames populated place 13580347: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13580347"
+        },
+        {
+            "citation":"GeoNames populated place 13580347: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13580347"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682419 (Zl\u00ednsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682419,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13580347
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"7dc3707c85d205f86948f39dce207dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016354,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":9895016354,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Ba\u0159ice-Velk\u00e9 T\u011b\u0161any",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4254,
+    49.24558,
+    17.4254,
+    49.24558
+],
+  "geometry": {"coordinates":[17.4254,49.24558],"type":"Point"}
+}

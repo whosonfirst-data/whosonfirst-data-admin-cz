@@ -1,0 +1,72 @@
+{
+  "id": 9895016265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.37075,50.25009,12.37075,50.25009",
+    "geom:latitude":50.25009,
+    "geom:longitude":12.37075,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526732: name \"V\u00fdspa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526732"
+        },
+        {
+            "citation":"GeoNames populated place 13526732: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526732"
+        },
+        {
+            "citation":"GeoNames populated place 13526732: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526732"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682447 (Karlovarsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682447,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526732
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ab137381a66f8e0cf621f041304871e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016265,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":9895016265,
+    "wof:lastmodified":1795735062,
+    "wof:name":"V\u00fdspa",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.37075,
+    50.25009,
+    12.37075,
+    50.25009
+],
+  "geometry": {"coordinates":[12.37075,50.25009],"type":"Point"}
+}

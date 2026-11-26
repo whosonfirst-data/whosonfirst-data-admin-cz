@@ -1,0 +1,72 @@
+{
+  "id": 9895016237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51166,49.54819,14.51166,49.54819",
+    "geom:latitude":49.54819,
+    "geom:longitude":14.51166,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118158: name \"Jankov\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118158"
+        },
+        {
+            "citation":"GeoNames populated place 13118158: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118158"
+        },
+        {
+            "citation":"GeoNames populated place 13118158: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118158"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682461 (St\u0159edo\u010desk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682461,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118158
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f663e59001daaf866a653b3a1ab0e438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016237,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":9895016237,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Jankov",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51166,
+    49.54819,
+    14.51166,
+    49.54819
+],
+  "geometry": {"coordinates":[14.51166,49.54819],"type":"Point"}
+}

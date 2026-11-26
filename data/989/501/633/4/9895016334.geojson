@@ -1,0 +1,73 @@
+{
+  "id": 9895016334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21767,49.42906,18.21767,49.42906",
+    "geom:latitude":49.42906,
+    "geom:longitude":18.21767,
+    "gn:population":1974,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562496: name \"Hutisko-Solanec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562496"
+        },
+        {
+            "citation":"GeoNames populated place 13562496: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562496"
+        },
+        {
+            "citation":"GeoNames populated place 13562496: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562496"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682419 (Zl\u00ednsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682419,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562496
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"cbe093a0f83c607a1bdfc1ac6f19e5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016334,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":9895016334,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Hutisko-Solanec",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21767,
+    49.42906,
+    18.21767,
+    49.42906
+],
+  "geometry": {"coordinates":[18.21767,49.42906],"type":"Point"}
+}

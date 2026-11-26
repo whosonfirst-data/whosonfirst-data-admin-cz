@@ -1,0 +1,73 @@
+{
+  "id": 9895016365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35988,48.93319,14.35988,48.93319",
+    "geom:latitude":48.93319,
+    "geom:longitude":14.35988,
+    "gn:population":112,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13592060: name \"Hradce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13592060"
+        },
+        {
+            "citation":"GeoNames populated place 13592060: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13592060"
+        },
+        {
+            "citation":"GeoNames populated place 13592060: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13592060"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682415 (Jiho\u010desk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682415,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13592060
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"69134555387a00851acfff319d2b6e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016365,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":9895016365,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Hradce",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35988,
+    48.93319,
+    14.35988,
+    48.93319
+],
+  "geometry": {"coordinates":[14.35988,48.93319],"type":"Point"}
+}

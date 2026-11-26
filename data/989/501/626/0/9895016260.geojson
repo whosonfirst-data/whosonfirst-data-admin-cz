@@ -1,0 +1,72 @@
+{
+  "id": 9895016260,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56157,50.73558,15.56157,50.73558",
+    "geom:latitude":50.73558,
+    "geom:longitude":15.56157,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494438: name \"Misecky\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494438"
+        },
+        {
+            "citation":"GeoNames populated place 13494438: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494438"
+        },
+        {
+            "citation":"GeoNames populated place 13494438: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494438"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682473 (Libereck\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682473,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494438
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"e0ee187f00dd4fc628d424059144c2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016260,
+            "region_id":85682473
+        }
+    ],
+    "wof:id":9895016260,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Misecky",
+    "wof:parent_id":85682473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56157,
+    50.73558,
+    15.56157,
+    50.73558
+],
+  "geometry": {"coordinates":[15.56157,50.73558],"type":"Point"}
+}

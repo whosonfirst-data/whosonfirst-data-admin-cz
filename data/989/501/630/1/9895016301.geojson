@@ -1,0 +1,73 @@
+{
+  "id": 9895016301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17044,49.28385,17.17044,49.28385",
+    "geom:latitude":49.28385,
+    "geom:longitude":17.17044,
+    "gn:population":262,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562339: name \"Kov\u00e1lovice-Os\u00ed\u010dany\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562339"
+        },
+        {
+            "citation":"GeoNames populated place 13562339: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562339"
+        },
+        {
+            "citation":"GeoNames populated place 13562339: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562339"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682455 (Olomouck\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682455,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562339
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"36757fe29d1e80f88a4c0c44d5b92029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016301,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":9895016301,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Kov\u00e1lovice-Os\u00ed\u010dany",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17044,
+    49.28385,
+    17.17044,
+    49.28385
+],
+  "geometry": {"coordinates":[17.17044,49.28385],"type":"Point"}
+}

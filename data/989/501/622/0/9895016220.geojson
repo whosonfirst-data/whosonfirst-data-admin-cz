@@ -1,0 +1,73 @@
+{
+  "id": 9895016220,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50752,49.00252,15.50752,49.00252",
+    "geom:latitude":49.00252,
+    "geom:longitude":15.50752,
+    "gn:population":81,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12954209: name \"Panensk\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12954209"
+        },
+        {
+            "citation":"GeoNames populated place 12954209: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12954209"
+        },
+        {
+            "citation":"GeoNames populated place 12954209: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12954209"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682429 (Vyso\u010dina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682429,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12954209
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"06fd9d66eca7dfd11a6fb22f584544df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016220,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":9895016220,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Panensk\u00e1",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50752,
+    49.00252,
+    15.50752,
+    49.00252
+],
+  "geometry": {"coordinates":[15.50752,49.00252],"type":"Point"}
+}

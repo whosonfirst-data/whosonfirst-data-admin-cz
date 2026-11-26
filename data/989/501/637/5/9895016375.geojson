@@ -1,0 +1,72 @@
+{
+  "id": 9895016375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76032,49.27118,15.76032,49.27118",
+    "geom:latitude":49.27118,
+    "geom:longitude":15.76032,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645527: name \"Hynkov\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645527"
+        },
+        {
+            "citation":"GeoNames populated place 13645527: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645527"
+        },
+        {
+            "citation":"GeoNames populated place 13645527: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645527"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682429 (Vyso\u010dina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682429,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645527
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"9818959dccd65b6e1d4b49c6b8dc3fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016375,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":9895016375,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Hynkov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76032,
+    49.27118,
+    15.76032,
+    49.27118
+],
+  "geometry": {"coordinates":[15.76032,49.27118],"type":"Point"}
+}

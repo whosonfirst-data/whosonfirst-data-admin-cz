@@ -1,0 +1,72 @@
+{
+  "id": 9895016285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.46437,49.15763,13.46437,49.15763",
+    "geom:latitude":49.15763,
+    "geom:longitude":13.46437,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526857: name \"Mou\u0159ice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526857"
+        },
+        {
+            "citation":"GeoNames populated place 13526857: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526857"
+        },
+        {
+            "citation":"GeoNames populated place 13526857: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526857"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682433 (Plze\u0148sk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682433,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526857
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b3a23ea8d1423d8890aae12737528377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016285,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":9895016285,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Mou\u0159ice",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46437,
+    49.15763,
+    13.46437,
+    49.15763
+],
+  "geometry": {"coordinates":[13.46437,49.15763],"type":"Point"}
+}

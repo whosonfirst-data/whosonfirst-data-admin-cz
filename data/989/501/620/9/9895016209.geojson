@@ -1,0 +1,73 @@
+{
+  "id": 9895016209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4108,49.69866,15.4108,49.69866",
+    "geom:latitude":49.69866,
+    "geom:longitude":15.4108,
+    "gn:population":159,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12104316: name \"Druhanov\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12104316"
+        },
+        {
+            "citation":"GeoNames populated place 12104316: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12104316"
+        },
+        {
+            "citation":"GeoNames populated place 12104316: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12104316"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682429 (Vyso\u010dina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682429,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12104316
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c8d564e7c5e16cf9226595a53054e461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016209,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":9895016209,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Druhanov",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4108,
+    49.69866,
+    15.4108,
+    49.69866
+],
+  "geometry": {"coordinates":[15.4108,49.69866],"type":"Point"}
+}
