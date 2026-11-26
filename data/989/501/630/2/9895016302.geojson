@@ -1,0 +1,73 @@
+{
+  "id": 9895016302,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25357,49.53622,17.25357,49.53622",
+    "geom:latitude":49.53622,
+    "geom:longitude":17.25357,
+    "gn:population":870,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562340: name \"Ko\u017eu\u0161any-T\u00e1\u017ealy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562340"
+        },
+        {
+            "citation":"GeoNames populated place 13562340: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562340"
+        },
+        {
+            "citation":"GeoNames populated place 13562340: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562340"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682455 (Olomouck\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682455,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562340
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"820a7bb6f6727a9c26474d61979b6f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016302,
+            "region_id":85682455
+        }
+    ],
+    "wof:id":9895016302,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Ko\u017eu\u0161any-T\u00e1\u017ealy",
+    "wof:parent_id":85682455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25357,
+    49.53622,
+    17.25357,
+    49.53622
+],
+  "geometry": {"coordinates":[17.25357,49.53622],"type":"Point"}
+}

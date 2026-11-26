@@ -1,0 +1,72 @@
+{
+  "id": 9895016203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33533,50.58651,16.33533,50.58651",
+    "geom:latitude":50.58651,
+    "geom:longitude":16.33533,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11978692: name \"Po\u0159\u00ed\u010d\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11978692"
+        },
+        {
+            "citation":"GeoNames populated place 11978692: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11978692"
+        },
+        {
+            "citation":"GeoNames populated place 11978692: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11978692"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682465 (Kr\u00e1lov\u00e9hradeck\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682465,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11978692
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0a36c4af1e77aadff7b6190c7565c75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016203,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":9895016203,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Po\u0159\u00ed\u010d\u00ed",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33533,
+    50.58651,
+    16.33533,
+    50.58651
+],
+  "geometry": {"coordinates":[16.33533,50.58651],"type":"Point"}
+}

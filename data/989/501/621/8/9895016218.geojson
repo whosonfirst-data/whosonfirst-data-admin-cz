@@ -1,0 +1,72 @@
+{
+  "id": 9895016218,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09567,49.35973,15.09567,49.35973",
+    "geom:latitude":49.35973,
+    "geom:longitude":15.09567,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12494130: name \"Kn\u00ed\u017eata\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12494130"
+        },
+        {
+            "citation":"GeoNames populated place 12494130: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12494130"
+        },
+        {
+            "citation":"GeoNames populated place 12494130: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12494130"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682429 (Vyso\u010dina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682429,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12494130
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"1b07983e9de08fada762d08ff1f1acf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016218,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":9895016218,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Kn\u00ed\u017eata",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09567,
+    49.35973,
+    15.09567,
+    49.35973
+],
+  "geometry": {"coordinates":[15.09567,49.35973],"type":"Point"}
+}

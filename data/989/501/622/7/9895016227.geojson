@@ -1,0 +1,72 @@
+{
+  "id": 9895016227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78516,50.11783,14.78516,50.11783",
+    "geom:latitude":50.11783,
+    "geom:longitude":14.78516,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13100167: name \"\u017dupava\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13100167"
+        },
+        {
+            "citation":"GeoNames populated place 13100167: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13100167"
+        },
+        {
+            "citation":"GeoNames populated place 13100167: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13100167"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682461 (St\u0159edo\u010desk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682461,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13100167
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"f92efd10262ce36429ee85f45aba3cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016227,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":9895016227,
+    "wof:lastmodified":1795735062,
+    "wof:name":"\u017dupava",
+    "wof:parent_id":85682461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78516,
+    50.11783,
+    14.78516,
+    50.11783
+],
+  "geometry": {"coordinates":[14.78516,50.11783],"type":"Point"}
+}

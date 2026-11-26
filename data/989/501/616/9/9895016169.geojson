@@ -1,0 +1,72 @@
+{
+  "id": 9895016169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94189,50.50435,15.94189,50.50435",
+    "geom:latitude":50.50435,
+    "geom:longitude":15.94189,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3064812: name \"Studenec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3064812"
+        },
+        {
+            "citation":"GeoNames populated place 3064812: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3064812"
+        },
+        {
+            "citation":"GeoNames populated place 3064812: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3064812"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682465 (Kr\u00e1lov\u00e9hradeck\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682465,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3064812
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"0cce882d2a20a11e05a8d57cc1f56f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016169,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":9895016169,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Studenec",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94189,
+    50.50435,
+    15.94189,
+    50.50435
+],
+  "geometry": {"coordinates":[15.94189,50.50435],"type":"Point"}
+}

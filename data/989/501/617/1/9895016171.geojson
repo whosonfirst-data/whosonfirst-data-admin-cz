@@ -1,0 +1,73 @@
+{
+  "id": 9895016171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31004,50.37262,16.31004,50.37262",
+    "geom:latitude":50.37262,
+    "geom:longitude":16.31004,
+    "gn:population":393,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3069024: name \"Ole\u0161nice v Orlick\u00fdch hor\u00e1ch\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3069024"
+        },
+        {
+            "citation":"GeoNames populated place 3069024: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3069024"
+        },
+        {
+            "citation":"GeoNames populated place 3069024: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3069024"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682465 (Kr\u00e1lov\u00e9hradeck\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682465,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069024
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"09187dcdbfaecb72c855430364e45517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016171,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":9895016171,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Ole\u0161nice v Orlick\u00fdch hor\u00e1ch",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31004,
+    50.37262,
+    16.31004,
+    50.37262
+],
+  "geometry": {"coordinates":[16.31004,50.37262],"type":"Point"}
+}

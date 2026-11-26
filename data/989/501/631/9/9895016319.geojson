@@ -1,0 +1,73 @@
+{
+  "id": 9895016319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96584,49.23848,16.96584,49.23848",
+    "geom:latitude":49.23848,
+    "geom:longitude":16.96584,
+    "gn:population":621,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562477: name \"Ro\u0161t\u011bnice-Zvonovice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562477"
+        },
+        {
+            "citation":"GeoNames populated place 13562477: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562477"
+        },
+        {
+            "citation":"GeoNames populated place 13562477: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562477"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682423 (Jihomoravsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682423,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562477
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"ada28ff0b157c49e4ccaff3bf1023fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016319,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":9895016319,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Ro\u0161t\u011bnice-Zvonovice",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96584,
+    49.23848,
+    16.96584,
+    49.23848
+],
+  "geometry": {"coordinates":[16.96584,49.23848],"type":"Point"}
+}

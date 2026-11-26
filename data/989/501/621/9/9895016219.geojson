@@ -1,0 +1,72 @@
+{
+  "id": 9895016219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97208,49.43226,17.97208,49.43226",
+    "geom:latitude":49.43226,
+    "geom:longitude":17.97208,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12748142: name \"Podles\u00ed Potoky\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12748142"
+        },
+        {
+            "citation":"GeoNames populated place 12748142: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12748142"
+        },
+        {
+            "citation":"GeoNames populated place 12748142: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12748142"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682419 (Zl\u00ednsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682419,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12748142
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"6bbb1e1f7a94a09e7e204a7324836d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016219,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":9895016219,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Podles\u00ed Potoky",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97208,
+    49.43226,
+    17.97208,
+    49.43226
+],
+  "geometry": {"coordinates":[17.97208,49.43226],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895016274,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61082,49.54283,12.61082,49.54283",
+    "geom:latitude":49.54283,
+    "geom:longitude":12.61082,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526794: name \"Ple\u0161\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526794"
+        },
+        {
+            "citation":"GeoNames populated place 13526794: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526794"
+        },
+        {
+            "citation":"GeoNames populated place 13526794: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526794"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682433 (Plze\u0148sk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682433,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526794
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"386fe8288d94ca6e94f77b843e962f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016274,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":9895016274,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Ple\u0161",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61082,
+    49.54283,
+    12.61082,
+    49.54283
+],
+  "geometry": {"coordinates":[12.61082,49.54283],"type":"Point"}
+}

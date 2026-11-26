@@ -1,0 +1,73 @@
+{
+  "id": 9895016310,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01389,50.23107,13.01389,50.23107",
+    "geom:latitude":50.23107,
+    "geom:longitude":13.01389,
+    "gn:population":163,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562356: name \"Doupovsk\u00e9 Hradi\u0161t\u011b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562356"
+        },
+        {
+            "citation":"GeoNames populated place 13562356: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562356"
+        },
+        {
+            "citation":"GeoNames populated place 13562356: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562356"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682447 (Karlovarsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682447,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562356
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"02691f845f04da8fffd01157e61d3d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016310,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":9895016310,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Doupovsk\u00e9 Hradi\u0161t\u011b",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01389,
+    50.23107,
+    13.01389,
+    50.23107
+],
+  "geometry": {"coordinates":[13.01389,50.23107],"type":"Point"}
+}

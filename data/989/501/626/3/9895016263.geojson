@@ -1,0 +1,72 @@
+{
+  "id": 9895016263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7327,50.58547,15.7327,50.58547",
+    "geom:latitude":50.58547,
+    "geom:longitude":15.7327,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526669: name \"Nieder-Hermannseifen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526669"
+        },
+        {
+            "citation":"GeoNames populated place 13526669: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526669"
+        },
+        {
+            "citation":"GeoNames populated place 13526669: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526669"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682465 (Kr\u00e1lov\u00e9hradeck\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682465,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526669
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"3b6e7e2d567b4b632b3a8acf78e520a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016263,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":9895016263,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Nieder-Hermannseifen",
+    "wof:parent_id":85682465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7327,
+    50.58547,
+    15.7327,
+    50.58547
+],
+  "geometry": {"coordinates":[15.7327,50.58547],"type":"Point"}
+}

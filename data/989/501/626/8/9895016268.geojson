@@ -1,0 +1,72 @@
+{
+  "id": 9895016268,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.12123,50.17614,13.12123,50.17614",
+    "geom:latitude":50.17614,
+    "geom:longitude":13.12123,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526747: name \"Rado\u0161ovice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526747"
+        },
+        {
+            "citation":"GeoNames populated place 13526747: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526747"
+        },
+        {
+            "citation":"GeoNames populated place 13526747: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526747"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682447 (Karlovarsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682447,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526747
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"c7f0298140b6edc2040bf3daf5755ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016268,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":9895016268,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Rado\u0161ovice",
+    "wof:parent_id":85682447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.12123,
+    50.17614,
+    13.12123,
+    50.17614
+],
+  "geometry": {"coordinates":[13.12123,50.17614],"type":"Point"}
+}

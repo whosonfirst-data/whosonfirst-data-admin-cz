@@ -1,0 +1,73 @@
+{
+  "id": 9895016344,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.30559,48.8048,16.30559,48.8048",
+    "geom:latitude":48.8048,
+    "geom:longitude":16.30559,
+    "gn:population":407,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13580028: name \"Velk\u00fd Karlov\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13580028"
+        },
+        {
+            "citation":"GeoNames populated place 13580028: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13580028"
+        },
+        {
+            "citation":"GeoNames populated place 13580028: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13580028"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682423 (Jihomoravsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682423,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13580028
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"b0674bc2b18ba497bb607f1f8f02f317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016344,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":9895016344,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Velk\u00fd Karlov",
+    "wof:parent_id":85682423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30559,
+    48.8048,
+    16.30559,
+    48.8048
+],
+  "geometry": {"coordinates":[16.30559,48.8048],"type":"Point"}
+}

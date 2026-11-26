@@ -1,0 +1,73 @@
+{
+  "id": 9895016318,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23648,49.27318,17.23648,49.27318",
+    "geom:latitude":49.27318,
+    "geom:longitude":17.23648,
+    "gn:population":696,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562476: name \"Po\u010denice-Tet\u011btice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562476"
+        },
+        {
+            "citation":"GeoNames populated place 13562476: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562476"
+        },
+        {
+            "citation":"GeoNames populated place 13562476: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562476"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682419 (Zl\u00ednsk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682419,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562476
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"8d8b3623fc60bdbef78c60af09eccedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016318,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":9895016318,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Po\u010denice-Tet\u011btice",
+    "wof:parent_id":85682419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23648,
+    49.27318,
+    17.23648,
+    49.27318
+],
+  "geometry": {"coordinates":[17.23648,49.27318],"type":"Point"}
+}

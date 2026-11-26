@@ -1,0 +1,72 @@
+{
+  "id": 9895016216,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69496,49.30342,14.69496,49.30342",
+    "geom:latitude":49.30342,
+    "geom:longitude":14.69496,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12172501: name \"Skalice nad Lu\u017enic\u00ed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12172501"
+        },
+        {
+            "citation":"GeoNames populated place 12172501: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12172501"
+        },
+        {
+            "citation":"GeoNames populated place 12172501: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12172501"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682415 (Jiho\u010desk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682415,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12172501
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2d3ca3fe2f55e26ba119d4ad2620b63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016216,
+            "region_id":85682415
+        }
+    ],
+    "wof:id":9895016216,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Skalice nad Lu\u017enic\u00ed",
+    "wof:parent_id":85682415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69496,
+    49.30342,
+    14.69496,
+    49.30342
+],
+  "geometry": {"coordinates":[14.69496,49.30342],"type":"Point"}
+}

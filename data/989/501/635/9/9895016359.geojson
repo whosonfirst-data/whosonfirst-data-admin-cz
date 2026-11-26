@@ -1,0 +1,73 @@
+{
+  "id": 9895016359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89788,49.56618,15.89788,49.56618",
+    "geom:latitude":49.56618,
+    "geom:longitude":15.89788,
+    "gn:population":1587,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13589520: name \"Hamry nad S\u00e1zavou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13589520"
+        },
+        {
+            "citation":"GeoNames populated place 13589520: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13589520"
+        },
+        {
+            "citation":"GeoNames populated place 13589520: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13589520"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682429 (Vyso\u010dina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682429,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13589520
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"495cec6c82dc467944b23bbfc9fc7d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016359,
+            "region_id":85682429
+        }
+    ],
+    "wof:id":9895016359,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Hamry nad S\u00e1zavou",
+    "wof:parent_id":85682429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89788,
+    49.56618,
+    15.89788,
+    49.56618
+],
+  "geometry": {"coordinates":[15.89788,49.56618],"type":"Point"}
+}

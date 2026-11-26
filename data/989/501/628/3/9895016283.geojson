@@ -1,0 +1,72 @@
+{
+  "id": 9895016283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27937,49.22467,13.27937,49.22467",
+    "geom:latitude":49.22467,
+    "geom:longitude":13.27937,
+    "iso:country":"CZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526855: name \"Sch\u00fcrer\u016fv Dv\u016fr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526855"
+        },
+        {
+            "citation":"GeoNames populated place 13526855: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526855"
+        },
+        {
+            "citation":"GeoNames populated place 13526855: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526855"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85682433 (Plze\u0148sk\u00fd), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633105,
+        85682433,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526855
+    },
+    "wof:country":"CZ",
+    "wof:geomhash":"2fd652d769feea3beb6f0c3f9be608b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":9895016283,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":9895016283,
+    "wof:lastmodified":1795735062,
+    "wof:name":"Sch\u00fcrer\u016fv Dv\u016fr",
+    "wof:parent_id":85682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27937,
+    49.22467,
+    13.27937,
+    49.22467
+],
+  "geometry": {"coordinates":[13.27937,49.22467],"type":"Point"}
+}
